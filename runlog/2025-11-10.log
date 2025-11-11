@@ -1,4 +1,4 @@
-[2025-11-11 08:23:03] 开始执行论文搜索任务
+[2025-11-11 08:50:47] 开始执行论文搜索任务
 搜索关键词: LLM,Verilog
 搜索日期范围: 2025-11-10
 正在获取论文...
@@ -9,4 +9,4 @@
 [NO] 1/1 | Chatbot Framework for Power Quality Measurement Data and Documentation Using LLM and RAG
 筛选完成：共 1 篇；Yes = 0 篇；已保存到 papers/select_paper2025-11-10.json。
 邮件发送成功！
-[2025-11-11 08:23:15] 任务执行成功！
+[2025-11-11 08:50:56] 任务执行成功！
