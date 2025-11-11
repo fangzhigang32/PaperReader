@@ -6,17 +6,40 @@ on:
 jobs:
   run-python:
     runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_API_BAS: ${{ secrets.OPENAI_API_BASE }}
+      MODEL_PROVIDER: ${{ secrets.MODEL_PROVIDER }}
+      MODEL: ${{ secrets.MODEL }}
+      SEARCH_TEXT: ${{ secrets.SEARCH_TEXT }}
+      ARXIV_COUNT: ${{ secrets.ARXIV_COUNT }}
+      CROSSREF_COUNT: ${{ secrets.CROSSREF_COUNT }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.12'
+          python-version-file: "pyproject.toml"
 
-      - name: Run test.py
-        run: python test.py
-        env:
-          USERNAME: ${{ secrets.USERNAME }}
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+          version: "0.9.7"
+
+      - name: Synchronous Dependencies
+        run: uv sync --locked --all-extras --dev
+        
+      - name: Run main.py
+        run: uv run src/main.py
+        
+
+      - name: Upload Logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-logs
+          path: runlog/
