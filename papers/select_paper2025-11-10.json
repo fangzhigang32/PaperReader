@@ -1,13 +1,1 @@
-[
-  {
-    "date": "2025-11-10",
-    "title": "Grid CoPilot: A Large Language Model (LLM) based framework for Transforming Long-term Planning Analyses",
-    "authors": "Sarthak Chaturvedi, Sichen Jin, Shrirang Abhyankar, Travis Thurber, Kostas Oikonomou, Nathalie Voisin",
-    "publish": "2025 IEEE Power &amp;amp; Energy Society General Meeting (PESGM)",
-    "url": "https://doi.org/10.1109/pesgm52009.2025.11225574",
-    "source": "IEEE",
-    "abstract": "This paper presents a novel approach to streamline, analyze, and visualize long-term planning simulation results using a large language model (LLM). We discuss the design, implementation, and performance of GridCoPilot - a first of its kind tool developed using ChatGPT - to analyze and visualize data from PCM simulations of long term planning studies. Grid Copilot processes PCM data generating concise textual summaries and context-aware visualizations, providing users with comprehensive insights. By automating data processing and visualization tasks, Grid Copilot significantly reduces the technical barriers to data analysis for long term planning studies. This enhancement can allow analysts, and policymakers to focus on interpreting results and making informed decisions, rather than grappling with data manipulation and visualization code.",
-    "title_zh": "Grid CoPilot：一种基于大型语言模型（LLM）的框架，用于转化长期规划分析",
-    "abstract_zh": "本文提出了一种利用大语言模型（LLM）来简化、分析和可视化长期规划仿真结果的新方法。我们详细讨论了GridCoPilot——一款基于ChatGPT开发的首创工具的设计、实现与性能表现，该工具用于分析和可视化长期规划研究中PCM仿真产生的数据。GridCoPilot能够处理PCM数据，生成简洁的文本摘要和上下文感知的可视化图表，为用户提供全面的洞察。通过自动化数据处理与可视化任务，GridCoPilot显著降低了长期规划研究中数据分析的技术门槛。这一改进使分析师和政策制定者能够更专注于结果解读与决策制定，而无需耗费精力于数据处理和可视化代码的编写。"
-  }
-]
+[]

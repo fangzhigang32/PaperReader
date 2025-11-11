@@ -1,20 +1,14 @@
-[2025-11-11 09:17:17] 开始执行论文搜索任务
+[2025-11-11 09:19:21] 开始执行论文搜索任务
 搜索关键词: LLM Verilog
 搜索日期范围: 2025-11-10
 正在获取论文...
 [IEEE] 2025-11-10 | Chatbot Framework for Power Quality Measurement Data and Documentation Using LLM and RAG
 [IEEE] 2025-11-10 | LLM-Based Data Augmentation Method in Reinforcement Learning With Machine-Unlearning and Fine-Tuning
-[IEEE] 2025-11-10 | Grid CoPilot: A Large Language Model (LLM) based framework for Transforming Long-term Planning Analyses
-[IEEE] 2025-11-10 | Could vs Should: Exploring Prompting Strategies and Writer Perspectives Towards LLM Assistance in Storylet Authoring
-[ACM] 2025-11-10 | LLM-OFA: On-the-Fly Adaptation of Large Language Models to Address Temporal Drift Across Two Decades of News
-共写入 5 条记录，保存到 papers/paper2025-11-10.json。
+共写入 2 条记录，保存到 papers/paper2025-11-10.json。
 论文获取成功，文件路径: papers/paper2025-11-10.json
 正在筛选、翻译并发送邮件...
-[NO] 1/5 | Chatbot Framework for Power Quality Measurement Data and Documentation Using LLM and RAG
-[NO] 2/5 | LLM-Based Data Augmentation Method in Reinforcement Learning With Machine-Unlearning and Fine-Tuning
-[YES] 3/5 | Grid CoPilot: A Large Language Model (LLM) based framework for Transforming Long-term Planning Analyses
-[NO] 4/5 | Could vs Should: Exploring Prompting Strategies and Writer Perspectives Towards LLM Assistance in Storylet Authoring
-[NO] 5/5 | LLM-OFA: On-the-Fly Adaptation of Large Language Models to Address Temporal Drift Across Two Decades of News
-筛选完成：共 5 篇；Yes = 1 篇；已保存到 papers/select_paper2025-11-10.json。
+[NO] 1/2 | Chatbot Framework for Power Quality Measurement Data and Documentation Using LLM and RAG
+[NO] 2/2 | LLM-Based Data Augmentation Method in Reinforcement Learning With Machine-Unlearning and Fine-Tuning
+筛选完成：共 2 篇；Yes = 0 篇；已保存到 papers/select_paper2025-11-10.json。
 邮件发送成功！
-[2025-11-11 09:17:55] 任务执行成功！
+[2025-11-11 09:19:32] 任务执行成功！
