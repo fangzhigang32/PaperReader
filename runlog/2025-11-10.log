@@ -1,4 +1,4 @@
-[2025-11-11 08:09:12] 开始执行论文搜索任务
+[2025-11-11 08:12:19] 开始执行论文搜索任务
 搜索关键词: LLM Verilog
 搜索日期范围: 2025-11-10
 正在获取论文...
@@ -6,8 +6,8 @@
 共写入 1 条记录，保存到 papers/paper2025-11-10.json。
 论文获取成功，文件路径: papers/paper2025-11-10.json
 正在筛选、翻译并发送邮件...
-判定相关性时出错： Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-wCTNj*************ghUw. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+判定相关性时出错： Error code: 401 - {'error': {'message': 'Incorrect API key provided: "sk-wCTN***************hUw". You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
 [NO] 1/1 | Chatbot Framework for Power Quality Measurement Data and Documentation Using LLM and RAG
 筛选完成：共 1 篇；Yes = 0 篇；已保存到 papers/select_paper2025-11-10.json。
 邮件发送成功！
-[2025-11-11 08:09:19] 任务执行成功！
+[2025-11-11 08:12:26] 任务执行成功！
