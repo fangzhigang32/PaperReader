@@ -1,11 +1,13 @@
 name: PaperReader
 
-on: 
+on:
   workflow_dispatch:
 
 jobs:
   run-python:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 新增：允许写入仓库（push 权限）
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_API_BAS: ${{ secrets.OPENAI_API_BASE }}
@@ -32,14 +34,22 @@ jobs:
 
       - name: Synchronous Dependencies
         run: uv sync --locked --all-extras --dev
-        
+
       - name: Run main.py
         run: uv run src/main.py
-        
 
-      - name: Upload Logs
-        if: always()
-        uses: actions/upload-artifact@v4
+      - name: Commit generated papers to repository # 新增：commit 文件
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add papers/ || true  # 添加 papers 文件夹（如果为空，忽略错误）
+          git add runlog/ || true  # 可选：也添加日志
+          git diff --staged --quiet || git commit -m "Add generated papers and logs from run ${{ github.run_number }}"  # 只在有变化时 commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push changes to repository # 新增：push 到仓库
+        uses: ad-m/github-push-action@v0.8.0 # 使用官方 Action 简化 push（可选，手动 git push 也行）
         with:
-          name: run-logs
-          path: runlog/
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref_name }} # push 到当前分支
