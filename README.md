@@ -153,7 +153,7 @@ uv run src/main.py
 ✅ 检查以下配置项：`SENDER_EMAIL`、`SENDER_PASS`、`SMTP_SERVER`、`SMTP_PORT`  
 ✅ 确认发送邮箱已开启 **SMTP 服务**：
 - QQ 邮箱：设置 → 账户 → 开启 POP3/IMAP/SMTP
-- Gmail：开启两步验证 → 创建应用专用密码  
+- Gmail：开启两步验证 → 创建应用专用密码
 ✅ 查看运行日志：
 - 本地运行：直接查看终端输出  
 - GitHub Action：`Actions → 对应运行记录 → 查看日志`
@@ -183,5 +183,6 @@ uv run src/main.py
 - 请合理设置检索频率与数量，避免对数据库服务器造成不必要压力  
 
 ---
+
 
 
