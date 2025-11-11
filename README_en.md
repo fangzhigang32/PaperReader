@@ -72,7 +72,7 @@ Add the following **required Secrets**:
 
 Set the same variables locally as you did in GitHub Secrets.
 
-#### 🪟 Windows (PowerShell)
+#### 🐧 Windows (PowerShell)
 
 ```powershell
 $env:OPENAI_API_KEY="your_api_key"
@@ -131,17 +131,7 @@ Example section to modify:
 
 ```python
 user_template = """
-My research focuses on Electronic Design Automation (EDA) and Large Language Model (LLM)-assisted chip design.
-
-It includes code generation, static code analysis, lint violation detection and repair, coding standard violations, and security vulnerabilities.
-
-Please determine whether the following paper is related to or potentially useful for my research.
-
-If the paper involves EDA, code generation, code analysis, program repair, code quality improvement, or automatic error detection, please answer "Yes". Otherwise, please answer "No".
-
-Title: {title}
-
-Abstract: {abstract}
+My research focuses on Electronic Design Automation (EDA) and Large Language Model (LLM)-assisted chip design.\n\nIt includes code generation, static code analysis, lint violation detection and repair, coding standard violations, and security vulnerabilities.\n\nPlease determine whether the following paper is related to or potentially useful for my research.\n\nIf the paper involves EDA, code generation, code analysis, program repair, code quality improvement, or automatic error detection, please answer "Yes". Otherwise, please answer "No".\n\nTitle: {title}\n\nAbstract: {abstract}
 """
 ```
 
@@ -161,7 +151,8 @@ uv run src/main.py
 ✅ Check the following: `SENDER_EMAIL`, `SENDER_PASS`, `SMTP_SERVER`, `SMTP_PORT`  
 ✅ Ensure SMTP service is enabled:  
 - QQ Mail: Settings → Account → Enable POP3/IMAP/SMTP  
-- Gmail: Enable two-step verification → Create app-specific password  
+- Gmail: Enable two-step verification → Create app-specific password
+
 ✅ Check logs:  
 - Local: Terminal output  
 - GitHub Actions: `Actions → Workflow run → View logs`
