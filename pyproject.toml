@@ -1,0 +1,13 @@
+[project]
+name = "paperreader"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "drissionpage>=4.1.1.2",
+    "feedparser>=6.0.12",
+    "langchain>=1.0.4",
+    "langchain-openai>=1.0.2",
+    "requests>=2.32.5",
+]
