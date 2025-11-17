@@ -1,14 +1,14 @@
-[2025-11-17 12:23:02] 开始执行论文搜索任务
-搜索关键词: verilog
+[2025-11-17 12:51:41] 开始执行论文搜索任务
+搜索关键词: code
 搜索日期范围: 2025-11-16
 正在获取论文...
-[ACM] 2025-11-17 | Understanding Users' Privacy Perceptions Towards LLM's RAG-based Memory
 [ACM] 2025-11-17 | Optimal Strategy in the Werewolf Game: A Theoretical Study
+[ACM] 2025-11-17 | Understanding Users' Privacy Perceptions Towards LLM's RAG-based Memory
 [ACM] 2025-11-17 | FlexSFP: Rethinking Network Intelligence Inside the Cable
 [ACM] 2025-11-17 | Rethinking Geolocalization on the Internet
-[ACM] 2025-11-17 | "I Apologize For Not Understanding Your Policy": Exploring the Evaluation of User-Managed Access Control Policies by AI Virtual Assistants
 [ACM] 2025-11-17 | The Case for Crowd-Sourcing Communication to BLE-Only Devices
 [ACM] 2025-11-17 | Faster-than-light coordination for networked systems with quantum non-local games
+[ACM] 2025-11-17 | "I Apologize For Not Understanding Your Policy": Exploring the Evaluation of User-Managed Access Control Policies by AI Virtual Assistants
 [ACM] 2025-11-17 | Unambiguous, Randomized, and Symmetric Catalytic Computation
 [ACM] 2025-11-17 | One to Many: Closing the Bandwidth Gap in AI Datacenters with Scalable Multicast
 [ACM] 2025-11-17 | Above the Clouds: New Software Challenges in Space Computing
@@ -22,49 +22,137 @@
 [ACM] 2025-11-17 | Unveiling and Engaging with the Humans of Networking Research
 [ACM] 2025-11-17 | Software Managed Networks via Coarsening
 [ACM] 2025-11-17 | Programmable and Adaptive Scheduling for Distributed Systems
-共写入 20 条记录，保存到 papers/paper2025-11-16.json。
+[ACM] 2025-11-17 | Towards Incremental MTU Upgrade for the Internet
+[ACM] 2025-11-17 | Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI
+[ACM] 2025-11-17 | A Call to Arms: Motivating An Internet Measurements Observatory for Africa
+[ACM] 2025-11-17 | Web3Agent: Automating On-Chain Operations via Natural Language Interfaces
+[ACM] 2025-11-17 | A Case for Learned Cloud Emulators
+[ACM] 2025-11-17 | Path-Oblivious Entanglement Swapping for the Quantum Internet
+[ACM] 2025-11-17 | Your network doesn't end at the NIC
+[ACM] 2025-11-17 | The Small World Web of AI
+[ACM] 2025-11-17 | LLM-as-a-Judge for Privacy Evaluation? Exploring the Alignment of Human and LLM Perceptions of Privacy in Textual Data
+[ACM] 2025-11-17 | Privi: Assisting Users in Authoring Contextual Privacy Rules with an LLM Sandbox
+[ACM] 2025-11-17 | Towards Structurally Extensible Host Network Stacks
+[ACM] 2025-11-17 | Anyone, Anywhere, not Everyone, Everywhere: Starlink Doesn't End the Digital Divide
+[ACM] 2025-11-17 | Towards Trustworthy AI: A Review of Ethical and Robust Large Language Models
+[ACM] 2025-11-17 | Towards an Agentic Workflow for Internet Measurement Research
+[ACM] 2025-11-17 | The Impact of LLM Assistance on User Spam Detection
+[ACM] 2025-11-17 | When Light Bends to the Collective Will: A Theory and Vision for Adaptive Photonic Scale-up Domains
+[ACM] 2025-11-17 | Leveraging Certificate Transparency to Mitigate Downgrade Attacks
+[ACM] 2025-11-17 | Development and Validation of a Formal Model and Prototype for an Air Traffic Control System
+[ACM] 2025-11-17 | Non-Clairvoyant Makespan Minimization Scheduling with Predictions
+[ACM] 2025-11-17 | Lost in Translation: The Search for Meaning in Network-Attached AI Accelerator Disaggregation
+[ACM] 2025-11-17 | Beyond Permissions: Investigating Mobile Personalization with Simulated Personas
+[ACM] 2025-11-17 | Coinf: QoS-aware DRL-based Inference Task Scheduling Framework with Batching Processing
+[ACM] 2025-11-17 | Proceedings of the 24th ACM Workshop on Hot Topics in Networks
+[ACM] 2025-11-17 | From req/res to pub/sub: Exploring Media over QUIC Transport for DNS
+[ACM] 2025-11-17 | Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations
+[ACM] 2025-11-17 | Remote Direct Code Execution
+[ACM] 2025-11-17 | A Breath of Fresh Air: Visualizing How Networks “Breathe”
+[ACM] 2025-11-17 | Speculating Unintended Creepiness: Exploring LLM-Powered Empathy Building for Privacy-Aware UX Design
+[ACM] 2025-11-17 | The Internet as Sisyphus: Repeating Measurements, Missing Causes
+[ACM] 2025-11-17 | JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling
+[ACM] 2025-11-17 | GPUnion: Autonomous GPU Sharing on Campus
+[ACM] 2025-11-17 | Mitigating Inter-datacenter Incast with a Proxy
+[ACM] 2025-11-17 | Privacy Perception and Protection in Continuous Vision-Language Models Interaction (Position Paper)
+[ACM] 2025-11-17 | Towards Verifiable Network Telemetry without Special Purpose Hardware
+[ACM] 2025-11-17 | Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security
+[ACM] 2025-11-17 | Man-Made Heuristics Are Dead. Long Live Code Generators!
+[ACM] 2025-11-17 | Petabit Router-in-a-Package: Rethinking Internet Routers in the Age of In-Packaged Optics and Heterogeneous Integration
+[ACM] 2025-11-17 | Rethinking the Role of Network Stacks for Website Fingerprinting Defenses
+[ACM] 2025-11-17 | Tackling Ambiguity in User Intent for LLM-based Network Configuration Synthesis
+[ACM] 2025-11-17 | The Privacy Quagmire: Where Computer Scientists and Lawyers May Disagree
+[ACM] 2025-11-17 | Towards Aligning Personalized AI Agents with Users' Privacy Preference
+[ACM] 2025-11-17 | OpenDesc: From Static NIC Descriptors to Evolvable Metadata Interfaces
+[ACM] 2025-11-17 | Once Bitten, Still Shy: Can We Prevent Cloud Systems from Repeating Their Mistakes?
+[ACM] 2025-11-17 | Evaluating AI cyber capabilities with crowdsourced elicitation
+[ACM] 2025-11-17 | Modeling Metastability
+[ACM] 2025-11-17 | Supporting Analysts and Managers to Utilize Prescriptive Process Monitoring: A User Interface Design and Evaluation
+[ACM] 2025-11-17 | Data Centers Manufacturing Steel: Rethinking Industrial Networks in the Age of IT
+[ACM] 2025-11-17 | FlowPulse: Catching Network Failures in ML Clusters
+[ACM] 2025-11-17 | It Is Time to Address Network Power Proportionality
+[ACM] 2025-11-17 | Instruction Tuning for Large Language Models: A Survey
+[ACM] 2025-11-17 | Just-in-Time Logic Enforcement
+[ACM] 2025-11-17 | Asynchronous Wait-Free Runtime Verification and Enforcement of Linearizability
+[ACM] 2025-11-17 | Iterative Contextual Consent: AI-enabled Data Privacy Contracts
+[ACM] 2025-11-17 | Through Their Eyes: User Perceptions on Sensitive Attribute Inference of Social Media Videos by Visual Language Models
+共写入 74 条记录，保存到 papers/paper2025-11-16.json。
 论文获取成功，文件路径: papers/paper2025-11-16.json
 正在筛选、翻译并发送邮件...
-res= No
-[NO] 1/20 | Understanding Users' Privacy Perceptions Towards LLM's RAG-based Memory
-res= No
-[NO] 2/20 | Optimal Strategy in the Werewolf Game: A Theoretical Study
-res= No
-[NO] 3/20 | FlexSFP: Rethinking Network Intelligence Inside the Cable
-res= No
-[NO] 4/20 | Rethinking Geolocalization on the Internet
-res= No
-[NO] 5/20 | "I Apologize For Not Understanding Your Policy": Exploring the Evaluation of User-Managed Access Control Policies by AI Virtual Assistants
-res= No
-[NO] 6/20 | The Case for Crowd-Sourcing Communication to BLE-Only Devices
-res= No
-[NO] 7/20 | Faster-than-light coordination for networked systems with quantum non-local games
-res= No
-[NO] 8/20 | Unambiguous, Randomized, and Symmetric Catalytic Computation
-res= No
-[NO] 9/20 | One to Many: Closing the Bandwidth Gap in AI Datacenters with Scalable Multicast
-res= Yes
-[YES] 10/20 | Above the Clouds: New Software Challenges in Space Computing
-res= No
-[NO] 11/20 | Photonic Rails in ML Datacenters
-res= No
-[NO] 12/20 | Rethinking the Cost of Distributed Caches for Datacenter Services
-res= No
-[NO] 13/20 | A Modern Edge-based Design for Cellular Roaming
-res= No
-[NO] 14/20 | Towards Accessible Model-Free Verification
-res= No
-[NO] 15/20 | Beyond Lamport, Towards Probabilistic Fair Ordering
-res= No
-[NO] 16/20 | Automatically Surfacing Opportunities for Improvements In Internet-Scale Applications
-res= No
-[NO] 17/20 | Server Chiplet Networking
-res= No
-[NO] 18/20 | Unveiling and Engaging with the Humans of Networking Research
-res= No
-[NO] 19/20 | Software Managed Networks via Coarsening
-res= Yes
-[YES] 20/20 | Programmable and Adaptive Scheduling for Distributed Systems
-筛选完成：共 20 篇；Yes = 2 篇；已保存到 papers/select_paper2025-11-16.json。
+[NO] 1/74 | Optimal Strategy in the Werewolf Game: A Theoretical Study
+[NO] 2/74 | Understanding Users' Privacy Perceptions Towards LLM's RAG-based Memory
+[NO] 3/74 | FlexSFP: Rethinking Network Intelligence Inside the Cable
+[NO] 4/74 | Rethinking Geolocalization on the Internet
+[NO] 5/74 | The Case for Crowd-Sourcing Communication to BLE-Only Devices
+[NO] 6/74 | Faster-than-light coordination for networked systems with quantum non-local games
+[NO] 7/74 | "I Apologize For Not Understanding Your Policy": Exploring the Evaluation of User-Managed Access Control Policies by AI Virtual Assistants
+[NO] 8/74 | Unambiguous, Randomized, and Symmetric Catalytic Computation
+[NO] 9/74 | One to Many: Closing the Bandwidth Gap in AI Datacenters with Scalable Multicast
+[YES] 10/74 | Above the Clouds: New Software Challenges in Space Computing
+[NO] 11/74 | Photonic Rails in ML Datacenters
+[NO] 12/74 | Rethinking the Cost of Distributed Caches for Datacenter Services
+[NO] 13/74 | A Modern Edge-based Design for Cellular Roaming
+[NO] 14/74 | Towards Accessible Model-Free Verification
+[NO] 15/74 | Beyond Lamport, Towards Probabilistic Fair Ordering
+[NO] 16/74 | Automatically Surfacing Opportunities for Improvements In Internet-Scale Applications
+[NO] 17/74 | Server Chiplet Networking
+[NO] 18/74 | Unveiling and Engaging with the Humans of Networking Research
+[NO] 19/74 | Software Managed Networks via Coarsening
+[YES] 20/74 | Programmable and Adaptive Scheduling for Distributed Systems
+[NO] 21/74 | Towards Incremental MTU Upgrade for the Internet
+[NO] 22/74 | Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI
+[NO] 23/74 | A Call to Arms: Motivating An Internet Measurements Observatory for Africa
+[YES] 24/74 | Web3Agent: Automating On-Chain Operations via Natural Language Interfaces
+[YES] 25/74 | A Case for Learned Cloud Emulators
+[NO] 26/74 | Path-Oblivious Entanglement Swapping for the Quantum Internet
+[NO] 27/74 | Your network doesn't end at the NIC
+[NO] 28/74 | The Small World Web of AI
+[NO] 29/74 | LLM-as-a-Judge for Privacy Evaluation? Exploring the Alignment of Human and LLM Perceptions of Privacy in Textual Data
+[NO] 30/74 | Privi: Assisting Users in Authoring Contextual Privacy Rules with an LLM Sandbox
+[NO] 31/74 | Towards Structurally Extensible Host Network Stacks
+[NO] 32/74 | Anyone, Anywhere, not Everyone, Everywhere: Starlink Doesn't End the Digital Divide
+[NO] 33/74 | Towards Trustworthy AI: A Review of Ethical and Robust Large Language Models
+[YES] 34/74 | Towards an Agentic Workflow for Internet Measurement Research
+[NO] 35/74 | The Impact of LLM Assistance on User Spam Detection
+[NO] 36/74 | When Light Bends to the Collective Will: A Theory and Vision for Adaptive Photonic Scale-up Domains
+[NO] 37/74 | Leveraging Certificate Transparency to Mitigate Downgrade Attacks
+[NO] 38/74 | Development and Validation of a Formal Model and Prototype for an Air Traffic Control System
+[NO] 39/74 | Non-Clairvoyant Makespan Minimization Scheduling with Predictions
+[NO] 40/74 | Lost in Translation: The Search for Meaning in Network-Attached AI Accelerator Disaggregation
+[NO] 41/74 | Beyond Permissions: Investigating Mobile Personalization with Simulated Personas
+[NO] 42/74 | Coinf: QoS-aware DRL-based Inference Task Scheduling Framework with Batching Processing
+[NO] 43/74 | Proceedings of the 24th ACM Workshop on Hot Topics in Networks
+[NO] 44/74 | From req/res to pub/sub: Exploring Media over QUIC Transport for DNS
+[NO] 45/74 | Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations
+[NO] 46/74 | Remote Direct Code Execution
+[NO] 47/74 | A Breath of Fresh Air: Visualizing How Networks “Breathe”
+[NO] 48/74 | Speculating Unintended Creepiness: Exploring LLM-Powered Empathy Building for Privacy-Aware UX Design
+[NO] 49/74 | The Internet as Sisyphus: Repeating Measurements, Missing Causes
+[NO] 50/74 | JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling
+[NO] 51/74 | GPUnion: Autonomous GPU Sharing on Campus
+[NO] 52/74 | Mitigating Inter-datacenter Incast with a Proxy
+[NO] 53/74 | Privacy Perception and Protection in Continuous Vision-Language Models Interaction (Position Paper)
+[NO] 54/74 | Towards Verifiable Network Telemetry without Special Purpose Hardware
+[NO] 55/74 | Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security
+[YES] 56/74 | Man-Made Heuristics Are Dead. Long Live Code Generators!
+[NO] 57/74 | Petabit Router-in-a-Package: Rethinking Internet Routers in the Age of In-Packaged Optics and Heterogeneous Integration
+[NO] 58/74 | Rethinking the Role of Network Stacks for Website Fingerprinting Defenses
+[NO] 59/74 | Tackling Ambiguity in User Intent for LLM-based Network Configuration Synthesis
+[NO] 60/74 | The Privacy Quagmire: Where Computer Scientists and Lawyers May Disagree
+[NO] 61/74 | Towards Aligning Personalized AI Agents with Users' Privacy Preference
+[NO] 62/74 | OpenDesc: From Static NIC Descriptors to Evolvable Metadata Interfaces
+[NO] 63/74 | Once Bitten, Still Shy: Can We Prevent Cloud Systems from Repeating Their Mistakes?
+[NO] 64/74 | Evaluating AI cyber capabilities with crowdsourced elicitation
+[NO] 65/74 | Modeling Metastability
+[NO] 66/74 | Supporting Analysts and Managers to Utilize Prescriptive Process Monitoring: A User Interface Design and Evaluation
+[NO] 67/74 | Data Centers Manufacturing Steel: Rethinking Industrial Networks in the Age of IT
+[NO] 68/74 | FlowPulse: Catching Network Failures in ML Clusters
+[NO] 69/74 | It Is Time to Address Network Power Proportionality
+[NO] 70/74 | Instruction Tuning for Large Language Models: A Survey
+[NO] 71/74 | Just-in-Time Logic Enforcement
+[NO] 72/74 | Asynchronous Wait-Free Runtime Verification and Enforcement of Linearizability
+[NO] 73/74 | Iterative Contextual Consent: AI-enabled Data Privacy Contracts
+[NO] 74/74 | Through Their Eyes: User Perceptions on Sensitive Attribute Inference of Social Media Videos by Visual Language Models
+筛选完成：共 74 篇；Yes = 6 篇；已保存到 papers/select_paper2025-11-16.json。
 邮件发送成功！
-[2025-11-17 12:25:25] 任务执行成功！
+[2025-11-17 13:00:30] 任务执行成功！

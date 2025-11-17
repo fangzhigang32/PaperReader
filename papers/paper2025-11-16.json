@@ -1,21 +1,21 @@
 [
   {
     "date": "2025-11-17",
-    "title": "Understanding Users' Privacy Perceptions Towards LLM's RAG-based Memory",
-    "authors": "Shuning Zhang, Rongjun Ma, Ying Ma, Shixuan Li, Yiqun Xu, Xin Yi, Hewu Li",
-    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
-    "url": "https://doi.org/10.1145/3733816.3760750",
-    "source": "ACM",
-    "abstract": "Large Language Models (LLMs) are increasingly integrating memory functionalities to provide personalized and context-aware interactions. However, user understanding, practices and expectations regarding these memory systems are not yet well understood. This paper presents a thematic analysis of semi-structured interviews with 18 users to explore their mental models of LLM’s Retrieval Augmented Generation (RAG)-based memory, current usage practices, perceived benefits and drawbacks, privacy concerns and expectations for future memory systems. Our findings reveal diverse and often incomplete mental models of how memory operates. While users appreciate the potential for enhanced personalization and efficiency, significant concerns exist regarding privacy, control and the accuracy of remembered information. Users express a desire for granular control over memory generation, management, usage and updating, including clear mechanisms for reviewing, editing, deleting and categorizing memories, as well as transparent insight into how memories and inferred information are used. We discuss design implications for creating more user-centric, transparent, and trustworthy LLM memory systems."
-  },
-  {
-    "date": "2025-11-17",
     "title": "Optimal Strategy in the Werewolf Game: A Theoretical Study",
     "authors": "Shitong Wang",
     "publish": "Games: Research and Practice",
     "url": "https://doi.org/10.1145/3774646",
     "source": "ACM",
     "abstract": "In this paper, we investigate the optimal strategies in the Werewolf Game—a widely played strategic social deduction game involving two opposing factions—from a game-theoretic perspective. We consider two scenarios: the game without a prophet and the game with a prophet. In the scenario without a prophet, we propose an enhanced strategy called “random strategy+” that significantly improves the werewolf group’s winning probability over conventional random strategies. In the scenario with a prophet, we reformulate the game as an extensive-form Bayesian game under a specific constraint, and derive the prophet’s optimal strategy that induces a Perfect Bayesian Equilibrium (PBE). This study provides a rigorous analytical framework for modeling the Werewolf Game and offers broader insights into strategic decision-making under asymmetric and incomplete information."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Understanding Users' Privacy Perceptions Towards LLM's RAG-based Memory",
+    "authors": "Shuning Zhang, Rongjun Ma, Ying Ma, Shixuan Li, Yiqun Xu, Xin Yi, Hewu Li",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760750",
+    "source": "ACM",
+    "abstract": "Large Language Models (LLMs) are increasingly integrating memory functionalities to provide personalized and context-aware interactions. However, user understanding, practices and expectations regarding these memory systems are not yet well understood. This paper presents a thematic analysis of semi-structured interviews with 18 users to explore their mental models of LLM’s Retrieval Augmented Generation (RAG)-based memory, current usage practices, perceived benefits and drawbacks, privacy concerns and expectations for future memory systems. Our findings reveal diverse and often incomplete mental models of how memory operates. While users appreciate the potential for enhanced personalization and efficiency, significant concerns exist regarding privacy, control and the accuracy of remembered information. Users express a desire for granular control over memory generation, management, usage and updating, including clear mechanisms for reviewing, editing, deleting and categorizing memories, as well as transparent insight into how memories and inferred information are used. We discuss design implications for creating more user-centric, transparent, and trustworthy LLM memory systems."
   },
   {
     "date": "2025-11-17",
@@ -37,15 +37,6 @@
   },
   {
     "date": "2025-11-17",
-    "title": "\"I Apologize For Not Understanding Your Policy\": Exploring the Evaluation of User-Managed Access Control Policies by AI Virtual Assistants",
-    "authors": "Jennifer Mondragon, Gael Cruz, Carlos Rubio-Medrano, Dvijesh Shastri",
-    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
-    "url": "https://doi.org/10.1145/3733816.3760753",
-    "source": "ACM",
-    "abstract": "The rapid evolution of Artificial Intelligence (AI)-based Virtual Assistants (VAs), e.g., Google Gemini, ChatGPT, Microsoft Copilot, and High-Flyer Deepseek, has turned them into convenient interfaces for managing emerging technologies such as Smart Homes, Smart Cars, and Electronic Health Records. By leveraging explicit commands, e.g., prompts, which can be even launched via voice, VAs provide a very natural interface for end-users. However, the proper specification and evaluation of User-Managed Access Control Policies (U-MAPs), the rules issued and managed by end-users to govern access to sensitive data and device functionality within these VAs, presents significant challenges as this process is crucial for preventing security vulnerabilities and privacy leaks without impacting user experience. This work-in-progress study provides an initial exploratory investigation on whether current publicly-available VAs can manage U-MAPs effectively across differing scenarios. By conducting unstructured to structured tests, we evaluated the comprehension of such VAs, revealing a lack of understanding in varying U-MAP approaches. Our research not only identifies key limitations, but offers valuable insights into how VAs can be further improved to manage complex authorization rules and adapt to dynamic changes."
-  },
-  {
-    "date": "2025-11-17",
     "title": "The Case for Crowd-Sourcing Communication to BLE-Only Devices",
     "authors": "Alex Bellon, Tess Despres, Prabal Dutta, Pat Pannuto, Sylvia Ratnasamy",
     "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
@@ -61,6 +52,15 @@
     "url": "https://doi.org/10.1145/3772356.3772419",
     "source": "ACM",
     "abstract": "Many networked systems rely on hashing and randomized algorithms for tasks such as load balancing, thereby avoiding the need for coordination or communication among participants on each request. However, purely random routing can lead to collisions and missed opportunities for beneficial colocation. Quantum entanglement enables participants to instantly make correlated decisions without communicating. We explore how this capability can expand the Pareto frontier of achievable performance in networked systems, presenting both positive and negative results. Notably, many of these advantages can be realized using small, currently available quantum devices that can often operate at room temperature."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "\"I Apologize For Not Understanding Your Policy\": Exploring the Evaluation of User-Managed Access Control Policies by AI Virtual Assistants",
+    "authors": "Jennifer Mondragon, Gael Cruz, Carlos Rubio-Medrano, Dvijesh Shastri",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760753",
+    "source": "ACM",
+    "abstract": "The rapid evolution of Artificial Intelligence (AI)-based Virtual Assistants (VAs), e.g., Google Gemini, ChatGPT, Microsoft Copilot, and High-Flyer Deepseek, has turned them into convenient interfaces for managing emerging technologies such as Smart Homes, Smart Cars, and Electronic Health Records. By leveraging explicit commands, e.g., prompts, which can be even launched via voice, VAs provide a very natural interface for end-users. However, the proper specification and evaluation of User-Managed Access Control Policies (U-MAPs), the rules issued and managed by end-users to govern access to sensitive data and device functionality within these VAs, presents significant challenges as this process is crucial for preventing security vulnerabilities and privacy leaks without impacting user experience. This work-in-progress study provides an initial exploratory investigation on whether current publicly-available VAs can manage U-MAPs effectively across differing scenarios. By conducting unstructured to structured tests, we evaluated the comprehension of such VAs, revealing a lack of understanding in varying U-MAP approaches. Our research not only identifies key limitations, but offers valuable insights into how VAs can be further improved to manage complex authorization rules and adapt to dynamic changes."
   },
   {
     "date": "2025-11-17",
@@ -178,5 +178,491 @@
     "url": "https://doi.org/10.1145/3772356.3772391",
     "source": "ACM",
     "abstract": "Existing frameworks for managing distributed systems hard-code scheduling policies and their implementations (e.g., centralized vs. decentralized), limiting customization and hurting performance across diverse applications and workloads. We argue for an adaptive scheduling approach, where developers express policies in a high-level, framework-agnostic DSL, and a compiler generates optimized implementations based on policy semantics, workload characteristics, and execution environments. We demonstrate that our compiler-guided approach can significantly improve both scheduling quality and performance."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Towards Incremental MTU Upgrade for the Internet",
+    "authors": "Junghan Yoon, Youngmin Choi, Juyoung Park, Daehyeok Kim, Changhoon Kim, KyoungSoo Park",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772411",
+    "source": "ACM",
+    "abstract": "This paper proposes a systematic approach to incrementally enabling large MTUs in the Internet. We demonstrate that increasing the MTU size significantly enhances the performance of both middleboxes and end hosts. To bridge MTU mismatches at network borders, we introduce PacketExpress gateway (PXGW), an MTU-translating gateway that dynamically adjusts packet sizes for cross-traffic. PXGW merges and splits TCP payloads on the fly and tunnels UDP packets, ensuring seamless adaptation. Also, we propose F-PMTUD, a new path MTU discovery algorithm that determines the path MTU within a single round-trip without relying on ICMP. Our preliminary evaluation shows that the PXGW prototype achieves 1.45 Tbps of packet forwarding throughput using only 8 CPU cores. After dynamic conversion, 94% of transmitted TCP packets are 9000 B jumbo frames, indicating that most flows were effectively converted into large segments, thereby demonstrating the system's efficiency and scalability. We also find that large-MTU packets, made available via PXGW, enhance end-host performance by up to 2.5X."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI",
+    "authors": "Jiangkai Wu, Zhiyuan Ren, Liming Liu, Xinggong Zhang",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772390",
+    "source": "ACM",
+    "abstract": "AI Video Chat emerges as a new paradigm for Real-time Communication (RTC), where one peer is not a human, but a Multimodal Large Language Model (MLLM). This makes interaction between humans and AI more intuitive, as if chatting face-to-face with a real person. However, this poses significant challenges to latency, because the MLLM inference takes up most of the response time, leaving very little time for video streaming. Due to network uncertainty, transmission latency becomes a critical bottleneck preventing AI from being like a real person. To address this, we call for AI-oriented RTC research, exploring the network requirement shift from \"humans watching video\" to \"AI understanding video\". We begin by recognizing the main differences between AI Video Chat and traditional RTC. Then, through prototype measurements, we identify that ultra-low bitrate is a key factor for low latency. To reduce bitrate dramatically while maintaining MLLM accuracy, we propose Context-Aware Video Streaming that recognizes the importance of each video region for chat and allocates bitrate almost exclusively to chat-important regions. To evaluate the impact of video streaming quality on MLLM accuracy, we build the first benchmark, named Degraded Video Understanding Benchmark (DeViBench). Finally, we discuss some open questions and ongoing solutions for AI Video Chat. DeViBench is open-sourced at: https://github.com/pku-netvideo/DeViBench."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "A Call to Arms: Motivating An Internet Measurements Observatory for Africa",
+    "authors": "Semebia Y. Wurah, Nicholas Brian Anya, Theophilus A. Benson",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772405",
+    "source": "ACM",
+    "abstract": "Despite decades of investment and regulatory efforts, Africa's Internet ecosystem still relies heavily on infrastructure far outside the continent, routing traffic through Europe and outsourcing critical services like DNS resolution. This dependence on foreign infrastructure exacerbates the impact of subsea cable cuts and exposes a deeper problem. That is, the continent's connectivity fabric remains externally dependent and structurally fragile. Existing measurement tools fail to illuminate this reality, either by missing key components or offering insufficient visibility. We argue for a rethinking of how we monitor and support Africa's Internet infrastructure. Our vision is a purpose-built testbed that combines crowd-sourced vantage points with intentional, context-aware targeting to better capture the unique Internet ecosystem of the continent. Rather than simply retrofitting global solutions, we propose building with the realities of Africa's ecosystem in mind."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Web3Agent: Automating On-Chain Operations via Natural Language Interfaces",
+    "authors": "Sizheng Fan, Tian Min",
+    "publish": "ACM Transactions on the Web",
+    "url": "https://doi.org/10.1145/3777446",
+    "source": "ACM",
+    "abstract": "Recent advances in large language models (LLMs) have enabled the emergence of intelligent agents capable of performing complex multi-step tasks across various domains. In parallel, the growth of Web3 has introduced a decentralized web infrastructure, yet remains largely inaccessible to non-technical users due to operational complexity, fragmented information, and security risks. In this paper, we present Web3Agent, an AI agent system that integrates LLM-based interaction with blockchain environments to enable language-driven on-chain operations. Web3Agent automatically decomposes user instructions into structured workflows, dynamically queries blockchain data and APIs, and performs multi-step operations such as asset transfers, token swaps, and smart contract execution. Web3Agent incorporates real-time inspection, error handling, and interaction transparency across its operation log, and flow visualization components. We evaluate the system and perform ablation study with customized dataset in a simulated environment, demonstrating its feasibility in orchestrating complex Web3 tasks and highlighting implications for agent-based abstraction in decentralized systems."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "A Case for Learned Cloud Emulators",
+    "authors": "Archit Bhatnagar, Yiming Qiu, Sarah McClure, Sylvia Ratnasamy, Ang Chen",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772404",
+    "source": "ACM",
+    "abstract": "Creating and maintaining cloud infrastructure via \"DevOps programs\" is essential to using the cloud. However, developing and testing the DevOps programs requires resource provisioning in the cloud, which is time-consuming and costly. Cloud emulators seek to enable high velocity development by emulating cloud-level APIs to DevOps programs, enabling frictionless testing locally without going through the cloud. However, developing these emulators today is tedious and error-prone: engineers need to digest extensive documentation, and hand-craft emulation logic for each service and service interactions. We make a case for a fundamentally different approach: to \"learn\" emulation logic from cloud documentation via automated code synthesis. We observe that this task is particularly amenable to AI automation, and that we can constrain the code generation using principled abstractions for accurate synthesis at scale. We report our preliminary findings and discuss new opportunities that our approach will enable. check"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Path-Oblivious Entanglement Swapping for the Quantum Internet",
+    "authors": "Vincent Mutolo, Rhea Parekh, Dan Rubenstein",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772412",
+    "source": "ACM",
+    "abstract": "Proposed Bell pair swapping protocols, an essential component of the Quantum Internet, are planned-path: specific structured routing paths are reserved prior to the execution of the swapping process. This makes sense when one assumes the state used in the swapping process is expensive, fragile, and unstable. However, lessons from classical networking have shown that while reservations seem promising in concept, flexible, reservation-light or free approaches often outperform their more restrictive counterparts in well-provisioned networks. In this paper, we propose that a path-oblivious approach is more amenable to supporting swapping as quantum state evolves into a cheaper, more robust form. We formulate the swapping process as a linear program and present and evaluate a fairly naive baseline swapping protocol that tries to balance Bell pairs throughout the network. Preliminary results show that while naive balancing leaves room for improvement, investigating path-oblivious swapping is a promising direction."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Your network doesn't end at the NIC",
+    "authors": "Raj Joshi, Saksham Agarwal, ChonLam Lao, Minlan Yu",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772415",
+    "source": "ACM",
+    "abstract": "Modern ML workloads increasingly rely on direct communication between host devices—such as GPUs, NVMe SSDs, and DRAM—spanning intra-host and inter-host networks. However, today's intra-host network lacks hardware-level primitives for routing across heterogeneous interconnects, hindering efficient use of alternative paths and leading to sub-optimal performance under failures or congestion. Furthermore, the inter-host network treats the NIC as the endpoint, with intra-host interconnects like PCIe running oblivious to inter-host network protocols. This prevents leveraging multiple paths for communication between host devices across different servers. To address these limitations, we propose expanding the datacenter network layer to encompass the intra-host network, making intra-host devices first-class network endpoints. Our scheme envisions hardware-level routing and forwarding across multiple intra-host interconnects and makes intra-host devices visible to the inter-host network. This unified approach provides a principled foundation for robust, efficient peer-to-peer communication between storage and compute hardware devices in AI datacenters."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "The Small World Web of AI",
+    "authors": "Noa Zilberman, Alexander Jackson",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772420",
+    "source": "ACM",
+    "abstract": "The rise of generative AI has transformed many fields, including networking. While generative AI is already used for network management and operation, little was done to fundamentally change the way we use the web. In this paper, we make the case for reimagining the web in the age of AI. With just minor changes to HTTP, we demonstrate that web content can be distributed as prompts turned into content on end user devices. This new small world web (SWW) of AI reduces storage demands and network load, and has the potential to improve Internet sustainability over time."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "LLM-as-a-Judge for Privacy Evaluation? Exploring the Alignment of Human and LLM Perceptions of Privacy in Textual Data",
+    "authors": "Stephen Meisenbacher, Alexandra Klymenko, Florian Matthes",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760760",
+    "source": "ACM",
+    "abstract": "Despite advances in the field of privacy-preserving Natural Language Processing (NLP), a significant challenge remains the accurate evaluation of privacy. As a potential solution, using LLMs as a privacy evaluator presents a promising approach – a strategy inspired by its success in other subfields of NLP. In particular, the so-called LLM-as-a-Judge paradigm has achieved impressive results on a variety of natural language evaluation tasks, demonstrating high agreement rates with human annotators. Recognizing that privacy is both subjective and difficult to define, we investigate whether LLM-as-a-Judge can also be leveraged to evaluate the privacy sensitivity of textual data. Furthermore, we measure how closely LLM evaluations align with human perceptions of privacy in text. Resulting from a study involving 10 datasets, 13 LLMs, and 677 human survey participants, we confirm that privacy is indeed a difficult concept to measure empirically, exhibited by generally low inter-human agreement rates. Nevertheless, we find that LLMs can accurately model a global human privacy perspective, and through an analysis of human and LLM reasoning patterns, we discuss the merits and limitations of LLM-as-a-Judge for privacy evaluation in textual data. Our findings pave the way for exploring the feasibility of LLMs as privacy evaluators, addressing a core challenge in solving pressing privacy issues with innovative technical solutions."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Privi: Assisting Users in Authoring Contextual Privacy Rules with an LLM Sandbox",
+    "authors": "Bingcan Guo, Zhiping Zhang, Tianshi Li",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760756",
+    "source": "ACM",
+    "abstract": "Aligning language models (LM) with individual users’ latent preferences and internal values, such as privacy considerations, is crucial for enhancing output quality and preventing unwanted privacy leakage. Yet, existing methods struggle to capture individuals’ contextualized privacy preferences and formalize them in an extensible and generalizable way to guide model outputs. As an initial exploration, we present Privi, an interactive elicitation mechanism that generates synthetic communication scenarios, leverages users’ edits of candidate responses to infer privacy preferences, and formalizes them in an extensible privacy rule set. We conducted a within-subjects pilot study (N = 15) to evaluate Privi and the quality of the elicited privacy rules. Results show that responses generated under three conditions: pre-specified rules, elicited rules, no rules (model judgment), were comparable across three key evaluation dimensions: amount of privacy disclosure, perceived utility, and willingness to use. We further analyzed the synthetic scenarios and users’ editing behavior and identified future directions for improving Privi."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Towards Structurally Extensible Host Network Stacks",
+    "authors": "Kumar Kartikeya Dwivedi, Rishabh Iyer, Sanidhya Kashyap",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772386",
+    "source": "ACM",
+    "abstract": "Several recent proposals have shown that re-architecting the host network stack can significantly improve throughput and reduce tail latency. Yet these designs remain confined to user-level stacks or invasive kernel forks, both of which are impractical for production deployment."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Anyone, Anywhere, not Everyone, Everywhere: Starlink Doesn't End the Digital Divide",
+    "authors": "Wesley Woo, Juan A. Fraire, Sylvia Ratnasamy, Scott Shenker, Shaddi Hasan",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772383",
+    "source": "ACM",
+    "abstract": "Low Earth Orbit (LEO) satellite constellations, such as Starlink, are increasingly promoted as a solution to the digital divide in rural and underserved communities. In this paper, we take a closer look at the limits of this approach. Using the insight that capacity limitations of LEO-based access networks are driven by peak demand density, we introduce a simple analytical model that brings together real-world demand data with the physical and regulatory limits of LEO satellite networks. Applying our model to broadband demand across the United States, we find that serving the current Starlink constellation size is likely insufficient for covering all un- and underserved locations in the US and we find diminishing returns that disincentivize scaling the constellation to serve the long-tail of these un(der)served locations. We also identify that Starlink's current pricing is likely unaffordable for the majority of these locations, even with existing government subsidies. We argue that LEO constellations, while technologically impressive, are just another piece of the solution, rather than a panacea. New, innovative approaches are still required to end the digital divide."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Towards Trustworthy AI: A Review of Ethical and Robust Large Language Models",
+    "authors": "Md Meftahul Ferdaus, Mahdi Abdelguerfi, Elias Loup, Kendall N. Niles, Ken Pathak, Steven Sloan",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3777382",
+    "source": "ACM",
+    "abstract": "Large Language Models (LLMs) are advancing rapidly and promising transformation across fields but pose challenges in oversight, ethics, and user trust. This review addresses trust issues like unintentional harms, opacity, vulnerability, misalignment with values, and environmental impact, all of which affect trust. Factors undermining trust include societal biases, opaque processes, misuse potential, and technology evolution challenges, especially in finance, healthcare, education, and policy. Recommended solutions include ethical oversight, industry accountability, regulation, and public involvement to reshape AI norms and incorporate ethics into development. A framework assesses trust in LLMs, analyzing trust dynamics and providing guidelines for responsible AI development. The review highlights limitations in building trustworthy AI, aiming to create a transparent and accountable ecosystem that maximizes benefits and minimizes risks, offering guidance for researchers, policymakers, and industry in fostering trust and ensuring responsible use of LLMs. We validate our frameworks through comprehensive experimental assessment across seven contemporary models, demonstrating substantial improvements in trustworthiness characteristics and identifying important disagreements with existing literature. Both theoretical foundations and empirical validation are provided in comprehensive supplementary materials."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Towards an Agentic Workflow for Internet Measurement Research",
+    "authors": "Alagappan Ramanathan, Eunju Kang, Dongsu Han, Sangeetha Abdu Jyothi",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772409",
+    "source": "ACM",
+    "abstract": "Internet measurement research faces an accessibility crisis: complex analyses require custom integration of multiple specialized tools that demands specialized domain expertise. When network disruptions occur, operators need rapid diagnostic workflows spanning infrastructure mapping, routing analysis, and dependency modeling. However, developing these workflows requires specialized knowledge and significant manual effort."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "The Impact of LLM Assistance on User Spam Detection",
+    "authors": "Alexis Morales Flores, Jay Jhaveri, Aditya Sharma, Sarthak Rege, Imani Munyaka",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760754",
+    "source": "ACM",
+    "abstract": "Prior research has extensively examined how everyday users detect spam emails, revealing a consistent need for additional support through features such as automatic detection, secure email tools, and labeling mechanisms. However, with the emergence of large language models (LLMs), it remains unclear how these tools impact users’ decision-making in the context of spam detection. In this study, we investigate the role of LLMs as decision-support tools and their impact on users’ ability to identify spam. We conduct a user study in which participants (N = 295) respond to a total of four emails—two spam and two legitimate (ham) messages. Our findings suggest that prior educational efforts around spam awareness may have positively influenced user decision-making. However, the results also highlight users’ tendency to cognitively offload the task of spam detection onto external tools like LLMs, underscoring the continued need for contextual support to reinforce accurate detection and reduce user vulnerability."
+  },
+  {
+    "date": "2025-11-17",
+    "title": "When Light Bends to the Collective Will: A Theory and Vision for Adaptive Photonic Scale-up Domains",
+    "authors": "Vamsi Addanki",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772395",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Leveraging Certificate Transparency to Mitigate Downgrade Attacks",
+    "authors": "Hyunsoo Kim, Myungbin Hwang, Taekyoung Kwon",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772399",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Development and Validation of a Formal Model and Prototype for an Air Traffic Control System",
+    "authors": "David Geleßus, Sebastian Stock, Fabian Vu, Michael Leuschel, Atif Mashkoor",
+    "publish": "Formal Aspects of Computing",
+    "url": "https://doi.org/10.1145/3774647",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Non-Clairvoyant Makespan Minimization Scheduling with Predictions",
+    "authors": "Evripidis Bampis, Alexander Kononov, Giorgio Lucarelli, Fanny Pascual",
+    "publish": "ACM Transactions on Parallel Computing",
+    "url": "https://doi.org/10.1145/3777410",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Lost in Translation: The Search for Meaning in Network-Attached AI Accelerator Disaggregation",
+    "authors": "Jaewan Hong, Yifan Qiao, Soujanya Ponnapalli, Shu Liu, Marcos K. Aguilera, Vincent Liu, Christopher J. Rossbach, Ion Stoica",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772379",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Beyond Permissions: Investigating Mobile Personalization with Simulated Personas",
+    "authors": "Ibrahim Khalilov, Chaoran Chen, Ziang Xiao, Tianshi Li, Toby Jia-Jun Li, Yaxing Yao",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760758",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Coinf: QoS-aware DRL-based Inference Task Scheduling Framework with Batching Processing",
+    "authors": "Guanglin Zhang, Yuhao Zhang, Xiaowen Huang, Wenqian Zhang",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3777373",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3772356",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "From req/res to pub/sub: Exploring Media over QUIC Transport for DNS",
+    "authors": "Mathis Engelbart, Mike Kosek, Lars Eggert, Jörg Ott",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772416",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations",
+    "authors": "Chris Misa, Ramakrishnan Durairajan",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772408",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Remote Direct Code Execution",
+    "authors": "Yibo Huang, Yiming Qiu, Daqian Ding, Patrick Tser Jern Kon, Yiwen Zhang, Yuzhou Mao, Archit Bhatnagar, Mosharaf Chowdhury, Srinivas Devadas, Jiarong Xing, Ang Chen",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772397",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "A Breath of Fresh Air: Visualizing How Networks “Breathe”",
+    "authors": "Stephen Jasina, Loqman Salamatian, Paul Barford, Mark Crovella, Walter Willinger",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772424",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Speculating Unintended Creepiness: Exploring LLM-Powered Empathy Building for Privacy-Aware UX Design",
+    "authors": "Zeya Chen, Jianing Wen, Toby Jia-Jun Li, Yaxing Yao, Tianshi Li",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760759",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "The Internet as Sisyphus: Repeating Measurements, Missing Causes",
+    "authors": "Loqman Salamatian",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772417",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling",
+    "authors": "Haotian Deng, Xuebin Song, Menghao Zhang, Yuan Yang, Mingwei Xu",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772387",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "GPUnion: Autonomous GPU Sharing on Campus",
+    "authors": "Yufang Li, Yuanbo Zhang, Hanlong Liao, Deke Guo, Guoming Tang",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772403",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Mitigating Inter-datacenter Incast with a Proxy",
+    "authors": "Anchengcheng Zhou, Carter Costic, Hongyu Hè, Ahmad Ghalayini, Abdul Kabbani, Maria Apostolaki",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772410",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Privacy Perception and Protection in Continuous Vision-Language Models Interaction (Position Paper)",
+    "authors": "Anran Xu, Hiromi Arai, Koji Yatani",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760749",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Towards Verifiable Network Telemetry without Special Purpose Hardware",
+    "authors": "Jaechan An, Zeying Zhu, Ian Miers, Zaoxing Liu",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772392",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3733816",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Man-Made Heuristics Are Dead. Long Live Code Generators!",
+    "authors": "Rohit Dwivedula, Divyanshu Saxena, Aditya Akella, Swarat Chaudhuri, Daehyeok Kim",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772413",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Petabit Router-in-a-Package: Rethinking Internet Routers in the Age of In-Packaged Optics and Heterogeneous Integration",
+    "authors": "Isaac Keslassy, Bill Lin",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772398",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Rethinking the Role of Network Stacks for Website Fingerprinting Defenses",
+    "authors": "Elisaveta Lavrentieva, Marc Juarez, Michio Honda",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772428",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Tackling Ambiguity in User Intent for LLM-based Network Configuration Synthesis",
+    "authors": "Rajdeep Mondal, Nikolaj Bjorner, Todd Millstein, Alan Tang, George Varghese",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772402",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "The Privacy Quagmire: Where Computer Scientists and Lawyers May Disagree",
+    "authors": "Yunwei Zhao, Varun Chandrasekaran, Thomas Wies, Lakshminarayanan Subramanian",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772422",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Towards Aligning Personalized AI Agents with Users' Privacy Preference",
+    "authors": "Shuning Zhang, Ying Ma, Jingruo Chen, Simin Li, Xin Yi, Hewu Li",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760752",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "OpenDesc: From Static NIC Descriptors to Evolvable Metadata Interfaces",
+    "authors": "Seyyidahmed Lahmer, Nikita Tyunyayev, Tom Barbette",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772418",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Once Bitten, Still Shy: Can We Prevent Cloud Systems from Repeating Their Mistakes?",
+    "authors": "Dimas Parikesit, Chang Lou",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772385",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Evaluating AI cyber capabilities with crowdsourced elicitation",
+    "authors": "Artem Petrov, Dmitrii Volkov",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760755",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Modeling Metastability",
+    "authors": "Ali Farahbakhsh, Andreas Haeberlen, Qingjie Lu, Lorenzo Alvisi, Robbert van Renesse, Shir Cohen",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772426",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Supporting Analysts and Managers to Utilize Prescriptive Process Monitoring: A User Interface Design and Evaluation",
+    "authors": "Kateryna Kubrak, Fredrik Milani, Alexander Nolte, Lana Botchorishvili, Marlon Dumas, Mahmoud Shoush",
+    "publish": "ACM Transactions on Management Information Systems",
+    "url": "https://doi.org/10.1145/3777376",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Data Centers Manufacturing Steel: Rethinking Industrial Networks in the Age of IT",
+    "authors": "Nikolaos Mitsakis, Marco Reisacher, Matthias Eichholz, Yannic Breiting, Harald Albrecht, Andreas Blenk, Oliver Hohlfeld",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772407",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "FlowPulse: Catching Network Failures in ML Clusters",
+    "authors": "Jakob Krebs, Dimitry Gavrilenko, Daniel Amir, Shir Landau Feibish, Mark Silberstein",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772384",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "It Is Time to Address Network Power Proportionality",
+    "authors": "Lukas Röllin, Romain Jacob, Laurent Vanbever",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772382",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Instruction Tuning for Large Language Models: A Survey",
+    "authors": "Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu, Tianwei Zhang, Guoyin Wang, Fei Wu",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3777411",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Just-in-Time Logic Enforcement",
+    "authors": "Hongyu Hè, Maria Apostolaki",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772406",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Asynchronous Wait-Free Runtime Verification and Enforcement of Linearizability",
+    "authors": "Armando Castañeda, Gilde Valeria Rodríguez",
+    "publish": "Journal of the ACM",
+    "url": "https://doi.org/10.1145/3777409",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Iterative Contextual Consent: AI-enabled Data Privacy Contracts",
+    "authors": "Daniel D. Slate, Chaoran Chen, Yaxing Yao, Toby Jia-Jun Li",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760757",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Through Their Eyes: User Perceptions on Sensitive Attribute Inference of Social Media Videos by Visual Language Models",
+    "authors": "Shuning Zhang, Gengrui Zhang, Yibo Meng, Ziyi Zhang, Hantao Zhao, Xin Yi, Hewu Li",
+    "publish": "Proceedings of the 2025 Workshop on Human-Centered AI Privacy and Security",
+    "url": "https://doi.org/10.1145/3733816.3760751",
+    "source": "ACM",
+    "abstract": "None"
   }
 ]

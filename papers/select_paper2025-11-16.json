@@ -7,7 +7,7 @@
     "url": "https://doi.org/10.1145/3772356.3772396",
     "source": "ACM",
     "abstract": "Satellite-backed services have become an essential component of everyday life, in areas such as navigation, Internet connectivity and imaging. The collapsing cost of launching to space has disrupted the way satellites are deployed, shifting the industry from a model of few expensive fault-tolerant high-orbit satellites to arrays of commodity low-cost SmallSats in low-Earth orbit. However, satellite software hasn't kept up with the hardware trends, and missions are still using the ad-hoc flight software infrastructure built for expensive one-off missions in high-altitude orbits, wherein operators manually deploy software to each satellite individually. This approach is woefully inadequate in the new emerging SmallSat operational model, where an operator needs to manage hundreds of \"wimpy\" satellites with varying hardware capabilities under intermittent communication. Furthermore, SmallSat operators increasingly \"rent out\" their infrastructure to third parties, and need to support the workloads of multiple different tenants on the same satellites, which raises the classic problems of isolation and security similar to cloud computing, but in the much more constrained hardware environment of space. In this paper, we describe the new research questions introduced by this operational model. We also sketch the design of a novel lightweight eBPF-based runtime for fleets of multi-tenant, heterogeneous and intermittently-connected satellites.",
-    "title_zh": "云端之上：空间计算领域的新软件挑战",
+    "title_zh": "云端之上：太空计算领域的新软件挑战",
     "abstract_zh": "卫星支持的服务已成为日常生活中不可或缺的组成部分，涵盖导航、互联网连接和成像等领域。发射成本的急剧下降彻底改变了卫星的部署方式，使行业从以往少数昂贵、具备容错能力的高轨道卫星模式，转向由大量低成本、通用型小卫星组成的低地球轨道阵列。然而，卫星软件的发展却未能跟上硬件的变革步伐，目前的任务仍依赖于为高轨道中单次任务设计的临时性飞行软件架构，即操作员需手动逐个向每颗卫星部署软件。这种做法在新兴的小卫星运营模式下已显得严重不足：运营商需要管理数百颗性能各异、资源受限的“弱小”卫星，且通信时断时续。此外，小卫星运营商正越来越多地将自身基础设施租借给第三方，需在同一颗卫星上支持多个不同租户的工作负载，这带来了与云计算类似的隔离与安全问题，但其面临的硬件环境更为严苛。本文阐述了这一新型运营模式所引出的新研究问题，并初步设计了一种基于轻量级eBPF技术的运行时系统，以支持多租户、异构且间歇性连接的卫星群组。"
   },
   {
@@ -18,7 +18,51 @@
     "url": "https://doi.org/10.1145/3772356.3772391",
     "source": "ACM",
     "abstract": "Existing frameworks for managing distributed systems hard-code scheduling policies and their implementations (e.g., centralized vs. decentralized), limiting customization and hurting performance across diverse applications and workloads. We argue for an adaptive scheduling approach, where developers express policies in a high-level, framework-agnostic DSL, and a compiler generates optimized implementations based on policy semantics, workload characteristics, and execution environments. We demonstrate that our compiler-guided approach can significantly improve both scheduling quality and performance.",
-    "title_zh": "可编程且自适应的分布式系统调度",
-    "abstract_zh": "现有分布式系统管理框架将调度策略及其具体实现（如集中式与去中心化）硬编码，限制了定制能力，并在不同应用和工作负载下影响性能。我们主张采用一种自适应的调度方法：开发者使用高层次、与框架无关的领域特定语言（DSL）表达调度策略，而编译器则根据策略语义、工作负载特征及运行环境生成优化的实现代码。我们证明，这种由编译器引导的方法能够显著提升调度质量与系统性能。"
+    "title_zh": "分布式系统中的可编程与自适应调度",
+    "abstract_zh": "现有分布式系统管理框架将调度策略及其具体实现（如集中式与去中心化）硬编码，限制了定制能力，并在不同应用和工作负载下影响性能。我们主张采用一种自适应的调度方法：开发者使用高层次、与框架无关的领域特定语言（DSL）表达调度策略，由编译器根据策略语义、工作负载特征和执行环境生成优化的实现代码。我们证明，这种由编译器引导的方法能够显著提升调度质量与系统性能。"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Web3Agent: Automating On-Chain Operations via Natural Language Interfaces",
+    "authors": "Sizheng Fan, Tian Min",
+    "publish": "ACM Transactions on the Web",
+    "url": "https://doi.org/10.1145/3777446",
+    "source": "ACM",
+    "abstract": "Recent advances in large language models (LLMs) have enabled the emergence of intelligent agents capable of performing complex multi-step tasks across various domains. In parallel, the growth of Web3 has introduced a decentralized web infrastructure, yet remains largely inaccessible to non-technical users due to operational complexity, fragmented information, and security risks. In this paper, we present Web3Agent, an AI agent system that integrates LLM-based interaction with blockchain environments to enable language-driven on-chain operations. Web3Agent automatically decomposes user instructions into structured workflows, dynamically queries blockchain data and APIs, and performs multi-step operations such as asset transfers, token swaps, and smart contract execution. Web3Agent incorporates real-time inspection, error handling, and interaction transparency across its operation log, and flow visualization components. We evaluate the system and perform ablation study with customized dataset in a simulated environment, demonstrating its feasibility in orchestrating complex Web3 tasks and highlighting implications for agent-based abstraction in decentralized systems.",
+    "title_zh": "Web3Agent：通过自然语言接口自动化链上操作",
+    "abstract_zh": "近年来，大型语言模型（LLMs）的快速发展催生了能够跨多个领域执行复杂多步骤任务的智能代理。与此同时，Web3的兴起带来了去中心化的网络基础设施，但由于操作复杂性、信息碎片化以及安全风险，仍对非技术用户难以访问。本文提出Web3Agent，一种将基于大语言模型的交互与区块链环境相结合的AI代理系统，旨在实现通过自然语言驱动链上操作。Web3Agent能够自动将用户指令分解为结构化的工作流程，动态查询区块链数据与API，并执行包括资产转移、代币兑换及智能合约调用在内的多步操作。该系统集成了实时检查、错误处理以及操作日志和流程可视化组件，确保交互过程的透明性与可追溯性。我们在模拟环境中使用定制数据集对系统进行了评估，并开展了消融实验，验证了其在协调复杂Web3任务方面的可行性，同时揭示了基于代理的抽象在去中心化系统中的重要意义。"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "A Case for Learned Cloud Emulators",
+    "authors": "Archit Bhatnagar, Yiming Qiu, Sarah McClure, Sylvia Ratnasamy, Ang Chen",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772404",
+    "source": "ACM",
+    "abstract": "Creating and maintaining cloud infrastructure via \"DevOps programs\" is essential to using the cloud. However, developing and testing the DevOps programs requires resource provisioning in the cloud, which is time-consuming and costly. Cloud emulators seek to enable high velocity development by emulating cloud-level APIs to DevOps programs, enabling frictionless testing locally without going through the cloud. However, developing these emulators today is tedious and error-prone: engineers need to digest extensive documentation, and hand-craft emulation logic for each service and service interactions. We make a case for a fundamentally different approach: to \"learn\" emulation logic from cloud documentation via automated code synthesis. We observe that this task is particularly amenable to AI automation, and that we can constrain the code generation using principled abstractions for accurate synthesis at scale. We report our preliminary findings and discuss new opportunities that our approach will enable. check",
+    "title_zh": "一个关于学习型云模拟器的案例",
+    "abstract_zh": "通过“DevOps 程序”创建和维护云基础设施对于充分利用云计算至关重要。然而，开发和测试这些 DevOps 程序需要在云中进行资源调配，这一过程既耗时又昂贵。云模拟器旨在通过模拟云级 API 供 DevOps 程序使用，从而实现高速开发，使开发者能够在本地无摩擦地进行测试，而无需实际接入云端。然而，当前开发这些模拟器的过程繁琐且容易出错：工程师必须阅读大量文档，并手动编写每个服务及其交互关系的模拟逻辑。我们提出一种根本不同的方法：通过自动化代码生成，从云文档中“学习”模拟逻辑。我们观察到，该任务特别适合采用人工智能自动化，并且可以通过使用合理的抽象来约束代码生成，从而实现大规模、高精度的合成。本文报告了我们的初步研究成果，并探讨了该方法将带来的新机遇。"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Towards an Agentic Workflow for Internet Measurement Research",
+    "authors": "Alagappan Ramanathan, Eunju Kang, Dongsu Han, Sangeetha Abdu Jyothi",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772409",
+    "source": "ACM",
+    "abstract": "Internet measurement research faces an accessibility crisis: complex analyses require custom integration of multiple specialized tools that demands specialized domain expertise. When network disruptions occur, operators need rapid diagnostic workflows spanning infrastructure mapping, routing analysis, and dependency modeling. However, developing these workflows requires specialized knowledge and significant manual effort.",
+    "title_zh": "面向智能体工作流的互联网测量研究",
+    "abstract_zh": "互联网测量研究正面临可访问性危机：复杂的分析需要将多个专业工具进行定制化集成，而这又要求具备专门的领域知识。当网络出现中断时，运营商需要能够快速开展涵盖基础设施映射、路由分析和依赖关系建模的诊断流程。然而，开发这些诊断流程不仅需要专门的知识，还需投入大量手动工作。"
+  },
+  {
+    "date": "2025-11-17",
+    "title": "Man-Made Heuristics Are Dead. Long Live Code Generators!",
+    "authors": "Rohit Dwivedula, Divyanshu Saxena, Aditya Akella, Swarat Chaudhuri, Daehyeok Kim",
+    "publish": "Proceedings of the 24th ACM Workshop on Hot Topics in Networks",
+    "url": "https://doi.org/10.1145/3772356.3772413",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "人为设计的启发式方法已经死亡。代码生成器万岁！",
+    "abstract_zh": "None"
   }
 ]
