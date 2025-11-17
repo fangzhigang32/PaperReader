@@ -153,7 +153,8 @@ def get_arxiv_records(searchText, createdTime):
 
     url = "http://export.arxiv.org/api/query?"
     params = {
-        "search_query": f"all:{searchText} AND lastUpdatedDate:[{createdTime.replace("-", "")}0000 TO {createdTime.replace("-", "")}2359]",
+        # "search_query": f"all:{searchText} AND lastUpdatedDate:[{createdTime.replace("-", "")}0000 TO {createdTime.replace("-", "")}2359]",
+        "search_query": f"lastUpdatedDate:[{createdTime.replace("-", "")}0000 TO {createdTime.replace("-", "")}2359]",
         "sortBy": "relevance",
         "sortOrder": "descending",
         "max_results": arXivCount,
@@ -199,7 +200,7 @@ def get_crossref_ieee_acm_records(searchText, createdTime):
 
     url = "https://api.crossref.org/works"
     params = {
-        "query": searchText,
+        # "query": searchText,
         "sort": "relevance",
         "order": "desc",
         "rows": crossrefCount,
@@ -295,5 +296,6 @@ def getAllPapers(searchText, createdTime):
 # 脚本入口
 # =============================
 # getAllPapers(searchText)
+
 
 
