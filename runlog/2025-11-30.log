@@ -1,0 +1,343 @@
+[2025-12-01 09:16:16] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2025-11-30
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202511300000+TO+202511302359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ResponseError('too many 429 error responses'))
+[ACM] 2025-12-1 | Research on the Construction and Application of an AI Literacy Evaluation System for Vocational Undergraduate Students
+[ACM] 2025-12-1 | Curriculum System Construction for Artificial Intelligence Technology Majors under the Integration of Industry and Education
+[ACM] 2025-12-1 | From "Home-School Isolation" to "Data Symbiosis": Theoretical Reconstruction and Paradigm Innovation of Digital Transformation in Family Education
+[ACM] 2025-12-1 | AI-Driven Value-Added Assessment System for Higher Vocational Education Curriculum: A Case Study of Environmental Monitoring Course
+[ACM] 2025-12-1 | Online and offline blended learning data mining for the course of “Information Statistics”
+[ACM] 2025-12-1 | Cultivating Cross-Cultural Curiosity and Competence: Integrating Short-Form Social Media Content into Journalism Education to Enhance Students' Intercultural Communication Skills
+[ACM] 2025-12-1 | Neural network-based screening of people at risk for loneliness spectrum disorders
+[ACM] 2025-12-1 | Intelligent Evaluation of Multilayered Effects of BOPPPS Blended Curriculum on Intercultural Competence: A Data-Driven Analysis Using Random Forest Regression
+[ACM] 2025-12-1 | Modeling Student Course Selection Preferences Using K Means Optimization for Intelligent Recommendation
+[ACM] 2025-12-1 | A Compression-Based Approach to Detecting Automated and Coordinated Behavior on Social Media
+[ACM] 2025-12-1 | Modeling Chinese Learners’ Flow Experience in Intercultural English Teaching Based on BP Neural Networks
+[ACM] 2025-12-1 | Incorporating Gamification Elements into Online Course Design - Taking Honor of Kings as an Example
+[ACM] 2025-12-1 | Knowledge Graphs towards AI-assisted Smart Education
+[ACM] 2025-12-1 | A depth-interacting hexapod robot for assistive educational accompaniment of deaf children
+[ACM] 2025-12-1 | The Application of Artificial Intelligence in Primary School Mathematics Teaching
+[ACM] 2025-12-1 | Research on Deep Learning-Based Intelligent Matching Model for Industry-University-Research Collaboration Resources in Private Universities
+[ACM] 2025-12-1 | Research on the Practice Path and Effect Evaluation of Blended Teaching Based on Micro-lectures in Database Courses
+[ACM] 2025-12-1 | Research on student performance prediction model based on Transformer-LSTM network
+[ACM] 2025-12-1 | Prevalence and Influencing Factors of Recessive Truancy Among Undergraduate Students in Chinese Medicine Universities: A Cross - sectional Study via Multiple Linear Regression
+[ACM] 2025-12-1 | Artificial Intelligence Empowered Literature Retrieval: Acquisition and Analysis of Scientific Information in Medical Basic Research under the New Medical Paradigm
+[ACM] 2025-12-1 | ROIS: Role-Based Multi-Agent Collaboration by Context-Time-Aware Information Sharing
+[ACM] 2025-12-1 | Research on the Application of Traditional Chinese Medicine Knowledge Graph Construction Technology
+[ACM] 2025-12-1 | Big Data-Driven Model for Industry-Education Integration Quality Evaluation and Optimization
+[ACM] 2025-12-1 | Adversarial Face Database against Deep Learning-Enabled Reconstruction Attacks
+[ACM] 2025-12-1 | Application of Support Vector Machine in Enhancing AI-Driven Critical Writing Instruction
+[ACM] 2025-12-1 | Integration and Effect Evaluation of Multimodal Artificial Intelligence Technology in Foreign Language Listening and Speaking Teaching
+[ACM] 2025-12-1 | Design and Implementation of an AIGC-Based Teaching Skills Assessment and Training System
+[ACM] 2025-12-1 | Progressive Laboratory Teaching Based on Data-oriented Thinking and Cognitive Load Regulation Empowered by AI
+[ACM] 2025-12-1 | AI Smart Teaching Practices for "Signals and Systems" Based on Graphs
+[ACM] 2025-12-1 | Evaluation of Virtual Simulation Teaching Methods based on Knowledge Graphs
+[ACM] 2025-12-1 | Applications of Deep Learning in Personalized Recommendation of Aesthetic Education Courses for College Students
+[ACM] 2025-12-1 | AIGC-Assisted "Teaching According to Aptitude" and "Personalized Learning": A Design Approach Based on Large Language Models
+[ACM] 2025-12-1 | Research Status and Prospects of “Artificial Intelligence in Education” in China: Visualization Analysis Based on CiteSpace
+[ACM] 2025-12-1 | Research on the Application of Artificial Intelligence in Higher Education——A Co-word Analysis Based on Vosviewer and Citespace
+[ACM] 2025-12-1 | Construction and Application of Data Resource System of College Smart Classroom
+[ACM] 2025-12-1 | Artificial Intelligence Empowers Learning—Exploration of Student-centered Personalized Learning Paths
+[ACM] 2025-12-1 | Research on the design and application of MOOC-based blended teaching mode for animation majors
+[ACM] 2025-12-1 | Leveraging Symmetry in GR(1) Synthesis
+[ACM] 2025-12-1 | Research of teachers and students on environmental education from primary school with machine learning analysis - A case study in Sichuan-Chongqing, China
+[ACM] 2025-12-1 | Digital Technology-Driven Innovation in Ideological and Political Education: An Evaluation Framework Integrating Knowledge, Attitude, and Practice
+[ACM] 2025-12-1 | Knowledge Mapping of Immersive Learning Research: A Visual Analysis
+[ACM] 2025-12-1 | Application of Data Mining Algorithms in Adaptive Learning Models for English Teaching
+[ACM] 2025-12-1 | AI cognitive differences and the evolution of learning behaviors from an interdiscipli-nary perspective: a data-driven study based on a survey of AI literacy among college students
+[ACM] 2025-12-1 | A Quantitative Research on the Key Influencing Factors of Pre-Service Teachers' Digital Literacy Based on K-Means Algorithm
+[ACM] 2025-12-1 | Research on Topic Concentration in Elementary Students' Compositions Using NLP Techniques
+[ACM] 2025-12-1 | Research on Teaching Methodologies for Key Computational Techniques in Medical Signal Processing: A Case-Driven Medical-Engineering Integration Approach
+[ACM] 2025-12-1 | Construction and Practice of Project-Based Teaching in Surgical Nursing Based on Artificial Intelligence
+[ACM] 2025-12-1 | The construction of a global communication mechanism for Shaanxi's traditional festival culture driven by the two-wheel drive of “foreign language + AI”
+[ACM] 2025-12-1 | Exploring the role of errors in programming learning
+[ACM] 2025-12-1 | Impact Assessment of Generative AI Integration in Higher Education Teaching and Learning
+[ACM] 2025-12-1 | Augmented Reality-Driven Educational Puzzle Toys to Promote Children's Cultural Heritage Learning
+[ACM] 2025-12-1 | Research on the innovative model of counselor studios in higher vocational colleges based on machine learning algorithms
+[ACM] 2025-12-1 | Leveraging BERT and Text Mining to Analyze Cross-Cultural Communication in Educational Settings: Insights into Interaction, Collaboration, and Trust
+[ACM] 2025-12-1 | Translation Norms and Fingerprints: A Computational Stylistic Analysis of Four English Translations of Fusheng Liuji
+[ACM] 2025-12-1 | Design and Implementation of Immersive English Course Moral Education System Based on VR/AR Technology
+[ACM] 2025-12-1 | Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology
+[ACM] 2025-12-1 | Deep Learning-Based Multi-Scale Detection Algorithm for Classroom Behaviors of International Students in China
+[ACM] 2025-12-1 | Application Research of SDN and NFV in MOOCs University English Teaching Wireless Network
+[ACM] 2025-12-1 | Construction of Teaching Resource Organization Algorithm Based on Knowledge Graph
+[ACM] 2025-12-1 | Integrating Generative AI into Translation Pedagogy: Personalized Feedback and Adaptive Learning
+[ACM] 2025-12-1 | Research on the Application of Generative Artificial Intelligence in Interior Design Education and Teaching
+[ACM] 2025-12-1 | Employment Trend Prediction and Guidance Methods for College Students on Decision Tree Algorithm
+[ACM] 2025-12-1 | Reforming Vocational Education in China: A Text Mining Analysis of the New Vocational Education Law and Its Implications for Industry-Education Integration, Quality Enhancement, and Skill Development
+[ACM] 2025-12-1 | The Exploration and Practice of Classroom Teaching of Computer Major Courses in Colleges and Universities under the Innovative Teaching Mode of “Four in One”
+[ACM] 2025-12-1 | OBE-Based “AI+ practice” Teaching Model: Design, Implementation and Intelligent Assessment
+[ACM] 2025-12-1 | Artificial Intelligence Generated Content Enabling Education Meta-Universe: Development Status and Path Optimization
+[ACM] 2025-12-1 | Introduction to the Special Issue on LLM Empowered Internet of Things Part 1
+[ACM] 2025-12-1 | Reform of the 'Pharmaceutical Administration' Digital Intelligence Course: Research on the Application of Knowledge Graphs and AI Teaching Assistants
+[ACM] 2025-12-1 | BLEU-Based Evaluation of Papago Translation Quality
+[ACM] 2025-12-1 | FedPRS: A Privacy-preserving Representation Synthesis Framework for Federated Contribution Evaluation
+[ACM] 2025-12-1 | Research on Hybrid Teaching Design and Interaction Mechanism Optimization in Higher Education Based on the DeepSeek Large Language Model
+[ACM] 2025-12-1 | Corpus-based Intelligent EFL e-Textbooks Analysis: Focusing on Cultural Representation
+[ACM] 2025-12-1 | Random Forest for Multi-Output Analysis of University Students' Prosocial Behaviors
+[ACM] 2025-12-1 | Innovative Pathways for Russian Language Teaching in the AI Era: Integrating Machine Learning and Natural Language Processing for Future Talent Cultivation
+[ACM] 2025-12-1 | Research on the Teaching Experiment Mode of Low-code Platform Integrated with Intelligent Agent
+[ACM] 2025-12-1 | Real-Time Analysis Model of Teaching Quality for Higher Education Based on Complex Event Processing
+[ACM] 2025-12-1 | Analysis of MOOC Comments and Public Opinions based on the BERT-CNN model
+[ACM] 2025-12-1 | KARM: Knowledge-Aware Temporal Gating with Multi-Head Attention for Course Recommendation
+[ACM] 2025-12-1 | Visual Analysis of the Research on AI in Vocational Education: A Bibliometric Perspective
+[ACM] 2025-12-1 | Online Learning Behavior and Achievement Prediction Model for International Chinese Learners
+[ACM] 2025-12-1 | IASTER: A LLM-based Dynamic Intent-Aware Semantic and Temporal Enhanced Recommendation Framework for ICT Learning Resources
+[ACM] 2025-12-1 | Agent-Assisted Blended Learning Model for AI General Education in Vocational Colleges: A Case Study
+[ACM] 2025-12-1 | From Chatbots to Generative AI: The Evolution of Conversational Agents in Education (2010-2024)
+[ACM] 2025-12-1 | The Application of Artificial Intelligence Methods in College  Students' Innovation and Practice Education
+[ACM] 2025-12-1 | Research on the Application of Artificial Intelligence Technology in Students ' Psychological Counseling
+[ACM] 2025-12-1 | Research on the Application of Artificial Intelligence in Elementary School Contextual Composition Teaching
+[ACM] 2025-12-1 | Research on the construction of teaching evaluation model of Civics course based on convolutional neural network
+[ACM] 2025-12-1 | Design and Implementation of an Innovative Quality Evaluation System for College Students in Higher Vocational Colleges
+[ACM] 2025-12-1 | Study and Evaluation of Learning Motivation among Students in Capital Vocational Colleges Utilizing the Support Vector Machine Technique
+[ACM] 2025-12-1 | Research on Personalized English Learning Path Recommendation Algorithm Based on Big Data
+[ACM] 2025-12-1 | Research on AI-Driven Teaching Reform of Microelectronics Science and Engineering in Applied Undergraduate Institutions from the Perspective of Industry-Education Integration -- A Case Study on the Curriculum Construction of Design and Implementation of Artificial Intelligence Systems
+[ACM] 2025-12-1 | Research on Intelligent Intervention System of Ideological and Political Education for College Students based on Artificial Intelligence Emotion Recognition
+[ACM] 2025-12-1 | Dual-path Synergy: The Mechanism and Risk Governance of AIGC in Reshaping College English Teaching
+[ACM] 2025-12-1 | Design and Development of Virtual Simulation Teaching System for Electronic Technology and Welding Comprehensive Training Based on VR
+[ACM] 2025-12-1 | Construction and Empirical Study of a Project-Driven Online-Offline Blended Learning Model by Linear Regression, Multiple Regression, and Principal Component Analysis
+[ACM] 2025-12-1 | Research on the Construction of Teaching Evaluation System for New Energy Vehicle Technology Specialties Driven by Artificial Intelligence
+[ACM] 2025-12-1 | Reform and Practice of Teaching Mode for "Principles and Applications of Microcontrollers" in the Perspective of Digital and Intelligent Transformation
+[ACM] 2025-12-1 | Evaluating Picture Description Speech for Dementia Detection using Image-text Alignment
+[ACM] 2025-12-1 | Exploration of the Application Path of AI Technology Empowering Blended Teaching in Vocational Education
+[ACM] 2025-12-1 | Research on the Innovation of Educational and Teaching Methods under the Background of Artificial Intelligence
+[ACM] 2025-12-1 | Construction of a design cross-disciplinary resource integration platform based on blockchain
+[ACM] 2025-12-1 | The Role of Computer Aalgorithms in Promoting the Integration of Critical Thinking into Disciplinary Construction in Universities
+[ACM] 2025-12-1 | Design and Implementation of a Task-Driven and Data-oriented Thinking Flipped Classroom for Computer Networks Empowered by Intelligent Technologies
+[ACM] 2025-12-1 | GenAI Usage Behaviors and Learning Burnout in Higher Education: The Mediating Role of Plagiaristic Practices and Classroom Overreliance
+[ACM] 2025-12-1 | Eye Tracking and Facial Expression-Based Emotion Recognition for Personalized Asynchronous online Learning
+[ACM] 2025-12-1 | Design and Practice Research of Children's Art Ability Assessment Testing System
+[ACM] 2025-12-1 | Design and Implementation of Machine Vision Teaching System
+[ACM] 2025-12-1 | Research on the Application Path of Artificial Intelligence Technology in Ideological and Political Education -- Based on Knowledge Graph and Topic Evolution Analysis
+[ACM] 2025-12-1 | Research on Online Collaborative Learning Model Based on Cloud Computing Platform
+[ACM] 2025-12-1 | CoDeR+: Interest-aware Counterfactual Reasoning for Sequential Recommendation
+[ACM] 2025-12-1 | Application of Generative Artificial Intelligence in Comprehensive English Assessment of Higher Vocational Colleges
+[ACM] 2025-12-1 | Research on the strategy of building a smart laboratory under the background of artificial intelligence
+[ACM] 2025-12-1 | Research on political Education Content Recommendation Model for Colleges and Universities Based on Graph Neural Networks
+[ACM] 2025-12-1 | Towards Accurate and Smooth Human Motion Reconstruction from Sparse Tracking with State Space Model
+[ACM] 2025-12-1 | The Impact of Generative Artificial Intelligence on Higher Education
+[ACM] 2025-12-1 | Research on the Construction of Integrated Curriculum Ideological and Political Network Teaching Platform
+[ACM] 2025-12-1 | A Study on Assessing Innovation and Entrepreneurship Competence and Enhancing Educational Pathways for Higher Vocational Students Using an Enhanced FAHP Method
+[ACM] 2025-12-1 | Ethical Risks and Preventive Measures of Digital Textbooks
+[ACM] 2025-12-1 | Application research on science popularization education display of Fagaceae seeds based on information visualization technology
+[ACM] 2025-12-1 | A hybrid teaching system for artificial intelligence vocational English courses based on SPOC
+[ACM] 2025-12-1 | Research on AI-Driven Curriculum Reform in System Analysis and Design
+[ACM] 2025-12-1 | Research and Implementation of a Virtual Teaching Platform for Electrical Testing
+[ACM] 2025-12-1 | Design and Practice of High School Mathematics Self-Learning Assistance System Based on Learning from Examples and by Doing Method
+[ACM] 2025-12-1 | A Knowledge-Graph-Based Intelligent Question Answering System: A Case Study in Agro-Engineering Integration
+[ACM] 2025-12-1 | Algorithm Design and Optimizing Model of an Intelligent Teaching System for 3D Printing Courses
+[ACM] 2025-12-1 | Opportunities and Challenges of Integrating Artificial Intelligence into Adult Higher-Education English Instruction
+[ACM] 2025-12-1 | Research on the Synergistic Mechanism of Dual-Cycle Driven Practical Teaching Reform in Artificial Intelligence Courses: Industry Demand-Driven Guidance and Teaching Innovation Response
+[ACM] 2025-12-1 | A Review of the Application of Generative Artificial Intelligence in Curriculum Teaching
+[ACM] 2025-12-1 | Application of SVM Algorithm in the Digital Talent Cultivation Model for Higher Continuing Education in Chinese Medicine
+[ACM] 2025-12-1 | Research on the Construction of Career Orientation Model Based on the Analysis of the Growth Trajectory of Students in Private Colleges and Universities
+[ACM] 2025-12-1 | Research and design of an adaptive teaching system for Chinese majors
+[ACM] 2025-12-1 | A Data-Driven Study of Rumor and Counter-Rumor Propagation Dynamics among University Students Based on an Enhanced SICR Model
+[ACM] 2025-12-1 | A Novel Teaching Method for Database Courses Based on AI-Driven Automated Programming
+[ACM] 2025-12-1 | Design and Application of VR System for Negative Emotion Regulation of Students in Private Undergraduate Colleges
+[ACM] 2025-12-1 | Ethical Thresholds and Educational Interventions in AI-Generated Ambiguous Expressions in Japanese
+[ACM] 2025-12-1 | Personalized Path to Language Education Supported by Artificial Intelligence
+[ACM] 2025-12-1 | Exploration of Digital Transformation of Basic Geology Laboratory Teaching System
+[ACM] 2025-12-1 | Research on the Construction of the "Six Integrations" Cultivation System and AI-empowered Applied Talents Curriculum System Based on the DTOA Teaching Model
+[ACM] 2025-12-1 | Leveraging Cross-Coverage of Equivalent Programs for Test Suite Augmentation
+[ACM] 2025-12-1 | Research on AI-driven Multi-dimensional Business English Writing Evaluation System
+[ACM] 2025-12-1 | Research on Data-Driven Modeling of Learning Effectiveness and Optimization Strategies for “Mechanical Korean”
+[ACM] 2025-12-1 | AutoCSMap: A Multi-Agent Automated Framework for Computer Science Problem-Solving Roadmap Generation
+[ACM] 2025-12-1 | Generative Artificial Intelligence in Education: A Dual-Track Framework of Technological Empowerment Pathways and Ethical Research – A Case Study of Large Language Models
+[ACM] 2025-12-1 | Academic Performance Prediction and Group Characteristics Analysis of Online-Offline Blended College English Learners Based on Data Mining
+[ACM] 2025-12-1 | Hot word analysis and sentiment analysis of teaching videos based on Naive Bayes
+[ACM] 2025-12-1 | Research on the Evaluation and Feedback Mechanism of Organizational Behavior Teaching Based on Machine Learning
+[ACM] 2025-12-1 | Exploration of innovative models of AI-based Chinese and Japanese traditional culture practice courses
+[ACM] 2025-12-1 | Cross-Cultural Moral Assessment Using SEM and Multi-Output Gradient Boosting Regressor: Construction and Validation of the AMEE Scale
+[ACM] 2025-12-1 | A Novel Bayesian Knowledge Tracing Model for College Students in Language Learning
+[ACM] 2025-12-1 | Exploration of innovative teaching and training mode for vocational undergraduate mining professionals based on numerical simulation of gas seepage in mine goaf
+[ACM] 2025-12-1 | Research on the Intelligent Evaluation System of Classroom Teaching Based on Artificial Intelligence
+[ACM] 2025-12-1 | The Impact of Family Climate on the Emotional Engagement of Secondary Vocational Students in the Digital Wave
+[ACM] 2025-12-1 | Research on Factors Influencing the Use of AI Software by Vocational College Students Based on the UTAUT Model
+[ACM] 2025-12-1 | The Application of Mixed Reality Technology in Flight Training
+[ACM] 2025-12-1 | Practical Research of Blending Teaching based on Xuexitong Platform
+[ACM] 2025-12-1 | Research on the Application of Artificial Intelligence Technology in Design Courses Teaching
+[ACM] 2025-12-1 | EduGraph: A Combined Framework of Large Language Models and Education Assessment Knowledge Graphs
+[ACM] 2025-12-1 | Building a "Symbiotic Learning" Model for AI Integration in Art and Design Education
+[ACM] 2025-12-1 | Knowledge Enhanced Dynamic Preference Learning for Personalized Educational Resource Recommendation
+[ACM] 2025-12-1 | Research on the Construction of Design Thinking Education Platform in Colleges and Universities Empowered by Blockchain
+[ACM] 2025-12-1 | Practical Research on Career Planning Guidance for High School Students Based on “Random Forest” Algorithm in Vocational Education Context
+[ACM] 2025-12-1 | AI-Driven Reconstruction and Optimization of Teaching Model for Fault Detection and Diagnosis in Industrial Safety Production
+[ACM] 2025-12-1 | Design and Optimizaton of Knowledge Graph-driven Skill Mapping System in Industry-Education Integration Environment
+[ACM] 2025-12-1 | Exploring Influence Maximization: State-of-the-Art Methods, Taxonomies, and Trends
+[ACM] 2025-12-1 | Computer technology-enhanced digital twin-driven innovation and practice of talent training mode of new engineering experimental and training
+[ACM] 2025-12-1 | Research and Practice of Mobile Teaching Mode for Economics and Management Majors Based on H5 Platform
+共写入 166 条记录，保存到 papers/paper2025-11-30.json。
+论文获取成功，文件路径: papers/paper2025-11-30.json
+正在筛选、翻译并发送邮件...
+[NO] 1/166 | Research on the Construction and Application of an AI Literacy Evaluation System for Vocational Undergraduate Students
+[NO] 2/166 | Curriculum System Construction for Artificial Intelligence Technology Majors under the Integration of Industry and Education
+[NO] 3/166 | From "Home-School Isolation" to "Data Symbiosis": Theoretical Reconstruction and Paradigm Innovation of Digital Transformation in Family Education
+[NO] 4/166 | AI-Driven Value-Added Assessment System for Higher Vocational Education Curriculum: A Case Study of Environmental Monitoring Course
+[NO] 5/166 | Online and offline blended learning data mining for the course of “Information Statistics”
+[NO] 6/166 | Cultivating Cross-Cultural Curiosity and Competence: Integrating Short-Form Social Media Content into Journalism Education to Enhance Students' Intercultural Communication Skills
+[NO] 7/166 | Neural network-based screening of people at risk for loneliness spectrum disorders
+[NO] 8/166 | Intelligent Evaluation of Multilayered Effects of BOPPPS Blended Curriculum on Intercultural Competence: A Data-Driven Analysis Using Random Forest Regression
+[NO] 9/166 | Modeling Student Course Selection Preferences Using K Means Optimization for Intelligent Recommendation
+[NO] 10/166 | A Compression-Based Approach to Detecting Automated and Coordinated Behavior on Social Media
+[NO] 11/166 | Modeling Chinese Learners’ Flow Experience in Intercultural English Teaching Based on BP Neural Networks
+[NO] 12/166 | Incorporating Gamification Elements into Online Course Design - Taking Honor of Kings as an Example
+[NO] 13/166 | Knowledge Graphs towards AI-assisted Smart Education
+[NO] 14/166 | A depth-interacting hexapod robot for assistive educational accompaniment of deaf children
+[NO] 15/166 | The Application of Artificial Intelligence in Primary School Mathematics Teaching
+[NO] 16/166 | Research on Deep Learning-Based Intelligent Matching Model for Industry-University-Research Collaboration Resources in Private Universities
+[NO] 17/166 | Research on the Practice Path and Effect Evaluation of Blended Teaching Based on Micro-lectures in Database Courses
+[NO] 18/166 | Research on student performance prediction model based on Transformer-LSTM network
+[NO] 19/166 | Prevalence and Influencing Factors of Recessive Truancy Among Undergraduate Students in Chinese Medicine Universities: A Cross - sectional Study via Multiple Linear Regression
+[NO] 20/166 | Artificial Intelligence Empowered Literature Retrieval: Acquisition and Analysis of Scientific Information in Medical Basic Research under the New Medical Paradigm
+[NO] 21/166 | ROIS: Role-Based Multi-Agent Collaboration by Context-Time-Aware Information Sharing
+[NO] 22/166 | Research on the Application of Traditional Chinese Medicine Knowledge Graph Construction Technology
+[NO] 23/166 | Big Data-Driven Model for Industry-Education Integration Quality Evaluation and Optimization
+[NO] 24/166 | Adversarial Face Database against Deep Learning-Enabled Reconstruction Attacks
+[NO] 25/166 | Application of Support Vector Machine in Enhancing AI-Driven Critical Writing Instruction
+[NO] 26/166 | Integration and Effect Evaluation of Multimodal Artificial Intelligence Technology in Foreign Language Listening and Speaking Teaching
+[NO] 27/166 | Design and Implementation of an AIGC-Based Teaching Skills Assessment and Training System
+[NO] 28/166 | Progressive Laboratory Teaching Based on Data-oriented Thinking and Cognitive Load Regulation Empowered by AI
+[NO] 29/166 | AI Smart Teaching Practices for "Signals and Systems" Based on Graphs
+[NO] 30/166 | Evaluation of Virtual Simulation Teaching Methods based on Knowledge Graphs
+[NO] 31/166 | Applications of Deep Learning in Personalized Recommendation of Aesthetic Education Courses for College Students
+[YES] 32/166 | AIGC-Assisted "Teaching According to Aptitude" and "Personalized Learning": A Design Approach Based on Large Language Models
+[NO] 33/166 | Research Status and Prospects of “Artificial Intelligence in Education” in China: Visualization Analysis Based on CiteSpace
+[NO] 34/166 | Research on the Application of Artificial Intelligence in Higher Education——A Co-word Analysis Based on Vosviewer and Citespace
+[NO] 35/166 | Construction and Application of Data Resource System of College Smart Classroom
+[NO] 36/166 | Artificial Intelligence Empowers Learning—Exploration of Student-centered Personalized Learning Paths
+[NO] 37/166 | Research on the design and application of MOOC-based blended teaching mode for animation majors
+[NO] 38/166 | Leveraging Symmetry in GR(1) Synthesis
+[NO] 39/166 | Research of teachers and students on environmental education from primary school with machine learning analysis - A case study in Sichuan-Chongqing, China
+[NO] 40/166 | Digital Technology-Driven Innovation in Ideological and Political Education: An Evaluation Framework Integrating Knowledge, Attitude, and Practice
+[NO] 41/166 | Knowledge Mapping of Immersive Learning Research: A Visual Analysis
+[NO] 42/166 | Application of Data Mining Algorithms in Adaptive Learning Models for English Teaching
+[NO] 43/166 | AI cognitive differences and the evolution of learning behaviors from an interdiscipli-nary perspective: a data-driven study based on a survey of AI literacy among college students
+[NO] 44/166 | A Quantitative Research on the Key Influencing Factors of Pre-Service Teachers' Digital Literacy Based on K-Means Algorithm
+[NO] 45/166 | Research on Topic Concentration in Elementary Students' Compositions Using NLP Techniques
+[NO] 46/166 | Research on Teaching Methodologies for Key Computational Techniques in Medical Signal Processing: A Case-Driven Medical-Engineering Integration Approach
+[NO] 47/166 | Construction and Practice of Project-Based Teaching in Surgical Nursing Based on Artificial Intelligence
+[NO] 48/166 | The construction of a global communication mechanism for Shaanxi's traditional festival culture driven by the two-wheel drive of “foreign language + AI”
+[NO] 49/166 | Exploring the role of errors in programming learning
+[NO] 50/166 | Impact Assessment of Generative AI Integration in Higher Education Teaching and Learning
+[NO] 51/166 | Augmented Reality-Driven Educational Puzzle Toys to Promote Children's Cultural Heritage Learning
+[NO] 52/166 | Research on the innovative model of counselor studios in higher vocational colleges based on machine learning algorithms
+[NO] 53/166 | Leveraging BERT and Text Mining to Analyze Cross-Cultural Communication in Educational Settings: Insights into Interaction, Collaboration, and Trust
+[NO] 54/166 | Translation Norms and Fingerprints: A Computational Stylistic Analysis of Four English Translations of Fusheng Liuji
+[NO] 55/166 | Design and Implementation of Immersive English Course Moral Education System Based on VR/AR Technology
+[NO] 56/166 | Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology
+[NO] 57/166 | Deep Learning-Based Multi-Scale Detection Algorithm for Classroom Behaviors of International Students in China
+[NO] 58/166 | Application Research of SDN and NFV in MOOCs University English Teaching Wireless Network
+[NO] 59/166 | Construction of Teaching Resource Organization Algorithm Based on Knowledge Graph
+[NO] 60/166 | Integrating Generative AI into Translation Pedagogy: Personalized Feedback and Adaptive Learning
+[NO] 61/166 | Research on the Application of Generative Artificial Intelligence in Interior Design Education and Teaching
+[NO] 62/166 | Employment Trend Prediction and Guidance Methods for College Students on Decision Tree Algorithm
+[NO] 63/166 | Reforming Vocational Education in China: A Text Mining Analysis of the New Vocational Education Law and Its Implications for Industry-Education Integration, Quality Enhancement, and Skill Development
+[NO] 64/166 | The Exploration and Practice of Classroom Teaching of Computer Major Courses in Colleges and Universities under the Innovative Teaching Mode of “Four in One”
+[NO] 65/166 | OBE-Based “AI+ practice” Teaching Model: Design, Implementation and Intelligent Assessment
+[NO] 66/166 | Artificial Intelligence Generated Content Enabling Education Meta-Universe: Development Status and Path Optimization
+[NO] 67/166 | Introduction to the Special Issue on LLM Empowered Internet of Things Part 1
+[NO] 68/166 | Reform of the 'Pharmaceutical Administration' Digital Intelligence Course: Research on the Application of Knowledge Graphs and AI Teaching Assistants
+[NO] 69/166 | BLEU-Based Evaluation of Papago Translation Quality
+[NO] 70/166 | FedPRS: A Privacy-preserving Representation Synthesis Framework for Federated Contribution Evaluation
+[NO] 71/166 | Research on Hybrid Teaching Design and Interaction Mechanism Optimization in Higher Education Based on the DeepSeek Large Language Model
+[NO] 72/166 | Corpus-based Intelligent EFL e-Textbooks Analysis: Focusing on Cultural Representation
+[NO] 73/166 | Random Forest for Multi-Output Analysis of University Students' Prosocial Behaviors
+[NO] 74/166 | Innovative Pathways for Russian Language Teaching in the AI Era: Integrating Machine Learning and Natural Language Processing for Future Talent Cultivation
+[YES] 75/166 | Research on the Teaching Experiment Mode of Low-code Platform Integrated with Intelligent Agent
+[NO] 76/166 | Real-Time Analysis Model of Teaching Quality for Higher Education Based on Complex Event Processing
+[NO] 77/166 | Analysis of MOOC Comments and Public Opinions based on the BERT-CNN model
+[NO] 78/166 | KARM: Knowledge-Aware Temporal Gating with Multi-Head Attention for Course Recommendation
+[NO] 79/166 | Visual Analysis of the Research on AI in Vocational Education: A Bibliometric Perspective
+[NO] 80/166 | Online Learning Behavior and Achievement Prediction Model for International Chinese Learners
+[NO] 81/166 | IASTER: A LLM-based Dynamic Intent-Aware Semantic and Temporal Enhanced Recommendation Framework for ICT Learning Resources
+[NO] 82/166 | Agent-Assisted Blended Learning Model for AI General Education in Vocational Colleges: A Case Study
+[NO] 83/166 | From Chatbots to Generative AI: The Evolution of Conversational Agents in Education (2010-2024)
+[NO] 84/166 | The Application of Artificial Intelligence Methods in College  Students' Innovation and Practice Education
+[NO] 85/166 | Research on the Application of Artificial Intelligence Technology in Students ' Psychological Counseling
+[NO] 86/166 | Research on the Application of Artificial Intelligence in Elementary School Contextual Composition Teaching
+[NO] 87/166 | Research on the construction of teaching evaluation model of Civics course based on convolutional neural network
+[NO] 88/166 | Design and Implementation of an Innovative Quality Evaluation System for College Students in Higher Vocational Colleges
+[NO] 89/166 | Study and Evaluation of Learning Motivation among Students in Capital Vocational Colleges Utilizing the Support Vector Machine Technique
+[NO] 90/166 | Research on Personalized English Learning Path Recommendation Algorithm Based on Big Data
+[NO] 91/166 | Research on AI-Driven Teaching Reform of Microelectronics Science and Engineering in Applied Undergraduate Institutions from the Perspective of Industry-Education Integration -- A Case Study on the Curriculum Construction of Design and Implementation of Artificial Intelligence Systems
+[NO] 92/166 | Research on Intelligent Intervention System of Ideological and Political Education for College Students based on Artificial Intelligence Emotion Recognition
+[NO] 93/166 | Dual-path Synergy: The Mechanism and Risk Governance of AIGC in Reshaping College English Teaching
+[NO] 94/166 | Design and Development of Virtual Simulation Teaching System for Electronic Technology and Welding Comprehensive Training Based on VR
+[NO] 95/166 | Construction and Empirical Study of a Project-Driven Online-Offline Blended Learning Model by Linear Regression, Multiple Regression, and Principal Component Analysis
+[NO] 96/166 | Research on the Construction of Teaching Evaluation System for New Energy Vehicle Technology Specialties Driven by Artificial Intelligence
+[NO] 97/166 | Reform and Practice of Teaching Mode for "Principles and Applications of Microcontrollers" in the Perspective of Digital and Intelligent Transformation
+[NO] 98/166 | Evaluating Picture Description Speech for Dementia Detection using Image-text Alignment
+[NO] 99/166 | Exploration of the Application Path of AI Technology Empowering Blended Teaching in Vocational Education
+[NO] 100/166 | Research on the Innovation of Educational and Teaching Methods under the Background of Artificial Intelligence
+[NO] 101/166 | Construction of a design cross-disciplinary resource integration platform based on blockchain
+[NO] 102/166 | The Role of Computer Aalgorithms in Promoting the Integration of Critical Thinking into Disciplinary Construction in Universities
+[NO] 103/166 | Design and Implementation of a Task-Driven and Data-oriented Thinking Flipped Classroom for Computer Networks Empowered by Intelligent Technologies
+[NO] 104/166 | GenAI Usage Behaviors and Learning Burnout in Higher Education: The Mediating Role of Plagiaristic Practices and Classroom Overreliance
+[NO] 105/166 | Eye Tracking and Facial Expression-Based Emotion Recognition for Personalized Asynchronous online Learning
+[NO] 106/166 | Design and Practice Research of Children's Art Ability Assessment Testing System
+[NO] 107/166 | Design and Implementation of Machine Vision Teaching System
+[NO] 108/166 | Research on the Application Path of Artificial Intelligence Technology in Ideological and Political Education -- Based on Knowledge Graph and Topic Evolution Analysis
+[NO] 109/166 | Research on Online Collaborative Learning Model Based on Cloud Computing Platform
+[NO] 110/166 | CoDeR+: Interest-aware Counterfactual Reasoning for Sequential Recommendation
+[NO] 111/166 | Application of Generative Artificial Intelligence in Comprehensive English Assessment of Higher Vocational Colleges
+[NO] 112/166 | Research on the strategy of building a smart laboratory under the background of artificial intelligence
+[NO] 113/166 | Research on political Education Content Recommendation Model for Colleges and Universities Based on Graph Neural Networks
+[NO] 114/166 | Towards Accurate and Smooth Human Motion Reconstruction from Sparse Tracking with State Space Model
+[NO] 115/166 | The Impact of Generative Artificial Intelligence on Higher Education
+[NO] 116/166 | Research on the Construction of Integrated Curriculum Ideological and Political Network Teaching Platform
+[NO] 117/166 | A Study on Assessing Innovation and Entrepreneurship Competence and Enhancing Educational Pathways for Higher Vocational Students Using an Enhanced FAHP Method
+[NO] 118/166 | Ethical Risks and Preventive Measures of Digital Textbooks
+[NO] 119/166 | Application research on science popularization education display of Fagaceae seeds based on information visualization technology
+[NO] 120/166 | A hybrid teaching system for artificial intelligence vocational English courses based on SPOC
+[NO] 121/166 | Research on AI-Driven Curriculum Reform in System Analysis and Design
+[NO] 122/166 | Research and Implementation of a Virtual Teaching Platform for Electrical Testing
+[NO] 123/166 | Design and Practice of High School Mathematics Self-Learning Assistance System Based on Learning from Examples and by Doing Method
+[NO] 124/166 | A Knowledge-Graph-Based Intelligent Question Answering System: A Case Study in Agro-Engineering Integration
+[NO] 125/166 | Algorithm Design and Optimizing Model of an Intelligent Teaching System for 3D Printing Courses
+[NO] 126/166 | Opportunities and Challenges of Integrating Artificial Intelligence into Adult Higher-Education English Instruction
+[NO] 127/166 | Research on the Synergistic Mechanism of Dual-Cycle Driven Practical Teaching Reform in Artificial Intelligence Courses: Industry Demand-Driven Guidance and Teaching Innovation Response
+[NO] 128/166 | A Review of the Application of Generative Artificial Intelligence in Curriculum Teaching
+[NO] 129/166 | Application of SVM Algorithm in the Digital Talent Cultivation Model for Higher Continuing Education in Chinese Medicine
+[NO] 130/166 | Research on the Construction of Career Orientation Model Based on the Analysis of the Growth Trajectory of Students in Private Colleges and Universities
+[NO] 131/166 | Research and design of an adaptive teaching system for Chinese majors
+[NO] 132/166 | A Data-Driven Study of Rumor and Counter-Rumor Propagation Dynamics among University Students Based on an Enhanced SICR Model
+[NO] 133/166 | A Novel Teaching Method for Database Courses Based on AI-Driven Automated Programming
+[NO] 134/166 | Design and Application of VR System for Negative Emotion Regulation of Students in Private Undergraduate Colleges
+[NO] 135/166 | Ethical Thresholds and Educational Interventions in AI-Generated Ambiguous Expressions in Japanese
+[NO] 136/166 | Personalized Path to Language Education Supported by Artificial Intelligence
+[NO] 137/166 | Exploration of Digital Transformation of Basic Geology Laboratory Teaching System
+[NO] 138/166 | Research on the Construction of the "Six Integrations" Cultivation System and AI-empowered Applied Talents Curriculum System Based on the DTOA Teaching Model
+[NO] 139/166 | Leveraging Cross-Coverage of Equivalent Programs for Test Suite Augmentation
+[NO] 140/166 | Research on AI-driven Multi-dimensional Business English Writing Evaluation System
+[NO] 141/166 | Research on Data-Driven Modeling of Learning Effectiveness and Optimization Strategies for “Mechanical Korean”
+[NO] 142/166 | AutoCSMap: A Multi-Agent Automated Framework for Computer Science Problem-Solving Roadmap Generation
+[NO] 143/166 | Generative Artificial Intelligence in Education: A Dual-Track Framework of Technological Empowerment Pathways and Ethical Research – A Case Study of Large Language Models
+[NO] 144/166 | Academic Performance Prediction and Group Characteristics Analysis of Online-Offline Blended College English Learners Based on Data Mining
+[NO] 145/166 | Hot word analysis and sentiment analysis of teaching videos based on Naive Bayes
+[NO] 146/166 | Research on the Evaluation and Feedback Mechanism of Organizational Behavior Teaching Based on Machine Learning
+[NO] 147/166 | Exploration of innovative models of AI-based Chinese and Japanese traditional culture practice courses
+[NO] 148/166 | Cross-Cultural Moral Assessment Using SEM and Multi-Output Gradient Boosting Regressor: Construction and Validation of the AMEE Scale
+[NO] 149/166 | A Novel Bayesian Knowledge Tracing Model for College Students in Language Learning
+[NO] 150/166 | Exploration of innovative teaching and training mode for vocational undergraduate mining professionals based on numerical simulation of gas seepage in mine goaf
+[NO] 151/166 | Research on the Intelligent Evaluation System of Classroom Teaching Based on Artificial Intelligence
+[NO] 152/166 | The Impact of Family Climate on the Emotional Engagement of Secondary Vocational Students in the Digital Wave
+[NO] 153/166 | Research on Factors Influencing the Use of AI Software by Vocational College Students Based on the UTAUT Model
+[NO] 154/166 | The Application of Mixed Reality Technology in Flight Training
+[NO] 155/166 | Practical Research of Blending Teaching based on Xuexitong Platform
+[NO] 156/166 | Research on the Application of Artificial Intelligence Technology in Design Courses Teaching
+[NO] 157/166 | EduGraph: A Combined Framework of Large Language Models and Education Assessment Knowledge Graphs
+[NO] 158/166 | Building a "Symbiotic Learning" Model for AI Integration in Art and Design Education
+[NO] 159/166 | Knowledge Enhanced Dynamic Preference Learning for Personalized Educational Resource Recommendation
+[NO] 160/166 | Research on the Construction of Design Thinking Education Platform in Colleges and Universities Empowered by Blockchain
+[NO] 161/166 | Practical Research on Career Planning Guidance for High School Students Based on “Random Forest” Algorithm in Vocational Education Context
+[NO] 162/166 | AI-Driven Reconstruction and Optimization of Teaching Model for Fault Detection and Diagnosis in Industrial Safety Production
+[NO] 163/166 | Design and Optimizaton of Knowledge Graph-driven Skill Mapping System in Industry-Education Integration Environment
+[NO] 164/166 | Exploring Influence Maximization: State-of-the-Art Methods, Taxonomies, and Trends
+[NO] 165/166 | Computer technology-enhanced digital twin-driven innovation and practice of talent training mode of new engineering experimental and training
+[NO] 166/166 | Research and Practice of Mobile Teaching Mode for Economics and Management Majors Based on H5 Platform
+筛选完成：共 166 篇；Yes = 2 篇；已保存到 papers/select_paper2025-11-30.json。
+邮件发送成功！
+[2025-12-01 09:31:21] 任务执行成功！

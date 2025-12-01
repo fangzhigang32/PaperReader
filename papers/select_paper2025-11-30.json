@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2025-12-1",
+    "title": "AIGC-Assisted \"Teaching According to Aptitude\" and \"Personalized Learning\": A Design Approach Based on Large Language Models",
+    "authors": "Shu-Jun Li, Qiu-Ye Yu, Hao-Zhi Yang, Zhi-Yan Wang, Li-Ming Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764261",
+    "source": "ACM",
+    "abstract": "More than 2,000 years ago, classical Chinese educators put forward the concept of ``teaching students according to their aptitude\", but this idea has gradually given way to a system of ``formalism\" and ``bureaucracy\" during historical development. With the development of Artificial Intelligence Generated Content (AIGC), this is finally changing. However, the dependence on the network environment has brought about many hidden dangers such as network information interference and privacy data protection. To practice the concept of ``teaching students according to their aptitude\" put forward by educators in the classical Chinese era, we have designed a series of software CLAP (Chat Local and Persistent) based on AIGC technology and using large language models. On the other hand, the software can also help learners transfer their own conversational context, allowing them to ``personalize learning\" according to their situation. Of course, this software is still in the early stages of development, and its current functions are limited to scenarios based on generalized language learning, including programming language learning and foreign language learning. Future research may consider further focusing on multimodal support and complex discipline support.",
+    "title_zh": "基于大语言模型的AIGC辅助“因材施教”与“个性化学习”设计方法",
+    "abstract_zh": "两千多年前，中国古代教育家便提出了“因材施教”的理念，但随着历史的发展，这一理念逐渐被形式主义和官僚主义所取代。如今，随着人工智能生成内容（AIGC）技术的兴起，这一局面终于开始改变。然而，对网络环境的高度依赖也带来了诸多隐忧，如网络信息干扰以及隐私数据保护等问题。\n\n为了践行古代中国教育家提出的“因材施教”思想，我们基于AIGC技术与大语言模型，设计了一套名为CLAP（Chat Local and Persistent）的软件系列。该软件不仅能够帮助学习者根据自身情况实现“个性化学习”，还能使其在对话中持续保留并传递上下文信息，从而提升学习的连贯性与针对性。\n\n当然，目前该软件仍处于早期发展阶段，其功能主要局限于通用语言学习场景，包括编程语言学习和外语学习。未来的研究可进一步探索多模态支持以及复杂学科领域的应用拓展。"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Teaching Experiment Mode of Low-code Platform Integrated with Intelligent Agent",
+    "authors": "Ping Chen, Xing Cui, Enyou Xu, Haiping Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764222",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "低代码平台与智能代理融合的教学实验模式研究",
+    "abstract_zh": "None"
+  }
+]

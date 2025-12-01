@@ -1,0 +1,1496 @@
+[
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Construction and Application of an AI Literacy Evaluation System for Vocational Undergraduate Students",
+    "authors": "Yue Mei, Shuai Wang, Siyuan Bu, Bowen Deng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764284",
+    "source": "ACM",
+    "abstract": "With the rapid development of artificial intelligence technology, AI literacy has become one of the essential core competencies for vocational undergraduate students. Constructing a scientific and reasonable AI literacy evaluation system is of great significance for guiding and promoting the improvement of vocational undergraduate students' AI literacy. This paper first analyzes the connotation and components of vocational undergraduate students' AI literacy. Then, based on the Analytic Hierarchy Process (AHP) and factor analysis, an AI literacy evaluation index system for vocational undergraduate students is constructed, and the weights of each index are determined. Its effectiveness is verified through empirical research. The study shows that this system can scientifically reflect students' AI literacy levels, providing references for colleges to optimize teaching programs, for students to enhance themselves, and for enterprises to select talents.​"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Curriculum System Construction for Artificial Intelligence Technology Majors under the Integration of Industry and Education",
+    "authors": "Lili Chen, Cong Han",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764358",
+    "source": "ACM",
+    "abstract": "In the current era, as technological advancements continue to evolve, we have entered the information age, which is progressively transitioning into the age of artificial intelligence. To cultivate a reservoir ofAI talent, foundational education is essential. Training through educational institutions is crucial to develop professionals with expertise in artificial intelligence, preparing them for the changes of the future era. In today's educational philosophy, the integration of industry and education is a key strategy in vocational education. The construction of an AI course curriculum must incorporate this integrated approach to enhance the effectiveness of curriculum development and to nurture more outstanding talents in the field of artificial intelligence for China's future. This paper explores methods for constructing an AI technology curriculum system within the context of industry-education integration, aiming to provide references for the future development of China's AI industry."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "From \"Home-School Isolation\" to \"Data Symbiosis\": Theoretical Reconstruction and Paradigm Innovation of Digital Transformation in Family Education",
+    "authors": "Xiaoping Ran, Xiaojin Liu, Wenjin Zhou",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764297",
+    "source": "ACM",
+    "abstract": "Against the backdrop of smart education, family education has long been confronted with the “isolation predicament\" of fragmented home-school resources, obstacles to data intercommunication, and weakened emotional connection. This study takes digital transformation as the entry point, constructs a “data symbiosis\" theoretical framework, and explores the path of paradigm innovation for family education to move from isolation to collaboration. The research proposes a “data-emotion\" dual-cycle paradigm, indicatively builds a digital transformation maturity model consisting of three stages: “connection\", “collaboration\", and “symbiosis\", and designs a resource allocation mechanism based on dynamic digital credentials. Theoretically, it breaks through the paradox of technology empowerment, and practically provides a replaceable data governance solution for the new infrastructure of education. It offers theoretical and practical paradigms for resolving the home-school collaboration predicament and achieving inclusive education, and provides theoretical basis and policy references for promoting systematic changes in family education."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "AI-Driven Value-Added Assessment System for Higher Vocational Education Curriculum: A Case Study of Environmental Monitoring Course",
+    "authors": "Bo Zhang, Hui Yao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764348",
+    "source": "ACM",
+    "abstract": "This study addresses critical limitations in traditional vocational education assessment systems by integrating value-added assessment theory with artificial intelligence (AI) to develop a Two-Orientation Four-Dimensional (TOFD) evaluation model. Targeting environmental monitoring courses in higher vocational education, the proposed system overcomes fragmented evaluation dimensions, static monitoring, and delayed feedback inherent in conventional methods. The TOFD framework employs AI-driven analytics to track longitudinal student growth across four dimensions: knowledge acquisition, technical skills, professional literacy, and career development. Leveraging multi-source data from academic platforms, simulations, and industry partnerships, the model enables real-time competency profiling and dynamic feedback. A study with 97 students showed the value-added group outperformed the traditional-evaluation group, with ​12.59% rise in vocational skill certification rates; 11.14% higher competition awards; and 10.92% improved employer satisfaction. The process-oriented metrics demonstrated a 29.18% relative value-added rate in final project scores compared to initial benchmarks for individual cases, while the class-wide average reached 26.27%.Results validate the system's efficacy in bridging skill gaps, enhancing self-efficacy, and aligning vocational training with industry needs. The study establishes a replicable AI-powered assessment paradigm that shifts vocational education evaluation from terminal certification to competency development, offering actionable insights for curriculum reform and digital transformation in technical education."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Online and offline blended learning data mining for the course of “Information Statistics”",
+    "authors": "Min Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764237",
+    "source": "ACM",
+    "abstract": "This article takes the course of ``Information Statistics\" at Chengdu Neusoft College as the research object. By collecting online learning data on its Xueyin online platform and combining it with actual offline classroom teaching data, data mining is carried out to analyze the relationship between students' learning behavior and learning effectiveness after implementing a blended online and offline teaching mode. In depth analysis of students' learning behavior habits is conducted to provide support for subsequent teaching."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Cultivating Cross-Cultural Curiosity and Competence: Integrating Short-Form Social Media Content into Journalism Education to Enhance Students' Intercultural Communication Skills",
+    "authors": "Yue Zheng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764236",
+    "source": "ACM",
+    "abstract": "In today's globalized society, intercultural competency is vital for healthy interpersonal relationships and inclusive workplace cultures. This study proposes integrating short-form social media content into journalism education to enhance students' intercultural communication skills. By examining the impact of watching culturally diverse TikTok videos on intercultural curiosity—a precursor to effective intercultural skills—the research demonstrates that intercultural curiosity (heartset) is essential for developing perspective-taking skills and cultural awareness."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Neural network-based screening of people at risk for loneliness spectrum disorders",
+    "authors": "Huiqiu Yu, Zhiying Han, Jiayin Xing, Shengbo Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764350",
+    "source": "ACM",
+    "abstract": "This study proposes a neural network-based screening method for people at risk for autism spectrum disorder (ASD). The performance of three deep learning models, Multilayer Perceptron Machine (MLP), Gated Recurrent Unit (GRU) and Transformer, on Q-chat-10 questionnaire data is compared by analyzing publicly available datasets. Experimental results show that the GRU model outperforms other models in key metrics such as accuracy, recall, F1 score and AUC, and is suitable for large-scale ASD risk population screening. The method provides strong support for early intervention and accurate diagnosis."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Intelligent Evaluation of Multilayered Effects of BOPPPS Blended Curriculum on Intercultural Competence: A Data-Driven Analysis Using Random Forest Regression",
+    "authors": "Xin Yu, Shaobo Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764280",
+    "source": "ACM",
+    "abstract": "This study evaluates the cultivation of intercultural communicative competence (ICC) in non-Japanese major college students who learn Japanese instead of English through a BOPPPS blended curriculum, leveraging data-driven techniques. Utilizing Python-based Random Forest regression, the analysis identified key factors influencing ICC improvement, such as course completion rates and pre-test competency levels, and visualized via feature importance heatmaps. Analysis revealed differential growth among learners with varying Japanese proficiency. The findings underscore the efficacy of computational tools in assessing blended learning outcomes and highlight the need for stratified instructional design, integrated practical experiences, and technology-enhanced feedback mechanisms to optimize future hybrid course frameworks."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Modeling Student Course Selection Preferences Using K Means Optimization for Intelligent Recommendation",
+    "authors": "Ziya Tan",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764289",
+    "source": "ACM",
+    "abstract": "This paper presents a personalized course recommendation model that integrates K-Means-based dynamic clustering with a graph-based label propagation mechanism, designed to address cold start, interest drift, and limited feedback adaptation in existing educational recommendation systems. The model constructs a multi-source behavioral feature space from course evaluations, grade data, and interest questionnaires to cluster student preferences, and generates a heterogeneous student-course bipartite graph for label-based recommendation propagation. Experimental evaluations were conducted on a three-year dataset simulating a real university course selection system, comprising 6,200 students and over 450 courses. Results demonstrate that the proposed model significantly outperforms traditional collaborative filtering, matrix factorization, and graph convolutional methods across Precision@10, NDCG@10, and system responsiveness. Ablation studies further confirm the independent contributions of dynamic clustering and propagation mechanisms. The proposed method exhibits high scalability, adaptability, and interpretability, providing an effective solution for building feedback-driven and behavior-aware educational recommendation systems."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A Compression-Based Approach to Detecting Automated and Coordinated Behavior on Social Media",
+    "authors": "Edoardo Loru, Niccolò Di Marco, Matteo Cinelli, Walter Quattrociocchi",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3778356",
+    "source": "ACM",
+    "abstract": "Social media platforms are frequently targeted by entities engaging in automated or coordinated behavior, aiming to manipulate public opinion or conduct information operations without revealing their synthetic or managed nature. Research on detecting such actors faces the challenge of developing scalable, versatile methods that allow for consistent comparisons across diverse datasets. The challenge is even made more pressing by evidence of these actors on platforms beyond the extensively studied X (formerly Twitter), as well as the emergence of new platforms. We fill this gap by introducing a novel compression-based detection methodology, in addition to a new sparse method for network reconstruction that scales linearly under reasonable parameter choice. Being independent of the social media platform and the behavioral trace under study, our approach marks a departure from traditional methods that rely on multiple criteria or measures to assess user similarity. We evaluate our technique on multiple benchmark and real-world datasets, including widely known datasets related to political campaigns and emerging misinformation scenarios. We show that our approach provides a flexible unsupervised framework that effectively identifies both automated and coordinated activities across various behavioral traces, ensuring broad applicability."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Modeling Chinese Learners’ Flow Experience in Intercultural English Teaching Based on BP Neural Networks",
+    "authors": "Xuxia Dong, Benjie Ding",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764300",
+    "source": "ACM",
+    "abstract": "Flow theory emphasizes learners’ optimal psychological state during task engagement, which plays a crucial role in promoting performance and satisfaction in foreign language learning. This study constructed two Back Propagation (BP) neural network prediction models to investigate Chinese English-as-a-foreign-language (EFL) learners’ flow experience and the consequences in the context of intercultural English teaching. Based on a theoretical framework integrating flow antecedents, flow experience, and flow consequences, data were collected from 456 non-English major college students through structured questionnaires and writing tasks. The first BP neural network model was trained to predict flow experience from seven variables of flow antecedents, while the second model was developed to predict five learning outcome variables—knowledge, skill, attitude, satisfaction, and achievement—based on learners’ flow experience. The Levenberg–Marquardt (LM) algorithm was applied to ensure high training efficiency and prediction accuracy. Results showed strong correlations between flow antecedents and flow experience, as well as between flow experience and flow consequences. Both models demonstrated good predictive performance, with regression coefficients above 0.82 in training and testing phases. Although certain individual prediction errors were noted, most deviations remained within acceptable ranges. This two-stage modeling approach enhances interpretability, improves generalization, and provides valuable guidance for optimizing intercultural English instruction through flow-based educational design."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Incorporating Gamification Elements into Online Course Design - Taking Honor of Kings as an Example",
+    "authors": "Hua Tian",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764324",
+    "source": "ACM",
+    "abstract": "With the increasing popularization of online education methods, how to improve the effect of students' online course learning has become an important challenge for education technology. This paper explores the scheme of integrating gamification elements into online courses, establishes the model of students' participation in online courses, the arrangement of course modules, and the real-time feedback mechanism, and realizes the application of the functions and ranking reward mechanism inside the classic game ``King's Glory\" to the online courses in order to enhance the learning effect of students."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Knowledge Graphs towards AI-assisted Smart Education",
+    "authors": "Panpan Zhou, Zhengyong Zhang, Fan Yang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764342",
+    "source": "ACM",
+    "abstract": "The rapid development of artificial intelligence (AI) technologies has greatly advanced smart education, enabling more effective teaching and personalized learning approaches. To realize and enhance AI-assisted education, well-organized knowledge graphs, together with ample learning resources, play a fundamentally important role. In this study, we explore the construction of knowledge graphs and their integration with AI technologies. The application of these approaches to the course ``Design of Experiments” demonstrates its effectiveness and practical value in supporting personalized learning analytics and other functionalities."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A depth-interacting hexapod robot for assistive educational accompaniment of deaf children",
+    "authors": "Wenxing Ren, Xiaochun Xu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764303",
+    "source": "ACM",
+    "abstract": "Aiming at the communication and accompanying needs of deaf children, this paper designs and realizes a deep interaction hexapod robot for deaf children's auxiliary education and accompanying. Through the design of YOLOv5 gesture detection and recognition framework, combined with NVIDIA TensorRT acceleration technology, it realizes efficient gesture recognition and intelligent interaction between deaf children and the robot [7]. In order to realize intelligent guardianship for deaf children, this paper introduces depth information into the KCF target tracking algorithm to distinguish the foreground from the background, which improves the tracking accuracy by 20%. In addition, through the integration of depth camera, hexapod bionic design, high performance computing platform and multimodal feedback mechanism, it provides emotional accompaniment, gesture interaction and learning assistance for deaf children, aiming to help them better integrate into the society."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "The Application of Artificial Intelligence in Primary School Mathematics Teaching",
+    "authors": "Shengnan Ji, Zuxiang Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764235",
+    "source": "ACM",
+    "abstract": "With the continuous development and popularization of artificial intelligence technology, the field of education is also undergoing profound changes. Among them, the application of artificial intelligence technology in primary school mathematics teaching has become a topic of great concern. In schools, teachers can solve the problems often faced in traditional primary school mathematics teaching through innovative methods, provide students with more inspiring and personalized mathematics education, and cultivate students' creative thinking and problem-solving abilities. Taking primary school mathematics teaching as an example, this article introduces the application strategies of intelligent teaching, personalized learning guidance, and intelligent interactive teaching. It is expected to provide references for building smart classrooms, enhancing the effectiveness of mathematics classroom teaching, and improving teaching quality."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Deep Learning-Based Intelligent Matching Model for Industry-University-Research Collaboration Resources in Private Universities",
+    "authors": "Jiao Peng, Lingxian Jiang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3766917",
+    "source": "ACM",
+    "abstract": "The industry-university-research (IUR) collaboration can be regarded as the key tactic of enhancing the quality of talent nurturing in nonpublic colleges and universities. Nevertheless, there is the problem of inefficiency and less accuracy associated with the traditional approach of resource matching. In this study, the proposed Intelligent Matching Model of deep learning considers the Multi-dimensional Feature Extraction Network and intelligent Matching Model of the attention mechanism joining module to identify enterprise requirements and university resources associatively to effectively match the requirements of the needs. As can been seen in the experimental results, the model is found to achieve the matching accuracy of 92.347 per cent, which is an increase of 15.234 per cent as compared to the traditional means (and the F1-score of 0.896). This model defines efficient technical support to IUR cooperation and it has both theoretical and practical implications to the sector of private higher education."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Practice Path and Effect Evaluation of Blended Teaching Based on Micro-lectures in Database Courses",
+    "authors": "Xiyue Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764273",
+    "source": "ACM",
+    "abstract": "With the development of information technology, micro-lecture education, as a new educational model, has been widely adopted by universities. This study focuses on the \"Operating System and Database Maintenance\" course in the Accounting major, aiming to clarify how the blended teaching based on micro-lectures can effectively improve teaching quality. The specific exploration focuses on paths such as the construction of the micro-lecture resource system, the design of differentiated teaching strategies, and the establishment of a multi-dimensional evaluation system. By comparing the teaching data from the 2021-2024 academic years, the study analyzes the learning behaviors and effects of students under traditional and micro-lecture teaching models. Empirical evidence shows that the micro-lecture teaching model has significant advantages in improving students' grades, narrowing learning differences, and enhancing skill mastery. Moreover, different major students have varying adaptability to it, and there is a complex correlation between online learning activities and grades. This research provides empirical evidence and practical references for the teaching reform of database courses in higher vocational colleges."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on student performance prediction model based on Transformer-LSTM network",
+    "authors": "Jian Cui, Qianru Hao, Yue Zhou, Xingchen Liu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764351",
+    "source": "ACM",
+    "abstract": "Although there is no distinctive header, this is the abstract. This submission template allows authors to submit their papers for review to an ACM Conference or Journal without any output design specifications incorporated at this point in the process. The ACM manuscript template is a single column document that allows authors to type their content into the pre-existing set of paragraph formatting styles applied to the sample placeholder text here. Throughout the document you will find further instructions on how to format your text. If your conference's review process will be double-blind: The submitted document should not include author information and should not include acknowledgments, citations or discussion of related work that would make the authorship apparent. Submissions containing author identifying information may be subject to rejection without review. Upon acceptance, the author and affiliation information must be added to your paper."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Prevalence and Influencing Factors of Recessive Truancy Among Undergraduate Students in Chinese Medicine Universities: A Cross - sectional Study via Multiple Linear Regression",
+    "authors": "Jie Liu, Shuangxin Zhang, Xiuling Zhou, Lu Yang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764266",
+    "source": "ACM",
+    "abstract": "To gain insight into the current state of recessive truancy among undergraduate students in traditional Chinese medicine colleges and to analyze the factors influencing this issue. The goal is to provide teachers with a reference to enhance classroom engagement and improve the overall teaching atmosphere. A convenience sampling method was utilized, to select a total of 2,262 undergraduate students from Changchun University of Chinese Medicine between September and November 2024. The investigation employed a general information questionnaire and the College Students' Concealed Skipping Classes Scale. Univariate Analysis and Multiple Linear Regression was conducted to identify the factors influencing students' recessive truancy. A total of 1,968 valid questionnaires were collected, yielding a recovery rate of 87.0%. The overall score on the College Students' Concealed Skipping Classes Scale was 76.00, with a range from 70.00 to 82.00. Univariate analysis revealed that several factors influenced recessive truancy, including gender, place of origin, parents' educational backgrounds, parents' occupations, grade level, college attended, college entrance examination scores, and whether the major was adjusted. (p &lt; 0.05). Students in traditional Chinese medicine colleges experience recessive truancy, which is related to factors such as gender, place of origin, parents' educational background, parents' occupations, grade level, college attended, college entrance examination scores, and whether the major was adjusted. Schools should implement targeted measures to address these factors and reduce students’ recessive truancy behaviors."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Artificial Intelligence Empowered Literature Retrieval: Acquisition and Analysis of Scientific Information in Medical Basic Research under the New Medical Paradigm",
+    "authors": "Zhenzhao Guo",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764347",
+    "source": "ACM",
+    "abstract": "Artificial intelligence (AI) is revolutionizing medical literature retrieval by addressing the inefficiencies of traditional keyword-based methods in the era of “New Medical Science\". Confronted with information overload and stagnant knowledge updates, AI technologies—including natural language processing (NLP), knowledge graphs, and federated learning—enable semantic comprehension, dynamic knowledge discovery, and secure cross-institutional collaboration. Transformer-based models (e.g., BERT, GPT-4) enhance precision by interpreting contextual semantics, while recommendation systems personalize literature delivery through user behavior analysis. AI also safeguards integrity via plagiarism detection and blockchain-based data provenance. Challenges persist, such as terminological diversity and overreliance on AI tools, necessitating domain-specific model refinement, explainable AI frameworks, and hybrid pedagogy blending AI assistance with critical thinking training. Ethical risks are mitigated through federated learning with differential privacy and three-tier oversight. Future directions emphasize specialty-specific AI models, immersive Extended Reality (XR) learning environments, and global collaboration via initiatives like the ``Digital Silk Road\" for standardized data sharing. By integrating technological innovation with interdisciplinary education, AI empowers researchers to navigate evolving medical frontiers, fostering data-knowledge dual-driven talent aligned with precision medicine and smart healthcare paradigms."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "ROIS: Role-Based Multi-Agent Collaboration by Context-Time-Aware Information Sharing",
+    "authors": "Hanwen Qi, Tinghuai Ma, Kexing Peng, Xin Yu",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3779067",
+    "source": "ACM",
+    "abstract": "In complex cooperative tasks, Multi-Agent Reinforcement Learning (MARL) faces the dual challenges of an exponentially growing joint action space and the constraints of partial observability. While the Centralized Training with Decentralized Execution (CTDE) paradigm is widely adopted, it often leads to homogeneous policies that lack the necessary specialization for complex teamwork. While role-based methods encourage specialization, they often lack mechanisms for inter-agent interaction. Consequently, the lack of rich information for role assignment means their roles may be assigned ineffectively, hindering the convergence of the team policy to its optimum. To address this critical gap, we propose ROIS, a novel framework that enhances multi-agent collaboration by grounding dynamic role assignments in a context-time-aware information sharing mechanism. Our key insight is to leverage a dedicated information sharing module that captures multi-step temporal context, providing each agent with richer, tailored feedback from its teammates. This mechanism directly addresses the lack of inter-agent interaction, leading to more accurate and effective role assignments. This results in a more coherent task division, which guides specialized policies toward the optimal joint policy and drastically reduces ineffective exploration. We conduct extensive experiments on the demanding StarCraft II, SMACv2, and Multi-agent Particle Environment benchmarks. The results demonstrate that ROIS consistently achieves state-of-the-art performance, significantly outperforming a wide range of advanced baselines, particularly in scenarios requiring deep coordination and policy adaptation. Finally, comprehensive ablation studies confirm the essential contribution of each component to the framework’s success."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Application of Traditional Chinese Medicine Knowledge Graph Construction Technology",
+    "authors": "Wenqi Ren, Hongying Liu, Wei Wei, Tianqi Wang, Yifei Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764298",
+    "source": "ACM",
+    "abstract": "Traditional Chinese medicine (TCM) system is a complex system, data is sparse, and there are few isomorphic relationships between the data in it, in this paper we solve this problem by designing TCM model knowledge graph, applying big model algorithm to make it has the ability of intelligent answer TCM questions. TGW-MC: Based on multiterm knowledge collection, the TCM knowledge graph treatment framework is constructed by some of the entities, including medicinal parts of TCM entities and intermediate entities from them, with natural language processing (NLP) preprocessing. By integrating pre-trained language models and TextRank graph neural network, a knowledge graph-based large-scale model pre-training and reasoning approach was proposed to achieve the semantic representation of TCM knowledge. The method is used in the function of intelligent diagnosis and gives new thoughts for the intelligent application of TCM knowledge."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Big Data-Driven Model for Industry-Education Integration Quality Evaluation and Optimization",
+    "authors": "Ruirui Zou, Xingwang Pi, Yanjuan Li, Qian Liu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764337",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Adversarial Face Database against Deep Learning-Enabled Reconstruction Attacks",
+    "authors": "Hui Liu, Ling Ding, Jiageng Chen, Jinghua Wang, Xu Du, Jiabao Guo",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3779060",
+    "source": "ACM",
+    "abstract": "Face recognition systems offer a range of applications that enhance security, efficiency, and personalization, e.g., access control, identity verification, personalized services, etc. Mainstream facial recognition systems employ the Edge-Cloud architecture to protect user privacy by storing facial feature data instead of original facial images. However, recently emerging reconstruction attacks based on deep learning can recover the visual information of original facial images from facial features, resulting in face privacy disclosure. Existing anti-reconstruction approaches either compromise facial recognition accuracy or fail to meet real-time requirements. In this paper, we propose a practical privacy-preserving approach based on adversarial perturbations against reconstruction attacks. By incorporating subtle adversarial interference into facial features, the mapping relationship from facial features to original facial images is disrupted, and the baseline reconstruction networks cannot recover the original face image. We conducted experiments on two facial recognition models, Facenet and Arcface, both widely deployed in practical scenarios. The results show that the face recognition accuracy sacrifice of less than 1% can significantly reduce the quality of the reconstructed image. In terms of efficiency, the average time to generate an adversarial facial feature is less than 10 ms, meeting the real-time requirements of facial recognition."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Application of Support Vector Machine in Enhancing AI-Driven Critical Writing Instruction",
+    "authors": "Jingyi Cao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764339",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Integration and Effect Evaluation of Multimodal Artificial Intelligence Technology in Foreign Language Listening and Speaking Teaching",
+    "authors": "Mengdi Lu, Shuli Chang, Meng Miao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764291",
+    "source": "ACM",
+    "abstract": "This study uses the combination and effect evaluation of multimodal AI technology in foreign language listening and speaking teaching to explore the effectiveness of multimodal AI technology in improving students' listening and speaking ability, learning progress and interactivity. It analyzes students' academic performance, feedback from teachers and administrators, the effects of technology and users' actual experience. The research results show that multimodal AI can provide customized learning experience, greatly improve students' learning involvement and language level, and the system has demonstrated high accuracy and efficiency in the fields of speech recognition, image processing and natural language processing, achieving a significant enhancement in teaching effectiveness. This study provides scientific support for the practical application of multimodal AI in foreign language listening and speaking teaching, and provides valuable reference content for the use of technology in education and educational reform."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Implementation of an AIGC-Based Teaching Skills Assessment and Training System",
+    "authors": "Xuejie Zhong, Min Li, Ying Bao, Shutian Yin, Yuling Chen",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764274",
+    "source": "ACM",
+    "abstract": "With the rapid development of modern educational technology, how to deeply integrate the cultivation and assessment of teaching skills of teacher trainees with artificial intelligence technology has become an important issue in the field of education. Traditional assessment methods mainly consist of manual observation and subjective evaluation, but these evaluation methods have problems such as inefficiency and susceptibility to personal bias, which lead to unfair and inaccurate assessment results. To solve these problems, this paper designs and realizes an intelligent assessment and training system for teacher training skills based on AIGC technology. The system is capable of receiving and analyzing the lecture videos of teacher trainees, and extracting feature data including voice, body, expression, dress, PPT and other dimensions from the videos for comprehensive scoring, with the aim of providing teacher trainees with comprehensive, objective, and efficient assessment results and personalized training suggestions, and assisting in the enhancement of teacher trainees' teaching skills."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Progressive Laboratory Teaching Based on Data-oriented Thinking and Cognitive Load Regulation Empowered by AI",
+    "authors": "Huiyan Yi",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764233",
+    "source": "ACM",
+    "abstract": "Data-oriented Thinking is a core disciplinary thinking skill in computer networking Laboratory courses, and its cultivation strategy emphasizes transfer and application. Industry and enterprises urgently require talents equipped with Data-oriented Thinking, which drives the progression of Laboratory instruction from basic verification to practical application. This study adopts a ``verification–transfer” strategy, structuring each Laboratory as a progression from basic verification tasks to transfer-oriented application tasks. Following the Data-oriented Thinking process—task execution, data collection, data analysis, intelligent data interpretation, and principle verification—ChatGPT is employed to design verification tasks as well as practical or contextual application tasks, while AI teaching assistants assist in data interpretation. Cognitive load is regulated at the preparation, implementation, and summary stages of each Laboratory. Practical results indicate that students report high levels of satisfaction with the Data-oriented Thinking methodology, cognitive load regulation, and the support functions provided by the AI teaching assistant. A K-means clustering analysis of 97 questionnaire responses identifies three student profiles: higher-order thinking-oriented, AI-supported, and passive task-completing types. Targeted instructional optimization strategies are proposed for each profile."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "AI Smart Teaching Practices for \"Signals and Systems\" Based on Graphs",
+    "authors": "Wenjun Lu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764240",
+    "source": "ACM",
+    "abstract": "To further promote the teaching reform of the ‘Signals and Systems’ course, the teaching team has explored precision teaching methods based on knowledge graphs and the implementation path of AI-intelligent teaching. By constructing a series of course graphs, we have comprehensively organized and correlated the core concepts, knowledge points, and teaching content within the course, aiming to enhance students’ understanding and mastery of complex knowledge systems. Analysis of the graph and survey results indicate that AI-intelligent teaching based on knowledge graphs has improved students’ learning efficiency, enhanced their intrinsic motivation to learn, and pointed the way for the teaching reform of ‘Signals and Systems’ course."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Evaluation of Virtual Simulation Teaching Methods based on Knowledge Graphs",
+    "authors": "Yaping Wang, Shengbiao Li, Deyu Meng, Xiangfu Fu, Anshan Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764329",
+    "source": "ACM",
+    "abstract": "With the rapid development of artificial intelligence technology, carrying out digital empowerment in virtual simulation experiment course teaching and further practicing the concept of Outcome Based Education (OBE) is a new challenge facing practical teaching. This article conducts in-depth research on virtual simulation experiment teaching methods based on knowledge graphs, exploring innovative applications of artificial intelligence technology in the field of education. By constructing cutting simulation experiment cases and integrating knowledge graphs, students are provided with a systematic and complete knowledge system structure, which enhances their practical ability and innovative thinking. At the same time, the combination weight TOPSIS model is used to accurately evaluate the application effect of teaching cases. Research has found that the integration of virtual simulation experiments and knowledge graphs significantly improves students' understanding of the cutting process, enables in-depth analysis of the impact of cutting parameters on processing quality, and significantly enhances students' comprehensive abilities."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Applications of Deep Learning in Personalized Recommendation of Aesthetic Education Courses for College Students",
+    "authors": "Kejun Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764207",
+    "source": "ACM",
+    "abstract": "With the development of society and the constant renewal of educational concepts, the importance of aesthetic education in the cultivation of college students' comprehensive quality has become increasingly prominent. Aiming at the limitations of existing recommendation algorithms in dealing with large-scale data and complex user needs, this paper proposes a deep learning model that integrates long short-term memory network (LSTM) and double-layer attention mechanism. The model takes into account the long-term and short-term preferences of students, and provides more accurate personalized recommendation by learning students' historical behavior and current situation. The experimental results show that the algorithm proposed in this paper is superior to the traditional User-CF method in the key indicators of NDCG, MSE, precision and recall, which verifies its effectiveness and superiority in the personalized recommendation of aesthetic education courses."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "AIGC-Assisted \"Teaching According to Aptitude\" and \"Personalized Learning\": A Design Approach Based on Large Language Models",
+    "authors": "Shu-Jun Li, Qiu-Ye Yu, Hao-Zhi Yang, Zhi-Yan Wang, Li-Ming Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764261",
+    "source": "ACM",
+    "abstract": "More than 2,000 years ago, classical Chinese educators put forward the concept of ``teaching students according to their aptitude\", but this idea has gradually given way to a system of ``formalism\" and ``bureaucracy\" during historical development. With the development of Artificial Intelligence Generated Content (AIGC), this is finally changing. However, the dependence on the network environment has brought about many hidden dangers such as network information interference and privacy data protection. To practice the concept of ``teaching students according to their aptitude\" put forward by educators in the classical Chinese era, we have designed a series of software CLAP (Chat Local and Persistent) based on AIGC technology and using large language models. On the other hand, the software can also help learners transfer their own conversational context, allowing them to ``personalize learning\" according to their situation. Of course, this software is still in the early stages of development, and its current functions are limited to scenarios based on generalized language learning, including programming language learning and foreign language learning. Future research may consider further focusing on multimodal support and complex discipline support."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research Status and Prospects of “Artificial Intelligence in Education” in China: Visualization Analysis Based on CiteSpace",
+    "authors": "Qianyao Kuang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764334",
+    "source": "ACM",
+    "abstract": "With the rapid development of artificial intelligence technology, its integration with the field of education has become increasingly close, making it a hot topic in educational research. Using the CiteSpace, a visual analysis tool, this paper systematically studies and analyzes 1,984 core articles on “AI in Education” in CNKI, with the practice spanning 2016-2024, aiming to provide a comprehensive review of the current research status in this field. The study found that China has achieved abundant results in the application of artificial intelligence in education, the development of intelligent education systems, and the mining of big data in education, etc., but there are also some problems, such as the relative weakness of theoretical research, and the lack of in-depth mutual cooperation between multiple subjects and multiple disciplines. On the basis of summarizing the current situation, this paper presents prospects for future research directions of “Al in Education\", including deepening the construction of Al education theory, strengthening multidisciplinary cross-research, and promoting the application of Al technology in educational equity and personalized learning, with a view to providing references and reference for researchers in this field."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Application of Artificial Intelligence in Higher Education——A Co-word Analysis Based on Vosviewer and Citespace",
+    "authors": "Hao Zhang, XinYing Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764257",
+    "source": "ACM",
+    "abstract": "Currently, artificial intelligence has become a hot research topic in the field of higher education. In order to clarify the development trends of artificial intelligence in higher education, this paper analyzes 2,380 documents from the Web of Science Core Collection from 2005 to 2025 using VOSviewer and CiteSpace software. Research conclusions are drawn through comprehensive analysis from aspects such as publication volume, publishing countries and regions, keywords, and development trends. Starting from 2018, related papers have shown a significant growth trend, reaching the peak of publications in recent years in 2024. Cluster analysis further reveals the diversity of research topics, covering directions such as ``adaptive argumentation learning,\" ``educational intelligence,\" and ``technology acceptance model,\" among which the outbreak of the novel coronavirus in 2019 accelerated the integration of online education and AI. This paper provides development strategies for understanding the theoretical evolution and practical paths of AI in higher education, analyzes potential risks existing in the alienation of educational subjects and ideological fields in the application of artificial intelligence in higher education, and proposes countermeasures such as constructing a national-level intelligent education strategic system, focusing on cultivating students' critical thinking and higher-order cognitive abilities, and enhancing teachers' AI literacy and teaching innovation capabilities, providing data support for future educational model innovation and policy formulation."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Construction and Application of Data Resource System of College Smart Classroom",
+    "authors": "Na Yang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764308",
+    "source": "ACM",
+    "abstract": "In the era of digital transformation of education, smart classrooms are innovating the educational model by seamlessly integrating information technology with teaching space. However, the current data resources are often fragmented, resulting in storage isolation, analysis lag and application inefficiency. These problems hinder the intelligent development of key areas such as teaching quality evaluation and equipment maintenance optimization. To address these challenges, this study proposes a five-layer smart classroom data resource architecture covering data acquisition, storage, management, analysis, and application. Through multi-source perception technology, teaching equipment, student behavior, environmental parameters and network interaction data are integrated, and a hierarchical and classified storage mechanism and data quality management system are constructed. The LSTM neural network model is used to mine the long-term dependencies of time series data. The architecture is helpful to the dynamic optimization of teaching decision, the active warning of equipment failure and the intelligent recommendation of environmental regulation, and provides a comprehensive solution to achieve the precision of education process and the scientific management of teaching."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Artificial Intelligence Empowers Learning—Exploration of Student-centered Personalized Learning Paths",
+    "authors": "Peiying Dong, Feng Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764333",
+    "source": "ACM",
+    "abstract": "In order to fully explore the personalized learning path centered on students, the artificial intelligence C5.0 decision tree algorithm is used to conduct in-depth data analysis to provide decision support for the personalized learning path of students. First, the principle of the artificial intelligence C5.0 decision tree algorithm is analyzed, and the original attributes are improved by introducing information entropy to improve the calculation speed of the information gain ratio. Secondly, taking students' English assisted learning as an example, 4 learning paths are designed, 7 most relevant student historical attribute characteristics are selected, and the personalized path recommendation system process is introduced. Finally, the actual example is analyzed. The results show that the accuracy of the training set of the improved artificial intelligence C5.0 decision tree algorithm reaches 90.5%, and the training time is only 840ms. At the same time, the pass rate of the students' unified examination is compared to verify the effectiveness of the student-centered personalized learning path recommendation system."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the design and application of MOOC-based blended teaching mode for animation majors",
+    "authors": "Yan Kang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764209",
+    "source": "ACM",
+    "abstract": "The application of MOOC blended teaching mode in the teaching of animation provides a new path to improve teaching quality. Based on the characteristics of MOOC platform, this paper constructs a ``three-phase and four-phase” hybrid teaching mode, and explores its practical effect in animation professional courses with data analysis. Through quantitative comparison of MOOC teaching and traditional teaching mode, the study evaluates students' learning hours, class participation, test scores and quality of practical works. The results show that the model effectively improves students' learning outcomes, with a 15.7% increase in MOOC completion rate, a 20% increase in class participation, and a 16% increase in work quality scores. The study further optimizes the MOOC course structure, interaction mode and assessment system in order to enhance students' independent learning ability and practical innovation ability, which provides theoretical basis and practical support for the teaching reform of animation majors."
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Leveraging Symmetry in GR(1) Synthesis",
+    "authors": "Ilia Shevrin, Shahar Maoz",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3778355",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research of teachers and students on environmental education from primary school with machine learning analysis - A case study in Sichuan-Chongqing, China",
+    "authors": "Yan Yang, Dan Luo, Chaorong Liu, Wenke Hu, Xiqiao Wu, Chuan Luo",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764276",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Digital Technology-Driven Innovation in Ideological and Political Education: An Evaluation Framework Integrating Knowledge, Attitude, and Practice",
+    "authors": "Jing Hou, Mingjie Cao, Beili Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764352",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Knowledge Mapping of Immersive Learning Research: A Visual Analysis",
+    "authors": "Haidan Yin",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764322",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Application of Data Mining Algorithms in Adaptive Learning Models for English Teaching",
+    "authors": "Weifeng Li, Yinpeng Hu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764221",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "AI cognitive differences and the evolution of learning behaviors from an interdiscipli-nary perspective: a data-driven study based on a survey of AI literacy among college students",
+    "authors": "Cheng-Yao Duan, Yan Liang, Fei-Fei Wang, Zhi-Yan Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764299",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A Quantitative Research on the Key Influencing Factors of Pre-Service Teachers' Digital Literacy Based on K-Means Algorithm",
+    "authors": "Meiting Cheng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764272",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Topic Concentration in Elementary Students' Compositions Using NLP Techniques",
+    "authors": "Min Guo, Yongquan Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764357",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Teaching Methodologies for Key Computational Techniques in Medical Signal Processing: A Case-Driven Medical-Engineering Integration Approach",
+    "authors": "Yuan Gao, Xiaofeng Jiang, Weiwei Zhao, Chuanbiao Wen",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764354",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Construction and Practice of Project-Based Teaching in Surgical Nursing Based on Artificial Intelligence",
+    "authors": "Wen Liu, Ling Cheng, Daning Wang, Yongsheng Qin, Kongling Yi, Bowen Cui",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764231",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "The construction of a global communication mechanism for Shaanxi's traditional festival culture driven by the two-wheel drive of “foreign language + AI”",
+    "authors": "Ya Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764360",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Exploring the role of errors in programming learning",
+    "authors": "Alyssa Shuang Sha, Bernardo Pereira Nunes, Jiayi Shen",
+    "publish": "ACM Transactions on Computing Education",
+    "url": "https://doi.org/10.1145/3778857",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Impact Assessment of Generative AI Integration in Higher Education Teaching and Learning",
+    "authors": "Wanlong Tan, Guolin Yang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764319",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Augmented Reality-Driven Educational Puzzle Toys to Promote Children's Cultural Heritage Learning",
+    "authors": "Xinzhe Liao, Amirrudin Kamsin, Nurul Fazmidar Mohd Noor, Lingxin Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764255",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the innovative model of counselor studios in higher vocational colleges based on machine learning algorithms",
+    "authors": "Fang Xu, Jiping Li, Zhengding Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764286",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Leveraging BERT and Text Mining to Analyze Cross-Cultural Communication in Educational Settings: Insights into Interaction, Collaboration, and Trust",
+    "authors": "Guanzheng Chen, Zhongyuan Liao, Rong Sun",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764344",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Translation Norms and Fingerprints: A Computational Stylistic Analysis of Four English Translations of Fusheng Liuji",
+    "authors": "Yan Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764270",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Implementation of Immersive English Course Moral Education System Based on VR/AR Technology",
+    "authors": "Shuai Cao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764331",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3764206",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Deep Learning-Based Multi-Scale Detection Algorithm for Classroom Behaviors of International Students in China",
+    "authors": "Yinghui Zhao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764295",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Application Research of SDN and NFV in MOOCs University English Teaching Wireless Network",
+    "authors": "Zongjun Xu, Guanghua Ye",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764293",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Construction of Teaching Resource Organization Algorithm Based on Knowledge Graph",
+    "authors": "Xin Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764311",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Integrating Generative AI into Translation Pedagogy: Personalized Feedback and Adaptive Learning",
+    "authors": "Jing Han, Zhankun Mo",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764356",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Application of Generative Artificial Intelligence in Interior Design Education and Teaching",
+    "authors": "Linzhe Hao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764323",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Employment Trend Prediction and Guidance Methods for College Students on Decision Tree Algorithm",
+    "authors": "Qun Liang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764285",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Reforming Vocational Education in China: A Text Mining Analysis of the New Vocational Education Law and Its Implications for Industry-Education Integration, Quality Enhancement, and Skill Development",
+    "authors": "Chao Zhu, Guanghong Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764307",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "The Exploration and Practice of Classroom Teaching of Computer Major Courses in Colleges and Universities under the Innovative Teaching Mode of “Four in One”",
+    "authors": "Xiaodan Zhang, Tengfei Cao, Chuanqian Tang, Guojing Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764230",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "OBE-Based “AI+ practice” Teaching Model: Design, Implementation and Intelligent Assessment",
+    "authors": "Siyu Shen, Junxia Xiong, Yue Yang, Feiyan Huang, Changqing Song, Zhicheng Dai",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764225",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Artificial Intelligence Generated Content Enabling Education Meta-Universe: Development Status and Path Optimization",
+    "authors": "Xin Liu, Xinyi Jiang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764216",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Introduction to the Special Issue on LLM Empowered Internet of Things Part 1",
+    "authors": "Wei Dong, Jiliang Wang, Stephan Sigg, Luca Mottola",
+    "publish": "ACM Transactions on Internet of Things",
+    "url": "https://doi.org/10.1145/3774947",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Reform of the 'Pharmaceutical Administration' Digital Intelligence Course: Research on the Application of Knowledge Graphs and AI Teaching Assistants",
+    "authors": "Ling Su, Juan Liu, Qiping Yang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764212",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "BLEU-Based Evaluation of Papago Translation Quality",
+    "authors": "JinQiu Kong, Wenbo Lu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764317",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "FedPRS: A Privacy-preserving Representation Synthesis Framework for Federated Contribution Evaluation",
+    "authors": "Yuwei Fan, Yuan Yao, Wei Xi, Quan Zhao, zelei Liu, Lixin Fan, Qiang Yang, Jian Jin",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3779055",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Hybrid Teaching Design and Interaction Mechanism Optimization in Higher Education Based on the DeepSeek Large Language Model",
+    "authors": "Hongmeng Shao, Shichao Xu, Wei-Min Zhong, Riliang Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764220",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Corpus-based Intelligent EFL e-Textbooks Analysis: Focusing on Cultural Representation",
+    "authors": "Nan Huang, Chenming Lyu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764254",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Random Forest for Multi-Output Analysis of University Students' Prosocial Behaviors",
+    "authors": "Xuan An, Jie Zhou",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764249",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Innovative Pathways for Russian Language Teaching in the AI Era: Integrating Machine Learning and Natural Language Processing for Future Talent Cultivation",
+    "authors": "Lixin Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764219",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Teaching Experiment Mode of Low-code Platform Integrated with Intelligent Agent",
+    "authors": "Ping Chen, Xing Cui, Enyou Xu, Haiping Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764222",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Real-Time Analysis Model of Teaching Quality for Higher Education Based on Complex Event Processing",
+    "authors": "Feng Lin, Binfang Tang, Guohua Qin, Shuo Sun, Junkai Lin",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764271",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Analysis of MOOC Comments and Public Opinions based on the BERT-CNN model",
+    "authors": "Lisha Yao, Yiwen Zhang, Hongmei Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764321",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "KARM: Knowledge-Aware Temporal Gating with Multi-Head Attention for Course Recommendation",
+    "authors": "Xinyu Zhou, Yongde Guo",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764252",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Visual Analysis of the Research on AI in Vocational Education: A Bibliometric Perspective",
+    "authors": "Gang Du, Peimeng Yan",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764305",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Online Learning Behavior and Achievement Prediction Model for International Chinese Learners",
+    "authors": "Qiaodan Gan",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764267",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "IASTER: A LLM-based Dynamic Intent-Aware Semantic and Temporal Enhanced Recommendation Framework for ICT Learning Resources",
+    "authors": "Qianhe Zheng, Haihong E, Zichen Tang, Jiacheng Liu, Zhongjun Yang, Yang Liu, Zemin Kuang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764214",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Agent-Assisted Blended Learning Model for AI General Education in Vocational Colleges: A Case Study",
+    "authors": "Na Liu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764304",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "From Chatbots to Generative AI: The Evolution of Conversational Agents in Education (2010-2024)",
+    "authors": "Mingyan Luo, Bin Wen",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764301",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "The Application of Artificial Intelligence Methods in College  Students' Innovation and Practice Education",
+    "authors": "Yuanyuan Dai",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764325",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Application of Artificial Intelligence Technology in Students ' Psychological Counseling",
+    "authors": "Xiangning Liu, Kesui Deng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764210",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Application of Artificial Intelligence in Elementary School Contextual Composition Teaching",
+    "authors": "Xueyan Liu, Zuxiang Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764234",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the construction of teaching evaluation model of Civics course based on convolutional neural network",
+    "authors": "Tao Zhang, Lingdai Meng, Guobin Wang, Mi Wang, Zhimin Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764251",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Implementation of an Innovative Quality Evaluation System for College Students in Higher Vocational Colleges",
+    "authors": "XiuJun Nie, FengHua Xia, XiaoJuan Liu, Zheng Li, Juan Yin, Xia Zhao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764247",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Study and Evaluation of Learning Motivation among Students in Capital Vocational Colleges Utilizing the Support Vector Machine Technique",
+    "authors": "Huali Dong, Kejun Sun, Qian Liu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764282",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Personalized English Learning Path Recommendation Algorithm Based on Big Data",
+    "authors": "Caixia Chen",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764315",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on AI-Driven Teaching Reform of Microelectronics Science and Engineering in Applied Undergraduate Institutions from the Perspective of Industry-Education Integration -- A Case Study on the Curriculum Construction of Design and Implementation of Artificial Intelligence Systems",
+    "authors": "Kai Wang, Tiejun Gao, Fenqi Liang, Qiang Li, Wei Wang, Xiurong Lu, Xiang Jin",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764346",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Intelligent Intervention System of Ideological and Political Education for College Students based on Artificial Intelligence Emotion Recognition",
+    "authors": "Zhenlei Wang, Xiangrui Teng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764349",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Dual-path Synergy: The Mechanism and Risk Governance of AIGC in Reshaping College English Teaching",
+    "authors": "Shuo Yang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764361",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Development of Virtual Simulation Teaching System for Electronic Technology and Welding Comprehensive Training Based on VR",
+    "authors": "Fei Cong, Qianran Tang, Jiangcheng Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764313",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Construction and Empirical Study of a Project-Driven Online-Offline Blended Learning Model by Linear Regression, Multiple Regression, and Principal Component Analysis",
+    "authors": "Yumin Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764264",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Construction of Teaching Evaluation System for New Energy Vehicle Technology Specialties Driven by Artificial Intelligence",
+    "authors": "Hui Wang, Shiping Wu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764258",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Reform and Practice of Teaching Mode for \"Principles and Applications of Microcontrollers\" in the Perspective of Digital and Intelligent Transformation",
+    "authors": "Ze Li, Qing Ye, Xiaoxue Jin",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764327",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Evaluating Picture Description Speech for Dementia Detection using Image-text Alignment",
+    "authors": "Youxiang Zhu, Nana Lin, Xiaohui Liang, John A. Batsis, Robert M. Roth, Brian MacWhinney",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3777482",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Exploration of the Application Path of AI Technology Empowering Blended Teaching in Vocational Education",
+    "authors": "Jing He, Dan Zhang, Xiaoyang Xu, Yan Su",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764260",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Innovation of Educational and Teaching Methods under the Background of Artificial Intelligence",
+    "authors": "Zhaocui Han, Hongtang Chen, Naijian Chen, Jie Lv, Quancheng Dong, Shikui Zhao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764232",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Construction of a design cross-disciplinary resource integration platform based on blockchain",
+    "authors": "Jian Rao, Juan Peng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764309",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "The Role of Computer Aalgorithms in Promoting the Integration of Critical Thinking into Disciplinary Construction in Universities",
+    "authors": "Zhengrui Ma",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764310",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Implementation of a Task-Driven and Data-oriented Thinking Flipped Classroom for Computer Networks Empowered by Intelligent Technologies",
+    "authors": "Huiyan Yi",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764211",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "GenAI Usage Behaviors and Learning Burnout in Higher Education: The Mediating Role of Plagiaristic Practices and Classroom Overreliance",
+    "authors": "Hui Luo, Yalan Liu, Chunxiao Yan",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764355",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Eye Tracking and Facial Expression-Based Emotion Recognition for Personalized Asynchronous online Learning",
+    "authors": "Ziyuan Liu, Huan Deng, Kejun Liu, Lin Wei, Shaoze Feng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764269",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Practice Research of Children's Art Ability Assessment Testing System",
+    "authors": "Yang Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764246",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Implementation of Machine Vision Teaching System",
+    "authors": "Hao Yu, Fengyan Xiao, Liquan Wang, Jinmao Dong, Xiang Jin",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764262",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Application Path of Artificial Intelligence Technology in Ideological and Political Education -- Based on Knowledge Graph and Topic Evolution Analysis",
+    "authors": "Xiaoyu Jian",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764318",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Online Collaborative Learning Model Based on Cloud Computing Platform",
+    "authors": "Jing Zhang, Yinan Guo",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764328",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "CoDeR+: Interest-aware Counterfactual Reasoning for Sequential Recommendation",
+    "authors": "Sitao Lin, Shuai Tang, Xiaofeng Zhang, Jianghong Ma, Ziao Wang",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3778863",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Application of Generative Artificial Intelligence in Comprehensive English Assessment of Higher Vocational Colleges",
+    "authors": "Yang Liu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764279",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the strategy of building a smart laboratory under the background of artificial intelligence",
+    "authors": "Xigang Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764229",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on political Education Content Recommendation Model for Colleges and Universities Based on Graph Neural Networks",
+    "authors": "Wenhui Jiang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764296",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Towards Accurate and Smooth Human Motion Reconstruction from Sparse Tracking with State Space Model",
+    "authors": "Kun Dong, Jian Xue, Zehai Niu, Qingyuan Liu, Shun Mao, Ke Lu, Xing Lan",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3778860",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "The Impact of Generative Artificial Intelligence on Higher Education",
+    "authors": "Dong He",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764256",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Construction of Integrated Curriculum Ideological and Political Network Teaching Platform",
+    "authors": "Liying Yan, Ning Ding, Peng Liu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764244",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A Study on Assessing Innovation and Entrepreneurship Competence and Enhancing Educational Pathways for Higher Vocational Students Using an Enhanced FAHP Method",
+    "authors": "Xin Di",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764362",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Ethical Risks and Preventive Measures of Digital Textbooks",
+    "authors": "Zhen Shao, Zuxiang Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764343",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Application research on science popularization education display of Fagaceae seeds based on information visualization technology",
+    "authors": "Qianhang Qin, Yiting Yang, Wenda Tian",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764340",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A hybrid teaching system for artificial intelligence vocational English courses based on SPOC",
+    "authors": "Yue Yin",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764263",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on AI-Driven Curriculum Reform in System Analysis and Design",
+    "authors": "Zhizhong Li, Weilin Long, Juxia Wei",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764259",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research and Implementation of a Virtual Teaching Platform for Electrical Testing",
+    "authors": "Zhiqiang Hu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764227",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Practice of High School Mathematics Self-Learning Assistance System Based on Learning from Examples and by Doing Method",
+    "authors": "Yu Wang, Tianyong Chen",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764239",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A Knowledge-Graph-Based Intelligent Question Answering System: A Case Study in Agro-Engineering Integration",
+    "authors": "Tao Bian, Jianping Sang, Wuxin Yu, Tonghui Qian",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764338",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Algorithm Design and Optimizing Model of an Intelligent Teaching System for 3D Printing Courses",
+    "authors": "Bin Gao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764223",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Opportunities and Challenges of Integrating Artificial Intelligence into Adult Higher-Education English Instruction",
+    "authors": "Jingyi Han",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764306",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Synergistic Mechanism of Dual-Cycle Driven Practical Teaching Reform in Artificial Intelligence Courses: Industry Demand-Driven Guidance and Teaching Innovation Response",
+    "authors": "Kai Wang, Tiejun Gao, Jing Bai, Wenqing Hao, Xiang Jin",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764245",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A Review of the Application of Generative Artificial Intelligence in Curriculum Teaching",
+    "authors": "Xiaolin Rui",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764243",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Application of SVM Algorithm in the Digital Talent Cultivation Model for Higher Continuing Education in Chinese Medicine",
+    "authors": "Xin Xiang, Dongming Li, Yan Song",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764218",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Construction of Career Orientation Model Based on the Analysis of the Growth Trajectory of Students in Private Colleges and Universities",
+    "authors": "Zhe Huang, Donghong Zeng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764292",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research and design of an adaptive teaching system for Chinese majors",
+    "authors": "Xiaona Du",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764345",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A Data-Driven Study of Rumor and Counter-Rumor Propagation Dynamics among University Students Based on an Enhanced SICR Model",
+    "authors": "Ruozhu Zhao, Haiyi Sun",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764250",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A Novel Teaching Method for Database Courses Based on AI-Driven Automated Programming",
+    "authors": "Feng Zhu, Zhou Zeng, Kai Sun",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764215",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Application of VR System for Negative Emotion Regulation of Students in Private Undergraduate Colleges",
+    "authors": "Mengbo Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764332",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Ethical Thresholds and Educational Interventions in AI-Generated Ambiguous Expressions in Japanese",
+    "authors": "Xudan Xiao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764320",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Personalized Path to Language Education Supported by Artificial Intelligence",
+    "authors": "Zichen Liao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764242",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Exploration of Digital Transformation of Basic Geology Laboratory Teaching System",
+    "authors": "De-Wen Liu, Gen-Hou Wang, De-Bing Xu, Yu-Shuai Wei",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764226",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Construction of the \"Six Integrations\" Cultivation System and AI-empowered Applied Talents Curriculum System Based on the DTOA Teaching Model",
+    "authors": "Juxia Wei, Zhizhong Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764294",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Leveraging Cross-Coverage of Equivalent Programs for Test Suite Augmentation",
+    "authors": "Antonia Bertolino, Guglielmo De Angelis, Felicita Di Giandomenico, Francesca Lonetti",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3778362",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on AI-driven Multi-dimensional Business English Writing Evaluation System",
+    "authors": "Suna Tang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764290",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Data-Driven Modeling of Learning Effectiveness and Optimization Strategies for “Mechanical Korean”",
+    "authors": "Lanlan Song",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764224",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "AutoCSMap: A Multi-Agent Automated Framework for Computer Science Problem-Solving Roadmap Generation",
+    "authors": "Jiacheng Liu, Haihong E, Zichen Tang, Zhongjun Yang, Yang Liu, Qianhe Zheng, Kewei Feng, Zemin Kuang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764213",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Generative Artificial Intelligence in Education: A Dual-Track Framework of Technological Empowerment Pathways and Ethical Research – A Case Study of Large Language Models",
+    "authors": "Juan Wu, Zhifang He",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764326",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Academic Performance Prediction and Group Characteristics Analysis of Online-Offline Blended College English Learners Based on Data Mining",
+    "authors": "Menglu Li, Wenxuan Hou, Haiqing Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764281",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Hot word analysis and sentiment analysis of teaching videos based on Naive Bayes",
+    "authors": "Lisha Yao, Yiwen Zhang, Hongmei Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764268",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Evaluation and Feedback Mechanism of Organizational Behavior Teaching Based on Machine Learning",
+    "authors": "Chunsun He",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764278",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Exploration of innovative models of AI-based Chinese and Japanese traditional culture practice courses",
+    "authors": "Ya Li",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764359",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Cross-Cultural Moral Assessment Using SEM and Multi-Output Gradient Boosting Regressor: Construction and Validation of the AMEE Scale",
+    "authors": "Jing Yuan, Tianze Shen, Yuming Zhang, Hui Cheng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764335",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "A Novel Bayesian Knowledge Tracing Model for College Students in Language Learning",
+    "authors": "Jing Chen, Qin Ni, Huilin Chen, Lu Liu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764277",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Exploration of innovative teaching and training mode for vocational undergraduate mining professionals based on numerical simulation of gas seepage in mine goaf",
+    "authors": "Zhen Ma, Yongxiao Jia",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764341",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Intelligent Evaluation System of Classroom Teaching Based on Artificial Intelligence",
+    "authors": "Dawei Liu, Yueping Peng, Shujing Gao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764265",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "The Impact of Family Climate on the Emotional Engagement of Secondary Vocational Students in the Digital Wave",
+    "authors": "Siqi Wang, Le Ye, Xi Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764253",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on Factors Influencing the Use of AI Software by Vocational College Students Based on the UTAUT Model",
+    "authors": "Qian Cao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764316",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "The Application of Mixed Reality Technology in Flight Training",
+    "authors": "Shengjie Wang, Yuanxu Wang, Weiqi Cao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764217",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Practical Research of Blending Teaching based on Xuexitong Platform",
+    "authors": "Shijun Zhang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764228",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Application of Artificial Intelligence Technology in Design Courses Teaching",
+    "authors": "Qiaoxia Wang, Xin Xu, Yao Sun, Xiaoxi Fan",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764330",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "EduGraph: A Combined Framework of Large Language Models and Education Assessment Knowledge Graphs",
+    "authors": "Yixuan Fang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764275",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Building a \"Symbiotic Learning\" Model for AI Integration in Art and Design Education",
+    "authors": "Zhixian Xie, Shan Fang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764238",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Knowledge Enhanced Dynamic Preference Learning for Personalized Educational Resource Recommendation",
+    "authors": "Liqin Wang, Rui Zhang, Xu Wang",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764288",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research on the Construction of Design Thinking Education Platform in Colleges and Universities Empowered by Blockchain",
+    "authors": "Jian Rao, Mengting Chen",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764287",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Practical Research on Career Planning Guidance for High School Students Based on “Random Forest” Algorithm in Vocational Education Context",
+    "authors": "Xiang Jin, Jinmao Dong, Tiejun Gao, Yanli Chu, Jianjun Zhao",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764283",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "AI-Driven Reconstruction and Optimization of Teaching Model for Fault Detection and Diagnosis in Industrial Safety Production",
+    "authors": "Ming-Qing Zhang, Yuan Xu, Yan-Lin He, Yang Zhang, Xiao-Lu Song",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764241",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Design and Optimizaton of Knowledge Graph-driven Skill Mapping System in Industry-Education Integration Environment",
+    "authors": "Ruirui Zou, Yanjuan Li, Kun Zhang, Qian Liu",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764336",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Exploring Influence Maximization: State-of-the-Art Methods, Taxonomies, and Trends",
+    "authors": "Sunil Kumar Meena, Shashank Sheshar Singh, Kuldeep Singh",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3779058",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Computer technology-enhanced digital twin-driven innovation and practice of talent training mode of new engineering experimental and training",
+    "authors": "Xiangfu Fu, Yaping Wang, Yuqi Fan",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764314",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-1",
+    "title": "Research and Practice of Mobile Teaching Mode for Economics and Management Majors Based on H5 Platform",
+    "authors": "Jun Yao, Jiazheng Peng",
+    "publish": "Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3764206.3764208",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
