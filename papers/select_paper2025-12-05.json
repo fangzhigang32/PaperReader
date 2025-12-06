@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2025-12-6",
+    "title": "Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks",
+    "authors": "Meiyu Lin, Haichuan Zhang, Jiale Lao, Renyuan Li, Yuanchun Zhou, Carl Yang, Yang Cao, Mingjie Tang",
+    "publish": "Proceedings of the ACM on Management of Data",
+    "url": "https://doi.org/10.1145/3769762",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "你的基于大语言模型的文本转SQL模型安全吗？通过后门攻击探索SQL注入",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution",
+    "authors": "Karl Aaron Rudkowski, Sallar Ahmadi-Pour, Rolf Drechsler",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2025.3641038",
+    "source": "IEEE",
+    "abstract": "Virtual Prototypes (VPs) are important tools in modern hardware development. At high abstractions, they are often implemented in SystemC and offer early analysis of increasingly complex designs. These complex designs often combine one or more processors, interconnects, and peripherals to perform tasks in hardware or interact with the environment. Verifying these subsystems is a well-suited task for VPs, as they allow reasoning across different abstraction levels. While modern verification techniques like symbolic execution can be seamlessly integrated into VP-based workflows, they require modifications in the SystemC kernel. Hence, existing approaches modify and replace the SystemC kernel, or ignore the opportunity of cross-level scenarios completely, and would not allow focussing on special challenges of particular subsystems like peripherals. We propose CrosSym and SEFOS, two opposing approaches for a versatile symbolic execution of peripherals. CrosSym modifies the SystemC kernel, while SEFOS instead modifies a modern symbolic execution engine. Our extensive evaluation applies our tools to various peripherals on different levels of abstractions. Both tools’ extensive sets of features are demonstrated for (1) different verification scenarios, and (2) identifying 300+ mutants. In comparison with each other, SEFOS convinces with the unmodified SystemC kernel and peripheral, while CrosSym offers slightly better runtime and memory usage. In comparison to the state-of-the-art, that is limited to Transaction Level Modelling (TLM), our tools offered comparable runtime, while enabling cross-level verification with symbolic execution.",
+    "title_zh": "基于符号执行的SystemC外设跨层次验证方法比较",
+    "abstract_zh": "虚拟原型（VPs）是现代硬件开发中的重要工具。在较高抽象层次上，它们通常采用SystemC实现，能够对日益复杂的系统设计进行早期分析。这些复杂的设计往往结合一个或多个处理器、互连结构以及外设，以在硬件中执行任务或与环境交互。验证这些子系统正是虚拟原型的适用领域，因为它们支持跨不同抽象层级的推理。尽管现代验证技术如符号执行可以无缝集成到基于VP的工作流中，但这类技术需要对SystemC内核进行修改。因此，现有的方法要么修改并替换SystemC内核，要么完全忽略跨层级场景的机会，无法专注于特定子系统（如外设）所面临的特殊挑战。\n\n我们提出了两种截然不同的方法——CrosSym和SEFOS，用于实现对外设的灵活符号执行。CrosSym通过修改SystemC内核来实现，而SEFOS则通过修改现代符号执行引擎来达成目标。我们的全面评估将这两种工具应用于多种外设，并在不同抽象层次上进行了测试。两个工具均展示了丰富的功能特性，分别体现在：（1）多种验证场景的应用；（2）成功识别出300多个变异体（mutants）。相比之下，SEFOS的优势在于无需修改SystemC内核和外设模型，保持了原始系统的完整性；而CrosSym在运行时间和内存使用方面略胜一筹。与当前最先进的方法（仅限于事务级建模TLM）相比，我们的工具在运行时间上具有可比性，同时实现了基于符号执行的跨层级验证能力。"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "Research on Differentiated Training of Data for Intelligent Safety-critical Software",
+    "authors": "Jiankun Xu, Lijin Wu, Bojiang Liu, You Li",
+    "publish": "2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (SAFEPROCESS)",
+    "url": "https://doi.org/10.1109/safeprocess67117.2025.11268206",
+    "source": "IEEE",
+    "abstract": "With the advancement of technology and scientific development, intelligent safety-critical software plays an increasingly critical role in modern battlefields. Traditional approaches for intelligent safety-critical software are constrained by manually designed feature dimensions, often leading to feature loss. Integrating the data characteristics of intelligent safety-critical software, this paper proposes a differentiated training method tailored to control modules, processing modules, input-output modules, and health management modules – the four core data modules. First, this work analyzes the unique attributes of intelligent safety-critical software, clarifying its high reliability, real-time performance, reusability, and attack-resistant capabilities. Second, we select appropriate training data construction methods based on varying scenarios and mission requirements, specifying training scenarios and optimizing training approaches for control data, processing data, input-output data, and health management data. Third, we implement training methods for heterogeneous safety-critical data, including stratified sampling, adversarial validation, time-series segmentation, and cross-validation, establishing a high-reliability intelligent training framework for smart safety-critical software. Finally, the method is validated through case studies, demonstrating improvements in alarm accuracy and data effectiveness, reducing fault rates and control errors, thereby verifying the proposed methodology.",
+    "title_zh": "面向智能安全关键软件的数据差异化训练研究",
+    "abstract_zh": "随着科技与科学的发展，智能安全关键软件在现代战场中发挥着日益关键的作用。传统的智能安全关键软件方法受限于人工设计的特征维度，常常导致特征丢失。本文结合智能安全关键软件的数据特性，提出一种针对控制模块、处理模块、输入输出模块及健康管理模块——这四个核心数据模块的差异化训练方法。首先，本文分析了智能安全关键软件的独特属性，明确了其高可靠性、实时性、可复用性以及抗攻击能力。其次，根据不同的应用场景和任务需求，选择合适的训练数据构建方法，明确训练场景，并对控制数据、处理数据、输入输出数据及健康管理数据分别优化训练策略。第三，针对异构安全关键数据，实施多种训练方法，包括分层采样、对抗验证、时间序列分割和交叉验证，构建了一个高可靠性的智能训练框架，用于智能安全关键软件。最后，通过案例研究验证了该方法的有效性，结果表明其显著提升了报警准确率与数据有效性，降低了故障率与控制误差，充分验证了所提方法的可行性与优越性。"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "Tutorial: Design Automation for ML-enabled Cyber-Physical Systems: From Verification to Synthesis",
+    "authors": "Samarjit Chakraborty, Qi Zhu, Jingtong Hu",
+    "publish": "Proceedings of the International Conference on Embedded Software",
+    "url": "https://doi.org/10.1145/3742874.3758336",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "教程：面向机器学习赋能的网络物理系统的自动化设计：从验证到综合",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "LLM Assistant for TAPI Context and Client Code Translation",
+    "authors": "Aydin Jafari, Behnam Shariati, Hussein Zaid, Pooyan Safari, Vignesh Karunakaran, Philomena Moek, Ramon Casellas, Achim Autenrieth, Johannes Karl Fischer",
+    "publish": "2025 European Conference on Optical Communications (ECOC)",
+    "url": "https://doi.org/10.1109/ecoc66593.2025.11263212",
+    "source": "IEEE",
+    "abstract": "This paper presents an LLM-based mediator for disaggregated optical networks, designed to address inconsistencies in TAPI interpretation and generation. By integrating TAPI-YANG models, shared TAPI context, and advanced prompting, it enables a translation architecture between the optical orchestrator and OLS controllers, effectively resolving these inconsistencies. ©2025 The Author(s)",
+    "title_zh": "TAPI上下文和客户端代码的LLM助手",
+    "abstract_zh": "本文提出了一种基于大语言模型（LLM）的中介机制，用于解决分拆式光网络中TAPI解释与生成不一致的问题。通过整合TAPI-YANG模型、共享的TAPI上下文以及先进的提示技术，该机制实现了光网络编排器与光线路交换（OLS）控制器之间的翻译架构，有效解决了上述不一致问题。©2025 作者"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "ECFuzz++: An Enhanced Fuzz Testing Framework for Large-Scale System Configuration Vulnerabilities Based on Multimodal AI",
+    "authors": "Yuanzhe Feng",
+    "publish": "2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)",
+    "url": "https://doi.org/10.1109/ismsit67332.2025.11268097",
+    "source": "IEEE",
+    "abstract": "Configuration-related problems can seriously jeopardize the strength and security of big computing setups. The existing methods of fuzzing often fail to spot misconfigurations because they do not consider enough details and cannot produce adequate input. For this reason, this paper introduces ECFuzz++, a new fuzz testing tool that makes use of various types of AI to discover hidden and deep problems with configurations in advanced systems. The framework uses a multimodal analysis engine, a context-aware configuration extractor, a neural AI for generating mutations and also a system to prioritize flaws. It packs natural language processing, system log extracts, the content in the documentation and recordings of historical issues into profiles of system settings. This extractor locates and decodes the settings that link several software and hardware features together. Mutation generator uses transformers trained with real-world data to make new inputs that pass syntax checks and are still semantically different. The system ends with prioritization which uses graphs to determine the risks of each vulnerability by considering how easy it is to exploit and how significant its impact is. Good results have been achieved by running ECFuzz++ on both benchmark data and on actual enterprise configurations; it is better than other fuzzing frameworks when it comes to finding issues, how much it explores the programs and the relevance of the problems found. My findings show that the framework can greatly increase the strength of key systems using smart and scalable fuzzing of configurations.",
+    "title_zh": "ECFuzz++：一种基于多模态人工智能的大型系统配置漏洞增强型模糊测试框架",
+    "abstract_zh": "配置相关的问题可能严重威胁大型计算系统的稳定性与安全性。现有的模糊测试方法往往难以发现配置错误，原因在于它们缺乏足够的细节考量，且无法生成充分有效的输入。为此，本文提出了一种新型的模糊测试工具——ECFuzz++，该工具利用多种人工智能技术，旨在揭示先进系统中隐藏且深层次的配置问题。ECFuzz++框架包含一个多模态分析引擎、一个上下文感知的配置提取器、基于神经网络的变异生成器，以及一个漏洞优先级排序系统。该框架将自然语言处理、系统日志提取、文档内容以及历史问题记录整合为系统配置的综合画像。该提取器能够定位并解析连接多个软硬件特性的配置项。变异生成器采用真实世界数据训练的Transformer模型，生成通过语法检查但语义上仍存在差异的新输入。最后，系统通过图结构对每个漏洞的潜在风险进行评估，综合考虑其可利用性与影响程度。在基准数据集和实际企业配置上的实验表明，ECFuzz++在发现问题的能力、程序探索范围以及所发现缺陷的相关性方面，均优于其他现有模糊测试框架。研究结果表明，该框架通过智能且可扩展的配置模糊测试，显著提升了关键系统的健壮性。"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "Assessment of Software Security Measures",
+    "authors": "Andrii Tkachov, Andrii Hapon, Illia Bukatych, Mykhailo Zhyhalov, Yehor Kudriavtsev, Stanislav Milevskyi",
+    "publish": "2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)",
+    "url": "https://doi.org/10.1109/ismsit67332.2025.11267999",
+    "source": "IEEE",
+    "abstract": "The rapid advancement and integration of information technologies, while offering significant societal benefits, have also led to the expansion and evolution of cyber threats across all areas of life. Ukraine has the potential to strengthen its cyber security capabilities to effectively address these modern challenges. The militarization of cyberspace and the increasing sophistication of cyberweapons now enable adversaries to carry out covert cyberattacks, take remote control of critical systems, and damage or destroy vital information infrastructure. Additionally, there has been a notable rise in the technological expertise of those committing cybercrimes, using methods like social engineering, artificial intelligence, and cryptography to infringe on the interests of the state, society, and individual citizens. This has escalated the risk of citizens' rights being violated in cyberspace. Moreover, Ukraine's priority focus on digital transformation, while vital to its development, presents new challenges in cyber security. The introduction of emerging technologies, digital services, and systems for citizen-state interaction, including the electoral process, has created a web of hidden technological and procedural interdependencies. Without a comprehensive approach to cyber security and risk management, there is a risk of undermining public trust in the nation's digital transformation efforts.",
+    "title_zh": "软件安全措施评估",
+    "abstract_zh": "信息技术的迅速发展与深度融合，在为社会带来显著益处的同时，也促使网络威胁在生活各个领域不断扩展和演变。乌克兰具备提升其网络安全能力的潜力，以有效应对这些现代挑战。如今，网络空间的军事化以及网络武器日益复杂化，使对手能够实施隐蔽的网络攻击，远程控制关键系统，并破坏或摧毁重要的信息基础设施。此外，实施网络犯罪者的科技水平显著提高，他们利用社交工程、人工智能和密码学等手段，侵害国家、社会及个人公民的利益，这进一步加剧了公民在网络空间中权利被侵犯的风险。同时，乌克兰在数字化转型方面的优先关注虽对其发展至关重要，但也带来了新的网络安全挑战。新兴技术、数字服务以及公民与政府互动的各类系统（包括选举过程）的引入，形成了错综复杂的隐性技术与程序依赖关系。若缺乏全面的网络安全与风险管理策略，将可能动摇公众对国家数字化转型努力的信任。"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "Constructing a Novel Dataset for Android Bug Prediction",
+    "authors": "Amany Saies, Samer Zein",
+    "publish": "2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)",
+    "url": "https://doi.org/10.1109/ismsit67332.2025.11267829",
+    "source": "IEEE",
+    "abstract": "Mobile apps running on smartphones have remained in the researchers’ spotlight since their inception in 2007. Google Android has only progressed over the years and Google has kept it up to date by releasing new and powerful components. With millions of apps available on online platforms such as Google Play, the quality of these apps has always been a concern for users and developers. Therefore, mobile app developers aim to produce high-quality and bug-free apps. The detection and removal of software bugs pose one of the most significant challenges for developers, consuming considerable time and effort during the traditional testing process. Researchers have explored different techniques to help developers discover software bugs in the early stages of the project. One of the most successful and popular techniques is the machine learning (ML) approach, where the dataset plays a crucial role in any bug prediction model. The researchers have explored different ways to build bug datasets that can serve as input for these ML models.In this research, we constructed a public Android bug dataset by utilizing various open-source Android apps from GitHub platform, using commit numbers to identify buggy classes. In contrast to the previous datasets, which utilize different app types such as web apps, desktop apps, and Android apps, our dataset is created by utilizing Android apps exclusively. Focusing solely on Android apps makes the dataset more homogeneous and efficient. The produced dataset consists of 38 source code class metrics and contains 7,530 instances, with 6,844 negative instances and 690 positive instances. We evaluated our dataset using five ML algorithms. The results show that the Random Forest algorithm outperformed the others. Further, our results show that the constructed dataset achieved promising results, with an F-measure value above 0.71.",
+    "title_zh": "构建用于Android漏洞预测的新数据集",
+    "abstract_zh": "自2007年问世以来，运行在智能手机上的移动应用一直受到研究人员的关注。谷歌Android系统多年来不断进步，谷歌也通过发布新的、功能更强大的组件持续保持其更新。在Google Play等在线平台上有数百万款应用可供下载，这些应用的质量始终是用户和开发者关注的焦点。因此，移动应用开发者致力于打造高质量且无缺陷的应用程序。软件缺陷的检测与消除是开发过程中最具挑战性的任务之一，传统测试流程中耗费了大量时间和精力。研究人员探索了多种技术，以帮助开发者在项目早期发现软件缺陷。其中最成功且广泛应用的技术之一是机器学习（ML）方法，而数据集在任何缺陷预测模型中都起着至关重要的作用。研究人员已尝试多种方式构建可用于ML模型输入的缺陷数据集。\n\n在本研究中，我们利用GitHub平台上多个开源Android应用，通过提交记录（commit numbers）识别存在缺陷的类，构建了一个公开的Android缺陷数据集。与以往使用不同类型应用（如Web应用、桌面应用和Android应用）的数据集不同，我们的数据集仅基于Android应用构建。专注于Android应用使数据集更具同质性和高效性。所生成的数据集包含38个源代码类度量指标，共7,530个实例，其中6,844个为非缺陷实例，690个为缺陷实例。我们使用五种机器学习算法对数据集进行了评估，结果表明随机森林（Random Forest）算法表现最佳。此外，实验结果还显示，该构建的数据集取得了令人满意的性能，F-measure值超过0.71。"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "Automated Test Case Generation Using Machine Learning And Natural Language Processing",
+    "authors": "Arya Devi M R, Abdul Jabbar P",
+    "publish": "2025 International Conference on Intelligent and Secure Engineering Solutions (CISES)",
+    "url": "https://doi.org/10.1109/cises66934.2025.11264985",
+    "source": "IEEE",
+    "abstract": "Software testing is a prominent step in software quality assurance, as it helps to provide high quality software product with reliability. Traditional methods for creation of test cases are not efficient to handle complex problems in which causing error and resulting in difficulties in the overall testing method. Automated test case generation is an approach to solve these difficulties in testing and helps to increase efficiency and software quality. This paper presents a method to improve the test case development process by integrating machine learning (ML) and natural language processing (NLP) techniques. ML methods, such as supervised and reinforcement learning, are used to predict ideal test cases based on the past defect patterns, while NLP methods will process and understand the software requirements and user stories to automatically generate relevant test scenarios. Transformer-based language models and deep learning classifiers are used inorder to extract and structure test cases from natural language specifications. The results obtained show a considerable increase in test coverage, defect detection rates, and overall reliability. A comparative analysis of Machine Learning and Natural Language Processing-based models such as combinations of classification algorithms and language representations shows that combining both approaches helps to enhance the overall performance of test case generation, as measured by evaluation metrics showing improvements in test coverage, defect detection rate, execution time, precision, recall, and a reduction in the false positive rate. The proposed method reduces human labor and speeds up the testing process while retaining accuracy and effectiveness. Finally, deal with the potential for merging advanced deep learning models with large language models (LLMs) to refine automated test case production and increase software quality.",
+    "title_zh": "基于机器学习和自然语言处理的自动化测试用例生成",
+    "abstract_zh": "软件测试是软件质量保证中的关键环节，有助于提供高质量且可靠的软件产品。传统的测试用例生成方法在处理复杂问题时效率低下，容易引发错误，从而给整体测试过程带来困难。自动化测试用例生成是一种解决此类问题的有效方法，能够显著提升测试效率和软件质量。本文提出一种通过整合机器学习（ML）与自然语言处理（NLP）技术来改进测试用例开发流程的方法。其中，监督学习和强化学习等机器学习方法被用于基于历史缺陷模式预测理想的测试用例；而自然语言处理技术则用于解析和理解软件需求文档及用户故事，从而自动生成相关的测试场景。采用基于Transformer的语义模型和深度学习分类器，从自然语言规格说明中提取并结构化测试用例。实验结果表明，该方法在测试覆盖率、缺陷检测率以及整体可靠性方面均有显著提升。对基于机器学习与自然语言处理的模型进行对比分析，包括多种分类算法与语言表征方法的组合，结果显示，结合两种技术可有效提升测试用例生成的整体性能，各项评估指标均得到改善，具体表现为测试覆盖率提高、缺陷检测率上升、执行时间缩短、精确率与召回率提升，同时误报率显著降低。所提出的方案在减少人工投入的同时加快了测试进程，且保持了高准确性和有效性。最后，本文探讨了将先进的深度学习模型与大型语言模型（LLMs）相结合的潜力，以进一步优化自动化测试用例生成，持续提升软件质量。"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "Precise Learning-to-Rank Bug Localization Using Multi-Feature Fusion for Hardware Code",
+    "authors": "Menglin Yang, Jian Hu",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3779450",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于多特征融合的硬件代码精确学习排序缺陷定位",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "Methodology for developing software projects at high school stage",
+    "authors": "Mariyana Nikolova, Diana Lazarova",
+    "publish": "2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)",
+    "url": "https://doi.org/10.1109/ismsit67332.2025.11268003",
+    "source": "IEEE",
+    "abstract": "The article examines the profiled preparation of students in secondary schools in informatics and, in particular, the methodology approved by the authors for developing software projects at the high school stage. The training is part of national systems that depend on the educational policy, technological development and social requirements of a given country. This article presents an author's methodology for building skills and competencies in high school students for creating software projects. The methodology under consideration is based on the one hand on the approved International Baccalaureate program (IB) system for developing software projects, applicable to the high school stage of education, and on the other hand, on the experience of the authors as teachers and researchers. Basic regulatory documents are indicated, defining and synchronizing common actions for the development of digital competence of citizens in the European Union. The focus of the presented methodology is the understanding and correct application of the criteria for creating a project, with emphasis also on using the capabilities of AI in several directions.",
+    "title_zh": "高中阶段软件项目开发的方法论",
+    "abstract_zh": "本文探讨了中学阶段学生在信息学领域的培养现状，特别是作者为高中阶段软件项目开发所制定的方法论。该培训体系属于各国教育政策、技术发展和社会需求所决定的国家教育系统的一部分。本文提出了一种由作者设计的方法论，旨在培养高中生在创建软件项目方面的技能与能力。该方法论一方面借鉴了被广泛认可的国际文凭课程（IB）体系中适用于高中阶段的软件项目开发模式，另一方面也融合了作者作为教师和研究者的实践经验。文章还指出了若干基本法规文件，这些文件定义并协调了欧盟公民数字素养发展的共同行动。所提出的教学方法重点在于理解并正确应用项目创建的标准，同时强调在多个方向上充分利用人工智能的能力。"
+  },
+  {
+    "date": "2025-12-5",
+    "title": "HARMONY: A Hardware-Aware Mapping and Optimizing Framework for Computing-In-Memory Accelerators",
+    "authors": "Xinmo Li, Weidong Yang, Naifeng Jing, Qin Wang, Zhigang Mao, Weiguang Sheng",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2025.3641044",
+    "source": "IEEE",
+    "abstract": "The increasing adoption of artificial intelligence has spurred the development of specialized deep neural network (DNN) accelerators. Among them, computing-in-memory (CIM) architectures are promising for their in-situ computation capability, which alleviates the computation and data movement bottlenecks of modern DNNs. However, the diversity of models and hardware designs makes it challenging to fully exploit CIM accelerators. Existing approaches often rely on manual mapping or provide limited automation, struggling to integrate general-purpose optimizations with CIM-specific features. In this work, we present HARMONY, a hardware-aware compilation framework for CIM accelerators. At its core is a hardware intermediate representation (IR) that unifies computational and memory abstractions. Based on this IR, HARMONY introduces an automatic mapping algorithm that identifies offloadable operators and constructs a hybrid software–hardware IR. This enables systematic integration of general-purpose and CIM-specific scheduling primitives within a unified search space, which is efficiently explored using reinforcement learning (RL). Extensive evaluations show that HARMONY supports a broader set of operators than existing CIM compilers and consistently delivers substantial performance and energy improvements across diverse DNN workloads. These results demonstrate that HARMONY provides both generality and efficiency, making it a practical compilation solution for CIM accelerators.",
+    "title_zh": "和谐：一种面向存算一体加速器的硬件感知映射与优化框架",
+    "abstract_zh": "人工智能的日益普及推动了专用深度神经网络（DNN）加速器的发展。在这些加速器中，存内计算（Computing-in-Memory, CIM）架构因其原位计算能力而备受关注，能够有效缓解现代DNN面临的计算与数据移动瓶颈。然而，模型和硬件设计的多样性使得CIM加速器的潜力难以被充分挖掘。现有方法通常依赖人工映射，或仅提供有限的自动化支持，难以将通用优化与CIM特有的特性有机结合。本文提出HARMONY，一种面向CIM加速器的硬件感知编译框架。其核心是一个硬件中间表示（IR），统一了计算与内存抽象。基于该IR，HARMONY引入了一种自动映射算法，可识别可卸载的操作符，并构建混合型软硬件IR。这使得通用优化与CIM特有调度原语能够在统一的搜索空间中系统性集成，并通过强化学习（RL）高效探索。大量实验评估表明，HARMONY支持的操作符范围比现有CIM编译器更广，在多种DNN工作负载下均能持续实现显著的性能与能效提升。结果表明，HARMONY兼具通用性与高效性，为CIM加速器提供了一种切实可行的编译解决方案。"
+  }
+]
