@@ -1,0 +1,1991 @@
+[
+  {
+    "date": "2025-12-13",
+    "title": "Abstract machines and small-step semantics: a winning ticket for proof automation?",
+    "authors": "Alain Delaët, Sandrine Blazy, Denis Merigoux",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756926",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "GPStroke: A Walking Promotion Method using GPS Art with Multiple Walking Paths",
+    "authors": "Etsuki Omoto, Koji Tsukada",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771490",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Spatial Audio for Ski Simulation with Visually Impaired Users in Dynamic Environments",
+    "authors": "Yuta Taguchi, Toshihiro Hirano, Masaki Kuribayashi, Yichen Peng, Erwin Wu, Hideki Koike, Shigeo Morishima",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771466",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Fast First-Hit Determination for Large and Composite Sparse Volumetric Data Structures with Mesh Shaders",
+    "authors": "Mehmet Oguz Derin, Takahiro Harada",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771422",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Effectiveness of \"Focus Lines\" for Attentional Guidance in Virtual Reality",
+    "authors": "Kenji Tomita, Mie Sato",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771491",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Realisability and Complementability of Multiparty Session Types",
+    "authors": "Cinzia Di Giusto, Etienne Lozes, Pascal Urso",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756918",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "ImaginaBook: Guiding Virtual Child Smiles via Behavioral Cues in XR Picture-Book Storytelling",
+    "authors": "Wataru Aiura, Masanori Yamada, Shogo Fukushima",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761951",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Fixture Layout Optimization in Wood Industry: A Case Study",
+    "authors": "Anna Vitali, Roberto Amadini, Maurizio Gabbrielli",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756914",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Hybrid XR Framework for Collaborative Scientific Visualization: Rendering-as-a-Service with ParaView and Real-Time Engines",
+    "authors": "Jin Sung Choi, Yongwan Kim, Suran Park, Ki-Hong Kim",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771507",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Fisheye Patch-Based Automatic Colorization Method for Anime Line-drawings",
+    "authors": "Ryosuke Takamura, Taiki Watanabe, Akinobu Maejima, Seitaro Shinagawa, Takuya Funatomi, Yasuhiro Mukaigawa, Shigeo Morishima, Hiroyuki Kubo",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771501",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Weight Illusion from a \"1st+3rd\" Person Perspective: Integrating the Strengths of the 1st and 3rd Person Perspectives",
+    "authors": "Sakurako Uchiyama, Naoki Hashimoto, Mie Sato",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771439",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "The Stage Comes to You: A Real-Time Tele-Immersive System with 3D Point Clouds and Vibrotactile Feedback",
+    "authors": "Takahiro Matsumoto, Takahiro Kusabuka, Hiroshi Chigira, Kazuhiko Murasaki, Kakagu Komazaki, Masafumi Suzuki, Masakatsu Aoki",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771426",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Plétude",
+    "authors": "Austin Franklin, Mary Alexander Bergeron",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771613",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Sound-driven Design through the lens of four applications for healthcare",
+    "authors": "Elif Özcan, Nicolas Misdariis, Stefano Delle Monache",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771609",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Spatio‑Temporal 3D Gaussian Splatting Alignment via Robust Features and Randomized Sampling",
+    "authors": "Yuji Okamoto, Yuki Oshio, Akane Shiki, Yuya Fukiharu, Ai Ito, Shota Imai, Takeshi Nakamura, Yoshiyuki Numata",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771782",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Echoes of the Matchlock: Playing Shooting Games Using Cultural Heritage in Mixed Reality",
+    "authors": "Wenze Song, Takefumi Hayashi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771425",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Anime Face Alignment via Guideline-Based Transform for Expression Analysis",
+    "authors": "Hideki Todo, Ryosuke Higasayama, Sho Haraguchi, Shintaro Horikoshi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771779",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Immersive Interaction and Interpretation of Ancient Spatial and Shape Data: XR for Archaeological Research",
+    "authors": "Peter J. Cobb, Hayk Azizbekyan",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761956",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Engine-Integrated Cel-Shading for Unreal Engine 5",
+    "authors": "Gabriel Paes Landim de Lucena, Charles Madeira, Cesar Rennó-Costa, Alyson Souza",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771456",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Two-Stage Vector Sketch Generation Using Structure-to-Detail Optimization",
+    "authors": "Yuan Ma, Haoran Xie",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771449",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Generative Tonal Art: An Artistic Rendering Workflow using Programmable TAMs",
+    "authors": "Yun-Chen Lee, June-Hao Hou",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771537",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Sound’s Influences on Perceptions of Anthropomorphism and Animacy in Interfaces",
+    "authors": "Kc Collins, Maya Murad, Adel Manji",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771598",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Non/Repeat: Three Case Studies of Non-linear Live-Music Practices",
+    "authors": "Maria Kallionpää, Axel Berndt, Davide Andrea Mauro, Damian Dziwis",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771635",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Video2Song: Video-to-Song Generation via Retrieval-Augmented Prompt Generation",
+    "authors": "Zijiao Yin, Sifei Li, Weiming Dong",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "High-Clarity Underwater 3D Display Enabled by Electrolysis-Free Water-Mediated Wireless Power Transmission",
+    "authors": "Chiaki Takahashi, Hayato Sawada, Ryo Shirai, Masanori Hashimoto",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771467",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Spatial Audio Paths – Spatial Expressiveness of Immersive 3D Audio Trajectory Editing",
+    "authors": "Lars Engeln, Leon Georgi, Robert Ludwig, Krishnan Chandran, Fabian Töpfer, Matthew McGinity",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771623",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "The Conduction Series: Live Collaborative Transmission Art across Borders",
+    "authors": "August Black, Betsey Biggs, Anna Friz, Maximilian Goldfarb, Peter Courtemanche, Florencia Curci, Virginia Mantinian, Jimmy Garver, Jeff Economy, Rodrigo Ríos Zunino, Galen Joseph-Hunter",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771612",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Sensor is not a Sensor: Diffracting the Preservation of Sonic Microinteraction with the SiFiBand",
+    "authors": "Hugh Alexander von Arnim, Çağrı Erdem, Ulysse Côté-Allard, Alexander Refsum Jensenius",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771626",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Simulating 3D Thermal Fluid Dynamics in Data Centers with Soft-Constrained Physics-Informed Graph Neural Network",
+    "authors": "yidi Wang, Aik Beng Ng, Simon See, Daniel Wang, Frank Guan",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771448",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Foveation Improves Payload Capacity in Steganography",
+    "authors": "Lifeng Qiu Lin, Henry Kam, Qi Sun, Kaan Akşit",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771423",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Design of Nonverbal Symbolic Visual Cues for VR Social Interaction Based on AI Semantic Recognition",
+    "authors": "Yulu Lu, Zhikai Wen, Xinyu Su, Yong Hu",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771487",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Edible Chromatic Caustics: Designing Colored Caustics of Jelly via Differentiable Rendering",
+    "authors": "Daiki Inokoshi, Takashi Ijiri",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771517",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "The Theater Machine: An Interactive Generative-AI-Based Installation for Participatory Cultural Mediation",
+    "authors": "Nils Gallist, Jolanda Abasolo, Celine Pham, Juergen Hagler",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771519",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3756907",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Can Vision-Language Models Perceive \"Lookalike Effects\" Between Humans and Cartoons as We Do?",
+    "authors": "Chenzhuo Xiang, Minghui Liu, Qi Xin, Jihong Jeung, Qianyao Xu",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771465",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "PolyArt: Customizable Multilingual Movie Poster Generation via Diffusion Transformer",
+    "authors": "Xin Fu, Nisha Huang, Junjie Li, Jie Guo, Xiu Li, Tong-Yee Lee",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771431",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Graph Q-Learning for Automatic Assembly in Design-to-Construction",
+    "authors": "Shih-Yu Lai, Chia-Ching Yen, Yang-Ting Shen, Bing-Yu Chen",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771881",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Investigating the Affective Quality of Audio Designs in Virtual Reality",
+    "authors": "Alvaro F Olsen",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771599",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Bridging Generations Through Reconstructed Historical Environments For Spatial User Interfaces",
+    "authors": "Tiffany Tay, Jernyse Ong, Gabriel Lipkowitz",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761966",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "MoreOverleaf: A Mixed Reality Solution for Collaborative Document Workflows",
+    "authors": "Hyunwoo Cho, Theophilus Teo, Eunhee Chang, Suwon Lee, Gun Lee, Mark Billinghurst",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761964",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "SWEAR: A Multimodal Dataset and Embodied Emotion Simulation System for Understanding Hyperhidrosis through Interactive Wearable Jewellery",
+    "authors": "Yin Chang, Xiyang Chen, Tairan Sang, Ze Gao",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771442",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Flying in VR: A Therapist-Supervised Prototype for Aviophobia",
+    "authors": "Sebastian Cieślik, Juliusz Zolich, Michał Colautti, Eryk Klemencki, Igor Frątczak, Grzegorz Zwoliński, Dorota Kamińska",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771531",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Dynamic Eye Highlight Deformation via Soft-body Simulation in 3D Anime Character Rendering",
+    "authors": "Atsuki Haruyama, Yuki Morimoto",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771483",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "SoniBould: Towards understanding the design of sonified expressions for bouldering",
+    "authors": "Hakan Yılmazer, Aykut Coşkun, Florian 'Floyd Mueller",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771622",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Sonification Strategies for Mapping Visible Element Emission Spectra to Perceptually Relevant Sounds While Retaining Tonal Information",
+    "authors": "Walker Smith, Marina Bosi",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771617",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "User-Centered Insights into Analogue and Digital Mixing: Perspectives of Novice Music Producers",
+    "authors": "Vanja Budsberg, Christopher P. Dewey, Austin Moore",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771644",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Counting Qubits and Gates: Resource Analysis in Quantum Programming Languages",
+    "authors": "Ugo Dal Lago",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756908",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Card-Based Design Toolkit for Co-Designing Remote Multimodal Communication and Interaction Systems with Older Adults and Experts.",
+    "authors": "Dezijian Zhou, Yuanyuan Deng, Yi Zhao, Jialing Xie, Zihan Peng, Wanli Guo, Anastasia Globa",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771451",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Bamboo Rhyme Craft: Immersive VR Bamboo Weaving through Coordinated Bimanual Gesture Interaction",
+    "authors": "Chenyue Zheng, Yaxuan Zhao, Runxin Guo, Shuo Yan",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771446",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Improving Registration-Based High-Resolution Panorama Depth Estimation with Enhanced Fine Details",
+    "authors": "Yu Sheng Yang, Chi Han Peng",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771430",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "An Abstract Form Guided Method for Image Generation without Training",
+    "authors": "Danqing Pan, Shun Kaizu",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771495",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Komorebi-Mediated Ambient Notifications for Calm Technology",
+    "authors": "Mamoru Hiramatsu, Toshitaka Amaoka",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771454",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Aural Fields: A Real-Time Spatial Audio System Using Grid-Based Probes and Occlusion-Aware Attenuation",
+    "authors": "Raghav Suriyashekar, Vasileios Argyriou",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771434",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "AMV3D: Adaptive Multi-Layer Volumetric 3D for DICOM",
+    "authors": "Leonardo Locatelli, Matteo Valoriani, Manuel Pezzera, Simona Perotto, Francesco Clasadonte",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771777",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Interactive generation and stereoscopic observation of 3DCG scenes based on 2D tabletop drawing",
+    "authors": "Azumi Katayama, Shinji Mizuno, Kenji Funahashi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771520",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Leveraging small datasets for ethical and responsible AI music making",
+    "authors": "Nick Bryan-Kinns, Anna Wszeborowska, Olga Sutskova, Elizabeth Wilson, Phoenix Perry, Rebecca Fiebrink, Gabriel Vigliensoni, Rikard Lindell, Andrei Coronel, Nuno N. Correia",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771601",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "HaptiX: A Fusion Framework for Spatiotemporal Cross-Modal Haptic Synthesis on Mobile Devices",
+    "authors": "Veeramanohar Avudaiappan, Sakthivel Saravanathangam, Nithiesh P Natarajan, Ritwik Murali",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771521",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Determinism Types for Functional Logic Programming",
+    "authors": "Michael Hanus, Kai-Oliver Prott",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756915",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Operational Game Semantics for Generative Algebraic Effects and Handlers",
+    "authors": "Hamza Jaafar, Guilhem Jaber",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756924",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "“TOUCHSTAR”: Exploring Generative AI-Powered Interactive Narrative in Cinematic Virtual Reality",
+    "authors": "Yunuo Chen, Yong Hu, Xukun Shen",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761945",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Enabling Visually Aware Conversational Data Visualization Through LLM Augmentation",
+    "authors": "Omar Mena, Alexandre Kouyoumdjian, Lonni Besançon, Michael Gleicher, Ivan Viola, Anders Ynnerman",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771781",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Projecting Softness: Finger-Bending Illusions in Tangible Projection Mapping",
+    "authors": "Naoki Hashimoto, Shota Yamagishi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771421",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Acoustic Form: Enhancing the Design Process for Assistive Earwear Jewelry via Material-Centric Computational Sound Analysis",
+    "authors": "Arefeh Ahmadi, Emil Polyak",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771471",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Comparing Trend-Based and Direct HRV Biofeedback in an Adaptive Game Environment",
+    "authors": "Michael Nicholas Louka, Hassan Vakhajevitsj Mahauri, Kedi Krasniqi, Georgios Marentakis",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771636",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "\"Body Oracle\" Translator: Translating Body Postures into Speculative Hieroglyphs",
+    "authors": "Danlin Huang, Ke Huang, Ruoqi Wang, Botao Amber Hu",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761953",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Embodied Motion as Interface: Exploring Abstract Dynamics in Hybrid Environments",
+    "authors": "Josephine Putri, Wenhao Li, Khanh Nguyen",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761948",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Mechanized Type Soundness for Substructural Types using Iris",
+    "authors": "Robbert Krebbers",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756909",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "LineDiff: Semi-generative Line-drawing Frame Interpolation",
+    "authors": "Liang Kong, Suguru Saito",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771450",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "See, Sense, Spark: Profiling Granularity in Proactive AI for Creative Research Ideation",
+    "authors": "Gahui Kim, Yebom Choi, Changjun Lee",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771458",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Through Their Eyes: A First-Person VR Experience of Alzheimer's Disease",
+    "authors": "Baicheng Du, Yuxing Zhang, Boyuan Shi, Wantian Gu, Mengyao Guo, Guanyou Li, Pei Zhang, Zhiwei Deng",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771445",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Capturing Size-Aware Draping via Per-Garment 2D Try-On",
+    "authors": "Jingyuan Liu, Zaiqiang Wu, Yechen Li, Takeo Igarashi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771424",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "AR-Supported Online Piano Lessons with Bidirectional Visualization of Teacher and Student Hand Movements",
+    "authors": "Mayuka Yamashita, Soh Masuko",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771530",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Floorplan Generation with Graph Beta Diffusion",
+    "authors": "Yusuke Takeuchi, Qi An, Atsushi Yamashita",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771518",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "On the Automated Verification of BGP Convergence",
+    "authors": "Gerald Whitters, Haoyun Qin, Boon Loo, Carolyn Talcott",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756920",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Poetry Space: Visualization of Poetry Recitation Emotions in VR",
+    "authors": "Xuanmiao Zhang, Hang Yu, Jie Chen, Zhixiang Fu, Yong Hu",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771536",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "TextFX: Reconstructing Editable Stylized Typography Through Parametric Text Effect Extraction",
+    "authors": "Veeramanohar Avudaiappan, Alooysius Vitalian J, Ritwik Murali",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771535",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Simulating Loneliness: Human–Generative Agent Comparative Insights",
+    "authors": "Hiroki Fujiwara, Daisuke Kasai, Toshiya Goto, Ken-ichi Tabei",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771461",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Speed and Direction as two Overlapping Rhythms: Accuracy and Precision in Interpretation and Performance",
+    "authors": "Alessio Bellino, Davide Rocchesso, Chiara Mascetti, Giorgio Presti",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771639",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "I am the Ball",
+    "authors": "Yann Seznec",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771616",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Tentacles Fever: Sound-Responsive SMA Actuators",
+    "authors": "Akira Nakayasu",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771479",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Enhancing Embodiment and Spatial Awareness in VR with Hybrid Visual Presentation via Binocular Rivalry",
+    "authors": "Hironobu Sakai, Naoki Hashimoto",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771444",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Sketch-in-Scene: Coherent 3D Scene Asset Generation with Sketches",
+    "authors": "Fang Du, Zackary P. T. Sin",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771540",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "TunTun Diary: Exploring AI-Generated Storytelling and Virtual Companionship for Nightmare Relief",
+    "authors": "Zixin Wang, Shan Luo, Siyu Tian, Yunxi Cai, Long Ling, Muhan Xu, Jiaxing Yu, Guanting Lu, Jiajing Zhu, Liping Luo",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771484",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Underwater Odyssey: Immersive VR Swimming Adventure",
+    "authors": "Chen-Qi Jia, Sen-Zhe Xu, Yueyao Fu, Song-Hai Zhang",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761940",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Formalizing Languages with Binding Operators in Rewriting Logic",
+    "authors": "Maribel Fernandez, Jose Meseguer",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756921",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Beyond Universality: Cultural Diversity in Music and Its Implications for Sound Design and Sonification",
+    "authors": "Rubén García-Benito",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771611",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "An Interactive Self-Assembly Swarm Music System in Extended Reality",
+    "authors": "Pedro Lucas, Stefano Fasciani, Alex Szorkovszky, Kyrre Glette",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771620",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "PITAR: an LLM-powered Agent towards Intelligent and Accurate Manipulations in Extended Reality with Multimodal Interactions",
+    "authors": "Haiyan Jiang, Dongyu Qiu, Ana Stanescu, Yidi Wang, Henry Been-Lirn Duh, Frank Guan",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761944",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Meaningful Interactions in Human-AI Musicking",
+    "authors": "Oliver Miles, Adrian Hazzard, Solomiya Moroz, Laura Bishop, Craig Vear",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771600",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "CamSketch: Authoring Camera Trajectories for 3D Virtual Concerts via Example-Derived Codes and User Sketching",
+    "authors": "Wen-Li Wei, Yu-Hua Hu, Jen-Chun Lin",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "AI-Powered Sculpting: Reviving Digital Sculpture with Generative Workflows",
+    "authors": "Xue Bai, Allan Fowler, Athirah Zaini",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771496",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Enabling Hybrid Poster Interaction via Face-to-Face Displays and Virtual Screen Sharing",
+    "authors": "Vibol Yem, Sokun Visoth Sarun, Koki Komura, Prelsor Chov, Chansocheat Tieng, Hiroaki Yano, Yasushi Ikei",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761965",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "My Embodied Fears: Exploring the Negative Emotion Mitigation Role of Generative AI in XR Environments",
+    "authors": "Tianyu Yang, Yong Hu, Xukun Shen",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761961",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "An investigation into the mapping of sonic parameters to pen movement in tablet tasks",
+    "authors": "Georgios Marentakis, Ahmed Raza Mir",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771628",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "In the middle of the music: A qualitative study of headset and loudspeaker distributed interactive spatial audio within a musical mixed-reality environment",
+    "authors": "Laurence Cliffe, Mairah Khan, Steve Benford",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771625",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "MusicFlower: A Web App and Python Framework for Interactive Music Visualisation",
+    "authors": "Robert Lieck",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771595",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Emotion-Aware Autonomous Driving:  A VR-Based Multimodal Analysis Using Gaze and Physiological Signals",
+    "authors": "Mi Chang, Jiwoo Han, Woojin Kim, Daesub Yoon",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771514",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Generative POPs: Automating Character-Based Promotions on Digital Signage in Retail Stores",
+    "authors": "Gen Ono, Takuya Iwamoto, Kojiro Tanaka, Soh Masuko",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771512",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Participant-Driven Spatial Narrative for Cultural Exhibitions",
+    "authors": "Bok-Yin Lo, Kanghong Zhong, Takatoshi Yoshida, Dunya Chen, Kouta Minamizawa",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771511",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "LayerPack: Training-Free Animation Inbetweening with Cross-Layer Consistency",
+    "authors": "Atsushi Maruyama, Sosui Koga, Akinobu Maejima, Yuki Koyama, I-Chao Shen, Takeo Igarashi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771440",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "DesignEval: A Human-Centered Framework for Aligning Graphic Designs with User Intent through Quantitative and Multimodal Evaluation",
+    "authors": "Veeramanohar Avudaiappan, Dilip Parasu, Ritwik Murali",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771538",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Hands in Bloom: An Auditory-Accessible Immersive Experience Based on Chinese Sign Language Recognition and Gesture Tracking",
+    "authors": "Zhu Zhu, Shuo Yan",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771498",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "VR Competency-Based Pilot Training for Threat and Error Management",
+    "authors": "Teong Leong Chuah, Brian Soon Wei Chiam, Lindy Li Wen Lim, Ahmad Iqbal Othman, Jia Wang Tay, Vinh-Thuyen Nguyen-Truong, Catherine Wan Ting Leo, Leslie Siew Mun Chong, Jussi Keppo, Eng Tat Khoo",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761949",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Sound design for HRI: a case study exploring appropriateness, naturalness, and sociality of a zoomorphic robot",
+    "authors": "Balandino Di Donato, Marta Romeo, Matthew Aylett",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771608",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Proceedings of the 20th International Audio Mostly Conference",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3771594",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A case study of translating sonifications across musical cultures for an educational application",
+    "authors": "Chris Harrison, James Trayford, Arron George, Leigh Harrison, Rubén García-Benito, Shirin Haque, Rose Shepherd",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771634",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Customer-Service Mirrored Avatar That Comes Beside You via Directional Spatial Audio",
+    "authors": "Nanako Matsuda, Hyuma Auchi, Tadashi Ebihara, Naoto Wakatsuki, Keiichi Zempo",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771539",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Zenith: Procedural and Diffusion-Driven Generation of Multi-Layered Top-Down Maps",
+    "authors": "Ehsan Sayyad, Trevor Rothman, Zhen Zhai",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771776",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Comparing 3D Data Representations for Keypoint Estimation in Humanoid Characters",
+    "authors": "Jeanne-Emma Lefèvre, Théo Cheynel, Thomas Daniel",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771481",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Image-Similarity-Based Scale Estimation for 3D Model",
+    "authors": "Tianrui Hu, Jiaao Yu, Wenjun Hou",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771468",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Between Us: An Interactive Installation for Parent-Child Relationship Visualization Using NFC and Generative Algorithms",
+    "authors": "Niannian Zhou, Zihan Gao",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771500",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Where Things Become Imageries：Visualization Experience of Chinese Poetic Imageries in Immersive VR",
+    "authors": "Huantong Xian, Likun Zhao, Xiaohe Peng, Shuo Yan",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771459",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Amplitude-Guided Phase Masking for Hologram Compression",
+    "authors": "Hiroki Kojima, Haruhisa Kato, Keisuke Nonaka",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771780",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Materials for the Moon: Developing Physically Based Lunar Regolith Assets to Support Space Training and Simulation",
+    "authors": "Maximiliano Wardle",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771428",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Whispering Shells: An Immersive Intervention for Coastal Conservation",
+    "authors": "Chaolu Wang, Chujun Zhao, Yujia Hu, YuFei Fan, Yangyang Zheng",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771504",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Creating the Ideal Soundscape: Designing Study Friendly Cafe Environments",
+    "authors": "Xinyue Hu",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771642",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Interface Sound Variations Influence Learned User Responses",
+    "authors": "Héctor Miguel Valle, Kc Collins",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771603",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Towards Wearable-Free Exergame for Orthostatic Dysregulation: Improving Motion Detection with Smartphone-Only Calibration",
+    "authors": "Hitomi Miyazaki, Saki Sakaguchi, Tetsuaki Baba, Kumiko Kushiyama",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771438",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Invertible Video Signal Processing",
+    "authors": "Yazhou Xing, Zian Qian, Ji Zhou, Qifeng Chen",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771527",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "VR K-Heritage Assembler: Exploring Korean Wooden Architecture Through Virtual Gong-po Assembly",
+    "authors": "Juwon Lee, Da-un Jung, Seungjae Lee",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771509",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "SIGGRAPH Asia 2025 XR",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3761667",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "DarkAR: Augmented Reality Expression Method in Dimly lit Environment",
+    "authors": "Masami Hirabayashi, Kakuya Shiraishi, Scott Allen",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761955",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Detmold musical Instrument Timbre Explorer (DmITE): Interactive visualization of musical instruments radiation pattern using IEEE 1599",
+    "authors": "Davide Andrea Mauro, Luca Andrea Ludovico, Hamit Batuhan Aydin, Axel Berndt, Timo Grothe",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771624",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Seeing What It Looks Like When Interacting with XR-NEDs",
+    "authors": "Yuwei Wu, Xinlei Li, Xi Ye, Xinyue Hu, Yunfei Liu, Yifan Peng, Xinxing Xia",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761943",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Bio-sensing System for Visualizing Material Perceptions through Physiological Computing and Geometric Encoding",
+    "authors": "Mirna Zordan, Enza Migliore, Minghong Zhang, Peiyue Lin",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771478",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "MindEye: A VR Imagery Training System for Individuals with Acquired Visual Imagery Impairments and Mild Aphantasia",
+    "authors": "Tian Wang, Chenyang He, Ruici Song, Jinghan Zhang, Yijing Xu, Pei Zhang, Mengyao Guo, Guanyou Li, Zhiwei Deng",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771463",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Practical Encoding Approach for Texture Compression: Combining Multi-Processing and Multi-Threading",
+    "authors": "Hyeon-ki Lee, Jae-Ho Nah",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771436",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "“I’m Always Here”: An Affective Companion Agent for Novice Drivers",
+    "authors": "Wei Gong, Stephen Jia Wang",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771470",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "360 VSP: Issues and limitations of 360 Virtual Sound Productions for mobile devices",
+    "authors": "Balandino Di Donato, Martin Rieger, Iain McGregor",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771637",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Motiv: A Dataset of Latent Space Representations of Musical Phrase Motions",
+    "authors": "Nádia Carvalho, Jorge Sousa, Gilberto Bernardes, Henrique Portovedo",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771602",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Closure Conversion, Flat Environments, and the Complexity of Abstract Machines",
+    "authors": "Beniamino Accattoli, Cláudio Belo Lourenço, Dan R. Ghica, Giulio Guerrieri, Claudio Sacerdoti Coen",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756922",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Yurt Portal: A Nomadic Spatial Interface to Reflect Cross-Cultural Virtual Digital Twins",
+    "authors": "Aziza Kanimetova, Burcu Nimet Dumlu, Ximing Shen, Kanghong Zhong, Mark Armstrong, Sohei Wakisaka, Takatoshi Yoshida, Kouta Minamizawa",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761959",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "I Become Tentacle, We Become \"Tentacus\": A Mixed Reality Ritual for Distributed Bodies and Collective Minds",
+    "authors": "Yiyang Sun, Ziying Chen, La Luo, Botao Amber Hu",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761962",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "SofiBuddy: A Soft Mobile Interface for On-Body Interaction",
+    "authors": "Yixuan Li, Jie Yu, Chenwan Halley Zhong, Zhaowen Deng, Teng Han, Yi Cai, Xin Tong",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771432",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "When Birds Bow: An Interactive Audio-Visual Installation for Suona Culture via Collaborative Tangible User Interface",
+    "authors": "Yuyao Heng, Yi Zhang, Zihan Gao",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771429",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "AeroVis3R: Geometry-Aware Vision–Language Models for 3D Reasoning over UAV Landmark Videos",
+    "authors": "Cewen Deng",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771534",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Bridging Visual Rhetoric and Computer Vision: A Large-Scale Analysis of the Design of Japanese and Original-Language Film Posters",
+    "authors": "Nano Kojima, Xinru Zhu",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771523",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Cyclic Patterns and Spatial Orientations in Artificial Impulsive Autonomous Sensory Meridian Response (ASMR) Sounds",
+    "authors": "Henrik Haraldsen Sveen, Laura Bishop, Alexander Refsum Jensenius",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771651",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Ouroboros Code: A Practice-Based Study on Sci-Fi Atmosphere Design under Nonlinear Narrative Structures",
+    "authors": "Xianzhe Long, Zhiyu Zhao",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771469",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Bulb-in-Hand Initiation: An Illusory Altered In-Head Sensation via Colored Hemispheres, Audio Panning, and Head Tapping",
+    "authors": "Kaho Kagami, Kenri Kodaka",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761963",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Many-Inbetweens Browsing: Exploring Pre-Generated Inbetweens for 2D Animation",
+    "authors": "Jotaro Sakamiya, Akinobu Maejima, Yuki Koyama, I-Chao Shen, Takeo Igarashi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771510",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Mindscape: Multi-Perspective VR Storytelling in Interactive Psychological Thriller Experiences",
+    "authors": "Zizhuo Wang, Ziyan Xiong, Jiayu Zhang, Ranran Zeng, Yu Fang, Guanyou Li, Mengyao Guo, Pei Zhang, Zhiwei Deng",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771462",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Predicting Passenger Anxiety with a Spatio-Temporal PIGNN  in VR Autonomous Driving",
+    "authors": "Mi Chang, Jiwoo Han, Woojin Kim, Daesub Yoon",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771427",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Making a Binaural Microphone: Comparing Audio Quality, Listener Experience, and Costs of DIY with a Commercial Option",
+    "authors": "André Hedlund, Tanja Jørgensen, Rikard Lindell",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771638",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "An Exploratory Phenomenological Study into how Audio Shapes Emotions in Player Experience",
+    "authors": "Pedro Garruço, Licínio Roque, Luís Lucas Pereira",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771614",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Mapping the Neighborhood of Microtonal Music Scales Using Self-Organizing Maps",
+    "authors": "Kousha Nikkar, Matteo Sacchetto, Cristina Rottondi",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771618",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "An adequate while-language for stochastic hybrid computation",
+    "authors": "Renato Neves, José Proença, Juliana Souza",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756927",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Real-Time IK-Based Full-Body and Facial Capture for Stylized 2D Puppets in XR Applications",
+    "authors": "Meghdad Asadilari",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761941",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Efficient Visualization of Large-Scale Unstructured Grid Data through Importance-Based Hybrid Reduction",
+    "authors": "Yongwan Kim, Jin-Sung Choi, Ki-Hong Kim",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771492",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "School Legacy: Reconstructing Memory Through AI-augmented Social XR",
+    "authors": "Yangli Liu, Mehdi Akhondi, Eraulia Nadinda Rachmat, Mengyao Guo, Ibrahim Olalekan Jimoh, Haowei Xiong",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771522",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Listening Together-Apart: On the Social Mediation of Sound Installation Listening",
+    "authors": "Nicole Robson, Andrew McPherson, Nick Bryan-Kinns",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771610",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "From Installation to Instrument: A Qualitative Inquiry into Gesture, Expression, and Composition with Soundscape",
+    "authors": "Trevor Hunter, Eve Klein, Stephen Viller",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771627",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Two Empirical Studies on Audiovisual Semiotics of Uncertainty",
+    "authors": "Sita Aukje Vriend, David Hägele, Daniel Weiskopf",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771604",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "“Hands-on” Light Field Display via Engineering Scalable Optics, Algorithms, and Mounts",
+    "authors": "Feifan Qu, Pengfei Shen, Li Liao, Yifan Peng",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761957",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Transporting Theorems about Typeability in LF Across Schematically Defined Contexts",
+    "authors": "Chase Johnson, Gopalan Nadathur",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756919",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Improving Localization with Localization-guided Structure-from-Motion",
+    "authors": "Yu-Yi Lin, Kai-Li Wang, Kuan-Wen Chen",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771464",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "AniME: Adaptive Multi-Agent Planning for Long Animation Generation",
+    "authors": "Lisai Zhang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Yuxin Hong, Zihao Zhang, Yanzhang Liang, Yudong Jiang",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771455",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "HybridDeform4D: Joint Refinement of Mesh and Gaussian Splatting for Video-to-4D Object Generation",
+    "authors": "Duotun Wang, Yuhang Li, Zhijing Shao, Wanjun Lv, Liuxin Zhang, Mingming Fan, Zeyu Wang",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771441",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Deanthropocentric Interfaces: Plant-Driven Interaction Design in the Metaverse Era",
+    "authors": "Ze Gao, Yuan Zhuang, Mengyao Guo, Kunqi Wang",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771435",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Force Feedback Button that Focuses on Both Operation and Non-Operation",
+    "authors": "Kazuma Tahara, Koji Tsukada",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771494",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Part-Aware Embedding for Fine-Grained 3D Shape Retrieval",
+    "authors": "Suwoong Lee, Da-un Jung, Juwon Lee, Seungjae Lee, Junmo Kim",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771499",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Visualizing the Spatio-Temporal Narratives of Hong Kong's Southbound Literati",
+    "authors": "Yuan Zhang, Angela Chulei Tang, Yu Sun, Yan song Chen, Qi Duanmu, Bo wen Wang, Min zhi Shen, Yi Yi Qian, Yin Bing",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771486",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Color-Corrected Full Ray-Based Computer-Generated Holography",
+    "authors": "Jaehong Lee, Youngwoo Kim, Duksu Kim",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771488",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Drifting-Object-Based Water Surface Display",
+    "authors": "Kanato Takahashi, Kengo Imai, Reiji Nakano, Taiyo Tamura, Tsubasa Kitajima, Yuichiro Katsumoto",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771473",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Improving Angular Parameterization for Compact Neural Materials",
+    "authors": "Zilin Xu, Yehonathan Litman, Lingqi Yan, Yang Zhou, Anton Michels",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771447",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Toward Real-time Mobile Light Field Displays: An Efficient 3DGS Rendering Framework",
+    "authors": "Hong-Chang Shin, Hosung Jeon, Joonsoo Kim, Gwangsoon Lee, Hyon-Gon Choo",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771528",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "TryIto: Discrete IMEX Cloth Simulation with Learned Residual Forces",
+    "authors": "Ava Oppenheimer, Sebastian Marino",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771472",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3757374",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "PaperMythXR: Embodied Mixed-Reality Storytelling via Chinese Paper-Cutting",
+    "authors": "Shantong Zhu, Wenjuan Chen, Jiayi Wu, Xingguang Mi, Wenxuan Kou, Yilin Zhang, Congyun Tang",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Where is That Bird? The Impact of Artificial Birdsong in Public Indoor Environments",
+    "authors": "Maham Riaz, Jinyue Guo, Bilge Serdar Göksülük, Alexander Refsum Jensenius",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771629",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Distributed, Coordination-Free Programming: 10 Years of Progress Since Lasp",
+    "authors": "Christopher Meiklejohn, Peter Van Roy",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756910",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "OHMNI: Hand-Tracked XR Circuit Prototyping with Integrated SPICE Simulation",
+    "authors": "Kristian Paolo David, Aldrin Joseph Hao, Val Randolf Madrid, Jaderick Pabico",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761952",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "DJ AI: Optimizing Playlist Alignment and Generating Transitions with Generative and Embedding Models",
+    "authors": "Orkun Kınay, Barış Tekdemir, Göktuğ Gökyılmaz, Ekmel Yavuz, Berk Ay, Selim Balcisoy",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771640",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Formalizing Weighted Pushdown Systems in Isabelle/HOL",
+    "authors": "Anders Schlichtkrull, Morten Konggaard Schou",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756912",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Egocentric 3D Pose Estimation with Temporally Guided Pose Refinement",
+    "authors": "Seongmin Baek, Youn-Hee Gil, Hyunjun Lim",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771474",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Echoes of Poetry: Recontextualizing Classical Chinese Poetry into Modern Pop Music through Narrative Visualization",
+    "authors": "Yechun Peng, Xin Chen, Dianheng Jiang, Hanyu Dong, Nan Cao, Yang Shi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771460",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "MLLM-guided Training-free Spherical Panorama Generation from a Single Image",
+    "authors": "Yuki Katayama, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771532",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Calligraphy Echo: Sonifying Chinese Calligraphy with MIDI-Enabled Brush",
+    "authors": "Yizheng Xu, Kexin Nie, Yufeng Wu, Huiying Lu, Longyu Zhang",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771497",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Fast and Stable Elastic Dynamics with Large-scale Contact Simulation",
+    "authors": "Ziqiu Zeng, Siyuan Luo, Eric Yang, Fan Shi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771482",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Dependency Pairs for Expected Innermost Runtime Complexity and Strong Almost-Sure Termination of Probabilistic Term Rewriting",
+    "authors": "Jan-Christoph Kassing, Leon Valentin Spitzer, Jürgen Giesl",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756917",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Sonic Skater Jump: Exploring the Sound Design of Complex Auditory Movement Guidance for Physical Therapy",
+    "authors": "Daniel Hug, Michelle Haas, Jasmin Meier, Eveline Graf",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771621",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Tactile Data Recording System for Clothing with Motion-Controlled Robotic Sliding",
+    "authors": "Michikuni Eguchi, Takekazu Kitagishi, Yuichi Hiroi, Takefumi Hiraki",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771452",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "The Effect of Shape Differences on Object Impressions and Their Relation to Weight Perception",
+    "authors": "Kosei Tomioka, Naoki Hashimoto, Mie Sato",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771437",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Folding Narrowing for the Analysis of Mutual Exclusion Protocols",
+    "authors": "Raúl López-Rueda, Duong Dinh Tran, Canh Minh Do, Santiago Escobar, Kazuhiro Ogata",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756911",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Navigable Semantic Sound Maps for Auditory Displays",
+    "authors": "Mika Alexander Sieweke, Thomas Hermann",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771619",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "ETCE: Efficient Two-Stage Concept Erasure for Text-to-Image Diffusion Models",
+    "authors": "Qi-Ang Hu, Nisha Huang, Yizhou Lin, Jie Guo, Xiu Li, Tong-Yee Lee",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771453",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "HoverCanvas: Aerial Display Based on a Flying Screen and 100 m Long Range Dynamic Projection",
+    "authors": "Shimpei Yamamoto, Hiromasa Oku",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771457",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "RingFlowUI: 3D Interface System using Ring-mounted Camera",
+    "authors": "Matthew Ichikawa, Saori Takeyama, Masahiro Yamaguchi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771533",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "When Stars Shine through Silence: Affective Visualization as Empowerment for Victims of Subway Harassment",
+    "authors": "Yutong Jiang, Xiaoke Yan, Chuyi Zheng, Yang Shi, Qing Chen, Nan Cao",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771477",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Topology-Aware Polymorphism for Embedded Shading Languages",
+    "authors": "Ling Zhu, Liulei Zou, Shaokun Zheng, Kun Xu",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771513",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Mourning Skins: Using Generative AI for Speculative Visualization on Climate Change",
+    "authors": "Yuanjin Zhao, Yechun Peng",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771505",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Harmonic Materials: Composing with found objects and a camera-based synthesiser",
+    "authors": "Jasmine Butt, Nathan Renney, Benedict Gaster, Tom Mitchell",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771606",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Creating Immersive Future Living: An AI-Driven XR Interior Design System",
+    "authors": "Yueling Zhou, Yan Zhang, Yitong Fu, Lingling Li, Fan Yu, Rong Wei, Hao Zhu, Rui Tang",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761958",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "HAVM: Designing 3D Hybrid-Anisotropic-Voronoi Cells for Microstructured Metamaterial",
+    "authors": "Haikuan Zhu, Sikai Zhong, Jing Hua, Jimmy Ching-Ming Chen, Yongjie Jessica Zhang, Charlie C.L. Wang, Zichun Zhong",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771508",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Shen Shu Yu Jin Wu: XR Virtual Production Empowering the Visual Spatial Construction and Immersive Experience of Chinese Classical Dance Films",
+    "authors": "Ling Zou, Yijia Li, Richeng Liu, Xizi Liu",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771493",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Framework for Architectural Geometry Synthesis Using Cellular Automata and Conditioned Diffusion Models",
+    "authors": "Sabri Gokmen, Andrei Vince, Aidan Oh",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771526",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Thread Display: A Novel Wind-Driven Spatial Display Technique",
+    "authors": "Tsukasa Ebisawa, Naoki Hashimoto",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771485",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "A Reflection on Task-Oriented Programming",
+    "authors": "Mart Lubbers, Tim Steenvoorden",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756913",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Shallowly Embedded Functions",
+    "authors": "Benedikt M. Rips, Niek Janssen, Mart Lubbers, Pieter Koopman",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756923",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Recovering Commutation of Logically Constrained Rewriting and Equivalence Transformations",
+    "authors": "Kanta Takahata, Jonas Schöpf, Naoki Nishida, Takahito Aoto",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756916",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Collaborative Scene Mood Authoring with Voice-driven Multimodal Feedback Design in Virtual Reality",
+    "authors": "Jinseok Hong, Minju Baeck, Seokyoung Kim, Yoonseok Shin, Woontack Woo",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761960",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Trans-composition",
+    "authors": "Shiuan Yan, Neng-Hao Yu, Ming-Huang Lin",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761942",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Visualizing the Immune Mechanisms: Interactive Storytelling for Pediatric Allergy Engagement",
+    "authors": "Miki Monzen, Shigenori Mochizuki, Toshikazu Ohshima",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771433",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Differentiable Rendering Framework for Retroreflective Model Construction in Mid-Air Image Simulation",
+    "authors": "Ryo Sugawara, Naoya Koizumi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771778",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Tangible Immersive Authoring of Dynamic Mixed Reality Scenes with the World in Miniature Paradigm",
+    "authors": "Xuyu Li, John Dingliana",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Drawing Lines to Connect",
+    "authors": "Ryu Nakagawa, Hidefumi Ohmura, Kenta Hidaka, Sho Kato, Ai Kawaguchi",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771480",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Immersive Brain Exploration: A VR-Based Gamified System for Neuroanatomy Education with AI-Augmented Learning",
+    "authors": "Qingzhu Zhang",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771516",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "CosmicStride: Space-Efficient VR Exploration for LBE Venues",
+    "authors": "Chen-Qi Jia, Sen-Zhe Xu, Fiona Xiao Yu Chen, Erica Li, Song-Hai Zhang, Zhigang Wang",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761954",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Celestial Blossom: A Collaborative, Meditative VR Journey of Fractal Art and Music",
+    "authors": "Pincun Liu, Keru Wang, Yi Wu, Xiaoan Liu, Yushen Hu, Zhu Wang, Agnieszka Roginska, Ken Perlin",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761947",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "RhyGlyph: Radial Glyph Visualization of Rhythm Interactions",
+    "authors": "Cagri Erdem, Carsten Griwodz, Davide Rocchesso",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771643",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "An interactive type checker for dependent types with general recursion (System Description)",
+    "authors": "Valentin Pasquale, Álvaro García-Pérez",
+    "publish": "Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming",
+    "url": "https://doi.org/10.1145/3756907.3756925",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Percussive Hemispheres: Turning the Head into a Resonating Instrument via Audio-Tactile and Visual Synchrony",
+    "authors": "Kaho Kagami, Kenri Kodaka",
+    "publish": "SIGGRAPH Asia 2025 XR",
+    "url": "https://doi.org/10.1145/3761667.3761950",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "koloHart: Neck-Worn Tactile Choker for Sensory Substitution and Sensory Enhancement",
+    "authors": "Takafumi Morita, Haruki Momiyama, Shogo Tochimoto",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771524",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Novel active force feedback glove and control algorithm for a realistic virtual handshake",
+    "authors": "Daegeun Park, Juyoung Kim, Yeongjae Choi, Sung-Uk Jung",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771525",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Reimagining the CGI Pipeline with Diffusion Models: A Renderless Workflow for 3D Product Visualization",
+    "authors": "Athirah Zaini, Auzaei Saffiey, Allan Fowler, Xue Bai",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771489",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Living Literature: A Collaborative VR Experience for Enhancing Shared Reading Through Affective and Generative Feedback",
+    "authors": "Haitian Liu, Tamil Selvan Gunasekaran, Mark Billinghurst, Yun Suen Pai",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771515",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Creative Hair Style Generation and Editing",
+    "authors": "Sheng-Yi Yao, Dong-Yi Wu, Qian-Hui Lin, Yu-Hsuan Kung, Ci-Huan Huang, HuiGuang Huang, Xin-Wei Lin, Yu Cao, Tong-Yee Lee",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771506",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "AI-Powered Synthesis of 2.5D Traditional Chinese Paintings",
+    "authors": "Xin-Wei Lin, HuiGuang Huang, Dong-Yi Wu, Pin-Chieh Lu, Sheng-Yi Yao, Yu Cao, Tong-Yee Lee",
+    "publish": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "url": "https://doi.org/10.1145/3757374.3771502",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Sonic Scribbles – Constructing Sketch Classes from Visual Associations of the Mental Model for Audio",
+    "authors": "Lars Engeln, Rainer Groh",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771597",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Introducing WebPdL2Ork",
+    "authors": "Ivica Ico Bukvic, William Furgerson, Justin Kerobo, Bradley Davis",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771596",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Playing With Sound Beings: A Phenomenological Exploration",
+    "authors": "Mariana Seiça, Licínio Roque, Pedro Martins, F. Amílcar Cardoso",
+    "publish": "Proceedings of the 20th International Audio Mostly Conference",
+    "url": "https://doi.org/10.1145/3771594.3771633",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
