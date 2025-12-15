@@ -1,10 +1,54 @@
-[2025-12-15 08:50:13] 开始执行论文搜索任务
+[2025-12-15 09:39:03] 开始执行论文搜索任务
 搜索关键词: hardware verification
 搜索日期范围: 2025-12-14
 正在获取论文...
-共写入 0 条记录，保存到 papers/paper2025-12-14.json。
+[ACM] 2025-12-15 | Energy-Efficient Web Design: Measuring Impact of Front-end Optimizations
+[ACM] 2025-12-15 | A Heuristic Modular Spectral Synthesis Engine for Generating Annotated UV-Vis Datasets
+[ACM] 2025-12-15 | XLM-RoBERTa-LIME: A Novel Explainable Framework for Sentiment Analysis on Bangla–English–Hindi Code-Mixed Text
+[ACM] 2025-12-15 | Bypassing Conventional eKYC: How Far Can We Go using Deepfake?
+[ACM] 2025-12-15 | Enhancing Multi-class Malware Detection in Resource-constrained Environments
+[ACM] 2025-12-15 | Leveraging Quantitative Analysis for Severity Assessment of Knee Osteoarthritis
+[ACM] 2025-12-15 | From Connectivity to Care: How Digital Inclusion Shapes Women's Healthcare Decision-Making in Bangladesh
+[ACM] 2025-12-15 | An Explainable and Scalable Framework for Compost Maturity Prediction Using Ensemble Learning and Conversational AI
+[ACM] 2025-12-15 | An Explainable AI Framework for Parkinson’s Disease Prediction Using XGBoost, SHAP, and Large Language Model Integration
+[ACM] 2025-12-15 | ChainGraph-DL: Data-Driven Causal Inference for Graph Structure Learning
+[ACM] 2025-12-15 | Proceedings of the 12th International Conference on Next Generation Computing, Communication, Systems and Security
+[ACM] 2025-12-15 | Leveraging Morphology for ML-based Classification of Genre for Bangla Literature
+[ACM] 2025-12-15 | Analyzing Neural Network Models for Detecting Panic Attacks With Monte Carlo Dropout
+[ACM] 2025-12-15 | Leakage-Safe Multi-View Graph Construction for Robust Intrusion Detection in Edge-IIoT Networks
+[ACM] 2025-12-15 | DoT: Degradation of Throughput by the Adversarial Behavior of Nodes in Terahertz Communication Networks
+[ACM] 2025-12-15 | AmarVote: A Web-Based ElectionGuard System with Post-Quantum Guardian Key Protection and Blockchain Auditing
+[ACM] 2025-12-15 | Design of a USB RAID Controller for ARM SBC cluster server
+[ACM] 2025-12-15 | Zero-Shot Detection of Jailbreaking Attempts in LLMs
+[ACM] 2025-12-15 | From Image Resizing to Adaptive Pipeline: Improving Visual Place Recognition Without Re-Training
+[ACM] 2025-12-15 | Seg2Reg-Net: An Explainable AI Analysis of Predictive Limitations in Cattle Weight Estimation
+[ACM] 2025-12-15 | Quantum-Resistant FOTA: End-to-End Decentralized Firmware Updates for IoT Using Blockchain and CRYSTALS-Dilithium
+[ACM] 2025-12-15 | Fingerprinting Malware Behavior: A Deep Learning Approach
+共写入 22 条记录，保存到 papers/paper2025-12-14.json。
 论文获取成功，文件路径: papers/paper2025-12-14.json
 正在筛选、翻译并发送邮件...
-筛选完成：共 0 篇；Yes = 0 篇；已保存到 papers/select_paper2025-12-14.json。
+[NO] 1/22 | Energy-Efficient Web Design: Measuring Impact of Front-end Optimizations
+[NO] 2/22 | A Heuristic Modular Spectral Synthesis Engine for Generating Annotated UV-Vis Datasets
+[NO] 3/22 | XLM-RoBERTa-LIME: A Novel Explainable Framework for Sentiment Analysis on Bangla–English–Hindi Code-Mixed Text
+[NO] 4/22 | Bypassing Conventional eKYC: How Far Can We Go using Deepfake?
+[NO] 5/22 | Enhancing Multi-class Malware Detection in Resource-constrained Environments
+[NO] 6/22 | Leveraging Quantitative Analysis for Severity Assessment of Knee Osteoarthritis
+[NO] 7/22 | From Connectivity to Care: How Digital Inclusion Shapes Women's Healthcare Decision-Making in Bangladesh
+[NO] 8/22 | An Explainable and Scalable Framework for Compost Maturity Prediction Using Ensemble Learning and Conversational AI
+[NO] 9/22 | An Explainable AI Framework for Parkinson’s Disease Prediction Using XGBoost, SHAP, and Large Language Model Integration
+[NO] 10/22 | ChainGraph-DL: Data-Driven Causal Inference for Graph Structure Learning
+[NO] 11/22 | Proceedings of the 12th International Conference on Next Generation Computing, Communication, Systems and Security
+[NO] 12/22 | Leveraging Morphology for ML-based Classification of Genre for Bangla Literature
+[NO] 13/22 | Analyzing Neural Network Models for Detecting Panic Attacks With Monte Carlo Dropout
+[NO] 14/22 | Leakage-Safe Multi-View Graph Construction for Robust Intrusion Detection in Edge-IIoT Networks
+[NO] 15/22 | DoT: Degradation of Throughput by the Adversarial Behavior of Nodes in Terahertz Communication Networks
+[NO] 16/22 | AmarVote: A Web-Based ElectionGuard System with Post-Quantum Guardian Key Protection and Blockchain Auditing
+[NO] 17/22 | Design of a USB RAID Controller for ARM SBC cluster server
+[NO] 18/22 | Zero-Shot Detection of Jailbreaking Attempts in LLMs
+[NO] 19/22 | From Image Resizing to Adaptive Pipeline: Improving Visual Place Recognition Without Re-Training
+[NO] 20/22 | Seg2Reg-Net: An Explainable AI Analysis of Predictive Limitations in Cattle Weight Estimation
+[NO] 21/22 | Quantum-Resistant FOTA: End-to-End Decentralized Firmware Updates for IoT Using Blockchain and CRYSTALS-Dilithium
+[NO] 22/22 | Fingerprinting Malware Behavior: A Deep Learning Approach
+筛选完成：共 22 篇；Yes = 0 篇；已保存到 papers/select_paper2025-12-14.json。
 邮件发送成功！
-[2025-12-15 08:50:16] 任务执行成功！
+[2025-12-15 09:43:43] 任务执行成功！
