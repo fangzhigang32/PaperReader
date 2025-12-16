@@ -21,6 +21,8 @@ SENDER_PASS  = os.environ.get('SENDER_PASS')
 RECEIVER_EMAIL = os.environ.get('RECEIVER_EMAIL')
 SMTP_SERVER = os.environ.get('SMTP_SERVER', 'smtp.qq.com')
 SMTP_PORT = os.environ.get('SMTP_PORT', 465)
+BORAD_FIELD = os.environ.get('BORAD_FIELD',"AI for Electronic Design Automation (EDA)")
+SPECIFIEC_FIELD = os.environ.get('SPECIFIEC_FIELD',"").split(',')
 
 # ========== 工具函数 ==========
 def _checkpoint_write(path, data):

@@ -56,6 +56,8 @@
 | `RECEIVER_EMAIL`  | 接收方邮箱地址 |
 | `SMTP_SERVER`     | SMTP 服务器地址（默认 `smtp.qq.com`） |
 | `SMTP_PORT`       | SMTP 端口号（默认 `465`） |
+| `BORAD_FIELD`       | 研究大领域 |
+| `SPECIFIEC_FIELD`       | 研究小领域(使用逗号分隔多个) |
 
 ---
 
@@ -89,6 +91,8 @@ $env:SENDER_PASS="Authorization code"
 $env:RECEIVER_EMAIL="xxx@xx.xx"
 $env:SMTP_SERVER="smtp.qq.com"
 $env:SMTP_PORT=465
+$env:BORAD_FIELD="你的研究大领域"
+$env:SPECIFIEC_FIELD="你的研究小领域"
 ```
 
 #### 🐧 macOS / Linux（Bash）
@@ -106,6 +110,8 @@ export SENDER_PASS="Authorization code"
 export RECEIVER_EMAIL="xxx@xx.xx"
 export SMTP_SERVER="smtp.qq.com"
 export SMTP_PORT=465
+export BORAD_FIELD="你的研究大领域"
+export SPECIFIEC_FIELD="你的研究小领域"
 ```
 
 ---
