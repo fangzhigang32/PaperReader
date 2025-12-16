@@ -3,7 +3,7 @@
 import os
 import json
 import html
-from datetime import date,datetime
+from datetime import date
 from setLLM import ChatModel
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -29,23 +29,32 @@ def _checkpoint_write(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def _safe_get(paper, key, default=""):
+    """安全获取字典值，用于非HTML场景（如LLM输入）"""
     v = paper.get(key, default)
     return "" if v is None else v
 
+def _safe_get_escaped(data, key, default='None'):
+    """安全获取字典值并进行HTML转义，用于HTML输出防止XSS"""
+    value = data.get(key, default) if isinstance(data, dict) else default
+    return html.escape(str(value)) if value else html.escape(default)
+
 # ========== LLM 调用 ==========
-def llm_is_relevant(title, abstract):
+def llm_is_relevant(title, abstract, broad_field="AI for Electronic Design Automation (EDA)", specific_field=[]):
     """判断论文是否与研究方向相关"""
     if not (title or abstract):
         return False
+    
+    # Electronic Design Automation (EDA) and Large Language Model (LLM)-assisted chip design
+    # code generation, static code analysis, lint violation detection and repair, coding standard violations, and security vulnerabilities
 
     system_template = "You are an academic assistant who helps users filter papers related to their research interests."
+    struct_specific_field = ", ".join(specific_field) if specific_field else "various subfields"
     user_template = (
-        "My research focuses on Electronic Design Automation (EDA) and Large Language Model (LLM)-assisted chip design.\n\n"
-        "It includes code generation, static code analysis, lint violation detection and repair, coding standard violations, and security vulnerabilities.\n\n"
-        "Please determine whether the following paper is related to or potentially useful for my research.\n\n"
-        "If the paper involves EDA, or code generation, or code smell, or static code analysis, or code repair, or code quality improvement, or automatic error detection, "
-        "please answer “Yes”. Otherwise, please answer “No”.\n\n"
-        "Title: {title}\n\nAbstract: {abstract}"
+        "My research focuses on {broad_field};\n\n"
+        "My specific research subfield is: {struct_specific_field}. \n\n"
+        "Please evaluate whether the following paper aligns with my research direction by considering the paper's research question, core concepts and keywords, methods and technical approach, and main contributions and conclusions. If the paper's core problem and primary contributions fall directly within my specific research subfield, or if it has clear and direct research value for this subfield (rather than being only broadly related at the broad-field level), then judge it as 'aligned'. If it is only related at the broad-field level, has a weak/indirect connection to the specific subfield, or its topic and contributions clearly do not match, then judge it as 'not aligned' \n\n"
+        "After careful reasoning, provide your final conclusion at the end: if it aligns, please answer 'My conclusion is Yes'; if it does not align, please answer 'My conclusion is No'."
+        "Paper Title: {title} \n\nPaper Abstract: {abstract}"
     )
 
     prompt_template = ChatPromptTemplate.from_messages([
@@ -57,8 +66,12 @@ def llm_is_relevant(title, abstract):
     chain = prompt_template | ChatModel | output_parser
     
     try:
-        res = chain.invoke({"title": title or "No Title", "abstract": abstract or "No Abstract"})
-        return res.strip().upper().startswith("YES")
+        res = chain.invoke({"title": title or "No Title", "abstract": abstract or "No Abstract", "broad_field": broad_field, "struct_specific_field": struct_specific_field})
+        if 'MY CONCLUSION IS' in res.upper():
+            result = res.strip().upper().split("MY CONCLUSION IS")[1].strip()
+        else:
+            result = res.strip().upper()
+        return "YES" in result
     except Exception as e:
         print("判定相关性时出错：", e)
         return False
@@ -156,17 +169,11 @@ def send_email(sender_email, sender_password, receiver_email, subject, body, smt
 
 def build_email_body_from_selected(selected_file_path):
     """构造邮件正文（包含中英文标题与摘要，优化HTML格式）"""
-    import json
-
-    def _safe_get(data, key, default='None'):
-        """安全获取字典值的辅助函数（确保函数内可调用）"""
-        return data.get(key, default) if isinstance(data, dict) else default
-
     try:
         with open(selected_file_path, 'r', encoding='utf-8') as f:
             papers = json.load(f)
     except Exception as e:
-        return f"<p>读取论文文件失败：{str(e)}</p>"
+        return f"<p>读取论文文件失败：{html.escape(str(e))}</p>"
 
     if not papers or not isinstance(papers, list):
         return """
@@ -183,15 +190,17 @@ def build_email_body_from_selected(selected_file_path):
     """
 
     for idx, paper in enumerate(papers, start=1):
-        # 安全获取各项信息
-        title = _safe_get(paper, 'title', 'No Title')
-        title_zh = _safe_get(paper, 'title_zh', 'None')
-        authors = _safe_get(paper, 'authors', 'No Authors')
-        publish = _safe_get(paper, 'publish', 'No Publish')
-        url = _safe_get(paper, 'url', 'No URL')
-        source = _safe_get(paper, 'source', 'No Source')
-        abstract = _safe_get(paper, 'abstract', 'No Abstract')
-        abstract_zh = _safe_get(paper, 'abstract_zh', 'None')
+        # 安全获取各项信息（已转义）
+        title = _safe_get_escaped(paper, 'title', 'No Title')
+        title_zh = _safe_get_escaped(paper, 'title_zh', 'None')
+        authors = _safe_get_escaped(paper, 'authors', 'No Authors')
+        publish = _safe_get_escaped(paper, 'publish', 'No Publish')
+        source = _safe_get_escaped(paper, 'source', 'No Source')
+        abstract = _safe_get_escaped(paper, 'abstract', 'No Abstract')
+        abstract_zh = _safe_get_escaped(paper, 'abstract_zh', 'None')
+        # URL 需要特殊处理：href 属性用原值，显示文本需转义
+        url_raw = paper.get('url', 'No URL') if isinstance(paper, dict) else 'No URL'
+        url_display = html.escape(str(url_raw)) if url_raw else 'No URL'
 
         # 单个论文卡片
         paper_card = f"""
@@ -241,8 +250,8 @@ def build_email_body_from_selected(selected_file_path):
                         原文链接
                     </th>
                     <td style="padding: 10px; border: 1px solid #dee2e6; font-size: 14px;">
-                        <a href="{url}" style="color: #3498db; text-decoration: none;" target="_blank">
-                            {url if len(url) <= 50 else url[:50] + '...'}
+                        <a href="{url_raw}" style="color: #3498db; text-decoration: none;" target="_blank">
+                            {url_display if len(url_display) <= 50 else url_display[:50] + '...'}
                         </a>
                     </td>
                 </tr>
@@ -276,39 +285,6 @@ def build_email_body_from_selected(selected_file_path):
 
     return body_html
 
-def build_email_body_from_selected1(selected_file_path):
-    """构造邮件正文（包含中英文标题与摘要）"""
-    with open(selected_file_path, 'r', encoding='utf-8') as f:
-        papers = json.load(f)
-
-    body_list = []
-    for idx, paper in enumerate(papers, start=1):
-        title = _safe_get(paper, 'title', 'No Title')
-        title_zh = _safe_get(paper, 'title_zh', 'None')
-        authors = _safe_get(paper, 'authors', 'No Authors')
-        publish = _safe_get(paper, 'publish', 'No Publish')
-        url = _safe_get(paper, 'url', 'No URL')
-        source = _safe_get(paper, 'source', 'No Source')
-        abstract = _safe_get(paper, 'abstract', 'No Abstract')
-        abstract_zh = _safe_get(paper, 'abstract_zh', 'None')
-
-        body_list.append(
-            f"【================== Paper{idx} ==================】\n"
-            f"Title(EN): {title}\n"
-            f"Title(ZH): {title_zh}\n"
-            f"Authors: {authors}\n"
-            f"Publish: {publish}\n"
-            f"Source: {source}\n"
-            f"URL: {url}\n"
-            f"Abstract(EN): {abstract}\n"
-            f"Abstract(ZH): {abstract_zh}\n"
-        )
-
-    if not body_list:
-        return "本次未筛选到与研究方向相关的论文。"
-
-    return "\n".join(body_list)
-
 def select_translate_and_email(file_path):
     """一键执行筛选、翻译、邮件发送"""
     selected_path = select_translate_and_save(file_path)
@@ -324,7 +300,7 @@ def select_translate_and_email(file_path):
     )
 
 def select_error_message_email(ErrorMessage):
-
+    """发送错误通知邮件"""
     send_email(
         sender_email=SENDER_EMAIL,
         sender_password=SENDER_PASS,
@@ -334,12 +310,4 @@ def select_error_message_email(ErrorMessage):
         smtp_server=SMTP_SERVER,
         smtp_port=SMTP_PORT
     )
-
-# ========== 使用示例 ==========
-# Paperpath = "../papers/paper2025-11-08.json"
-# select_translate_and_email(Paperpath)
-
-
-
-
 
