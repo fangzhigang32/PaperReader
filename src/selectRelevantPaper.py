@@ -41,7 +41,7 @@ def _safe_get_escaped(data, key, default='None'):
     return html.escape(str(value)) if value else html.escape(default)
 
 # ========== LLM 调用 ==========
-def llm_is_relevant(title, abstract, broad_field="AI for Electronic Design Automation (EDA)", specific_field=[]):
+def llm_is_relevant(title, abstract, broad_field="AI for Electronic Design Automation (EDA)", specific_field=None):
     """判断论文是否与研究方向相关"""
     if not (title or abstract):
         return False
@@ -68,7 +68,7 @@ def llm_is_relevant(title, abstract, broad_field="AI for Electronic Design Autom
     chain = prompt_template | ChatModel | output_parser
     
     try:
-        res = chain.invoke({"title": title or "No Title", "abstract": abstract or "No Abstract", "broad_field": BROAD_FIELD, "struct_specific_field": struct_specific_field})
+        res = chain.invoke({"title": title or "No Title", "abstract": abstract or "No Abstract", "broad_field": broad_field, "struct_specific_field": struct_specific_field})
         if 'MY CONCLUSION IS' in res.upper():
             result = res.strip().upper().split("MY CONCLUSION IS")[1].strip()
         else:
