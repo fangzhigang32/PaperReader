@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2025-12-15",
+    "title": "DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders",
+    "authors": "Susung Hong, Chongjian Ge, Zhifei Zhang, Jui-Hsien Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.13690v1",
+    "source": "arXiv",
+    "abstract": "Video diffusion models have revolutionized generative video synthesis, but they are imprecise, slow, and can be opaque during generation -- keeping users in the dark for a prolonged period. In this work, we propose DiffusionBrowser, a model-agnostic, lightweight decoder framework that allows users to interactively generate previews at any point (timestep or transformer block) during the denoising process. Our model can generate multi-modal preview representations that include RGB and scene intrinsics at more than 4$\\times$ real-time speed (less than 1 second for a 4-second video) that convey consistent appearance and motion to the final video. With the trained decoder, we show that it is possible to interactively guide the generation at intermediate noise steps via stochasticity reinjection and modal steering, unlocking a new control capability. Moreover, we systematically probe the model using the learned decoders, revealing how scene, object, and other details are composed and assembled during the otherwise black-box denoising process."
+  },
+  {
+    "date": "2025-12-15",
+    "title": "LitePT: Lighter Yet Stronger Point Transformer",
+    "authors": "Yuanwen Yue, Damien Robert, Jianyuan Wang, Sunghwan Hong, Jan Dirk Wegner, Christian Rupprecht, Konrad Schindler",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.13689v1",
+    "source": "arXiv",
+    "abstract": "Modern neural architectures for 3D point cloud processing contain both convolutional layers and attention blocks, but the best way to assemble them remains unclear. We analyse the role of different computational blocks in 3D point cloud networks and find an intuitive behaviour: convolution is adequate to extract low-level geometry at high-resolution in early layers, where attention is expensive without bringing any benefits; attention captures high-level semantics and context in low-resolution, deep layers more efficiently. Guided by this design principle, we propose a new, improved 3D point cloud backbone that employs convolutions in early stages and switches to attention for deeper layers. To avoid the loss of spatial layout information when discarding redundant convolution layers, we introduce a novel, training-free 3D positional encoding, PointROPE. The resulting LitePT model has $3.6\\times$ fewer parameters, runs $2\\times$ faster, and uses $2\\times$ less memory than the state-of-the-art Point Transformer V3, but nonetheless matches or even outperforms it on a range of tasks and datasets. Code and models are available at: https://github.com/prs-eth/LitePT."
+  },
+  {
+    "date": "2025-12-15",
+    "title": "Towards Scalable Pre-training of Visual Tokenizers for Generation",
+    "authors": "Jingfeng Yao, Yuda Song, Yucong Zhou, Xinggang Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.13687v1",
+    "source": "arXiv",
+    "abstract": "The quality of the latent space in visual tokenizers (e.g., VAEs) is crucial for modern generative models. However, the standard reconstruction-based training paradigm produces a latent space that is biased towards low-level information, leading to a foundation flaw: better pixel-level accuracy does not lead to higher-quality generation. This implies that pouring extensive compute into visual tokenizer pre-training translates poorly to improved performance in generation. We identify this as the ``pre-training scaling problem`` and suggest a necessary shift: to be effective for generation, a latent space must concisely represent high-level semantics. We present VTP, a unified visual tokenizer pre-training framework, pioneering the joint optimization of image-text contrastive, self-supervised, and reconstruction losses. Our large-scale study reveals two principal findings: (1) understanding is a key driver of generation, and (2) much better scaling properties, where generative performance scales effectively with compute, parameters, and data allocated to the pretraining of the visual tokenizer. After large-scale pre-training, our tokenizer delivers a competitive profile (78.2 zero-shot accuracy and 0.36 rFID on ImageNet) and 4.1 times faster convergence on generation compared to advanced distillation methods. More importantly, it scales effectively: without modifying standard DiT training specs, solely investing more FLOPS in pretraining VTP achieves 65.8\\% FID improvement in downstream generation, while conventional autoencoder stagnates very early at 1/10 FLOPS. Our pre-trained models are available at https://github.com/MiniMax-AI/VTP."
+  },
+  {
+    "date": "2025-12-15",
+    "title": "LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction",
+    "authors": "Tianye Ding, Yiming Xie, Yiqing Liang, Moitreya Chatterjee, Pedro Miraldo, Huaizu Jiang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.13680v1",
+    "source": "arXiv",
+    "abstract": "Recent feed-forward reconstruction models like VGGT and $π^3$ achieve impressive reconstruction quality but cannot process streaming videos due to quadratic memory complexity, limiting their practical deployment. While existing streaming methods address this through learned memory mechanisms or causal attention, they require extensive retraining and may not fully leverage the strong geometric priors of state-of-the-art offline models. We propose LASER, a training-free framework that converts an offline reconstruction model into a streaming system by aligning predictions across consecutive temporal windows. We observe that simple similarity transformation ($\\mathrm{Sim}(3)$) alignment fails due to layer depth misalignment: monocular scale ambiguity causes relative depth scales of different scene layers to vary inconsistently between windows. To address this, we introduce layer-wise scale alignment, which segments depth predictions into discrete layers, computes per-layer scale factors, and propagates them across both adjacent windows and timestamps. Extensive experiments show that LASER achieves state-of-the-art performance on camera pose estimation and point map reconstruction %quality with offline models while operating at 14 FPS with 6 GB peak memory on a RTX A6000 GPU, enabling practical deployment for kilometer-scale streaming videos. Project website: $\\href{https://neu-vi.github.io/LASER/}{\\texttt{https://neu-vi.github.io/LASER/}}$"
+  },
+  {
+    "date": "2025-12-15",
+    "title": "Towards Effective Model Editing for LLM Personalization",
+    "authors": "Baixiang Huang, Limeng Cui, Jiapeng Liu, Haoran Wang, Jiawei Xu, Zhuiyue Tan, Yutong Chen, Chen Luo, Yi Liu, Kai Shu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.13676v1",
+    "source": "arXiv",
+    "abstract": "Personalization is becoming indispensable for LLMs to align with individual user preferences and needs. Yet current approaches are often computationally expensive, data-intensive, susceptible to catastrophic forgetting, and prone to performance degradation in multi-turn interactions or when handling implicit queries. To address these challenges, we conceptualize personalization as a model editing task and introduce Personalization Editing, a framework that applies localized edits guided by clustered preference representations. This design enables precise preference-aligned updates while preserving overall model capabilities. In addition, existing personalization benchmarks frequently rely on persona-based dialogs between LLMs rather than user-LLM interactions, or focus primarily on stylistic imitation while neglecting information-seeking tasks that require accurate recall of user-specific preferences. We introduce User Preference Question Answering (UPQA), a short-answer QA dataset constructed from in-situ user queries with varying levels of difficulty. Unlike prior benchmarks, UPQA directly evaluates a model's ability to recall and apply specific user preferences. Across experimental settings, Personalization Editing achieves higher editing accuracy and greater computational efficiency than fine-tuning, while outperforming prompting-based baselines in multi-turn conversations and implicit preference questions settings."
+  },
+  {
+    "date": "2025-12-15",
+    "title": "Simulation and Experimental Study on the Coupling Characteristics of Shielded Multiconductor Cables Under HEMP Environment",
+    "authors": "Mingmin Zhao, Zeyuan Mu, Luxing Zhao, Lei Gao, Jiahao Zhu, Peng Zhao, Yang Meng",
+    "publish": "IEEE Transactions on Plasma Science",
+    "url": "https://doi.org/10.1109/tps.2025.3640642",
+    "source": "IEEE",
+    "abstract": "This article presents the coupling characteristics of shielded multiconductor cables under high-altitude electromagnetic pulse (HEMP) numerically and experimentally. The numerical analysis is employed to study the coupling characteristics of a representative shielded multiconductor cable under different conditions first. The impacts of cable wiring configurations, cable parameters, and propagation direction of incident electromagnetic waves are given. Then, a horizontally polarized hybrid EMP simulator is constructed, and some radiated tests are conducted to validate the conclusions obtained in numerical analysis. The results show that the open circuit of the shielding layer results in the core wire coupling to the same high voltage as the shielding layer, while grounding the shielding layer significantly reduces the coupling voltage on core wires. In addition, increasing cable height, cable length, elevation angle, and azimuth angle all result in an amplification of the level of coupled current. The experimental outcomes of the radiated tests validate the effectiveness of the simulation and the precision of the numerical analysis results."
+  },
+  {
+    "date": "2025-12-15",
+    "title": "DOMDRL: A Multi-Objective Meta-DRL Algorithm for Dependency-Aware Video Offloading in Vehicular Edge Networks",
+    "authors": "Honghai Wu, Bowen Ji, Huahong Ma, Kaikai Deng, Jianping Gao, Ling Xing",
+    "publish": "IEEE Transactions on Vehicular Technology",
+    "url": "https://doi.org/10.1109/tvt.2025.3644445",
+    "source": "IEEE",
+    "abstract": "Real-time analytics on video data requires substantial computational resources and high energy consumption, and computational offloading has emerged as a promising solution to support such resource-intensive services. Nevertheless, most of the existing research overlook the resource dependencies induced by object-level correlations in dependent video processing tasks. To address this challenges, we propose a theoretical framework employing a novel scaling factor to model resource dependencies among video tasks, enabling accurate estimation of computation and transmission demands for video blocks with multiple interdependent objects. In contrast to conventional single-objective methods, we formulate the problem as a constrained multi-objective optimization and present a decomposition-based meta-deep reinforcement learning (DOMDRL) framework to balance competing objectives. The proposed approach employs meta-learning to train a meta-model, which is then fine-tuned through limited gradient updates to construct the Pareto front. Simulation results based on real-world datasets demonstrate that DOMDRL reduces average task delay by approximately 9.32%, decreases energy consumption by around 6.26%, and improves video analytics accuracy by about 18.9% compared to state-of-the-art task offloading methods."
+  },
+  {
+    "date": "2025-12-15",
+    "title": "Compact Wideband Circularly Polarized Magneto-Electric Dipole Antenna Array",
+    "authors": "Yurong Sun, Quanyuan Feng, Yan Wen, Xiao Gao",
+    "publish": "2025 Photonics &amp;amp; Electromagnetics Research Symposium - Spring (PIERS-Spring)",
+    "url": "https://doi.org/10.1109/piers-spring66516.2025.11276759",
+    "source": "IEEE",
+    "abstract": "In this paper, a compact wideband circularly polarized (CP) magneto-electric (ME) dipole antenna array is proposed. The CP unit is fed by a microstrip line and coupled to the upper substrate through irregular slots. The radiation patch comprises a pair of L-shaped notched patches and a pair of rectangular patches, forming an electric dipole, while the grounded metal via and ground plane establish a magnetic dipole. By combining the slot and radiating patch design, the electric field vectors of the antenna constitute energies with the same amplitude and a phase difference of 90°, resulting in a circular polarization. Moreover, the CP units are configured in a <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$2 \\times 2$</tex> sequential rotation array, incorporating a metal cavity constructed with substrate integrated waveguide (SIW) to distribute energy more evenly across each CP unit. This approach preserves the wideband and stable radiation characteristics of the ME dipole unit while enhancing the axial ratio bandwidth (ARBW) and gain. HFSS simulations demonstrate that the antenna array achieves an impedance bandwidth (IBW) of 27 % at <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$40.3-52.9 \\text{GHz}$</tex> and an ARBW of 20.8 % at <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$39.3-48.4 \\text{GHz}$</tex>, with a stable and flat gain over the entire frequency band and a peak gain of 13.4 dBic. The antenna array exhibits stable radiations in both horizontal and vertical planes, cross-polarization discrimination (XPD) exceeding 17 dB, and low side-lobe levels (SLL). The proposed circularly polarized antenna array can meet the demands of high bandwidth, low interference and high resolution, especially in the high-speed mobile environment, and its directional beam and circularly polarized characteristics can greatly improve the reliability and stability of communication."
+  },
+  {
+    "date": "2025-12-15",
+    "title": "Fuzzy Ellipsoidal Clustering Incorporating Compactness and Separation of Clusters",
+    "authors": "Daichi Machida, Katsuhiro Honda, Seiki Ubukata, Akira Notsu",
+    "publish": "2025 International Conference on Fuzzy Theory and Its Applications (iFUZZY)",
+    "url": "https://doi.org/10.1109/ifuzzy67152.2025.11286404",
+    "source": "IEEE",
+    "abstract": "Although Fuzzy <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$c$</tex>-Means (FCM) clustering is effective for identifying compact clusters by minimizing within-cluster variances, it often fails to distinguish adjacent or overlapping clusters due to its sensitivity to random initialization and lack of separation awareness. To address this issue, Fuzzy Compactness and Separation (FCS) was proposed as an extension that incorporates both compactness and inter-cluster separation into the objective function. In this paper, we propose a novel fuzzy clustering algorithm based on ellipsoidal prototypes that explicitly considers both cluster compactness and separation. Extending the conventional Fuzzy <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$c$</tex>-Elliptotypes (FCE) model, the proposed method enables flexible modeling of elongated clusters. The objective function is formulated to simultaneously minimize vertical deviations, control dispersion along the principal axis, and maximize the distance between cluster centers. Experimental results using artificial datasets demonstrate that the proposed Fuzzy Ellipsoidal Clustering with Compactness and Separation (FECS) improves initialization robustness and achieves more accurate cluster separation compared to conventional methods."
+  },
+  {
+    "date": "2025-12-15",
+    "title": "Prediction of Chronic Kidney Disease Based on Machine Learning with Personalized Dietary Suggestions",
+    "authors": "Raj Papadkar, Taniya Bhattacharjee, Om Patil, Ojas Ingle, Chirag Bedse",
+    "publish": "2025 9th International Conference on Computing, Communication, Control and Automation (ICCCBEA)",
+    "url": "https://doi.org/10.1109/iccubea65967.2025.11283774",
+    "source": "IEEE",
+    "abstract": "Accurate and prompt disease identification is crucial for efficient treatment of patients' health. However, identifying different diseases, particularly in their early phases, is a bit challenging because of subtle and misleading symptoms. This highlights the fusion of two key medical data sources: image scans and clinical notes of patients. The model uses DenseNet-121 along with image normalization methods to capture complex visual details from medical images. Meanwhile, ClinicalBERT for clinical text data uses tokenization and contextual embeddings to extract important key insights from patient records. A hybrid fusion model, which uses attention mechanisms, merges both medical records, enabling the system to evaluate the complete range of accessible patient data. This classification model predicts by giving results as healthy individuals and patients with diseases, further identifying specific disease types and analyzing the growth of the condition. By using the fusion of medical records and advanced ML methods, this model helps in improving diagnostic accuracy and supporting earlier disease detection."
+  }
+]
