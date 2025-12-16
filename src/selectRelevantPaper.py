@@ -21,8 +21,8 @@ SENDER_PASS  = os.environ.get('SENDER_PASS')
 RECEIVER_EMAIL = os.environ.get('RECEIVER_EMAIL')
 SMTP_SERVER = os.environ.get('SMTP_SERVER', 'smtp.qq.com')
 SMTP_PORT = os.environ.get('SMTP_PORT', 465)
-BORAD_FIELD = os.environ.get('BORAD_FIELD',"AI for Electronic Design Automation (EDA)")
-SPECIFIEC_FIELD = os.environ.get('SPECIFIEC_FIELD',"").split(',')
+BROAD_FIELD = os.environ.get('BROAD_FIELD',"AI for Electronic Design Automation (EDA)")
+SPECIFIC_FIELD = os.environ.get('SPECIFIC_FIELD',"").split(',')
 
 # ========== 工具函数 ==========
 def _checkpoint_write(path, data):
@@ -68,7 +68,7 @@ def llm_is_relevant(title, abstract, broad_field="AI for Electronic Design Autom
     chain = prompt_template | ChatModel | output_parser
     
     try:
-        res = chain.invoke({"title": title or "No Title", "abstract": abstract or "No Abstract", "broad_field": broad_field, "struct_specific_field": struct_specific_field})
+        res = chain.invoke({"title": title or "No Title", "abstract": abstract or "No Abstract", "broad_field": BROAD_FIELD, "struct_specific_field": struct_specific_field})
         if 'MY CONCLUSION IS' in res.upper():
             result = res.strip().upper().split("MY CONCLUSION IS")[1].strip()
         else:
@@ -117,9 +117,9 @@ def select_translate_and_save(file_path):
 
     for idx, paper in enumerate(papers, start=1):
         title = _safe_get(paper, 'title', 'No Title')
-        abstract = _safe_get(paper, 'abstract', 'No Abstract')
+        abstract = _safe_get(paper, 'abstract', 'No Abstract')        
 
-        is_rel = llm_is_relevant(title, abstract)
+        is_rel = llm_is_relevant(title, abstract, BROAD_FIELD, SPECIFIC_FIELD)
         tag = "YES" if is_rel else "NO"
 
         if is_rel:

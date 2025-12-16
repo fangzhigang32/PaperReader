@@ -23,6 +23,8 @@ jobs:
       RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
       SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
       SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      BROAD_FIELD: ${{ secrets.BROAD_FIELD }}
+      SPECIFIEC_FIELD: ${{ secrets.SPECIFIEC_FIELD }}
 
     steps:
       - name: Checkout repository
