@@ -132,18 +132,28 @@ uv run src/main.py
 
 ## 🎯 自定义研究方向筛选规则
 
-论文相关性判断逻辑由 `src/selectRelevantPaper.py` 中的  
-`llm_is_relevant(title, abstract)` 方法控制，主要通过 `user_template` 定义筛选标准。
+论文相关性判断通过环境变量 `BROAD_FIELD` 和 `SPECIFIC_FIELD` 配置，无需修改代码。
 
-打开 `src/selectRelevantPaper.py` 文件，修改如下部分：
+### 配置说明
 
-```python
-user_template = """
-My research focuses on Electronic Design Automation (EDA) and Large Language Model (LLM)-assisted chip design.\n\nIt includes code generation, static code analysis, lint violation detection and repair, coding standard violations, and security vulnerabilities.\n\nPlease determine whether the following paper is related to or potentially useful for my research.\n\nIf the paper involves EDA, code generation, code analysis, program repair, code quality improvement, or automatic error detection,please answer "Yes". Otherwise, please answer "No".\n\nTitle: {title}\n\nAbstract: {abstract}
-"""
-```
+| 环境变量 | 说明 | 示例 |
+|----------|------|------|
+| `BROAD_FIELD` | 研究大领域 | `AI for Electronic Design Automation (EDA)` |
+| `SPECIFIC_FIELD` | 研究小领域（逗号分隔多个） | `code generation,static code analysis,program repair` |
 
-修改完成后，可运行以下命令验证效果：
+### 筛选逻辑
+
+LLM 会根据以下标准判断论文是否与你的研究方向相关：
+
+1. **核心问题匹配**：论文的研究问题是否属于你的具体研究子领域
+2. **方法与技术**：论文采用的方法是否与你的研究方向相关
+3. **主要贡献**：论文的核心贡献是否对你的研究有直接价值
+
+> ⚠️ **注意**：仅在大领域层面相关但与具体子领域关联较弱的论文会被判定为"不相关"，以确保筛选精准度。
+
+### 验证配置
+
+配置完成后，可运行以下命令验证效果：
 
 ```bash
 uv sync
@@ -190,7 +200,3 @@ uv run src/main.py
 - 请合理设置检索频率与数量，避免对数据库服务器造成不必要压力  
 
 ---
-
-
-
-

@@ -130,18 +130,28 @@ uv run src/main.py
 
 ## 🎯 Customize Research Relevance Rules
 
-Paper relevance is determined by `llm_is_relevant(title, abstract)`  
-in `src/selectRelevantPaper.py`, which uses the `user_template` for filtering criteria.
+Paper relevance is configured via environment variables `BROAD_FIELD` and `SPECIFIC_FIELD` — no code modification required.
 
-Example section to modify:
+### Configuration
 
-```python
-user_template = """
-My research focuses on Electronic Design Automation (EDA) and Large Language Model (LLM)-assisted chip design.\n\nIt includes code generation, static code analysis, lint violation detection and repair, coding standard violations, and security vulnerabilities.\n\nPlease determine whether the following paper is related to or potentially useful for my research.\n\nIf the paper involves EDA, code generation, code analysis, program repair, code quality improvement, or automatic error detection, please answer "Yes". Otherwise, please answer "No".\n\nTitle: {title}\n\nAbstract: {abstract}
-"""
-```
+| Environment Variable | Description | Example |
+|---------------------|-------------|---------|
+| `BROAD_FIELD` | Your broad research field | `AI for Electronic Design Automation (EDA)` |
+| `SPECIFIC_FIELD` | Your specific research subfields (comma-separated) | `code generation,static code analysis,program repair` |
 
-After editing, test locally with:
+### Filtering Logic
+
+The LLM evaluates paper relevance based on the following criteria:
+
+1. **Core Problem Match**: Whether the paper's research question falls within your specific subfield
+2. **Methods & Techniques**: Whether the paper's approach aligns with your research direction
+3. **Main Contributions**: Whether the paper's core contributions have direct value for your research
+
+> ⚠️ **Note**: Papers that are only related at the broad-field level but have weak connections to your specific subfield will be marked as "not relevant" to ensure filtering precision.
+
+### Verify Configuration
+
+After configuration, test locally with:
 
 ```bash
 uv sync
