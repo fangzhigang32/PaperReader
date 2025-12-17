@@ -1,5 +1,7 @@
 name: PaperReader
-
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 on:
   schedule:
     - cron: '0 9 * * *'
@@ -61,6 +63,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git pull origin ${{ github.ref_name }} --rebase || true
           git add papers/ || true  # 添加 papers 文件夹（如果为空，忽略错误）
           git add runlog/ || true  # 可选：也添加日志
           git diff --staged --quiet || git commit -m "Add generated papers and logs from run ${{ github.run_number }}"  # 只在有变化时 commit
