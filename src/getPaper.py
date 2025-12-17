@@ -153,8 +153,8 @@ def get_arxiv_records(searchText, createdTime):
 
     url = "http://export.arxiv.org/api/query?"
     params = {
-        "search_query": f"all:{searchText} AND lastUpdatedDate:[{createdTime.replace('-', '')}0000 TO {createdTime.replace('-', '')}2359]",
-        "sortBy": "relevance",
+        "search_query": f"all:{searchText}+AND+submittedDate:[{createdTime.replace('-', '')}0000 TO {createdTime.replace('-', '')}2359]",
+        "sortBy": "submittedDate",
         "sortOrder": "descending",
         "max_results": arXivCount,
     }
