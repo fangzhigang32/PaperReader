@@ -80,6 +80,8 @@ My research focuses on Electronic Design Automation (EDA) and Large Language Mod
 """
 ```
 
+修改后保存即可。
+
 ## 💻 本地运行（调试 / 手动触发）
 
 ### 1. 配置本地环境变量
@@ -197,6 +199,7 @@ uv run src/main.py
 - 请合理设置检索频率与数量，避免对数据库服务器造成不必要压力  
 
 ---
+
 
 
 
