@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2025-12-17",
+    "title": "An AI-Driven Multimodal Smart Home Platform for Continuous Monitoring and Assistance in Post-Stroke Motor Impairment",
+    "authors": "Chenyu Tang, Ruizhi Zhang, Shuo Gao, Zihe Zhao, Zibo Zhang, Jiaqi Wang, Cong Li, Junliang Chen, Yanning Dai, Shengbo Wang, Ruoyu Juan, Qiaoying Li, Ruimou Xie, Xuhang Chen, Xinkai Zhou, Yunjia Xia, Jianan Chen, Fanghao Lu, Xin Li, Ningli Wang, Peter Smielewski, Yu Pan, Hubin Zhao, Luigi G. Occhipinti",
+    "publish": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "url": "https://doi.org/10.1109/tnsre.2025.3645093",
+    "source": "IEEE",
+    "abstract": "At-home rehabilitation for post-stroke patients presents significant challenges, as continuous, personalized care is often limited outside clinical settings. Moreover, the lack of integrated solutions capable of simultaneously monitoring motor recovery and providing intelligent assistance in home environments hampers rehabilitation outcomes. Here, we present a multimodal smart home platform designed for continuous, at-home rehabilitation of post-stroke patients, integrating wearable sensing, ambient monitoring, and adaptive automation. A plantar pressure insole equipped with a machine learning pipeline classifies users into motor recovery stages with up to 94% accuracy, enabling quantitative tracking of walking patterns during daily activities. An optional head-mounted eye-tracking module, together with ambient sensors such as cameras and microphones, supports seamless hands-free control of household devices with an average latency under 1 s with consistent operation. These data streams are fused locally via a hierarchical Internet of Things (IoT) architecture, ensuring low latency and data privacy. An embedded large language model (LLM) agent, Auto-Care, continuously interprets multimodal data to provide real-time interventions—issuing personalized reminders, adjusting environmental conditions, and notifying caregivers. Implemented in a post-stroke context, this integrated smart home platform increased mean user satisfaction from 3.9 ± 0.8 in conventional home environments to 8.4 ± 0.6 with the full system (n = 20). Beyond stroke, the system offers a scalable, patient-centered framework with potential for long-term use in broader neurorehabilitation and aging-in-place applications.",
+    "title_zh": "一种由人工智能驱动的多模态智能家居平台，用于中风后运动功能障碍的持续监测与辅助",
+    "abstract_zh": "居家卒中康复面临诸多挑战，因为在临床环境之外，持续且个性化的照护往往难以实现。此外，缺乏能够同时监测运动功能恢复并提供智能辅助的集成解决方案，也制约了康复效果的提升。本文提出了一种多模态智能家庭平台，旨在为卒中患者提供持续的居家康复支持，整合可穿戴传感、环境监测与自适应自动化技术。一种搭载机器学习算法的足底压力鞋垫可将用户分类至不同运动功能恢复阶段，准确率高达94%，从而实现对日常活动中行走模式的量化追踪。可选的头戴式眼动追踪模块，结合摄像头、麦克风等环境传感器，可实现对家用设备的无缝无手控制，平均延迟低于1秒，操作稳定可靠。这些数据流通过分层物联网（IoT）架构在本地融合，确保低延迟响应和数据隐私安全。平台内嵌的大语言模型（LLM）代理“Auto-Care”持续解析多源信息，提供实时干预——包括个性化提醒、自动调节环境条件以及向照护者发出通知。在卒中康复场景中的应用表明，该集成智能家庭系统将用户满意度从传统居家环境下的3.9 ± 0.8显著提升至8.4 ± 0.6（n = 20）。除卒中外，该系统还具备可扩展性与以患者为中心的特点，有望在更广泛的神经康复及居家养老领域实现长期应用。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "KconfigTune: Automatic Performance Tuning for Linux Kernel Configuration",
+    "authors": "Ying Sun, Fangqi Bi, Jiatai He, Shen Qu, Yanjun Wu, Pengpeng Hou",
+    "publish": "IEEE Transactions on Computers",
+    "url": "https://doi.org/10.1109/tc.2025.3644413",
+    "source": "IEEE",
+    "abstract": "The Linux kernel offers nearly 20,000 configuration options, making it highly customizable but also extremely challenging to manually optimize for performance. The diversity of operating environments and workloads further limits the effectiveness of static or expert-crafted configurations. This paper introduces KconfigTune, an automated tuning system that jointly optimizes Linux kernel configuration options and system-level parameters (e.g., procfs entries). We propose extconfig to expand the parameter search space and, for the first time, address configuration dependencies that arise during automated tuning. To ensure valid and bootable kernels, we design a dependency automatic fix tool and a GRUB-based mechanism. KconfigTune models the tuning process as a machine learning problem and applies Bayesian optimization with a random forest model to efficiently explore the vast and interdependent configuration space. Unlike prior approaches that focus solely on either kernel options or system parameters, KconfigTune achieves deeper integration by jointly tuning both compile-time and runtime behaviors. Experimental results show significant performance improvements, with gains of 18.62% and 19.92% over the default configuration in UnixBench and LEBench tests, respectively. Compared to the state-of-the-art, KconfigTune outperforms by 2.9% and 12.69% in these benchmarks. Ablation studies further confirm that these gains primarily stem from the combined tuning of kernel configurations and system-level parameters.",
+    "title_zh": "KconfigTune：Linux 内核配置的自动性能调优",
+    "abstract_zh": "Linux内核提供了近20,000个配置选项，使其高度可定制，但也使得手动优化性能变得极为困难。由于运行环境和工作负载的多样性，静态或由专家手工设计的配置方案效果有限。本文提出KconfigTune，一个自动调优系统，能够联合优化Linux内核配置选项以及系统级参数（如procfs条目）。我们提出了extconfig方法以扩展参数搜索空间，并首次在自动化调优过程中解决了配置依赖问题。为确保生成的内核配置合法且可引导，我们设计了依赖关系自动修复工具以及基于GRUB的机制。KconfigTune将调优过程建模为机器学习问题，采用基于随机森林的贝叶斯优化方法，高效探索庞大且相互关联的配置空间。与以往仅关注内核选项或系统参数的方法不同，KconfigTune实现了更深层次的集成，同时优化编译时和运行时行为。实验结果表明，相较于默认配置，KconfigTune在UnixBench和LEBench测试中分别取得了18.62%和19.92%的性能提升；相比当前最先进的方法，在这些基准测试中分别领先2.9%和12.69%。消融研究进一步证实，这些性能增益主要源于对内核配置与系统级参数的联合调优。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "High-Speed I/O Equalizer Optimization Based on Deep Reinforcement Learning",
+    "authors": "Hung Khac Le, Jisoo Hwang, Jeong-Taek Kong, SoYoung Kim",
+    "publish": "IEEE Transactions on Signal and Power Integrity",
+    "url": "https://doi.org/10.1109/tsipi.2025.3645170",
+    "source": "IEEE",
+    "abstract": "In this work, we propose a signal integrity and power efficiency optimization framework for high-speed I/O equalizer systems using deep reinforcement learning (DRL) based on a deep double Q-network. Although equalizer techniques have long existed, few studies have systematically optimized the feed-forward equalizer (FFE), decision feedback equalizer (DFE), and continuous-time linear equalizer (CTLE) together, including the high-speed channel properties. This framework determines the parameters of the equalizer architecture to optimize performance metrics such as eye height, eye width, and power consumption. It offers three key advantages: (1) a framework with a scalable deep neural network (DNN) to efficiently model complex design challenges; (2) a future-state technique that mitigates design-space expansion with a minimum number of output neurons; and (3) simultaneous evaluation of power efficiency, unachievable with conventional methods. As a proof of concept, we present the optimization of equalizer architecture using the proposed approach across different high-speed channels, including a backplane and an interference-tolerant channel. Experimental results demonstrate that our approach improves signal and power performance significantly compared to those from conventional methods (e.g., minimum-mean squared error, least-mean squared) and converges much faster than genetic, particle swarm, and Bayesian optimization algorithms.",
+    "title_zh": "基于深度强化学习的高速I/O均衡器优化",
+    "abstract_zh": "在本研究中，我们提出了一种基于深度双Q网络的深度强化学习（DRL）框架，用于高速I/O均衡器系统的信号完整性与功耗效率优化。尽管均衡技术早已存在，但很少有研究系统性地联合优化前馈均衡器（FFE）、判决反馈均衡器（DFE）和连续时间线性均衡器（CTLE），同时考虑高速信道特性。该框架通过确定均衡器架构的参数，以优化眼图高度、眼图宽度及功耗等性能指标。该方法具有三大优势：（1）采用可扩展的深度神经网络（DNN），高效建模复杂的电路设计挑战；（2）引入未来状态技术，在最小输出神经元数量的前提下有效缓解设计空间膨胀问题；（3）能够同时评估功耗效率，这是传统方法难以实现的。作为概念验证，我们展示了在不同高速信道（包括背板信道和抗干扰信道）上，利用所提方法对均衡器架构进行优化的结果。实验结果表明，与传统方法（如最小均方误差、最小均方算法）相比，本方法显著提升了信号质量和功耗表现，并且收敛速度远快于遗传算法、粒子群优化和贝叶斯优化等经典优化算法。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Understanding Prompt Management in GitHub Repositories: A Call for Best Practices",
+    "authors": "Hao Li, Hicham Masri, Filipe R. Cogo, Abdul Ali Bangash, Bram Adams, Ahmed E. Hassan",
+    "publish": "IEEE Software",
+    "url": "https://doi.org/10.1109/ms.2025.3644251",
+    "source": "IEEE",
+    "abstract": "The rapid adoption of foundation models (e.g., large language models) has given rise to promptware, i.e., software built using natural language prompts. Effective management of prompts, such as organization and quality assurance, is essential yet challenging. In this study, we perform an empirical analysis of 24,800 open-source prompts from 92 GitHub repositories to investigate prompt management practices and quality attributes. Our findings reveal critical challenges such as considerable inconsistencies in prompt formatting, substantial internal and external prompt duplication, and frequent readability and spelling issues. Based on these findings, we provide actionable recommendations for developers to enhance the usability and maintainability of open-source prompts within the rapidly evolving promptware ecosystem.",
+    "title_zh": "理解GitHub仓库中的提示管理：倡导最佳实践",
+    "abstract_zh": "基础模型（如大型语言模型）的快速采用催生了“提示软件”（promptware），即通过自然语言提示构建的软件。有效管理提示，如组织和质量保证，至关重要但极具挑战性。在本研究中，我们对来自92个GitHub仓库的24,800个开源提示进行了实证分析，以探究提示管理实践及质量属性。研究发现存在诸多关键问题，包括提示格式的显著不一致、大量内部与外部重复提示，以及频繁出现的可读性和拼写错误。基于这些发现，我们为开发者提供了切实可行的建议，以提升开源提示在快速演进的提示软件生态系统中的可用性与可维护性。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda",
+    "authors": "Christian Meske, Tobias Hermanns, Esther Von Der Weiden, Kai-Uwe Loser, Thorsten Berger",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2025.3645466",
+    "source": "IEEE",
+    "abstract": "Software development is undergoing a fundamental transformation as vibe coding becomes widespread, with large portions of contemporary codebases now being generated by Artificial Intelligence (AI). The disconnect between rapid adoption and limited conceptual understanding highlights the need for an inquiry into this emerging paradigm. Drawing on an intent perspective and historical analysis, we define vibe coding as a software development paradigm where humans and generative AI (GenAI) engage in collaborative flow to co-create software artifacts through natural language dialogue, shifting the mediation of developer intent from deterministic instruction to probabilistic inference. By <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">intent mediation</i>, we refer to the fundamental process through which developers translate their conceptual goals into representations that computational systems can execute. Our results show that vibe coding redistributes epistemic labor between humans and machines, shifting expertise from technical implementation toward collaborative orchestration. We identify key opportunities, including democratization, acceleration, and systemic leverage, alongside risks such as black-box codebases, responsibility gaps, and ecosystem bias. We conclude with a research agenda spanning human-, technology-, and organization-centered directions to guide future investigations of this paradigm.",
+    "title_zh": "Vibe Coding：软件开发中意图调解的重构——定义、影响与研究议程",
+    "abstract_zh": "软件开发正经历一场根本性变革，随着“氛围编码”（vibe coding）的普及，当代代码库中大量内容如今由人工智能（AI）生成。快速采纳与有限概念理解之间的脱节凸显出对这一新兴范式进行深入探究的必要性。基于意图视角与历史分析，我们将“氛围编码”定义为一种软件开发范式：人类与生成式人工智能（GenAI）通过自然语言对话协同协作，共同创造软件产物，将开发者意图的中介方式从确定性指令转变为概率性推断。我们所称的“意图中介”（intent mediation），指的是开发者将概念性目标转化为计算系统可执行表示的基本过程。研究结果表明，氛围编码重新分配了人机之间的认知劳动，使专业能力从技术实现转向协同编排。我们识别出若干关键机遇，包括普惠化、加速发展以及系统性杠杆效应；同时也面临诸多风险，如黑箱代码库、责任空白以及生态偏见。最后，我们提出一个涵盖以人为本、技术导向与组织中心的研究议程，以指导未来对该范式的深入探索。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Galápagos: Automated N-Version Programming with LLMs",
+    "authors": "Javier Ron, Diogo Gaspar, Javier Cabrera-Arteaga, Benoit Baudry, Martin Monperrus",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3785363",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "加拉帕戈斯：基于大语言模型的自动化N版本编程",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "ISO/IEC/IEEE International Standard Systems and software engineering--Systems and software assurance--Part 1:Concepts and vocabulary",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeestd.2025.11302963",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "国际标准化组织/国际电工委员会/国际电气与电子工程师协会标准  \n系统与软件工程——系统与软件保障——第1部分：概念与术语",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "An Architecture Assessment Model: Holistic Evaluation of Software Architecture",
+    "authors": "Müjdat Bayar, Onur Taviloğlu, Ahmet Unudulmaz, Yavuz Güneş, Koray Doğutekin",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2025.3644965",
+    "source": "IEEE",
+    "abstract": "Current architecture review methods predominantly focus on verifying compliance between design and requirements, as well as between code and design. However, they often overlook whether the final product has been adequately tested against architecturally significant requirements and architectural risks. As the software industry evolves, such adaptable models will be crucial for maintaining and enhancing product quality efficiently and cost-effectively, especially considering that widely used maturity models in the industry lack mechanisms for assessing architectural maturity together with testing processes. Recognizing that appropriate testing is a critical component of software architecture processes, this paper proposes an assessment model that incorporates testing into architecture review processes, effectively bridging this gap. Our approach integrates widely used methods, such as the lightweight Architecture Tradeoff Analysis Method (ATAM), into our model to assess architectural quality in an easy and pragmatic manner. By integrating risk-based architectural testing review, this model ensures monitoring and improvement of architectural quality throughout the software development lifecycle, aids in early risk identification and mitigation, and ensures the final product meets high standards of quality in terms of quality attributes and non-functional requirements (NFR).",
+    "title_zh": "架构评估模型：软件架构的全面评估",
+    "abstract_zh": "当前的架构评审方法主要侧重于验证设计与需求之间、以及代码与设计之间的合规性，但往往忽视了最终产品是否已针对具有重要架构意义的需求和架构风险进行了充分测试。随着软件行业的不断发展，这类灵活可适应的模型对于高效且经济地维护和提升产品质量至关重要。尤其值得注意的是，业界广泛使用的成熟度模型普遍缺乏评估架构成熟度与测试流程相结合的机制。鉴于适当的测试是软件架构过程中的关键组成部分，本文提出了一种将测试融入架构评审过程的评估模型，有效填补了这一空白。我们的方法整合了广为使用的轻量级架构权衡分析方法（ATAM）等成熟技术，以一种简便且实用的方式评估架构质量。通过引入基于风险的架构测试评审机制，该模型能够在整个软件开发生命周期中持续监控并改进架构质量，有助于早期识别和缓解风险，并确保最终产品在质量属性及非功能性需求（NFR）方面达到高标准。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Parallel Delay-Driven Layer Assignment Leveraging Hierarchical Task Graph Modeling for Advanced Technology Nodes_supp1-3644353.pdf",
+    "authors": "genggeng liu",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tc.2025.3644353/mm1",
+    "source": "IEEE",
+    "abstract": "Very large scale integration (VLSI) circuits typically consist of millions of nets, posing significant challenges for efficient physical design. Interconnect delay has become a critical factor for timing performance in technology nodes at 5nm and beyond. Additionally, the coupling effect among the wires increases the complexity of delay optimization. Moreover, tapering constraints are essential in advanced technology nodes to ensure manufacturability. Furthermore, the ever-increasing scale of modern designs necessitates a high-performance computing (HPC) framework to accelerate delay-driven layer assignment in advanced technology nodes. To address these challenges, we propose ParDelay, a parallel delay-driven layer assignment leveraging hierarchical task graph modeling while considering tapering constraints for advanced technology nodes, which includes the following five key techniques: 1) A general deterministic parallel framework is proposed for delay-driven layer assignment, leveraging a hierarchical task graph to enable both internet and inter-node parallelism. 2) A delay- and overflow-driven tapering repairing strategy is proposed to eliminate tapering violations while further optimizing net delay. 3) A local delay-critical net filtering method is proposed to analyze local delay criticality to guide layer assignment, thereby minimizing delay while eliminating overflow. 4) To mitigate the coupling effect, we propose a net shielding algorithm that reduces wire density for maximum delay candidate nets to optimize maximum delay. 5) A delay-aware refinement strategy is proposed to classify nets by their delay rank and assign distinct non-default-rule (NDR) wire permissions and refinement objectives, thereby reducing delay. Experimental results demonstrate that, compared to existing layer assignment algorithms and parallel routing frameworks, our approach effectively reduces delay, via count, and runtime under the tapering constraints.",
+    "title_zh": "基于层次化任务图建模的并行延迟驱动层分配方法，适用于先进制程节点_supp1-3644353.pdf",
+    "abstract_zh": "超大规模集成（VLSI）电路通常包含数百万个网络，给高效物理设计带来了巨大挑战。在5纳米及更先进工艺节点中，互连延迟已成为影响时序性能的关键因素。此外，布线之间的耦合效应加剧了延迟优化的复杂性。同时，为确保可制造性，在先进工艺节点中必须考虑线宽渐变（tapering）约束。此外，现代设计规模持续扩大，迫切需要高性能计算（HPC）框架来加速先进工艺节点下的延迟驱动层分配。针对上述挑战，我们提出ParDelay——一种基于分层任务图建模的并行延迟驱动层分配方法，该方法在先进工艺节点中综合考虑了线宽渐变约束，包含以下五项关键技术：1）提出一种通用的确定性并行框架，用于延迟驱动的层分配，利用分层任务图实现节点内与节点间的双重并行性；2）提出一种基于延迟与溢出驱动的线宽渐变修复策略，可在消除线宽渐变违规的同时进一步优化网络延迟；3）提出一种局部延迟关键网络过滤方法，通过分析局部延迟关键性来指导层分配，在最小化延迟的同时消除溢出问题；4）为缓解耦合效应，提出一种网络屏蔽算法，通过降低最大延迟候选网络的布线密度，以优化最大延迟；5）提出一种延迟感知的精炼策略，根据网络的延迟等级进行分类，并分配不同的非默认规则（NDR）布线权限和精炼目标，从而有效降低延迟。实验结果表明，相较于现有的层分配算法和平行布线框架，所提方法在满足线宽渐变约束的前提下，能够显著降低延迟、布线数量以及运行时间。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Hybrid Large Language Models and Reinforcement Learning for Energy-Efficient Multi-Satellite Scheduling: Boosting the Performance from Scratch",
+    "authors": "Hyojun Ahn, Gyu Seon Kim, In-Sop Cho, Soyi Jung, Joongheon Kim",
+    "publish": "IEEE Internet of Things Journal",
+    "url": "https://doi.org/10.1109/jiot.2025.3645077",
+    "source": "IEEE",
+    "abstract": "Low Earth Orbit (LEO) satellite constellations are crucial for global connectivity by providing extensive coverage and reduced delays. However, scheduling data transmission in these dynamic networks is challenging due to rapidly changing satellite positions. This research introduces BoostRL (boosted reinforcement learning), a novel framework integrating large language models (LLMs) with reinforcement learning (RL) for efficient scheduling in LEO satellite constellations. BoostRL leverages LLM-generated initial policies to accelerate convergence, thereby guiding the early stages of policy learning while adapting swiftly to dynamic network conditions. It employs a hybrid policy approach which transitions smoothly from LLM recommendations to autonomous RL policies. A tailored initialization of Q-value parameters and an enhanced loss function further optimize learning efficiency, by aligning the initial learning phase with LLM-generated insights. Simulations using two-line element (TLE) orbital data demonstrate that BoostRL achieves rapid convergence and improved efficiency, thereby validating its potential as a scalable, adaptive solution for managing satellite communication networks.",
+    "title_zh": "混合大语言模型与强化学习在节能多卫星调度中的应用：从零开始提升性能",
+    "abstract_zh": "低地球轨道（LEO）卫星星座对于实现全球通信至关重要，能够提供广泛覆盖和较低的延迟。然而，由于卫星位置快速变化，这类动态网络中的数据传输调度面临巨大挑战。本研究提出了一种名为BoostRL（增强型强化学习）的新框架，将大型语言模型（LLM）与强化学习（RL）相结合，以实现LEO卫星星座中高效的数据调度。BoostRL利用LLM生成的初始策略来加速收敛，在政策学习的早期阶段提供指导，同时能够迅速适应动态网络环境。该框架采用混合策略机制，使系统能平滑地从LLM的建议过渡到自主的强化学习策略。此外，通过量身定制的Q值参数初始化以及优化的损失函数，进一步提升了学习效率，使初始学习阶段与LLM提供的先验知识保持一致。基于两行元素（TLE）轨道数据的仿真结果表明，BoostRL能够实现快速收敛并显著提升调度效率，验证了其作为可扩展、自适应的卫星通信网络管理解决方案的巨大潜力。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Intrusion Detection Systems for In-Vehicle Networks: Protocols, Applications, and Challenges",
+    "authors": "Junaid Ahmad Khan, Muhammad Asif Khan, Nasir Saeed, Pierre Louis Cayrel, Changhee Hahn",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2025.3645058",
+    "source": "IEEE",
+    "abstract": "In-vehicle networks (IVNs) connect numerous sensors, processors, and Electronic Control Units (ECUs) to enable real-time communication, but their growing complexity has amplified cybersecurity concerns. The Controller Area Network (CAN) bus, along with its variants CAN-FD, CAN-XL, and complementary protocols such as LIN and FlexRay, remains the backbone of IVNs. However, these protocols (the CAN specifically) were not originally designed to meet the stringent security demands of emerging autonomous and electric vehicles. This survey critically examines existing IVN security literature with a particular focus on intrusion detection systems (IDS) developed for CAN-based architectures. Unlike prior reviews that emphasize algorithmic design or attack taxonomy, this survey provides a comparison of IDS approaches (typically CAN-based due to its dominance in industry and research domain) based on physical-layer features, statistical parameters, information theory, and learning-based methods. We highlight unresolved security limitations of the CAN bus, synthesize mitigation strategies across industrial domains (automotive, aerospace, marine, agricultural, and battery systems), and identify overlooked challenges. Finally, we outline key research frontiers, such as hardware-assisted protection, edge intelligence, blockchainbased authentication, generative AI-driven anomaly detection, and quantum-safe cryptography—toward building resilient next-generation IVNs.",
+    "title_zh": "车载网络的入侵检测系统：协议、应用与挑战",
+    "abstract_zh": "车载网络（IVNs）连接了众多传感器、处理器和电子控制单元（ECUs），以实现实时通信，但其日益增长的复杂性也加剧了网络安全问题。控制器局域网（CAN）总线及其变体CAN-FD、CAN-XL，以及LIN和FlexRay等互补协议，仍是车载网络的骨干。然而，这些协议（尤其是CAN）最初并未针对新兴自动驾驶和电动车辆所要求的严苛安全需求而设计。本综述对现有的车载网络安全性研究文献进行了批判性分析，特别聚焦于面向基于CAN架构的入侵检测系统（IDS）。与以往侧重算法设计或攻击分类的综述不同，本文从物理层特征、统计参数、信息论方法以及基于学习的方法等多个维度，对比分析了主流的IDS技术（通常以CAN为基础，因其在工业界和研究领域中的主导地位）。我们指出了CAN总线尚未解决的安全局限性，综合了汽车、航空航天、船舶、农业及电池系统等工业领域的缓解策略，并揭示了被忽视的关键挑战。最后，本文展望了若干关键的研究前沿方向，包括硬件辅助防护、边缘智能、基于区块链的身份认证、生成式人工智能驱动的异常检测，以及抗量子密码学，旨在构建更具韧性的下一代车载网络。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Sequential Test Generation and Design-for-Testability with Preferred Interconnect Cubes",
+    "authors": "Irith Pomeranz",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2025.3645069",
+    "source": "IEEE",
+    "abstract": "Functional test sequences are important for the detection of defects that may escape scan-based tests but cause failures during functional operation. Sequential test generation can produce compact functional test sequences with a high fault coverage, but its computational complexity can be prohibitive unless carefully controlled. Preferred primary input cubes indicate which primary input values should be avoided, and which ones are preferred in a test sequence to achieve a high gate-level fault coverage. The use of preferred primary input cubes allows a random sequence to be modified into an effective test sequence without any simulation. In a design that consists of interconnected sequential logic blocks, each logic block has its own preferred primary input cube. This article suggests for the first time the use of the preferred primary input cubes of all the logic blocks in an interconnection for sequential test generation. The cubes are referred to as preferred interconnect cubes. The result is a low complexity sequential test generation procedure with improved fault coverage relative to a procedure that does not recognize the preferred interconnect cubes. The article also suggests a design-for-testability (<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">DFT</i>) approach that changes the connections between logic blocks to increase the fault coverage. The implementation was performed in an academic simulation environment, and its effectiveness is demonstrated for interconnections of benchmark circuits.",
+    "title_zh": "基于优选互连立方体的顺序测试生成与可测性设计",
+    "abstract_zh": "功能测试序列对于发现那些可能逃过基于扫描的测试但在实际功能运行中导致故障的缺陷至关重要。顺序测试生成可以产生紧凑的功能测试序列，并具有较高的故障覆盖率，但其计算复杂度可能非常高，除非得到仔细控制。优选主输入立方体指明了在测试序列中应避免哪些主输入值，以及哪些值是优选的，以实现较高的门级故障覆盖率。利用优选主输入立方体，可以在无需任何仿真的情况下将随机序列修改为有效的测试序列。在一个由相互连接的时序逻辑模块组成的电路设计中，每个逻辑模块都有其自身的优选主输入立方体。本文首次提出在互连结构中使用所有逻辑模块的优选主输入立方体来进行顺序测试生成。这些立方体被称为优选互连立方体。该方法可实现低复杂度的顺序测试生成过程，并相对于未识别优选互连立方体的方法，显著提升了故障覆盖率。此外，本文还提出了一种面向可测性设计（DFT）的方法，通过改变逻辑模块之间的连接关系来提高故障覆盖率。该方法在学术仿真环境中进行了实现，并通过基准电路互连结构的有效性得到了验证。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Study on Adaptive Optimisation Method for AI Generated Code Performance Based on Reinforcement Learning",
+    "authors": "Zishan Bai, Keyu Chen",
+    "publish": "Proceedings of the 2nd International Symposium on Integrated Circuit Design and Integrated Systems",
+    "url": "https://doi.org/10.1145/3772326.3774730",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于强化学习的AI生成代码性能自适应优化方法研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Building a Generative AI Comment Review System for Content Compliance",
+    "authors": "Rensi Chen, Ziming Chen, Yueqi Tian",
+    "publish": "Proceedings of the 2nd International Symposium on Integrated Circuit Design and Integrated Systems",
+    "url": "https://doi.org/10.1145/3772326.3774720",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "构建一个用于内容合规的生成式AI评论审核系统",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "LibSCAT: Library-Based Formal Verification of Heavily Optimized Multipliers via GNN-Guided Reference Selection",
+    "authors": "Rui Li, Masahiro Fujita, Heng Yu, Guangyao Yan, Lin Li, Yajun Ha",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2025.3645205",
+    "source": "IEEE",
+    "abstract": "Formal verification of heavily optimized multipliers is a critical yet challenging problem in both industry and academia. Current approaches suffer from fundamental limitations: Symbolic Computer Algebra (SCA) techniques struggle with heavily optimized multipliers, Satisfiability (SAT)-based approaches require structurally similar reference designs, and hybrid methods fail to handle Booth multipliers. On the other hand, industrial design flows possess extensive libraries of verified multipliers for optimization workflows, creating an underutilized opportunity for library-based verification. Yet optimal reference selection becomes challenging due to large-scale libraries and optimization-obscured architectural relationships. To address these challenges, we propose LibSCAT, a verification framework that leverages large-scale reference libraries in a scalable manner. First, we propose a reference library-based methodology that adaptively combines SCA and SAT techniques through intelligent reference selection and predictive method choice. Second, we propose a Siamese Graph Neural Network model that captures multiplier structural relationships in latent space from reverse-engineered graphs, generating robust embeddings for efficient reference selection. Third, we propose a Random Forest-based predictor that leverages learned embeddings for accurate selection of verification strategies. Experimental results show our method achieves 88.2% success on heavily optimized simple partial product multipliers and 94.0% success on heavily optimized Booth multipliers, significantly outperforming state-of-the-art methods.",
+    "title_zh": "LibSCAT：基于库的图神经网络引导参考选择的重度优化乘法器形式化验证",
+    "abstract_zh": "在工业界和学术界，对高度优化乘法器进行形式化验证是一个关键但极具挑战性的问题。当前的方法存在根本性局限：符号计算机代数（SCA）技术难以应对高度优化的乘法器；基于可满足性（SAT）的方法需要结构相似的参考设计；而混合方法则无法处理Booth乘法器。另一方面，工业设计流程中拥有大量经过验证的乘法器库，可用于优化工作流，然而这一宝贵资源却未被充分利用。由于大规模的参考库以及优化过程掩盖了架构间的关系，最优参考选择变得极为困难。为解决上述挑战，我们提出了LibSCAT——一种可扩展地利用大规模参考库的验证框架。首先，我们提出了一种基于参考库的方法论，通过智能的参考选择与预测性方法决策，自适应地结合SCA与SAT技术。其次，我们设计了一种孪生图神经网络模型，从逆向工程生成的图中捕捉乘法器的结构关系，并在隐空间中生成鲁棒的嵌入表示，从而实现高效的参考选择。第三，我们提出一种基于随机森林的预测器，利用学习到的嵌入信息，精准选择最合适的验证策略。实验结果表明，我们的方法在高度优化的简单部分积乘法器上取得了88.2%的成功率，在高度优化的Booth乘法器上达到了94.0%的成功率，显著优于现有最先进方法。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Standards-Aligned AI Validation and Certification Platform for Trustworthy Modeling",
+    "authors": "Doniyor Mukhtorov, Jushkin Baltayev, Shakhnoza Muksimova, Sabina Umirzakova, Young Im Cho",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2025.3641996",
+    "source": "IEEE",
+    "abstract": "Artificial intelligence has been progressively implemented in engineering fields. However, a systematic framework for the validation, explanation, and certification of AI models was still lacking. We developed AIVeritas as a standards-aligned platform that operationalises the requirements of ISO/IEC 24028, 23053, 25023, 4213, and 17065 for the entire AI lifecycle in this research. The platform had integrated four components—data-quality analysis, model-performance evaluation, explainability diagnostics, and governance-based certification—to provide measurable, auditable, and reproducible assessments of AI systems. Experimental results had shown that each module had been indispensable to reliability, traceability, transparency, and certification readiness; the elimination of any module had always led to a decrease in trustworthiness scores. In addition, the platform had enabled rigorous verification in various engineering contexts through clause-level standards mapping, trust-index computation, lifecycle traceability, and explanation-stability analysis. The findings confirmed that AIVeritas had offered a unified and regulation-ready pathway for assessing the validity, robustness, and explainability of AI models used in engineering design and operational decision-making.",
+    "title_zh": "符合标准的AI验证与认证平台，助力可信建模",
+    "abstract_zh": "人工智能已逐步应用于工程领域，但针对AI模型的验证、解释与认证仍缺乏系统性框架。本研究开发了AIVeritas平台，该平台符合ISO/IEC 24028、23053、25023、4213及17065等标准要求，实现了AI全生命周期的规范化操作。平台集成了四大核心模块——数据质量分析、模型性能评估、可解释性诊断以及基于治理的认证，为AI系统提供可度量、可审计、可复现的评估能力。实验结果表明，每个模块对确保可靠性、可追溯性、透明性及认证准备度均不可或缺；任何模块的缺失都会导致可信度评分下降。此外，平台通过条款级标准映射、信任指数计算、生命周期可追溯性以及解释稳定性分析，在多种工程场景中实现了严格的验证。研究结果证实，AIVeritas为工程设计与运行决策中所用AI模型的有效性、鲁棒性与可解释性评估，提供了一条统一且符合监管要求的路径。"
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Automated Logging with Large Language Models: Eliminating Task-Specific Pretraining",
+    "authors": "Dae-Sung Wang, Tae-il Kim, Chan-Gun Lee, Hyun-taek Hong",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2025.3645237",
+    "source": "IEEE",
+    "abstract": "Logging is a fundamental practice in software engineering, supporting monitoring, debugging, and system comprehension. However, determining where to insert log statements, what information to record, and how to phrase messages remains a labor-intensive and error-prone task. Recent research has explored automated logging; however, most approaches rely on domain- or language-specific pretraining, limiting applicability across diverse projects and environments. This paper investigates whether large language models (LLMs) trained on general code and natural-language corpora can eliminate the need for task-specific pretraining in automated logging. In our setting, models do not perform any Java- or task-specific pretraining but are trained only through lightweight supervised fine-tuning on the logging dataset. We compare LEONID, a state-of-the-art pretraining-centric logging system, and off-the-shelf models, including T5, CodeT5, and Qwen, without additional Java-specific pretraining. This evaluation encompasses single-log injection (levels, variables, positions, and messages), log-message quality assessed using reference-based metrics, and multilog injection, requiring multiple statements in a method. The results indicate that general-purpose LLMs rival or surpass LEONID in several aspects. Notably, Qwen-7B improves insertion position accuracy by 14 percentage points, addressing one of the most critical factors for the practical deployment of automated logging. Moreover, CodeT5 and Qwen achieve competitive or superior performance in message generation, and Qwen-7B demonstrates stronger structural reasoning for insertion positions and multilog scenarios. Although LEONID remains more stable in level selection and variable binding, the findings indicate that task-specific pretraining is not universally required. This work provides the first head-to-head evaluation of a pretraining-based approach versus off-the-shelf LLM approaches for automated logging, offering practical guidance for when to apply custom pretraining and when general-purpose models are sufficient.",
+    "title_zh": "基于大语言模型的自动化日志记录：消除任务特定的预训练",
+    "abstract_zh": "日志记录是软件工程中的基础实践，对于系统监控、调试和理解具有重要意义。然而，确定在何处插入日志语句、记录哪些信息以及如何措辞消息，仍然是一个耗时且容易出错的任务。近年来，研究者们探索了自动化日志生成的方法，但大多数现有方法依赖于特定领域或特定编程语言的预训练，限制了其在多样化项目和环境中的适用性。本文探讨了一个关键问题：是否可以利用在通用代码和自然语言语料上训练的大规模语言模型（LLMs），在自动化日志生成中完全避免任务特定的预训练？在本研究中，模型未进行任何Java或任务相关的预训练，仅通过轻量级监督微调在日志数据集上进行训练。我们对比了当前最先进的基于预训练的日志系统LEONID，以及无需额外Java预训练的现成模型（包括T5、CodeT5和Qwen）。评估涵盖单条日志注入（日志级别、变量选择、插入位置及消息内容）、基于参考标准的语句质量评价，以及需要在同一方法中注入多条日志的复杂场景。结果表明，通用型大语言模型在多个方面表现媲美甚至超越LEONID。特别值得注意的是，Qwen-7B在插入位置准确率上提升了14个百分点，显著改善了自动化日志部署中最关键的挑战之一。此外，CodeT5和Qwen在日志消息生成方面表现出竞争力或更优性能，而Qwen-7B在插入位置判断和多日志场景下的结构化推理能力尤为突出。尽管LEONID在日志级别选择和变量绑定方面仍保持更高的稳定性，但实验结果表明，任务特定的预训练并非在所有情况下都必不可少。本研究首次对基于预训练的方法与现成大语言模型方法在自动化日志生成任务中进行了直接对比，为开发者提供了明确的实践指导：何时应采用定制化预训练，何时通用模型已足够胜任。"
+  }
+]
