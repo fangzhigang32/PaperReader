@@ -1,9 +1,13 @@
 import sys
 import os
 from datetime import datetime, date, timedelta
+from dotenv import load_dotenv
 from getPaper import getAllPapers
 from selectRelevantPaper import select_translate_and_email,select_error_message_email
 import traceback
+
+# 加载 .env 文件中的环境变量（不覆盖已存在的环境变量，兼容 GitHub Actions）
+load_dotenv()
 
 
 # 搜索关键词

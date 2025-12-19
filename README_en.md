@@ -72,9 +72,48 @@ Add the following **required Secrets**:
 
 ### 1. Configure Environment Variables
 
-Set the same variables locally as you did in GitHub Secrets.
+The project supports using a `.env` file to manage environment variables, eliminating the need to manually set system environment variables.
 
-#### 🐧 Windows (PowerShell)
+#### Recommended: Using `.env` File
+
+1. Copy the example configuration file:
+```bash
+cp .env.example .env
+```
+
+2. Edit the `.env` file with your configuration:
+```env
+# LLM Configuration
+OPENAI_API_KEY=your_api_key
+OPENAI_API_BASE=your_api_base
+MODEL_PROVIDER=openai
+MODEL=gpt-3.5-turbo
+
+# Search Configuration
+SEARCH_TEXT=your_keywords
+ARXIV_COUNT=50
+CROSSREF_COUNT=50
+
+# Research Field Configuration
+BROAD_FIELD=your_broad_research_field
+SPECIFIC_FIELD=your_specific_research_fields
+
+# Email Configuration
+SENDER_EMAIL=xxx@xx.xx
+SENDER_PASS=authorization_code
+RECEIVER_EMAIL=xxx@xx.xx
+SMTP_SERVER=smtp.qq.com
+SMTP_PORT=465
+```
+
+> ⚠️ **Note**: The `.env` file contains sensitive information and is excluded in `.gitignore`, so it won't be committed to the Git repository.
+
+#### Alternative: Manually Set System Environment Variables
+
+<details>
+<summary>Click to expand Windows/macOS/Linux environment variable setup</summary>
+
+##### Windows (PowerShell)
 
 ```powershell
 $env:OPENAI_API_KEY="your_api_key"
@@ -93,7 +132,7 @@ $env:BROAD_FIELD="your_broad_research_field"
 $env:SPECIFIC_FIELD="your_specific_research_fields"
 ```
 
-#### 🐧 macOS / Linux (Bash)
+##### macOS / Linux (Bash)
 
 ```bash
 export OPENAI_API_KEY="your_api_key"
@@ -111,6 +150,8 @@ export SMTP_PORT=465
 export BROAD_FIELD="your_broad_research_field"
 export SPECIFIC_FIELD="your_specific_research_fields"
 ```
+
+</details>
 
 ---
 

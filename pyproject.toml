@@ -9,5 +9,6 @@ dependencies = [
     "feedparser>=6.0.12",
     "langchain>=1.0.4",
     "langchain-openai>=1.0.2",
+    "python-dotenv>=1.0.0",
     "requests>=2.32.5",
 ]

@@ -3,3 +3,4 @@ __pycache__
 runlog
 CLAUDE.md
 papers
+.env

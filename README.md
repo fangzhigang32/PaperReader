@@ -73,9 +73,48 @@
 
 ### 1. 配置本地环境变量
 
-将上述 Secrets 对应项设置为系统环境变量。
+项目支持使用 `.env` 文件管理环境变量，无需手动设置系统环境变量。
 
-#### 🐧 Windows（PowerShell）
+#### 推荐方式：使用 `.env` 文件
+
+1. 复制示例配置文件：
+```bash
+cp .env.example .env
+```
+
+2. 编辑 `.env` 文件，填入你的配置：
+```env
+# LLM 配置
+OPENAI_API_KEY=your_api_key
+OPENAI_API_BASE=your_api_base
+MODEL_PROVIDER=openai
+MODEL=gpt-3.5-turbo
+
+# 检索配置
+SEARCH_TEXT=your_keywords
+ARXIV_COUNT=50
+CROSSREF_COUNT=50
+
+# 研究方向配置
+BROAD_FIELD=your_broad_research_field
+SPECIFIC_FIELD=your_specific_research_fields
+
+# 邮箱配置
+SENDER_EMAIL=xxx@xx.xx
+SENDER_PASS=authorization_code
+RECEIVER_EMAIL=xxx@xx.xx
+SMTP_SERVER=smtp.qq.com
+SMTP_PORT=465
+```
+
+> ⚠️ **注意**：`.env` 文件包含敏感信息，已在 `.gitignore` 中排除，不会被提交到 Git 仓库。
+
+#### 备选方式：手动设置系统环境变量
+
+<details>
+<summary>点击展开 Windows/macOS/Linux 环境变量设置方法</summary>
+
+##### 🐧 Windows（PowerShell）
 
 ```powershell
 $env:OPENAI_API_KEY="你的API密钥"
@@ -95,7 +134,7 @@ $env:BROAD_FIELD="你的研究大领域"
 $env:SPECIFIC_FIELD="你的研究小领域"
 ```
 
-#### 🐧 macOS / Linux（Bash）
+##### macOS / Linux（Bash）
 
 ```bash
 export OPENAI_API_KEY="你的API密钥"
@@ -113,6 +152,8 @@ export SMTP_PORT=465
 export BROAD_FIELD="你的研究大领域"
 export SPECIFIC_FIELD="你的研究小领域"
 ```
+
+</details>
 
 ---
 
