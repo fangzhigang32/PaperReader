@@ -1,0 +1,3710 @@
+[
+  {
+    "date": "2025-12-20",
+    "title": "Data Readiness for Scientific AI at Scale",
+    "authors": "Wesley Brewer, Patrick Widener, Valentine Anantharaj, Feiyi Wang, Tom Beck, Arjun Shankar, Sarp Oral",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757282",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Hierarchical Alignment-enhanced Transformer-based Network for Image Captioning",
+    "authors": "Xiangxiang Zhang, You Ma, Congcong Chen, Lin Chai",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778512",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Advancing Seismic Design of Steel Moment Resisting Frames through AutoSDA",
+    "authors": "Ao He",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778507",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "TAPAS: Fast and Automatic Derivation of Tensor Parallel Strategies for Large Neural Networks",
+    "authors": "Ziji Shi, Le Jiang, Ang Wang, Jie Zhang, Chencan Wu, Yong Li, Xiaokui Xiao, Wei Lin, Jialin Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754677",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Scheduling based on Block Features for Concurrent Inference with Unseen DNN Models on GPU",
+    "authors": "Diaohan Luo, Zhen Tang, Heran Gao, Yuewen Wu, Heng Wu, Xi Han, Wenbo Zhang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754623",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Q-GEAR: Improving quantum simulation framework",
+    "authors": "Ziqing Guo, Jan Balewski, Ziwen Pan",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754608",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "LLaMCAT: Optimizing Large Language Model Inference with Cache Arbitration and Throttling",
+    "authors": "Zhongchun Zhou, Chengtao Lai, Wei Zhang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754671",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AN ENHANCED YOLOV11-BASED FRAMEWORK FOR REAL-TIME UNDERWATER OBJECT DETECTION",
+    "authors": "Rui Ye, Changming Zhu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766682",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Low-Illumination target detection method based on Improved YOLOv11n",
+    "authors": "Yuqing Zhang, Yanlong Lin, Haixiao Zhao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766684",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Digital Phase-locked Loop of Induction Heating Power Supply Based on FPGA",
+    "authors": "Qijun Xiao, Rongrong Wan, Zhijing Wu, Weitai Hsu, Liping Huang, Feng Qin",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766690",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "FEDERATED L1-AND-L2-NORM-ORIENTED LATENT FACTOR MODEL FOR ANALYZING HIGH-DIMENSIONAL AND INCOM-PLETE DATA",
+    "authors": "Jinyu Li, Jia Chen, Di Wu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766804",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Application of Symmetric Offset Voltage Compensated Sense Amplifier in DRAM",
+    "authors": "Xiaohan Cheng",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766819",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "PID-Guided Tensor Wheel Decomposition for Link Prediction in Dynamic Networks",
+    "authors": "Qu Wang, Yan Xia",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766754",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Calibration Method for Industrial Robots Based on Regularized RNN Model",
+    "authors": "Tinghui Chen, Peng Tang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766836",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Federated Continual Learning: A Survey on Mitigating Spatial-Temporal Catastrophic Forgetting",
+    "authors": "Tianyi Xie",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778530",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An Improved Dynamic Multi-objective Differential Evolution based Intensity Prediction",
+    "authors": "Erping Song, Zipin Yao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766876",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Personalized English Learning Recommendation System Based on Collaborative Filtering and Student Behavior Data",
+    "authors": "Ruoyu Wang, Juan Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766782",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of lens coupling between thin-film lithium niobate waveguide and single-mode fiber",
+    "authors": "Siyi Zhou, Dengcai Yang, Yongsheng Zhu, Meihua Xiang, Feng Yang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766706",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Damping Element Optimization Based on Machine Learning",
+    "authors": "Chengqian Song, Yuhan Sun, Yingkai Feng, Hao Wang, Yuran Shan, Yihui Li",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778493",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Investigation into the Integration of News Text Sentiment Factors in Multi-Factor Stock Price Forecasting and Portfolio Optimization: A Case Study of the United States Stock Market",
+    "authors": "Jingyi Liang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778456",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Precise Service Models and Strategies for University Libraries Driven by Big Data",
+    "authors": "Weining Huang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778467",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Comparative Trend Analysis and Machine Learning-Based Predictive Modeling of Steel Industry Indicators",
+    "authors": "Zheng Yang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778466",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Bayesian Change Point Detection in Financial Time Series: Evidence from the Hong Kong Stock Market",
+    "authors": "Zhebing Yan",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778502",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Exploring Nonlinear Driving Mechanism of Urban System Resilience in Rapidly Urbanizing Shenzhen via Interpretable Machine Learning Models",
+    "authors": "Yijia Yang, Hao Sun",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778508",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "PHEM: A Computational Model for Designing Parallel Algorithms for Very Large Graphs",
+    "authors": "Lokesh Venkatachalam, Kishore Kothapalli, Abhijit Sahu, Gadhamsetty Ramakrishna, Dip Sankar Banerjee, Balavarun Pedapudi, Aditya Harikrish, Aditya S P Vm Andaluri",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757291",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SpeedSketch: An Ultra-Fast Sketch Generation and Delta Encoding Framework for Delta Compression",
+    "authors": "Fengkui Yang, Yuanzhang Wang, Chunhua Li, Ke Zhou, Hui Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754628",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Conjoint Message-passing Graph Representation Learning for Hypertension Comorbidity Risk Prediction",
+    "authors": "Leming Zhou, Zuo Wang, Zhixuan Duan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766745",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Artificial Intelligence-driven Enterprise Human Resource Recruitment Optimisation System Design",
+    "authors": "Shucui Wang, Jia Zhao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766717",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Minimizing CGYRO HPC Communication Costs in Ensembles with XGYRO by Sharing the Collisional Constant Tensor Structure",
+    "authors": "Igor Sfiligoi, Emily A. Belli, Jeff Candy",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757303",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Machine Learning-Based Pair Trading Strategy for Stock Market",
+    "authors": "Sicheng Wang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778461",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Unmanned Vehicle Dynamics Model Integrating Lateral, Longitudinal, and Yaw Motions with MPC Trajectory Tracking Algorithm",
+    "authors": "Yihan Li",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778506",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3750720",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Hardware-aware Graph Partition for Mobile Inference Acceleration",
+    "authors": "Meng-Shiun Yu, Feng-Yi Zhan, Ming-Zhang Huang, Tai-Liang Chen, Jenq-Kuen Lee",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757284",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Grassroots Network and Community Roadmap for Interconnected Autonomous Science Laboratories for Accelerated Discovery",
+    "authors": "Rafael Ferreira da Silva, Milad Abolhasani, Dionysios A. Antonopoulos, Laura Biven, Ryan Coffee, Ian T. Foster, Leslie Hamilton, Shantenu Jha, Theresa Mayer, Benjamin Mintz, Robert G. Moore, Salahudin Nimer, Noah Paulson, Woong Shin, Frédéric Suter, Mitra Taheri, Michela Taufer, Newell R. Washburn",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757292",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Node-Adaptive Hypergraph Attention Network with Structural Embedding for Enterprise Credit Risk Prediction",
+    "authors": "Zhang Chen",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778521",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design and Application of a Pipeline Leakage Detection Model Based on Machine Learning",
+    "authors": "Huiqun Liu",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778524",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A New Method for Solving the 0-1 Knapsack Problem Based on Discrete Snake Optimization Algorithm",
+    "authors": "Qi Hu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766820",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Auto-Stencil: Performance-Driven Stencil Optimization with Hardware Feedback for LLMs",
+    "authors": "Quan Deng, Lin Gan, Hongkun Yu, Wenlai Zhao, Guangwen Yang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754604",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Optimizing Incomplete Cholesky Factorization on MIMD Many-core Architecture",
+    "authors": "Yongzhen Shi, Qinglin Wang, Jie Liu, Lian Wang, Zhiyan Liu, Bingwei Wang, Feiming Liu, Xiangdong Pei",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754624",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Risk Assessment of Intelligent Unmanned Vehicle Urban Logistics Distribution",
+    "authors": "Qi Zhao, Jie Cheng, Tian Tian",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766779",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "D3QN-Based Multi-Hop Offloading in Vehicular Networks",
+    "authors": "Wenqiang Shen, Qian Liu, Xiangzhi Wan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766774",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Enhancing Stock Price Prediction with GLTCN: A Hybrid Model for Complex Market Dynamics",
+    "authors": "Yudi Xu, Chaozhi Yu, Hongnan Cheng, Yulai Wu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766792",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An Improved PBFT Consensus Algorithm for Blockchain Systems",
+    "authors": "Yu Wang, Youwei Qiao, Junpeng Ma, Liang Ma, Zan Xu, Jie Liu, Xiaoming Wu, Xiangzhi Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766795",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Study on Sensitivity Uniformity of Sagnac Fiber-Optic Acoustic Sensor Based on Numerical Compensation",
+    "authors": "Lei Lei, Shutong Chen, Jie Li, Jianjun Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766828",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of intelligent manufacturing system based on digital twin",
+    "authors": "Xiuli Zhu, Chengwei Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766829",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Early Prediction Model for College Students Psychological Crisis Based on Temporal Contrastive Learning",
+    "authors": "Xuanqi Huang, Huaizhe Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766737",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Restoring NIR-II Molecular Images with an Efficient Tensor Network",
+    "authors": "Zhentao Peng, Peiming Tang, Duyang Gao, Zhigang Liu, Weiling Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766677",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Application of Apriori Improved Algorithm in Intelligent Accounting",
+    "authors": "Jie Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766855",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Enterprise Financial Risk Warning Model Based on Big Data Analysis",
+    "authors": "Xiaofang Zhou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766740",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Latent Factorization of Tensors with Threshold Distance Weighted Loss for Traffic Data Estimation",
+    "authors": "Lei Yang, Weikai Fan, Hao Wu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766750",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Blockchain-Carbon Neutrality Synergy in Freight Collaboration: An Evolutionary Game Model with Complex Networks and Reinforcement Learning",
+    "authors": "Xiaoliang Luo, Jian Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766766",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MRText: A Three-Stage Framework for Privacy-Preserving Text Classification",
+    "authors": "Jiule Yang, Tianxin Cai",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766767",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "XAIPath: Temporal-Environmental Explainable AI Framework for Co-Contaminated Food Pathogen Detection in Microscopic Imaging",
+    "authors": "Anas AlSobeh, Amer AbuGhazaleh, Namariq Dhahir, Malek Rababa",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3758080",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Analysis of Warm-Up Effects in GPU Memory Management",
+    "authors": "Julien Tixier, Virginie Fresse, Dominique Houzet",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757299",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Deadline-Aware Scheduling of Mixed-Criticality Tasks",
+    "authors": "Maxime Gonthier, Kyle Chard, Ian Foster, Loris Marchal, Frédéric Vivien",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754639",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "UAV Aerial Image Target detection based on improved YOLOv11",
+    "authors": "Lei Shi, Chunling Liu, Daohong Huang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766694",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Deep Learning-Driven Sustainable Design for Urban Historical and Cultural District Revitalization Based on UNdata Environment Datasets",
+    "authors": "Jing Zhang, Fangyuan Guo",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766719",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Ventilation and air conditioning duct diameter optimization Based on Numerical Simulation",
+    "authors": "Yifan Liu, Zhiheng Zhang, Bo Liu, Chaochao Li",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778465",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Auto Loan Defaults: Predictive Modeling and Key Drivers",
+    "authors": "Yuning He",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778458",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An Empirical Study on the Impact of Artificial Intelligence Applications on High-Quality Agricultural Development in the Context of Big Data",
+    "authors": "Zhen Huang, Dongling Li, Tianrui Wen, Chenxi Jiang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778495",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Optimization Method for Cost-Effectiveness-Oriented Scheduling in Aerospace Test Launch Processes",
+    "authors": "Zhenshun Shi, Zhengqiang Pan, Mingyang Geng",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778497",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AI Based Financial Text Classification Optimizing Annual Report Risk Identification with BERT Model",
+    "authors": "Jian Ouyang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778494",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Unveiling the Carbon Mitigation Pathways of Big Data Pilots: A Double Machine Learning DlD Analysis on Green Innovation and Energy Efficiency",
+    "authors": "Litong Liu, Shixiang Ma",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778533",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "How Cross-Departmental Collaboration Structures Mitigate Cross-Border Compliance Risks: Network Causal Inference Based on ManpowerGroup's Staffing Projects",
+    "authors": "Weijun Zhu, Jingwen Yang, Yao Yao",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778523",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Evolutionary Modeling and Simulation of Marital Games: A Q-learning Approach Based on the Stag Hunt Game",
+    "authors": "Xin Cao, Yicheng Gong, Jialan Chen",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ParEval-Repo: A Benchmark Suite for Evaluating LLMs with Repository-level HPC Translation Tasks",
+    "authors": "Joshua H. Davis, Daniel Nichols, Ishan Khillan, Abhinav Bhatele",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754669",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Fast and Scalable Mixed Precision Euclidean Distance Calculations Using GPU Tensor Cores",
+    "authors": "Brian Curless, Michael Gowanlock",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754636",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Optimizing Large Language Model Deployment with TVM: Overcoming Dynamic Shape and Scheduling Challenges",
+    "authors": "Kang Wei Kuo, Peng-Sheng Chen",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757289",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "CompressRA+: Enhanced Register Allocation for Compressed ISAs",
+    "authors": "Mu-Eng Huang, Chung-Yi Chen, Yi-Ping You, Wuu Yang",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757286",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Sparsity-aware Kernel Selection for Edge-Connected Jaccard Similarity in Graph Datasets",
+    "authors": "Atharva Gondhalekar, Paul Sathre, Nabayan Chaudhury, Wu-chun Feng",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757304",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Non-destructive Testing and Reconstruction Method for Reinforcement Structure of Concrete Utility Poles Based on Deep Learning",
+    "authors": "Peifeng Huang, Yiyuan Fang, Jianyang Chen, Jia Weng, Juan Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766699",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Improving GUI Element Detection with a Refined YOLO11-Based Approach",
+    "authors": "Zhihui Gao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766693",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Leveraging Machine Learning and Data Mining Techniques for Predictive Analytics in Supply Chain Logistics Management",
+    "authors": "Qianxi Kong",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766814",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Two-dimensional DOA Estimation and Simulation with L-shaped Array Based on Matrix Enhanced and Matrix Pencil",
+    "authors": "En-kai Liu, Shuo-feng Qiu, Xiao-shu Ling, Chao-hua Song",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766821",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "RESEARCH ON A FEAMEAL MENSTRUAL CYCLE MANAGEMENT APP BASED ON KANO MODEL",
+    "authors": "Jing Qin, Lei Weng, Siyi Sun",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766781",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Multi-Model Approach for Stock Price Prediction and Trading Recommendations",
+    "authors": "Zhenrui Chen, Zhibo Dai, Huiyan Xing, Junyu Chen, Menghao Huo, Kuan Lu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766793",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "S-DCGAN Driving a Large Model of Gas Safety Innovation and Application of Data Synthesis Technology",
+    "authors": "Haihua Zhang, Bin Qin, Zixing Xiao, Yu Pan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766735",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "HUMAN-MACHINE VISUALIZATION AND CONFIGURATION TECHNOLOGIES FOR ELECTRICITY MARKET TRANSACTIONS",
+    "authors": "Hailing Zhao, Zhongming Zhang, Hong Zhao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of an intelligent management system for sports venues based on Internet of Things technology",
+    "authors": "Xiaoli Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766757",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Spatio-temporal Attention-Time Series Indoor Localization Method Based on CSI",
+    "authors": "Yalin Miao, Yixin Yang, Xinrui Shen, Jiani Liu, Lei Fan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766761",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Analysis of the Impact Factors on Electrical Accidents Based on Machine Learning Algorithms",
+    "authors": "Yifu Mo, Jianjun Deng, Yu Li",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778514",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Prediction of cement-based mortar compressive strength based on machine learning: Research and Application",
+    "authors": "Yueji He, Jia Deng, Yanqing Men, Yongliang Huang, Rui Wang, Xin Chen, Rui Yang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778454",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AMPED: Accelerating MTTKRP for Billion-Scale Sparse Tensor Decomposition on Multiple GPUs",
+    "authors": "Sasindu Wijeratne, Rajgopal Kannan, Viktor Prasanna",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754651",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Application of Big Data and Machine Learning in Environmental Public Participation Behavior Analysis",
+    "authors": "Zixuan Yu, Lintao Li, Xiaoyan Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766825",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Bearing fault diagnosis based on VMD-CNN-BiGRU-Attention",
+    "authors": "Jie Zhang, Fang Guo, Zhihao Xin",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766839",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Investment Risks and Stakeholders of Highways Based on SNA",
+    "authors": "Hongwen Zhou, Wei Zhu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766722",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Combining multiple machine learning algorithms to build a diagnostic model for colorectal cancer",
+    "authors": "Junjie Chen, Yang Shi, Zhao Liu, Bing Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766863",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "P3P-Fed: Peer-to-Peer Personalized Federated Learning with DHT-based Local Clustering",
+    "authors": "Sooho Jang, Ahyeon Lim, Yuchan Lee, Sookwang Lee, Jaehwan Lee",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754654",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design and Optimization of GPU-Aware MPI Allreduce Using Direct Sendrecv Communication",
+    "authors": "Chen-Chun Chen, Jinghan Yao, Hari Subramoni, Dhabaleswar K. Panda",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754666",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Carbon-Aware Workflow Scheduling with Fixed Mapping and Deadline Constraint",
+    "authors": "Dominik Schweisgut, Anne Benoit, Yves Robert, Henning Meyerhenke",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754673",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Optimization of Smart Elderly Care Community Service Design Based on TTM Model",
+    "authors": "Haiyong Shen, Zhonglin Qu",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778474",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Remote Sensing Image Classification based on Knowledge Distillation",
+    "authors": "Yaping He, Jianfeng Cai, Qicong Hu, Peiqing Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766683",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Loan Default Prediction Using CTGAN-MLP",
+    "authors": "Tianbao Xie, Tengfei Du",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766808",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Low-observable Geometric Structure Design of Screw Slot",
+    "authors": "Huan Liu, Jianjun Xiang, Lin Zhang, Hongqian Zhu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766818",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Intelligent Offloading in UAV–LEO Hybrid Edge Networks Using Multi-Agent",
+    "authors": "Yushan Xiang, Yiyuan Zuo, Yunni Xia, Xifeng Xu, Jiale Zhao, Mengdi Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766789",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Evaluating Fine-Tuned GPT-4o on Gravitational Wave Literature Through Cross-Model QA Benchmarking",
+    "authors": "Wei Wei, Fan Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766838",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Longitudinal Analysis of EEG Microstate Alterations Induced by Cumulative Fatigue from Consecutive Day-Long Tasks",
+    "authors": "Zhan Chen, Yawei Xie, Chuantao Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766720",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on High-Performance Fusion Computing Technology for Large-Scale Time-Series and Relational Data",
+    "authors": "Tianfeng Shao, Jian Cao, Guangrui Peng, Jianhao Zhang, Zhenyu Gao, Xiaotong Tuo, Jiajia Wu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766877",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Provenance Tracking in Large-Scale Machine Learning Systems",
+    "authors": "Gabriele Padovani, Valentine Anantharaj, Sandro Fiore",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757295",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the construction of entrepreneurship incubation base in colleges and universities in Guangdong: An Efficiency Evaluation and Resource Allocation Optimization Model Based on Artificial Intelligence",
+    "authors": "Jian Dong, Guizhen Fu, Yintong Guo, Jianru Xie",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778462",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3778450",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Proceedings of the 54th International Conference on Parallel Processing",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3754598",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Cross-Architecture Performance Analysis Using the RAJA Performance Suite",
+    "authors": "Dewi Yokelson, Stephanie Brink, Jason Burmark, Michael McKinsey, Befikir Bogale, Ian Lumsden, Michela Taufer, Tom Scogland, Olga Pearce",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754668",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "COF:Cycle and transmission co-mapping framework for CNN mapping in PIM architecture",
+    "authors": "Xianfa Zhou, Tun Li, Yuhuan Xia, Ruiyu Zhang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754662",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the design and practice of human-machine collaborative innovation of Yao clothing pattern based on Lora technology",
+    "authors": "Caiyi Wang, Yu He",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766704",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Power System Signal Denoising Method Based on Optimized Wavelet Thresholding",
+    "authors": "Guize Zhao, Linsheng Liu, Yushu Lai",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766842",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "E-commerce Demand Forecasting Based on Considering Hysteresis BiLSTM-Attention Model",
+    "authors": "Caimeng Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766775",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Active Learning-Driven Fine-Grained Sentiment Analysis for Small Food Delivery Businesses with Minimal Annotations",
+    "authors": "Jiheng Zhao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766742",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "HeatList: The Case for Retrofitting In-memory Range Index with Hotspot Awareness",
+    "authors": "Junru Shen, Miao Cai, Kangyue Gao, Baoliu Ye, Guo Cheng",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754627",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Federated Graph Learning-Based Dynamic Modeling of Risk Correlation Networks Among Financial Institutions",
+    "authors": "Shijie Huang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778499",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Q-GEAR: Improving quantum simulation framework",
+    "authors": "Ziqing Guo, Jan Balewski, Ziwen Pan",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757302",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SC-Diff: Semantic-Collaborative Diffusion for Multi-Class Anomaly Detection",
+    "authors": "Haodong Wei, Qitao Hu, Wenhe Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766832",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "On-line Inspection Method of Vapor Quality in Tobacco Drying Process and Application Research",
+    "authors": "Guoping Wang, Bo Liu, Lei Yan, Yongqiang Gu, Jin Wang, Zixian Feng",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766837",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AN INTELLIGENT METHOD FOR GENERATING DATA SECURITY ACCESS CONTROL POLICIES",
+    "authors": "Junqiao Wang, Guishan Dong, Jian Bai",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766768",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "PISCES:Push-Pull Hybrid Optimization for Graph Pattern Matching",
+    "authors": "Changjie Xu, Ke Meng, Zhiheng Lin, Guangming Tan",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754650",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-21",
+    "title": "Sentiment and Stance Classification on Climate Change Tweets Using Fine-Tuned BERT Models",
+    "authors": "Xiyan Zhang",
+    "publish": "Proceedings of the 2025 7th International Conference on Big Data Engineering",
+    "url": "https://doi.org/10.1145/3775050.3775055",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AI Assistants to Enhance and Exploit the PETSc Knowledge Base",
+    "authors": "Barry Smith, Junchao Zhang, Hong Zhang, Lois Curfman McInnes, Murat Keceli, Archit Vasan, Satish Balay, Toby Isaac, Le Chen, Venkatram Vishwanath",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757281",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An LLM-enabled Workflow for Understanding and Evolving HPC Scheduling Practices",
+    "authors": "Anderson Borch, Ketan Maheshwari, Justin Wozniak, Rafael Ferreira da Silva",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757293",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Application of Wireless Information and Power Transfer Technology in Public Security IoT for Cultivating Digital Intelligent Police Talents",
+    "authors": "Zhijie Sun, Zongjun Xu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766759",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Multi-Head Attention-Enhanced TCN-CNN for Intelligent Bearing Fault Diagnosis Under Complex Operating Conditions",
+    "authors": "Rong Liu, Delanyo K. B. Kulevome, Taihao Zhang, Yanna Zhang, Na Li, Man Qiu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766870",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Innovative Design Research on Hero Character Creation in Animated Shorts Assisted by Generative AI",
+    "authors": "Qiyu Xiao, Xu Li",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778518",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A High-Accuracy Sketch for Measuring Low-Entropy Flows in Distributed AI Training",
+    "authors": "Jin Wang, Chenye Zhu, Jinbin Hu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754643",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "FedNova-Adaptive-based Cross-Jurisdictional Anti-Money Laundering Federated Diagnostic Framework",
+    "authors": "Zhuopei Cheng, Qinghe Zhang, Rong Liu, Xiaojun Xiao",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778532",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MULTISCALE ATTENTION-ENCHANCED YOLO: A HIERARCHICAL FEATURE FUSION FRAMEWORK FOR UAV OBJECT DETECTION IN LOW-ILLUMINATION ENVIRONMENTS",
+    "authors": "Jiaqi Wang, Liwen Liu, Gui Fu, Xiaoqiang Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766680",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Python based simulation of Fraunhofer diffraction phenomenon",
+    "authors": "Min Li, Huijie Wang, Jingqing Li, Yelin Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766810",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Discovery of Folk Literature Knowledge and Metadata Mining——Based on R Programming Language Bibliometrix Package",
+    "authors": "Huhe Qiao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766743",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Graphene-Based Pressure Sensors: Enhancing Sensitivity and Stability for Complex Applications",
+    "authors": "Handuo Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766711",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "QSCnn-FCNet with Multimodal Feature Fusion for Wind Turbine Rolling Bearing Fault Diagnosis",
+    "authors": "Fulong Yang, Lijun Gong, Jinjin Zhou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766715",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Artificial Intelligence Algorithm Driven Research—Taking the Innovation Path of Environmental Art Design Classroom as an Example",
+    "authors": "Xili Xie, Qizhi Zou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766718",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-21",
+    "title": "Exploring Feature Ambiguity in TBI Diagnosis Using Missing Aware Machine Learning Models",
+    "authors": "Hamzah Dabool, Hany Alashwal, Abdalla Z Mohamed, Ahmed A Moustafa",
+    "publish": "Proceedings of the 2025 7th International Conference on Big Data Engineering",
+    "url": "https://doi.org/10.1145/3775050.3775052",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Technical Practice and Application of Data Governance in Military Exercise and Training Data Management",
+    "authors": "Yinglin Guo, Lixin Li",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Method for Fine-Grained Sentiment Analysis with Dynamic Weight Fusion Integrating Random Forest",
+    "authors": "Yanyan Liu, Quan Zhang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778479",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Enhanced LSTM Architecture with Multi-Head Attention Mechanism for Structural Break Detection in Financial Time Series",
+    "authors": "Lichuan Long",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778504",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Product Demand Forecasting Model Based on BKA-Optimized Transformer-LSTM",
+    "authors": "Bin Huang, Songhang Chen",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778482",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Efficient Parallel Algorithms for Dynamic Percolation Centrality",
+    "authors": "Prajjwal Nijhara, Lokesh Venkatachalam, Agam Harpreet Singh, Athreya Chandramouli, Sayantan Jana, Kishore Kothapalli, Dip Sankar Banerjee",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754663",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Architecture-Aware Models of AI Engines for High-Performance Matrix Matrix Multiplication",
+    "authors": "Elliott D. Binder, Jeffrey Low, Tze Meng Low",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754612",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "FedWCM: Unleashing the Potential of Momentum-based Federated Learning in Long-Tailed Scenarios",
+    "authors": "Tianle Li, Yongzhi Huang, Linshan Jiang, Qipeng Xie, Chang Liu, Wenfeng Du, Lu Wang, Kaishun Wu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754657",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SpiderCache: Semantic-Aware Caching Strategy for DNN Training",
+    "authors": "Zesong Wang, Peng Fang, Fang Wang, Hong Jiang, Yimin Lu, Zhan Shi, Dan Feng",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754672",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ZTP: A Scalable and Lightweight Privacy-Preserving Blockchain via Scale-Free Quorums and Geometric Fragmentation",
+    "authors": "Abdullah Al Mamun, Dongfang Zhao, Gagan Agrawal, Ahmed Aleroud, Mohamed I. Ibrahem",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754625",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A study on the deep analysis and optimization strategy of teaching effect of Marx's principle in college students based on Transformer algorithm",
+    "authors": "Zebin Wen, Shuying Zhao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766852",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Classroom Behavior Recognition and Clustering Using Enhanced Swin Transformer",
+    "authors": "Ziya Tan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766850",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Predicting potential miRNA-drug associations using a hierarchical metapath-aware graph autoencoder",
+    "authors": "Siying Song, Yantong Qiao, Mingyang Wu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766753",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "PONS: A Novel Task Offloading Approach for Structured Applications in Vehicular Edge Computing",
+    "authors": "Mengfei He, Yunni Xia, Xifeng Xu, Mengdi Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3767041",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Support SIMD Optimization with Post Quantum Cryptography Validation on Move Language",
+    "authors": "ChiaHui Su, Hsuan-Yun Hung, LiangNi Wang, I-An Chen, Jenq-Kuen Lee",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757285",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "HARVEST Inference: Characterizing Digital Agriculture Workloads across Compute Continuum",
+    "authors": "Tian Chen, Quentin Anthony, Dhabaleswar K. Panda",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3758082",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Improved YOLO11n-based Human-vehicle Small Target Detection Model",
+    "authors": "Hanren Wang, Haixiao Zhao, Yanlong Lin",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766679",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Applications of Machine Learning in Supply Chain Management: A Forecasting and Optimization Perspective",
+    "authors": "Qingyi Su",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766794",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Mining User Psychological Characteristics and Supply Chain Decision Support Based on Multimodal Sentiment Analysis Model",
+    "authors": "Yaqing Liang, Jianfeng Zou, Zonghong Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766834",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Impact of Driver's Perceptual Quirk of Velocity on Traffic Dynamics and Safety in Fog Weather",
+    "authors": "Li Gong, Miaoqi Yang, Chang Liu, Jieyang Lin, Yuxi Sun, Jinhua Tan",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778505",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist",
+    "authors": "Yicong Luo, Senhe Hao, Brian Wheatman, Prashant Pandey, Helen Xu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754655",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Heterogeneity-aware Task Scheduling based on Personalized Federated Reinforcement Learning",
+    "authors": "Xin Yong, Li Yan, Zhuozhao Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754602",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the simulation of BLDC control system based on extended Kalman observer",
+    "authors": "Qijun Xiao, Rongrong Wan, Zhijing Wu, Weitai Hsu, Liping Huang, Feng Qin",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766809",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Predicting Traffic Accident Severity During Peak Hours Using Machine Learning",
+    "authors": "Zhichen Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766738",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design and Evaluation of a Multimodal Perception-Driven AI and AR Converged Female Family Rehabilitation System",
+    "authors": "Yinghui Wang, Sheng Lin",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766676",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of Error Amplifier with Clamp Circuit for Buck DC-DC Converter",
+    "authors": "Kaifeng Xu, Yong Wang, Zongmin Wang, Ying Kong",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766798",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Visualization and Analysis of Pelvic Floor Magnetic Stimulation Studies Based on Web of Science",
+    "authors": "Yuhui Gong, Lu Yang, Shuangxin Zhang, Jingying Mu, Yu Wang, Wenhui Xu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766841",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Exploring Influencing Factors of Carbon Emissions and Multi-Scenario Projection of Carbon Peak in Yunnan Province",
+    "authors": "Baihui Yang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766880",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Amber: Towards Fast and Space-Efficient Incremental Checkpointing in Large Language Model Training",
+    "authors": "Zhiqiang Wang, Wenzhe Zhu, Zaigui Zhang, Chaomei Yan, Fan Guo, Yongkun Li, Yinlong Xu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754606",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Hierarchical Reward Function Design for Autonomous Driving Based on Reinforcement Learning",
+    "authors": "Yansong Li",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778525",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Federated Learning for Text Classification: Reflections on Model Selection and Data Distribution",
+    "authors": "Tianyang Fu",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778517",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Enhancing Ideological and Political Education Engagement among Students with Learning Disabilities through Artificial Intelligence and Virtual Reality: A K-Means-Based Study",
+    "authors": "Ying Zhang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778487",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "STEP: Software Tools Ecosystem Project",
+    "authors": "Terry Jones, Philip Carns",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757305",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Residential Environment Design for the Elderly Based on PSO-LSTM",
+    "authors": "Siting Xia",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766816",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Multi-target Detection and Classification via an Integration Learning Network based on Enhanced RepViT",
+    "authors": "Xuechun Han, Zhuo Xu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766712",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MM-PSFM: A Multimodal Multi-Task Model for Short-Term Precipitation Forecasting",
+    "authors": "Yuxin Shi, Chizhang Zhang, Shuping Chen, He Fang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766845",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on PM2.5 Concentration Prediction Model Based on DBO-BiLSTM",
+    "authors": "Zejun Yan, Su Hu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766860",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "RESEARCH ON MPC-BASED TRAJECTORY TRACKING FOR AGRICULTURAL ROBOTS",
+    "authors": "Sijie Chen, Yuefei Wang, Liucun Zhu, Nanxiang Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766858",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "VES: Vectorized Sparse General Matrix-Matrix Multiplication on Multi-Core DSPs",
+    "authors": "Chuhe Hong, Qinglin Wang, Xing Peng, Gencheng Liu, Qingyang Zhang, Xinhai Chen, Jie Liu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754613",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Joint Prediction and Matching for Computing Resource Exchange Platforms",
+    "authors": "Da Huo, Zhenzhe Zheng, Xiaoyao Huang, Hao Chen, Jianfeng Hu, Zhiyong Yan, Fan Wu, Jie Wu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754610",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Efficient Cross-Datacenter Congestion Control with Fast Control Loops",
+    "authors": "Baosen Zhao, Jianan Sun, Xu Zhou, Wanghong Yang, Wenji Du, Fukang Chen, Yongmao Ren, Stefan Schmid",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754645",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the Analysis Method of Tobacco Leaf Oil Content Based on Color Space under Ultraviolet Light",
+    "authors": "Xinruitong Liu, Mingzhan Lv, Yuanyuan Liu, Luoping Wang, Yingying Qian, Qianxu Yang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766701",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MULTISCALE SPATIOTEMPORAL MODELING VIA LATENT-FACTORIZATION-OF-TENSORS AND LSTM FOR BRIDGE STRUCTURAL HEALTH MONITORING DATA PREDICTION",
+    "authors": "Wei Wang, Citian Chen, Jingyuan Shen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766865",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design and Implementation of Early Warning System on Exam Cheating Based on Deep Learning Video Understanding",
+    "authors": "Dian-lin Wang, Xu-feng Zhou, Lihong Zhang, Yan liu, Shaofa Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766709",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Data-Driven Modeling of User Interaction Mechanisms in Business District Installations Using GRA-Kano-AHP Framework",
+    "authors": "Haomei Yang, Meng Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766830",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A FURTHER-OPTIMIZED GENETIC ALGORITHM FOR ADAPTIVE LATENT FACTOR MODELS",
+    "authors": "Jingna Cheng, Ziwen Ma, Chao Lyu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766791",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Sentiment Analysis Model for Environmental Art Design Evaluation Based on Deep Learning",
+    "authors": "Yi Fu, Shihao Lu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766733",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Automatic segmentation system for lobar pneumonia lesions based on the SAG-UNet model",
+    "authors": "Jie Liu, Shi Chen, Haohan Liu, Haoyu Zhu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766686",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "It Takes Two: Accelerating Accurate Federated Learning through Pipelined Intra-Batch Data Sampling and Training",
+    "authors": "Chenghao Nu, Zhe Zhang, Ye Li, Yanchao Zhao",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754659",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Lias: Leveraging Performance Counters for Interference Quantification and Mitigation in Multi-processor Systems",
+    "authors": "Yangfan Qiao, Zhuozhao Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754611",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ParaCOSM: A Parallel Framework for Continuous Subgraph Matching",
+    "authors": "Haibin Lai, Sicheng Zhou, Site Fan, Zhuozhao Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754603",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Automatic Recognition of Densely Distributed Low-Voltage Meters in Glare-Affected Environments Using YOLOv8 and OCR",
+    "authors": "Lijuan Guo, Guoshan Xie, Longfei Zhang, Zhongmou Huang, Hualin Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766689",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Novel Amplitude Adjustable Signal Conditioning Circuit for 12.5Gbps SerDes Receiver",
+    "authors": "Zuohan Yang, Lei Chen, Jiancheng Li, Jian Zhang, Zuhang Wang, Yidong Cao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766770",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Autonomous UAVs in Dense Mountain Forest Environments",
+    "authors": "Juqin Feng, Hongcheng Zhao, Jie Li, Jianjun Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766772",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Furniture Image Classification Model Based on EfficientNet",
+    "authors": "Xidong Guan, Xinjian Qiu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766780",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on price prediction of carbon emission trading in China based on LSTM model",
+    "authors": "Wenduo Yang, Rongrong Xie, Haifeng Dong",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766831",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Distributed MOM and Smart Factories Operating Systems Towards Industry 5.0",
+    "authors": "Baichuan Chen, Zhenming Zhang, Miao Wang, Zhi Zhang, Yongxing Huan, Cheng Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766756",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "WfCommons: Datasets and Tools for Advancing Scientific Workflows",
+    "authors": "Henri Casanova, Tainã Coleman, Rafael Ferreira da Silva, Frédéric Suter",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757301",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Study on the influence of pet food review information on purchase decision from the perspective of IAM model",
+    "authors": "Ming Zhao, Yunbin Sun",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Hierarchical Configuration Information Model for Commercial Aircraft Airborne Equipment Based on a Single Source of Truth",
+    "authors": "Minghui Chen, Lin Yang, Xinyuan Zhang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778515",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Scaling Distributed Graph Processing to Hundreds of GPUs",
+    "authors": "George Slota, Michael Mandulak",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754664",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SINA: Accelerating Time Synchronization in Large-Scale Network Simulation Using In-Network Allreduce",
+    "authors": "Dinghuang Hu, Dezun Dong, Xiangke Liao",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754600",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "PTWalker: Cache-Efficient Random Walks via Alternating Dual-Subgraph Walker Updating",
+    "authors": "Shuai Lin, Rui Wang, Zaigui zhang, Long Deng, Wenzhe Zhu, Yongkun Li, Yinlong Xu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754644",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Liquid raindrop multiphase flow model based on SPH",
+    "authors": "Minyan Xin, Ye Huo, Yongheng Chen, Haicheng Shi",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766800",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Highly Integrated PSoC-Based SIP Chip Design",
+    "authors": "Bin Han, Yu Liu, Yu Zheng, Bo Zheng, Kun Zhang, Xiaochao Sun",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766815",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AN ADVANCED YOLOV8-RCI-BASED MODEL FOR STEEL SURFACE DEFECT DETECTION",
+    "authors": "Rongchen Jin, Tianwei Shi",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766700",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SYgraph: A Portable Heterogeneous Graph Analytics Framework for GPUs",
+    "authors": "Antonio De Caro, Gennaro Cordasco, Biagio Cosenza",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754615",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning",
+    "authors": "Waylon Luo, Jiapeng Zhao, Tong Zhan, Qiang Guan",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754641",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Accelerating Multi-Output GBDTs with GPUs",
+    "authors": "Hanfeng Liu, Xuemei Peng, Zeyi Wen",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754638",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Multiprocessor Scheduling with Memory Constraints: Fundamental Properties and Finding Optimal Solutions",
+    "authors": "Pál András Papp, Toni Böhnlein, Albert-Jan N. Yzelman",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754676",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "WinRS: Accelerate Winograd Backward-Filter Convolution with Tiny Workspace",
+    "authors": "Zhiyi Zhang, Junshi Chen, Jingwei Sun, Pengfei Zhang, Zhuopin Xu, Jun Shi, Qi Wang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754599",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference",
+    "authors": "Hongbin Zhang, Taosheng Wei, Zhenyi Zheng, Jiangsu Du, Zhiguang Chen, Yutong Lu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754621",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Numerical and Machine Learning-Based Multi-Objective Optimization of High-Pressure Air Valve Columns",
+    "authors": "Jin Shang, Wei Xia, Chao Wu, Guoao Chen, Min Chen, Xiang Jin, Fenggang Zhao, Wenhao Huang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778492",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An artificial intelligence prediction model for the operational efficiency of legal services based on LSTM optimization of AdaBoost algorithm",
+    "authors": "Xiaojun Zheng, Li Chen, Hongyang Li, Yao He, Jun Huang, Feng Gao",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778484",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Modeling Method for Unmanned Devices Based on OpenHarmony",
+    "authors": "Siyuan Wang, Yun Nie",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766771",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Key technology of digital twin modeling for production process of flexible production line based on data",
+    "authors": "Yinfu Du, Lili Zhou, Jianping Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3767039",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-21",
+    "title": "BIM MODIVIS: A Modular Framework for BIM-Based Smart Campus Data Integration and Visualization",
+    "authors": "Jarunchai Srisawat, Prapaporn Rattanatamrong, Veerasak Likhitruangsilp",
+    "publish": "Proceedings of the 2025 7th International Conference on Big Data Engineering",
+    "url": "https://doi.org/10.1145/3775050.3775051",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ROAD SEGMENTATION of REMOTE SENSING IMAGES BASED on CHANNEL and SPATIAL FUSION ATTENTION LINKNET",
+    "authors": "Tao Sun, Zhoujie Yang, Yiyang Chen, Yutong Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766698",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Revolutionizing Wind Energy: A Compact Evolutionary Algorithm for Layout Optimization",
+    "authors": "Tao Zheng, Zhiwei Yu, Kefan Ni, Baohang Zhang, Zhenyu Lei, Shangce Gao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766786",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design and Implementation of an Intelligent Electronic Scale Based on Image Recognition Technology",
+    "authors": "Yajuan Zhang, Jie Chen, Minjia Zheng",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766674",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Automation and Collaboration in Complex Epidemiological Workflows with OSPREY",
+    "authors": "Jonathan Ozik, Nicholson Collier, Arindam Fadikar, Justin Wozniak, Valerie Hayot-Sasson, Kyle Conroy, Kyle Chard, Jacqueline Wentz, Erin Acquesta, Jaideep Ray",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757294",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "OVERT: Orchestrating Vector-Scalar Execution for Efficient SpMV on Modern CPUs",
+    "authors": "Kelun Lei, Hailong Yang, Kaige Zhang, Shaokang Du, Marc Casas, Yufan Xu, Zhongzhi Luan, Yi Liu, Depei Qian",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754632",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ESC: Effective Submanifold Convolution using Tensor Cores",
+    "authors": "Xuezhu Wang, Hailong Yang, Xin You, Yufan Xu, Xiaoyan Liu, Siqi Wang, Kaige Zhang, Mingzhen Li, Zhongzhi Luan, Yi Liu, Depei Qian",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754633",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Workload Analysis of Pilot During Single-Engine Failure Based on EEG Data",
+    "authors": "Jiajun Yuan, Jianping Hu, Zhengyang Sun, Bo Jia",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778510",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "House Price Prediction and Interpretability Analysis Based on Automated Machine Learning",
+    "authors": "Wenhao Tang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778468",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ADAPT: Dynamic Grouping and Cross-Group Aggregation for GC-Efficient Log-Structured Storage in SSD Arrays",
+    "authors": "Ruisong Zhou, Peng Wang, Chunhua Li, Ke Zhou, Hui Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754616",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "pyGinkgo: A Sparse Linear Algebra Operator Framework for Python",
+    "authors": "Keshvi Tuteja, Gregor Olenik, Roman Mishchuk, Yu-Hsiang Tsai, Markus Götz, Achim Streit, Hartwig Anzt, Charlotte Debus",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754648",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Artificial Intelligence in Decision Support Systems: Impact on Organizational Management Theory",
+    "authors": "Xuelin Lu, Na Hu, Jingyuan Zou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766731",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Automated Log Data Analysis and Anomaly Detection Method in Intelligent Operations and Maintenance Systems",
+    "authors": "Huipeng Wang, Liangliang Tang, Liqiong Wu, Xiaojuan Zheng, Chuangye Zhao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766854",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Time-variant Seismic Resilience of Highway Bridge Networks Using Convolutional Neural Networks",
+    "authors": "Lu Yang, Ruihong Zhu, Zhenliang Liu, Longfei Tian, Bingqing Li, Suchao Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766721",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "The Design of Dynamic Interactive Reading Device Based on Philosophical Thought",
+    "authors": "Nanxin Zheng",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766875",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Text Sentiment Analysis Model Based on Graph Attention Network",
+    "authors": "Mingchu Yu, Dongpu Sun",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766765",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Cheerleading Formation Transformation Based on Computer Simulation",
+    "authors": "Li Liu",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778478",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Motion Correction Method Based on Improved OpenPose and Fuzzy Decision",
+    "authors": "Keqiong Chen, Chuanle Nie, Litao Fu, Chen Chen, Maofa Zhen, Yu Xie",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766705",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Public Transportation Demand Prediction Based on Adaptive Graph Convolutional Recurrent Network",
+    "authors": "Liuyan Tian, Duo Mei",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766723",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Region Load Forecasting Method Based on K-Shape and Attention-GRU",
+    "authors": "Tingxiang Lu, Xi Xu, Hua Zheng, Honghua Xu, Qipei Zhang, Yunqi Duan, Li Xie",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766848",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3766671",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Automatic speckle area recognition for digital image correlation in measuring the mechanical behaviour of honeycomb structure",
+    "authors": "Mengzhen Yan, Xiaoliang Hu, Ying Wang, Yunbing Hu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766681",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "3D Geographic Entity Feature Extraction Based on MS-Point-BERT",
+    "authors": "Ziyan Chen, Hong Jia",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766691",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Public Opinion Monitoring and Emotional Tendency Analysis of College Students",
+    "authors": "Zhengjun Huang, Ziwei Li, Douping Yu, Xiongwei Yu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766785",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Applications of Artificial Intelligence in Smart Cities",
+    "authors": "Zi-Jun Zhang, Zhong-Mei Deng",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Optimizing NumPy with SVE Acceleration on ARM Architectures",
+    "authors": "Kuldeep Pal, Aniket P. Garade, Deepika H. V, Haribabu P, S. A. Kumar, S. D. Sudarsan",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754661",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Heterogeneity-aware Federated Edge Learning via UAV Sampling and D2D Communications",
+    "authors": "Yanfeng Lu, Tao Wu, Chao Chang, Hongjun Wang, Mingxing Ke, Jian Wang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754618",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "IRIS-MASH: Efficient Multi-device Asynchronous Multi-Stream Heterogeneous Computing",
+    "authors": "Narasinga Rao Miniskar, Aaron R. Young, Mohammad Alaul Haque Monil, Kazi Asifuzzaman, Beau Johnston, Keita Teranishi, Jeffrey S. Vetter",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754652",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "One GPU, Many Ranks: Enabling Performance and Energy-Efficient In-Transit Visualization via Resource Sharing",
+    "authors": "Matheus Costa, Philippe Navaux, Silvio Rizzi, Arthur Lorenzon",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754649",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Foundation Models for Zero-Shot Segmentation of Scientific Images without AI-Ready Data",
+    "authors": "Shubhabrata Mukherjee, Jack Lang, Obeen Kwon, Iryna Zenyuk, Valerie Brogden, Adam Weber, Daniela Ushizima",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757283",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Fast Exact Diameter Computation of Sparse Graphs",
+    "authors": "Cameron Bradley, Anju Mongandampulath Akathoott, Martin Burtscher",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754620",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "The Hybrid Tacit Knowledge Mining Framework Based on Large Models",
+    "authors": "Jiang Jiang, Liangbo Zeng, Huaquan Su",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778471",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Discrimination of Financial Fraud in Transaction Data via Improved Mamba-Based Sequence Modeling",
+    "authors": "Zhen Xu, Jialu Xia, Yingnan Yi, Mingfan Chang, Ziwei Liu",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778531",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Financial Market Sentiment Prediction Based on BERT-Based Sentiment Analysis Model",
+    "authors": "Yanqing Lin",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778480",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An Interpretable Machine Learning Method for Rockburst Risk Assessment",
+    "authors": "Yong Xia, Siyang Chen, Renkun Wang, Yue Liu",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778520",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "End-to-End Autoencoder-MLP Framework for Sepsis Pre-diction",
+    "authors": "Hejiang Cai, Di Wu, Ji Xu, Xiang Liu, Yiziting Zhu, Xin Shu, Yujie Li, Bin Yi",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766803",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Sentiment Analysis of Tourist Reviews of Traditional Architecture Based on MBCNN-BiLSTM-MSA",
+    "authors": "Xiangyu Guo, Xin Chen, Rongbin Yang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766703",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Fibre grating anti-interference peak-finding algorithm based on hybrid denoising and dynamic Gaussian fitting",
+    "authors": "Leran Chen, Zonglei Deng, Zhaoyang Chen, Hesheng Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766710",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AMP-FreqNet:A Frequency-Domain Enhanced Model for Antimicrobial Peptide Prediction with Efficient Attention Mechanism",
+    "authors": "Mingjian Zhang, Guodong Li, Jun Zhang, Pengwei Hu, Lun Hu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766835",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Spatiotemporal Tourism Flow Prediction and Policy Optimization in Smart Cities Based on LSTM-GIS Federated Learning Framework",
+    "authors": "Mingnan Lin, Shaoxiong Tan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766847",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the application and effect of bow - LSTM fusion model in the prediction of College Students' psychological state",
+    "authors": "Jiancheng Feng, Cong Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766732",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Dynamic Spatio-Temporal Graph Convolutional Network for Traffic Flow Prediction with Knowledge Representation",
+    "authors": "Ting Han, Duo Mei",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766730",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Study of Short - term Power Load Forecasting Based on Improved GWO - BiLSTM - Attention Model",
+    "authors": "Shihe Lu, Shiwei Li, Wu Cheng",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766747",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Predictive modeling of corrosion rate of horizontal wellbore in Qingcheng shale oil",
+    "authors": "Xiaorui Wang, Hanpeng Zheng, Huanyu Liu, Xia Wu, Xin Zhang, Zhipeng Jia",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766748",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of Underwater Acoustic Data Encryption and Management System",
+    "authors": "Ting Xue, Leilei Deng, Ji Xu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766762",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MixLoRA: An Efficient Multi-Tenant Framework for Concurrently Serving Diverse LoRA Models in Large Language Models",
+    "authors": "Ronghuai Chen, Ce Yu, Hao Fu, Xiaoteng Hu, Bin Yang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754605",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Green Innovation Research in BRICS Countries: A Scientometric Analysis Using CiteSpace",
+    "authors": "Huichan Ren, Jingqiang Jia, Ping Xie",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778496",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Style Conversion and Automated Creation of Commercial Illustration Based on Deep Learning",
+    "authors": "Hongxia Jiang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778488",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Chinese Text Error Correction Based on Large Language Models",
+    "authors": "Hexuan Zhang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778486",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of Water Supply Plant Parameter Monitoring System Based on Internet of Things",
+    "authors": "Yanlong Wang, Wu Cheng, Shiwei Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766685",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Lightweight Splitted Federated Learning Algorithm for Financial Crime Detection",
+    "authors": "Xibei Jia, Yunliang Chen, Li Chen, Jian Gong, Weijie Chen, Guanghui Zhou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766746",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MULTIPLE PROTEIN SEQUENCE ALIGNMENT BASED ON GENETIC ALGORITHM WITH SIMT COMPUTING ARCHITECTURE",
+    "authors": "Gang Li, Rui Liu, Zhenglong Liu, Yujun Luo",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766755",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "KGL: An Efficient Time Series Anomaly Detection Approach for the Industrial Internet of Things",
+    "authors": "Bingfeng Wang, Yaodong Tao, Yong Wang, Lin Zhou",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778526",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MG-Time: A Multi-Generator and TimeGAN-Enhanced for Intrusion Detection",
+    "authors": "Qiang Shi, Yong Wang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778527",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Execution-Aware Hierarchical Code Generation with Qwen-72B and Retrieval Augmentation",
+    "authors": "Rui Guo, Aijia Sun, Ying Xie",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778516",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Study on the Evaluation of Public Spaces in Kunming Urban Renewal Communities Based on the AHP-Entropy Weight Method Model",
+    "authors": "Yinghao Xu, Xia Yang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778491",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Enhancing Superword-Level Parallelism on RISC-V through Custom Instruction Extensions",
+    "authors": "Min-Hsiu Hsu, Shih-wei Liao, Chi-Hung Wei, Chi-Bang Kuan",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757287",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Meta-path-based Contrastive Learning for Drug Repositioning in Heterogeneous Biomedical Networks",
+    "authors": "Yunpeng Zhao, Sicong Gao, Yantong Qiao, Jun Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766856",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Data-Driven Forecasting of Fashion Color Trend",
+    "authors": "Yuqian Dai, Xiaobin Li, Chenhui Yu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766736",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Multi-City Structural Equation Modeling Analysis of Ride Intentions for Autonomous Ride-Hailing Services under Multi-Source Data Integration",
+    "authors": "Liangwei Liu, Jinhao Yang, Jinxi Yang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778511",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Personalized Course Recommender System Based on Fusion of LSTM and Knowledge Graph",
+    "authors": "Xiuya Zang, Lifeng Han, Ruying Xu, Miao Zhang, Yixin Zhao, Huinan Liang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766867",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Corrigendum: gECC: A GPU-based high-throughput framework for Elliptic Curve Cryptography",
+    "authors": "Qian Xiong, Weiliang Ma, Xuanhua Shi, Yongluan Zhou, Hai Jin, Kaiyi Huang, Haozhou Wang, Zhengru Wang",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3776758",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of Interposer Interconnection Network Based on High-Radix Interposer Routers",
+    "authors": "Xue Xiao, Yi Dai, Yanqiang Sun, Jianmin Zhang, Tiejun Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754658",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Comparative Study and Application of Multi-Objective Optimization Algorithms in Noise and Vibration Reduction Design of Fluid Machinery",
+    "authors": "Jie Wei",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766807",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "INFLUENCE OF GATE OXIDE STRUCTURE AND METAL GATE WORK FUNCTION ON THE PERFORMANCE OF 14NM FINFET BULK SILICON DEVICE",
+    "authors": "Xiaodong Zhao, Fan Yang, Xunying Zhang, Hongxia Wang, Yuanyuan Cui",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766812",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An Interpretable AI Algorithm to Quantify the Drivers of Blue-Sky Happiness",
+    "authors": "Yi Cheng, Jiyao Yin, Guofeng Zhu, Kang Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766871",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Burst Detection for Satellite Signals: A Framework of Asynchronous Dual-Sliding Window and Dynamic Dual-Mode Threshold",
+    "authors": "Ao Qiu, Feng Gao, Chan Liu, Cong Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766763",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An Improved YOLOv8-Based Algorithm for Foreign Object Detection on Steel Mill Conveyor Belts",
+    "authors": "Hai-qiang Liu, Yecheng Gao, Ze Jiang, Xiaojing Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766678",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An Improved YOLOv8-Seg Network for Curb Segmentation in Street Detection",
+    "authors": "Xin Chen, Xiang Liu, Jiayi Li, Cecilia Elisabet García Cena, Pooya Sareh",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778489",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Enabling Command-and-Control in Advanced In Situ Workflows",
+    "authors": "Kshitij Mehta, Eric Suchyta, Frédéric Suter, Ana Gainaru, Norbert Podhorszki, Scott Klasky",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757296",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Grid Financial Risk Assessment Based on Fusion Knowledge Graph and Bayesian Networks",
+    "authors": "Yanan Chen, Weilan Wang, Riyong Zhu, Yichen Liu, Han Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766864",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the application of artificial intelligence in software automation test case generation in aerospace field",
+    "authors": "Wenquan Li, Fangsong Shao, Yu Fang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766826",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on E-Commerce Long-Tail Product Recommendation Mechanism Based on Large-Scale Language Models",
+    "authors": "Qingyi Lu, Haotian Lyu, Jiayun Zheng, Yang Wang, Li Zhang, Chengrui Zhou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766843",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Transformer - based Numerical Predictive Model of Student Academic Risk by Fusing Data from Multiple Sources",
+    "authors": "Li Zhang, Zebin Wen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766846",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ADAPTIVE MOMENT ESTIMATION-INCORPORATED LATENT-FACTORIZATION-OF-TENSORS FOR SPATIOTEMPORAL PATTERNS REPRESENTATION LEARNING OF BRIDGE STRUCTURAL HEALTH MONITORING DATA",
+    "authors": "Lingling Mao, Jianxi Yang, Minzhi Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766725",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Finding the Optimal Solution for Jet Image Binary Classification: An Evaluation of Model Fusion and Self-Supervised Learning Strategies",
+    "authors": "Peishan Fan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766806",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Practical Education and Innovative Application of Artificial Intelligence Large Model in Higher Vocational Education",
+    "authors": "Xibin Xu, Xiaolei Zhao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766811",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design and implementation of an ARINC429 bus simulation card",
+    "authors": "Zhen Shen, Qizhi Zhang, Li Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766817",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Stock Representation Enhancement and Return Prediction with Multi-scale Prototype Sparse Contrast",
+    "authors": "Yuhui Zhao, Shengyi Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766822",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "LARGE-SCALE FAIRNESS SPECTRAL CLUSTERING BASED ON LEARNABLE SUBSPACE FOR ELEVATOR SAFETY MANAGEMENT",
+    "authors": "Longfei Zhong, Hongwei Yin, Wenjun Hu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766824",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SVMD and FVIM-DBN-Based Classification Method for Loudspeaker Anomalous Sound Detection",
+    "authors": "Chang Lu, Jinglei Zhou, Jinhui Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766797",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research and Application of Multimodal Graph Learning-Based Student Dropout Prediction and Adaptive Intervention in Online Education",
+    "authors": "Yunlan Xue, Weixing Wang, Yuanfei Deng, Jiangang Xie",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766751",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A method for 3D reconstruction of real indoor scenes with enhanced 3D Gaussian density",
+    "authors": "Daohong Huang, Chunling Liu, Lei Shi",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766695",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Optimizing Traveling Salesman Problem Solutions via Group Relative Policy Optimization",
+    "authors": "Yulin Qin, Ziyuan Li, Yueheng Liu, Qingyuan Yu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766869",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Multimodal AI Revolution in Computer-Assisted Instruction",
+    "authors": "Qiong Jia, Peijin Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766881",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Deep Learning Annotation Method Integrating Multiple Features",
+    "authors": "Shenyi Yang, Chonggao Zhong, Rui Dai",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766849",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A hybrid stock prediction model integrated improved differential evolution with Extreme Boosting Tree algorithm",
+    "authors": "Xiaohua Zeng, Wenye Yu, Ruiyu Lv, Jieping Cai, Yan Kong",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766734",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Performant Unified GPU Kernels for Portable Singular Value Computation Across Hardware and Precision",
+    "authors": "Evelyne Ringoot, Rabab Alomairy, Valentin Churavy, Alan Edelman",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754667",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ViReC: The Virtual Register Context Architecture for Efficient Near-Memory Multithreading",
+    "authors": "Matthew Barondeau, Sophia Jiang, Jonathan Beard, Andreas Gerstlauer",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754607",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Decision Shuffle: Efficient Pre-scheduling System for Push-based Shuffle in DAG Computing Frameworks",
+    "authors": "Shihao Zhang, Chi Zhang, Chentao Wu, Jie Li, Minyi Guo, Hui Li, Liqiang Zhang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754640",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Application of Cluster Analysis in the Management of College Students' Mental Health Education",
+    "authors": "Yuru Sun",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778470",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Talent Management and Human Resource Planning Integrating Artificial Intelligence and Big Data",
+    "authors": "Chunsun He",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778477",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Study on the Influencing Factors of AIGC-Generated News Content Adoption Based on Audience Perception",
+    "authors": "Huining Cao",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778453",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Domain-Specific Legal Language Modeling through Knowledge Fusion and Structured Attention",
+    "authors": "Yiming Yu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766790",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Deep Learning-Based Model for Restoring Oracle Bone Script Images: Enhancing Character Structure and Background Texture",
+    "authors": "Wenjun Xiao, Wenjun Zheng, Guang Long, Yuqi Ma",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766692",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on visualization and simulation technology of multi-device collaborative logistics system for intelligent manufacturing",
+    "authors": "Haotian Xie, Yong Ao, Hailong Shao, Longgang Da, Song Feng",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766697",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "UAV path planning based on BPSO algorithm",
+    "authors": "Lintao Zhou, Jin Sun, Hu Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766802",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "DistOKD: Online Knowledge Distillation for BERT Model Compression with Source-Free Unsupervised Domain Adaptation",
+    "authors": "Jubayer Ahmed, Sharmin Sultana, Long Zhang, Saiful Islam",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766784",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Tunnel Lighting Detection Based on Lightweight Network and Boundary Interaction",
+    "authors": "Jianyong Chen, Fei Liu, Jianbo Lin, Feng Yu, Hao Ying, Ye Jin, Guofeng Xu, Huahua Liang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766672",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Human Pose Estimation Based on Dynamic Hip Joint Modeling for FES Rehabilitation Bicycle Training",
+    "authors": "Qingao Zhao, Rui Gao, Yuan Xu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766675",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "HALLM: Heterogeneous Attention-based Large Language Model for Traffic Flow Prediction",
+    "authors": "Rongyan Chen, Liyang Lu, Haoyu Jin, Xinyu Gu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766879",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Integration of Geothermal Resources and Computer Technology: Current Status and Development",
+    "authors": "Haoxin Chen",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766769",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Optimization of Algorithm based Business Management Decision Support System",
+    "authors": "Hongde Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766739",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "BanditWare Extension: A Contextual Bandit-based Framework for Hardware Prediction with Model Selection",
+    "authors": "Ravi Shende, Tainã Coleman, Hena Ahmed, Ismael Perez, İlkay Altintaş",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757300",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An HPC Framework for Multi-Modal Plant Phenotyping Integrating Controlled Environment and Open Field Studies",
+    "authors": "Sungchan Oh, Libo Zhang, Yang Yang, Mitch Tuinstra",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3758081",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Optimizing Direct Convolutions on High-Performance Multi-Core DSPs",
+    "authors": "Pengyu Wang, Xiaotian Chen, Jianbin Fang, Peng Zhang, Yonggang Che, Chun Huang, Jie Ren",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754619",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AI-Driven Functional Protein Design: Machine Learning Approaches for Screening and Optimization",
+    "authors": "Yunze Jiang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778490",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Intelligent Prediction and Dynamic Scheduling Optimization Strategy for Cloud Computing Resources under Burst Load Scenarios",
+    "authors": "Ye Lei",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778459",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An Exploration of Cloud Detection Feature Fusion Method Based on CNN-Transformer Hybrid Architecture",
+    "authors": "Chenjia Liu, Yubin Wang, Xinrui Li, Zheng Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766707",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Visual Analysis of Research on Traditional Chinese Medicine Compound Dressings for Pressure Injury Care Based on CiteSpace",
+    "authors": "Shuangxin Zhang, Yixuan Liu, Juncai Li, Xiuling Zhou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766708",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Novel User-interest-based Clustering Caching Method in Dynamic MEC Environments",
+    "authors": "Wuqiang Shu, Yiyuan Zuo, Yunni Xia, Yunye Wan, Guanglin Guo",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766724",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Intelligent Recommendation System Path of Personalized Learning Paths in Higher Vocational Colleges in Jiangsu Province Empowered by AIGC",
+    "authors": "Yushui Xiao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766777",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Collaborative Mechanism of Distributed Measurement Data Annotation and Federated Learning Based on Blockchain Smart Contracts",
+    "authors": "Zhiyuan He, Ting Li, Dan Pan, Yuxiang Cai, Ting Fu, Mingyang Lei",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766776",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Adaptive Beamforming Method based on Oblique-projection Preprocessing and Linear Constraints",
+    "authors": "Rui Yang, Shuyan Ni, Haiyang Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766778",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Upd4v6Geo: A Large-Scale Probing-free Landmark Sustainable Update Framework for IPv6 Network Geolocation",
+    "authors": "Ruosi Cheng, Liancheng Zhang, Shichang Ding",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766787",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on Financial Risk Early Warning Model Based on Deep Neural Network",
+    "authors": "Wenhui Mo, Haihong Man",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766741",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Survey on the Evolution of Embedded CPUs: Architectural Innovations and Intelligent Computing Challenges",
+    "authors": "Yulong Gan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "FOUNT Courselets on the National Data Platform",
+    "authors": "Pedro Ramonetti, llkay Altintas, Melissa Floca, Kate Keahey, Marc Richardson",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757306",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Ortho-Fuse: Orthomosaic Generation for Sparse High-Resolution Crop Health Datasets Through Intermediate Optical Flow Estimation",
+    "authors": "Rugved Katole, Christopher Stewart",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3758083",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Dynamic Signal Generation and Risk Optimization Using Deep Learning with Multi-source Features: Evidence from U.S. Equity Markets",
+    "authors": "Rundong Lin",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778509",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Automated FPGA Accelerator Generation Framework for Transformers with Dataflow Optimization",
+    "authors": "Wenqi Lou, Yunji Qin, Zihao Wang, Chao Wang, Lei Gong, Xuehai Zhou",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754656",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-21",
+    "title": "Diffoot - Graph-Conditioned Diffusion Model for Predicting Football Player Movements",
+    "authors": "Minsuh Park, Kyoung-Sook Kim, Taehoon Kim, Ki-Joune Li",
+    "publish": "Proceedings of the 2025 7th International Conference on Big Data Engineering",
+    "url": "https://doi.org/10.1145/3775050.3775053",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Comprehensive Evaluation of LLMs in HPC Code Performance Optimization",
+    "authors": "Bowen Cui, Tejas Ramesh, Oscar Hernandez, Keren Zhou",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757280",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Enhancing SLP Vectorization through Hybrid Slice Selection",
+    "authors": "Chi-Hung Wei, Shih-wei Liao, Chih-Cheng Chen, Chi-Bang Kuan",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757288",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "BMapper: A Scalable and Efficient Framework for Brain Simulations Acceleration on Supercomputers",
+    "authors": "Yubing Bao, Zhihui Lu, Qiang Duan, Xin Du, Zhongyu Chen, Yicong Zhao, Xiaoyi Li, Yandan Tan, Shuhan Yang, Ziyi Wang, Yang Chen, Yang Xu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754609",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Efficient Construction of Large Search Spaces for Auto-Tuning",
+    "authors": "Floris-Jan Willemsen, Rob V. van Nieuwpoort, Ben van Werkhoven",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754601",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Revisiting Multi-threaded Compaction in LSM-trees: Enabling Compaction Pipelining",
+    "authors": "Hongsu Byun, Honghyeon Yoo, Sungyong Park",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754675",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MCF-DETR: A Multi-Component Fusion-Based Method for Pulmonary Nodule Detection",
+    "authors": "Yanyu Lan, Jianmin Guo",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766688",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "GRRT*-DWA: Fast Path Search Algorithm for Mobile Robot Navigation in Dynamic Complex Maps",
+    "authors": "Lintao Zhou, Yifan Han",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766801",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Innovation Paths of Multimodal Interaction Technology via the Integration of Artificial Intelligence and Large Language Models",
+    "authors": "Ranzheng Lin",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766823",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SwinUFormer: A U-Net based on Swin Transformer for Ultrasound Imaging",
+    "authors": "Wenzhu Gu, Zhenyu Lei, Masaaki Omura, Shangce Gao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766713",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Metadata mining and knowledge discovery in folk literature",
+    "authors": "Huhe Qiao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766744",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Dynamic Topic Modeling for Large-Scale Diachronic Text Analysis: A Case Study on U.S. Presidential Inaugural Addresses",
+    "authors": "Qiong Hu, Xiaolei Ma, Jun Fu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766874",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A closed-loop system for dynamic personality monitoring and judicial risk early warning based on multimodal fusion",
+    "authors": "Zhiwen Hao",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778501",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Spatial Distribution of Livestock and Poultry Manure Resources in China: A Data Fusion Modeling Approach",
+    "authors": "Chenlong Wang, Cuiling Liu, Gaolong Li, Lusu Zhao",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778451",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-21",
+    "title": "A Text-mining Analysis of Media Representation of Chinese and American Youth",
+    "authors": "Haiyan Men, Zhixia Yang",
+    "publish": "Proceedings of the 2025 7th International Conference on Big Data Engineering",
+    "url": "https://doi.org/10.1145/3775050.3775054",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Analysis of Information System Security Perception Based on Structural Equation Modeling",
+    "authors": "Peilin He, Zunfeng Liu",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Bibliometric analysis for highly cited papers in agricultural science based on Essential Science Indicators",
+    "authors": "Meiping Wang, Lei Shi",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778481",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Study on the Trust Crisis of Teenagers and its Evasive Strategies in Online Games",
+    "authors": "Bo Jiang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778483",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Application and influence of digital exercise medicine in depression treatment",
+    "authors": "Zhenyu Liu, Gaoxia Wei",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766844",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of Greenhouse Fogging IoT System Based on NRBO Algorithm Optimized Fuzzy PID Control",
+    "authors": "Fengyuan Liang, Xiaoting Hu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766799",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Text Mining Analysis of Web Reviews on Tourist Image Perception of Cultural Heritage Sites",
+    "authors": "Chiu-Mei Chen, Kun -Shan Zhang, Yon-Giuan Lu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766702",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Combined Virtual Power Control and Adaptive Parameter Tuning of VSG Control Strategy for Smooth Grid Synchronization in Grid-Forming Inverter Systems",
+    "authors": "Yangxue Yuan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766859",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A study of multimodal depression detection methods",
+    "authors": "Sha Xiao, Lifeng Han, Shirong Rui, Ruyi Li, Jing Chai, Panglihe Hao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766866",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Customer Purchase Behavior Prediction Based on PSO-BiLSTM",
+    "authors": "Simin Feng",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766861",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Feature Gene Selection and Explainable Machine Learning Approaches for Clear Cell Renal Carcinoma Diagnosis",
+    "authors": "Junjie Chen, Haolin Chen, Zhao Liu, Bing Li",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766862",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Joint Task Scheduling and Resource Allocation in Cloud-Edge Collaborative Computing Systems",
+    "authors": "Boyu Du, Jingya Zhou, Jin Wang, Jiangwei Wang, Zhijun Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754646",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A Fast Sparse Triangular Solve for Structured-grid Problems on Heterogeneous Processors",
+    "authors": "Zhengding Hu, Yi Zong, Jingwei Sun, Wei Xue, Guangzhong Sun",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754647",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications",
+    "authors": "Wenda Tang, Yiduo Wang, Yanwen Wang, Jie Wu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754626",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Filling Performance Portability and High-Productivity Gaps for Scientific Applications with Julia and JACC",
+    "authors": "William Fredie Godoy, Pedro Valero-Lara, Alexis Huante, Jose Gonzalez, Jhonny Gonzalez, Yuguo Tang, Claire Winogrodzki, Philip Fackler, Keita Teranishi, Jeffrey Vetter",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757298",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-21",
+    "title": "Proceedings of the 2025 7th International Conference on Big Data Engineering",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3775050",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Invariant Manifold Disentanglement Transformer (IMD-Transformer): A Robust Framework for Low-Resource Cross-Modal Learning in Digital Cultural Heritage and Tourism",
+    "authors": "Yanrong Wang, Yulin Zhou",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778513",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "A research on the Construction and Application of Semantic-Enhancement Machine Learning Models in Cyberbullying Text Detection",
+    "authors": "Piao Feng, Haihang Jiang, Zhengzheng Tu, Xiaolong Chai",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778500",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Employee Attrition Prediction and Feature Importance Analysis with Machine Learning Models",
+    "authors": "Yuelin Yin, Qian Wang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778469",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "LSTM-Attention: A Novel Deep Learning Model for Sustainable Development Goals Achievement Prediction",
+    "authors": "Kehang Feng, Yuxin Zhang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778457",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of an eight-electrode human body impedance spectrum measurement system",
+    "authors": "Zheng Yang, HaoLin Xiao, Yi Wei, YanZhuo Wei, Qi Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766673",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SmartBlock: Adaptive Block Floating Point Quantization for Efficient DNN Acceleration",
+    "authors": "Xin Ju, Jingkui Yang, Mei Wen, Jun He, Jing Feng, Minjin Tang, Zhaoyun Chen, Yang Shi",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754660",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Cycle-Aware Parallel Optimization for Mitigating ZZ Crosstalk on Quantum Hardware",
+    "authors": "Jiayi Zhong, Yuxin Deng",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754622",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Origami: Efficient ML-Driven Metadata Load Balancing for Distributed File Systems",
+    "authors": "Yiduo Wang, Wenda Tang, Linghang Meng, Liang Li, Jie Wu",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754617",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "HMGraph: Boosting GNN Training on Hierarchical Memory via Coordinated Cache",
+    "authors": "Lizhi Zhang, Menghan Jia, Zhiquan Lai, Qiao Li, Yiming Zhang, Dongsheng Li",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754630",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "SimpleScalar RV64GC: Cycle-Accurate Simulator for RISC-V RV64GC Processor with Macro-Op Fusion",
+    "authors": "Shang-Chun Yang, Hua-Yi Ho, Jia-Chi Yuan, Yuan-Shin Hwang",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757290",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research and Application of NLP and Deep Learning Technologies in Call Centers",
+    "authors": "Sining Yi",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766827",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Application of Mobile Robot Virtual Simulation Platform in Teaching Management",
+    "authors": "Yihan Xie",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766773",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Arduino-Driven Multi-modal Sensing Framework for Interactive Art Installations: Design and Experimenting",
+    "authors": "Jianwen Li, Man Yuan, Haining Zhou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766805",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Bank Fixed Deposit Purchase Prediction Based on the Stacking Algorithm",
+    "authors": "Enhui Tian",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766728",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Regularization-optimized Low-Rank Factorization for Power Load Data Completion",
+    "authors": "Yan Xia, Hao Feng, Hongwei Sun, Junjie Wang, Qicong Hu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766749",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the Application of Blockchain Technology in Cross-Regional Agricultural Product Traceability Platform",
+    "authors": "He Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766764",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Thievory: Graph Processing with Multi-GPU Memory Stealing",
+    "authors": "João Brotas, Ricardo Nobre, Aleksandar Ilic",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754653",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "CoreTuner: Predicting and Scheduling Framework for Optimizing the Joint Allocation of CPU and GPU in Training Cluster",
+    "authors": "Hao Dong, Yuehao Xu, Xiaohui Wang, Xinhua Ji, Zhijun Ding",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754634",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "FLEX: Leveraging FPGA-CPU Synergy for Mixed-Cell-Height Legalization Acceleration",
+    "authors": "Xingyu Liu, Jiawei Liang, Linfeng Du, Yipu Zhang, Chaofang Ma, Hanwei Fan, Jiang Xu, Wei Zhang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754629",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Solving Extended Flexible Job Shop Scheduling Problems with Deep Reinforcement Learning",
+    "authors": "Haonan Jiang, Yusen Li, Xiaoguang Liu, Gang Wang, Xuebo Zhang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754631",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Integrating BIM and Machine Learning for Lifecycle Optimization of Sustainable Public Buildings",
+    "authors": "Lijun Wang, Mengru Lan",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778472",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design and Practice of General Education Course for Substation Maintenance Driven by AI",
+    "authors": "Pei Li, Hongbo Li, Lin Niu, Mengchao Ma, Yanyan Zhang, Ye Ai, Xiaolin Fu, Liangfeng Guo",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778473",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Attitude Early Warning of Tunneling Equipment Based on Multiple Machine Learning Methods",
+    "authors": "Bin Gan, Xiaonan Wang, Gang Tang, Yu Wei, Haohan Xiao",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778522",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design of students' emotion analysis system based on GPT",
+    "authors": "Fei Gao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766687",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Pet feeding detection based on improved Gaussian model",
+    "authors": "Yujie Wang, Yanlin Wang, Ye He, Hong Zhao, Yanzhao Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766696",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "PhenoTracker: A machine learning model to track grape phenology",
+    "authors": "Nathan Balcarcel, Paola Pesantez-Cabrera, Kristen Goebel, Markus Keller, Lav Khot, Alan Fern, Ananth Kalyanaraman",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3758079",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Hierarchical Vegetation Classification for Wildfire Risk Assessment using the National Data Platform",
+    "authors": "Yash Vishe, Abhay Lal, Guruprasad Parasnis",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757307",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Bundled for Success: A WfBench-Driven Assessment of Texera",
+    "authors": "Meng Wang, Shiva Jahangiri, Ketan Maheshwari, Chen Li",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757297",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Accelerating Erasure Coding on Persistent Memory via Adaptive Prefetcher Scheduling",
+    "authors": "Guanglei Xu, Hai Zhou, Yuchong Hu, Dan Feng, Renzhi Xiao",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754614",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Accelerating an Electromagnetic Simulation via Memory-Constrained Task-Based Load Balancing",
+    "authors": "Jonathan Lifflander, Nicole Slattengren, Philippe Pebay, Pierre Pebay, Caleb Schilly, Robert Pfeiffer, Joseph Kotulski",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754642",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Power Capping of GPU Servers for Machine Learning Inference Optimization",
+    "authors": "Yuan Ma, Srinivasan Subramaniyan, Xiaorui Wang",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754670",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Pisces: Towards Adaptive and Fair Congestion Control via Multi-Agent Meta-Reinforcement Learning",
+    "authors": "He Bai, Hui Li, Jianming Que, Minglong Zhang, Zhiqiang Hu, Ximing Xu, Bing Lin, Runhuai Huang, Junyang Qiu, Shaowen Deng",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754674",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Multi-source Text Mining for Risk Signal Detection in Asset-Backed Securities Market: An NLP-driven Data Analytics Approach",
+    "authors": "Jiahui Han",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778528",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "AQ-CV: Neural Control Variates for Robust and Generalizable Quadrature",
+    "authors": "Anyi Zhang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778519",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Machine Learning Based Research on Oil Pipeline Working Conditions",
+    "authors": "Pu Shi",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778463",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Deep Learning-Based Intelligent Resume-Position Matching System: Semantic Understanding and Recommendation of BERT Model in Massive Recruitment Data",
+    "authors": "Xuezhao Liu",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778452",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Evaluation and Analysis of Fire Emergency Management Capability in Logistics Parks Based on PCA-Combined Empowerment Method",
+    "authors": "Boyang Qin, Zhiang Chen, Yanzhang Yang, Youjun Luo, Yanlin Liu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766716",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "WAVEFORMER-NET-LLM: A LARGE MODEL FRAMEWORK FOR TIME-SERIES PREDICTION IN BRIDGE STRUCTURAL HEALTH MONITIRING",
+    "authors": "Jingyuan Shen, Minzhi Chen, Jianxi Yang, Xuelin Lei",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766726",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "EMM-DTI: ENHANCED MAMBA-BASED MODEL FOR DRUG-TARGET INTERACTION PREDICTION",
+    "authors": "Qinglong Sun, Jun Zhang, Pengwei Hu, Xiangwei Qi, Lun Hu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766727",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the Method of Integrating Large Language Model into Applied Text Generation Workflow",
+    "authors": "Wenxin Lu, Yuantao Yang, Wenxia Wei, Changsheng Yin",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "CNN-ResNet bearing fault diagnosis based on VMD optimized by SSA algorithm",
+    "authors": "Ruihua Liu, Zhihao Xin, Fang Guo",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766840",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Hypergraph Transformer for Herb–Disease Association prediction",
+    "authors": "Sicong Gao, Yantong Qiao, Jun Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766857",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Lightweight RT-DETR for Steel Surface Defect Detection",
+    "authors": "Tan Li, Weining Song, Nanjiang Chen, Fangfang Gao, Shouluan Wu, Chao Song, Wang Qi, Yanwen Lin, Runmin Yin",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778464",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Multi-Gas Prediction Method for Transformer Oil Chromatography",
+    "authors": "Huaijie Ji, Menglong Hou, Guodong Xie, Jiesheng Lin, Yuxiang Guo, Qiang Han, Meng Liang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766813",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Fine-grained permission management for O&amp;M operations based on key attribute identification technical research",
+    "authors": "Xiaorong Su",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766796",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the Construction of Historical Building Conservation Database Based on 3DGIS",
+    "authors": "Xiuhua Zhao",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766833",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Latent Knowledge Enhanced Product White Paper Automatic Generation Method",
+    "authors": "Jia Chen, Yishuang Li, Zhihao Huang, Renyu Zhang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766714",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Temporal Link Prediction Using Multi-metric Fusion Temporal Non-negative Latent Factorization of Tensors",
+    "authors": "Rui Qiu, DongXuan Ge, Qu Wang, Yue Zhou",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766853",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Design and Implementation of a Big Data-Driven Mental Health Protection System for College Students",
+    "authors": "Yuxuan Guo, Zhidan Lu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766851",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "The application of the GBDT regression model in red wine quality prediction",
+    "authors": "Mingyu Xie, Ming Huang, Yajing Zhang, Sida Lin, Jie Zhang",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778455",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "HHOTuner: Efficient Performance Tuning with Harris Hawks Optimization",
+    "authors": "Akash Dutta, Ali Jannesari",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754665",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "CompreGel: Efficient Distributed Graph Propagation via Error-Bounded Lossy Message Compression",
+    "authors": "Tianhao Wu, Da Yan, Qihao Cheng, Lyuheng Yuan, Sheng Di, Jiao Han, Zhongyi Huang, Ji Cheng",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754637",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Emergency Logistics Route planning model based on geospatial clustering and cockroach swarm optimization algorithm",
+    "authors": "Xiao Zhou, Shuang Zhao, Rui Li, Juan Pan",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766758",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "ADAPTIVE ENSEMBLE LEARNING WITH GAUSSIAN COPULA FOR LOAD FORECASTING",
+    "authors": "Junying Yang, Gang Lu, Xiaoqing Yan, Peng Xia, Di Wu",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3767040",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "MULTIPATH UTILIZATION INTERFERENCE CANCELLATION METHOD BASED ON ATTENUATION COEFFICIENT COMPENSATION",
+    "authors": "Qianru Liu, Jiahao Zhang, Hengfeng Wang, Wantian Wang, Jundi Wang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766760",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Computer-Assisted Gamified AI Teaching Guided by OBE: Effects on Adult Undergraduates' Academic Performance in Preschool Education",
+    "authors": "Xuemin Zhao",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778485",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

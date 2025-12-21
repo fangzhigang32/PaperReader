@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2025-12-20",
+    "title": "ParEval-Repo: A Benchmark Suite for Evaluating LLMs with Repository-level HPC Translation Tasks",
+    "authors": "Joshua H. Davis, Daniel Nichols, Ishan Khillan, Abhinav Bhatele",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754669",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ParEval-Repo：一个用于评估大语言模型在仓库级高性能计算翻译任务中的基准测试套件",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "An LLM-enabled Workflow for Understanding and Evolving HPC Scheduling Practices",
+    "authors": "Anderson Borch, Ketan Maheshwari, Justin Wozniak, Rafael Ferreira da Silva",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757293",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大语言模型的工作流：理解与演进高性能计算调度实践",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Execution-Aware Hierarchical Code Generation with Qwen-72B and Retrieval Augmentation",
+    "authors": "Rui Guo, Aijia Sun, Ying Xie",
+    "publish": "Proceedings of the 2025 International Symposium on Machine Learning and Social Computing",
+    "url": "https://doi.org/10.1145/3778450.3778516",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于Qwen-72B与检索增强的执行感知分层代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Research on the application of artificial intelligence in software automation test case generation in aerospace field",
+    "authors": "Wenquan Li, Fangsong Shao, Yu Fang",
+    "publish": "Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering",
+    "url": "https://doi.org/10.1145/3766671.3766826",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "人工智能在航空航天领域软件自动化测试用例生成中的应用研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Automated FPGA Accelerator Generation Framework for Transformers with Dataflow Optimization",
+    "authors": "Wenqi Lou, Yunji Qin, Zihao Wang, Chao Wang, Lei Gong, Xuehai Zhou",
+    "publish": "Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3754598.3754656",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "具有数据流优化的Transformer自动化FPGA加速器生成框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2025-12-20",
+    "title": "Comprehensive Evaluation of LLMs in HPC Code Performance Optimization",
+    "authors": "Bowen Cui, Tejas Ramesh, Oscar Hernandez, Keren Zhou",
+    "publish": "Workshop Proceedings of the 54th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3750720.3757280",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大型语言模型在高性能计算代码性能优化中的综合评估",
+    "abstract_zh": "None"
+  }
+]
