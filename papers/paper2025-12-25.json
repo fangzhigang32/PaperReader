@@ -1,0 +1,290 @@
+[
+  {
+    "date": "2025-12-24",
+    "title": "A Note on Publicly Verifiable Quantum Money with Low Quantum Computational Resources",
+    "authors": "Fabrizio Genovese, Lev Stambler",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.21304v1",
+    "source": "arXiv",
+    "abstract": "In this work we present a publicly verifiable quantum money protocol which assumes close to no quantum computational capabilities. We rely on one-time memories which in turn can be built from quantum conjugate coding and hardware-based assumptions. Specifically, our scheme allows for a limited number of verifications and also allows for quantum tokens for digital signatures. Double spending is prevented by the no-cloning principle of conjugate coding states. An implementation of the concepts presented in this work can be found at https://github.com/neverlocal/otm_billz."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "Declarative distributed broadcast using three-valued modal logic and semitopologies",
+    "authors": "Murdoch J. Gabbay",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.21137v1",
+    "source": "arXiv",
+    "abstract": "We demonstrate how to formally specify distributed algorithms as declarative axiomatic theories in a modal logic. We exhibit the method on a simple voting protocol, a simple broadcast protocol, and a simple agreement protocol. The methods scale well and have been used to find errors in a proposed industrial protocol. The key novelty is to use modal logic to capture a declarative, high-level representation of essential system properties -- the logical essence of the algorithm -- while abstracting away from transitions of an abstract machine that implements it. It is like the difference between specifying code in a functional or logic programming language, versus specifying code in an imperative one. A logical axiomatisation in the style we propose provides a precise, compact, human-readable specification that abstractly captures essential system properties, while eliding low-level implementation details; it is more precise than a natural language description, yet more abstract than source code or a logical specification thereof. This creates new opportunities for reasoning about correctness, resilience, and failure, and could serve as a foundation for human- and machine verification efforts, design improvements, and even alternative protocol implementations."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "Verification of E-Voting Algorithms in Dafny",
+    "authors": "Robert Büttner, Fabian Franz Dießl, Patrick Janoschek, Ivana Kostadinovic, Henrik Oback, Kilian Voß, Franziska Alber, Roland Herrmann, Sibylle Möhle, Philipp Rümmer",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.21084v1",
+    "source": "arXiv",
+    "abstract": "Electronic voting procedures are implementations of electoral systems, making it possible to conduct polls or elections with the help of computers. This paper reports on the development of an open-source library of electronic voting procedures, which currently covers Score Voting, Instant-Runoff Voting, Borda Count, and Single Transferable Vote. The four procedures, of which two are discussed in detail, have been implemented in Dafny, formally verifying the consistency with functional specifications and key correctness properties. Using code extraction from the Dafny implementation, the library has been used to set up a voting web service."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs",
+    "authors": "Yihan Wang, Huanqi Yang, Shantanu Pal, Weitao Xu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20986v1",
+    "source": "arXiv",
+    "abstract": "The integration of Large Language Models (LLMs) into wearable sensing is creating a new class of mobile applications capable of nuanced human activity understanding. However, the reliability of these systems is critically undermined by their vulnerability to prompt injection attacks, where attackers deliberately input deceptive instructions into LLMs. Traditional defenses, based on static filters and rigid rules, are insufficient to address the semantic complexity of these new attacks. We argue that a paradigm shift is needed -- from passive filtering to active protection and autonomous reasoning. We introduce AegisAgent, an autonomous agent system designed to ensure the security of LLM-driven HAR systems. Instead of merely blocking threats, AegisAgent functions as a cognitive guardian. It autonomously perceives potential semantic inconsistencies, reasons about the user's true intent by consulting a dynamic memory of past interactions, and acts by generating and executing a multi-step verification and repair plan. We implement AegisAgent as a lightweight, full-stack prototype and conduct a systematic evaluation on 15 common attacks with five state-of-the-art LLM-based HAR systems on three public datasets. Results show it reduces attack success rate by 30\\% on average while incurring only 78.6 ms of latency overhead on a GPU workstation. Our work makes the first step towards building secure and trustworthy LLM-driven HAR systems."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "A Blockchain-Monitored Agentic AI Architecture for Trusted Perception-Reasoning-Action Pipelines",
+    "authors": "Salman Jan, Hassan Ali Razzaqi, Ali Akarma, Mohammad Riyaz Belgaum",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20985v1",
+    "source": "arXiv",
+    "abstract": "The application of agentic AI systems in autonomous decision-making is growing in the areas of healthcare, smart cities, digital forensics, and supply chain management. Even though these systems are flexible and offer real-time reasoning, they also raise concerns of trust and oversight, and integrity of the information and activities upon which they are founded. The paper suggests a single architecture model comprising of LangChain-based multi-agent system with a permissioned blockchain to guarantee constant monitoring, policy enforcement, and immutable auditability of agentic action. The framework relates the perception conceptualization-action cycle to a blockchain layer of governance that verifies the inputs, evaluates recommended actions, and documents the outcomes of the execution. A Hyperledger Fabric-based system, action executors MCP-integrated, and LangChain agent are introduced and experiments of smart inventory management, traffic-signal control, and healthcare monitoring are done. The results suggest that blockchain-security verification is efficient in preventing unauthorized practices, offers traceability throughout the whole decision-making process, and maintains operational latency within reasonable ranges. The suggested framework provides a universal system of implementing high-impact agentic AI applications that are autonomous yet responsible."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "DAO-Agent: Zero Knowledge-Verified Incentives for Decentralized Multi-Agent Coordination",
+    "authors": "Yihan Xia, Taotao Wang, Wenxin Xu, Shengli Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20973v1",
+    "source": "arXiv",
+    "abstract": "Autonomous Large Language Model (LLM)-based multi-agent systems have emerged as a promising paradigm for facilitating cross-application and cross-organization collaborations. These autonomous agents often operate in trustless environments, where centralized coordination faces significant challenges, such as the inability to ensure transparent contribution measurement and equitable incentive distribution. While blockchain is frequently proposed as a decentralized coordination platform, it inherently introduces high on-chain computation costs and risks exposing sensitive execution information of the agents. Consequently, the core challenge lies in enabling auditable task execution and fair incentive distribution for autonomous LLM agents in trustless environments, while simultaneously preserving their strategic privacy and minimizing on-chain costs. To address this challenge, we propose DAO-Agent, a novel framework that integrates three key technical innovations: (1) an on-chain decentralized autonomous organization (DAO) governance mechanism for transparent coordination and immutable logging; (2) a ZKP mechanism approach that enables Shapley-based contribution measurement off-chain, and (3) a hybrid on-chain/off-chain architecture that verifies ZKP-validated contribution measurements on-chain with minimal computational overhead. We implement DAO-Agent and conduct end-to-end experiments using a crypto trading task as a case study. Experimental results demonstrate that DAO-Agent achieves up to 99.9% reduction in verification gas costs compared to naive on-chain alternatives, with constant-time verification complexity that remains stable as coalition size increases, thereby establishing a scalable foundation for agent coordination in decentralized environments."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "Information-Backed Currency (IBC): Designing a Resilient, Transparent, and Information-Centric Monetary Ecosystem",
+    "authors": "Lalit Kumar Shukla",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20961v1",
+    "source": "arXiv",
+    "abstract": "The accelerating digitization of economic activity has made information a dominant driver of market expectations, coordination, and systemic risk. Yet contemporary monetary systems remain anchored in architectures designed for material scarcity, institutional authority, or cryptographic constraint, leaving them increasingly misaligned with information-driven economies. This conceptual paper proposes Information-Backed Currency (IBC) as a monetary framework in which verified, high-integrity information functions as the primary source of value creation and monetary stability. Drawing on insights from econophysics, information theory, and cognitive economics, the paper advances the proposition that economic value emerges when information measurably reduces uncertainty within complex systems. Building on this premise, the study develops an architectural model in which currency issuance is linked to quantified entropy reduction achieved through multi-path information verification, reproducibility assessment, and contextual validation. An ethical governance layer, termed the Dharma Protocol, is introduced to ensure that only socially stabilizing, non-manipulative information qualifies as currency-backing input. The proposed IBC architecture comprises four interdependent layers: information ingestion, verification and validation, ethical oversight, and monetization through a Verification Value Unit tied to uncertainty reduction. While the framework is intentionally conceptual and non-empirical, it offers a coherent blueprint for re-imagining monetary governance in an era characterized by information abundance, cognitive constraints, and systemic fragility."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "Reasoning-Driven Amodal Completion: Collaborative Agents and Perceptual Evaluation",
+    "authors": "Hongxing Fan, Shuyu Zhao, Jiayang Ao, Lu Sheng",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20936v1",
+    "source": "arXiv",
+    "abstract": "Amodal completion, the task of inferring invisible object parts, faces significant challenges in maintaining semantic consistency and structural integrity. Prior progressive approaches are inherently limited by inference instability and error accumulation. To tackle these limitations, we present a Collaborative Multi-Agent Reasoning Framework that explicitly decouples Semantic Planning from Visual Synthesis. By employing specialized agents for upfront reasoning, our method generates a structured, explicit plan before pixel generation, enabling visually and semantically coherent single-pass synthesis. We integrate this framework with two critical mechanisms: (1) a self-correcting Verification Agent that employs Chain-of-Thought reasoning to rectify visible region segmentation and identify residual occluders strictly within the Semantic Planning phase, and (2) a Diverse Hypothesis Generator that addresses the ambiguity of invisible regions by offering diverse, plausible semantic interpretations, surpassing the limited pixel-level variations of standard random seed sampling. Furthermore, addressing the limitations of traditional metrics in assessing inferred invisible content, we introduce the MAC-Score (MLLM Amodal Completion Score), a novel human-aligned evaluation metric. Validated against human judgment and ground truth, these metrics establish a robust standard for assessing structural completeness and semantic consistency with visible context. Extensive experiments demonstrate that our framework significantly outperforms state-of-the-art methods across multiple datasets. Our project is available at: https://fanhongxing.github.io/remac-page."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "Robustness Certificates for Neural Networks against Adversarial Attacks",
+    "authors": "Sara Taheri, Mahalakshmi Sabanayagam, Debarghya Ghoshdastidar, Majid Zamani",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20865v1",
+    "source": "arXiv",
+    "abstract": "The increasing use of machine learning in safety-critical domains amplifies the risk of adversarial threats, especially data poisoning attacks that corrupt training data to degrade performance or induce unsafe behavior. Most existing defenses lack formal guarantees or rely on restrictive assumptions about the model class, attack type, extent of poisoning, or point-wise certification, limiting their practical reliability. This paper introduces a principled formal robustness certification framework that models gradient-based training as a discrete-time dynamical system (dt-DS) and formulates poisoning robustness as a formal safety verification problem. By adapting the concept of barrier certificates (BCs) from control theory, we introduce sufficient conditions to certify a robust radius ensuring that the terminal model remains safe under worst-case ${\\ell}_p$-norm based poisoning. To make this practical, we parameterize BCs as neural networks trained on finite sets of poisoned trajectories. We further derive probably approximately correct (PAC) bounds by solving a scenario convex program (SCP), which yields a confidence lower bound on the certified robustness radius generalizing beyond the training set. Importantly, our framework also extends to certification against test-time attacks, making it the first unified framework to provide formal guarantees in both training and test-time attack settings. Experiments on MNIST, SVHN, and CIFAR-10 show that our approach certifies non-trivial perturbation budgets while being model-agnostic and requiring no prior knowledge of the attack or contamination level."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "Formulation of Relativistic Dissipative Spin Hydrodynamics",
+    "authors": "Asaad Daher",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20855v1",
+    "source": "arXiv",
+    "abstract": "The primary objective of this thesis is to develop a consistent theoretical framework of dissipative hydrodynamics for a relativistic fluid with spin - hereafter referred to as relativistic dissipative spin hydrodynamics. In this framework, the dynamical description of a relativistic fluid requires a new macroscopic variable, the spin density, which is associated with a spin tensor. This tensor, defined as the expectation value of a rank-3 tensor operator in quantum field theory, contributes to the system's total angular momentum. The need for such a theory is motivated by recent measurements of spin polarization of hadrons produced in non-central relativistic heavy-ion collisions. Two distinct formulation methods are employed. The first is grounded in covariant thermodynamics and extends the conventional Navier-Stokes and Müller-Israel-Stewart theories of relativistic hydrodynamics by incorporating a spin tensor. The second is based on principles of relativistic quantum statistical mechanics, building upon and generalizing the foundational Zubarev approach. Both formulations aim to construct a closed system of evolution equations for the macroscopic variables and, via an entropy-current analysis, to identify the dissipative currents and their associated transport coefficients. These two approaches provide different perspectives for future applications focused on spin polarization measurements. Beyond its phenomenological relevance, the theory also opens several avenues for further theoretical developments. These include the verification of the thermodynamic relations employed in the first formulation method using microscopic frameworks, as well as a deeper understanding of the emerging transport coefficients - particularly those associated with the spin tensor - through microscopic modeling or data-driven parameter extraction."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "NotSoTiny: A Large, Living Benchmark for RTL Code Generation",
+    "authors": "Razine Moundir Ghorab, Emanuele Parisi, Cristian Gutierrez, Miquel Alberti-Binimelis, Miquel Moreto, Dario Garcia-Gasulla, Gokcen Kestor",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20823v1",
+    "source": "arXiv",
+    "abstract": "LLMs have shown early promise in generating RTL code, yet evaluating their capabilities in realistic setups remains a challenge. So far, RTL benchmarks have been limited in scale, skewed toward trivial designs, offering minimal verification rigor, and remaining vulnerable to data contamination. To overcome these limitations and to push the field forward, this paper introduces NotSoTiny, a benchmark that assesses LLM on the generation of structurally rich and context-aware RTL. Built from hundreds of actual hardware designs produced by the Tiny Tapeout community, our automated pipeline removes duplicates, verifies correctness and periodically incorporates new designs to mitigate contamination, matching Tiny Tapeout release schedule. Evaluation results show that NotSoTiny tasks are more challenging than prior benchmarks, emphasizing its effectiveness in overcoming current limitations of LLMs applied to hardware design, and in guiding the improvement of such promising technology."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "Bridging Efficiency and Safety: Formal Verification of Neural Networks with Early Exits",
+    "authors": "Yizhak Yisrael Elboher, Avraham Raviv, Amihay Elboher, Zhouxing Shi, Omri Azencot, Hillel Kugler, Guy Katz",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20755v1",
+    "source": "arXiv",
+    "abstract": "Ensuring the safety and efficiency of AI systems is a central goal of modern research. Formal verification provides guarantees of neural network robustness, while early exits improve inference efficiency by enabling intermediate predictions. Yet verifying networks with early exits introduces new challenges due to their conditional execution paths. In this work, we define a robustness property tailored to early exit architectures and show how off-the-shelf solvers can be used to assess it. We present a baseline algorithm, enhanced with an early stopping strategy and heuristic optimizations that maintain soundness and completeness. Experiments on multiple benchmarks validate our framework's effectiveness and demonstrate the performance gains of the improved algorithm. Alongside the natural inference acceleration provided by early exits, we show that they also enhance verifiability, enabling more queries to be solved in less time compared to standard networks. Together with a robustness analysis, we show how these metrics can help users navigate the inherent trade-off between accuracy and efficiency."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs",
+    "authors": "Saeed Mohammadzadeh, Erfan Hamdi, Joel Shor, Emma Lejeune",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20732v1",
+    "source": "arXiv",
+    "abstract": "As LLMs advance their reasoning capabilities about the physical world, the absence of rigorous benchmarks for evaluating their ability to generate scientifically valid physical models has become a critical gap. Computational mechanics, which develops and applies mathematical models and numerical methods to predict the behavior of physical systems under forces, deformation, and constraints, provides an ideal foundation for structured scientific reasoning evaluation. Problems follow clear mathematical structure, enforce strict physical and numerical constraints, and support objective verification. The discipline requires constructing explicit models of physical systems and reasoning about geometry, spatial relationships, and material behavior, connecting directly to emerging AI goals in physical reasoning and world modeling. We introduce FEM-Bench, a computational mechanics benchmark designed to evaluate the ability of LLMs to generate correct finite element method (FEM) and related code. FEM-Bench 2025 contains a suite of introductory but nontrivial tasks aligned with material from a first graduate course on computational mechanics. These tasks capture essential numerical and physical modeling challenges while representing only a small fraction of the complexity present in the discipline. Despite their simplicity, state-of-the-art LLMs do not reliably solve all of them. In a five attempt run, the best performing model at function writing, Gemini 3 Pro, completed 30/33 tasks at least once and 26/33 tasks all five times. The best performing model at unit test writing, GPT-5, had an Average Joint Success Rate of 73.8%. Other popular models showed broad performance variation. FEM-Bench establishes a structured foundation for evaluating AI-generated scientific code, and future iterations will incorporate increasingly sophisticated tasks to track progress as models evolve."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "Active Intelligence in Video Avatars via Closed-loop World Modeling",
+    "authors": "Xuanhua He, Tianyu Yang, Ke Cao, Ruiqi Wu, Cheng Meng, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Qifeng Chen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20615v1",
+    "source": "arXiv",
+    "abstract": "Current video avatar generation methods excel at identity preservation and motion alignment but lack genuine agency, they cannot autonomously pursue long-term goals through adaptive environmental interaction. We address this by introducing L-IVA (Long-horizon Interactive Visual Avatar), a task and benchmark for evaluating goal-directed planning in stochastic generative environments, and ORCA (Online Reasoning and Cognitive Architecture), the first framework enabling active intelligence in video avatars. ORCA embodies Internal World Model (IWM) capabilities through two key innovations: (1) a closed-loop OTAR cycle (Observe-Think-Act-Reflect) that maintains robust state tracking under generative uncertainty by continuously verifying predicted outcomes against actual generations, and (2) a hierarchical dual-system architecture where System 2 performs strategic reasoning with state prediction while System 1 translates abstract plans into precise, model-specific action captions. By formulating avatar control as a POMDP and implementing continuous belief updating with outcome verification, ORCA enables autonomous multi-step task completion in open-domain scenarios. Extensive experiments demonstrate that ORCA significantly outperforms open-loop and non-reflective baselines in task success rate and behavioral coherence, validating our IWM-inspired design for advancing video avatar intelligence from passive animation to active, goal-oriented behavior."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent",
+    "authors": "Humza Nusrat, Luke Francisco, Bing Luo, Hassan Bagher-Ebadian, Joshua Kim, Karen Chin-Snyder, Salim Siddiqui, Mira Shah, Eric Mellon, Mohammad Ghassemi, Anthony Doemer, Benjamin Movsas, Kundan Thind",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20586v1",
+    "source": "arXiv",
+    "abstract": "Stereotactic radiosurgery (SRS) demands precise dose shaping around critical structures, yet black-box AI systems have limited clinical adoption due to opacity concerns. We tested whether chain-of-thought reasoning improves agentic planning in a retrospective cohort of 41 patients with brain metastases treated with 18 Gy single-fraction SRS. We developed SAGE (Secure Agent for Generative Dose Expertise), an LLM-based planning agent for automated SRS treatment planning. Two variants generated plans for each case: one using a non-reasoning model, one using a reasoning model. The reasoning variant showed comparable plan dosimetry relative to human planners on primary endpoints (PTV coverage, maximum dose, conformity index, gradient index; all p > 0.21) while reducing cochlear dose below human baselines (p = 0.022). When prompted to improve conformity, the reasoning model demonstrated systematic planning behaviors including prospective constraint verification (457 instances) and trade-off deliberation (609 instances), while the standard model exhibited none of these deliberative processes (0 and 7 instances, respectively). Content analysis revealed that constraint verification and causal explanation concentrated in the reasoning agent. The optimization traces serve as auditable logs, offering a path toward transparent automated planning."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits",
+    "authors": "Amirhosein Ghasemabadi, Di Niu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20578v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) generate fluent and complex outputs but often fail to recognize their own mistakes and hallucinations. Existing approaches typically rely on external judges, multi-sample consistency, or text-based self-critique, which incur additional compute or correlate weakly with true correctness. We ask: can LLMs predict their own failures by inspecting internal states during inference? We introduce Gnosis, a lightweight self-awareness mechanism that enables frozen LLMs to perform intrinsic self-verification by decoding signals from hidden states and attention patterns. Gnosis passively observes internal traces, compresses them into fixed-budget descriptors, and predicts correctness with negligible inference cost, adding only ~5M parameters and operating independently of sequence length. Across math reasoning, open-domain question answering, and academic knowledge benchmarks, and over frozen backbones ranging from 1.7B to 20B parameters, Gnosis consistently outperforms strong internal baselines and large external judges in both accuracy and calibration. Moreover, it generalizes zero-shot to partial generations, enabling early detection of failing trajectories and compute-aware control. These results show that reliable correctness cues are intrinsic to generation process and can be extracted efficiently without external supervision."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs",
+    "authors": "Rui Pan, Zhuofu Chen, Ravi Netravali",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20573v1",
+    "source": "arXiv",
+    "abstract": "Diffusion Large Language Models (dLLMs) offer fast, parallel token generation, but their standalone use is plagued by an inherent efficiency-quality tradeoff. We show that, if carefully applied, the attributes of dLLMs can actually be a strength for drafters in speculative decoding with autoregressive (AR) verifiers. Our core insight is that dLLM's speed from parallel decoding drastically lowers the risk of costly rejections, providing a practical mechanism to effectively realize the (elusive) lengthy drafts that lead to large speedups with speculative decoding. We present FailFast, a dLLM-based speculative decoding framework that realizes this approach by dynamically adapting its speculation length. It \"fails fast\" by spending minimal compute in hard-to-speculate regions to shrink speculation latency and \"wins big\" by aggressively extending draft lengths in easier regions to reduce verification latency (in many cases, speculating and accepting 70 tokens at a time!). Without any fine-tuning, FailFast delivers lossless acceleration of AR LLMs and achieves up to 4.9$\\times$ speedup over vanilla decoding, 1.7$\\times$ over the best naive dLLM drafter, and 1.4$\\times$ over EAGLE-3 across diverse models and workloads. We open-source FailFast at https://github.com/ruipeterpan/failfast."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "On Link-irregular Digraphs",
+    "authors": "Alexander Bastien, Omid Khormali",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20494v1",
+    "source": "arXiv",
+    "abstract": "We extend the study of link-irregular graphs to directed graphs (digraphs), where a digraph is link-irregular if no two vertices have isomorphic directed links. We establish that link-irregular digraphs exist on $n$ vertices if and only if $n \\geq 5$, and prove that their underlying graphs must contain 3-cycles. We conjecture that link-irregular tournaments exist if and only if $n \\geq 6$, providing explicit constructions for $n \\leq 8$ and computational verification for $n \\leq 100$. We derive lower bounds on the minimum degree and outdegree required for link-irregularity, establish that almost all link-irregular digraphs are nonplanar, and prove that any link-irregular orientable graph admits a link-irregular labeling. Additionally, we construct explicit examples of link-irregular digraphs with constant outdegree and regular tournaments."
+  },
+  {
+    "date": "2025-12-24",
+    "title": "Step-DeepResearch Technical Report",
+    "authors": "Chen Hu, Haikuo Du, Heng Wang, Lin Lin, Mingrui Chen, Peng Liu, Ruihang Miao, Tianchi Yue, Wang You, Wei Ji, Wei Yuan, Wenjin Deng, Xiaojian Yuan, Xiaoyun Zhang, Xiangyu Liu, Xikai Liu, Yanming Xu, Yicheng Cao, Yifei Zhang, Yongyao Wang, Yubo Shu, Yurong Zhang, Yuxiang Zhang, Zheng Gong, Zhichao Chang, Binyan Li, Dan Ma, Furong Jia, Hongyuan Wang, Jiayu Liu, Jing Bai, Junlan Liu, Manjiao Liu, Na Wang, Qiuping Wu, Qinxin Du, Shiwei Li, Wen Sun, Yifeng Gong, Yonglin Chen, Yuling Zhao, Yuxuan Lin, Ziqi Ren, Zixuan Wang, Aihu Zhang, Brian Li, Buyun Ma, Kang An, Li Xie, Mingliang Li, Pan Li, Shidong Yang, Xi Chen, Xiaojia Liu, Yuchu Luo, Yuan Song, YuanHao Ding, Yuanwei Liang, Zexi Li, Zhaoning Zhang, Zixin Zhang, Binxing Jiao, Daxin Jiang, Jiansheng Chen, Jing Li, Xiangyu Zhang, Yibo Zhu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20491v2",
+    "source": "arXiv",
+    "abstract": "As LLMs shift toward autonomous agents, Deep Research has emerged as a pivotal metric. However, existing academic benchmarks like BrowseComp often fail to meet real-world demands for open-ended research, which requires robust skills in intent recognition, long-horizon decision-making, and cross-source verification. To address this, we introduce Step-DeepResearch, a cost-effective, end-to-end agent. We propose a Data Synthesis Strategy Based on Atomic Capabilities to reinforce planning and report writing, combined with a progressive training path from agentic mid-training to SFT and RL. Enhanced by a Checklist-style Judger, this approach significantly improves robustness. Furthermore, to bridge the evaluation gap in the Chinese domain, we establish ADR-Bench for realistic deep research scenarios. Experimental results show that Step-DeepResearch (32B) scores 61.4% on Scale AI Research Rubrics. On ADR-Bench, it significantly outperforms comparable models and rivals SOTA closed-source models like OpenAI and Gemini DeepResearch. These findings prove that refined training enables medium-sized models to achieve expert-level capabilities at industry-leading cost-efficiency."
+  },
+  {
+    "date": "2025-12-23",
+    "title": "A High-Dimensional Quantum Blockchain Protocol Based on Time- Entanglement",
+    "authors": "Aktaş, Arzu, Yılmaz, İhsan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20489v1",
+    "source": "arXiv",
+    "abstract": "Rapid advancements in quantum computing and machine learning threaten the long-term security of classical blockchain systems, whose protection mechanisms largely rely on computational difficulties. In this study, we propose a quantum blockchain protocol whose protection mechanism is directly derived from quantum mechanical principles. The protocol combines high-dimensional Bell states, time-entanglement, entanglement switching, and high-dimensional superdense coding. Encoding classical block information into time-delimited qudit states allows block identity and data verification to be implemented through the causal sequencing of quantum measurements instead of cryptographic hash functions. High-dimensional coding increases the information capacity per quantum carrier and improves noise resistance. Time-entanglement provides distributed authentication, non-repudiation, and tamper detection across the blockchain. Each block derives its own public-private key pair directly from the observed quantum correlations by performing high-dimensional Bell state measurements in successive time steps. Because these keys are dependent on the time ordering of measurements, attempts to alter block data or disrupt the protocol's timing structure inevitably affect the reconstructed correlations and are revealed during validation. Recent advances in the creation and detection of high-dimensional time-slice entanglement demonstrate that the necessary quantum resources are compatible with emerging quantum communication platforms. Taken together, these considerations suggest that the proposed framework can be evaluated as a viable and scalable candidate for quantum-secure blockchain architectures in future quantum network environments."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "Bridging Natural Language and SQL with an LLM-Powered Visual Interface",
+    "authors": "Supriya Kottam",
+    "publish": "2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+    "url": "https://doi.org/10.1109/vl-hcc65237.2025.00055",
+    "source": "IEEE",
+    "abstract": "In many organizations, business analysts and decisionmakers frequently need to query structured data to extract insights, generate reports, or monitor key metrics. While the data itself is readily available in enterprise databases, accessing it often requires writing Structured Query Language (SQL) - a task that remains challenging for users without formal technical training. As a result, these users typically rely on data engineers or analysts to manually translate their questions into SQL, creating delays, bottlenecks, and communication gaps."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "SMAUG: Semantic-Enhanced Mobile App Usage Data Generation With LLM",
+    "authors": "Zihan Huang, Tong Li, Yong Li",
+    "publish": "IEEE Transactions on Services Computing",
+    "url": "https://doi.org/10.1109/tsc.2025.3648444",
+    "source": "IEEE",
+    "abstract": "Mobile app usage data reveal user behavioral characteristics and is crucial for mobile operators for network service optimization, but its data collection is pricey and presents privacy concerns. Data synthesis, fortunately, can tackle this barrier by generating diverse and representative artificial datasets that resemble real-world data. In this paper, we propose SMAUG, a diffusion model-based generative model with large language models (LLMs) designed to generate personalized app usage data based on mobile users' mobility trajectories. To address the data inaccuracy issue brought by the sparsity nature of mobile app usage behavior, SMAUG decomposes the generation process and adopts a hierarchical structure framework to gradually refine the generation from the session level to the specific app level. By encoding spatio-temporal context and applying an attention mechanism, SMAUG effectively represents personalized user representations. Moreover, aiming to extensively explore the semantic information in app usage sessions, SMAUG incorporates LLMs to gain deeper insight into user behavior characteristics revealed in sessions, and also exploits a curriculum representation learning approach based on contrastive learning, exploring session characteristics from elementary to profound. Experiments on two real-world datasets show that SMAUG outperforms existing generative baseline approaches by over 25% under the metrics of RMSE, MAE, CRPS, JSD, M-TV, and Spearmanr. The model has also been successfully deployed to assist network service simulation, demonstrating their suitability for downstream tasks in real-world systems."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "Keyframer: A Design Probe for Exploring LLM Assistance in 2D Animation Design",
+    "authors": "Tiffany Tseng, Ruijia Cheng, Andrew M. McNutt, Jeffrey Nichols",
+    "publish": "2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+    "url": "https://doi.org/10.1109/vl-hcc65237.2025.00014",
+    "source": "IEEE",
+    "abstract": "Creating 2D animations is challenging because it requires iterative refinement of movement and transitions across multiple elements within a scene. We explored the potential of LLMs to support animation design by first identifying current challenges in formative interviews with animation creators, and then developing a design probe and LLM-based animation design tool called Keyframer. From user-provided graphics and natural language prompts, Keyframer generates animation code, enables users to preview rendered animations inline, and supports direct edits for iterative design refinement. We utilized this design probe to uncover user prompting styles for describing animation in natural language and observe user strategies for iterating on animations in an exploratory user study with 13 novices and experts in animation design and programming. Through this study, we contribute a categorization of prompting styles users employed for specifying animation goals, along with design insights on supporting iterative refinement of animations through the combination of direct editing and natural language interfaces."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "Do LLM-Generated Resumes Make Me More Qualified? An Observational Study of LLMs For Resume Generation and Matching Tasks",
+    "authors": "Swanand Vaishampayan, Chris Brown",
+    "publish": "2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+    "url": "https://doi.org/10.1109/vl-hcc65237.2025.00073",
+    "source": "IEEE",
+    "abstract": "Large Language Models (LLMs) are gaining traction in various hiring-related tasks for both candidates and employers. For instance, employers are increasingly using LLMs to rate applicants based on the match between their resume content and job description requirements. Meanwhile, candidates use LLMs to write cover letters and tailor resume content. However, research shows LLMs can impart biases for LLMgenerated content and against minorities, such as disabled candidates in hiring contexts. Thus, we conduct an observational study to investigate how widely used LLMs - OpenAI’s GPT-4, Google’s Gemini and Anthropic’s Claude - perform in supporting resume tasks for employers and candidates. Using a real-world dataset of job descriptions and resumes from disabled ($n=$ 209) and non-disabled (n = 209) candidates, we examine the capabilities of these models across resume rating and resume generation tasks in a zero-shot setting. Our main findings show moderate alignment across models for resume matching and no significant differences in ratings between disabled and nondisabled candidates. However, we did observe increased ratings for LLM-generated resumes for GPT-4 and Claude. We discuss the implications for both candidates and employers based on our findings, aiming to promote non-biased and equitable AIbased hiring processes and motivate human-AI collaboration in the design of future hiring systems."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "The Design Space of LLM-Based AI Coding Assistants: An Analysis of 90 Systems in Academia and Industry",
+    "authors": "Sam Lau, Philip J. Guo",
+    "publish": "2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+    "url": "https://doi.org/10.1109/vl-hcc65237.2025.00041",
+    "source": "IEEE",
+    "abstract": "Over the past few years, millions of people have been using LLM-based AI tools to aid in programming, data analysis, and software engineering tasks. These AI coding assistants range from specialized tools like GitHub Copilot to general-purpose chatbots like Claude. In parallel, academics have published dozens of papers on forward-looking prototypes to expand our collective thinking beyond present-day industry trends. However, despite rapid advances in both sectors in recent years, we still lack an understanding of how their designs relate to one another and what tradeoffs are commonly made. At this key moment in 2025 when design patterns are starting to emerge, it is important to zoom out to see the forest instead of the trees. To do so, we performed the first comprehensive design analysis of 90 LLM-based AI coding assistants. We categorized the feature sets of 58 industry products and 32 academic projects, then formulated a design space that captures key variations in their user experiences. Our design space covers $\\mathbf{1 0}$ dimensions related to UI modalities, system inputs, capabilities, and outputs. We use this design space to reveal trends in both industry and academic projects across three eras ranging from autocomplete to chat to agent-based interfaces. Lastly, to address the question of who the target users of these tools are, we present six user personas whose preferences lie in different regions of our design space: professional software engineers, HCI researchers and hobbyist programmers, UX designers, conversational programmers (e.g., product managers and marketers), data scientists, and students."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "Exploring Direct Instruction and Summary-Mediated Prompting in LLM-Assisted Code Modification",
+    "authors": "Ningzhi Tang, Emory Smith, Yu Huang, Collin McMillan, Toby Jia-Jun Li",
+    "publish": "2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+    "url": "https://doi.org/10.1109/vl-hcc65237.2025.00017",
+    "source": "IEEE",
+    "abstract": "This paper presents a study of using large language models (LLMs) in modifying existing code. While LLMs for generating code have been widely studied, their role in code modification remains less understood. Although “prompting” serves as the primary interface for developers to communicate intents to LLMs, constructing effective prompts for code modification introduces challenges different from generation. Prior work suggests that natural language summaries may help scaffold this process, yet such approaches have been validated primarily in narrow domains like SQL rewriting. This study investigates two prompting strategies for LLM-assisted code modification: Direct Instruction Prompting, where developers describe changes explicitly in free-form language, and SummaryMediated Prompting, where changes are made by editing the generated summaries of the code. We conducted an exploratory study with 15 developers who completed modification tasks using both techniques across multiple scenarios. Our findings suggest that developers followed an iterative workflow: understanding the code, localizing the edit, and validating outputs through execution or semantic reasoning. Each prompting strategy presented tradeoffs: direct instruction prompting was more flexible and easier to specify, while summary-mediated prompting supported comprehension, prompt scaffolding, and control. Developers’ choice of strategy was shaped by task goals and context, including urgency, maintainability, learning intent, and code familiarity. These findings highlight the need for more usable prompt interactions, including adjustable summary granularity, reliable summarycode traceability, and consistency in generated summaries."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "Autonomous LLM Agent: A Memory-Augmented, Edge-Optimized SHAP Explanations with Zero-Day Attack Resilience in IoT/Industrial IoT Networks",
+    "authors": "Yakub Kayode Saheed, Joshua Ebere Chukwuere",
+    "publish": "IEEE Internet of Things Journal",
+    "url": "https://doi.org/10.1109/jiot.2025.3648649",
+    "source": "IEEE",
+    "abstract": "The Internet of Things (IoT), particularly its industrial subset Industrial IoT, presents a critical attack surface due to its interconnected nature. As emerging threats exploit IoT edge networks, there is a growing demand for anomaly detection systems capable of addressing zero-day attacks while providing explainable predictions. Existing machine learning (ML) and deep learning (DL) methods often lack explainability, sensitivity, absence of Large Language Model (LLM) agent for adaptive detection and struggle with unseen zero-day threats. Motivated by these challenges, we introduce Anomaly-Agent, a novel LLM-powered explainable anomaly detection framework for IoT/IIoT edge environments. Anomaly-Agent leverages a reasoning-followed-by-action pipeline, integrating domain tools, external knowledge retrieval, and memory-augmented decisions to detect and explain anomalies. Unlike static ML/DL models, Anomaly-Agent adapts to evolving zero-day threats and supports sensitivity customization. We evaluated Anomaly-Agent on the Edge-IIoTset (IIoT-specific) and CIC-IoT2023 (general IoT) datasets, it achieved accuracies of 0.96 and 0.89, respectively, with a false alarm rate (FAR) below 0.04. It also attains a recall of 0.65 for zero-day attacks, surpassing traditional ML models and LLM baselines including GPT-4o, Claude 3.5, and GPT-4o-mini. Anomaly-Agent outperformed GPT-4o and Claude 3.5 due to their reliance on generic prompting, which limits performance to 64%–70% multi-class F1-score on CIC-IoT2023. Their high FAR of 10%-13% stems from misclassifying benign edge traffic as malicious. It also surpasses GPT-4o-mini, where token constraints reduce accuracy to 58% for multi-class tasks. The agent’s performance benefits from integration with SHAP, enhancing transparency and trust. While demonstrating strong performance, Anomaly-Agent faces inherent challenges in latency in complex scenarios and adversarial robustness that guide future improvements. These results demonstrate Anomaly-Agent’s robustness and interpretability, offering a viable path toward resilient, LLM-driven IoT/IIoT security solutions."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "Distributed Modularization of Thought: Lets Small Rival Large LMs_supp1-3648050.txt",
+    "authors": "Dario Bojanjac",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/access.2025.3648050/mm1",
+    "source": "IEEE",
+    "abstract": "We present the Distributed Modularization of Thought (DMoT) approach for code generation using several small language models, fine-tuned for distinct phases of the code generation process. Instead of the conventional single-model approach in direct code generation, our DMoT method decomposes the task into a hierarchy of subtasks using hierarchical Multi-Level Reasoning (MLR) graphs. Each phase, from solving simple subproblems to verifying syntax and compliance with initial requirements, is handled by a dedicated fine-tuned model. Models were trained through knowledge distillation from a larger model (ChatGPT-4.1) using a quantized LoRA technique, enabling execution on accessible hardware. Experimental evaluation is conducted on the BigCodeBench benchmark, which includes realistic and complex programming tasks. These results show that a system composed of several specialized small models outperforms single-model approaches in terms of accuracy (pass@1) and structural quality (CodeBLEU). So, small fine-tuned language models can rival and even outperform larger models, offering a resource-efficient path in the code generation processes."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "A Compact USB-Based Interface Module for The Verification of ARINC429 Avionics Systems",
+    "authors": "Fatih Çiçek, İhsan Çiçek",
+    "publish": "2025 6th International Conference on Communications, Information, Electronic and Energy Systems (CIEES)",
+    "url": "https://doi.org/10.1109/ciees66347.2025.11300008",
+    "source": "IEEE",
+    "abstract": "The ARINC-429 data bus remains a widely adopted communication standard in avionics due to its robustness, simplicity, and long certification history. Verification of ARINC-429 devices typically requires laboratory analyzers, FPGA-based controllers, or SoC-based platforms which, are often costly, non-portable, or demand significant development expertise. This paper presents the design and validation of a compact USB-based ARINC-429 verification module that addresses these limitations. The system integrates a Holt HI-3220 transceiver with an FTDI FT4222HQ USB–SPI bridge, omitting FPGA or SoC devices to minimize cost and complexity. A dedicated C# graphical user interface provides plug-and-play usability, real-time bus monitoring, word configuration, and error detection, making the tool accessible for laboratory testing, field diagnostics, and training environments. Experimental validation confirmed full compliance at both 12.5 kbps and 100 kbps modes, with correct signaling, low-latency response, and 99.6% fault detection accuracy. Compared to commercial analyzers, the module is over ten times cheaper, requires less than two minutes setup time, and offers greater portability. The novelty of this work lies in delivering a low-cost, user-friendly verification platform that bridges the gap between traditional analyzers and complex FPGA / SoC-based implementations, making it suitable for laboratories, field diagnostics, and training environments. Results demonstrate that ARINC-429 compliance testing can be performed efficiently using widely available components and an open, accessible design approach, providing a viable alternative to complex or proprietary solutions."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "Full-Duplex Empowered ISAC System for Low-Altitude Economy: Conception, Design, and Prototype Verification",
+    "authors": "Changhao Du, Yannan Rong, Xuanhe Yang, Sheng Ke, Zhe Song, Xinyuan Zhang, Xueting Zhang, Shuai Wang, Gaofeng Pan",
+    "publish": "IEEE Wireless Communications",
+    "url": "https://doi.org/10.1109/mwc.2025.3631019",
+    "source": "IEEE",
+    "abstract": "This article establishes Full-Duplex Integrated Sensing and Communication (FD-ISAC) as a transformative framework conception for the low-altitude economy. We design a hierarchical system architecture coordinating aerial control centers, mobile platforms, and ground entities through co-designed waveforms, enabling simultaneous high-throughput communication and high-precision sensing. The system overcomes fundamental limitations of conventional half-duplex ISAC by eliminating time-division switching overhead and sensing blind zones. Key innovations include: 1) Dynamic waveform adaptation for Doppler-resilient operations in 3D environments, 2) Multi-stage interference cancellation achieving >120dB suppression, and 3) Superimposed waveform enhanced echo analysis in urban multipath scenarios. Extensive simulations and hardware prototypes verification demonstrate significant throughput gains and sub-meter ranging accuracy during high-speed mobility. We further identify critical challenges in volumetric interference management, airborne hardware integration, and cross-domain security, providing a research roadmap for next-generation aerial networks. The proposed framework unlocks new capabilities for urban air mobility, emergency response, and smart city infrastructure."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "DuoPIM: RRAM-DRAM Hybrid PIM Acceleration for Flexible-Batch LLM Decoding",
+    "authors": "Xiaotian Sun, Xinyu Wang, Wanqian Li, Xueqi Li, Chunmeng Dou, Yinhe Han, Xiaoming Chen",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2025.3648674",
+    "source": "IEEE",
+    "abstract": "Transformer-based large language models (LLMs) primarily consist of weight-intensive fully-connected (FC) layers and cache-dependent attention layers. While batching significantly enhances the throughput of FC layers, it paradoxically increases the cache demands of attention layers. This provides no performance benefit and creates substantial memory pressure. Consequently, existing GPU-based LLM acceleration systems face throughput limitations from batch size constraints. Even when DRAM-based processing-in-memory (PIM) is employed to accelerate attention, the utilization remains extremely low under small batch sizes, which is unsuitable for low batch scenarios. Fortunately, the emerging non-volatile RRAM technology offers batch size-insensitive acceleration for FC layers through highly parallel in-situ computations by eliminating weight loading overhead. This insight leads us to propose a hybrid approach: RRAM for FC layers and DRAM PIM for attention layers to overcome batch size limitations. However, merely scaling existing RRAM architectures misaligned with LLMs’ computation and storage demands will result in prohibitive overheads. Meanwhile, existing DRAM-based PIMs suffer from poor resource utilization due to the computational pattern of attention layers. Implementing an effective scheduling strategy is equally crucial to harness the potential of the hybrid PIM system. To address these challenges, we present DuoPIM, a novel RRAM-DRAM hybrid PIM architecture optimized for LLM decoding. We introduce novel architectural innovations for both the RRAM and DRAM PIM components to address the challenges posed by LLMs. Specifically, we decouple RRAM’s storage and computing capabilities within a hierarchical architecture, implement minimal modifications to DRAM PIM to support online softmax, and devise dedicated strategies across multiple architectural levels to enhance overall resource utilization. Evaluations demonstrate DuoPIM’s ability to fully leverage computing capacity across various batch sizes."
+  },
+  {
+    "date": "2025-12-25",
+    "title": "Automated Cross-Level Verification for Heterogeneous Systems Using Attribute Recursive Hypergraph and Fault-Tolerant Bus Resolver",
+    "authors": "Keli Long, Fangfa Fu, Defu Hu, Liangquan Qiao, Jinghan Zhou, Jinxiang Wang",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2025.3648654",
+    "source": "IEEE",
+    "abstract": "In the post-Moore era, heterogeneous integrated systems—such as chiplet-based designs—exhibit increasingly complex functional interface interconnections, demanding scalable and accurate verification methods. Traditional manual approaches are time-consuming and error-prone, while mainstream EDA tools lack standardized cross-level models and comprehensive multi-level rule checking. To address these limitations, we propose an automated verification mechanism based on an Attribute Recursive Hypergraph (ARH). The method constructs a five-layer hierarchical mapping network (component → interface → signal cluster → signal → pad) to represent architecture-to-schematic relationships. Verification proceeds in two stages. First, a Fault-Tolerant Bus Resolver (FT-Bus Resolver) applies matrix operations to extract interface structures from pad-netlists and generates a multi-level hypergraph. These structures are compared with system architecture for consistency. Second, a hierarchical rule base, executed by a Rule Executor, validates electrical compatibility and bus-topology constraints across abstraction levels. The implementation integrates a reusable component model library, recursive hypergraph representations, and a rule execution framework, which bridges semantic gaps and supports complex constraint checking. Experiments demonstrate full coverage and 100% correctness for 54 interface-level rules, compared with only one rule supported by commercial EDA tools. Across 7,350 connections and 6,500 injected errors, the framework eliminates all false positives, reduces missed errors by 63%, achieves 1,125×/1,034× speedups for consistency and rule checking, and exhibits near-linear memory growth for scalable deployment. Together, these results demonstrate that the proposed mechanism offers a scalable, robust, and high-coverage solution for cross-level verification in emerging heterogeneous and chiplet-based systems."
+  }
+]

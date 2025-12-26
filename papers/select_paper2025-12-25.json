@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2025-12-23",
+    "title": "NotSoTiny: A Large, Living Benchmark for RTL Code Generation",
+    "authors": "Razine Moundir Ghorab, Emanuele Parisi, Cristian Gutierrez, Miquel Alberti-Binimelis, Miquel Moreto, Dario Garcia-Gasulla, Gokcen Kestor",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.20823v1",
+    "source": "arXiv",
+    "abstract": "LLMs have shown early promise in generating RTL code, yet evaluating their capabilities in realistic setups remains a challenge. So far, RTL benchmarks have been limited in scale, skewed toward trivial designs, offering minimal verification rigor, and remaining vulnerable to data contamination. To overcome these limitations and to push the field forward, this paper introduces NotSoTiny, a benchmark that assesses LLM on the generation of structurally rich and context-aware RTL. Built from hundreds of actual hardware designs produced by the Tiny Tapeout community, our automated pipeline removes duplicates, verifies correctness and periodically incorporates new designs to mitigate contamination, matching Tiny Tapeout release schedule. Evaluation results show that NotSoTiny tasks are more challenging than prior benchmarks, emphasizing its effectiveness in overcoming current limitations of LLMs applied to hardware design, and in guiding the improvement of such promising technology.",
+    "title_zh": "NotSoTiny：用于RTL代码生成的大型动态基准测试",
+    "abstract_zh": "大型语言模型（LLMs）在生成RTL代码方面展现出初步的潜力，但在现实环境中评估其能力仍然是一个挑战。目前，RTL基准测试在规模上有限，偏向于简单设计，验证严格性不足，并容易受到数据污染的影响。为了克服这些限制并推动该领域的发展，本文介绍了NotSoTiny，这是一种评估LLM在生成结构丰富且上下文感知的RTL代码方面的基准测试。该基准测试由Tiny Tapeout社区生产的数百个实际硬件设计构建而成，我们的自动化流程去除了重复项，验证了正确性，并定期加入新设计以减轻污染，匹配Tiny Tapeout的发布计划。评估结果表明，NotSoTiny任务比之前的基准测试更具挑战性，强调了其在克服LLM应用于硬件设计的当前限制方面的有效性，并指导这种有前途技术的改进。"
+  }
+]
