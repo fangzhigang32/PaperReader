@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2025-12-31",
+    "title": "Arithmetic with spatiotemporal optical vortex of integer and fractional topological charges",
+    "authors": "Hsiao-Chih Huang, Chen-Ting Liao, Hui Min Leung",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.25049v1",
+    "source": "arXiv",
+    "abstract": "Spatiotemporal optical vortices carry transverse orbital angular momentum (t-OAM), which give rise to spatiotemporal topological charge (ST-TC). To unleash the full potential of t-OAM in expanding the capacity of communication and computing, we demonstrate the first optical information-processing pipeline capable of performing addition and subtraction on ST-TC values, regardless of whether they are integer or fractional. Additionally, we established a readout method for those mathematical operations through imaging spectral analysis, providing a robust optical basis toward arithmetic operations and verification. These new capabilities mark crucial advancements toward full arithmetic operations on the ST-TC of light for bosonic state computation and information processing."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "Thin Tree Verification is coNP-Complete",
+    "authors": "Alice Moayyedi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.25043v1",
+    "source": "arXiv",
+    "abstract": "An $α$-thin tree $T$ of a graph $G$ is a spanning tree such that every cut of $G$ has at most an $α$ proportion of its edges in $T$. The Thin Tree Conjecture proposes that there exists a function $f$ such that for any $α> 0$, every $f(α)$-edge-connected graph has an $α$-thin tree. Aside from its independent interest, an algorithm which could efficiently construct an $O(1)/k$-thin tree for a given $k$-edge-connected graph would directly lead to an $O(1)$-approximation algorithm for the asymmetric travelling salesman problem (ATSP)(arXiv:0909.2849). However, it was not even known whether it is possible to efficiently verify that a given tree is $α$-thin. We prove that determining the thinness of a tree is coNP-hard."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance",
+    "authors": "Qian'ang Mao, Jiaxin Wang, Ya Liu, Li Zhu, Jiaman Chen, Jiaqi Yan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24888v1",
+    "source": "arXiv",
+    "abstract": "The decentralized architecture of Web3 technologies creates fundamental challenges for Anti-Money Laundering and Counter-Financing of Terrorism compliance. Traditional regulatory technology solutions designed for centralized financial systems prove inadequate for blockchain's transparent yet pseudonymous networks. This systematization examines how blockchain-native RegTech solutions leverage distributed ledger properties to enable novel compliance capabilities. We develop three taxonomies organizing the Web3 RegTech domain: a regulatory paradigm evolution framework across ten dimensions, a compliance protocol taxonomy encompassing five verification layers, and a RegTech lifecycle framework spanning preventive, real-time, and investigative phases. Through analysis of 41 operational commercial platforms and 28 academic prototypes selected from systematic literature review (2015-2025), we demonstrate that Web3 RegTech enables transaction graph analysis, real-time risk assessment, cross-chain analytics, and privacy-preserving verification approaches that are difficult to achieve or less commonly deployed in traditional centralized systems. Our analysis reveals critical gaps between academic innovation and industry deployment, alongside persistent challenges in cross-chain tracking, DeFi interaction analysis, privacy protocol monitoring, and scalability. We synthesize architectural best practices and identify research directions addressing these gaps while respecting Web3's core principles of decentralization, transparency, and user sovereignty."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "On an Erdős--Lov'asz problem: 3-critical 3-graphs of minimum degree 7",
+    "authors": "Ruiliang Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24850v1",
+    "source": "arXiv",
+    "abstract": "Erdős and Lov'asz asked whether there exists a \"3-critical\" 3-uniform hypergraph in which every vertex has degree at least 7. The original formulation does not specify what 3-critical means, and two non-equivalent notions have appeared in the literature and in later discussions of the problem. In this paper we resolve the question under both interpretations. For the transversal interpretation (criticality with respect to the transversal number), we prove that a 3-uniform hypergraph $H$ with $τ(H)=3$ and $τ(H-e)=2$ for every edge $e$ has at most 10 edges; in particular, $δ(H)\\le 6$, and this bound is sharp, witnessed by the complete 3-graph $K^{(3)}_5$. For the chromatic interpretation (criticality with respect to weak vertex-colourings), we give an explicit 3-uniform hypergraph on 9 vertices with $χ(H)=3$ and minimum degree $δ(H)=7$ such that deleting any single edge or any single vertex makes it 2-colourable. The criticality of the example is certified by explicit witness 2-colourings listed in the appendices, together with a short verification script."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "Limits of quantum generative models with classical sampling hardness",
+    "authors": "Sabrina Herbst, Ivona Brandić, Adrián Pérez-Salinas",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24801v1",
+    "source": "arXiv",
+    "abstract": "Sampling tasks have been successful in establishing quantum advantages both in theory and experiments. This has fueled the use of quantum computers for generative modeling to create samples following the probability distribution underlying a given dataset. In particular, the potential to build generative models on classically hard distributions would immediately preclude classical simulability, due to theoretical separations. In this work, we study quantum generative models from the perspective of output distributions, showing that models that anticoncentrate are not trainable on average, including those exhibiting quantum advantage. In contrast, models outputting data from sparse distributions can be trained. We consider special cases to enhance trainability, and observe that this opens the path for classical algorithms for surrogate sampling. This observed trade-off is linked to verification of quantum processes. We conclude that quantum advantage can still be found in generative models, although its source must be distinct from anticoncentration."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "AstroReview: An LLM-driven Multi-Agent Framework for Telescope Proposal Peer Review and Refinement",
+    "authors": "Yutong Wang, Yunxiang Xiao, Yonglin Tian, Junyong Li, Jing Wang, Yisheng Lv",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24754v1",
+    "source": "arXiv",
+    "abstract": "Competitive access to modern observatories has intensified as proposal volumes outpace available telescope time, making timely, consistent, and transparent peer review a critical bottleneck for the advancement of astronomy. Automating parts of this process is therefore both scientifically significant and operationally necessary to ensure fair allocation and reproducible decisions at scale. We present AstroReview, an open-source, agent-based framework that automates proposal review in three stages: (i) novelty and scientific merit, (ii) feasibility and expected yield, and (iii) meta-review and reliability verification. Task isolation and explicit reasoning traces curb hallucinations and improve transparency. Without any domain specific fine tuning, AstroReview used in our experiments only for the last stage, correctly identifies genuinely accepted proposals with an accuracy of 87%. The AstroReview in Action module replicates the review and refinement loop; with its integrated Proposal Authoring Agent, the acceptance rate of revised drafts increases by 66% after two iterations, showing that iterative feedback combined with automated meta-review and reliability verification delivers measurable quality gains. Together, these results point to a practical path toward scalable, auditable, and higher throughput proposal review for resource limited facilities."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "Group Deliberation Oriented Multi-Agent Conversational Model for Complex Reasoning",
+    "authors": "Zheyu Shi, Dong Qiu, Shanlong Yu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24613v1",
+    "source": "arXiv",
+    "abstract": "This paper proposes a group deliberation oriented multi-agent conversational model to address the limitations of single large language models in complex reasoning tasks. The model adopts a three-level role division architecture consisting of generation, verification, and integration. An opinion generation agent produces diverse reasoning perspectives, an evidence verification agent retrieves external knowledge and quantifies factual support, and a consistency arbitration agent integrates logically coherent conclusions. A self-game mechanism is introduced to expand multi-path reasoning trajectories, while a retrieval enhancement module dynamically supplements external knowledge. A composite reward function combining factual consistency and logical coherence is designed, and an improved proximal policy optimization strategy is applied for collaborative training. Experimental results show that the proposed model improves multi-hop reasoning accuracy by 16.8 percent on HotpotQA, 14.3 percent on 2WikiMultihopQA, and 19.2 percent on MeetingBank, while improving consistency by 21.5 percent. The model achieves higher reasoning efficiency than mainstream multi-agent approaches, providing an effective and stable solution for complex reasoning tasks."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "A Tale of 1001 LoC: Potential Runtime Error-Guided Specification Synthesis for Verifying Large-Scale Programs",
+    "authors": "Zhongyi Wang, Tengjie Lin, Mingshuai Chen, Haokun Li, Mingqi Yang, Xiao Yi, Shengchao Qin, Yixing Luo, Xiaofeng Li, Bin Gu, Liqiang Lu, Jianwei Yin",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24594v1",
+    "source": "arXiv",
+    "abstract": "Fully automated verification of large-scale software and hardware systems is arguably the holy grail of formal methods. Large language models (LLMs) have recently demonstrated their potential for enhancing the degree of automation in formal verification by, e.g., generating formal specifications as essential to deductive verification, yet exhibit poor scalability due to long-context reasoning limitations and, more importantly, the difficulty of inferring complex, interprocedural specifications. This paper presents Preguss -- a modular, fine-grained framework for automating the generation and refinement of formal specifications. Preguss synergizes between static analysis and deductive verification by steering two components in a divide-and-conquer fashion: (i) potential runtime error-guided construction and prioritization of verification units, and (ii) LLM-aided synthesis of interprocedural specifications at the unit level. We show that Preguss substantially outperforms state-of-the-art LLM-based approaches and, in particular, it enables highly automated RTE-freeness verification for real-world programs with over a thousand LoC, with a reduction of 80.6%~88.9% human verification effort."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "On Circular Threshold Words and Other Stronger Versions of Dejean's conjecture",
+    "authors": "Igor N. Tunev",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24581v1",
+    "source": "arXiv",
+    "abstract": "Let the root of the word $w$ be the smallest prefix $v$ of $w$ such that $w$ is a prefix of $vvv...$. $per(w)$ is the length of the root of $w$. For any $n\\ge5$, an $n$-ary threshold word is a word $w$ such that for any factor (subword) $v$ of $w$ the condition $\\frac{|v|}{per(v)}\\le\\frac{n}{n-1}$ holds. Dejean conjecture (completely proven in 2009) states for $n\\ge5$ that exists infinitely many of $n$-ary TWs. This manuscript is based on the author's student works (diplomas of 2011 (bachelor's thesis) and 2013 (master's thesis) years) and presents an edited version (in Russian) of these works with some improvements. In a 2011 work proposed new methods of proving of the Dejean conjecture for some odd cases $n\\ge5$, using computer verification in polynomial time (depending on $n$). Moreover, the constructed threshold words (TWs) are ciclic/ring TWs (any cyclic shift is a TW). In the 2013 work, the proof method (of 2011) was improved by reducing the verification conditions. A solution for some even cases $n\\ge6$ is also proposed. A 2013 work also proposed a method to construct stronger TWs, using a TW tree with regular exponential growth. Namely, the TWs, where all long factors have an exponent close to 1."
+  },
+  {
+    "date": "2025-12-31",
+    "title": "Understanding and Steering the Cognitive Behaviors of Reasoning Models at Test-Time",
+    "authors": "Zhenyu Zhang, Xiaoxia Wu, Zhongzhu Zhou, Qingyang Wu, Yineng Zhang, Pragaash Ponnusamy, Harikaran Subbaraj, Jue Wang, Shuaiwen Leon Song, Ben Athiwaratkun",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24574v1",
+    "source": "arXiv",
+    "abstract": "Large Language Models (LLMs) often rely on long chain-of-thought (CoT) reasoning to solve complex tasks. While effective, these trajectories are frequently inefficient, leading to high latency from excessive token generation, or unstable reasoning that alternates between underthinking (shallow, inconsistent steps) and overthinking (repetitive, verbose reasoning). In this work, we study the structure of reasoning trajectories and uncover specialized attention heads that correlate with distinct cognitive behaviors such as verification and backtracking. By lightly intervening on these heads at inference time, we can steer the model away from inefficient modes. Building on this insight, we propose CREST, a training-free method for Cognitive REasoning Steering at Test-time. CREST has two components: (1) an offline calibration step that identifies cognitive heads and derives head-specific steering vectors, and (2) an inference-time procedure that rotates hidden representations to suppress components along those vectors. CREST adaptively suppresses unproductive reasoning behaviors, yielding both higher accuracy and lower computational cost. Across diverse reasoning benchmarks and models, CREST improves accuracy by up to 17.5% while reducing token usage by 37.6%, offering a simple and effective pathway to faster, more reliable LLM reasoning."
+  },
+  {
+    "date": "2025-12-30",
+    "title": "Document Data Matching for Blockchain-Supported Real Estate",
+    "authors": "Henrique Lin, Tiago Dias, Miguel Correia",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24457v1",
+    "source": "arXiv",
+    "abstract": "The real estate sector remains highly dependent on manual document handling and verification, making processes inefficient and prone to fraud. This work presents a system that integrates optical character recognition (OCR), natural language processing (NLP), and verifiable credentials (VCs) to automate document extraction, verification, and management. The approach standardizes heterogeneous document formats into VCs and applies automated data matching to detect inconsistencies, while the blockchain provides a decentralized trust layer that reinforces transparency and integrity. A prototype was developed that comprises (i) an OCR-NLP extraction pipeline trained on synthetic datasets, (ii) a backend for credential issuance and management, and (iii) a frontend supporting issuer, holder, and verifier interactions. Experimental results show that the models achieve competitive accuracy across multiple document types and that the end-to-end pipeline reduces verification time while preserving reliability. The proposed framework demonstrates the potential to streamline real estate transactions, strengthen stakeholder trust, and enable scalable, secure digital processes."
+  },
+  {
+    "date": "2025-12-30",
+    "title": "GateChain: A Blockchain Based Application for Country Entry Exit Registry Management",
+    "authors": "Mohamad Akkad, Hüseyin Bodur",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24416v1",
+    "source": "arXiv",
+    "abstract": "Recording entry and exit records for a country, with properties such as confidentiality, integrity, and auditability, is increasingly important due to rising international mobility and security requirements. Traditional border control systems, which rely on centralised databases, are vulnerable to data manipulation and have limited interoperability between institutions. This study presents GateChain, a blockchain-based application that addresses these vulnerabilities. GateChain aims to enhance data integrity, reliability, and transparency by recording entry and exit events on a distributed, immutable, and cryptographically verifiable ledger. The application provides real-time access control and verification for authorised institutions. This paper describes the architecture and security components of GateChain and evaluates its performance and security features."
+  },
+  {
+    "date": "2025-12-30",
+    "title": "Incremental Certificate Learning for Hybrid Neural Network Verification . A Solver Architecture for Piecewise-Linear Safety Queries",
+    "authors": "Chandrasekhar Gokavarapu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24379v1",
+    "source": "arXiv",
+    "abstract": "Formal verification of deep neural networks is increasingly required in safety-critical domains, yet exact reasoning over piecewise-linear (PWL) activations such as ReLU suffers from a combinatorial explosion of activation patterns. This paper develops a solver-grade methodology centered on \\emph{incremental certificate learning}: we maximize the work performed in a sound linear relaxation (LP propagation, convex-hull constraints, stabilization), and invoke exact PWL reasoning only through a selective \\emph{exactness gate} when relaxations become inconclusive. Our architecture maintains a node-based search state together with a reusable global lemma store and a proof log. Learning occurs in two layers: (i) \\emph{linear lemmas} (cuts) whose validity is justified by checkable certificates, and (ii) \\emph{Boolean conflict clauses} extracted from infeasible guarded cores, enabling DPLL(T)-style pruning across nodes. We present an end-to-end algorithm (ICL-Verifier) and a companion hybrid pipeline (HSRV) combining relaxation pruning, exact checks, and branch-and-bound splitting. We prove soundness, and we state a conditional completeness result under exhaustive splitting for compact domains and PWL operators. Finally, we outline an experimental protocol against standardized benchmarks (VNN-LIB / VNN-COMP) to evaluate pruning effectiveness, learned-lemma reuse, and exact-gate efficiency."
+  },
+  {
+    "date": "2025-12-30",
+    "title": "Proof-Carrying PWL Verification for ReLU Networks: Convex-Hull Semantics, Exact \\SMT/\\MILP Encodings, and Symbolic Certificate Checking",
+    "authors": "Chandrasekhar Gokavarapu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24339v1",
+    "source": "arXiv",
+    "abstract": "ReLU networks are piecewise-linear (PWL), enabling exact symbolic verification via \\SMT(\\LRA) or \\MILP. However, safety claims in certification pipelines require not only correctness but also \\emph{checkable evidence}. We develop a proof-carrying verification core for PWL neural constraints: (i) we formalize ReLU networks as unions of polyhedra indexed by activation patterns; (ii) we present exact \\SMT/\\MILP encodings and the canonical convex-hull relaxation for each bounded ReLU; and (iii) we introduce a certificate calculus in which bound tightening, stabilization, strengthening, and pruning steps emit explicit algebraic witnesses (LP dual multipliers and Farkas infeasibility certificates). Crucially, these witnesses are \\emph{symbolic objects} that admit independent verification in exact arithmetic over $\\Q$. We provide a symbolic certificate checker, normalization rules that preserve validity, and a compositional view of region-wise certificates as a global proof artifact for universal safety."
+  },
+  {
+    "date": "2025-12-30",
+    "title": "Spatial Discretization for Fine-Grain Zone Checks with STARKs",
+    "authors": "Sungmin Lee, Kichang Lee, Gyeongmin Han, JeongGil Ko",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24238v1",
+    "source": "arXiv",
+    "abstract": "Many location-based services rely on a point-in-polygon test (PiP), checking whether a point or a trajectory lies inside a geographic zone. Since geometric operations are expensive in zero-knowledge proofs, privately performing the PiP test is challenging. In this paper, we answer the research questions of how different ways of encoding zones affect accuracy and proof cost by exploiting gridbased lookup tables under a fixed STARK execution model. Beyond a Boolean grid-based baseline that marks cells as in- or outside, we explore a distance-aware encoding approach that stores how far each cell is from a zone boundary and uses interpolation to reason within a cell. Our experiments on real-world data demonstrate that the proposed distance-aware approach achieves higher accuracy on coarse grids (max. 60%p accuracy gain) with only a moderate verification overhead (approximately 1.4x), making zone encoding the key lever for efficient zero-knowledge spatial checks."
+  },
+  {
+    "date": "2025-12-30",
+    "title": "Black hole images as probes of thermodynamic evolution",
+    "authors": "Lei You, Jinsong Yang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24174v1",
+    "source": "arXiv",
+    "abstract": "We investigate how black hole images (shadows and accretion-disk images) encode thermodynamic evolution information across different ensembles, using the Reissner-Nordström-AdS black hole as an illustrative example. Through analytic treatment and numerical verification, we demonstrate that these images encode not only phase transition information but also ensemble information, including additional temperature information in the isothermal ensemble. Phase transition information appears as a sudden increase in image size, which we prove occurs in both isobaric and isothermal ensembles. The ensemble and temperature information originates from a fundamental difference between isobaric and isothermal evolution: image size varies monotonically with the horizon radius along isobars, whereas it exhibits nonmonotonic behavior along isotherms. This contrast serves as a diagnostic tool to distinguish isobaric from isothermal evolution. In the isothermal ensemble, the nonmonotonic behavior introduces an extremal radius whose relative ordering with the small- and large-black hole radii at the phase transition admits three logical possibilities. Our analysis reveals that only two of these possibilities are physically realized, separated by a critical reduced temperature. Furthermore, image evolution in the two resulting temperature intervals exhibits qualitatively differences, demonstrating that black hole images indeed encode temperature information. These results not only enrich the set of observational avenues for probing black hole thermodynamic properties, but also introduce a new paradigm. This paradigm studies phase transitions in conjunction with nonmonotonic evolution, providing a useful framework for exploring thermodynamic imprints in other black hole systems."
+  },
+  {
+    "date": "2025-12-30",
+    "title": "Training Report of TeleChat3-MoE",
+    "authors": "Xinzhang Liu, Chao Wang, Zhihao Yang, Zhuo Jiang, Xuncheng Zhao, Haoran Wang, Lei Li, Dongdong He, Luobin Liu, Kaizhe Yuan, Han Gao, Zihan Wang, Yitong Yao, Sishi Xiong, Wenmin Deng, Haowei He, Kaidong Yu, Yu Zhao, Ruiyu Fang, Yuhao Jiang, Yingyan Li, Xiaohui Hu, Xi Yu, Jingqi Li, Yanwei Liu, Qingli Li, Xinyu Shi, Junhao Niu, Chengnuo Huang, Yao Xiao, Ruiwen Wang, Fengkai Li, Luwen Pu, Kaipeng Jia, Fubei Yao, Yuyao Huang, Xuewei He, Zhuoru Jiang, Ruiting Song, Rui Xue, Qiyi Xie, Jie Zhang, Zilu Huang, Zhaoxi Zhang, Zhilong Lu, Yanhan Zhang, Yin Zhang, Yanlei Xue, Zhu Yuan, Teng Su, Xin Jiang, Shuangyong Song, Yongxiang Li, Xuelong Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24157v1",
+    "source": "arXiv",
+    "abstract": "TeleChat3-MoE is the latest series of TeleChat large language models, featuring a Mixture-of-Experts (MoE) architecture with parameter counts ranging from 105 billion to over one trillion,trained end-to-end on Ascend NPU cluster. This technical report mainly presents the underlying training infrastructure that enables reliable and efficient scaling to frontier model sizes. We detail systematic methodologies for operator-level and end-to-end numerical accuracy verification, ensuring consistency across hardware platforms and distributed parallelism strategies. Furthermore, we introduce a suite of performance optimizations, including interleaved pipeline scheduling, attention-aware data scheduling for long-sequence training,hierarchical and overlapped communication for expert parallelism, and DVM-based operator fusion. A systematic parallelization framework, leveraging analytical estimation and integer linear programming, is also proposed to optimize multi-dimensional parallelism configurations. Additionally, we present methodological approaches to cluster-level optimizations, addressing host- and device-bound bottlenecks during large-scale training tasks. These infrastructure advancements yield significant throughput improvements and near-linear scaling on clusters comprising thousands of devices, providing a robust foundation for large-scale language model development on hardware ecosystems."
+  },
+  {
+    "date": "2025-12-30",
+    "title": "RSAgent: Learning to Reason and Act for Text-Guided Segmentation via Multi-Turn Tool Invocations",
+    "authors": "Xingqi He, Yujie Zhang, Shuyong Gao, Wenjie Li, Lingyi Hong, Mingxi Chen, Kaixun Jiang, Jiyuan Fu, Wenqiang Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.24023v1",
+    "source": "arXiv",
+    "abstract": "Text-guided object segmentation requires both cross-modal reasoning and pixel grounding abilities. Most recent methods treat text-guided segmentation as one-shot grounding, where the model predicts pixel prompts in a single forward pass to drive an external segmentor, which limits verification, refocusing and refinement when initial localization is wrong. To address this limitation, we propose RSAgent, an agentic Multimodal Large Language Model (MLLM) which interleaves reasoning and action for segmentation via multi-turn tool invocations. RSAgent queries a segmentation toolbox, observes visual feedback, and revises its spatial hypothesis using historical observations to re-localize targets and iteratively refine masks. We further build a data pipeline to synthesize multi-turn reasoning segmentation trajectories, and train RSAgent with a two-stage framework: cold-start supervised fine-tuning followed by agentic reinforcement learning with fine-grained, task-specific rewards. Extensive experiments show that RSAgent achieves a zero-shot performance of 66.5% gIoU on ReasonSeg test, improving over Seg-Zero-7B by 9%, and reaches 81.5% cIoU on RefCOCOg, demonstrating state-of-the-art performance on both in-domain and out-of-domain benchmarks."
+  },
+  {
+    "date": "2025-12-29",
+    "title": "Decoherence as detector of the Unruh effect, II",
+    "authors": "Manuel de Atocha Rodríguez Fernández, Alexander I. Nesterov, Gennady P. Berman, C. Moreno-González",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.23888v1",
+    "source": "arXiv",
+    "abstract": "The Unruh effect remains a central topic in quantum field theory, although its direct experimental verification continues to be challenging. Recent efforts have therefore focused on indirect detection strategies in which the Unruh effect emerges through measurable physical processes. In this work, we extend a previously introduced detector model, originally formulated for a massless scalar field, to the electromagnetic field. We show that the decoherence decay rates differ between inertial and accelerated frames. Furthermore, we demonstrate that the characteristic exponential decay associated with the Unruh effect can be observed at lower accelerations than those considered in earlier studies."
+  },
+  {
+    "date": "2025-12-29",
+    "title": "The Drill-Down and Fabricate Test (DDFT): A Protocol for Measuring Epistemic Robustness in Language Models",
+    "authors": "Rahul Baxi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2512.23850v1",
+    "source": "arXiv",
+    "abstract": "Current language model evaluations measure what models know under ideal conditions but not how robustly they know it under realistic stress. Static benchmarks like MMLU and TruthfulQA cannot distinguish a model that lacks knowledge from one whose verification mechanisms collapse when information degrades or adversaries probe for weaknesses. We introduce the Drill-Down and Fabricate Test (DDFT), a protocol that measures epistemic robustness: a model's ability to maintain factual accuracy under progressive semantic compression and adversarial fabrication. We propose a two-system cognitive model comprising a Semantic System that generates fluent text and an Epistemic Verifier that validates factual accuracy. Our findings, based on evaluating 9 frontier models across 8 knowledge domains at 5 compression levels (1,800 turn-level evaluations), reveal that epistemic robustness is orthogonal to conventional design paradigms. Neither parameter count (r=0.083, p=0.832) nor architectural type (r=0.153, p=0.695) significantly predicts robustness, suggesting it emerges from training methodology and verification mechanisms distinct from current approaches. Error detection capability strongly predicts overall robustness (rho=-0.817, p=0.007), indicating this is the critical bottleneck. We find that flagship models exhibit brittleness despite their scale, while smaller models can achieve robust performance, challenging assumptions about the relationship between model size and reliability. The DDFT framework provides both theoretical foundation and practical tools for assessing epistemic robustness before deployment in critical applications."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Door-to-Floor: LLM-Driven Floorplan Reconstruction from 3D LiDAR Scans",
+    "authors": "Dawei Liu, Dongcheng Zhou, Huaixun Zhang, Wenxu Yan, Wenyuan Wang",
+    "publish": "IEEE Signal Processing Letters",
+    "url": "https://doi.org/10.1109/lsp.2025.3650441",
+    "source": "IEEE",
+    "abstract": "Floorplan reconstruction captures the structure and layout of a three-dimensional space, which is essential for numerous applications such as robot localization, indoor navigation, and path planning. In recent years, with the continuous development of large language models, some models have been trained to reconstruct indoor environment structures. However, a major limitation of these models is their capability to address only small-scale, room-level scenes, making it challenging to cope with large-scale scenes at the floor level. To address this challenge, we introduce a hierarchical spatial segmentation method based on door frame recognition. By identifying door frames, large-scale floor scenes are divided into multiple small and regular rooms. Subsequently, semantic inference is applied to each subspace using a large language model, thereby achieving an accurate floorplan reconstruction. This approach overcomes the limitation of current large language models, which are restricted to handling small, room-level scenarios. We conducted an experiment on door frame recognition within a complex, large-scale environment containing nine door frames. The method successfully detected all the door frames, which allowed the precise division of the entire space into nine distinct rooms. Additionally, our floorplan reconstruction method is tested on both public and self-collected datasets, showing a 56.3% improvement over state-of-the-art (SOTA) methods."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Enhancing Abnormal Network Traffic Detection via Efficient Data Generation Leveraging LLM",
+    "authors": "Changming Li, Zejun Xu, Qiufan Ji, Fan Yang, Cong Shi, Michael DeLucia, Yingying Chen",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11310724",
+    "source": "IEEE",
+    "abstract": "Network attacks (e.g., distributed denial of service (DDoS), worms, and botnets) have become serious threats to the Internet. To mitigate these threats, network systems increasingly utilize machine learning (ML) models to analyze network traffic (e.g., packet rates and traffic volumes), detecting anomalies related to attacks. However, these ML-based methods normally fail to detect multi-vector attacks, where a single malicious network traffic simultaneously exhibits multiple attack characteristics. The key bottleneck is that the network traffic datasets are predominantly single-vector (i.e., one attack type per traffic). In this paper, we design a novel framework that can generate diverse multi-label datasets to facilitate attack detection by only leveraging existing single-vector datasets. The key idea is to leverage large language models (LLMs) to interpret the single-vector network traffic, learning the underlying statistical characteristics of each individual attack. Through advanced prompt engineering, our framework can generate network traffic exhibiting the statistical characteristics of real-world multi-vector attacks. Extensive experiments on both public and self-collected datasets show that the generated network traffic can build ML models for effective multi-vector attack detection."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "OmniRouter: Budget and Performance Controllable Multi-LLM Routing",
+    "authors": "Kai Mei, Wujiang Xu, Minghao Guo, Shuhang Lin, Yongfeng Zhang",
+    "publish": "ACM SIGKDD Explorations Newsletter",
+    "url": "https://doi.org/10.1145/3787470.3787480",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Constrained Edge AI Deployment: Fine-Tuning vs. Distillation for LLM Compression",
+    "authors": "Jacob Sander, David Moe, Achraf Cohen, Brian Jalaian, Brent Venable, Venkat R. Dasari",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11310502",
+    "source": "IEEE",
+    "abstract": "Modern foundational models are often compressed via a combination of structured pruning and re-training to meet the strict compute, memory, and connectivity constraints of edge deployments. While state-of-the-art (SoTA) pruning schemes target the entire Transformer, we adopt a simple, layer-wise L<inf xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">2</inf>-norm pruning on only the multi-layer perceptron (MLP) blocks as a fixed baseline. Our focus is not on achieving maximal compression, but on isolating the impact of the re-training loss function: (i) L2-norm Pruning with Cross-Entropy Fine-Tuning (L2PFT), which relies on labeled data, versus (ii) L2-norm Pruning with KL-Divergence Self-Distillation (L2PSD), which utilizes only teacher logits without requiring labeled data. We evaluate both pipelines on the OLMo2-7B-SFT model for CommonsenseQA, suitable for intermittent or denied connectivity scenarios typical of edge networks. Under identical pruning schedules, L2PSD achieves comparable or superior test accuracy to L2PFT, indicating that the choice of loss function has a significant impact on compressed model recovery in resource-constrained environments."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Slice-MCP — Fine-Tuned Llama-4 LLM and MCP Enabled 5G Network Slice Orchestration Platform",
+    "authors": "Eranga Bandara, Safdar H. Bouk, Ravi Mukkamala, Abdul Rahman, Xueping Liang, Ross Gore, Sachin Shetty",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11310417",
+    "source": "IEEE",
+    "abstract": "5G network slicing presents a transformative approach to deliver customizable, isolated virtual networks over shared infrastructure, tailored to meet diverse application requirements such as ultra-low latency, high reliability, or massive connectivity. However, orchestrating these network slices dynamically and efficiently remains a complex challenge due to the need for precise configuration, real-time responsiveness, and seamless coordination across heterogeneous domains (radio access network, core, and transport). In this paper, we present Slice-MCP, a novel 5G network slice orchestration platform that integrates the Model Context Protocol (MCP) with a fine-tuned Meta’s Llama-4 large language model (LLM) to simplify and automate the slice orchestration process. Slice-MCP allows users to invoke natural language queries which are interpreted by the fine-tuned LLM and mapped to the corresponding MCP functions to configure and deploy the appropriate network slices. To ensure accurate intent recognition and robust function mapping, the LLM was fine-tuned on a custom dataset comprising real-world user intents paired with their corresponding MCP server operations. The integration of MCP provides a standardized interface for dynamic context management, enabling a consistent and extensible way to translate high-level user goals into orchestrator-level instructions across network domains. To the best of our knowledge, this is the first work to apply the MCP for 5G network slice orchestration, merging AI-driven natural language interaction with telecom-grade infrastructure management. The effectiveness of the Slice-MCP is demonstrated through a real-world test-bed deployment in a sliced network scenario, utilizing multiple 5G cores (i.e., Open5GS) across Ericsson’s new RAN. Our results demonstrate that Slice-MCP significantly reduces the operational complexity of 5G slice management while enhancing responsiveness, scalability, and user accessibility."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "PFSM: LLM-Guided Peripheral Modeling via Executable Finite-State Semantics",
+    "authors": "Yaxin Liu, Chuan Qin, Zhanwei Song, Senming Yan, Shichao Lv, Dongliang Fang, Weidong Zhang, Limin Sun",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11309963",
+    "source": "IEEE",
+    "abstract": "Faithful and robust firmware emulation is critical for large-scale security analysis of embedded systems. A key challenge in this area lies in modeling diverse and undocumented peripheral behaviors without access to actual hardware. Existing approaches such as SEmu rely on extracting behavioral semantics from MCU manuals using traditional NLP techniques. However, these rule-based systems are fragile, often suffering from incomplete coverage and semantic ambiguity in the chip documentation.In this paper, we propose a novel framework that replace traditional NLP-based rule extraction with a semantics-aware modeling powered by large language models (LLMs). Leveraging pretrained models and precise prompt engineering, our method directly interprets peripheral behavior from natural language specifications and compiles it into Peripheral Finite State Machines (PFSMs)—dynamic, state-aware models designed for firmware emulation. This design provides significantly higher fidelity in reproducing hardware behavior, minimizes manual rule engineering, and enhances the effectiveness of fuzzing procedures. We implement and evaluate PFSM on a diverse set of STM32 and NXP firmware samples. Compared to SEmu, our system passes all 66 benchmark unit tests (vs. 96.97%), and extracts up to 22% more valid semantic rules, over 99.6% of which require no manual correction. In fuzzing experiments, PFSM consistently improves basic block (BB) coverage and identifies a greater number of unique crashes. These results confirm that our framework establishes a more robust and scalable foundation for dynamic firmware analysis and peripheral modeling."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "AutoOptiCode-LLM: An Autonomous Large Language Model Framework for Intelligent Code Generation and Optimization",
+    "authors": "Purushotham Endla, Jayendra Gopal Thatipudi, Madhavi Latha Talluri, Pradeep K Joshi, Amita Joshi, M.Anuradha",
+    "publish": "2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+    "url": "https://doi.org/10.1109/icicnis66685.2025.11315793",
+    "source": "IEEE",
+    "abstract": "The growing demand for rapid, high-quality software development has intensified the need for intelligent automation in code generation and optimization. This paper presents an autonomous large language model (LLM) framework that integrates context-aware prompt engineering, multi-stage optimization, and a self-healing correction loop to produce efficient, reliable, and maintainable code with minimal human intervention. The system begins by analyzing functional and non-functional requirements, translating them into a structured context vector to guide the LLM. It then dynamically refines prompts based on real-time feedback, ensuring progressive improvement in output quality. Generated code undergoes automated syntax and semantic validation, followed by a multi-stage optimization pipeline targeting algorithmic efficiency, memory utilization, and compiler-level enhancements. A hybrid execution simulation, combining symbolic and sandboxed testing, further validates robustness and performance. Experimental evaluation across diverse programming tasks demonstrated significant performance improvements over baseline LLM code generation. The proposed framework achieved an average accuracy of 96.6% in hybrid execution reliability, with error rate reductions exceeding 61%, execution time improvements averaging 24%, and code quality scores improving by ~16%. These results confirm that the integration of adaptive prompt engineering and iterative optimization enables autonomous, high-accuracy code generation suitable for real-world applications. The framework’s adaptability positions it as a transformative solution for domains requiring both speed and quality in software development."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Agentic AI for Cyber Defense: LLM-Guided Hierarchical Multi-Agent Reinforcement Learning",
+    "authors": "Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11310253",
+    "source": "IEEE",
+    "abstract": "In cyber defense, agentic AI in the form of distributed multi-agent teams must rapidly adapt to evolving threats across dynamic network environments. Hierarchical Reinforcement Learning (HRL) mitigates sample complexity by decomposing complex objectives into simpler subskills, yet handcrafting these skills and their intrinsic rewards remains expertise-dependent and resource-intensive. We introduce a novel agentic AI framework that harnesses the task decomposition and planning capabilities of Large Language Models (LLMs) to automate both skill discovery and reward shaping within HRL. By prompting an LLM to identify semantically meaningful skills and craft corresponding intrinsic reward functions, our method significantly reduces manual engineering effort. We validate our approach in CAGE Challenge 4, a Multi-Agent Reinforcement Learning (MARL) cybersecurity environment, showing that our LLM-guided hierarchical policy achieves faster convergence and improved performance in cyber defense relative to flat MARL baselines. These results underscore the potential of integrating agentic AI into multi-agent HRL for scalable, interpretable, and efficient cyber-defense."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Demo: SPOT – SRv6-Based Proof of Transit for Network Path Verification",
+    "authors": "Luigi Iannone, Antoine Fressancourt",
+    "publish": "2025 4th International Conference on 6G Networking (6GNet)",
+    "url": "https://doi.org/10.1109/6gnet68413.2025.11314131",
+    "source": "IEEE",
+    "abstract": "Technologies such as SRv6 enable Traffic Engineering (TE) by directing IPv6 traffic along specific paths. However, IP itself lacks a built-in mechanism to verify whether packets actually follow their designated route. This paper shows a simple solution based on the Segment Routing Header (SRH), which provides a cryptographic Proof of Transit (PoT) across the different segments. With this mechanism, it becomes possible for the egress to confirm whether a packet has traversed the segments specified in its SRH, and in the correct order."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "PAVE++ Demo: Cross-Layer Formal Verification and OTA Validation for UAV Communications",
+    "authors": "Tom Wray, Ying Wang",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11310334",
+    "source": "IEEE",
+    "abstract": "This demonstration presents an interactive showcase of the Prompt Aided Formal Verification (PAVE) framework applied to MAVLink 2, emphasizing practical and visual verification processes. Attendees will experience real-time demonstrations including: automatic translation of natural language protocol specifications into symbolic verification models using Large Language Models (LLMs); visual state-machine verification via nuXmv and ProVerif; simulated cyber-attacks on the Damn Vulnerable Drone (DVD) platform; and over-the-air (OTA) security validation using a physical PX4-based drone. Participants will directly observe MAVLink 2 vulnerabilities being exploited and immediately mitigated through ChaCha20 encryption. The demonstration underscores the effectiveness of combining symbolic verification with practical cryptographic protections, providing a clear and compelling methodology for ensuring secure UAV communication in contested operational scenarios."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "PAVE-MAVLink: Formal Verification of MAVLink 2 for Secure UAV Communications",
+    "authors": "Tom Wray, Ying Wang",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11310743",
+    "source": "IEEE",
+    "abstract": "This work presents a multi-stage, Large Language Model(LLM)-accelerated framework for formal verification and security validation of UAV communication protocols, focusing on MAVLink 2. We introduce a prompt-driven approach to automatically generate symbolic models for nuXmv and ProVerif, allowing rapid identification and mitigation of protocol vulnerabilities. Experimental results demonstrate that, without cryptographic protections, MAVLink 2 is susceptible to critical command injection attacks, validated through symbolic model checking, software-defined drone simulation, and over-the-air (OTA) testing on physical UAVs. Incorporating ChaCha20 based encryption eliminates these vulnerabilities, as confirmed by formal analysis and empirical validation. These findings illustrate the effectiveness and flexibility of LLM assisted workflows like Prompt Aided Formal Verification (PAVE) while providing a platform for robust cryptographic extensions in advancing UAV protocol security."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Design of a Cross-Platform Simulation and Verification System for Complex Onboard Control Computers",
+    "authors": "Zheng Yang, Shenglong Li, Chaofan Zhou",
+    "publish": "2025 10th International Conference on Integrated Circuits and Microsystems (ICICM)",
+    "url": "https://doi.org/10.1109/icicm66614.2025.11316043",
+    "source": "IEEE",
+    "abstract": "With the growing complexity of modern engineering design, simulation technologies have come to play a pivotal role in the research and development lifecycle. The digital twin simulation platform for onboard control computers provides a comprehensive virtual verification environment for complex spaceborne electronic systems through the integration of multidimensional technologies. This study proposes a crossplatform simulation and verification system for onboard control computers, which integrates a CPU instruction-level simulator, an extensible C++-based user control software, a Simulink-Cadence co-modeling architecture, and an FPGA hardware-in-the-loop acceleration module, thereby establishing a closed-loop simulation framework spanning from algorithm design to hardware implementation. The CPU simulator supports cycle-accurate emulation of multicore architectures, while the C++ control layer enables dynamic parameter adjustment and real-time data visualization, effectively bridging system-level design and lowlevel hardware verification requirements. By interfacing computer simulations with physical hardware and leveraging hardware acceleration, the system achieves orders-of-magnitude improvements in simulation speed. This platform provides a holistic, real-time, system-level verification environment by synergizing diverse simulation tools and hardware platforms."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Unifying Generative and Classification-Based Relation Extraction via MCTS for nextG Protocol Formal Verification",
+    "authors": "Jingda Yang, Paul Ratazzi, Ying Wang",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11310239",
+    "source": "IEEE",
+    "abstract": "Formal verification of domain-specific protocols, such as 5G RRC and emerging defense communication standards, is essential for ensuring system reliability. However, automated extraction of formal relationships remains challenging due to limited annotations, evolving terminology, and out-of-vocabulary (OOV) conditions. We propose a unified framework that integrates classification and generative models using Monte Carlo Tree Search (MCTS) as a search controller. MCTS navigates a hybrid search tree where classification (CAL) and generation (REBEL) correspond to orthogonal expansion paths, with a learned reward model guiding which reasoning strategy to apply at each step. This unified search structure enables the framework to balance the contextual flexibility of generative expansions with the precision of classification-based inferences. A reinforcement learning–based reward model estimates the utility of candidate actions during simulation and guides value propagation throughout the MCTS tree, enabling robust extraction under low-resource and OOV conditions. Experimental results on the 5G RRC dataset show that our MCTS-based method achieves 97.2% accuracy in in-vocabulary settings and 91.2% in OOV scenarios outperforming REBEL and CAL. These results highlight the potential of reward-guided hybrid search to improve scalable, interpretable formal verification pipelines in mission-critical environments."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Enhancing Sentiment Analysis and Topic Modeling with a Hybrid Data Verification and Refinement Framework",
+    "authors": "B. Karthick, T. Meyyappan",
+    "publish": "2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+    "url": "https://doi.org/10.1109/icicnis66685.2025.11315529",
+    "source": "IEEE",
+    "abstract": "This paper introduces the Hybrid Data Verification and Refinement (HDVR) Framework, a novel approach to enhancing data quality in social media analytics by integrating probabilistic modeling with rule-based data refinement. The HDVR framework employs Bayesian inference for anomaly detection and weighted rule-based heuristics for refining data, ensuring improved accuracy, consistency, and completeness in large-scale social media datasets. A comprehensive evaluation was conducted using a publicly available Twitter dataset, demonstrating the framework’s effectiveness in mitigating noise, bias, and missing values. The results indicate that HDVR improves data completeness by 25%, reduces bias by 30%, and enhances classification accuracy by 15% compared to traditional machine learning models such as Naïve Bayes and Decision Trees. Additionally, a comparative analysis with existing sentiment analysis techniques highlights HDVR’s superior data reliability and error reduction capabilities. The framework’s scalability was evident in its ability to process 100,000 social media records in just 35.8 seconds, making it highly suitable for real-time social media monitoring and business intelligence applications. This research provides a structured, adaptable, and efficient data refinement strategy, enabling more reliable social media analytics for improved decision-making in digital marketing, public opinion analysis, and business intelligence. Future work will explore the integration of deep learning techniques for further refinement and extend HDVR’s applicability to various social media platforms for broader validation."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Secure Attribute-based Hybrid Blockchain–Deep Learning Framework for Cloud Data Verification",
+    "authors": "Ratna Raju Mukiri, Kommana Lavanya, S. Amarnath Babu",
+    "publish": "2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+    "url": "https://doi.org/10.1109/icicnis66685.2025.11315756",
+    "source": "IEEE",
+    "abstract": "Instead of depending on on-premises infrastructure, users of cloud computing can use network servers through the Internet to process, store, and organise data. Cloud Data Verification is a significant difficulty since, although it enables flexibility, it also raises substantial concerns about data quality and security because it operates on decentralised networks over standard Internet protocols. This process have looked into data preparation tactics in large data mining and tried traditional methods like encryption and decryption, however there are still limits. In order to tackle this, they provide a feature extraction approach that combines a hybrid deep learning framework with UFKLDA. The model is designed for Cloud Data Verification and incorporates a RNN for temporal regression and a CNN for spatial feature extraction. The result is a robust hybrid model. This method outperforms several traditional models, according to experimental data, which provide an astounding accuracy of 98.27%. These results highlight the need for cloud security practices to incorporate sophisticated machine learning techniques. Finally, for Cloud Data Verification, the suggested CNN-RNN hybrid model is an excellent and trustworthy option, and it has great promise for improving data integrity in distributed cloud settings."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Formal Verification of Autonomous Cyber Defense for Abstraction of Critical Network Scenarios",
+    "authors": "Samy Meziane, Laurin Holz, Tobias Hürten, Johannes Loevenich, Thies Möhlenhof, Roberto Rigolin F Lopes",
+    "publish": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+    "url": "https://doi.org/10.1109/milcom64451.2025.11310002",
+    "source": "IEEE",
+    "abstract": "Autonomous Cyber Defense (ACD) systems require formal guarantees to ensure their reliability and effectiveness in protecting critical network infrastructures. This paper presents a formal verification approach for an abstraction of the Cyber Autonomy Gym for Experimentation (CAGE) Challenge 4 cybersecurity scenario using probabilistic model checking with Probabilistic Symbolic Model Checker (PRISM). We develop a comprehensive multi-zone enterprise network model that captures red-team attack strategies, cross-zone infiltration, and defensive mechanisms. Due to computational complexity and state explosion challenges, we implement a curriculum learning approach, starting with red-only agent models to understand attack behaviors before progressing to adversarial blue-red scenarios. Our methodology aims to prove the feasibility of formal verification for autonomous cyber defense validation, providing probabilistic guarantees for network security properties and establishing a foundation for future multi-agent formal verification frameworks. Our results demonstrate over eight selected scenarios that near-optimal blue policies achieve perfect service degradation prevention while revealing fundamental scalability limits with state spaces growing exponentially from a single-zone model to complete multi-zone scenarios."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "Design for Hardware Acceleration of Signature Verification in PQC Stateless Hash-Based Digital Signature Algorithm",
+    "authors": "Haoran Liu, Liji Wu, Lei Li, Yifan Yang, Xiangmin Zhang",
+    "publish": "2025 10th International Conference on Integrated Circuits and Microsystems (ICICM)",
+    "url": "https://doi.org/10.1109/icicm66614.2025.11315981",
+    "source": "IEEE",
+    "abstract": "A hardware design of SLH-DSA signature verification is proposed for efficient deployment in post-quantum cryptographic systems. Based on the SPHINCS<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">+</sup> framework selected by NIST, the architecture utilizes FORS and WOTS<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">+</sup> schemes with SHA-256 to achieve stateless operation and quantum resistance. The verification pipeline integrates message hashing, signature decoding, public key reconstruction, and Merkle root validation, implemented through a pipelined and FSM-controlled data-path. Synthesized on an Intel Cyclone IV EP4CE115 FPGA, the design achieves a latency of 1.854 ms and supports a throughput of $\\mathbf{8 3 9}$ verifications per second at $\\mathbf{1 0 0 ~ M H z}$. Postsynthesis power analysis reports 32.4 mW dynamic core power and an energy cost of $60.08 \\mu \\mathrm{~J}$ per verification. The fully self-contained architecture eliminates the need for external processors and offers a scalable, low-power solution for embedded postquantum applications. The results confirm both functional correctness and practical efficiency, making it suitable for real-world deployment."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "VCIL: An Open-Source Pipeline-Tight HIL Framework for Cycle-Accurate RISC-V Coprocessor Verification",
+    "authors": "Xian Lin, Xin Zheng, Zhixin Fan, Huaien Gao, Shuting Cai, Xiaoming Xiong",
+    "publish": "2025 10th International Conference on Integrated Circuits and Microsystems (ICICM)",
+    "url": "https://doi.org/10.1109/icicm66614.2025.11315960",
+    "source": "IEEE",
+    "abstract": "The open-source RISC-V instruction set architecture (ISA) enables custom instructions to implement coprocessors, which requires higher verification speed and timing accuracy. However, most existing hardware-in-the-loop (HIL) approaches fail to meet these. To this end, this brief proposes Virtual-Coprocessor-in-the-Loop (VCIL), a pipeline-tight HIL framework for cycle-accurate RISC-V coprocessor verification. It bypasses the TLM2.0 bus and tightly couples the coprocessor to the pipeline via UART, which reduces transmissions and improves simulation speed. Additionally, a timing dynamic calibration method is introduced to enhance timing accuracy and enable early detection of timing violations. Compared to the state-of-the-art Virtual-Peripheral-in-the-Loop (VPIL) framework, VCIL improves simulation speed by $4.8 \\times$ and reduces timing errors by 35.9%. Experiments conducted on the SM3/SM4 coprocessor demonstrate that VCIL reduces verification time by 53.4%, and the timing error is only 3.5% compared to the RTL full-system. Our code will be available at https://github.com/LX-IC/VCIL."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "NEXERA: A Unified Smart Education Platform With AI-based Bus Attendance Verification, Tracking and Academic Monitoring",
+    "authors": "Sandhiya S, Swathi B, Thrishalini S P, Varshini J, Sudha J",
+    "publish": "2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+    "url": "https://doi.org/10.1109/icicnis66685.2025.11315724",
+    "source": "IEEE",
+    "abstract": "Educational institutions increasingly rely on digital platforms to manage academic activities and transport operations. However, most systems operate in isolation, leading to fragmented data, manual workload, and limited safety mechanisms. This paper presents NEXERA, an integrated smart education platform that unifies AI-enabled bus attendance verification, IoT-based GPS tracking, and cloud-driven academic management. The system incorporates GPS modules and QR-based identification to accurately log student boarding and de-boarding events while transmitting live geolocation data through a cloud server. AI models detect route deviations and inconsistent boarding patterns to enhance travel safety. In parallel, NEXERA provides modular web portals for students, teachers, parents, and administrators to access academic records, fee details, attendance analytics, performance dashboards, and alerts. Experimental evaluation confirms 98% QR-scan accuracy, 10-second GPS update latency, and major reductions in manual data processing. The platform demonstrates significant potential in modernizing institutional workflows while ensuring student safety, transparency, and data-driven decision-making."
+  },
+  {
+    "date": "2026-1-1",
+    "title": "BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving",
+    "authors": "Wanyi Zheng, Minxian Xu, Shengye Song, Kejiang Ye",
+    "publish": "2025 IEEE International Conferences on Internet of Things (iThings) IEEE Green Computing &amp;amp; Communications (GreenCom) IEEE Cyber, Physical &amp;amp; Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)",
+    "url": "https://doi.org/10.1109/ithings-greencom-cpscom-smartdata-cybermatics67059.2025.00041",
+    "source": "IEEE",
+    "abstract": "Large language models (LLMs) have become increasingly popular in various areas, traditional business gradually shifting from rule-based systems to LLM-based solutions. However, the inference of LLMs is resource-intensive or latencysensitive, posing significant challenges for serving systems. Existing LLM serving systems often use static or continuous batching strategies, which can lead to inefficient GPU memory utilization and increased latency, especially under heterogeneous workloads. These methods may also struggle to adapt to dynamic workload fluctuations, resulting in suboptimal throughput and potential service level objective (SLO) violations. In this paper, we introduce BucketServe, a bucket-based dynamic batching framework designed to optimize LLM inference performance. By grouping requests into buckets with homogeneous sizes based on sequence length, BucketServe minimizes padding overhead and optimizes GPU memory usage through real-time batch size adjustments preventing out-of-memory (OOM) errors. It introduces adaptive bucket splitting/merging and priority aware scheduling to mitigate resource fragmentation and ensure SLO compliance. Experiment shows that BucketServe significantly outperforms UELLM in throughput, achieving up to <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$3.58 \\times$</tex> improvement. It can also handle <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$1.93 \\times$</tex> more request load under the SLO attainment of 80 % compared with DistServe and demonstrates <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$1.975 \\times$</tex> higher system load capacity compared to the UELLM."
+  }
+]
