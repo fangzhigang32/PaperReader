@@ -1,0 +1,263 @@
+[
+  {
+    "date": "2026-01-08",
+    "title": "Multi-Scale Local Speculative Decoding for Image Generation",
+    "authors": "Elia Peruzzo, Guillaume Sautière, Amirhossein Habibian",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05149v1",
+    "source": "arXiv",
+    "abstract": "Autoregressive (AR) models have achieved remarkable success in image synthesis, yet their sequential nature imposes significant latency constraints. Speculative Decoding offers a promising avenue for acceleration, but existing approaches are limited by token-level ambiguity and lack of spatial awareness. In this work, we introduce Multi-Scale Local Speculative Decoding (MuLo-SD), a novel framework that combines multi-resolution drafting with spatially informed verification to accelerate AR image generation. Our method leverages a low-resolution drafter paired with learned up-samplers to propose candidate image tokens, which are then verified in parallel by a high-resolution target model. Crucially, we incorporate a local rejection and resampling mechanism, enabling efficient correction of draft errors by focusing on spatial neighborhoods rather than raster-scan resampling after the first rejection. We demonstrate that MuLo-SD achieves substantial speedups - up to $\\mathbf{1.7\\times}$ - outperforming strong speculative decoding baselines such as EAGLE-2 and LANTERN in terms of acceleration, while maintaining comparable semantic alignment and perceptual quality. These results are validated using GenEval, DPG-Bench, and FID/HPSv2 on the MS-COCO 5k validation split. Extensive ablations highlight the impact of up-sampling design, probability pooling, and local rejection and resampling with neighborhood expansion. Our approach sets a new state-of-the-art in speculative decoding for image synthesis, bridging the gap between efficiency and fidelity."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Agent-as-a-Judge",
+    "authors": "Runyang You, Hongru Cai, Caiqi Zhang, Qiancheng Xu, Meng Liu, Tiezheng Yu, Yongqi Li, Wenjie Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05111v1",
+    "source": "arXiv",
+    "abstract": "LLM-as-a-Judge has revolutionized AI evaluation by leveraging large language models for scalable assessments. However, as evaluands become increasingly complex, specialized, and multi-step, the reliability of LLM-as-a-Judge has become constrained by inherent biases, shallow single-pass reasoning, and the inability to verify assessments against real-world observations. This has catalyzed the transition to Agent-as-a-Judge, where agentic judges employ planning, tool-augmented verification, multi-agent collaboration, and persistent memory to enable more robust, verifiable, and nuanced evaluations. Despite the rapid proliferation of agentic evaluation systems, the field lacks a unified framework to navigate this shifting landscape. To bridge this gap, we present the first comprehensive survey tracing this evolution. Specifically, we identify key dimensions that characterize this paradigm shift and establish a developmental taxonomy. We organize core methodologies and survey applications across general and professional domains. Furthermore, we analyze frontier challenges and identify promising research directions, ultimately providing a clear roadmap for the next generation of agentic evaluation."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts",
+    "authors": "Wenhao Zeng, Xuteng Zhang, Yuling Shi, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05110v1",
+    "source": "arXiv",
+    "abstract": "Large Reasoning Models (LRMs) achieve remarkable performance by explicitly generating multi-step chains of thought, but this capability incurs substantial inference latency and computational cost. Collaborative inference offers a promising solution by selectively allocating work between lightweight and large models, yet a fundamental challenge remains: determining when a reasoning step requires the capacity of a large model or the efficiency of a small model. Existing routing strategies either rely on local token probabilities or post-hoc verification, introducing significant inference overhead. In this work, we propose a novel perspective on step-wise collaboration: the difficulty of a reasoning step can be inferred from its very first token. Inspired by the \"Aha Moment\" phenomenon in LRMs, we show that the entropy of the initial token serves as a strong predictor of step difficulty. Building on this insight, we introduce GlimpRouter, a training-free step-wise collaboration framework. GlimpRouter employs a lightweight model to generate only the first token of each reasoning step and routes the step to a larger model only when the initial token entropy exceeds a threshold. Experiments on multiple benchmarks demonstrate that our approach significantly reduces inference latency while preserving accuracy. For instance, GlimpRouter attains a substantial 10.7% improvement in accuracy while reducing inference latency by 25.9% compared to a standalone large model on AIME25. These results suggest a simple yet effective mechanism for reasoning: allocating computation based on a glimpse of thought rather than full-step evaluation."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Milestones over Outcome: Unlocking Geometric Reasoning with Sub-Goal Verifiable Reward",
+    "authors": "Jianlong Chen, Daocheng Fu, Shengze Xu, Jiawei Chen, Yuan Feng, Yue Yang, Junchi Yan, Hongyuan Zha, Renqiu Xia",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05073v1",
+    "source": "arXiv",
+    "abstract": "Multimodal Large Language Models (MLLMs) struggle with complex geometric reasoning, largely because \"black box\" outcome-based supervision fails to distinguish between lucky guesses and rigorous deduction. To address this, we introduce a paradigm shift towards subgoal-level evaluation and learning. We first construct GeoGoal, a benchmark synthesized via a rigorous formal verification data engine, which converts abstract proofs into verifiable numeric subgoals. This structure reveals a critical divergence between reasoning quality and outcome accuracy. Leveraging this, we propose the Sub-Goal Verifiable Reward (SGVR) framework, which replaces sparse signals with dense rewards based on the Skeleton Rate. Experiments demonstrate that SGVR not only enhances geometric performance (+9.7%) but also exhibits strong generalization, transferring gains to general math (+8.0%) and other general reasoning tasks (+2.8%), demonstrating broad applicability across diverse domains."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning",
+    "authors": "Minda Hu, Zexuan Qiu, Zenan Xu, Kun Li, Bo Zhou, Irwin King",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04973v1",
+    "source": "arXiv",
+    "abstract": "Recent breakthroughs in Large Reasoning Models (LRMs) have demonstrated that extensive Chain-of-Thought (CoT) generation is critical for enabling intricate cognitive behaviors, such as self-verification and backtracking, to solve complex tasks. However, this capability often leads to ``overthinking'', where models generate redundant reasoning paths that inflate computational costs without improving accuracy. While Supervised Fine-Tuning (SFT) on reasoning traces is a standard paradigm for the 'cold start' phase, applying existing compression techniques to these traces often compromises logical coherence or incurs prohibitive sampling costs. In this paper, we introduce ConMax (Confidence-Maximizing Compression), a novel reinforcement learning framework designed to automatically compress reasoning traces while preserving essential reasoning patterns. ConMax formulates compression as a reward-driven optimization problem, training a policy to prune redundancy by maximizing a weighted combination of answer confidence for predictive fidelity and thinking confidence for reasoning validity through a frozen auxiliary LRM. Extensive experiments across five reasoning datasets demonstrate that ConMax achieves a superior efficiency-performance trade-off. Specifically, it reduces inference length by 43% over strong baselines at the cost of a mere 0.7% dip in accuracy, proving its effectiveness in generating high-quality, efficient training data for LRMs."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Microscopic and hydrodynamic correlation in 1d hard rod gas",
+    "authors": "Indranil Mukherjee, Seema Chahal, Anupam Kundu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04951v1",
+    "source": "arXiv",
+    "abstract": "We compute mass density correlations of a one-dimensional gas of hard rods at both microscopic and macroscopic scales. We provide exact analytical calculations of the microscopic correlation. For the correlation at macroscopic scale,, we utilize Ballistic Macroscopic Fluctuation Theory (BMFT) to derive an explicit expression for the correlations of a coarse-grained mass density, which reveals the emergence of long-range correlations on the Euler space-time scale. By performing a systematic coarse-graining of our exact microscopic results, we establish a micro-macro correspondence and demonstrate that the resulting macroscopic correlations agree precisely with the predictions of BMFT. This analytical verification provides a concrete validation of the underlying assumptions of hydrodynamic theory in the context of hard rod gas."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests",
+    "authors": "Jingzhi Gong, Giovanni Pinna, Yixin Bian, Jie M. Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04886v1",
+    "source": "arXiv",
+    "abstract": "Pull request (PR) descriptions generated by AI coding agents are the primary channel for communicating code changes to human reviewers. However, the alignment between these messages and the actual changes remains unexplored, raising concerns about the trustworthiness of AI agents. To fill this gap, we analyzed 23,247 agentic PRs across five agents using PR message-code inconsistency (PR-MCI). We contributed 974 manually annotated PRs, found 406 PRs (1.7%) exhibited high PR-MCI, and identified eight PR-MCI types, revealing that descriptions claiming unimplemented changes was the most common issue (45.4%). Statistical tests confirmed that high-MCI PRs had 51.7% lower acceptance rates (28.3% vs. 80.0%) and took 3.5x longer to merge (55.8 vs. 16.0 hours). Our findings suggest that unreliable PR descriptions undermine trust in AI agents, highlighting the need for PR-MCI verification mechanisms and improved PR generation to enable trustworthy human-AI collaboration."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "RAAR: Retrieval Augmented Agentic Reasoning for Cross-Domain Misinformation Detection",
+    "authors": "Zhiwei Liu, Runteng Guo, Baojie Qu, Yuechen Jiang, Min Peng, Qianqian Xie, Sophia Ananiadou",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04853v1",
+    "source": "arXiv",
+    "abstract": "Cross-domain misinformation detection is challenging, as misinformation arises across domains with substantial differences in knowledge and discourse. Existing methods often rely on single-perspective cues and struggle to generalize to challenging or underrepresented domains, while reasoning large language models (LLMs), though effective on complex tasks, are limited to same-distribution data. To address these gaps, we introduce RAAR, the first retrieval-augmented agentic reasoning framework for cross-domain misinformation detection. To enable cross-domain transfer beyond same-distribution assumptions, RAAR retrieves multi-perspective source-domain evidence aligned with each target sample's semantics, sentiment, and writing style. To overcome single-perspective modeling and missing systematic reasoning, RAAR constructs verifiable multi-step reasoning paths through specialized multi-agent collaboration, where perspective-specific agents produce complementary analyses and a summary agent integrates them under verifier guidance. RAAR further applies supervised fine-tuning and reinforcement learning to train a single multi-task verifier to enhance verification and reasoning capabilities. Based on RAAR, we trained the RAAR-8b and RAAR-14b models. Evaluation on three cross-domain misinformation detection tasks shows that RAAR substantially enhances the capabilities of the base models and outperforms other cross-domain methods, advanced LLMs, and LLM-based adaptation approaches. The project will be released at https://github.com/lzw108/RAAR."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Quantum Secure Biometric Authentication in Decentralised Systems",
+    "authors": "Tooba Qasim, Vasilios A. Siris, Izak Oosthuizen, Muttukrishnan Rajarajan, Sujit Biswas",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04852v1",
+    "source": "arXiv",
+    "abstract": "Biometric authentication has become integral to digital identity systems, particularly in smart cities where it en-ables secure access to services across governance, trans-portation, and public infrastructure. Centralised archi-tectures, though widely used, pose privacy and scalabil-ity challenges due to the aggregation of sensitive biomet-ric data. Decentralised identity frameworks offer better data sovereignty and eliminate single points of failure but introduce new security concerns, particularly around mu-tual trust among distributed devices. In such environments, biometric sensors and verification agents must authenticate one another before sharing sensitive biometric data. Ex-isting authentication schemes rely on classical public key infrastructure, which is increasingly susceptible to quan-tum attacks. This work addresses this gap by propos-ing a quantum-secure communication protocol for decen-tralised biometric systems, built upon an enhanced Quan-tum Key Distribution (QKD) system. The protocol incorpo-rates quantum-resilient authentication at both the classical and quantum layers of QKD: post-quantum cryptography (PQC) is used to secure the classical channel, while authen-tication qubits verify the integrity of the quantum channel. Once trust is established, QKD generates symmetric keys for encrypting biometric data in transit. Qiskit-based sim-ulations show a key generation rate of 15 bits/sec and 89% efficiency. This layered, quantum-resilient approach offers scalable, robust authentication for next-generation smart city infrastructures."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence",
+    "authors": "Shengyin Sun, Yiming Li, Renxi Liu, Weizhe Lin, Hui-Ling Zhen, Xianzhi Yu, Mingxuan Yuan, Chen Ma",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04766v1",
+    "source": "arXiv",
+    "abstract": "Judge Decoding accelerates LLM inference by relaxing the strict verification of Speculative Decoding, yet it typically relies on expensive and noisy supervision. In this work, we revisit this paradigm from first principles, revealing that the ``criticality'' scores learned via costly supervision are intrinsically encoded in the draft-target distributional divergence. We theoretically prove a structural correspondence between learned linear judges and Kullback-Leibler (KL) divergence, demonstrating they rely on the same underlying logit primitives. Guided by this, we propose a simple, training-free verification mechanism based on KL divergence. Extensive experiments across reasoning and coding benchmarks show that our method matches or outperforms complex trained judges (e.g., AutoJudge), offering superior robustness to domain shifts and eliminating the supervision bottleneck entirely."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Orion-RAG: Path-Aligned Hybrid Retrieval for Graphless Data",
+    "authors": "Zhen Chen, Weihao Xie, Peilin Chen, Shiqi Wang, Jianping Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04764v1",
+    "source": "arXiv",
+    "abstract": "Retrieval-Augmented Generation (RAG) has proven effective for knowledge synthesis, yet it encounters significant challenges in practical scenarios where data is inherently discrete and fragmented. In most environments, information is distributed across isolated files like reports and logs that lack explicit links. Standard search engines process files independently, ignoring the connections between them. Furthermore, manually building Knowledge Graphs is impractical for such vast data. To bridge this gap, we present Orion-RAG. Our core insight is simple yet effective: we do not need heavy algorithms to organize this data. Instead, we use a low-complexity strategy to extract lightweight paths that naturally link related concepts. We demonstrate that this streamlined approach suffices to transform fragmented documents into semi-structured data, enabling the system to link information across different files effectively. Extensive experiments demonstrate that Orion-RAG consistently outperforms mainstream frameworks across diverse domains, supporting real-time updates and explicit Human-in-the-Loop verification with high cost-efficiency. Experiments on FinanceBench demonstrate superior precision with a 25.2% relative improvement over strong baselines."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Tool-MAD: A Multi-Agent Debate Framework for Fact Verification with Diverse Tool Augmentation and Adaptive Retrieval",
+    "authors": "Seyeon Jeong, Yeonjun Choi, JongWook Kim, Beakcheol Jang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04742v1",
+    "source": "arXiv",
+    "abstract": "Large Language Models (LLMs) suffer from hallucinations and factual inaccuracies, especially in complex reasoning and fact verification tasks. Multi-Agent Debate (MAD) systems aim to improve answer accuracy by enabling multiple LLM agents to engage in dialogue, promoting diverse reasoning and mutual verification. However, existing MAD frameworks primarily rely on internal knowledge or static documents, making them vulnerable to hallucinations. While MADKE introduces external evidence to mitigate this, its one-time retrieval mechanism limits adaptability to new arguments or emerging information during the debate. To address these limitations, We propose Tool-MAD, a multi-agent debate framework that enhances factual verification by assigning each agent a distinct external tool, such as a search API or RAG module. Tool-MAD introduces three key innovations: (1) a multi-agent debate framework where agents leverage heterogeneous external tools, encouraging diverse perspectives, (2) an adaptive query formulation mechanism that iteratively refines evidence retrieval based on the flow of the debate, and (3) the integration of Faithfulness and Answer Relevance scores into the final decision process, allowing the Judge agent to quantitatively assess the coherence and question alignment of each response and effectively detect hallucinations. Experimental results on four fact verification benchmarks demonstrate that Tool-MAD consistently outperforms state-of-the-art MAD frameworks, achieving up to 5.5% accuracy improvement. Furthermore, in medically specialized domains, Tool-MAD exhibits strong robustness and adaptability across various tool configurations and domain conditions, confirming its potential for broader real-world fact-checking applications."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Error in ERA5 2m Temperature identified using GraphCast",
+    "authors": "Hannah M. Christensen, Jack Barker, Bobby Antonio, Massimo Bonavita, Mohamed Dahoui, Patricia de Rosnay",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04701v1",
+    "source": "arXiv",
+    "abstract": "Reanalyses such as ERA5 have long been foundational for weather and climate science. They have also found a new use case, as training and verification data for machine-learnt weather prediction (MLWP) models. Here we compare short-lead time (6h) forecasts from the MLWP model GraphCast against ERA5. In doing so, we identify a recurrent, spatially coherent error in 2m Temperature centred on the Ethiopian Highlands, that occurs predominantly at 0600 UTC. We show that these error events are not an error in the forecast from GraphCast, but are in fact an error in ERA5, and are also present in the ECMWF operational analysis. They arise from the 2D optimal interpolation procedure, when surface reports are assimilated that are temporally displaced compared to the background forecast. This produces spuriously warm analysis increments over Ethiopia on approximately 7\\% of dates at 0600 UTC across the reanalysis record. The spread from the ensemble of data assimilation partially flags these cases but is underdispersive. We assess the impact on GraphCast, which was trained on ERA5. While GraphCast can largely ignore these unphysical error events, a small systematic degradation in forecast skill over the region is observed. We discuss implications for using reanalysis as truth in machine learning training and verification, and recommend simple changes to reduce such artefacts in future analyses."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning",
+    "authors": "Zebin Han, Xudong Wang, Baichen Liu, Qi Lyu, Zhenduo Shang, Jiahua Dong, Lianqing Liu, Zhi Han",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04699v1",
+    "source": "arXiv",
+    "abstract": "Sequential-Horizon Vision-and-Language Navigation (SH-VLN) presents a challenging scenario where agents should sequentially execute multi-task navigation guided by complex, long-horizon language instructions. Current vision-and-language navigation models exhibit significant performance degradation with such multi-task instructions, as information overload impairs the agent's ability to attend to observationally relevant details. To address this problem, we propose SeqWalker, a navigation model built on a hierarchical planning framework. Our SeqWalker features: i) A High-Level Planner that dynamically selects global instructions into contextually relevant sub-instructions based on the agent's current visual observations, thus reducing cognitive load; ii) A Low-Level Planner incorporating an Exploration-Verification strategy that leverages the inherent logical structure of instructions for trajectory error correction. To evaluate SH-VLN performance, we also extend the IVLN dataset and establish a new benchmark. Extensive experiments are performed to demonstrate the superiority of the proposed SeqWalker."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "ToolGate: Contract-Grounded and Verified Tool Execution for LLMs",
+    "authors": "Yanming Liu, Xinyue Peng, Jiannan Cao, Xinyi Wang, Songhang Deng, Jintao Chen, Jianwei Yin, Xuhong Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04688v1",
+    "source": "arXiv",
+    "abstract": "Large Language Models (LLMs) augmented with external tools have demonstrated remarkable capabilities in complex reasoning tasks. However, existing frameworks rely heavily on natural language reasoning to determine when tools can be invoked and whether their results should be committed, lacking formal guarantees for logical safety and verifiability. We present \\textbf{ToolGate}, a forward execution framework that provides logical safety guarantees and verifiable state evolution for LLM tool calling. ToolGate maintains an explicit symbolic state space as a typed key-value mapping representing trusted world information throughout the reasoning process. Each tool is formalized as a Hoare-style contract consisting of a precondition and a postcondition, where the precondition gates tool invocation by checking whether the current state satisfies the required conditions, and the postcondition determines whether the tool's result can be committed to update the state through runtime verification. Our approach guarantees that the symbolic state evolves only through verified tool executions, preventing invalid or hallucinated results from corrupting the world representation. Experimental validation demonstrates that ToolGate significantly improves the reliability and verifiability of tool-augmented LLM systems while maintaining competitive performance on complex multi-step reasoning tasks. This work establishes a foundation for building more trustworthy and debuggable AI systems that integrate language models with external tools."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations",
+    "authors": "Chengcheng Guo, Kuo Cai, Yu Zhou, Qiang Luo, Ruiming Tang, Han Li, Kun Gai, Guorui Zhou",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04674v1",
+    "source": "arXiv",
+    "abstract": "Generative Recommendation has emerged as a promising paradigm, reformulating recommendation as a sequence-to-sequence generation task over hierarchical Semantic IDs. However, existing methods suffer from a critical issue we term Semantic Drift, where errors in early, high-level tokens irreversibly divert the generation trajectory into irrelevant semantic subspaces. Inspired by Process Reward Models (PRMs) that enhance reasoning in Large Language Models, we propose Promise, a novel framework that integrates dense, step-by-step verification into generative models. Promise features a lightweight PRM to assess the quality of intermediate inference steps, coupled with a PRM-guided Beam Search strategy that leverages dense feedback to dynamically prune erroneous branches. Crucially, our approach unlocks Test-Time Scaling Laws for recommender systems: by increasing inference compute, smaller models can match or surpass larger models. Extensive offline experiments and online A/B tests on a large-scale platform demonstrate that Promise effectively mitigates Semantic Drift, significantly improving recommendation accuracy while enabling efficient deployment."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models",
+    "authors": "Can Xu, Lingyong Yan, Jiayi Wu, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04651v1",
+    "source": "arXiv",
+    "abstract": "Recent advances in synergizing large reasoning models (LRMs) with retrieval-augmented generation (RAG) have shown promising results, yet two critical challenges remain: (1) reasoning models typically operate from a single, unchallenged perspective, limiting their ability to conduct deep, self-correcting reasoning over external documents, and (2) existing training paradigms rely excessively on outcome-oriented rewards, which provide insufficient signal for shaping the complex, multi-step reasoning process. To address these issues, we propose an Reasoner-Verifier framework named Adversarial Reasoning RAG (ARR). The Reasoner and Verifier engage in reasoning on retrieved evidence and critiquing each other's logic while being guided by process-aware advantage that requires no external scoring model. This reward combines explicit observational signals with internal model uncertainty to jointly optimize reasoning fidelity and verification rigor. Experiments on multiple benchmarks demonstrate the effectiveness of our method."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "DP-MGTD: Privacy-Preserving Machine-Generated Text Detection via Adaptive Differentially Private Entity Sanitization",
+    "authors": "Lionel Z. Wang, Yusheng Zhao, Jiabin Luo, Xinfeng Li, Lixu Wang, Yinan Peng, Haoyang Li, XiaoFeng Wang, Wei Dong",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04641v1",
+    "source": "arXiv",
+    "abstract": "The deployment of Machine-Generated Text (MGT) detection systems necessitates processing sensitive user data, creating a fundamental conflict between authorship verification and privacy preservation. Standard anonymization techniques often disrupt linguistic fluency, while rigorous Differential Privacy (DP) mechanisms typically degrade the statistical signals required for accurate detection. To resolve this dilemma, we propose \\textbf{DP-MGTD}, a framework incorporating an Adaptive Differentially Private Entity Sanitization algorithm. Our approach utilizes a two-stage mechanism that performs noisy frequency estimation and dynamically calibrates privacy budgets, applying Laplace and Exponential mechanisms to numerical and textual entities respectively. Crucially, we identify a counter-intuitive phenomenon where the application of DP noise amplifies the distinguishability between human and machine text by exposing distinct sensitivity patterns to perturbation. Extensive experiments on the MGTBench-2.0 dataset show that our method achieves near-perfect detection accuracy, significantly outperforming non-private baselines while satisfying strict privacy guarantees."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Beyond the \"Truth\": Investigating Election Rumors on Truth Social During the 2024 Election",
+    "authors": "Etienne Casanova, R. Michael Alvarez",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04631v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) offer unprecedented opportunities for analyzing social phenomena at scale. This paper demonstrates the value of LLMs in psychological measurement by (1) compiling the first large-scale dataset of election rumors on a niche alt-tech platform, (2) developing a multistage Rumor Detection Agent that leverages LLMs for high-precision content classification, and (3) quantifying the psychological dynamics of rumor propagation, specifically the \"illusory truth effect\" in a naturalistic setting. The Rumor Detection Agent combines (i) a synthetic data-augmented, fine-tuned RoBERTa classifier, (ii) precision keyword filtering, and (iii) a two-pass LLM verification pipeline using GPT-4o mini. The findings reveal that sharing probability rises steadily with each additional exposure, providing large-scale empirical evidence for dose-response belief reinforcement in ideologically homogeneous networks. Simulation results further demonstrate rapid contagion effects: nearly one quarter of users become \"infected\" within just four propagation iterations. Taken together, these results illustrate how LLMs can transform psychological science by enabling the rigorous measurement of belief dynamics and misinformation spread in massive, real-world datasets."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Self-MedRAG: a Self-Reflective Hybrid Retrieval-Augmented Generation Framework for Reliable Medical Question Answering",
+    "authors": "Jessica Ryan, Alexander I. Gumilang, Robert Wiliam, Derwin Suhartono",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04531v1",
+    "source": "arXiv",
+    "abstract": "Large Language Models (LLMs) have demonstrated significant potential in medical Question Answering (QA), yet they remain prone to hallucinations and ungrounded reasoning, limiting their reliability in high-stakes clinical scenarios. While Retrieval-Augmented Generation (RAG) mitigates these issues by incorporating external knowledge, conventional single-shot retrieval often fails to resolve complex biomedical queries requiring multi-step inference. To address this, we propose Self-MedRAG, a self-reflective hybrid framework designed to mimic the iterative hypothesis-verification process of clinical reasoning. Self-MedRAG integrates a hybrid retrieval strategy, combining sparse (BM25) and dense (Contriever) retrievers via Reciprocal Rank Fusion (RRF) to maximize evidence coverage. It employs a generator to produce answers with supporting rationales, which are then assessed by a lightweight self-reflection module using Natural Language Inference (NLI) or LLM-based verification. If the rationale lacks sufficient evidentiary support, the system autonomously reformulates the query and iterates to refine the context. We evaluated Self-MedRAG on the MedQA and PubMedQA benchmarks. The results demonstrate that our hybrid retrieval approach significantly outperforms single-retriever baselines. Furthermore, the inclusion of the self-reflective loop yielded substantial gains, increasing accuracy on MedQA from 80.00% to 83.33% and on PubMedQA from 69.10% to 79.82%. These findings confirm that integrating hybrid retrieval with iterative, evidence-based self-reflection effectively reduces unsupported claims and enhances the clinical reliability of LLM-based systems."
+  },
+  {
+    "date": "2026-1-8",
+    "title": "Zoo: A Framework for the Verification of Concurrent OCaml 5 Programs using Separation Logic",
+    "authors": "Clément Allain, Gabriel Scherer",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3776701",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-8",
+    "title": "A Recipe for Modular Verification of Generic Tree Traversals",
+    "authors": "Laila Elbeheiry, Michael Sammler, Robbert Krebbers, Derek Dreyer, Deepak Garg",
+    "publish": "Proceedings of the 15th ACM SIGPLAN International Conference on Certified Programs and Proofs",
+    "url": "https://doi.org/10.1145/3779031.3779110",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-8",
+    "title": "Formal Verification for JavaScript Regular Expressions: A Proven Mechanized Semantics and Its Applications",
+    "authors": "Aurèle Barrière, Victor Deng, Clément Pit-Claudel",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3776710",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-8",
+    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs",
+    "authors": "Andy Tockman, Pratap Singh, Andres Erbsen, Samuel Gruetter, Adam Chlipala",
+    "publish": "Proceedings of the 15th ACM SIGPLAN International Conference on Certified Programs and Proofs",
+    "url": "https://doi.org/10.1145/3779031.3779088",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-8",
+    "title": "ChiSA: Static Analysis for Lightweight Chisel Verification",
+    "authors": "Jiacai Cui, Qinlin Chen, Zhongsheng Zhan, Tian Tan, Yue Li",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3776660",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-8",
+    "title": "Parametrised Verification of Intel-x86 Programs",
+    "authors": "Parosh Aziz Abdulla, Mohamed Faouzi Atig, Ahmed Bouajjani, K. Narayan Kumar, Prakash Saivasan",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3776680",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-8",
+    "title": "Abstraction Functions as Types: Modular Verification of Cost and Behavior in Dependent Type Theory",
+    "authors": "Harrison Grodin, Runming Li, Robert Harper",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3776673",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-8",
+    "title": "ArchSem: Reusable Rigorous Semantics of Relaxed Architectures",
+    "authors": "Thibaut Pérami, Thomas Bauereiss, Brian Campbell, Zongyuan Liu, Nils Lauermann, Alasdair Armstrong, Peter Sewell",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3776650",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-8",
+    "title": "Parameterized Verification of Quantum Circuits",
+    "authors": "Parosh Aziz Abdulla, Yu-Fang Chen, Michal Hečko, Lukáš Holík, Ondřej Lengál, Jyun-Ao Lin, Ramanathan S. Thinniyam",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3776712",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
