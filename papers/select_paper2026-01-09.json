@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-1-9",
+    "title": "Optimization of FPGA-Based Hardware Accelerator for SkyNet Neural Network",
+    "authors": "Zhonghua Li, Guoqing Li, Zhao-jun Suo, Tuo Li, Kang Su, Changhong Wang, Aiyue Dong, Weiwei Shan",
+    "publish": "Proceedings of the 2025 2nd Symposium on Big Data, Neural Networks, and Deep Learning",
+    "url": "https://doi.org/10.1145/3784013.3784046",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "SkyNet神经网络的FPGA硬件加速器优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-1-9",
+    "title": "ChatMPI: LLM-Driven MPI Code Generation for HPC Workloads",
+    "authors": "Pedro Valero-Lara, Aaron Young, Thomas Naughton III, Christian Engelmann, Al Geist, Jeffrey S. Vetter, Keita Teranishi, William F. Godoy",
+    "publish": "Proceedings of the Supercomputing Asia and International Conference on High Performance Computing in Asia Pacific Region",
+    "url": "https://doi.org/10.1145/3773656.3773659",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ChatMPI：基于大模型的MPI代码生成技术，用于高性能计算工作负载",
+    "abstract_zh": "None"
+  }
+]
