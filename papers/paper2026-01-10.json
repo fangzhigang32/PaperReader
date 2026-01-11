@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-1-10",
+    "title": "UniTe: A Universal Tensor Abstraction for Capturing Spatial Relationships",
+    "authors": "Jessica Ray, Teodoro Collin, Vivienne Sze, Albert Reuther, Saman Amarasinghe",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3787218",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-10",
+    "title": "Deep Learning for Collective Anomaly Detection",
+    "authors": "Dalila Khettaf, Djamel Djenouri, Zeinab Rezaeifar, Youcef Djenouri",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3788280",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-10",
+    "title": "Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications, and Opportunities",
+    "authors": "Enneng Yang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3787849",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-10",
+    "title": "A Decade Later: Evolution of Real-Time Embedded Virtual Presence Systems (An  HCI Perspective)",
+    "authors": "Osaruiyobo Giwa, Sunjun Kim",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3788875",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
