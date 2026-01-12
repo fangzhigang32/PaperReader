@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-01-09",
+    "title": "Curving Beam Reflections: Model and Experimental Validation",
+    "authors": "Caroline Jane Spindel, Edward Knightly",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05998v1",
+    "source": "arXiv",
+    "abstract": "Curving beams are a promising new method for bypassing obstacles in future millimeter-wave to sub-terahertz (sub-THz) networks but lack a general predictive model for their reflections from arbitrary surfaces. We show that, unfortunately, attempting to \"mirror\" the incident beam trajectory across the normal of the reflector, as in ray optics, fails in general. Thus, we introduce the first geometric framework capable of modeling the reflections of arbitrary convex sub-THz curving beams from general reflectors with experimental verification. Rather than \"mirroring\" the trajectory, we decompose the beam into a family of tangents and demonstrate that this process is equivalent to the Legendre transform. This approach allows us to accurately account for reflectors of any shape, size, and position while preserving the underlying physics of wave propagation. Our model is validated through finite element method simulations and over-the-air experiments, demonstrating millimeter-scale accuracy in predicting reflections. Our model provides a foundation for future curving beam communication and sensing systems, enabling the design of reflected curved links and curving radar paths."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "Prophet as a Repro ducible Forecasting Framework: A Methodological Guide for Business and Financial Analytics",
+    "authors": "Sidney Shapiro, Burhanuddin Panvelwala",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05929v1",
+    "source": "arXiv",
+    "abstract": "Reproducibility remains a persistent challenge in forecasting research and practice, particularly in business and financial analytics where forecasts inform high-stakes decisions. Traditional forecasting methods, while theoretically interpretable, often require extensive manual tuning and are difficult to replicate in proprietary environments. Machine learning approaches offer predictive flexibility but introduce challenges related to interpretability, stochastic training procedures, and cross-environment reproducibility. This paper examines Prophet, an open-source forecasting framework developed by Meta, as a reproducibility-enabling solution that balances interpretability, standardized workflows, and accessibility. Rather than proposing a new algorithm, this study evaluates how Prophet's additive structure, open-source implementation, and standardized workflow contribute to transparent and replicable forecasting practice. Using publicly available financial and retail datasets, we compare Prophet's performance and interpretability with multiple ARIMA specifications (auto-selected, manually specified, and seasonal variants) and Random Forest under a controlled and fully documented experimental design. This multi-model comparison provides a robust assessment of Prophet's relative performance and reproducibility advantages. Through concrete Python examples, we demonstrate how Prophet facilitates efficient forecasting workflows and integration with analytical pipelines. The study positions Prophet within the broader context of reproducible research. It highlights Prophet's role as a methodological building block that supports verification, auditability, and methodological rigor. This work provides researchers and practitioners with a practical reference framework for reproducible forecasting in Python-based research workflows."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "The Modal Logic of Abstraction Refinement",
+    "authors": "Jakob Piribauer, Vinzent Zschuppe",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05897v1",
+    "source": "arXiv",
+    "abstract": "Iterative abstraction refinement techniques are one of the most prominent paradigms for the analysis and verification of systems with large or infinite state spaces. This paper investigates the changes of truth values of system properties expressible in computation tree logic (CTL) when abstractions of transition systems are refined. To this end, the paper utilizes modal logic by defining alethic modalities expressing possibility and necessity on top of CTL: The modal operator $\\lozenge$ is interpreted as \"there is a refinement, in which ...\" and $\\Box$ is interpreted as \"in all refinements, ...\". Upper and lower bounds for the resulting modal logics of abstraction refinement are provided for three scenarios: 1) when considering all finite abstractions of a transition system, 2) when considering all abstractions of a transition system, and 3) when considering the class of all transition systems. Furthermore, to prove these results, generic techniques to obtain upper bounds of modal logics using novel types of so-called control statements are developed."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit",
+    "authors": "Junda Lin, Zhaomeng Zhou, Zhi Zheng, Shuochen Liu, Tong Xu, Yong Chen, Enhong Chen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05755v1",
+    "source": "arXiv",
+    "abstract": "LLM agents operating in open environments face escalating risks from indirect prompt injection, particularly within the tool stream where manipulated metadata and runtime feedback hijack execution flow. Existing defenses encounter a critical dilemma as advanced models prioritize injected rules due to strict alignment while static protection mechanisms sever the feedback loop required for adaptive reasoning. To reconcile this conflict, we propose \\textbf{VIGIL}, a framework that shifts the paradigm from restrictive isolation to a verify-before-commit protocol. By facilitating speculative hypothesis generation and enforcing safety through intent-grounded verification, \\textbf{VIGIL} preserves reasoning flexibility while ensuring robust control. We further introduce \\textbf{SIREN}, a benchmark comprising 959 tool stream injection cases designed to simulate pervasive threats characterized by dynamic dependencies. Extensive experiments demonstrate that \\textbf{VIGIL} outperforms state-of-the-art dynamic defenses by reducing the attack success rate by over 22\\% while more than doubling the utility under attack compared to static baselines, thereby achieving an optimal balance between security and utility. Code is available at https://anonymous.4open.science/r/VIGIL-378B/."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "DynaDebate: Breaking Homogeneity in Multi-Agent Debate with Dynamic Path Generation",
+    "authors": "Zhenghao Li, Zhi Zheng, Wei Chen, Jielun Zhao, Yong Chen, Tong Xu, Enhong Chen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05746v1",
+    "source": "arXiv",
+    "abstract": "Recent years have witnessed the rapid development of Large Language Model-based Multi-Agent Systems (MAS), which excel at collaborative decision-making and complex problem-solving. Recently, researchers have further investigated Multi-Agent Debate (MAD) frameworks, which enhance the reasoning and collaboration capabilities of MAS through information exchange and debate among multiple agents. However, existing approaches often rely on unguided initialization, causing agents to adopt identical reasoning paths that lead to the same errors. As a result, effective debate among agents is hindered, and the final outcome frequently degenerates into simple majority voting. To solve the above problem, in this paper, we introduce Dynamic Multi-Agent Debate (DynaDebate), which enhances the effectiveness of multi-agent debate through three key mechanisms: (1) Dynamic Path Generation and Allocation, which employs a dedicated Path Generation Agent to generate diverse and logical solution paths with adaptive redundancy; (2) Process-Centric Debate, which shifts the focus from surface-level outcome voting to rigorous step-by-step logic critique to ensure process correctness; (3) A Trigger-Based Verification Agent, which is activated upon disagreement and uses external tools to objectively resolve deadlocks. Extensive experiments demonstrate that DynaDebate achieves superior performance across various benchmarks, surpassing existing state-of-the-art MAD methods."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "Overcoming Joint Intractability with Lossless Hierarchical Speculative Decoding",
+    "authors": "Yuxuan Zhou, Fei Huang, Heng Li, Fengyi Wu, Tianyu Wang, Jianwei Zhang, Junyang Lin, Zhi-Qi Cheng",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05724v1",
+    "source": "arXiv",
+    "abstract": "Verification is a key bottleneck in improving inference speed while maintaining distribution fidelity in Speculative Decoding. Recent work has shown that sequence-level verification leads to a higher number of accepted tokens compared to token-wise verification. However, existing solutions often rely on surrogate approximations or are constrained by partial information, struggling with joint intractability. In this work, we propose Hierarchical Speculative Decoding (HSD), a provably lossless verification method that significantly boosts the expected number of accepted tokens and overcomes joint intractability by balancing excess and deficient probability mass across accessible branches. Our extensive large-scale experiments demonstrate that HSD yields consistent improvements in acceptance rates across diverse model families and benchmarks. Moreover, its strong explainability and generality make it readily integrable into a wide range of speculative decoding frameworks. Notably, integrating HSD into EAGLE-3 yields over a 12% performance gain, establishing state-of-the-art decoding efficiency without compromising distribution fidelity. Code is available at https://github.com/ZhouYuxuanYX/Hierarchical-Speculative-Decoding."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "Dual-Phase LLM Reasoning: Self-Evolved Mathematical Frameworks",
+    "authors": "ShaoZhen Liu, Xinting Huang, Houwen Peng, Xin Chen, Xinyang Song, Qi Li, Zhenan Sun",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05616v1",
+    "source": "arXiv",
+    "abstract": "In recent years, large language models (LLMs) have demonstrated significant potential in complex reasoning tasks like mathematical problem-solving. However, existing research predominantly relies on reinforcement learning (RL) frameworks while overlooking supervised fine-tuning (SFT) methods. This paper proposes a new two-stage training framework that enhances models' self-correction capabilities through self-generated long chain-of-thought (CoT) data. During the first stage, a multi-turn dialogue strategy guides the model to generate CoT data incorporating verification, backtracking, subgoal decomposition, and backward reasoning, with predefined rules filtering high-quality samples for supervised fine-tuning. The second stage employs a difficulty-aware rejection sampling mechanism to dynamically optimize data distribution, strengthening the model's ability to handle complex problems. The approach generates reasoning chains extended over 4 times longer while maintaining strong scalability, proving that SFT effectively activates models' intrinsic reasoning capabilities and provides a resource-efficient pathway for complex task optimization. Experimental results demonstrate performance improvements on mathematical benchmarks including GSM8K and MATH500, with the fine-tuned model achieving a substantial improvement on competition-level problems like AIME24. Code will be open-sourced."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck",
+    "authors": "Feiran Zhang, Yixin Wu, Zhenghua Wang, Xiaohua Wang, Changze Lv, Xuanjing Huang, Xiaoqing Zheng",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05547v1",
+    "source": "arXiv",
+    "abstract": "Vision-Language Models (VLMs) have demonstrated remarkable progress in multimodal tasks, but remain susceptible to hallucinations, where generated text deviates from the underlying visual content. Existing hallucination detection methods primarily rely on output logits or external verification tools, often overlooking their internal mechanisms. In this work, we investigate the outputs of internal attention heads, postulating that specific heads carry the primary signals for truthful generation.However, directly probing these high-dimensional states is challenging due to the entanglement of visual-linguistic syntax and noise. To address this, we propose VIB-Probe, a novel hallucination detection and mitigation framework leveraging the Variational Information Bottleneck (VIB) theory. Our method extracts discriminative patterns across layers and heads while filtering out semantic nuisances through the information bottleneck principle. Furthermore, by leveraging the gradients of our VIB probe, we identify attention heads with strong causal influence on hallucinations and introduce an inference-time intervention strategy for hallucination mitigation. Extensive experiments across diverse benchmarks demonstrate that VIB-Probe significantly outperforms existing baselines in both settings. Our code will be made publicly available."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism",
+    "authors": "Yuhao Shen, Tianyu Liu, Junyi Shen, Jinyang Wu, Quan Kong, Li Huan, Cong Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05524v1",
+    "source": "arXiv",
+    "abstract": "Parallel Speculative Decoding (PSD) accelerates traditional Speculative Decoding (SD) by overlapping draft generation with verification. However, it remains hampered by two fundamental challenges: (1) a theoretical speedup ceiling dictated by the speed ratio between the draft and target models, and (2) high computational waste and pipeline stall due to mid-sequence token rejections of early errors. To address these limitations, we introduce \\textsc{Double} (Double Retrieval Speculative Parallelism). By bridging the gap between SD and PSD, our framework resolves the Retrieval \\emph{Precision-Efficiency Dilemma} through a novel synchronous mechanism. Specifically, we enable the draft model to execute iterative retrieval speculations to break the theoretical speedup limits; to alleviate rejections without rollback, the target model performs authoritative retrieval to generate multi-token guidance. \\textsc{Double} is entirely training-free and lossless. Extensive experiments demonstrate state-of-the-art speedup of $\\textbf{5.3}\\times$ on LLaMA3.3-70B and $\\textbf{2.8}\\times$ on Qwen3-32B, significantly outperforming the advanced method EAGLE-3 that requires extensive model training."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark",
+    "authors": "Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, Hitesh Laxmichand Patel, Adam Jatowt",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05461v1",
+    "source": "arXiv",
+    "abstract": "Existing benchmarks treat multi-turn conversation and reasoning-intensive retrieval separately, yet real-world information seeking requires both. To bridge this gap, we present a benchmark for reasoning-based conversational information retrieval comprising 707 conversations (2,971 turns) across eleven domains. To ensure quality, our Decomposition-and-Verification framework transforms complex queries into fact-grounded multi-turn dialogues through multi-level validation, where atomic facts are verified against sources and explicit retrieval reasoning is generated for each turn. Comprehensive evaluation reveals that combining conversation history with reasoning doubles retrieval performance (Baseline .236 $\\rightarrow$ History+Reasoning .479 nDCG@10), while reasoning-specialized models substantially outperform dense encoders. Despite these gains, further analysis highlights that implicit reasoning remains challenging, particularly when logical connections are not explicitly stated in the text."
+  },
+  {
+    "date": "2026-01-09",
+    "title": "ART: Adaptive Reasoning Trees for Explainable Claim Verification",
+    "authors": "Sahil Wadhwa, Himanshu Kumar, Guanqun Yang, Abbaas Alif Mohamed Nishar, Pranab Mohanty, Swapnil Shinde, Yue Wu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05455v1",
+    "source": "arXiv",
+    "abstract": "Large Language Models (LLMs) are powerful candidates for complex decision-making, leveraging vast encoded knowledge and remarkable zero-shot abilities. However, their adoption in high-stakes environments is hindered by their opacity; their outputs lack faithful explanations and cannot be effectively contested to correct errors, undermining trustworthiness. In this paper, we propose ART (Adaptive Reasoning Trees), a hierarchical method for claim verification. The process begins with a root claim, which branches into supporting and attacking child arguments. An argument's strength is determined bottom-up via a pairwise tournament of its children, adjudicated by a judge LLM, allowing a final, transparent and contestable verdict to be systematically derived which is missing in methods like Chain-of-Thought (CoT). We empirically validate ART on multiple datasets, analyzing different argument generators and comparison strategies. Our findings show that ART's structured reasoning outperforms strong baselines, establishing a new benchmark for explainable claim verification which is more reliable and ensures clarity in the overall decision making step."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "DafnyPro: LLM-Assisted Automated Verification for Dafny Programs",
+    "authors": "Debangshu Banerjee, Olivier Bouissou, Stefan Zetzsche",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05385v1",
+    "source": "arXiv",
+    "abstract": "We present DafnyPro, an inference-time framework that enhances LLMs for generating verification annotations in Dafny. DafnyPro comprises three key components: a diff-checker that prevents modifications to base program logic, a pruner that removes unnecessary invariants, and a hint-augmentation system that retrieves and applies predefined, problem-independent proof strategies. We evaluate DafnyPro using Claude Sonnet 3.5 and 3.7 on four benchmarks: Clover, MBPP-Dafny, HumanEval-Dafny, and DafnyBench, achieving consistent performance gains in all cases. Notably, on DafnyBench, the most challenging benchmark, Claude Sonnet 3.5 enhanced with DafnyPro achieves 86% correct proofs, a 16 pp improvement over the base model. We also fine-tune two Qwen models on training data derived from verification attempts by larger models enhanced with DafnyPro. Our 7B and 14B models achieve 68% and 70% correct proofs on DafnyBench, respectively, demonstrating that smaller models can maintain high verification accuracy."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Feasibility of a General-Purpose Deep Learning Dose Engine: A Multi-Site Validation Study",
+    "authors": "Yao Zhao, Ka Ho Tam, Raphael Douglas, Kyuhak Oh, Xin Wang, Ergys Subashi, Jinzhong Yang, Laurence Court, Dong Joo Rhee",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05348v1",
+    "source": "arXiv",
+    "abstract": "Conventional radiotherapy dose calculation algorithms are often computationally slow and non-differentiable, creating bottlenecks for online adaptive radiotherapy (ART) and limiting end-to-end automatic planning. Deep learning provides consistent inference performance and a differentiable framework essential for rapid optimization. In this study, we developed a generalized, site-independent deep learning dose engine using a beamlet-based input strategy. This establishes a computationally consistent and differentiable module that enables end-to-end training for autoplanning while maintaining accuracy across diverse geometries. A dataset of 3,600 plans from 120 patients across six anatomical sites was used to train two 3D convolutional neural networks, a standard U-Net and a Cascade U-Net, to predict 3D dose distributions from CT images and divergent MLC/jaw projections. Performance was validated via 3D gamma analysis on an independent cohort of 60 VMAT plans. The optimal model (U-Net with MAE loss) achieved a mean gamma passing rate of $98.9 \\pm 1.6\\%$ (3%/2mm, 10% threshold). Performance remained robust across all sites (passing rates $>98\\%$), demonstrating that the beamlet-based strategy generalizes effectively to complex geometries without site-specific training. These results indicate that a single, site-independent model can calculate radiotherapy dose distributions with clinical accuracy. This differentiable engine is highly suitable for integration into end-to-end automatic planning, online ART, and secondary dose verification workflows."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Multi-Scale Local Speculative Decoding for Image Generation",
+    "authors": "Elia Peruzzo, Guillaume Sautière, Amirhossein Habibian",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05149v1",
+    "source": "arXiv",
+    "abstract": "Autoregressive (AR) models have achieved remarkable success in image synthesis, yet their sequential nature imposes significant latency constraints. Speculative Decoding offers a promising avenue for acceleration, but existing approaches are limited by token-level ambiguity and lack of spatial awareness. In this work, we introduce Multi-Scale Local Speculative Decoding (MuLo-SD), a novel framework that combines multi-resolution drafting with spatially informed verification to accelerate AR image generation. Our method leverages a low-resolution drafter paired with learned up-samplers to propose candidate image tokens, which are then verified in parallel by a high-resolution target model. Crucially, we incorporate a local rejection and resampling mechanism, enabling efficient correction of draft errors by focusing on spatial neighborhoods rather than raster-scan resampling after the first rejection. We demonstrate that MuLo-SD achieves substantial speedups - up to $\\mathbf{1.7\\times}$ - outperforming strong speculative decoding baselines such as EAGLE-2 and LANTERN in terms of acceleration, while maintaining comparable semantic alignment and perceptual quality. These results are validated using GenEval, DPG-Bench, and FID/HPSv2 on the MS-COCO 5k validation split. Extensive ablations highlight the impact of up-sampling design, probability pooling, and local rejection and resampling with neighborhood expansion. Our approach sets a new state-of-the-art in speculative decoding for image synthesis, bridging the gap between efficiency and fidelity."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Agent-as-a-Judge",
+    "authors": "Runyang You, Hongru Cai, Caiqi Zhang, Qiancheng Xu, Meng Liu, Tiezheng Yu, Yongqi Li, Wenjie Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05111v1",
+    "source": "arXiv",
+    "abstract": "LLM-as-a-Judge has revolutionized AI evaluation by leveraging large language models for scalable assessments. However, as evaluands become increasingly complex, specialized, and multi-step, the reliability of LLM-as-a-Judge has become constrained by inherent biases, shallow single-pass reasoning, and the inability to verify assessments against real-world observations. This has catalyzed the transition to Agent-as-a-Judge, where agentic judges employ planning, tool-augmented verification, multi-agent collaboration, and persistent memory to enable more robust, verifiable, and nuanced evaluations. Despite the rapid proliferation of agentic evaluation systems, the field lacks a unified framework to navigate this shifting landscape. To bridge this gap, we present the first comprehensive survey tracing this evolution. Specifically, we identify key dimensions that characterize this paradigm shift and establish a developmental taxonomy. We organize core methodologies and survey applications across general and professional domains. Furthermore, we analyze frontier challenges and identify promising research directions, ultimately providing a clear roadmap for the next generation of agentic evaluation."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts",
+    "authors": "Wenhao Zeng, Xuteng Zhang, Yuling Shi, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05110v1",
+    "source": "arXiv",
+    "abstract": "Large Reasoning Models (LRMs) achieve remarkable performance by explicitly generating multi-step chains of thought, but this capability incurs substantial inference latency and computational cost. Collaborative inference offers a promising solution by selectively allocating work between lightweight and large models, yet a fundamental challenge remains: determining when a reasoning step requires the capacity of a large model or the efficiency of a small model. Existing routing strategies either rely on local token probabilities or post-hoc verification, introducing significant inference overhead. In this work, we propose a novel perspective on step-wise collaboration: the difficulty of a reasoning step can be inferred from its very first token. Inspired by the \"Aha Moment\" phenomenon in LRMs, we show that the entropy of the initial token serves as a strong predictor of step difficulty. Building on this insight, we introduce GlimpRouter, a training-free step-wise collaboration framework. GlimpRouter employs a lightweight model to generate only the first token of each reasoning step and routes the step to a larger model only when the initial token entropy exceeds a threshold. Experiments on multiple benchmarks demonstrate that our approach significantly reduces inference latency while preserving accuracy. For instance, GlimpRouter attains a substantial 10.7% improvement in accuracy while reducing inference latency by 25.9% compared to a standalone large model on AIME25. These results suggest a simple yet effective mechanism for reasoning: allocating computation based on a glimpse of thought rather than full-step evaluation."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Milestones over Outcome: Unlocking Geometric Reasoning with Sub-Goal Verifiable Reward",
+    "authors": "Jianlong Chen, Daocheng Fu, Shengze Xu, Jiawei Chen, Yuan Feng, Yue Yang, Junchi Yan, Hongyuan Zha, Renqiu Xia",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.05073v1",
+    "source": "arXiv",
+    "abstract": "Multimodal Large Language Models (MLLMs) struggle with complex geometric reasoning, largely because \"black box\" outcome-based supervision fails to distinguish between lucky guesses and rigorous deduction. To address this, we introduce a paradigm shift towards subgoal-level evaluation and learning. We first construct GeoGoal, a benchmark synthesized via a rigorous formal verification data engine, which converts abstract proofs into verifiable numeric subgoals. This structure reveals a critical divergence between reasoning quality and outcome accuracy. Leveraging this, we propose the Sub-Goal Verifiable Reward (SGVR) framework, which replaces sparse signals with dense rewards based on the Skeleton Rate. Experiments demonstrate that SGVR not only enhances geometric performance (+9.7%) but also exhibits strong generalization, transferring gains to general math (+8.0%) and other general reasoning tasks (+2.8%), demonstrating broad applicability across diverse domains."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning",
+    "authors": "Minda Hu, Zexuan Qiu, Zenan Xu, Kun Li, Bo Zhou, Irwin King",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04973v1",
+    "source": "arXiv",
+    "abstract": "Recent breakthroughs in Large Reasoning Models (LRMs) have demonstrated that extensive Chain-of-Thought (CoT) generation is critical for enabling intricate cognitive behaviors, such as self-verification and backtracking, to solve complex tasks. However, this capability often leads to ``overthinking'', where models generate redundant reasoning paths that inflate computational costs without improving accuracy. While Supervised Fine-Tuning (SFT) on reasoning traces is a standard paradigm for the 'cold start' phase, applying existing compression techniques to these traces often compromises logical coherence or incurs prohibitive sampling costs. In this paper, we introduce ConMax (Confidence-Maximizing Compression), a novel reinforcement learning framework designed to automatically compress reasoning traces while preserving essential reasoning patterns. ConMax formulates compression as a reward-driven optimization problem, training a policy to prune redundancy by maximizing a weighted combination of answer confidence for predictive fidelity and thinking confidence for reasoning validity through a frozen auxiliary LRM. Extensive experiments across five reasoning datasets demonstrate that ConMax achieves a superior efficiency-performance trade-off. Specifically, it reduces inference length by 43% over strong baselines at the cost of a mere 0.7% dip in accuracy, proving its effectiveness in generating high-quality, efficient training data for LRMs."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Microscopic and hydrodynamic correlation in 1d hard rod gas",
+    "authors": "Indranil Mukherjee, Seema Chahal, Anupam Kundu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04951v1",
+    "source": "arXiv",
+    "abstract": "We compute mass density correlations of a one-dimensional gas of hard rods at both microscopic and macroscopic scales. We provide exact analytical calculations of the microscopic correlation. For the correlation at macroscopic scale,, we utilize Ballistic Macroscopic Fluctuation Theory (BMFT) to derive an explicit expression for the correlations of a coarse-grained mass density, which reveals the emergence of long-range correlations on the Euler space-time scale. By performing a systematic coarse-graining of our exact microscopic results, we establish a micro-macro correspondence and demonstrate that the resulting macroscopic correlations agree precisely with the predictions of BMFT. This analytical verification provides a concrete validation of the underlying assumptions of hydrodynamic theory in the context of hard rod gas."
+  },
+  {
+    "date": "2026-01-08",
+    "title": "Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests",
+    "authors": "Jingzhi Gong, Giovanni Pinna, Yixin Bian, Jie M. Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.04886v1",
+    "source": "arXiv",
+    "abstract": "Pull request (PR) descriptions generated by AI coding agents are the primary channel for communicating code changes to human reviewers. However, the alignment between these messages and the actual changes remains unexplored, raising concerns about the trustworthiness of AI agents. To fill this gap, we analyzed 23,247 agentic PRs across five agents using PR message-code inconsistency (PR-MCI). We contributed 974 manually annotated PRs, found 406 PRs (1.7%) exhibited high PR-MCI, and identified eight PR-MCI types, revealing that descriptions claiming unimplemented changes was the most common issue (45.4%). Statistical tests confirmed that high-MCI PRs had 51.7% lower acceptance rates (28.3% vs. 80.0%) and took 3.5x longer to merge (55.8 vs. 16.0 hours). Our findings suggest that unreliable PR descriptions undermine trust in AI agents, highlighting the need for PR-MCI verification mechanisms and improved PR generation to enable trustworthy human-AI collaboration."
+  }
+]
