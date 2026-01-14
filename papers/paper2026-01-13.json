@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2026-01-13",
+    "title": "Inferring Latent Intentions: Attributional Natural Language Inference in LLM Agents",
+    "authors": "Xin Quan, Jiafeng Xiong, Marco Valentino, André Freitas",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08742v1",
+    "source": "arXiv",
+    "abstract": "Attributional inference, the ability to predict latent intentions behind observed actions, is a critical yet underexplored capability for large language models (LLMs) operating in multi-agent environments. Traditional natural language inference (NLI), in fact, fails to capture the nuanced, intention-driven reasoning essential for complex interactive systems. To address this gap, we introduce Attributional NLI (Att-NLI), a framework that extends NLI with principles from social psychology to assess an agent's capacity for abductive intentional inference (generating hypotheses about latent intentions), and subsequent deductive verification (drawing valid logical conclusions). We instantiate Att-NLI via a textual game, Undercover-V, experimenting with three types of LLM agents with varying reasoning capabilities and access to external tools: a standard NLI agent using only deductive inference, an Att-NLI agent employing abductive-deductive inference, and a neuro-symbolic Att-NLI agent performing abductive-deductive inference with external theorem provers. Extensive experiments demonstrate a clear hierarchy of attributional inference capabilities, with neuro-symbolic agents consistently outperforming others, achieving an average win rate of 17.08%. Our results underscore the role that Att-NLI can play in developing agents with sophisticated reasoning capabilities, highlighting, at the same time, the potential impact of neuro-symbolic AI in building rational LLM agents acting in multi-agent environments."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "PrivGemo: Privacy-Preserving Dual-Tower Graph Retrieval for Empowering LLM Reasoning with Memory Augmentation",
+    "authors": "Xingyu Tan, Xiaoyang Wang, Qing Liu, Xiwei Xu, Xin Yuan, Liming Zhu, Wenjie Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08739v1",
+    "source": "arXiv",
+    "abstract": "Knowledge graphs (KGs) provide structured evidence that can ground large language model (LLM) reasoning for knowledge-intensive question answering. However, many practical KGs are private, and sending retrieved triples or exploration traces to closed-source LLM APIs introduces leakage risk. Existing privacy treatments focus on masking entity names, but they still face four limitations: structural leakage under semantic masking, uncontrollable remote interaction, fragile multi-hop and multi-entity reasoning, and limited experience reuse for stability and efficiency. To address these issues, we propose PrivGemo, a privacy-preserving retrieval-augmented framework for KG-grounded reasoning with memory-guided exposure control. PrivGemo uses a dual-tower design to keep raw KG knowledge local while enabling remote reasoning over an anonymized view that goes beyond name masking to limit both semantic and structural exposure. PrivGemo supports multi-hop, multi-entity reasoning by retrieving anonymized long-hop paths that connect all topic entities, while keeping grounding and verification on the local KG. A hierarchical controller and a privacy-aware experience memory further reduce unnecessary exploration and remote interactions. Comprehensive experiments on six benchmarks show that PrivGemo achieves overall state-of-the-art results, outperforming the strongest baseline by up to 17.1%. Furthermore, PrivGemo enables smaller models (e.g., Qwen3-4B) to achieve reasoning performance comparable to that of GPT-4-Turbo."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback",
+    "authors": "Prithwish Jana, Sam Davidson, Bhavana Bhasker, Andrey Kan, Anoop Deoras, Laurent Callot",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08734v1",
+    "source": "arXiv",
+    "abstract": "Automating Infrastructure-as-Code (IaC) is challenging, and large language models (LLMs) often produce incorrect configurations from natural language (NL). We present TerraFormer, a neuro-symbolic framework for IaC generation and mutation that combines supervised fine-tuning with verifier-guided reinforcement learning, using formal verification tools to provide feedback on syntax, deployability, and policy compliance. We curate two large, high-quality NL-to-IaC datasets, TF-Gen (152k instances) and TF-Mutn (52k instances), via multi-stage verification and iterative LLM self-correction. Evaluations against 17 state-of-the-art LLMs, including ~50x larger models like Sonnet 3.7, DeepSeek-R1, and GPT-4.1, show that TerraFormer improves correctness over its base LLM by 15.94% on IaC-Eval, 11.65% on TF-Gen (Test), and 19.60% on TF-Mutn (Test). It outperforms larger models on both TF-Gen (Test) and TF-Mutn (Test), ranks third on IaC-Eval, and achieves top best-practices and security compliance."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "All Required, In Order: Phase-Level Evaluation for AI-Human Dialogue in Healthcare and Beyond",
+    "authors": "Shubham Kulkarni, Alexander Lyzhov, Shiva Chaitanya, Preetam Joshi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08690v1",
+    "source": "arXiv",
+    "abstract": "Conversational AI is starting to support real clinical work, but most evaluation methods miss how compliance depends on the full course of a conversation. We introduce Obligatory-Information Phase Structured Compliance Evaluation (OIP-SCE), an evaluation method that checks whether every required clinical obligation is met, in the right order, with clear evidence for clinicians to review. This makes complex rules practical and auditable, helping close the gap between technical progress and what healthcare actually needs. We demonstrate the method in two case studies (respiratory history, benefits verification) and show how phase-level evidence turns policy into shared, actionable steps. By giving clinicians control over what to check and engineers a clear specification to implement, OIP-SCE provides a single, auditable evaluation surface that aligns AI capability with clinical workflow and supports routine, safe use."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Stable Filtering for Efficient Dimensionality Reduction of Streaming Manifold Data",
+    "authors": "Nicholas P. Bertrand, Eva Yezerets, Han Lun Yap, Adam S. Charles, Christopher J. Rozell",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08685v1",
+    "source": "arXiv",
+    "abstract": "Many areas in science and engineering now have access to technologies that enable the rapid collection of overwhelming data volumes. While these datasets are vital for understanding phenomena from physical to biological and social systems, the sheer magnitude of the data makes even simple storage, transmission, and basic processing highly challenging. To enable efficient and accurate execution of these data processing tasks, we require new dimensionality reduction tools that 1) do not need expensive, time-consuming training, and 2) preserve the underlying geometry of the data that has the information required to understand the measured system. Specifically, the geometry to be preserved is that induced by the fact that in many applications, streaming high-dimensional data evolves on a low-dimensional attractor manifold. Importantly, we may not know the exact structure of this manifold a priori. To solve these challenges, we present randomized filtering (RF), which leverages a specific instantiation of randomized dimensionality reduction to provably preserve non-linear manifold structure in the embedded space while remaining data-independent and computationally efficient. In this work we build on the rich theoretical promise of randomized dimensionality reduction to develop RF as a real, practical approach. We introduce novel methods, analysis, and experimental verification to illuminate the practicality of RF in diverse scientific applications, including several simulated and real-data examples that showcase the tangible benefits of RF."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "A method for converting high energy physics detector description into a Unity visualization",
+    "authors": "Tianzi Song, Yumei Zhang, Zhengyun You",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08680v1",
+    "source": "arXiv",
+    "abstract": "Detector visualization plays a vital role in high energy physics (HEP) experiments, yet existing detector descriptions, such as GDML, lack compatibility with industrial 3D tools. We present an automated conversion framework that transforms four major HEP detector descriptions, including GDML, Geant4, ROOT and DD4hep, into standardized FBX models compatible with a industrial 3D platform called Unity. This solution enables HEP detectors to be directly visualized in the professional 3D ecosystem, which is of great help for detector design verification, event display development, and public participation."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "RULERS: Locked Rubrics and Evidence-Anchored Scoring for Robust LLM Evaluation",
+    "authors": "Yihan Hong, Huaiyuan Yao, Bolin Shen, Wanpeng Xu, Hua Wei, Yushun Dong",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08654v1",
+    "source": "arXiv",
+    "abstract": "The LLM-as-a-Judge paradigm promises scalable rubric-based evaluation, yet aligning frozen black-box models with human standards remains a challenge due to inherent generation stochasticity. We reframe judge alignment as a criteria transfer problem and isolate three recurrent failure modes: rubric instability caused by prompt sensitivity, unverifiable reasoning that lacks auditable evidence, and scale misalignment with human grading boundaries. To address these issues, we introduce RULERS (Rubric Unification, Locking, and Evidence-anchored Robust Scoring), a compiler-executor framework that transforms natural language rubrics into executable specifications. RULERS operates by compiling criteria into versioned immutable bundles, enforcing structured decoding with deterministic evidence verification, and applying lightweight Wasserstein-based post-hoc calibration, all without updating model parameters. Extensive experiments on essay and summarization benchmarks demonstrate that RULERS significantly outperforms representative baselines in human agreement, maintains strong stability against adversarial rubric perturbations, and enables smaller models to rival larger proprietary judges. Overall, our results suggest that reliable LLM judging requires executable rubrics, verifiable evidence, and calibrated scales rather than prompt phrasing alone. Code is available at https://github.com/LabRAI/Rulers.git."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "A decentralized academic certificate issuance system using smart contracts on the tron network",
+    "authors": "Ana Julia Evangelista Andrade, Flavio Cezar Amate",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08513v1",
+    "source": "arXiv",
+    "abstract": "This paper presents the design, implementation, and evaluation of a decentralized system for issuing and verifying academic certificates based on blockchain technology. The proposed solution addresses common limitations of traditional certification models, such as susceptibility to forgery, reliance on centralized infrastructures, and inefficient verification processes. The system is built on the TRON blockchain and integrates smart contracts written in Solidity, a decentralized web application (dApp) for user interaction, and the InterPlanetary File System (IPFS) for decentralized storage of certificate metadata. The methodology comprised architectural design, smart contract development, and the implementation of a web-based interface, followed by functional, security, performance, and usability evaluations. Experimental results show that the system correctly supports certificate issuance and public verification, enforces access control, and resists common misuse scenarios. Performance analysis indicates low confirmation latency and negligible transaction costs, making the solution suitable for large-scale academic environments. Additionally, usability assessment using the System Usability Scale (SUS) resulted in a score of 76.67, indicating good user acceptance. Overall, the results demonstrate the technical feasibility and practical viability of the proposed approach, highlighting the TRON blockchain as an effective and cost-efficient infrastructure for decentralized academic certification systems."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "On Deciding Constant Runtime of Linear Loops",
+    "authors": "Florian Frohn, Jürgen Giesl, Peter Giesl, Nils Lommen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08492v1",
+    "source": "arXiv",
+    "abstract": "We consider linear single-path loops of the form \\[ \\textbf{while} \\quad \\varphi \\quad \\textbf{do} \\quad \\vec{x} \\gets A \\vec{x} + \\vec{b} \\quad \\textbf{end} \\] where $\\vec{x}$ is a vector of variables, the loop guard $\\varphi$ is a conjunction of linear inequations over the variables $\\vec{x}$, and the update of the loop is represented by the matrix $A$ and the vector $\\vec{b}$. It is already known that termination of such loops is decidable. In this work, we consider loops where $A$ has real eigenvalues, and prove that it is decidable whether the loop's runtime (for all inputs) is bounded by a constant if the variables range over $\\mathbb R$ or $\\mathbb Q$. This is an important problem in automatic program verification, since safety of linear while-programs is decidable if all loops have constant runtime, and it is closely connected to the existence of multiphase-linear ranking functions, which are often used for termination and complexity analysis. To evaluate its practical applicability, we also present an implementation of our decision procedure."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Quantitative Analysis of Proxy Tasks for Anomalous Sound Detection",
+    "authors": "Seunghyeon Shin, Seokjin Lee",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08480v1",
+    "source": "arXiv",
+    "abstract": "Anomalous sound detection (ASD) typically involves self-supervised proxy tasks to learn feature representations from normal sound data, owing to the scarcity of anomalous samples. In ASD research, proxy tasks such as AutoEncoders operate under the explicit assumption that models trained on normal data will increase the reconstruction errors related to anomalies. A natural extension suggests that improved proxy task performance should improve ASD capability; however, this relationship has received little systematic attention. This study addresses this research gap by quantitatively analyzing the relationship between proxy task metrics and ASD performance across five configurations, namely, AutoEncoders, classification, source separation, contrastive learning, and pre-trained models. We evaluate the learned representations using linear probe (linear separability) and Mahalanobis distance (distributional compactness). Our experiments reveal that strong proxy performance does not necessarily improve anomalous sound detection performance. Specifically, classification tasks experience performance saturation owing to insufficient task difficulty, whereas contrastive learning fails to learn meaningful features owing to limited data diversity. Notably, source separation is the only task demonstrating a strong positive correlation, such that improved separation consistently improves anomaly detection. Based on these findings, we highlight the critical importance of task difficulty and objective alignment. Finally, we propose a three-stage alignment verification protocol to guide the design of highly effective proxy tasks for ASD systems."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Do You Understand How I Feel?: Towards Verified Empathy in Therapy Chatbots",
+    "authors": "Francesco Dettori, Matteo Forasassi, Lorenzo Veronese, Livia Lestingi, Vincenzo Scotti, Matteo Giovanni Rossi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08477v1",
+    "source": "arXiv",
+    "abstract": "Conversational agents are increasingly used as support tools along mental therapeutic pathways with significant societal impacts. In particular, empathy is a key non-functional requirement in therapeutic contexts, yet current chatbot development practices provide no systematic means to specify or verify it. This paper envisions a framework integrating natural language processing and formal verification to deliver empathetic therapy chatbots. A Transformer-based model extracts dialogue features, which are then translated into a Stochastic Hybrid Automaton model of dyadic therapy sessions. Empathy-related properties can then be verified through Statistical Model Checking, while strategy synthesis provides guidance for shaping agent behavior. Preliminary results show that the formal model captures therapy dynamics with good fidelity and that ad-hoc strategies improve the probability of satisfying empathy requirements."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "sui-1: Grounded and Verifiable Long-Form Summarization",
+    "authors": "Benedikt Droste, Jan Philipp Harries, Maximilian Idahl, Björn Plüster",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08472v1",
+    "source": "arXiv",
+    "abstract": "Large language models frequently generate plausible but unfaithful summaries that users cannot verify against source text, a critical limitation in compliance-sensitive domains such as government and legal analysis. We present sui-1, a 24B parameter model that produces abstractive summaries with inline citations, enabling users to trace each claim to its source sentence. Our synthetic data pipeline combines chain-of-thought prompting with multi-stage verification, generating over 22,000 high-quality training examples across five languages from diverse sources including parliamentary documents, web text, and Wikipedia. Evaluation shows sui-1 significantly outperforms all tested open-weight baselines, including models with 3x more parameters. These results demonstrate that task-specific training substantially outperforms scale alone for citation-grounded summarization. Model weights and an interactive demo are publicly available."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "JudgeRLVR: Judge First, Generate Second for Efficient Reasoning",
+    "authors": "Jiangshan Duo, Hanyu Li, Hailin Zhang, Yudong Wang, Sujian Li, Liang Zhao",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08468v1",
+    "source": "arXiv",
+    "abstract": "Reinforcement Learning with Verifiable Rewards (RLVR) has become a standard paradigm for reasoning in Large Language Models. However, optimizing solely for final-answer correctness often drives models into aimless, verbose exploration, where they rely on exhaustive trial-and-error tactics rather than structured planning to reach solutions. While heuristic constraints like length penalties can reduce verbosity, they often truncate essential reasoning steps, creating a difficult trade-off between efficiency and verification. In this paper, we argue that discriminative capability is a prerequisite for efficient generation: by learning to distinguish valid solutions, a model can internalize a guidance signal that prunes the search space. We propose JudgeRLVR, a two-stage judge-then-generate paradigm. In the first stage, we train the model to judge solution responses with verifiable answers. In the second stage, we fine-tune the same model with vanilla generating RLVR initialized from the judge. Compared to Vanilla RLVR using the same math-domain training data, JudgeRLVR achieves a better quality--efficiency trade-off for Qwen3-30B-A3B: on in-domain math, it delivers about +3.7 points average accuracy gain with -42\\% average generation length; on out-of-domain benchmarks, it delivers about +4.5 points average accuracy improvement, demonstrating enhanced generalization."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Incentivizing Cardiologist-Like Reasoning in MLLMs for Interpretable Echocardiographic Diagnosis",
+    "authors": "Yi Qin, Lehan Wang, Chenxu Zhao, Alex P. W. Lee, Xiaomeng Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08440v1",
+    "source": "arXiv",
+    "abstract": "Echocardiographic diagnosis is vital for cardiac screening yet remains challenging. Existing echocardiography foundation models do not effectively capture the relationships between quantitative measurements and clinical manifestations, whereas medical reasoning multimodal large language models (MLLMs) require costly construction of detailed reasoning paths and remain ineffective at directly incorporating such echocardiographic priors into their reasoning. To address these limitations, we propose a novel approach comprising Cardiac Reasoning Template (CRT) and CardiacMind to enhance MLLM's echocardiographic reasoning by introducing cardiologist-like mindset. Specifically, CRT provides stepwise canonical diagnostic procedures for complex cardiac diseases to streamline reasoning path construction without the need for costly case-by-case verification. To incentivize reasoning MLLM under CRT, we develop CardiacMind, a new reinforcement learning scheme with three novel rewards: Procedural Quantity Reward (PQtR), Procedural Quality Reward (PQlR), and Echocardiographic Semantic Reward (ESR). PQtR promotes detailed reasoning; PQlR promotes integration of evidence across views and modalities, while ESR grounds stepwise descriptions in visual content. Our methods show a 48% improvement in multiview echocardiographic diagnosis for 15 complex cardiac diseases and a 5% improvement on CardiacNet-PAH over prior methods. The user study on our method's reasoning outputs shows 93.33% clinician agreement with cardiologist-like reasoning logic. Our code will be available."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation",
+    "authors": "Sunzhu Li, Jiale Zhao, Miteto Wei, Huimin Ren, Yang Zhou, Jingwen Yang, Shunyu Liu, Kaike Zhang, Wei Chen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08430v1",
+    "source": "arXiv",
+    "abstract": "Reinforcement Learning with Verifiable Rewards (RLVR) has driven substantial progress in reasoning-intensive domains like mathematics. However, optimizing open-ended generation remains challenging due to the lack of ground truth. While rubric-based evaluation offers a structured proxy for verification, existing methods suffer from scalability bottlenecks and coarse criteria, resulting in a supervision ceiling effect. To address this, we propose an automated Coarse-to-Fine Rubric Generation framework. By synergizing principle-guided synthesis, multi-model aggregation, and difficulty evolution, our approach produces comprehensive and highly discriminative criteria capable of capturing the subtle nuances. Based on this framework, we introduce RubricHub, a large-scale ($\\sim$110k) and multi-domain dataset. We validate its utility through a two-stage post-training pipeline comprising Rubric-based Rejection Sampling Fine-Tuning (RuFT) and Reinforcement Learning (RuRL). Experimental results demonstrate that RubricHub unlocks significant performance gains: our post-trained Qwen3-14B achieves state-of-the-art (SOTA) results on HealthBench (69.3), surpassing proprietary frontier models such as GPT-5. The code and data will be released soon."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Verification of continuous variable entanglement with undetected photons",
+    "authors": "Sanjukta Kundu, Balakrishnan Viswanathan, Pawel Szczypkowski, Gabriela Barreto Lemos, Mayukh Lahiri, Radek Lapkiewicz",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08364v1",
+    "source": "arXiv",
+    "abstract": "We verify transverse spatial entanglement of photon-pairs generated in spontaneous parametric down conversion using a nonlinear interferometric technique without relying on any coincidence detection. We experimentally demonstrate the violation of the Einstein-Podolsky-Rosen criterion and of the Mancini-Giovannetti-Vitali-Tombesi criterion using single photon interference of one of the photons of the pairs. We also provide a comprehensive theoretical analysis. The experimental results that we have obtained show good agreement with the theoretical values. Our method performs well under experimental losses and can be applied to highly non-degenerate sources, where there are no suitable detectors for one of the photons in the quantum state and our method could also be extended to the discrete degrees of freedom to certify high-dimensional (OAM) entanglement."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Through the bottle authentication of red wine using near-IR fluorescence spectroscopy",
+    "authors": "Ané Kritzinger, Ralf Mouthaan, Graham D. Bruce, Eric Wilkes, Kishan Dholakia",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08298v1",
+    "source": "arXiv",
+    "abstract": "A major unaddressed challenge for food science remains the accurate characterisation of contents in sealed containers with a non-invasive method. This issue is particularly pressing for tackling fraud in the red wine industry, valued at billions of dollars globally, where product authenticity, brand reputation, and consumer trust are paramount. Whilst many techniques exist for authenticating wine externally, to date performing accurate classification of the contents within unopened bottles remains elusive. Using only a single near-infrared optical excitation source operating at a wavelength of 785 nm, in combination with a bespoke geometry to circumvent the confounding signal of the glass, we demonstrate that through-bottle fluorescence spectra can distinguish between twenty different red wines in their original, intact bottles. All twenty wine bottles were correctly classified with linear discriminant analysis (LDA) and principal component analysis (PCA) revealed strong varietal grouping. This non-invasive and rapid technique has the potential to enable on-site, routine wine authentication to combat the growing issue of wine fraud. The geometry itself is applicable across multiple fields for the analysis of other high-value products through their packaging, where authenticity verification is critical."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding",
+    "authors": "Qitan Lv, Tianyu Liu, Wen Wu, Xuenan Xu, Bowen Zhou, Feng Wu, Chao Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08273v1",
+    "source": "arXiv",
+    "abstract": "Speculative decoding (SD) has emerged as a promising approach to accelerate LLM inference without sacrificing output quality. Existing SD methods tailored for video-LLMs primarily focus on pruning redundant visual tokens to mitigate the computational burden of massive visual inputs. However, existing methods do not achieve inference acceleration comparable to text-only LLMs. We observe from extensive experiments that this phenomenon mainly stems from two limitations: (i) their pruning strategies inadequately preserve visual semantic tokens, degrading draft quality and acceptance rates; (ii) even with aggressive pruning (e.g., 90% visual tokens removed), the draft model's remaining inference cost limits overall speedup. To address these limitations, we propose HIPPO, a general holistic-aware parallel speculative decoding framework. Specifically, HIPPO proposes (i) a semantic-aware token preservation method, which fuses global attention scores with local visual semantics to retain semantic information at high pruning ratios; (ii) a video parallel SD algorithm that decouples and overlaps draft generation and target verification phases. Experiments on four video-LLMs across six benchmarks demonstrate HIPPO's effectiveness, yielding up to 3.51x speedup compared to vanilla auto-regressive decoding."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "T3: Benchmarking Sycophancy and Skepticism in Causal Judgment",
+    "authors": "Edward Y. Chang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08258v1",
+    "source": "arXiv",
+    "abstract": "We introduce T3 (Testing Trustworthy Thinking), a diagnostic benchmark designed to rigorously evaluate LLM causal judgment across Pearl's Ladder of Causality. Comprising 454 expert-curated vignettes, T3 prioritizes high-resolution failure analysis, decomposing performance into Utility (sensitivity), Safety (specificity), and Wise Refusal on underdetermined cases. By applying T3 to frontier models, we diagnose two distinct pathologies: a \"Skepticism Trap\" at L1 (where safety-tuned models like Claude Haiku reject 60% of valid links) and a non-monotonic Scaling Paradox at L3. In the latter, the larger GPT-5.2 underperforms GPT-4-Turbo by 55 points on ambiguous counterfactuals, driven by a collapse into paralysis (excessive hedging) rather than hallucination. Finally, we use the benchmark to validate a process-verified protocol (RCA), showing that T3 successfully captures the restoration of decisive causal judgment under structured verification."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "DNF: Dual-Layer Nested Fingerprinting for Large Language Model Intellectual Property Protection",
+    "authors": "Zhenhua Xu, Yiran Zhao, Mengting Zhong, Dezhang Kong, Changting Lin, Tong Qiao, Meng Han",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08223v1",
+    "source": "arXiv",
+    "abstract": "The rapid growth of large language models raises pressing concerns about intellectual property protection under black-box deployment. Existing backdoor-based fingerprints either rely on rare tokens -- leading to high-perplexity inputs susceptible to filtering -- or use fixed trigger-response mappings that are brittle to leakage and post-hoc adaptation. We propose \\textsc{Dual-Layer Nested Fingerprinting} (DNF), a black-box method that embeds a hierarchical backdoor by coupling domain-specific stylistic cues with implicit semantic triggers. Across Mistral-7B, LLaMA-3-8B-Instruct, and Falcon3-7B-Instruct, DNF achieves perfect fingerprint activation while preserving downstream utility. Compared with existing methods, it uses lower-perplexity triggers, remains undetectable under fingerprint detection attacks, and is relatively robust to incremental fine-tuning and model merging. These results position DNF as a practical, stealthy, and resilient solution for LLM ownership verification and intellectual property protection."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "WIP: A Pedagogical Prompt Engineering Framework for LLM-Based Feedback in Higher Education (PPE-LLM)",
+    "authors": "Eyman Alyahyan, Mireilla Bikanga Ada, Jake Lever",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328552",
+    "source": "IEEE",
+    "abstract": "This Work-in-Progress (WIP) paper introduces PPE-LLM, a structured framework for prompt engineering that enables LLM -generated feedback to be pedagogically meaningful and tailored to novice programming students in introductory pro-gramming education. Although large language models (LLMs) show promise for feedback generation, existing research lacks a structured methodology that integrates pedagogical principles, student needs, best-practice prompting, and technical consid-erations. PPE- LLM addresses this gap by providing a theory-driven framework that supports the systematic design of prompts to generate formative feedback, enhancing learning tailored to students' learning levels and needs. This paper presents the key components of the framework, along with a practical example prompt. It also analyses the alignment of recent CER studies with the PPE- LLM components. The results indicate that studies with limited alignment often produced inconsistent or lower-quality feedback, whereas more substantial alignment was found to be pedagogically effective in AI-generated feedback. Future work includes expert validation and student evaluation in real-world settings."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "LLM-enhanced Intent-Aware for Proactive Decision Support Services in Industrial Activities_supp1-3650172.pdf",
+    "authors": "Hongwei Jiang",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tase.2025.3650172/mm1",
+    "source": "IEEE",
+    "abstract": "The growing complexity of industrial systems demands a transition from passive monitoring to proactive decision support, a shift that hinges on advanced intelligent perception. However, most systems remain confined to brittle, rule-based logic, which operates on fixed symptom-to-action mappings and thus cannot perceive the underlying, context-dependent operational intent. This perceptual gap is particularly detrimental especially in fault diagnosis, where this inability to adapt leads to frequent misdiagnoses and costly downtime. To overcome this limitation, this paper introduces the Intent-Aware Enhancement Framework (IAEF)<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">1</sup>, which replaces static rules by actively creating and reasoning over a dynamic causal model. This is achieved through two core method. The Information Theory-guided Causal Graph Revision (ITCGR) algorithm provides the foundation by constructing a reliable causal model, uniquely leveraging information-theoretic metrics to guide an LLM for verifiable revisions on sparse data. Building on this model, the Multi-scale Adaptive Path Reasoning (MAPR) method then infers the true operational intent, employing a novel adaptive fusion model to robustly navigate complex inference chains. Experimental validation in a real-world case demonstrates the framework’s ability to accurately diagnose fault root causes under varying conditions, a task where traditional systems fail. The proposed approach significantly outperforms baselines, providing a foundational methodology for advancing industrial intelligence."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "Indoor Climate Monitoring and Forecasting with Agentic-RAG-LLM",
+    "authors": "Muhammad Arslan",
+    "publish": "2025 20th International Conference on Emerging Technologies (ICET)",
+    "url": "https://doi.org/10.1109/icet66147.2025.11321427",
+    "source": "IEEE",
+    "abstract": "Indoor climate monitoring is essential for ensuring occupant comfort, productivity, and energy efficiency in modern buildings. Effective regulation of temperature and humidity not only enhances well-being but also minimises operational costs and environmental impact through intelligent climate control. However, traditional methods for analysing sensor-based thermal data often demand specialised expertise in data processing, modelling, and visualisation, creating barriers for facility managers and other non-technical stakeholders. To address this challenge, this study presents an Agentic Retrieval-Augmented Generation (RAG) system that integrates a Large Language Model (LLM) with time-series forecasting for intuitive indoor climate analysis and prediction. The proposed framework combines the reasoning and retrieval capabilities of an LLM with the Prophet model for forecasting, enabling users to interact with complex environmental datasets through natural language (NL) queries. The system provides both descriptive analytics, including hourly and daily temperature, humidity patterns, seasonal trends, and variability, and predictive insights, such as short-term forecasts and long-term trend detection. Demonstrated using five months of real-world temperature and humidity data with projections for early September, the system illustrates how an Agentic-RAG-LLM can serve as intelligent intermediaries between sensor data and human decision-making. This proof-of-concept highlights a scalable, transparent, and user-friendly approach to indoor environmental intelligence, democratising advanced data analysis and supporting sustainable, human-centered building management."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "LLM Chatbot-Creation Approaches",
+    "authors": "Hemil Mehta, Tanvi Raut, Kohav Yadav, Edward F. Gehringer",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328158",
+    "source": "IEEE",
+    "abstract": "This full research-to-practice paper explores approaches for developing course chatbots by comparing low-code platforms and custom-coded solutions in educational contexts. With the rise of Large Language Models (LLMs) like GPT-4 and LLaMA, LLM-based chatbots are being integrated into teaching workflows to automate tasks, provide assistance, and offer scalable support. However, selecting the optimal development strategy requires balancing ease of use, customization, data privacy, and scalability. This study compares two development approaches: low-code platforms like AnythingLLM and Botpress, with custom-coded solutions using LangChain, FAISS, and FastAPI. The research uses Prompt engineering, Retrievalaugmented generation (RAG), and personalization to evaluate chatbot prototypes across technical performance, scalability, and user experience. Findings indicate that while low-code platforms enable rapid prototyping, they face limitations in customization and scaling, while custom-coded systems offer more control but require significant technical expertise. Both approaches successfully implement key research principles such as adaptive feedback loops and conversational continuity. The study provides a framework for selecting the appropriate development strategy based on institutional goals and resources. Future work will focus on hybrid solutions that combine low-code accessibility with modular customization and incorporate multimodal input for intelligent tutoring systems."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "Multimodal Quiz Generation via RAG with LLM-as-Judge Evaluation",
+    "authors": "Mourya Teja Kunuku, Nasrin Dehbozorgi",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328244",
+    "source": "IEEE",
+    "abstract": "This paper presents a novel multimodal quiz generation framework that integrates audio, visual, and textual data using a Retrieval-Augmented Generation (RAG) architecture. The system leverages LLaVA for vision-language understanding and LLaMA 3.1 for text generation to produce contextually relevant and pedagogically meaningful multiple-choice questions (MCQs) from lecture videos. This approach addresses key limitations of traditional text-only quiz generation models by capturing richer, multimodal information. The system was tested on a real-world use case, generating 15 MCQs from the first lecture in an introductory computer science course. To evaluate the effectiveness of the generated quizzes, we designed a two-stage evaluation framework. In the first stage, we assessed retrieval and generation performance using standard metrics such as Hit Rate, Mean Reciprocal Rank (MRR), Correctness, Relevance, and Faithfulness. In the second stage, we examined how closely AI evaluations align with human expert judgments. We involved four human raters and three LLM-as-Judge models—Claude 3 Sonnet, GPT-4, and LLaMA 3.1—to evaluate each question. To analyze agreement, we used Percentage Agreement, Cohen's Kappa, Spearman's Rho, and Krippendorff's Alpha, capturing both exact matches and ordinal consistency. Our results show high retrieval accuracy and reasonable alignment between LLM based and human assessments, particularly in factual and procedural questions. However, discrepancies emerged in questions requiring deeper reasoning or visual interpretation, where human raters exhibited stronger consistency. These findings highlight the strengths of LLMs in scalable content generation, while reinforcing the need for human oversight in evaluating complex educational tasks. This work takes a significant step toward more human-aligned and effective AI-driven assessment systems."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "Evaluating LLM Engines for TA Chatbots",
+    "authors": "Shyamal Gandhi, Sai Santhosh Garlapati, Vinay Vobbilichetty, Edward F Gehringer",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328166",
+    "source": "IEEE",
+    "abstract": "This full research paper investigates the application of AI-powered teaching assistant chatbots using seven prominent Large Language Models (LLMs). The aim is to assess their effectiveness in addressing course-specific academic queries with accuracy, depth, and pedagogical value. We developed a comprehensive evaluation framework comprising diverse questions spanning multiple subjects, cognitive levels, and complexity. The evaluation methodology combined an LLM-as-a-Judge approach, expert human reviews, and integrity stress testing. Furthermore, we propose a composite metric integrating explanation clarity, pedagogical relevance, and ethical consideration to holistically assess each model's performance. Our initial findings reveal notable performance variations among the models, with some excelling in clarity and adaptability while others display gaps in depth and ethical response handling. These insights are valuable for educators seeking to deploy AI-driven support tools effectively, helping to optimize student engagement and reduce instructional burdens. Looking ahead, this research provides a strong foundation for expanding LLM-based teaching assistant systems beyond Computer Science to broader educational contexts, aiming for enhanced scalability and learner-centered outcomes."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "An LLM-based Neuro-symbolic Approach for Designing Fuzzy Logic Controllers",
+    "authors": "Faiqa Rashid, Yin Long",
+    "publish": "2025 International Conference on Frontiers of Information Technology (FIT)",
+    "url": "https://doi.org/10.1109/fit67061.2025.11333630",
+    "source": "IEEE",
+    "abstract": "Traditional fuzzy logic controller design demands extensive domain expertise, manual rule crafting, and iterative tuning, all of which are barriers that limit accessibility and scalability for non-experts. This paper introduces a framework that leverages large language models (LLMs) guided by zero-shot chain-of-thought (ZS-CoT) prompting to generate fuzzy logic controller code using natural language scenarios. By using ZS-CoT prompting, the framework guides LLMs to think step-by-step to transform control requirements into executable Python code with scikit-fuzzy library. The system consists of three important components: an LLM reasoning engine, a symbolic execution engine, and an error feedback mechanism for iterative refinement. The experimental evaluation in different control scenarios, like temperature, traffic, and water level management, shows major improvements compared to the baseline approach. DeepSeek-Coder achieved a 100% success rate, compared to 46.7% without ZS-CoT. WizardCoder increased rule complexity from 0.4 to 4.87 and variables from 0.27 to 2.4 on average. Star-Coder2 reached a 66.7% success rate, performing consistently across short and detailed scenarios. The results indicate that both structured reasoning and iterative feedback-based refinement play an important part in generating credible and domain-agnostic fuzzy controllers, making the design process accessible, and user-friendly."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "“Send to which account?” Evaluation of an LLM-based Scambaiting System",
+    "authors": "Hossein Siadati, Haadi Jafarian, Sima Jafarikhah",
+    "publish": "2025 APWG Symposium on Electronic Crime Research (eCrime)",
+    "url": "https://doi.org/10.1109/ecrime66972.2025.11327722",
+    "source": "IEEE",
+    "abstract": "Scammers are increasingly harnessing generative AI (GenAI) technologies to produce convincing phishing content at scale, amplifying financial fraud and undermining public trust. While conventional defenses, such as detection algorithms, user training, and reactive takedown efforts remain important, they often fall short in dismantling the infrastructure scammers depend on, including mule bank accounts and cryptocurrency wallets. To bridge this gap, a proactive and emerging strategy involves using conversational honeypots to engage scammers and extract actionable threat intelligence.This paper presents the first large-scale, real-world evaluation of a scambaiting system powered by large language models (LLMs). Over a five-month deployment, the system initiated over 2,600 engagements with actual scammers, resulting in a dataset of more than 18,700 messages. It achieved an Information Disclosure Rate (IDR) of approximately 32%, successfully extracting sensitive financial information such as mule accounts. Additionally, the system maintained a Human Acceptance Rate (HAR) of around 70%, indicating strong alignment between LLM-generated responses and human operator preferences. Alongside these successes, our analysis reveals key operational challenges. In particular, the system struggled with engagement takeoff: only 48.7% of scammers responded to the initial seed message sent by defenders. These findings highlight the need for further refinement and provide actionable insights for advancing the design of automated scambaiting systems."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "LLM-QGraph: Threat Intelligence Query Graph Construction with Large Language Models",
+    "authors": "Hongfa Yang, Yu Wen, Dan Meng",
+    "publish": "2025 IEEE Symposium on Computers and Communications (ISCC)",
+    "url": "https://doi.org/10.1109/iscc65549.2025.11325784",
+    "source": "IEEE",
+    "abstract": "Advanced Persistent Threats (APTs) and other organized and targeted cyber threats pose significant risks to critical areas such as national politics and economy. Security personnel need to analyze threat intelligence to hunt suspicious behaviors in the system. Existing threat intelligence graph construction methods have limitations such as insufficient temporal continuity and low accuracy in constructing threat intelligence knowledge graphs. To address these issues, this paper proposes an automated method named LLM-QGraph for constructing threat intelligence query graphs based on LLMs. This method designs appropriate prompts to fine-tune the Llama3 model, enabling it to generate log sequences that describe the attack steps according to CTI, thereby compensating for the neglect of temporal relationships. Threat intelligence query graphs are constructed through an improved provenance graph algorithm to enhance the performance of threat hunting. Experiments are conducted on four real-world datasets. The results show that compared with other graph-based methods, the query graphs constructed by this method are more effective in threat hunting applications."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "WIP: Automated Extraction of Domain-Specific Concept Maps Using a RAG-LLM Ensemble Framework",
+    "authors": "Zane Hutchens, Qiong Cheng",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328309",
+    "source": "IEEE",
+    "abstract": "This work-in-progress research-to-practice paper explores the development of an explainable, AI-driven ensemble framework for automatically generating subject-specific concept hierarchies from eTextbooks. Concept graphs play a central role in modern intelligent tutoring systems (ITSs), as they organize domain knowledge and support the tracking of student progress while enabling personalized and adaptive learning pathways or recommendations. Recent studies have explored the use of large language models (LLMs) to extract concept maps, but the generalized nature of LLM training introduces challenges such as hallucinations, mathematical errors, and biases, leading to uncertainty in their outputs. To address these limitations, this study integrates retrieval-augmented generati6ton (RAG)-based techniques with LLMs including Gemini-1.5-flash and Gemma-3. We integrated these models with classical machine learning methods and evaluated our RAG-LLM framework using referencefree verification through multiple benchmarking methods, ensuring reliability and reducing uncertainty in the generated concept graphs. We have been employing CS2-DS as an example to investigate the efficacy of the RAG-based AI-driven ensemble approach. Our preliminary findings indicate good evaluation scores on the following test cases: relevance of answers, context faithfulness, context precision, and context recall. Further systematic investigation will focus on refining and evaluating the use of the framework and comparing different models and fine-tuning techniques."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "LLM Contribution Summarization in Software Projects",
+    "authors": "Rafael Corsi Ferrão, Fabio de Miranda, Diego Pavan Soler, Marcelo Augusto Vieira Graglia",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328654",
+    "source": "IEEE",
+    "abstract": "This full paper in innovative practice provides an automated tool to summarize individual code contributions in project-based courses with external clients. Real industry projects offer valuable learning opportunities by immersing students in authentic problems defined by external clients. However, the open-ended and highly variable scope of these projects makes it challenging for instructors and teaching assistants to provide timely and detailed feedback. This paper addresses the need for an automated and objective approach to evaluate individual contributions within team projects. In this paper, we present a tool that leverages a large language model (LLM) to automatically summarize code contributions extracted from version control repositories. The tool preprocesses and structures repository data, and uses PyDriller to isolate individual contributions. Its uniqueness lies in the combination of LLM prompt engineering with automated repository analysis, thus reducing the manual grading burden while providing regular and informative updates. The tool was assessed over two semesters during a three-week, full-time software development sprint involving 65 students. Weekly summaries were provided to teams, and both student and faculty feedback indicated the tool's overall usefulness in informing grading and guidance. The tool reports, in large proportion, activities that were in fact performed by the student, with some failure to detect students contribution. The summaries were considered by the instructors as a useful potential tool to keep up with the projects."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "Scalable UVM Verification Components (UVCs) to Accelerate Functional Verification of SoCs",
+    "authors": "Muhammad Yasir Farooq, Haroon Waris, Nasir Mohyuddin, Sajid Baloch, Anees Ullah",
+    "publish": "2025 20th International Conference on Emerging Technologies (ICET)",
+    "url": "https://doi.org/10.1109/icet66147.2025.11321432",
+    "source": "IEEE",
+    "abstract": "The functional verification is an important step in system on chip (SoC) design process. Generally, the SoC consists of a processor with peripherals, interconnects, on-chip memories with error correction code (ECC) based schemes and communication protocols. An error-free SoC requires the individual blocks to be verified at IP, subsystem and SoC level. Therefore, there is need of such verification techniques and platform which are completely reusable at all levels of verification. The universal verification methodology (UVM) is an industry standard and is widely used for verifying functionality of SoCs nowadays. It is worth mentioning that the existing open source UVCs can only be easily used for IP level verification and a lot of human effort is required to tailor them for subsystem and SoC-level verification frameworks. In this paper, scalable UVM Verification Components (UVCs) are proposed that are robust enough to be used at IP, subsystem and SoC level. The proposed UVCs are: 1) Fault-injection for ECC based memories, 2) APB, 3) Wishbone, 4) SPI, 5) UART, 6), GPIO and 7) Clk-Reset. Moreover, a purposely designed fault injecting UVC for ECC based memories ensures that the memory used in RISC-V based SoCs can effectively handle different fault types. The result shows that the UVCs accelerated the functional verification of a RISC-V based SoC and 100% functional coverage closure goals are achieved."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "WIP: CodeInspector: Automated LLM-Supported CS1-Level Code Assessment",
+    "authors": "Essa Imhmed, Edgar Ceh-Varela, Ludwig Scherer, George Candal, Ivan Sanjaya",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328429",
+    "source": "IEEE",
+    "abstract": "This research-to-practice WIP paper presents CodeInspector—an automated assessment system for CS1-level Java assignments. Designed for scalability and modularity, CodeInspector streamlines and standardizes code assessment, promoting a more equitable learning environment. Our preliminary findings suggest that CodeInspector is promising. It reduces instructors' assessment workload while providing students with immediate, formative feedback that supports an iterative learning process. Additionally, CodeInspector offers students insights into their performance through error-weighted densities benchmarked against class-wide averages."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps and Large Language Models Reasoning_supp1-3653280.mp4",
+    "authors": "Fujing Xie",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/lra.2026.3653280/mm1",
+    "source": "IEEE",
+    "abstract": "Recent open-vocabulary robot mapping methods enrich dense geometric maps with pre-trained visual-language features, achieving a high level of detail and guiding robots to find objects specified by open-vocabulary language queries. While the issue of scalability for such approaches has received some attention, another fundamental problem is that high-detail object mapping quickly becomes outdated, as objects get moved around a lot. In this work, we develop a mapping and navigation system for object-goal navigation that, from the ground up, considers the possibilities that a queried object can have moved, or may not be mapped at all. Instead of striving for high-fidelity mapping detail, we consider that the main purpose of a map is to provide environment grounding and context, which we combine with the semantic priors of LLMs to reason about object locations and deploy an active, online approach to navigate to the objects. Through simulated and real-world experiments we find that our approach tends to have higher retrieval success at shorter path lengths for static objects and by far outperforms prior approaches in cases of dynamic or unmapped object queries."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "LLM-Enabled Data Transmission in End-to-End Semantic Communication",
+    "authors": "Shavbo Salehi, Melike Erol-Kantarci, Dusit Niyato",
+    "publish": "2025 IEEE Symposium on Computers and Communications (ISCC)",
+    "url": "https://doi.org/10.1109/iscc65549.2025.11326061",
+    "source": "IEEE",
+    "abstract": "Emerging services such as augmented reality (AR) and virtual reality (VR) have increased the volume of data transmitted in wireless communication systems, revealing the limitations of traditional Shannon theory. To address these limitations, semantic communication has been proposed as a solution that prioritizes the meaning of messages over the exact transmission of bits. This paper explores semantic communication for text data transmission in end-to-end (E2E) systems through a novel approach called KG-LLM semantic communication, which integrates knowledge graph (KG) extraction and large language model (LLM) coding. In this method, the transmitter first utilizes a KG to extract key entities and relationships from sentences. The extracted information is then encoded using an LLM to obtain the semantic meaning. On the receiver side, messages are decoded using another LLM, while a bidirectional encoder representations from transformers (i.e., BERT) model further refines the reconstructed sentences for improved semantic similarity. The KG-LLM semantic communication method reduces the transmitted text data volume by $30 \\%$ through KG-based compression and achieves $84 \\%$ semantic similarity between the original and received messages. This demonstrates the KG-LLM methods efficiency and robustness in semantic communication systems, outperforming the deep learning-based semantic communication model (DeepSC), which achieves only $63 \\%$."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "WIP: How Effective are Llm-Implemented Autograders for Programming Assignments Compared to Human Graders?",
+    "authors": "Kevin Lewis, Hui Chen",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328152",
+    "source": "IEEE",
+    "abstract": "This research-to-practice WIP paper describes the development and evaluation of a generative Large Language Model (gLLM)-based autograder for computer programming assignments. Manual grading is becoming increasingly unsustainable due to growing student enrollment and the demand for timely, high-quality feedback. To address these challenges, this study explores the use of automated grading tools to reduce instructors' workload and improve scalability. The proposed autograder takes a “reverse-engineering” approach, i.e., it converts student code into structured natural language summaries, which are then compared against predefined grading rubrics. An evaluation is performed using an external dataset (the Menagerie dataset), which contains real student submissions graded by four human graders. The objective is to assess the alignment between grades assigned by the autograder and those assigned by human graders. Findings indicate that the autograder closely matches human grading when letter grades are considered, though it performs less accurately with fine-grained numerical scores. While not yet a complete substitute for human assessment, the autograder shows strong potential as a scalable, efficient tool for supporting grading in programming education."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "Evaluating Handwritten and Multimodal, Free-Style Responses in Algorithms and Data Structures: A RAG-LLM-Based Feedback Framework",
+    "authors": "Samhith Dara, Qiong Cheng",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328498",
+    "source": "IEEE",
+    "abstract": "This innovative practice full paper presents a retrieval-augmented large language model (RAG-LLM) framework for evaluating handwritten and multimodal, freeform student responses. In the age of AI, open-ended questions play a vital role in computer science and engineering education, aligning with the ICAP framework to promote deeper cognitive engagement. However, large enrollments pose significant challenges in assessing such responses and delivering highquality, personalized feedback at scale while minimizing attentional errors. To address this issue, we introduce a tool that leverages RAG-LLMs to enable scalable, automated assessment and feedback generation with interpretable reasoning. By incorporating domain-specific content, vector-based context retrieval, and evaluation validation, our approach aims to reduce hallucinations, errors, and biases in generative AI outputs-ultimately enhancing both feedback accuracy and instructional value. We applied the framework to 816 student submissions from a graduate-level Algorithms course (Fall 2023), focusing on responses identifying the Big O notation of recurrence relations, which were manually graded with curated feedback. Using five LLMs and three embedding models, we conducted prompt engineering and evaluated the pipeline across four quality metrics. Our results show that while LLM choice had minimal impact, the selection of sentence encodings significantly influenced evaluation outcomes. We also applied the pipeline to auto-assess 770 responses from the Spring 2025 offering of the same course, with positive and promising results based on student perception data."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "Enhancing Incident Response Through Sigma MCP and Operational Policy Integration with LLM",
+    "authors": "Wataru Matsuda, Mariko Fujimoto, Yoshihiro Hashimoto, Takuho Mitsunaga, Kenji Watanabe",
+    "publish": "2025 IEEE International Conference on Computing (ICOCO)",
+    "url": "https://doi.org/10.1109/icoco67189.2025.11334152",
+    "source": "IEEE",
+    "abstract": "In this study, we propose Sigma MCP (Model Context Protocol), a method designed to improve the accuracy of incident response in computer security operations. The proposed system detects suspicious logs based on Sigma rules and analyzes the results using a large language model (LLM) to enable high-precision attack assessment. While logs that match Sigma rules are generally considered highly indicative of attacks, our approach extends this by incorporating organization-specific operational rules and security policies, which are interpreted and evaluated by the LLM to further improve accuracy.In recent years, attack techniques such as Living off the Land (LotL), which abuse legitimate tools and commands, have become increasingly prevalent. This trend makes it more difficult to distinguish malicious activity from normal operations. In such environments, reducing false detection has become a critical challenge. To address this issue, Sigma MCP combines rulebased deterministic detection with the flexible interpretation of operational knowledge via an LLM. This design enables even non-expert security personnel to effectively reduce the overhead of false positive handling.To evaluate the effectiveness of the proposed approach, we conducted a comparative analysis with Elasticsearch MCP. The results showed that when detection was performed using Sigma MCP with operational rule consideration, the identified events were more likely to be actual attacks, and the overall detection precision improved. In contrast, while Elasticsearch MCP was able to detect a wider range of events, it was also more prone to generating false positives."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "The Richer Representation Fallacy: Are We Just Adding Noise to LLM-based Software Vulnerability Detectors?",
+    "authors": "Hazim Hanif, Sergio Maffeis, Nor Badrul Anuar",
+    "publish": "2025 IEEE International Conference on Computing (ICOCO)",
+    "url": "https://doi.org/10.1109/icoco67189.2025.11334069",
+    "source": "IEEE",
+    "abstract": "Large Language Models (LLMs) have established strong baselines for software vulnerability detection, leading to a common assumption that their performance can be enhanced by augmenting them with supplementary information such as Abstract Syntax Trees (ASTs), software metrics, or expanded pre-training data. However, the actual efficacy of these computationally expensive techniques over a robust LLM baseline remains unevaluated, potentially misdirecting research efforts. This paper aims to empirically test this \"more is better\" assumption by conducting a large-scale study that evaluates four supplementary techniques: multi-task learning, software metrics injection, data expansion, and hybrid graph representations against a high-performing LLM baseline, VulBERTa, on the CodeXGLUE benchmark for C/C++ code. Our findings demonstrate that none of these complex techniques provides a statistically significant performance improvement, as the baseline model's tokenization and attention mechanisms already capture the necessary information, rendering the additions redundant. However, we identify software metrics injection as an effective method for tuning the precision-recall trade-off, a critical capability for practitioners needing to minimize false negatives. This paper concludes that for LLM-based vulnerability detection, adding external complexity offers diminishing returns, and future efforts should focus on core model improvements, supporting a \"less is more\" approach."
+  },
+  {
+    "date": "2026-1-13",
+    "title": "Research on Personalized Cognitive Graph Based on Large Language Models (LLM) for Education",
+    "authors": "Ying Li, Yiming Gai, Leilei Sun, Xingyu Wang, Chaoxu Wang, Xuefei Huang",
+    "publish": "2025 IEEE Frontiers in Education Conference (FIE)",
+    "url": "https://doi.org/10.1109/fie63693.2025.11328431",
+    "source": "IEEE",
+    "abstract": "Traditional educational systems struggle to model dynamic cognitive processes, limiting personalized interventions. This paper presents a Learner Cognitive Graph (LCG) framework using educational large language models with bias mitigation to address this challenge. We introduce a Dynamic Cognition Graph (DCG) to represent spatiotemporal interactions among students, knowledge, and exercises, capturing cognitive evolution and state transitions. A reverse Turing test-driven agent collects multi-modal behavioral data via structured prompts with hallucination control, while dynamic graph neural networks and reinforcement learning enable behavior prediction and personalized intervention optimization. The framework forms a closed loop from perception to adaptive support, enhancing cognitive modeling precision and providing scalable learning support. Key innovations include heterogeneous DCG construction, interactive data extraction with bias detection, and data-driven intervention design. This work advances intelligent educational systems while addressing inherent biases in large language models."
+  }
+]
