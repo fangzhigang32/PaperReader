@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2026-01-14",
+    "title": "LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation",
+    "authors": "Stergios Chatzikyriakidis",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09631v1",
+    "source": "arXiv",
+    "abstract": "Large Language Models (LLMs), despite their remarkable capabilities across NLP tasks, struggle with phonologically-grounded phenomena like rhyme detection and generation. This is even more evident in lower-resource languages such as Modern Greek. In this paper, we present a hybrid system that combines LLMs with deterministic phonological algorithms to achieve accurate rhyme identification/analysis and generation. Our approach implements a comprehensive taxonomy of Greek rhyme types, including Pure, Rich, Imperfect, Mosaic, and Identical Pre-rhyme Vowel (IDV) patterns, and employs an agentic generation pipeline with phonological verification. We evaluate multiple prompting strategies (zero-shot, few-shot, Chain-of-Thought, and RAG-augmented) across several LLMs including Claude 3.7 and 4.5, GPT-4o, Gemini 2.0 and open-weight models like Llama 3.1 8B and 70B and Mistral Large. Results reveal a significant \"Reasoning Gap\": while native-like models (Claude 3.7) perform intuitively (40\\% accuracy in identification), reasoning-heavy models (Claude 4.5) achieve state-of-the-art performance (54\\%) only when prompted with Chain-of-Thought. Most critically, pure LLM generation fails catastrophically (under 4\\% valid poems), while our hybrid verification loop restores performance to 73.1\\%. We release our system and a crucial, rigorously cleaned corpus of 40,000+ rhymes, derived from the Anemoskala and Interwar Poetry corpora, to support future research."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "SiliconHealth: A Complete Low-Cost Blockchain Healthcare Infrastructure for Resource-Constrained Regions Using Repurposed Bitcoin Mining ASICs",
+    "authors": "Francisco Angulo de Lafuente, Seid Mehammed Abdu, Nirmal Tej",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09557v1",
+    "source": "arXiv",
+    "abstract": "This paper presents SiliconHealth, a comprehensive blockchain-based healthcare infrastructure designed for resource-constrained regions, particularly sub-Saharan Africa. We demonstrate that obsolete Bitcoin mining Application-Specific Integrated Circuits (ASICs) can be repurposed to create a secure, low-cost, and energy-efficient medical records system. The proposed architecture employs a four-tier hierarchical network: regional hospitals using Antminer S19 Pro (90+ TH/s), urban health centers with Antminer S9 (14 TH/s), rural clinics equipped with Lucky Miner LV06 (500 GH/s, 13W), and mobile health points with portable ASIC devices. We introduce the Deterministic Hardware Fingerprinting (DHF) paradigm, which repurposes SHA-256 mining ASICs as cryptographic proof generators, achieving 100% verification rate across 23 test proofs during 300-second validation sessions. The system incorporates Reed-Solomon LSB watermarking for medical image authentication with 30-40% damage tolerance, semantic Retrieval-Augmented Generation (RAG) for intelligent medical record queries, and offline synchronization protocols for intermittent connectivity. Economic analysis demonstrates 96% cost reduction compared to GPU-based alternatives, with total deployment cost of $847 per rural clinic including 5-year solar power infrastructure. Validation experiments on Lucky Miner LV06 (BM1366 chip, 5nm) achieve 2.93 MH/W efficiency and confirm hardware universality. This work establishes a practical framework for deploying verifiable, tamper-proof electronic health records in regions where traditional healthcare IT infrastructure is economically unfeasible, potentially benefiting over 600 million people lacking access to basic health information systems."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes",
+    "authors": "Gunhee Cho",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09556v1",
+    "source": "arXiv",
+    "abstract": "This book gives a geometry-first, hardware-aware route through quantum-information workflows, with one goal: connect states, circuits, and measurement to deterministic classical pipelines that make hybrid quantum systems run. Part 1 develops the backbone (essential linear algebra, the Bloch-sphere viewpoint, differential-geometric intuition, and quantum Fisher information geometry) so evolution can be read as motion on curved spaces and measurement as statistics. Part 2 reframes circuits as dataflow graphs: measurement outcomes are parsed, aggregated, and reduced to small linear-algebra updates that schedule the next pulses, highlighting why low-latency, low-jitter streaming matters. Part 3 treats multi-qubit structure and entanglement as geometry and computation, including teleportation, superdense coding, entanglement detection, and Shor's algorithm via quantum phase estimation. Part 4 focuses on topological error correction and real-time decoding (Track A): stabilizer codes, surface-code decoding as \"topology -> graph -> algorithm\", and Union-Find decoders down to microarchitectural/RTL constraints, with verification, fault injection, and host/control-stack integration under product metrics (bounded latency, p99 tails, fail-closed policies, observability). Optional Track C covers quantum cryptography and streaming post-processing (BB84/E91, QBER/abort rules, privacy amplification, and zero-knowledge/post-quantum themes), emphasizing FSMs, counters, and hash pipelines. Appendices provide visualization-driven iCEstick labs (switch-to-bit conditioning, fixed-point phase arithmetic, FSM sequencing, minimal control ISAs), bridging principles to implementable systems."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Proof of a Conjecture on Young Tableaux with Walls",
+    "authors": "Zhicong Lin, Feihu Liu, Jiahang Liu, Jing Liu, Guoce Xin",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09551v1",
+    "source": "arXiv",
+    "abstract": "Banderier, Marchal and Wallner considered Young tableaux with walls, which are similar to standard Young tableaux, except that local decreases are allowed at some walls. In this work, we prove a conjecture of Fuchs and Yu concerning the enumeration of two classes of three-row Young tableaux with walls. Combining with the work by Chang, Fuchs, Liu, Wallner and Yu leads to the verification of a conjecture on tree-child networks proposed by Pons and Batle. This conjecture was regarded as a specific and challenging problem in the Phylogenetics community until it was finally resolved by the present work."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "A note on critical problems involving the $p$-Grushin Operator: existence of infinitely many solutions",
+    "authors": "Paolo Malanchini, Giovanni Molica Bisci, Simone Secchi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09488v1",
+    "source": "arXiv",
+    "abstract": "We consider a critical problem in a bounded domain involving the $p$-Grushin operator $Δ_α^p$. After a truncation argument, we obtain infinitely many solutions to our problem via Krasnoselskii's genus, extending a previous result of García Azorero and Peral Alonso to the $p$-Grushin operator. A central part of our analysis is the verification of the Palais-Smale condition of the associated functional under a certain level."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Personalized Multimodal Feedback Using Multiple External Representations: Strategy Profiles and Learning in High School Physics",
+    "authors": "Natalia Revenga-Lozano, Karina E. Avila, Steffen Steinert, Matthias Schweinberger, Clara E. Gómez-Pérez, Jochen Kuhn, Stefan Küchemann",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09470v1",
+    "source": "arXiv",
+    "abstract": "Multiple external representations (MERs) and personalized feedback support physics learning, yet evidence on how personalized feedback can effectively integrate MERs remains limited. This question is particularly timely given the emergence of multimodal large language models. We conducted a 16-24 week observational study in high school physics (N=661) using a computer-based platform that provided verification and optional elaborated feedback in verbal, graphical and mathematical forms. Linear mixed-effects models and strategy-cluster analyses (ANCOVA-adjusted comparisons) tested associations between feedback use and post-test performance and moderation by representational competence. Elaborated multirepresentational feedback showed a small but consistent positive association with post-test scores independent of prior knowledge and confidence. Learners adopted distinct representation-selection strategies; among students with lower representational competence, using a diverse set of representations related to higher learning, whereas this advantage diminished as competence increased. These findings motivate adaptive feedback designs and inform intelligent tutoring systems capable of tailoring feedback elaboration and representational format to learner profiles, advancing personalized instruction in physics education."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Improving Symbolic Translation of Language Models for Logical Reasoning",
+    "authors": "Ramya Keerthy Thatikonda, Jiuzhou Han, Wray Buntine, Ehsan Shareghi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09446v1",
+    "source": "arXiv",
+    "abstract": "The use of formal language for deductive logical reasoning aligns well with language models (LMs), where translating natural language (NL) into first-order logic (FOL) and employing an external solver results in a verifiable and therefore reliable reasoning system. However, smaller LMs often struggle with this translation task, frequently producing incorrect symbolic outputs due to formatting and translation errors. Existing approaches typically rely on self-iteration to correct these errors, but such methods depend heavily on the capabilities of the underlying model. To address this, we first categorize common errors and fine-tune smaller LMs using data synthesized by large language models. The evaluation is performed using the defined error categories. We introduce incremental inference, which divides inference into two stages, predicate generation and FOL translation, providing greater control over model behavior and enhancing generation quality as measured by predicate metrics. This decomposition framework also enables the use of a verification module that targets predicate-arity errors to further improve performance. Our study evaluates three families of models across four logical-reasoning datasets. The comprehensive fine-tuning, incremental inference, and verification modules reduce error rates, increase predicate coverage, and improve reasoning performance for smaller LMs, moving us closer to developing reliable and accessible symbolic-reasoning systems."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Video-MSR: Benchmarking Multi-hop Spatial Reasoning Capabilities of MLLMs",
+    "authors": "Rui Zhu, Xin Shen, Shuchen Wu, Chenxi Miao, Xin Yu, Yang Li, Weikang Li, Deguo Xia, Jizhou Huang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09430v1",
+    "source": "arXiv",
+    "abstract": "Spatial reasoning has emerged as a critical capability for Multimodal Large Language Models (MLLMs), drawing increasing attention and rapid advancement. However, existing benchmarks primarily focus on single-step perception-to-judgment tasks, leaving scenarios requiring complex visual-spatial logical chains significantly underexplored. To bridge this gap, we introduce Video-MSR, the first benchmark specifically designed to evaluate Multi-hop Spatial Reasoning (MSR) in dynamic video scenarios. Video-MSR systematically probes MSR capabilities through four distinct tasks: Constrained Localization, Chain-based Reference Retrieval, Route Planning, and Counterfactual Physical Deduction. Our benchmark comprises 3,052 high-quality video instances with 4,993 question-answer pairs, constructed via a scalable, visually-grounded pipeline combining advanced model generation with rigorous human verification. Through a comprehensive evaluation of 20 state-of-the-art MLLMs, we uncover significant limitations, revealing that while models demonstrate proficiency in surface-level perception, they exhibit distinct performance drops in MSR tasks, frequently suffering from spatial disorientation and hallucination during multi-step deductions. To mitigate these shortcomings and empower models with stronger MSR capabilities, we further curate MSR-9K, a specialized instruction-tuning dataset, and fine-tune Qwen-VL, achieving a +7.82% absolute improvement on Video-MSR. Our results underscore the efficacy of multi-hop spatial instruction data and establish Video-MSR as a vital foundation for future research. The code and data will be available at https://github.com/ruiz-nju/Video-MSR."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "True Masses using RV data with Hipparcos and Gaia Astrometry",
+    "authors": "G. Piccinini, A. Petralia, A. Sozzetti, S. Benatti, D. Gandolfi, G. Micela",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09401v1",
+    "source": "arXiv",
+    "abstract": "Long-period companions are detected and characterized thanks to long-baseline radial velocity surveys. Combining Doppler time-series with astrometry, and in particular with proper motion anomalies technique, it is possible to put strong constraints on their orbital inclination and true mass. This work aims to present a model that combines Hipparcos and Gaia astrometric data with radial velocity measurements to constrain the orbital inclinations and true masses of long-period companions. Additionally, we re-analyse a small sample of targets that have not yet been studied using this combined approach. This research leverages the simultaneous modelling of proper motion anomalies and radial velocities, in conjunction with an analysis of the sensitivity curve. This approach serves not only as a verification of the parameters but also as a means to acquire valuable insights into planetary systems. The new analyses reveal that some of the targets classified as brown dwarfs or small-mass stars have a planetary nature. HD 5388 b and HD 6718 b are likely planets. HD 141937 b is likely a planet, but the current dataset does not allow us to firmly constrain its true mass. HD 16760 b belongs to the brown dwarf regime and it has a probable second companion. 30 Ari B b falls within the stellar regime, but the presence of an additional stellar companion could compromise the reliability of the final results. For HD 148427 b, HD 96127 b and HIP 65891 b we determined a range for the orbital inclinations."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Uplink Multi-User MIMO Implementation in OpenAirInterface for a Cell-Free O-RAN Testbed",
+    "authors": "Utku Uçak, Fariba Armandoust, Matthias Mehlhose, Daniel Schäufele, Jochen Fink, Renato L. G. Cavalcante, Sławomir Stańczak",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09384v1",
+    "source": "arXiv",
+    "abstract": "Cell-Free Multiple-Input Multiple-Output (MIMO) and Open Radio Access Network (O-RAN) have been active research topics in the wireless communication community in recent years. As an open-source software implementation of the 3rd Generation Partnership Project (3GPP) 5th Generation (5G) protocol stack, OpenAirInterface (OAI) has become a valuable tool for deploying and testing new ideas in wireless communication systems. In this paper, we present our OAI based real-time uplink Multi-User MIMO (MU-MIMO) testbed developed at Fraunhofer HHI. As a part of our Cell-Free MIMO testbed development, we built a 2x2 MU-MIMO system using general purpose computers and commercially available software defined radios (SDRs). Using a modified OAI next-Generation Node-B (gNB) and two unmodified OAI user equipment (UE), we show that it is feasible to use Sounding Reference Signal (SRS) channel estimates to compute uplink combiners. Our results verify that this method can be used to separate and decode signals from two users transmitting in nonorthogonal time-frequency resources. This work serves as an important verification step to build a complete Cell-Free MU-MIMO system that leverages time domain duplexing (TDD) reciprocity to do downlink beamforming over multiple cells."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Formally Verifying Noir Zero Knowledge Programs with NAVe",
+    "authors": "Pedro Antonino, Namrata Jain",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09372v1",
+    "source": "arXiv",
+    "abstract": "Zero-Knowledge (ZK) proof systems are cryptographic protocols that can (with overwhelming probability) demonstrate that the pair $(X, W)$ is in a relation $R$ without revealing information about the private input $W$. This membership checking is captured by a complex arithmetic circuit: a set of polynomial equations over a finite field. ZK programming languages, like Noir, have been proposed to simplify the description of these circuits. A developer can write a Noir program using traditional high-level constructs that can be compiled into a lower-level ACIR (Abstract Circuit Intermediate Representation), which is essentially a high-level description of an arithmetic circuit. In this paper, we formalise some of the ACIR language using SMT-LIB and its extended theory of finite fields. We use this formalisation to create an open-source formal verifier for the Noir language using the SMT solver cvc5. Our verifier can be used to check whether Noir programs behave appropriately. For instance, it can be used to check whether a Noir program has been properly constrained, that is, the finite-field polynomial equations generated truly capture the intended relation. We evaluate our verifier over 4 distinct sets of Noir programs, demonstrating its practical applicability and identifying a hard-to-check constraint type that charts an improvement path for our verification framework."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Experimental verification of the conservation of the magnetic moment and the longitudinal invariant",
+    "authors": "Juan Carlos Agurto, Felipe Darmazo, Amanda Guerra, Erick Burgos-Parra",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09189v1",
+    "source": "arXiv",
+    "abstract": "Adiabatic invariants are fundamental to plasma physics but are often treated as purely theoretical concepts in undergraduate courses due to the difficulty of experimentally demonstrating them. This paper presents a pedagogical experiment to visualize and quantitatively verify the conservation of the magnetic moment ($μ$) and the longitudinal invariant ($J$) using a standard educational electron charge-to-mass ratio apparatus configured as a magnetic bottle. By analyzing long-exposure photographs of the electron beam trajectory, we reconstructed the helical motion and calculated the invariants under different magnetic field configurations. Our results verify the conservation of the longitudinal invariant ($J$) with a ratio of 0.98 between configurations. The magnetic moment ($μ$) exhibited a coefficient of variation of approximately 7\\%, a deviation consistent with the presence of collisional effects in the tube. These findings demonstrate that complex plasma dynamics can be effectively studied using accessible laboratory equipment, providing a valuable bridge between theory and experiment for physics students."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "StegoStylo: Squelching Stylometric Scrutiny through Steganographic Stitching",
+    "authors": "Robert Dilworth",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09056v1",
+    "source": "arXiv",
+    "abstract": "Stylometry--the identification of an author through analysis of a text's style (i.e., authorship attribution)--serves many constructive purposes: it supports copyright and plagiarism investigations, aids detection of harmful content, offers exploratory cues for certain medical conditions (e.g., early signs of dementia or depression), provides historical context for literary works, and helps uncover misinformation and disinformation. In contrast, when stylometry is employed as a tool for authorship verification--confirming whether a text truly originates from a claimed author--it can also be weaponized for malicious purposes. Techniques such as de-anonymization, re-identification, tracking, profiling, and downstream effects like censorship illustrate the privacy threats that stylometric analysis can enable. Building on these concerns, this paper further explores how adversarial stylometry combined with steganography can counteract stylometric analysis. We first present enhancements to our adversarial attack, $\\textit{TraceTarnish}$, providing stronger evidence of its capacity to confound stylometric systems and reduce their attribution and verification accuracy. Next, we examine how steganographic embedding can be fine-tuned to mask an author's stylistic fingerprint, quantifying the level of authorship obfuscation achievable as a function of the proportion of words altered with zero-width Unicode characters. Based on our findings, steganographic coverage of 33% or higher seemingly ensures authorship obfuscation. Finally, we reflect on the ways stylometry can be used to undermine privacy and argue for the necessity of defensive tools like $\\textit{TraceTarnish}$."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Probabilistic Computers for MIMO Detection: From Sparsification to 2D Parallel Tempering",
+    "authors": "M Mahmudul Hasan Sajeeb, Corentin Delacour, Kevin Callahan-Coray, Sanjay Seshan, Tathagata Srimani, Kerem Y. Camsari",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09037v1",
+    "source": "arXiv",
+    "abstract": "Probabilistic computers built from p-bits offer a promising path for combinatorial optimization, but the dense connectivity required by real-world problems scales poorly in hardware. Here, we address this through graph sparsification with auxiliary copy variables and demonstrate a fully on-chip parallel tempering solver on an FPGA. Targeting MIMO detection, a dense, NP-hard problem central to wireless communications, we fit 15 temperature replicas of a 128-node sparsified system (1,920 p-bits) entirely on-chip and achieve bit error rates significantly below conventional linear detectors. We report complete end-to-end solution times of 4.7 ms per instance, with all loading, sampling, readout, and verification overheads included. ASIC projections in 7 nm technology indicate about 90 MHz operation with less than 200 mW power dissipation, suggesting that massive parallelism across multiple chips could approach the throughput demands of next-generation wireless systems. However, sparsification introduces sensitivity to the copy-constraint strength. Employing Two-Dimensional Parallel Tempering (2D-PT), which exchanges replicas across both temperature and constraint dimensions, we demonstrate over 10X faster convergence without manual parameter tuning. These results establish an on-chip p-bit architecture and a scalable algorithmic framework for dense combinatorial optimization."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Universal Latent Homeomorphic Manifolds: Cross-Domain Representation Learning via Homeomorphism Verification",
+    "authors": "Tong Wu, Tayab Uddin Wara, Daniel Hernandez, Sidong Lei",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09025v1",
+    "source": "arXiv",
+    "abstract": "We present the Universal Latent Homeomorphic Manifold (ULHM), a framework that unifies semantic representations (e.g., human descriptions, diagnostic labels) and observation-driven machine representations (e.g., pixel intensities, sensor readings) into a single latent structure. Despite originating from fundamentally different pathways, both modalities capture the same underlying reality. We establish \\emph{homeomorphism}, a continuous bijection preserving topological structure, as the mathematical criterion for determining when latent manifolds induced by different semantic-observation pairs can be rigorously unified. This criterion provides theoretical guarantees for three critical applications: (1) semantic-guided sparse recovery from incomplete observations, (2) cross-domain transfer learning with verified structural compatibility, and (3) zero-shot compositional learning via valid transfer from semantic to observation space. Our framework learns continuous manifold-to-manifold transformations through conditional variational inference, avoiding brittle point-to-point mappings. We develop practical verification algorithms, including trust, continuity, and Wasserstein distance metrics, that empirically validate homeomorphic structure from finite samples. Experiments demonstrate: (1) sparse image recovery from 5\\% of CelebA pixels and MNIST digit reconstruction at multiple sparsity levels, (2) cross-domain classifier transfer achieving 86.73\\% accuracy from MNIST to Fashion-MNIST without retraining, and (3) zero-shot classification on unseen classes achieving 89.47\\% on MNIST, 84.70\\% on Fashion-MNIST, and 78.76\\% on CIFAR-10. Critically, the homeomorphism criterion correctly rejects incompatible datasets, preventing invalid unification and providing a feasible way to principled decomposition of general foundation models into verified domain-specific components."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Inferring Latent Intentions: Attributional Natural Language Inference in LLM Agents",
+    "authors": "Xin Quan, Jiafeng Xiong, Marco Valentino, André Freitas",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08742v1",
+    "source": "arXiv",
+    "abstract": "Attributional inference, the ability to predict latent intentions behind observed actions, is a critical yet underexplored capability for large language models (LLMs) operating in multi-agent environments. Traditional natural language inference (NLI), in fact, fails to capture the nuanced, intention-driven reasoning essential for complex interactive systems. To address this gap, we introduce Attributional NLI (Att-NLI), a framework that extends NLI with principles from social psychology to assess an agent's capacity for abductive intentional inference (generating hypotheses about latent intentions), and subsequent deductive verification (drawing valid logical conclusions). We instantiate Att-NLI via a textual game, Undercover-V, experimenting with three types of LLM agents with varying reasoning capabilities and access to external tools: a standard NLI agent using only deductive inference, an Att-NLI agent employing abductive-deductive inference, and a neuro-symbolic Att-NLI agent performing abductive-deductive inference with external theorem provers. Extensive experiments demonstrate a clear hierarchy of attributional inference capabilities, with neuro-symbolic agents consistently outperforming others, achieving an average win rate of 17.08%. Our results underscore the role that Att-NLI can play in developing agents with sophisticated reasoning capabilities, highlighting, at the same time, the potential impact of neuro-symbolic AI in building rational LLM agents acting in multi-agent environments."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "PrivGemo: Privacy-Preserving Dual-Tower Graph Retrieval for Empowering LLM Reasoning with Memory Augmentation",
+    "authors": "Xingyu Tan, Xiaoyang Wang, Qing Liu, Xiwei Xu, Xin Yuan, Liming Zhu, Wenjie Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08739v1",
+    "source": "arXiv",
+    "abstract": "Knowledge graphs (KGs) provide structured evidence that can ground large language model (LLM) reasoning for knowledge-intensive question answering. However, many practical KGs are private, and sending retrieved triples or exploration traces to closed-source LLM APIs introduces leakage risk. Existing privacy treatments focus on masking entity names, but they still face four limitations: structural leakage under semantic masking, uncontrollable remote interaction, fragile multi-hop and multi-entity reasoning, and limited experience reuse for stability and efficiency. To address these issues, we propose PrivGemo, a privacy-preserving retrieval-augmented framework for KG-grounded reasoning with memory-guided exposure control. PrivGemo uses a dual-tower design to keep raw KG knowledge local while enabling remote reasoning over an anonymized view that goes beyond name masking to limit both semantic and structural exposure. PrivGemo supports multi-hop, multi-entity reasoning by retrieving anonymized long-hop paths that connect all topic entities, while keeping grounding and verification on the local KG. A hierarchical controller and a privacy-aware experience memory further reduce unnecessary exploration and remote interactions. Comprehensive experiments on six benchmarks show that PrivGemo achieves overall state-of-the-art results, outperforming the strongest baseline by up to 17.1%. Furthermore, PrivGemo enables smaller models (e.g., Qwen3-4B) to achieve reasoning performance comparable to that of GPT-4-Turbo."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback",
+    "authors": "Prithwish Jana, Sam Davidson, Bhavana Bhasker, Andrey Kan, Anoop Deoras, Laurent Callot",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08734v1",
+    "source": "arXiv",
+    "abstract": "Automating Infrastructure-as-Code (IaC) is challenging, and large language models (LLMs) often produce incorrect configurations from natural language (NL). We present TerraFormer, a neuro-symbolic framework for IaC generation and mutation that combines supervised fine-tuning with verifier-guided reinforcement learning, using formal verification tools to provide feedback on syntax, deployability, and policy compliance. We curate two large, high-quality NL-to-IaC datasets, TF-Gen (152k instances) and TF-Mutn (52k instances), via multi-stage verification and iterative LLM self-correction. Evaluations against 17 state-of-the-art LLMs, including ~50x larger models like Sonnet 3.7, DeepSeek-R1, and GPT-4.1, show that TerraFormer improves correctness over its base LLM by 15.94% on IaC-Eval, 11.65% on TF-Gen (Test), and 19.60% on TF-Mutn (Test). It outperforms larger models on both TF-Gen (Test) and TF-Mutn (Test), ranks third on IaC-Eval, and achieves top best-practices and security compliance."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "All Required, In Order: Phase-Level Evaluation for AI-Human Dialogue in Healthcare and Beyond",
+    "authors": "Shubham Kulkarni, Alexander Lyzhov, Shiva Chaitanya, Preetam Joshi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08690v1",
+    "source": "arXiv",
+    "abstract": "Conversational AI is starting to support real clinical work, but most evaluation methods miss how compliance depends on the full course of a conversation. We introduce Obligatory-Information Phase Structured Compliance Evaluation (OIP-SCE), an evaluation method that checks whether every required clinical obligation is met, in the right order, with clear evidence for clinicians to review. This makes complex rules practical and auditable, helping close the gap between technical progress and what healthcare actually needs. We demonstrate the method in two case studies (respiratory history, benefits verification) and show how phase-level evidence turns policy into shared, actionable steps. By giving clinicians control over what to check and engineers a clear specification to implement, OIP-SCE provides a single, auditable evaluation surface that aligns AI capability with clinical workflow and supports routine, safe use."
+  },
+  {
+    "date": "2026-01-13",
+    "title": "Stable Filtering for Efficient Dimensionality Reduction of Streaming Manifold Data",
+    "authors": "Nicholas P. Bertrand, Eva Yezerets, Han Lun Yap, Adam S. Charles, Christopher J. Rozell",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.08685v1",
+    "source": "arXiv",
+    "abstract": "Many areas in science and engineering now have access to technologies that enable the rapid collection of overwhelming data volumes. While these datasets are vital for understanding phenomena from physical to biological and social systems, the sheer magnitude of the data makes even simple storage, transmission, and basic processing highly challenging. To enable efficient and accurate execution of these data processing tasks, we require new dimensionality reduction tools that 1) do not need expensive, time-consuming training, and 2) preserve the underlying geometry of the data that has the information required to understand the measured system. Specifically, the geometry to be preserved is that induced by the fact that in many applications, streaming high-dimensional data evolves on a low-dimensional attractor manifold. Importantly, we may not know the exact structure of this manifold a priori. To solve these challenges, we present randomized filtering (RF), which leverages a specific instantiation of randomized dimensionality reduction to provably preserve non-linear manifold structure in the embedded space while remaining data-independent and computationally efficient. In this work we build on the rich theoretical promise of randomized dimensionality reduction to develop RF as a real, practical approach. We introduce novel methods, analysis, and experimental verification to illuminate the practicality of RF in diverse scientific applications, including several simulated and real-data examples that showcase the tangible benefits of RF."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "CRADLE: Conversational RTL Design Space Exploration with LLM-Based Multi-Agent Systems",
+    "authors": "Lukas Krupp, Maximilian Schöffel, Elias Biehl, Norbert Wehn",
+    "publish": "2025 22nd International SoC Design Conference (ISOCC)",
+    "url": "https://doi.org/10.1109/isocc66390.2025.11329873",
+    "source": "IEEE",
+    "abstract": "This paper presents CRADLE, a conversational framework for design space exploration of RTL designs using LLM-based multi-agent systems. Unlike existing rigid approaches, CRADLE enables user-guided flows with internal self-verification, correction, and optimization. We demonstrate the framework with a generator-critic agent system targeting FPGA resource minimization using state-of-the-art LLMs. Experimental results on the RTLLM benchmark show that CRADLE achieves significant reductions in resource usage with averages of 48% and 40% in LUTs and FFs across all benchmark designs."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "LLM Implementation for Multi-Objective University Timetabling: Technical Description",
+    "authors": "Vitali Atias, Emil Doychev",
+    "publish": "2025 International Conference Automatics and Informatics (ICAI)",
+    "url": "https://doi.org/10.1109/icai67591.2025.11325059",
+    "source": "IEEE",
+    "abstract": "This paper evaluates Large Language Models (LLMs) for multi-objective university timetabling optimization. The system utilizes a LangGraph-based state machine with specialized nodes to generate schedules, resolve conflicts, and perform multi-objective evaluations across five dimensions: minimizing conflicts, maximizing student satisfaction, optimizing resource utilization, accommodating professor preferences, and ensuring specialty compliance. Eleven LLMs (with 1 billion to 27 billion parameters) were tested on CPU-only infrastructure across five complexity scenarios, including the Gemma and Llama model families. Statistical analysis revealed that the Gemma3:12B model performed best, demonstrating superior consistency and reliability. In contrast, Llama models demonstrated faster processing but lower quality. Analysis of performance degradation showed that Gemma models were more robust (declining by 31%-32%) than Llama models (declining by 53%-60%) as complexity increased. Key findings indicate that models with fewer than 12 billion parameters consistently fail to produce viable schedules. The staged workflow successfully separates the phases of constraint interpretation and solution generation. This study provides empirical evidence for selecting LLMs for university timetabling and establishes performance benchmarks across model families and complexity levels."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "LLM-based Multi-Modal Variational Autoencoders for Entity Linking",
+    "authors": "Qian Li, Shangguang Wang",
+    "publish": "2025 IEEE Cyber Science and Technology Congress (CyberSciTech)",
+    "url": "https://doi.org/10.1109/cyberscitech68397.2025.00051",
+    "source": "IEEE",
+    "abstract": "Multi-modal Entity Linking (MEL) involves mapping mentions within multi-modal contexts to their corresponding entities in knowledge bases on social networks. Existing approaches often rely on complex multi-modal interaction mechanisms, which make the models vulnerable to modality collapse, a situation where one modality dominates the learning process, thereby diminishing the contribution of other modalities. In this paper, we propose a novel LLM-based Multi-modal Variational Autoencoders framework to address the challenges in MEL. Our method effectively mitigates the issue of modality collapse in LLM-based multi-modal VAEs and skillfully handles the complexities of multi-modal interactions. The LLM leverages its robust language understanding capabilities to enhance text-based entity linking. The multi-modal VAEs integrate both textual and visual information, capturing intricate correlations between modalities. By judiciously balancing the contributions of each modality during the learning process, our approach ensures equitable and comprehensive integration of multimodal data sources. The proposed technique prevents the dominance of any single modality, establishing a balanced learning regime. Experimental results demonstrate that our approach outperforms existing methods on benchmark datasets, achieving superior performance."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "PQC-LLM: Post-Quantization Delta Compression for LLMs",
+    "authors": "Yujin Zhong, Chao Wu, Cheng Ji",
+    "publish": "2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)",
+    "url": "https://doi.org/10.1109/icpads67057.2025.11322900",
+    "source": "IEEE",
+    "abstract": "The massive parameter scale and substantial storage requirements of large language models (LLMs) hinder their deployment on edge devices and in real-world applications, even after quantization. To address this challenge, we propose PQC-LLM, a Post-Quantization delta Compression scheme for LLMs. PQC-LLM is motivated by two key observations: (1) quantized LLMs still exhibit redundancy on the least significant bits (LSBs); (2) State-of-the-art (SOTA) quantization techniques could only converge to a local optimum. To exploit the potential, PQC-LLM performs a tile-wise deterministic bit replacement by uniformly substituting the least significant <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$N$</tex> bits of all weights within the same tile with the constant bit value. We employ a network architecture search (NAS) mechanism to determine the optimal bit length and value of the uniform replacement. Subsequently, we perform delta compression on each tile using the first weight as the base value. Extensive experiments show that, PQC-LLM effectively reduces the storage requirements of quantized LLMs with negligible lossy or improved task accuracy."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "SafeSQL-LLM: A Synthetic Data Approach to Privacy-Preserving Text-to-SQL",
+    "authors": "Rui Zhang, Shenghui Zhao",
+    "publish": "2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)",
+    "url": "https://doi.org/10.1109/icpads67057.2025.11323205",
+    "source": "IEEE",
+    "abstract": "Text-to-SQL systems powered by large language models (LLMs) enable intuitive natural language access to structured databases, but querying sensitive tables via cloud-hosted models raises critical privacy concerns. We present SafeSQLLLM, a hybrid framework that preserves privacy without sacrificing query accuracy. Our approach uses a local LLM to generate synthetic table rows that statistically mimic the original data distribution, validates them through safety checks to prevent real data leakage, and shares only the database schema and verified synthetic rows with a cloud-based model for SQL generation. Evaluated on the Spider benchmark [1], SafeSQL-LLM achieves 83.1% execution accuracy-a 2.8-percentage-point improvement over schema-only baselines (80.3%) and comparable performance to methods that expose real data (84.4%). Ablation studies reveal that even a single synthetic row per table yields significant gains, with optimal performance using 3-5 rows before diminishing returns set in. Furthermore, integration with the DEA-SQL framework demonstrates the generalizability of our approach, maintaining 83.6% accuracy using only synthetic data versus 85.6% with real data. These results establish that locally generated synthetic data can effectively bridge the privacy-utility gap in LLM-based database querying, offering a practical solution for privacy-sensitive domains such as healthcare and finance."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "LLM on FPGA: Squeezing Language Models by Quantization and Multi-Query Attention and its Efficient Hardware Architecture",
+    "authors": "Seoyoon Chae, Taewook Kang",
+    "publish": "2025 22nd International SoC Design Conference (ISOCC)",
+    "url": "https://doi.org/10.1109/isocc66390.2025.11329964",
+    "source": "IEEE",
+    "abstract": "We present an on-chip implementation of a compressed Transformer-based language model on a Xilinx Artix-7 FPGA. Our contributions include: (1) combining ultra-low-precision quantization (4 bits) and multi-query attention (MQA) to compress the KV cache by 8×, enabling sequence lengths up to 256 tokens; (2) a streaming hardware architecture in Verilog that implements pre-layernorm, attention, and feed-forward sublayers using block RAM (BRAM) and DSPs; and (3) post-synthesis results demonstrating real-time throughput (4.4 K tokens/s) with BRAM and DSP utilizations of 31.9% and 85%, respectively. The prototype supports generative inference entirely on-chip, paving the way for privacy-preserving, edge-scale LLMs. Code and scripts are available at https://github.com/chae-sy/squeezing_lm"
+  },
+  {
+    "date": "2026-1-14",
+    "title": "Driving Disruptive LLM Adoption on Technology Markets with Bug Report-Enhanced Human-Value Alignment in RLHF",
+    "authors": "Teodora Nikolova, Miglena Molhova-Vladova",
+    "publish": "2025 International Conference Automatics and Informatics (ICAI)",
+    "url": "https://doi.org/10.1109/icai67591.2025.11324531",
+    "source": "IEEE",
+    "abstract": "Large Language Models (LLMs) as a disruptive innovation led to major transformative effects on industries by making powerful tools widely accessible. In this paper, we investigate how the recent Reinforcement Learning from Human Feedback (RLHF) paradigm can be used to improve LLM alignment with human values over traditional binary feedback methods. We present a new methodology to affect value assurance by embedding structured bug report elements, for example, expected vs. actual results and contextual metadata, into RLHF to guarantee the AI responses are captive to users' specific intentions.To illustrate how LLMs disrupt markets by redefining performance metrics and user expectations, the study uses a three-dimensional disruptive potential framework (novelty, information asymmetry, consumer needs). A case study on ChatGPT’s unempathetic response to a potentially fragile question serves to illustrate the limitations of traditional feedback and the efficacy of bug report-style RLHF.Results indicate that structured feedback more accurately captures user intent and context, making models align with experiential value as opposed to just factual accuracy. It curbs information asymmetry between the users and developers in a way that increases trust with lightning pace, making it ideal for regulated industries such as healthcare and education.The paper presents evidence that bug report-enhanced RLHF not only improves alignment, but also it signifies a competitive advantage in technology markets, where human-centric AI is causing disruption. This approach positions LLMs as transformational tools, which satisfy unmet needs and reduce risk by shifting from quality assurance to value assurance.In the end, the study proposes a scalable method by which unforeseen AI can be aligned with human values, enabling broader and safer market adoption."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "LLM-Knowledge Graph Integration to Enhance Financial Complaint Classification and Fraudulent Complaint Detection",
+    "authors": "Alishiba Dass, Anusha Bamini. A. M",
+    "publish": "2025 4th International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+    "url": "https://doi.org/10.1109/icacrs67045.2025.11324286",
+    "source": "IEEE",
+    "abstract": "The significant shift in consumer financial complaints points out the need for intelligent systems that can reliably categorize complaints and identify fraudulent submissions. This study's hybrid NLP framework uses a lightweight Knowledge Graph (KG) and Large Language Model (LLM) embeddings to improve false complaint detection and complaint classification. Two different classification models compare them: a plain LLM model that uses sentence-transformer embeddings (all-MiniLML6-v2) and a hybrid LLM+KG model which fuses domainspecific keyword mappings (β = 0.25) with embedding similarity (α = 0.75). The hybrid approach achieves higher contextual accuracy and interpretability, according to the results, especially for checking account, credit card, and mortgage categories. Three methods—a supervised hybrid model, a KG-based heuristic, and an embedding-based heuristic—are assessed for false complaint detection; the supervised hybrid approach produces the best results (F1-score 0.80, 100% recall). The accuracy, dependability, and interpretability of automated financial complaint analysis are all positively impacted by the hybrid LLM+KG classification and supervised hybrid detection."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM",
+    "authors": "Kelin Fu, Yang Tian, Kaigui Bian",
+    "publish": "2025 IEEE Cyber Science and Technology Congress (CyberSciTech)",
+    "url": "https://doi.org/10.1109/cyberscitech68397.2025.00055",
+    "source": "IEEE",
+    "abstract": "Smartphones have significantly enhanced our daily learning, communication, and entertainment, becoming an essential component of modern life. However, certain populations, including the elderly and individuals with disabilities, encounter challenges in utilizing smartphones, thus necessitating mobile app operation assistants, a.k.a. mobile app agents. With considerations for privacy, permissions, and cross-platform compatibility issues, we endeavor to devise and develop PeriGuru in this work, a peripheral robotic mobile app operation assistant based on GUI image understanding and prompting with Large Language Model (LLM). PeriGuru leverages a suite of computer vision techniques to analyze GUI screenshot images and employs LLM to inform action decisions, which are then executed by robotic arms. PeriGuru achieves a success rate of 81.94% on the test task set, which surpasses by more than double the method without PeriGuru’s GUI image interpreting and prompting design. Our code is available on https://github.com/Z2sJ4t/PeriGuru."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "Dispenser: Hierarchical KV Cache Management for Efficient LLM Generative Inference",
+    "authors": "Beiquan Cao, Kaigui Bian, Guojie Luo, Joongheon Kim",
+    "publish": "2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)",
+    "url": "https://doi.org/10.1109/icpads67057.2025.11323033",
+    "source": "IEEE",
+    "abstract": "As context windows expands, Large Language Models (LLMs) are being more capable of handling long-context tasks. However, long-context inference is hindered by high latency and memory usage due to the linearly growing Key-Value (KV) cache. Prior work has shown that a dynamic subset of the KV cache dominates attention outcomes and selectively loads these subsets instead of the full cache. These methods partition the KV cache into segments (block-wise and token-wise) and identify critical ones for recall. However, for block-wise ones, their recall accuracy is often compromised by semantic inconsistencies among consecutive tokens, and for token-wise ones, they suffer from inefficiency in memory management and offloading. To these ends, we propose Dispenser, a hierarchical KV cache management algorithm inspired by multi-level page tables. Dispenser organizes the KV cache based on token semantic similarity and partitions it into pages and blocks, which enables straightforward integration into modern serving engines such as vLLM. It employs a two-level lookup mechanism to identify and load the most relevant blocks for the current query. Experimental results demonstrate that Dispenser achieves up to a <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$5.75 \\times$</tex> speedup in self-attention, reducing inference latency by <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$2.1 \\times$</tex> on tasks with long dependencies with negligible accuracy loss."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "GuardCache: Memory-Augmented Adaptive Input Security for LLM Semantic Caching in FinTech",
+    "authors": "Shijing Hu, Xinyu Wang, Hengqi Guo, Zhihui Lu",
+    "publish": "2025 IEEE Cyber Science and Technology Congress (CyberSciTech)",
+    "url": "https://doi.org/10.1109/cyberscitech68397.2025.00025",
+    "source": "IEEE",
+    "abstract": "Large-language-model (LLM) services are rapidly permeating the financial sector, yet their high-throughput workloads expose new attack surfaces—especially when semantic caching is used to amortise inference cost. We present Guard-Cache, a memory-augmented, adaptive input-security layer that protects LLM semantic caches deployed in latency-critical financial applications. The framework couples a two-stage \"fast-first\" filter—regular-expression scans for explicit patterns followed by a distilled transformer for nuanced semantics—with a lightweight behavioural-memory module. The memory component assigns time-decayed privacy-leakage factors and malicious-intent indices, enabling dynamic thresholds that distinguish accidental disclosures from persistent adversarial behaviour. Evaluated on a multi-risk benchmark reflecting real-world FinTech traffic, GuardCache improves average F1-score from 0.86 to 0.91 over a full-BERT baseline while cutting mean detection latency by 32.6%. False-positive rates drop by 38% for benign users, and jailbreak detection F1 rises by 12 absolute points. Ablation studies confirm that (i) regex pre-filters remove 34% of risky inputs at negligible cost, and (ii) behavioural memory raises cache-hit ratios by up to 25% under iterative attacks. These results indicate that memory-driven, adaptively-thresholded input screening is a practical prerequisite for trustworthy, real-time LLM analytics in regulated financial environments, and can be generalised to other privacy-sensitive domains."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "Role-Playing LLM-Based Multi-Agent Support Framework for Detecting and Addressing Family Communication Bias",
+    "authors": "Rushia Harada, Yuken Kimura, Keito Inoshita",
+    "publish": "2025 IEEE Cyber Science and Technology Congress (CyberSciTech)",
+    "url": "https://doi.org/10.1109/cyberscitech68397.2025.00101",
+    "source": "IEEE",
+    "abstract": "Well-being in family settings involves subtle psychological dynamics that conventional metrics often , overlook. In particular, unconscious parental expectations termed ideal parent bias, can suppress children’s emotional expression and autonomy. This suppression, referred to as suppressed emotion, often stems from well-meaning but value-driven communication, which is hard to detect or address from outside the family context. Focusing on these latent dynamics, this study explores Large Language Model (LLM)-based support for psychologically safe family communication. We constructed a Japanese parent–child dialogue corpus of 30 scenarios, each annotated with metadata on ideal parent bias and suppressed emotion. Based on this corpus, we developed a role-playing LLM-based multi-agent dialogue support framework that analyzes dialogue and generates feedback. Specialized agents detect suppressed emotion, describe implicit ideal parent bias in parental speech, and infer contextual attributes such as the child’s age and background. A meta-agent compiles these outputs into a structured report, which is then passed to five selected expert agents. These agents collaboratively generate empathetic and actionable feedback through a structured four-step discussion process. Experiments show that the system can detect categories of suppressed emotion with reasonable discrimination, and produce feedback rated highly in empathy and practicality. Moreover, simulated follow-up dialogues incorporating this feedback exhibited signs of improved emotional expression and mutual understanding, suggesting the framework’s potential to support positive transformation in family interactions."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "SimSecLLM: A Similarity-Grounded LLM Framework for Smart Contract Auditing",
+    "authors": "Xiangke Zhang, Chunxiao Ye, Ning Wang, Jelly Gan, Nan Jiang",
+    "publish": "2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)",
+    "url": "https://doi.org/10.1109/icpads67057.2025.11322904",
+    "source": "IEEE",
+    "abstract": "With the growth of Ethereum, smart contracts have become a core component of blockchain platforms. However, the widespread adoption of smart contracts raises security concerns, as their immutability and interaction with digital assets make them attractive targets for attackers. Existing detection methods often struggle to address emerging, complex attack vectors and to accurately identify specific vulnerability types. We present SimSecLLM, an auditing framework grounded in code similarity that anchors LLM reasoning to vetted secure code snippets. The framework first builds a reference corpus containing more than 35,000 distinct security-vetted functions collected from 150 widely used libraries. For each smart contract under audit, it analyzes internal functions and their call relationships, establishes a detection order via topological sorting, and incorporates callee context. It then retrieves the closest secure exemplar from the curated reference corpus, extracts code-level modifications through comparison, and leverages a fine-tuned LLM in the detection stage to reason over these changes in order to assess whether they introduce vulnerabilities and to identify their potential types. SimSecLLM was evaluated on the DAppSCAN-source dataset with 3,527 function-level samples across seven types of vulnerabilities, demonstrating superior performance over existing methods with an accuracy of 93.1 % and an F1score of 87.1 %. A case study on the Redacted Cartel vulnerability illustrates that similarity-guided analysis effectively reveals security-critical code modifications, thereby supporting the identification of vulnerability root causes."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "Efficient LLM Edge Collaboration Deployment with LoRA",
+    "authors": "Yang Xiao, Xin He, Weijun Wang, Jian Zhou, Fu Xiao",
+    "publish": "2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)",
+    "url": "https://doi.org/10.1109/icpads67057.2025.11323059",
+    "source": "IEEE",
+    "abstract": "In recent years, large language models (LLMs) have shown great potential in many fields. LLMs deployed in cloud data centers are increasingly unable to meet the low-latency inference requirements of massive mobile users. Benefiting from various LLM lightweighting techniques and the continuously improving performance of edge servers, deploying LLMs on edge servers closer to mobile users and executing inference tasks locally can effectively reduce inference latency. However, edge servers have limited storage capacity, and deploying LLMs on edge servers incurs additional deployment overhead. In this paper, we propose an efficient LLM edge collaboration deployment strategy called EdgeColl, aiming to jointly optimize inference latency and LLM deployment costs. Specifically, EdgeColl adopts Low-Rank Adaptation (LoRA) to divide each LLM into a base model and a LoRA matrix. We formulate the LLM edge collaboration deployment problem with LoRA. Then, we present the base model deployment (BMD) strategy to achieve low inference latency and deployment costs. The LoRA deployment (LMD) strategy is also proposed to enable personalized inference. We evaluate the performance of EdgeColl. The experimental results show that EdgeColl effectively reduces LLM inference latency and deployment costs."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "MAF-Detect: A Multi-Scale Adaptive Fusion Framework for Zero-Shot Detection of LLM-Generated Text",
+    "authors": "Zhenhan Bai, Yan Zheng",
+    "publish": "2025 7th International Conference on Machine Learning, Big Data and Business Intelligence (MLBDBI)",
+    "url": "https://doi.org/10.1109/mlbdbi67855.2025.11331454",
+    "source": "IEEE",
+    "abstract": "This paper proposes MAF-Detect, a zero-shot detection framework based on multi-scale adaptive fusion, designed to effectively identify text generated by large language models. This framework significantly improves the ability to discriminate machine-generated text without relying on training data through a multi-granular perturbation strategy, multidimensional semantic feature fusion, and a dynamic adaptive threshold mechanism. Experiments on the cross-domain Chinese and English dataset HC3 demonstrate that MAF-Detect outperforms existing zero-shot detection methods in both recognition accuracy and robustness, particularly in short text recognition tasks, validating its effectiveness and versatility in practical applications."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "CORE-NER: LLM-Based Character-Oriented Reference Enhancement for Chemical Named Entity Recognition",
+    "authors": "Fujian Yan, Chunming Yang, Yingjie He, Jian Liu, Hui Zhang",
+    "publish": "2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)",
+    "url": "https://doi.org/10.1109/icpads67057.2025.11323026",
+    "source": "IEEE",
+    "abstract": "Automatically extracting chemical entities from unstructured literature and patents, chemical named entity recognition (ChemNER) provides the foundational data required for constructing chemical knowledge graphs. As chemical entities frequently contain special characters and complex nested structures, existing methods often overlook their distinctive character-level distribution patterns. This omission poses substantial challenges for conventional approaches, including sequence labeling, span classification, and large language models (LLMs), in accurately identifying such intricate entities. This paper introduces CORE-NER (Character-Oriented Reference-Enhanced NER), a novel framework for chemical named entity recognition. The method begins by pre-extracting candidate chemical entities from the input text and retrieving semantically similar reference entities from a chemical entity knowledge base. We further propose a character-level masking strategy that explicitly captures the character distribution patterns and local dependency features of reference entities via a masked-prediction mechanism, thereby enabling learning of fine-grained character-level contextual representations. By integrating the resulting character-aware features with the original textual representations, the model incorporates explicit knowledge of the internal specialized structures of chemical entities without introducing significant computational overhead. The study employs the LoRA (Low-Rank Adaptation) parameter-efficient fine-tuning framework combined with task-specific instruction optimization to enhance the generative performance of large language models in specialized domains. Experimental results show that our approach consistently outperforms traditional baselines and existing LLM solutions across four benchmark chemical datasets, confirming the effectiveness and practical value of the proposed method. Our code is available for access at https://github.com/YanDDDeat/CORENER."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "GATHER: A Gated-Attention Accelerator for Efficient LLM Inference",
+    "authors": "Eunjin Lee, Eunseo Kim, Eunjoung Yoo, Jaehyeong Sim",
+    "publish": "2025 22nd International SoC Design Conference (ISOCC)",
+    "url": "https://doi.org/10.1109/isocc66390.2025.11329547",
+    "source": "IEEE",
+    "abstract": "Large Language Models (LLMs) have become piv-otal, yet their auto-regressive inference suffers from significant memory bandwidth bottlenecks, hindering performance and energy efficiency. In this paper, we propose GATHER, a novel hardware accelerator architecture specifically designed for efficient generative AI inference. GATHER introduces two key contributions: (1) A token-stream processor that natively han-dles variable-length sequences, completely eliminating padding-related overhead. (2) A specialized Gated-Gather Engine that tackles the attention bottleneck by tightly coupling Top-K attention score selection with a dedicated address gather unit. This engine identifies the most salient tokens and issues optimized, batched memory requests to DRAM, drastically reducing off-chip traffic. Evaluation results show that our proposed architecture outperforms a single NVIDIA A100 GPU on GPT-2 and Llama-3-8B in terms of throughput and energy efficiency."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "AUE: A Normalized Energy Efficiency Metric for AI Servers Under LLM Workloads",
+    "authors": "Yijia Zhang, Dongxiang Zhang, Xianglin Liu, Qiang Wang, Bingqiang Wang, Shixun Zhang, Yonghong Tian",
+    "publish": "2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)",
+    "url": "https://doi.org/10.1109/icpads67057.2025.11323149",
+    "source": "IEEE",
+    "abstract": "Under the rapid advancement of large model-driven artificial intelligence, the surging energy consumption of AI training and inference tasks has created an urgent need for precise and comparable energy efficiency metrics to guide the design and deployment of green computing systems. While existing metrics such as PUE and Green500 metrics focus on infrastructure or traditional numerical computations, they cannot reflect the characteristics of AI workloads. Although applicationoriented metrics like J/response and J/token are designed for LLMs, they remain susceptible to biases induced by model scale and output strategies, lacking cross-model comparability. This paper proposes a novel AI energy efficiency metric, AUE, defined as the energy consumed per thousand tokens per billion activated parameters. By normalizing model size effects, AUE accurately reflects the energy efficiency of underlying computational resources. We theoretically justify the validity of AUE and conduct experiments on a server equipped with <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$4 \\times$</tex> Ascend NPU 910C accelerators, evaluating dense Transformer and MoE architectures across both training and inference workloads. Experimental results demonstrate that traditional J/token metrics disproportionately favor smaller models, whereas AUE reveals true energy utilization efficiency. For instance, while Qwen3 0.6B shows superior J/token values compared to Qwen3 14B, the 14B model achieves a significantly better AUE of 12.88 J/(KToken GParam) versus 24.35 J/(KToken GParam) for the 0.6 B model, consistent with measured FLOPs where the 14B model outperforms its smaller counterpart. With advantages including simple measurement procedures and compatibility across platforms and model architectures, AUE provides a viable pathway toward establishing a normalized and standardized AI energy efficiency evaluation framework."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "A BERT-Assisted LLM Framework for Knowledge Graph Construction",
+    "authors": "Yixin Jiang, Kaitian Huang, Ximing Zhang, Wenqian Xu, Zhihong Liang, Yiwei Yang, Peiming Xu, Tao Dai, Leyu Bi",
+    "publish": "2025 IEEE 31th International Conference on Parallel and Distributed Systems (ICPADS)",
+    "url": "https://doi.org/10.1109/icpads67057.2025.11323011",
+    "source": "IEEE",
+    "abstract": "In knowledge graph construction, traditional NLP models suffer from poor cross-domain adaptability, while large language models (LLMs) face issues of hallucinations and data shift in information extraction. To address these challenges, we propose a collaborative framework for LLM-based triple extraction that integrates dynamic prompt generation and BERT assistance, effectively combining the entity recognition strengths of traditional models with the end-to-end reasoning capabilities of LLMs. On one hand, the framework uses the K-nearest neighbor (KNN) algorithm to vectorize text entity types. It matches highly relevant examples and generates dynamic prompts with progressive reasoning chain-of-thought (CoT) templates, enhancing LLMs' ability to adapt to task features and perform logical reasoning. On the other hand, it fine-tunes pre-trained BERT models to achieve accurate recognition and type annotation of text entities, alleviating LLM hallucinations by enhancing the structured representation of input text. Experimental validation on 3 cross-domain and cross-lingual datasets shows that when few-shot learning is combined with the CoT strategy, the triple extraction F1 score of Qwen2.5-14B increases from 0.1718 to 0.5856 (a 240.9 % relative improvement), demonstrating a performance breakthrough from strategy integration. After introducing BERT assistance, the F1 score of DeepSeek-V3 reaches 0.7426, and Qwen2.5-14B achieves a 277.3 % relative improvement compared to the zero-shot baseline, which verifies the effectiveness of cross-model collaboration. Compared with the traditional NLP model, it significantly enhances LLMs' knowledge transfer capability and domain adaptability. It provides an innovative paradigm for intelligent knowledge graph construction through the collaboration of traditional NLP techniques and prompt engineering, effectively compensating for the inherent limitations of LLMs."
+  },
+  {
+    "date": "2026-1-14",
+    "title": "SafeRAG: Secure Cloud-Based Retrieval-Augmented Generation for LLM-Empowered Voice Assistants",
+    "authors": "Yuan Chang, Tom H. Luan, Siran Wang, Yuntao Wang",
+    "publish": "IEEE Transactions on Network Science and Engineering",
+    "url": "https://doi.org/10.1109/tnse.2026.3654070",
+    "source": "IEEE",
+    "abstract": "Retrieval-based augmentation enhances large language models (LLMs) by grounding responses in external knowledge. However, in voice-driven assistants that rely on remote cloud retrieval, open-ended user queries and outsourced processing introduce significant privacy and authorization risks. To address these challenges, we propose <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">SafeRAG</i>, a privacy-preserving retrieval and generation framework that enables secure voice-based interaction over encrypted cloud storage. SafeRAG integrates inner-product functional encryption (IPFE) to support efficient encrypted similarity computation between query and document embeddings without revealing their contents. Each document is protected by an attribute-based access tree that enforces fine-grained authorization, while a Bayesian inference mechanism models the user–assistant dialogue as an adaptive belief-updating process to infer and validate user attributes dynamically. Additionally, a lightweight response sanitization layer applies calibrated noise and semantic abstraction to prevent residual information leakage in generated content. Extensive experiments demonstrate that SafeRAG achieves secure and low-latency retrieval, robust access enforcement, and high-quality voice response generation, offering an effective balance between utility and privacy in remote retrieval-augmented LLMs."
+  }
+]

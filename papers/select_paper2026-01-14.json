@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-1-14",
+    "title": "CRADLE: Conversational RTL Design Space Exploration with LLM-Based Multi-Agent Systems",
+    "authors": "Lukas Krupp, Maximilian Schöffel, Elias Biehl, Norbert Wehn",
+    "publish": "2025 22nd International SoC Design Conference (ISOCC)",
+    "url": "https://doi.org/10.1109/isocc66390.2025.11329873",
+    "source": "IEEE",
+    "abstract": "This paper presents CRADLE, a conversational framework for design space exploration of RTL designs using LLM-based multi-agent systems. Unlike existing rigid approaches, CRADLE enables user-guided flows with internal self-verification, correction, and optimization. We demonstrate the framework with a generator-critic agent system targeting FPGA resource minimization using state-of-the-art LLMs. Experimental results on the RTLLM benchmark show that CRADLE achieves significant reductions in resource usage with averages of 48% and 40% in LUTs and FFs across all benchmark designs.",
+    "title_zh": "CRADLE：基于LLM的多智能体系统进行会话式RTL设计空间探索",
+    "abstract_zh": "本文介绍了CRADLE，这是一种利用基于LLM的多智能体系统进行RTL设计空间探索的会话框架。与现有的刚性方法不同，CRADLE允许用户引导流程，并具备内部自我验证、修正和优化功能。我们展示了一个生成器-评论家智能体系统的框架，目标是使用最先进的LLM来最小化FPGA资源。在RTLLM基准测试上的实验结果表明，CRADLE在所有基准设计中实现了资源使用的显著减少，LUT和FF的平均减少率分别为48%和40%。"
+  }
+]
