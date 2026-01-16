@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-01-15",
+    "title": "WEAVE imaging spectroscopy of NGC 6720: an iron bar in the Ring",
+    "authors": "R. Wesson, J. E. Drew, M. J. Barlow, J. García-Rojas, R. Greimel, D. Jones, A. Manchado, R. A. H. Morris, A. Zijlstra, P. J. Storey, J. A. L. Aguerri, S. R. Berlanas, E. Carrasco, G. B. Dalton, E. Gafton, R. García-Benito, A. L. González-Morán, B. Gänsicke, S. Hughes, S. Jin, R. Raddi, R. Sanchez-Janssen, E. Schallig, D. J. B. Smith, S. C. Trager, N. A. Walton",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10635v1",
+    "source": "arXiv",
+    "abstract": "We present spatially resolved spectroscopic observations of the planetary nebula NGC 6720, the Ring Nebula, taken during the science verification phase of WEAVE, a new instrument mounted on the William Herschel Telescope on La Palma. We use the instrument's Large Integral Field Unit (LIFU) to obtain spectra of the Ring Nebula, covering its entire optically bright inner regions as well as parts of its much fainter outer molecular halo. We report the discovery of emission from [Fe~{\\sc v}] and [Fe~{\\sc vi}] confined to a narrow ``bar'' extending across the central regions of the nebula. No lines of other elements share this morphology or, at the spectral resolving power used ($R \\sim 2500$), the same radial velocity. The extent to which iron in this bar is depleted is presently unclear; comparison with JWST-detected dust continuum emission suggests that some dust grain destruction may be occurring in the region, but there is currently no observational evidence for the $>$ 50~km\\,s$^{-1}$ shock waves or $T > 10^6$~K X-ray emitting gas needed to enable this. Where the bar is located along the line of sight through the nebula, and how it was created, are new puzzles to be solved for this iconic planetary nebula."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Hybrid Encryption with Certified Deletion in Preprocessing Model",
+    "authors": "Kunal Dey, Reihaneh Safavi-Naini",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10542v1",
+    "source": "arXiv",
+    "abstract": "Certified deletion allows Alice to outsource data to Bob and, at a later time, obtain a verifiable guarantee that the file has been irreversibly deleted at her request. The functionality, while impossible using classical information alone, can be achieved using quantum information. Existing approaches, rely on one-time pad (OTP) encryption, or use computational hardness assumptions that may be vulnerable to future advances in classical or quantum computing. In this work, we introduce and formalize hybrid encryption with certified deletion in the preprocessing model (pHE-CD) and propose two constructions. The constructions combine an information-theoretic key encapsulation mechanism (iKEM) with a data encapsulation mechanism that provides certified deletion (DEM-CD) and, respectively, provide {\\em information-theoretic certified deletion}, where both confidentiality and deletion properties are provided against a computationally unbounded adversary; and {\\em everlasting certified deletion}, where confidentiality is computational before deletion, and upon successful verification of the deletion certificate, the message becomes information-theoretically hidden from an adversary that is computationally unbounded. Our pHE-CD schemes provide IND-$q_e$-CPA notion of security and support encryption of arbitrarily long messages. In the second construction, using a computationally secure DEM-CD that is quantum-safe (i.e. constructed using quantum coding and AES), we obtain quantum-safe security with keys that are significantly shorter than the message. Instantiating the proposed framework using quantum enabled kem (qKEM) as the iKEM, is a future work."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Breaking Up with Normatively Monolithic Agency with GRACE: A Reason-Based Neuro-Symbolic Architecture for Safe and Ethical AI Alignment",
+    "authors": "Felix Jahn, Yannic Muskalla, Lisa Dargasz, Patrick Schramowski, Kevin Baum",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10520v1",
+    "source": "arXiv",
+    "abstract": "As AI agents become increasingly autonomous, widely deployed in consequential contexts, and efficacious in bringing about real-world impacts, ensuring that their decisions are not only instrumentally effective but also normatively aligned has become critical. We introduce a neuro-symbolic reason-based containment architecture, Governor for Reason-Aligned ContainmEnt (GRACE), that decouples normative reasoning from instrumental decision-making and can contain AI agents of virtually any design. GRACE restructures decision-making into three modules: a Moral Module (MM) that determines permissible macro actions via deontic logic-based reasoning; a Decision-Making Module (DMM) that encapsulates the target agent while selecting instrumentally optimal primitive actions in accordance with derived macro actions; and a Guard that monitors and enforces moral compliance. The MM uses a reason-based formalism providing a semantic foundation for deontic logic, enabling interpretability, contestability, and justifiability. Its symbolic representation enriches the DMM's informational context and supports formal verification and statistical guarantees of alignment enforced by the Guard. We demonstrate GRACE on an example of a LLM therapy assistant, showing how it enables stakeholders to understand, contest, and refine agent behavior."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Aletheia-Probe: A Tool for Automated Journal Assessment",
+    "authors": "Andreas Florath",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10431v1",
+    "source": "arXiv",
+    "abstract": "Assessing journal legitimacy during literature reviews, publication venue selection, and citation verification requires consulting information scattered across multiple incompatible data-sets. This paper introduces Aletheia-Probe, an open-source tool that systematically aggregates curated databases and pattern analysis from multiple authoritative sources to provide transparent, confidence-scored journal assessments. The tool explicitly reports which sources were consulted, what each found, and where evidence conflicts. The tool integrates into research workflows through command-line and programmatic interfaces. It reduces manual assessment overhead while explicitly flagging uncertain cases. We present the tool's architecture, core design principles, and practical integration approach. Comprehensive empirical validation will be presented in forthcoming work."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Actors, Frames and Arguments: A Multi-Decade Computational Analysis of Climate Discourse in Financial News using Large Language Models",
+    "authors": "Ruiran Su, Janet B. Pierrehumbert, Markus Leippold",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10142v1",
+    "source": "arXiv",
+    "abstract": "Financial news media shapes trillion-dollar climate investment decisions, yet discourse in this elite domain remains underexplored. We analyze two decades of climate-related articles (2000-2023) from Dow Jones Newswire using an Actor-Frame-Argument (AFA) pipeline that extracts who speaks, how issues are framed, and which arguments are deployed. We validate extractions against 2,000 human-annotated articles using a Decompositional Verification Framework that evaluates completeness, faithfulness, coherence, and relevance. Our longitudinal analysis uncovers a structural transformation: pre-2015 coverage emphasized risk and regulatory burden; post-Paris Agreement, discourse shifted toward economic opportunity and innovation, with financial institutions becoming dominant voices. Methodologically, we provide a replicable paradigm for longitudinal media analysis with LLMs; substantively, we reveal how financial elites have internalized and reframed the climate crisis across two decades."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "SIN-Bench: Tracing Native Evidence Chains in Long-Context Multimodal Scientific Interleaved Literature",
+    "authors": "Yiming Ren, Junjie Wang, Yuxin Meng, Yihang Shi, Zhiqiang Lin, Ruihang Chu, Yiran Xu, Ziming Li, Yunfei Zhao, Zihan Wang, Yu Qiao, Ruiming Tang, Minghao Liu, Yujiu Yang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10108v1",
+    "source": "arXiv",
+    "abstract": "Evaluating whether multimodal large language models truly understand long-form scientific papers remains challenging: answer-only metrics and synthetic \"Needle-In-A-Haystack\" tests often reward answer matching without requiring a causal, evidence-linked reasoning trace in the document. We propose the \"Fish-in-the-Ocean\" (FITO) paradigm, which requires models to construct explicit cross-modal evidence chains within native scientific documents. To operationalize FITO, we build SIN-Data, a scientific interleaved corpus that preserves the native interleaving of text and figures. On top of it, we construct SIN-Bench with four progressive tasks covering evidence discovery (SIN-Find), hypothesis verification (SIN-Verify), grounded QA (SIN-QA), and evidence-anchored synthesis (SIN-Summary). We further introduce \"No Evidence, No Score\", scoring predictions when grounded to verifiable anchors and diagnosing evidence quality via matching, relevance, and logic. Experiments on eight MLLMs show that grounding is the primary bottleneck: Gemini-3-pro achieves the best average overall score (0.573), while GPT-5 attains the highest SIN-QA answer accuracy (0.767) but underperforms on evidence-aligned overall scores, exposing a gap between correctness and traceable support."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing",
+    "authors": "Khushbakht Farooq, Muhammad Ibrahim, Irsa Manzoor, Mukhtaj Khan, Wei Song",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10105v1",
+    "source": "arXiv",
+    "abstract": "The rapid integration of IoT with edge computing has revolutionized various domains, particularly healthcare, by enabling real-time data sharing, remote monitoring, and decision-making. However, it introduces critical challenges, including data privacy breaches, security vulnerabilities, especially in environments dealing with sensitive information. Traditional access control mechanisms and centralized security systems do not address these issues, leaving IoT environments exposed to unauthorized access and data misuse. This research proposes Fuzzychain-edge, a novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing framework designed to overcome these limitations by incorporating Zero-Knowledge Proofs (ZKPs), fuzzy logic, and smart contracts. ZKPs secure sensitive data during access control processes by enabling verification without revealing confidential details, thereby ensuring user privacy. Fuzzy logic facilitates adaptive, context-aware decision-making for access control by dynamically evaluating parameters such as data sensitivity, trust levels, and user roles. Blockchain technology, with its decentralized and immutable architecture, ensures transparency, traceability, and accountability using smart contracts that automate access control processes. The proposed framework addresses key challenges by enhancing security, reducing the likelihood of unauthorized access, and providing a transparent audit trail of data transactions. Expected outcomes include improved data privacy, accuracy in access control, and increased user trust in IoT systems. This research contributes significantly to advancing privacy-preserving, secure, and traceable solutions in IoT environments, laying the groundwork for future innovations in decentralized technologies and their applications in critical domains such as healthcare and beyond."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning",
+    "authors": "Ke Chen, Jiandian Zeng, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10101v1",
+    "source": "arXiv",
+    "abstract": "As knowledge and semantics on the web grow increasingly complex, enhancing Large Language Models (LLMs) comprehension and reasoning capabilities has become particularly important. Chain-of-Thought (CoT) prompting has been shown to enhance the reasoning capabilities of LLMs. However, it still falls short on logical reasoning tasks that rely on symbolic expressions and strict deductive rules. Neuro-symbolic methods address this gap by enforcing formal correctness through external solvers. Yet these solvers are highly format-sensitive, and small instabilities in model outputs can lead to frequent processing failures. LLM-driven approaches avoid parsing brittleness, but they lack structured representations and process-level error-correction mechanisms. To further enhance the logical reasoning capabilities of LLMs, we propose MatrixCoT, a structured CoT framework with a matrix-based plan. Specifically, we normalize and type natural language expressions, attach explicit citation fields, and introduce a matrix-based planning method to preserve global relations among steps. The plan becomes a verifiable artifact, making execution more stable. For verification, we also add a feedback-driven replanning mechanism. Under semantic-equivalence constraints, it identifies omissions and defects, rewrites and compresses the dependency matrix, and produces a more trustworthy final answer. Experiments on five logical-reasoning benchmarks and five LLMs show that, without relying on external solvers, MatrixCoT enhances both robustness and interpretability when tackling complex symbolic reasoning tasks, while maintaining competitive performance."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Diffusion-Driven Deceptive Patches: Adversarial Manipulation and Forensic Detection in Facial Identity Verification",
+    "authors": "Shahrzad Sayyafzadeh, Hongmei Chi, Shonda Bernadin",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09806v1",
+    "source": "arXiv",
+    "abstract": "This work presents an end-to-end pipeline for generating, refining, and evaluating adversarial patches to compromise facial biometric systems, with applications in forensic analysis and security testing. We utilize FGSM to generate adversarial noise targeting an identity classifier and employ a diffusion model with reverse diffusion to enhance imperceptibility through Gaussian smoothing and adaptive brightness correction, thereby facilitating synthetic adversarial patch evasion. The refined patch is applied to facial images to test its ability to evade recognition systems while maintaining natural visual characteristics. A Vision Transformer (ViT)-GPT2 model generates captions to provide a semantic description of a person's identity for adversarial images, supporting forensic interpretation and documentation for identity evasion and recognition attacks. The pipeline evaluates changes in identity classification, captioning results, and vulnerabilities in facial identity verification and expression recognition under adversarial conditions. We further demonstrate effective detection and analysis of adversarial patches and adversarial samples using perceptual hashing and segmentation, achieving an SSIM of 0.95."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation",
+    "authors": "Stergios Chatzikyriakidis",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09631v1",
+    "source": "arXiv",
+    "abstract": "Large Language Models (LLMs), despite their remarkable capabilities across NLP tasks, struggle with phonologically-grounded phenomena like rhyme detection and generation. This is even more evident in lower-resource languages such as Modern Greek. In this paper, we present a hybrid system that combines LLMs with deterministic phonological algorithms to achieve accurate rhyme identification/analysis and generation. Our approach implements a comprehensive taxonomy of Greek rhyme types, including Pure, Rich, Imperfect, Mosaic, and Identical Pre-rhyme Vowel (IDV) patterns, and employs an agentic generation pipeline with phonological verification. We evaluate multiple prompting strategies (zero-shot, few-shot, Chain-of-Thought, and RAG-augmented) across several LLMs including Claude 3.7 and 4.5, GPT-4o, Gemini 2.0 and open-weight models like Llama 3.1 8B and 70B and Mistral Large. Results reveal a significant \"Reasoning Gap\": while native-like models (Claude 3.7) perform intuitively (40\\% accuracy in identification), reasoning-heavy models (Claude 4.5) achieve state-of-the-art performance (54\\%) only when prompted with Chain-of-Thought. Most critically, pure LLM generation fails catastrophically (under 4\\% valid poems), while our hybrid verification loop restores performance to 73.1\\%. We release our system and a crucial, rigorously cleaned corpus of 40,000+ rhymes, derived from the Anemoskala and Interwar Poetry corpora, to support future research."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "SiliconHealth: A Complete Low-Cost Blockchain Healthcare Infrastructure for Resource-Constrained Regions Using Repurposed Bitcoin Mining ASICs",
+    "authors": "Francisco Angulo de Lafuente, Seid Mehammed Abdu, Nirmal Tej",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09557v2",
+    "source": "arXiv",
+    "abstract": "This paper presents SiliconHealth, a comprehensive blockchain-based healthcare infrastructure designed for resource-constrained regions, particularly sub-Saharan Africa. We demonstrate that obsolete Bitcoin mining Application-Specific Integrated Circuits (ASICs) can be repurposed to create a secure, low-cost, and energy-efficient medical records system. The proposed architecture employs a four-tier hierarchical network: regional hospitals using Antminer S19 Pro (90+ TH/s), urban health centers with Antminer S9 (14 TH/s), rural clinics equipped with Lucky Miner LV06 (500 GH/s, 13W), and mobile health points with portable ASIC devices. We introduce the Deterministic Hardware Fingerprinting (DHF) paradigm, which repurposes SHA-256 mining ASICs as cryptographic proof generators, achieving 100% verification rate across 23 test proofs during 300-second validation sessions. The system incorporates Reed-Solomon LSB watermarking for medical image authentication with 30-40% damage tolerance, semantic Retrieval-Augmented Generation (RAG) for intelligent medical record queries, and offline synchronization protocols for intermittent connectivity. Economic analysis demonstrates 96% cost reduction compared to GPU-based alternatives, with total deployment cost of $847 per rural clinic including 5-year solar power infrastructure. Validation experiments on Lucky Miner LV06 (BM1366 chip, 5nm) achieve 2.93 MH/W efficiency and confirm hardware universality. This work establishes a practical framework for deploying verifiable, tamper-proof electronic health records in regions where traditional healthcare IT infrastructure is economically unfeasible, potentially benefiting over 600 million people lacking access to basic health information systems."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes",
+    "authors": "Gunhee Cho",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09556v1",
+    "source": "arXiv",
+    "abstract": "This book gives a geometry-first, hardware-aware route through quantum-information workflows, with one goal: connect states, circuits, and measurement to deterministic classical pipelines that make hybrid quantum systems run. Part 1 develops the backbone (essential linear algebra, the Bloch-sphere viewpoint, differential-geometric intuition, and quantum Fisher information geometry) so evolution can be read as motion on curved spaces and measurement as statistics. Part 2 reframes circuits as dataflow graphs: measurement outcomes are parsed, aggregated, and reduced to small linear-algebra updates that schedule the next pulses, highlighting why low-latency, low-jitter streaming matters. Part 3 treats multi-qubit structure and entanglement as geometry and computation, including teleportation, superdense coding, entanglement detection, and Shor's algorithm via quantum phase estimation. Part 4 focuses on topological error correction and real-time decoding (Track A): stabilizer codes, surface-code decoding as \"topology -> graph -> algorithm\", and Union-Find decoders down to microarchitectural/RTL constraints, with verification, fault injection, and host/control-stack integration under product metrics (bounded latency, p99 tails, fail-closed policies, observability). Optional Track C covers quantum cryptography and streaming post-processing (BB84/E91, QBER/abort rules, privacy amplification, and zero-knowledge/post-quantum themes), emphasizing FSMs, counters, and hash pipelines. Appendices provide visualization-driven iCEstick labs (switch-to-bit conditioning, fixed-point phase arithmetic, FSM sequencing, minimal control ISAs), bridging principles to implementable systems."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Proof of a Conjecture on Young Tableaux with Walls",
+    "authors": "Zhicong Lin, Feihu Liu, Jiahang Liu, Jing Liu, Guoce Xin",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09551v2",
+    "source": "arXiv",
+    "abstract": "Banderier, Marchal, and Wallner considered Young tableaux with walls, which are similar to standard Young tableaux, except that local decreases are allowed at some walls. In this work, we prove a conjecture of Fuchs and Yu concerning the enumeration of two classes of three-row Young tableaux with walls. Combining with the work by Chang, Fuchs, Liu, Wallner, and Yu leads to the verification of a conjecture on tree-child networks proposed by Pons and Batle. This conjecture was regarded as a specific and challenging problem in the Phylogenetics community until it was finally resolved by the present work."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "PCN-Rec: Agentic Proof-Carrying Negotiation for Reliable Governance-Constrained Recommendation",
+    "authors": "Aradhya Dixit, Shreem Dixit",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09771v1",
+    "source": "arXiv",
+    "abstract": "Modern LLM-based recommenders can generate compelling ranked lists, but they struggle to reliably satisfy governance constraints such as minimum long-tail exposure or diversity requirements. We present PCN-Rec, a proof-carrying negotiation pipeline that separates natural-language reasoning from deterministic enforcement. A base recommender (MF/CF) produces a candidate window of size W, which is negotiated by two agents: a User Advocate optimizing relevance and a Policy Agent enforcing constraints. A mediator LLM synthesizes a top-N slate together with a structured certificate (JSON) describing the claimed constraint satisfaction. A deterministic verifier recomputes all constraints from the slate and accepts only verifier-checked certificates; if verification fails, a deterministic constrained-greedy repair produces a compliant slate for re-verification, yielding an auditable trace. On MovieLens-100K with governance constraints, PCN-Rec achieves a 98.55% pass rate on feasible users (n = 551, W = 80) versus a one-shot single-LLM baseline without verification/repair, while preserving utility with only a 0.021 absolute drop in NDCG@10 (0.403 vs. 0.424); differences are statistically significant (p < 0.05)."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "A note on critical problems involving the $p$-Grushin Operator: existence of infinitely many solutions",
+    "authors": "Paolo Malanchini, Giovanni Molica Bisci, Simone Secchi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09488v1",
+    "source": "arXiv",
+    "abstract": "We consider a critical problem in a bounded domain involving the $p$-Grushin operator $Δ_α^p$. After a truncation argument, we obtain infinitely many solutions to our problem via Krasnoselskii's genus, extending a previous result of García Azorero and Peral Alonso to the $p$-Grushin operator. A central part of our analysis is the verification of the Palais-Smale condition of the associated functional under a certain level."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Personalized Multimodal Feedback Using Multiple External Representations: Strategy Profiles and Learning in High School Physics",
+    "authors": "Natalia Revenga-Lozano, Karina E. Avila, Steffen Steinert, Matthias Schweinberger, Clara E. Gómez-Pérez, Jochen Kuhn, Stefan Küchemann",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09470v1",
+    "source": "arXiv",
+    "abstract": "Multiple external representations (MERs) and personalized feedback support physics learning, yet evidence on how personalized feedback can effectively integrate MERs remains limited. This question is particularly timely given the emergence of multimodal large language models. We conducted a 16-24 week observational study in high school physics (N=661) using a computer-based platform that provided verification and optional elaborated feedback in verbal, graphical and mathematical forms. Linear mixed-effects models and strategy-cluster analyses (ANCOVA-adjusted comparisons) tested associations between feedback use and post-test performance and moderation by representational competence. Elaborated multirepresentational feedback showed a small but consistent positive association with post-test scores independent of prior knowledge and confidence. Learners adopted distinct representation-selection strategies; among students with lower representational competence, using a diverse set of representations related to higher learning, whereas this advantage diminished as competence increased. These findings motivate adaptive feedback designs and inform intelligent tutoring systems capable of tailoring feedback elaboration and representational format to learner profiles, advancing personalized instruction in physics education."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Improving Symbolic Translation of Language Models for Logical Reasoning",
+    "authors": "Ramya Keerthy Thatikonda, Jiuzhou Han, Wray Buntine, Ehsan Shareghi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09446v1",
+    "source": "arXiv",
+    "abstract": "The use of formal language for deductive logical reasoning aligns well with language models (LMs), where translating natural language (NL) into first-order logic (FOL) and employing an external solver results in a verifiable and therefore reliable reasoning system. However, smaller LMs often struggle with this translation task, frequently producing incorrect symbolic outputs due to formatting and translation errors. Existing approaches typically rely on self-iteration to correct these errors, but such methods depend heavily on the capabilities of the underlying model. To address this, we first categorize common errors and fine-tune smaller LMs using data synthesized by large language models. The evaluation is performed using the defined error categories. We introduce incremental inference, which divides inference into two stages, predicate generation and FOL translation, providing greater control over model behavior and enhancing generation quality as measured by predicate metrics. This decomposition framework also enables the use of a verification module that targets predicate-arity errors to further improve performance. Our study evaluates three families of models across four logical-reasoning datasets. The comprehensive fine-tuning, incremental inference, and verification modules reduce error rates, increase predicate coverage, and improve reasoning performance for smaller LMs, moving us closer to developing reliable and accessible symbolic-reasoning systems."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Video-MSR: Benchmarking Multi-hop Spatial Reasoning Capabilities of MLLMs",
+    "authors": "Rui Zhu, Xin Shen, Shuchen Wu, Chenxi Miao, Xin Yu, Yang Li, Weikang Li, Deguo Xia, Jizhou Huang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09430v1",
+    "source": "arXiv",
+    "abstract": "Spatial reasoning has emerged as a critical capability for Multimodal Large Language Models (MLLMs), drawing increasing attention and rapid advancement. However, existing benchmarks primarily focus on single-step perception-to-judgment tasks, leaving scenarios requiring complex visual-spatial logical chains significantly underexplored. To bridge this gap, we introduce Video-MSR, the first benchmark specifically designed to evaluate Multi-hop Spatial Reasoning (MSR) in dynamic video scenarios. Video-MSR systematically probes MSR capabilities through four distinct tasks: Constrained Localization, Chain-based Reference Retrieval, Route Planning, and Counterfactual Physical Deduction. Our benchmark comprises 3,052 high-quality video instances with 4,993 question-answer pairs, constructed via a scalable, visually-grounded pipeline combining advanced model generation with rigorous human verification. Through a comprehensive evaluation of 20 state-of-the-art MLLMs, we uncover significant limitations, revealing that while models demonstrate proficiency in surface-level perception, they exhibit distinct performance drops in MSR tasks, frequently suffering from spatial disorientation and hallucination during multi-step deductions. To mitigate these shortcomings and empower models with stronger MSR capabilities, we further curate MSR-9K, a specialized instruction-tuning dataset, and fine-tune Qwen-VL, achieving a +7.82% absolute improvement on Video-MSR. Our results underscore the efficacy of multi-hop spatial instruction data and establish Video-MSR as a vital foundation for future research. The code and data will be available at https://github.com/ruiz-nju/Video-MSR."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "True Masses using RV data with Hipparcos and Gaia Astrometry",
+    "authors": "G. Piccinini, A. Petralia, A. Sozzetti, S. Benatti, D. Gandolfi, G. Micela",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09401v1",
+    "source": "arXiv",
+    "abstract": "Long-period companions are detected and characterized thanks to long-baseline radial velocity surveys. Combining Doppler time-series with astrometry, and in particular with proper motion anomalies technique, it is possible to put strong constraints on their orbital inclination and true mass. This work aims to present a model that combines Hipparcos and Gaia astrometric data with radial velocity measurements to constrain the orbital inclinations and true masses of long-period companions. Additionally, we re-analyse a small sample of targets that have not yet been studied using this combined approach. This research leverages the simultaneous modelling of proper motion anomalies and radial velocities, in conjunction with an analysis of the sensitivity curve. This approach serves not only as a verification of the parameters but also as a means to acquire valuable insights into planetary systems. The new analyses reveal that some of the targets classified as brown dwarfs or small-mass stars have a planetary nature. HD 5388 b and HD 6718 b are likely planets. HD 141937 b is likely a planet, but the current dataset does not allow us to firmly constrain its true mass. HD 16760 b belongs to the brown dwarf regime and it has a probable second companion. 30 Ari B b falls within the stellar regime, but the presence of an additional stellar companion could compromise the reliability of the final results. For HD 148427 b, HD 96127 b and HIP 65891 b we determined a range for the orbital inclinations."
+  },
+  {
+    "date": "2026-01-14",
+    "title": "Uplink Multi-User MIMO Implementation in OpenAirInterface for a Cell-Free O-RAN Testbed",
+    "authors": "Utku Uçak, Fariba Armandoust, Matthias Mehlhose, Daniel Schäufele, Jochen Fink, Renato L. G. Cavalcante, Sławomir Stańczak",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.09384v1",
+    "source": "arXiv",
+    "abstract": "Cell-Free Multiple-Input Multiple-Output (MIMO) and Open Radio Access Network (O-RAN) have been active research topics in the wireless communication community in recent years. As an open-source software implementation of the 3rd Generation Partnership Project (3GPP) 5th Generation (5G) protocol stack, OpenAirInterface (OAI) has become a valuable tool for deploying and testing new ideas in wireless communication systems. In this paper, we present our OAI based real-time uplink Multi-User MIMO (MU-MIMO) testbed developed at Fraunhofer HHI. As a part of our Cell-Free MIMO testbed development, we built a 2x2 MU-MIMO system using general purpose computers and commercially available software defined radios (SDRs). Using a modified OAI next-Generation Node-B (gNB) and two unmodified OAI user equipment (UE), we show that it is feasible to use Sounding Reference Signal (SRS) channel estimates to compute uplink combiners. Our results verify that this method can be used to separate and decode signals from two users transmitting in nonorthogonal time-frequency resources. This work serves as an important verification step to build a complete Cell-Free MU-MIMO system that leverages time domain duplexing (TDD) reciprocity to do downlink beamforming over multiple cells."
+  }
+]
