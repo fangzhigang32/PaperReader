@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-01-16",
+    "title": "A Probabilistic Approach to Trajectory-Based Optimal Experimental Design",
+    "authors": "Ahmed Attia",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11473v1",
+    "source": "arXiv",
+    "abstract": "We present a novel probabilistic approach for optimal path experimental design. In this approach a discrete path optimization problem is defined on a static navigation mesh, and trajectories are modeled as random variables governed by a parametric Markov policy. The discrete path optimization problem is then replaced with an equivalent stochastic optimization problem over the policy parameters, resulting in an optimal probability model that samples estimates of the optimal discrete path. This approach enables exploration of the utility function's distribution tail and treats the utility function of the design as a black box, making it applicable to linear and nonlinear inverse problems and beyond experimental design. Numerical verification and analysis are carried out by using a parameter identification problem widely used in model-based optimal experimental design."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "InterPUF: Distributed Authentication via Physically Unclonable Functions and Multi-party Computation for Reconfigurable Interposers",
+    "authors": "Ishraq Tashdid, Tasnuva Farheen, Sazadur Rahman",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11368v1",
+    "source": "arXiv",
+    "abstract": "Modern system-in-package (SiP) platforms increasingly adopt reconfigurable interposers to enable plug-and-play chiplet integration across heterogeneous multi-vendor ecosystems. However, this flexibility introduces severe trust challenges, as traditional authentication schemes fail to scale or adapt in decentralized, post-fabrication programmable environments. This paper presents InterPUF, a compact and scalable authentication framework that transforms the interposer into a distributed root of trust. InterPUF embeds a route-based differential delay physically unclonable function (PUF) across the reconfigurable interconnect and secures authentication using multi-party computation (MPC), ensuring raw PUF signatures are never exposed. Our hardware evaluation shows only 0.23% area and 0.072% power overhead across diverse chiplets while preserving authentication latency within tens of nanoseconds. Simulation results using pyPUF confirm strong uniqueness, reliability, and modeling resistance under process, voltage, and temperature variations. By combining interposer-resident PUF primitives with cryptographic hashing and collaborative verification, InterPUF enforces a minimal-trust authentication model without relying on a centralized anchor."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "Can Small Agent Collaboration Beat a Single Big LLM?",
+    "authors": "Agata Żywot, Xinyi Chen, Maarten de Rijke",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11327v1",
+    "source": "arXiv",
+    "abstract": "This report studies whether small, tool-augmented agents can match or outperform larger monolithic models on the GAIA benchmark. Using Qwen3 models (4B-32B) within an adapted Agentic-Reasoning framework, we isolate the effects of model scale, explicit thinking (no thinking, planner-only, or full), and tool use (search, code, mind-map). Tool augmentation provides the largest and most consistent gains. Using tools, 4B models can outperform 32B models without tool access on GAIA in our experimental setup. In contrast, explicit thinking is highly configuration- and difficulty-dependent: planner-only thinking can improve decomposition and constraint tracking, while unrestricted full thinking often degrades performance by destabilizing tool orchestration, leading to skipped verification steps, excessive tool calls, non-termination, and output-format drift."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "Dressed-state relaxation in coupled qubits as a source of two-qubit gate errors",
+    "authors": "Ruixia Wang, Jiayu Ding, Chenlu Wang, Yujia Zhang, He Wang, Wuerkaixi Nuerbolati, Zhen Yang, Xuehui Liang, Weijie Sun, Haifeng Yu, Fei Yan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11316v1",
+    "source": "arXiv",
+    "abstract": "Understanding error mechanisms in two-qubit gate operations is essential for building high-fidelity quantum processors. While prior studies predominantly treat dephasing noise as either Markovian or predominantly low-frequency, realistic qubit environments exhibit structured, frequency-dependent spectra. Here we demonstrate that noise at frequencies matching the dressed-state energy splitting--set by the inter-qubit coupling strength g--induces a distinct relaxation channel that degrades gate performance. Through combined theoretical analysis and experimental verification on superconducting qubits with engineered noise spectra, we show that two-qubit gate errors scale predictably with the noise power spectral density at frequency 2g, extending the concept of $T_{1ρ}$ relaxation to interacting systems. This frequency-selective relaxation mechanism, universal across platforms, enriches our understanding of decoherence pathways during gate operations. The same mechanism sets coherence limits for dual-rail or singlet-triplet encodings."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "One LLM to Train Them All: Multi-Task Learning Framework for Fact-Checking",
+    "authors": "Malin Astrid Larsson, Harald Fosen Grunnaleite, Vinay Setty",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11293v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) are reshaping automated fact-checking (AFC) by enabling unified, end-to-end verification pipelines rather than isolated components. While large proprietary models achieve strong performance, their closed weights, complexity, and high costs limit sustainability. Fine-tuning smaller open weight models for individual AFC tasks can help but requires multiple specialized models resulting in high costs. We propose \\textbf{multi-task learning (MTL)} as a more efficient alternative that fine-tunes a single model to perform claim detection, evidence ranking, and stance detection jointly. Using small decoder-only LLMs (e.g., Qwen3-4b), we explore three MTL strategies: classification heads, causal language modeling heads, and instruction-tuning, and evaluate them across model sizes, task orders, and standard non-LLM baselines. While multitask models do not universally surpass single-task baselines, they yield substantial improvements, achieving up to \\textbf{44\\%}, \\textbf{54\\%}, and \\textbf{31\\%} relative gains for claim detection, evidence re-ranking, and stance detection, respectively, over zero-/few-shot settings. Finally, we also provide practical, empirically grounded guidelines to help practitioners apply MTL with LLMs for automated fact-checking."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "\"Can You Tell Me?\": Designing Copilots to Support Human Judgement in Online Information Seeking",
+    "authors": "Markus Bink, Marten Risius, Udo Kruschwitz, David Elsweiler",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11284v1",
+    "source": "arXiv",
+    "abstract": "Generative AI (GenAI) tools are transforming information seeking, but their fluent, authoritative responses risk overreliance and discourage independent verification and reasoning. Rather than replacing the cognitive work of users, GenAI systems should be designed to support and scaffold it. Therefore, this paper introduces an LLM-based conversational copilot designed to scaffold information evaluation rather than provide answers and foster digital literacy skills. In a pre-registered, randomised controlled trial (N=261) examining three interface conditions including a chat-based copilot, our mixed-methods analysis reveals that users engaged deeply with the copilot, demonstrating metacognitive reflection. However, the copilot did not significantly improve answer correctness or search engagement, largely due to a \"time-on-chat vs. exploration\" trade-off and users' bias toward positive information. Qualitative findings reveal tension between the copilot's Socratic approach and users' desire for efficiency. These results highlight both the promise and pitfalls of pedagogical copilots, and we outline design pathways to reconcile literacy goals with efficiency demands."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "Proving Circuit Functional Equivalence in Zero Knowledge",
+    "authors": "Sirui Shen, Zunchen Huang, Chenglu Jin",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11173v1",
+    "source": "arXiv",
+    "abstract": "The modern integrated circuit ecosystem is increasingly reliant on third-party intellectual property integration, which introduces security risks, including hardware Trojans and security vulnerabilities. Addressing the resulting trust deadlock between IP vendors and system integrators without exposing proprietary designs requires novel privacy-preserving verification techniques. However, existing privacy-preserving hardware verification methods are all simulation-based and fail to offer formal guarantees. In this paper, we propose ZK-CEC, the first privacy-preserving framework for hardware formal verification. By combining formal verification and zero-knowledge proof (ZKP), ZK-CEC establishes a foundation for formally verifying IP correctness and security without compromising the confidentiality of the designs. We observe that existing zero-knowledge protocols for formal verification are designed to prove statements of public formulas. However, in a privacy-preserving verification context where the formula is secret, these protocols cannot prevent a malicious prover from forging the formula, thereby compromising the soundness of the verification. To address these gaps, we first propose a blueprint for proving the unsatisfiability of a secret design against a public constraint, which is widely applicable to proving properties in software, hardware, and cyber-physical systems. Based on the proposed blueprint, we construct ZK-CEC, which enables a prover to convince the verifier that a secret IP's functionality aligns perfectly with the public specification in zero knowledge, revealing only the length and width of the proof. We implement ZK-CEC and evaluate its performance across various circuits, including arithmetic units and cryptographic components. Experimental results show that ZK-CEC successfully verifies practical designs, such as the AES S-Box, within practical time limits."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning",
+    "authors": "Shaofeng Yin, Jiaxin Ge, Zora Zhiruo Wang, Xiuyu Li, Michael J. Black, Trevor Darrell, Angjoo Kanazawa, Haiwen Feng",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11109v1",
+    "source": "arXiv",
+    "abstract": "Vision-as-inverse-graphics, the concept of reconstructing an image as an editable graphics program is a long-standing goal of computer vision. Yet even strong VLMs aren't able to achieve this in one-shot as they lack fine-grained spatial and physical grounding capability. Our key insight is that closing this gap requires interleaved multimodal reasoning through iterative execution and verification. Stemming from this, we present VIGA (Vision-as-Inverse-Graphic Agent) that starts from an empty world and reconstructs or edits scenes through a closed-loop write-run-render-compare-revise procedure. To support long-horizon reasoning, VIGA combines (i) a skill library that alternates generator and verifier roles and (ii) an evolving context memory that contains plans, code diffs, and render history. VIGA is task-agnostic as it doesn't require auxiliary modules, covering a wide range of tasks such as 3D reconstruction, multi-step scene editing, 4D physical interaction, and 2D document editing, etc. Empirically, we found VIGA substantially improves one-shot baselines on BlenderGym (35.32%) and SlideBench (117.17%). Moreover, VIGA is also model-agnostic as it doesn't require finetuning, enabling a unified protocol to evaluate heterogeneous foundation VLMs. To better support this protocol, we introduce BlenderBench, a challenging benchmark that stress-tests interleaved multimodal reasoning with graphics engine, where VIGA improves by 124.70%."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "Towards Quantum-Resistant Trusted Computing: Architectures for Post-Quantum Integrity Verification Techniques",
+    "authors": "Grazia D'Onghia, Antonio Lioy",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.11095v1",
+    "source": "arXiv",
+    "abstract": "Trust is the core building block of secure systems, and it is enforced through methods to ensure that a specific system is properly configured and works as expected. In this context, a Root of Trust (RoT) establishes a trusted environment, where both data and code are authenticated via a digital signature based on asymmetric cryptography, which is vulnerable to the threat posed by Quantum Computers (QCs). Firmware, being the first layer of trusted software, faces unique risks due to its longevity and difficult update. The transition of firmware protection to Post-Quantum Cryptography (PQC) is urgent, since it reduces the risk derived from exposing all computing and network devices to quantum-based attacks. This paper offers an analysis of the most common trust techniques and their roadmap towards a Post-Quantum (PQ) world, by investigating the current status of PQC and the challenges posed by such algorithms in existing Trusted Computing (TC) solutions from an integration perspective. Furthermore, this paper proposes an architecture for TC techniques enhanced with PEC, addressing the imperative for immediate adoption of quantum-resistant algorithms."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "The Optimal Control Problem of Stochastic Differential System with Extended Mixed Delays and Applications",
+    "authors": "Xinpo Li, Jingtao Shi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10990v1",
+    "source": "arXiv",
+    "abstract": "This paper investigates an optimal control problem where the system is described by a stochastic differential equation with extended mixed delays that contain point delay, extended distributed delay, and extended noisy memory. The model is general in that the extended mixed delays of the state variable and control variable are components of all the coefficients, in particular, the diffusion term and the terminal cost. To address the difficulties induced by the extended noisy memory, by stochastic Fubini theorem, we transform the delay variational equation into a Volterra integral equation without delay, and then a kind of backward stochastic Volterra integral equation with Malliavin derivatives is introduced by the developed coefficient decomposition method and the generalized duality principle. Therefore, the stochastic maximum principle and the verification theorem are established. Subsequently, with Clark-Ocone formula, the adjoint equation is expressed as a set of anticipated backward stochastic differential equations. Finally, a nonzero-sum stochastic differential game with extended mixed delays and a linear-quadratic solvable example are discussed, as applications."
+  },
+  {
+    "date": "2026-01-16",
+    "title": "Multi-Stage Patient Role-Playing Framework for Realistic Clinical Interactions",
+    "authors": "Shijie Jiang, Zefan Zhang, Kehua Zhu, Tian Bai, Ruihong Zhao",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10951v1",
+    "source": "arXiv",
+    "abstract": "The simulation of realistic clinical interactions plays a pivotal role in advancing clinical Large Language Models (LLMs) and supporting medical diagnostic education. Existing approaches and benchmarks rely on generic or LLM-generated dialogue data, which limits the authenticity and diversity of doctor-patient interactions. In this work, we propose the first Chinese patient simulation dataset (Ch-PatientSim), constructed from realistic clinical interaction scenarios to comprehensively evaluate the performance of models in emulating patient behavior. Patients are simulated based on a five-dimensional persona structure. To address issues of the persona class imbalance, a portion of the dataset is augmented using few-shot generation, followed by manual verification. We evaluate various state-of-the-art LLMs and find that most produce overly formal responses that lack individual personality. To address this limitation, we propose a training-free Multi-Stage Patient Role-Playing (MSPRP) framework, which decomposes interactions into three stages to ensure both personalization and realism in model responses. Experimental results demonstrate that our approach significantly improves model performance across multiple dimensions of patient simulation."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "WEAVE imaging spectroscopy of NGC 6720: an iron bar in the Ring",
+    "authors": "R. Wesson, J. E. Drew, M. J. Barlow, J. García-Rojas, R. Greimel, D. Jones, A. Manchado, R. A. H. Morris, A. Zijlstra, P. J. Storey, J. A. L. Aguerri, S. R. Berlanas, E. Carrasco, G. B. Dalton, E. Gafton, R. García-Benito, A. L. González-Morán, B. Gänsicke, S. Hughes, S. Jin, R. Raddi, R. Sanchez-Janssen, E. Schallig, D. J. B. Smith, S. C. Trager, N. A. Walton",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10635v1",
+    "source": "arXiv",
+    "abstract": "We present spatially resolved spectroscopic observations of the planetary nebula NGC 6720, the Ring Nebula, taken during the science verification phase of WEAVE, a new instrument mounted on the William Herschel Telescope on La Palma. We use the instrument's Large Integral Field Unit (LIFU) to obtain spectra of the Ring Nebula, covering its entire optically bright inner regions as well as parts of its much fainter outer molecular halo. We report the discovery of emission from [Fe~{\\sc v}] and [Fe~{\\sc vi}] confined to a narrow ``bar'' extending across the central regions of the nebula. No lines of other elements share this morphology or, at the spectral resolving power used ($R \\sim 2500$), the same radial velocity. The extent to which iron in this bar is depleted is presently unclear; comparison with JWST-detected dust continuum emission suggests that some dust grain destruction may be occurring in the region, but there is currently no observational evidence for the $>$ 50~km\\,s$^{-1}$ shock waves or $T > 10^6$~K X-ray emitting gas needed to enable this. Where the bar is located along the line of sight through the nebula, and how it was created, are new puzzles to be solved for this iconic planetary nebula."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Hybrid Encryption with Certified Deletion in Preprocessing Model",
+    "authors": "Kunal Dey, Reihaneh Safavi-Naini",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10542v1",
+    "source": "arXiv",
+    "abstract": "Certified deletion allows Alice to outsource data to Bob and, at a later time, obtain a verifiable guarantee that the file has been irreversibly deleted at her request. The functionality, while impossible using classical information alone, can be achieved using quantum information. Existing approaches, rely on one-time pad (OTP) encryption, or use computational hardness assumptions that may be vulnerable to future advances in classical or quantum computing. In this work, we introduce and formalize hybrid encryption with certified deletion in the preprocessing model (pHE-CD) and propose two constructions. The constructions combine an information-theoretic key encapsulation mechanism (iKEM) with a data encapsulation mechanism that provides certified deletion (DEM-CD) and, respectively, provide {\\em information-theoretic certified deletion}, where both confidentiality and deletion properties are provided against a computationally unbounded adversary; and {\\em everlasting certified deletion}, where confidentiality is computational before deletion, and upon successful verification of the deletion certificate, the message becomes information-theoretically hidden from an adversary that is computationally unbounded. Our pHE-CD schemes provide IND-$q_e$-CPA notion of security and support encryption of arbitrarily long messages. In the second construction, using a computationally secure DEM-CD that is quantum-safe (i.e. constructed using quantum coding and AES), we obtain quantum-safe security with keys that are significantly shorter than the message. Instantiating the proposed framework using quantum enabled kem (qKEM) as the iKEM, is a future work."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Breaking Up with Normatively Monolithic Agency with GRACE: A Reason-Based Neuro-Symbolic Architecture for Safe and Ethical AI Alignment",
+    "authors": "Felix Jahn, Yannic Muskalla, Lisa Dargasz, Patrick Schramowski, Kevin Baum",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10520v1",
+    "source": "arXiv",
+    "abstract": "As AI agents become increasingly autonomous, widely deployed in consequential contexts, and efficacious in bringing about real-world impacts, ensuring that their decisions are not only instrumentally effective but also normatively aligned has become critical. We introduce a neuro-symbolic reason-based containment architecture, Governor for Reason-Aligned ContainmEnt (GRACE), that decouples normative reasoning from instrumental decision-making and can contain AI agents of virtually any design. GRACE restructures decision-making into three modules: a Moral Module (MM) that determines permissible macro actions via deontic logic-based reasoning; a Decision-Making Module (DMM) that encapsulates the target agent while selecting instrumentally optimal primitive actions in accordance with derived macro actions; and a Guard that monitors and enforces moral compliance. The MM uses a reason-based formalism providing a semantic foundation for deontic logic, enabling interpretability, contestability, and justifiability. Its symbolic representation enriches the DMM's informational context and supports formal verification and statistical guarantees of alignment enforced by the Guard. We demonstrate GRACE on an example of a LLM therapy assistant, showing how it enables stakeholders to understand, contest, and refine agent behavior."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Aletheia-Probe: A Tool for Automated Journal Assessment",
+    "authors": "Andreas Florath",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10431v1",
+    "source": "arXiv",
+    "abstract": "Assessing journal legitimacy during literature reviews, publication venue selection, and citation verification requires consulting information scattered across multiple incompatible data-sets. This paper introduces Aletheia-Probe, an open-source tool that systematically aggregates curated databases and pattern analysis from multiple authoritative sources to provide transparent, confidence-scored journal assessments. The tool explicitly reports which sources were consulted, what each found, and where evidence conflicts. The tool integrates into research workflows through command-line and programmatic interfaces. It reduces manual assessment overhead while explicitly flagging uncertain cases. We present the tool's architecture, core design principles, and practical integration approach. Comprehensive empirical validation will be presented in forthcoming work."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Lambert W Function Framework for Graphene Nanoribbon Quantum Sensing: Theory, Verification, and Multi-Modal Applications",
+    "authors": "F. A. Chishtie, K. Roberts, N. Jisrawi, S. R. Valluri, A. Soni, P. C. Deshmukh",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10767v1",
+    "source": "arXiv",
+    "abstract": "We establish a rigorous mathematical framework connecting graphene nanoribbon quantum sensing to the Lambert W function through the finite square well (FSW) analogy. The Lambert W function, defined as the inverse of $f(W) = We^W$, provides exact analytical solutions to transcendental equations governing quantum confinement. We demonstrate that operating near the branch point at $z = -1/e$ yields sensitivity enhancement factors scaling as $η_{\\text{enh}} \\propto (z - z_c)^{-1/2}$, achieving 35-fold enhancement at $δ= 0.001$. Comprehensive numerical verification confirms: (i) all seven bound states for strength parameter $R = 10$ satisfying the constraint $u^2 + v^2 = R^2$; (ii) exact agreement between theoretical band gap formula $E_g = 2π\\hbar v_F/(3L)$ and empirical relation $E_g = 1.38/L$ eV$\\cdot$nm; (iii) universal sensitivity scaling across biomedical (SARS-CoV-2, inflammatory markers, cancer biomarkers), environmental (CO$_2$, CH$_4$, NO$_2$, N$_2$O, H$_2$O), and physical (strain, magnetic field, temperature) sensing modalities. This unified framework provides design principles for next-generation graphene quantum sensors with analytically predictable performance."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Actors, Frames and Arguments: A Multi-Decade Computational Analysis of Climate Discourse in Financial News using Large Language Models",
+    "authors": "Ruiran Su, Janet B. Pierrehumbert, Markus Leippold",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10142v1",
+    "source": "arXiv",
+    "abstract": "Financial news media shapes trillion-dollar climate investment decisions, yet discourse in this elite domain remains underexplored. We analyze two decades of climate-related articles (2000-2023) from Dow Jones Newswire using an Actor-Frame-Argument (AFA) pipeline that extracts who speaks, how issues are framed, and which arguments are deployed. We validate extractions against 2,000 human-annotated articles using a Decompositional Verification Framework that evaluates completeness, faithfulness, coherence, and relevance. Our longitudinal analysis uncovers a structural transformation: pre-2015 coverage emphasized risk and regulatory burden; post-Paris Agreement, discourse shifted toward economic opportunity and innovation, with financial institutions becoming dominant voices. Methodologically, we provide a replicable paradigm for longitudinal media analysis with LLMs; substantively, we reveal how financial elites have internalized and reframed the climate crisis across two decades."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "SIN-Bench: Tracing Native Evidence Chains in Long-Context Multimodal Scientific Interleaved Literature",
+    "authors": "Yiming Ren, Junjie Wang, Yuxin Meng, Yihang Shi, Zhiqiang Lin, Ruihang Chu, Yiran Xu, Ziming Li, Yunfei Zhao, Zihan Wang, Yu Qiao, Ruiming Tang, Minghao Liu, Yujiu Yang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10108v1",
+    "source": "arXiv",
+    "abstract": "Evaluating whether multimodal large language models truly understand long-form scientific papers remains challenging: answer-only metrics and synthetic \"Needle-In-A-Haystack\" tests often reward answer matching without requiring a causal, evidence-linked reasoning trace in the document. We propose the \"Fish-in-the-Ocean\" (FITO) paradigm, which requires models to construct explicit cross-modal evidence chains within native scientific documents. To operationalize FITO, we build SIN-Data, a scientific interleaved corpus that preserves the native interleaving of text and figures. On top of it, we construct SIN-Bench with four progressive tasks covering evidence discovery (SIN-Find), hypothesis verification (SIN-Verify), grounded QA (SIN-QA), and evidence-anchored synthesis (SIN-Summary). We further introduce \"No Evidence, No Score\", scoring predictions when grounded to verifiable anchors and diagnosing evidence quality via matching, relevance, and logic. Experiments on eight MLLMs show that grounding is the primary bottleneck: Gemini-3-pro achieves the best average overall score (0.573), while GPT-5 attains the highest SIN-QA answer accuracy (0.767) but underperforms on evidence-aligned overall scores, exposing a gap between correctness and traceable support."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing",
+    "authors": "Khushbakht Farooq, Muhammad Ibrahim, Irsa Manzoor, Mukhtaj Khan, Wei Song",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10105v1",
+    "source": "arXiv",
+    "abstract": "The rapid integration of IoT with edge computing has revolutionized various domains, particularly healthcare, by enabling real-time data sharing, remote monitoring, and decision-making. However, it introduces critical challenges, including data privacy breaches, security vulnerabilities, especially in environments dealing with sensitive information. Traditional access control mechanisms and centralized security systems do not address these issues, leaving IoT environments exposed to unauthorized access and data misuse. This research proposes Fuzzychain-edge, a novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing framework designed to overcome these limitations by incorporating Zero-Knowledge Proofs (ZKPs), fuzzy logic, and smart contracts. ZKPs secure sensitive data during access control processes by enabling verification without revealing confidential details, thereby ensuring user privacy. Fuzzy logic facilitates adaptive, context-aware decision-making for access control by dynamically evaluating parameters such as data sensitivity, trust levels, and user roles. Blockchain technology, with its decentralized and immutable architecture, ensures transparency, traceability, and accountability using smart contracts that automate access control processes. The proposed framework addresses key challenges by enhancing security, reducing the likelihood of unauthorized access, and providing a transparent audit trail of data transactions. Expected outcomes include improved data privacy, accuracy in access control, and increased user trust in IoT systems. This research contributes significantly to advancing privacy-preserving, secure, and traceable solutions in IoT environments, laying the groundwork for future innovations in decentralized technologies and their applications in critical domains such as healthcare and beyond."
+  },
+  {
+    "date": "2026-01-15",
+    "title": "MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning",
+    "authors": "Ke Chen, Jiandian Zeng, Zihao Peng, Guo Li, Guangxue Zhang, Tian Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2601.10101v1",
+    "source": "arXiv",
+    "abstract": "As knowledge and semantics on the web grow increasingly complex, enhancing Large Language Models (LLMs) comprehension and reasoning capabilities has become particularly important. Chain-of-Thought (CoT) prompting has been shown to enhance the reasoning capabilities of LLMs. However, it still falls short on logical reasoning tasks that rely on symbolic expressions and strict deductive rules. Neuro-symbolic methods address this gap by enforcing formal correctness through external solvers. Yet these solvers are highly format-sensitive, and small instabilities in model outputs can lead to frequent processing failures. LLM-driven approaches avoid parsing brittleness, but they lack structured representations and process-level error-correction mechanisms. To further enhance the logical reasoning capabilities of LLMs, we propose MatrixCoT, a structured CoT framework with a matrix-based plan. Specifically, we normalize and type natural language expressions, attach explicit citation fields, and introduce a matrix-based planning method to preserve global relations among steps. The plan becomes a verifiable artifact, making execution more stable. For verification, we also add a feedback-driven replanning mechanism. Under semantic-equivalence constraints, it identifies omissions and defects, rewrites and compresses the dependency matrix, and produces a more trustworthy final answer. Experiments on five logical-reasoning benchmarks and five LLMs show that, without relying on external solvers, MatrixCoT enhances both robustness and interpretability when tackling complex symbolic reasoning tasks, while maintaining competitive performance."
+  }
+]
