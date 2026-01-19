@@ -248,6 +248,7 @@ def build_email_body_from_selected(selected_file_path):
         return f"<p>读取论文文件失败：{html.escape(str(e))}</p>"
 
     if not papers or not isinstance(papers, list):
+        return None
         return """
         <div style="font-family: Arial, 'Microsoft YaHei', sans-serif; line-height: 1.6; color: #333;">
             <h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 8px;">论文筛选结果</h3>
@@ -361,6 +362,8 @@ def select_translate_and_email(file_path):
     """一键执行筛选、翻译、邮件发送"""
     selected_path = select_translate_and_save(file_path)
     body = build_email_body_from_selected(selected_path)
+    if body is None:
+        return
     send_email(
         sender_email=SENDER_EMAIL,
         sender_password=SENDER_PASS,
