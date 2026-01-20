@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-1-19",
+    "title": "Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing",
+    "authors": "Xueying Du, Mingwei Liu, Hanlin Wang, Juntao Li, Xin Peng, Yiling Lou",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3788866",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "探索大型语言模型在解决环境相关崩溃漏洞中的应用：定位与修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-1-19",
+    "title": "Smells Depend on the Context: An Interview Study of Issue Tracking Problems and Smells in Practice",
+    "authors": "Lloyd Montgomery, Clara Lüders, Christian Rahe, Walid Maalej",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3788876",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "上下文决定气味：一项关于实际中问题跟踪问题与代码异味的访谈研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-1-19",
+    "title": "From Loop Nests to Silicon: Mapping AI Workloads onto AMD NPUs with MLIR-AIR",
+    "authors": "Erwei Wang, Samuel Bayliss, Andra Bisca, Zachary Blair, Sangeeta Chowdhary, Kristof Denolf, Jeff Fifield, Brandon Freiberger, Erika Hunhoff, Phil James-Roxby, Jack Lo, Joseph Melber, Stephen Neuendorffer, Eddie Richter, André Rosti, Javier Setoain, Gagandeep Singh, Endri Taka, Pranathi Vasireddy, Zhewen Yu, Niansong Zhang, Jinming Zhuang",
+    "publish": "ACM Transactions on Reconfigurable Technology and Systems",
+    "url": "https://doi.org/10.1145/3785670",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从循环嵌套到硅片：使用 MLIR-AIR 将 AI 工作负载映射到 AMD NPU",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-1-19",
+    "title": "Empirical Analysis of Smart Contract Factories on EVM-compatible Chains",
+    "authors": "Ziyue Wang, Zongwen Shen, Lei Chen, Wei Song, Jidong Ge, LiGuo Huang, Bin Luo",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3787216",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "EVM兼容链上智能合约工厂的实证分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-1-19",
+    "title": "Structure-Preserving Discrete Diffusion Models for Verified Code Generation",
+    "authors": "Tiantian Huang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Digital Economy and Computer Science",
+    "url": "https://doi.org/10.1145/3785706.3785940",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "用于验证代码生成的结构保持离散扩散模型",
+    "abstract_zh": "None"
+  }
+]
