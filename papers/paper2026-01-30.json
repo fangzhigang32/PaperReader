@@ -1,0 +1,1487 @@
+[
+  {
+    "date": "2026-1-30",
+    "title": "Research on Digital Reform of E-Commerce Major Under the Background of New Technologies: Curriculum System Reconstruction and Practical Model Verification Based on AI and Machine",
+    "authors": "Jian Dong, Yintong Guo, Jianru Xie",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786026",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Adaptive Real-Time Financial Fraud Detection with Explainable AI tools",
+    "authors": "Gaetano Alessi, Mariagrazia Fugini",
+    "publish": "Digital Threats: Research and Practice",
+    "url": "https://doi.org/10.1145/3794859",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research Status of International Sports Artificial Intelligence: Visualization Analysis Based on the WoS Database",
+    "authors": "Yuehang Diao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786038",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A PERSONALIZED COLLEGE ENGLISH LEARNING PATH RECOMMENDATION MODEL LEVERAGING KNOWLEDGE GRAPH AND ADAPTIVE LEARNING ALGORITHMS",
+    "authors": "Shan Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786098",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "AI-Driven Technical Transformation of Operations Research Teaching for Business Application-Oriented Talent in the Digital-Intelligence Era: Framework, Implementation, and Evaluation",
+    "authors": "Hang Su, Lingjing Duan",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786059",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Integration Research of 5E Teaching Mode and Computer-aided Technology in Automobile Electrical Teaching",
+    "authors": "Naifa Gong, Guang Wang, Yulong Pan, Jinbo Liu, Zhongrui Yuan, Yali Liu, Jinzhu Ma, Xuanrui Zhang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785991",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "TriPIM — Exact Triangle Counting on UPMEM Processing-in-Memory for Graph Analytics",
+    "authors": "Morteza Baradaran, Khyati Kiyawat, Akhil Shekar, Abdullah T. Mughrabi, Kevin Skadron",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767137",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "TGN-PNM: A Near-Memory Architecture for Temporal GNN Inference on 3D-Stacked Memory",
+    "authors": "Alif Ahmed, Felix Lin, Jundong Li, Kevin Skadron",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767136",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Inter-APU Communication on AMD MI300A Systems via Infinity Fabric: A Deep Dive",
+    "authors": "Gabin Schieffer, Jacob Wahlgren, Ruimin Shi, Edgar A Leon, Roger Pearce, Maya Gokhale, Ivy Peng",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767130",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Development of an Intelligent Teaching Assistant for Data Structures Courses on the BUPT TruFar Platform",
+    "authors": "Jing Fan",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786100",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Computer Technology-Enhanced Blended Learning Model for College English in Higher Vocational Education: Design, Implementation, and Efficacy",
+    "authors": "Ziyuan Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786013",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Application of Deep Learning in the Integrated Cultivation of Children's Language Learning Talent and Second Language Acquisition",
+    "authors": "Yudi Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786019",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Construction and Practice of an AI-Empowered Whole-Cycle Career Guidance System in Universities: An Innovative Exploration Based on the Career Development Stage Theory",
+    "authors": "Mingzhen Wan, Wei Chen, Liang Liang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786024",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research and Application Exploration of Gesture Interaction Technology in Virtual Reality Environment: Taking Gesture in game World as an example",
+    "authors": "Chunxuan Gao, Baiheng Liu, Shaoxiong Wang, Jingyao Li, Zimo Zhang, Yuelin Xu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785988",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Computational Analysis of Physical Activity, Sleep Quality, and Depressive Symptoms among Middle-Aged Teachers: Interrelationships and Moderating Effects",
+    "authors": "Yulin Chen, Lirong Zhang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786082",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on an Early Warning Model for Higher Vocational College Programs Based on Big Data Analytics",
+    "authors": "Nan Zhou",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786103",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Design and Implementation of Remote Experimental Teaching System Based on Domestic FPGAs",
+    "authors": "Haoxuan Yuan, Danyang Li, Mengzhuo Cui, Qingmei Wei",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786037",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Development Pathways for Low-Altitude Technology and Engineering Disciplines under the Perspective of “Extraordinary” Deployment based on K-Means Clustering",
+    "authors": "Yue Chen, Hang Li, Tianjiao Li, Wanpeng Wanpeng, Qingqing Deng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786042",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Front Cover",
+    "authors": "N/A",
+    "publish": "IEEE Reviews in Biomedical Engineering",
+    "url": "https://doi.org/10.1109/rbme.2026.3652436",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Hardware-Software Co-Development for Emerging CXL Architectures",
+    "authors": "Roberto Gioiosa, Bo Fang, Lenny Guo, Andres Marquez",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767113",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Development of Learning Agent for Data Structures on Smart Education Platform",
+    "authors": "Xiaoyun Gong",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786065",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Construction and Empirical Research of an Intelligent Teaching Model for Ideological and Political Courses Based on Affective Computing and Knowledge Graphs",
+    "authors": "Min Zhang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786102",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "D-PHI: Desirability-Based Hypervolume Indicator for Interactive Multiobjective Optimization Using Aspiration and Reservation Levels as Preferences",
+    "authors": "MaoMao Liang, Babooshka Shavazipour, Bhupinder Saini, Michael Emmerich",
+    "publish": "ACM Transactions on Evolutionary Learning and Optimization",
+    "url": "https://doi.org/10.1145/3794854",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Mathematical Model for XOR-Based Application Specific DRAM Address Mapping Schemes",
+    "authors": "Andrei Rotaru, Oliver Bachtler, Lukas Steiner, Matthias Jung, Sven O. Krumke, Norbert Wehn",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767117",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "VMem: Enabling Application Management of Physical Memory Resources",
+    "authors": "J Zach McMichael, Jacob Malloy, Brandon Kammerdiener, Michael R Jantz, Terry Jones, Kshitij A Doshi",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767116",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Adaptive Learning Theory-Driven Recommendation Systems: Enhancing Personalized Pathways in Lifelong Education Credit Banks",
+    "authors": "Yiming Qin, Yu Meng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786074",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on Improving College English Reading Comprehension Based on BERT",
+    "authors": "Lin Xu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786105",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Intelligent Question-Answering Based on Knowledge Graphs and Large Language Models",
+    "authors": "Tianyue Xue",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786086",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Neural Network Approach for Calibrating Memristor Crossbars",
+    "authors": "Mohammad Rezaeifar, He Chaoyi, Kamran Entesari, Linda Katehi",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767124",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Enhancing Digital Security: A Novel Dual-Paradigm Approach for Robust Deepfake Detection Using Pre and Post Quantum-Trained Neural Networks",
+    "authors": "Shashank Gupta, Yashas Hariprasad, S.S. Iyengar, Subhash Gurappa, Pranab Mohanty",
+    "publish": "Digital Threats: Research and Practice",
+    "url": "https://doi.org/10.1145/3794846",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on teaching reform of information security in colleges and universities for skill certification",
+    "authors": "Kunquan Ye, Jiangang Xie, Weixing Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786068",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on Generative Design Method of Qing Dynasty Cloud Shoulders Based on Artificial Intelligence Diffusion Modeling",
+    "authors": "linmengdie Gui, Yaqin Zhou",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785996",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Mining sports skill transfer patterns based on wearable device data: taking basketball shooting teaching as an example",
+    "authors": "Changcheng Xin, Yunjie Han",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786051",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A model for evaluating the scientific research capabilities of university teachers based on a discrete Hopfield neural network structure",
+    "authors": "Yuxuan Zhang, Feng Wang, Jun Wu, Xiaoguan Cui, Qichao Shen, Shengyuan Li, Lin Chang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786073",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3785987",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Optimization and Empirical Analysis of User Acceptance Model for an Artificial Intelligence Education Platform: A Case Study of Nursing Students",
+    "authors": "Xinru Chen, Zhongmei Chen, Daiyan Wei, Liwayway T. Vallesteros, Fengling Wu, Yuanmeng Li, Hui Li, Mengmeng Liu, Hongting Guo, Wenqian Qi",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786112",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Enhancing Artificial Intelligence Teaching for University Design Faculty: A Strategic Approach from the Intelligent-Technological Pedagogical Content Knowledge Framework.",
+    "authors": "Xue Xiao, Lingyi Zhang, Ming Chen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786089",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Data-Driven Model and Intelligent Recommendation Method for Individualized Teaching in Engineering Cost Courses",
+    "authors": "Yu Lei, Lu Zhang, Ziyuan Zhang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786078",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "The Role of Intelligent Agents and Student Interaction in Promoting Knowledge Transfer and Deep Learning in Vocational Education",
+    "authors": "Hongyan Zhao, Jirui Dong, Jiming Song",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786030",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Comprehensive Performance Evaluation of LLMs for Data-to-Text Generation and Divergence-Weighted Training",
+    "authors": "Joy Mahapatra, Utpal Garain",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3795137",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Application of Collaborative Learning Based on OBE Concept in High School IT Courses",
+    "authors": "Wenhui Hou, Wei Zhang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786063",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Associative clustering with analog content-addressable memory",
+    "authors": "Sara Ameli, Jiaao Yu, John Paul Strachan",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767132",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Design Research on Spacetime-Transcending Virtual Simulation Scenario Teaching Pathways for Mental Health Education Courses",
+    "authors": "Jiaxing Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786010",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "SSQIE&amp;T-F: A Comprehensive Framework for Evaluating Higher Education Systems",
+    "authors": "Guofang Liu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786109",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Memory Sandbox 2.0: A Framework for Enabling HBM2e vs HBM2 Performance and Telemetry Analysis on Xilinx FPGAs",
+    "authors": "Elias Perdomo, Joan Teruel, Sajjad Ahmed, Behzad Salami, Teresa Cervero, Xavier Martorell",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767114",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Design and application of intelligent assistant for college teachers: taking college EFL Course as an example",
+    "authors": "Juhua Dou, Xuhua Zhao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786006",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Path of Empowering Ideological and Political Education with Generative Artificial Intelligence",
+    "authors": "Han Cai",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786090",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Performance Prediction and Correlation-Based Teaching Analysis of Chemical Engineering Thermodynamics Course Using the XGBoost Algorithm",
+    "authors": "Liwei Cheng, Zheng Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786099",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Precision Aware Bank Separated Data Placement",
+    "authors": "Divyansh Maura, Venkatesh Akella",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767112",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Revisiting Pebble Games for Modeling and Efficient Use of Disaggregated Memory Systems",
+    "authors": "Anusha Devulapally, Mahantesh Halappanavar, Bruno Jacob, Vijaykrishnan Narayanan, Andres Marquez",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767118",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Research Roadmap for Augmenting Software Engineering Processes and Software Products with Generative AI",
+    "authors": "Domenico Amalfitano, Andreas Metzger, Marco Autili, Tommaso Fulcini, Tobias Hey, Jan Keim, Patrizio Pelliccione, Vincenzo Scotti, Anne Koziolek, Raffaela Mirandola, Andreas Vogelsang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3788879",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Compile Time Prediction of Cache Reuse for Array Applications with Multiple Loop Nests",
+    "authors": "Abdur Razzak, Atanu Barai, Nandakishore Santhi, Abdel-Hameed Badawy",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767128",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Benchmarking Cache Programming Against Optimal Caching",
+    "authors": "Yanghui Wu, Vincent Michelini, Chen Ding, Dorin Patru",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767126",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Split Write DRAM: Reducing DRAM Access Latency by Mitigating Read-Write Interference",
+    "authors": "K Chitra, Aryabartta Sahu, Arjun Dey, Minesh Patel",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767115",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Artificial Intelligence Technology as a Motivational Bridge to Speaking Proficiency: A Structural Equation Modeling Study of Engagement in EFL Learners",
+    "authors": "Sipei Guo",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786053",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on Utilizing Knowledge Graph to Enhance Graduate Students' Interdisciplinary Research Ability",
+    "authors": "Fangzhou He",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786034",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on Triple Joint Extraction Method of Knowledge Graph for Education Domain",
+    "authors": "Yibo Liu, Qingyun Zuo, Sheng Zhang, Yunfan Li, Chengyuan Wang, Feng Han, Xin Cheng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786009",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "AIGC-Driven BOPPPS Teaching Closed Loop: Addressing Key Challenges in Operating System Principles",
+    "authors": "XunHua Cai, Meng Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786093",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Deductive and Progressive Programming and Teaching A Technical Deep Dive for Assembly Language Pedagogy",
+    "authors": "Xiangtao Kong",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786000",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Side-channel Framework and Microarchitectural Analysis Application",
+    "authors": "Jennie Hill",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767139",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Instructional Practice of AIGC-Enabled Junior High School English Vocabulary Review: A Random Forest-Supported Text-to-Song-MV Approach with Engineering Integration",
+    "authors": "Ziyan Qiu, Peiying Luo, Yueying Li, Bao Chen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786084",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "In-depth Application and Practice of Process Simulation Software in Chemical Engineering Design Teaching-Taking the Process Design and Influencing Factor Analysis of Propylene Purification Column as an Example",
+    "authors": "Chun'an Du, Huilong Shi",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786071",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "MSSA-YOLO: Multi-Scale Spatial Attention Network for Fine-Grained Behavior Detection in Educational Environments",
+    "authors": "Lihua Xie, Rong Zheng, Runmeng Zhou, Bincheng Li, Lei Du",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786083",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Mechanism Analysis of Educational Digital Transformation Collaboration Based on Stochastic Differential Game",
+    "authors": "Jie Gao, Chun Yan",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786055",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "The Construction of the “Knowledge-Emotion” Dual-Network for Research on Community Awareness in Colleges and Universities Against the Background of Big Data Mining",
+    "authors": "Haoru Li, Meixiu Zhou, Yiwei Ma",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786113",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Study on Teaching Derivatives Based on APOS Theory and Multiple Representation Theory: A Random Forest Approach",
+    "authors": "Junjie Zhang, Changhuan Feng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786096",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Multi-modal Deep Learning for Historical Policy Impact Assessment: Application to Standardization Development",
+    "authors": "Bo Hu, Kenan Gong",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786018",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Innovative Research on Practice Teaching Model for Energizing Film and Television Specialty Powered by Artificial Intelligence",
+    "authors": "Gui Li, Gang Xu, Hanyu Liu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786007",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "The Marginal Benefits of R&amp;D Investment in Chinese Higher Education and Implications for Resource Allocation",
+    "authors": "Xiaoyu Xu, Yile Yu, Anzhi Xu, Jiaying Ye",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785999",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "ECC Replay: A Practical and Efficient Scheme To Tolerate High Stuck Bit Rate",
+    "authors": "Lunkai Zhang, Nate Franklin",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767111",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "IEEE Engineering in Medicine and Biology Society",
+    "authors": "N/A",
+    "publish": "IEEE Reviews in Biomedical Engineering",
+    "url": "https://doi.org/10.1109/rbme.2026.3652442",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Intelligent Course Assistant System Based On Large Language Model",
+    "authors": "Wenbo Jiang, Dongju Yang, Kang Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786085",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on Dynamic Evaluation Model of Vocational Education Curriculum Based on CIPP Model and Neural Network",
+    "authors": "Hui Gao, Jiaying Wang, Ziqian Chen, Pengjie Guo, Tao Peng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786104",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on a Spanish Speech Recognition Method Integrating BiLSTM and CTC",
+    "authors": "Yudong Liu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786004",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Design and Empirical Study of a Process-oriented Evaluation Model for the Integration of Vocational Education, Innovation and Entrepreneurship in Higher Vocational Education Based on LSTM-Attention",
+    "authors": "Zhongkun Wu, Nayan Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786092",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "The Study of Graduate Students' Online Learning Behavior",
+    "authors": "Chengyu Sun",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786033",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Design of Interactive System of 3D Graphic Computing and Virtual Painting for College Art Education",
+    "authors": "Yanfeng Deng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786017",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Impact of AI Adaptive Learning Systems on College Students' Learning Outcomes: A Study Based on the Integrated TAM Chain Mediation Model",
+    "authors": "Xiaohui Li, Aonan Liang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786111",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Opportunities and Challenges: Hardware Vulnerability descriptions with Hybrid Logic",
+    "authors": "William Casey",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767134",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Table of Contents",
+    "authors": "N/A",
+    "publish": "IEEE Reviews in Biomedical Engineering",
+    "url": "https://doi.org/10.1109/rbme.2026.3652440",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-1-30",
+    "title": "AI-Driven Personalized Teaching Models in Higher Education Painting Courses",
+    "authors": "Bin Cui",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786088",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Multiple Configurations Driving Digital Transformation of Vocational College Teachers under UTAUT Framework via fsQCA",
+    "authors": "Hongyan Zhao, Jirui Dong, Jing Zhang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785994",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Exploring Optimization Strategies for Environmental Elective Courses Using SPSS: Evidence from Data",
+    "authors": "Ciang Ding, Xuan Gong, Chengkang Gao, Jing An, Li Wang, Lin Lu, Qiang Yue, Tao Du",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786052",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Stream-Aware Intelligent Memory Controller through HW/SW Co-Design",
+    "authors": "Abdelrhman Abotaleb, Maziar Goudarzi, Tomasz Czajkowski, Reza Azimi, Mohamed Hassan",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767122",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Reconstruction of elements of professional and creative integration courses guided by knowledge grap",
+    "authors": "Xin Su",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786064",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Design and application of an intelligent teaching platform integrating international Chinese education and STEAM education",
+    "authors": "Ninghang Gao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786039",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "An LLM-Powered Grammatical Error Correction Agent with Explainable Feedback",
+    "authors": "Jinmei Hao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786075",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Practical Exploration of an Agent-Empowered Smart Library Service Platform——A Case Study of Wuhan University of Technology Library",
+    "authors": "Qingrong Guo, Fenghua Zhao, Haiyan Feng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786029",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "The Impact Mechanism of Robot Anthropomorphism on Learning Motivation: The Mediating Role of Emotional Dependence and the Moderating Effect of Task Type",
+    "authors": "Xiaoyun Chen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786080",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Application of artificial intelligence technology in personalized information literacy teaching in university library subject services",
+    "authors": "Xinyan Liu, Daguang Gan, Qian Wang, Guangfeng Yang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786011",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Generative AI Empowering College English Classroom: Research on Application Effect and Acceptance",
+    "authors": "Zhen Ren, Zhen Diao, Huimin Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786107",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Big Data-Based Analysis of Family Education Models and Student Academic Performance Correlations",
+    "authors": "Lina Guo",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786032",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Study on AI-empowered Teacher-Student Collaborative Assessment in the Writing Classroom",
+    "authors": "Qingmei Huang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786035",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "IMPRINT: In-Memory Processing with Indirect Addressing Techniques for GPU-hosted HBM-PIM",
+    "authors": "Ersin Cukurtas, Kavish Ranawella, Kevin Skadron, Mircea Stan",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767121",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Six-Dimensional Integrated Teaching Concept for Fire Engineering Courses in the Context of Artificial Intelligence",
+    "authors": "Jinhu Li, Wei Lu, Jinliang Li, Qingsong Zhang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786050",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Cybersecurity Architecture: The Case for Teaching Computer Hardware and Computer Security Together",
+    "authors": "Bruce Jacob, William Casey, Tony Melaragno",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767135",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Enhanced Microexpression Recognition through Action Unit-Driven Graph Convolution and Stacked Attention Mechanisms",
+    "authors": "Fangjie Xue, Yongxiang Zhang, Shuaige Guo, Wanlong Cui, Zehao Yuan, Zhiping Shi",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786044",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "An AI-Based Speech Analysis of the Oral Production and Perception of the Minimal Pair [b]/[p] among Chinese Learners of Portuguese with Different Proficiency Levels",
+    "authors": "Shiqi He",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786066",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Automatic Construction System for Curriculum Knowledge Graphs Based on Large Language Models LLM-Based Curriculum Map Construction",
+    "authors": "Sigeng Li, Yifei Xiao, JinCheng Li, Yuan Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786028",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Study on the Nonlinear Effect of Mathematics Achievement on Mechanical Engineering Course Performance Based on Threshold Regression Models",
+    "authors": "Guipan Hu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786079",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Teaching Scaffolding in Physical Education: A Systematic Review of the Evolution from Traditional Methods to AI-Enhanced Approaches",
+    "authors": "Yinghua Di, Yanwei Li, Liang Cui, Zhicong Yang, Huayi Wang, Tong Zhou",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786016",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Proceedings of the International Symposium on Memory Systems",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3767110",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Artificial Intelligence Supported Music Learning and the Well-being of University Students: The Roles of Motivation and Enjoyment",
+    "authors": "Can Wang, Qiuyang Cao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786048",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "On the Thermal Vulnerability of 3D-Stacked High-Bandwidth Memory Architectures",
+    "authors": "Mehdi Elahi, Mohamed R Elshmay, Abdel-Hameed Badawy, Ahmad Patooghy",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767140",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Teaching Reform and Exploration of AI Empowered Java Programming Course Based on OBE Concept",
+    "authors": "Yidan Wan",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786002",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Contemporary Construction and Communication Path of the Character Discourse System of the National Heroes Based on Random Forest Algorithm",
+    "authors": "Tan Xu, Wei Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786070",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on Personalised Recommendations for Ideological and Political Education in the Universities Based on Knowledge Graphs",
+    "authors": "Wei Wu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786091",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Ation System Based on Machine Learning Algorithms",
+    "authors": "Hui Liu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786049",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Scalable Analytical Memory Modeling of AI Accelerators",
+    "authors": "Md Azahar Alam, Nandakishore Santhi, Kishwar Ahmed",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767133",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Enhancement or Atrophy? Examining How Generative AI Reshapes Creative Development in Design Education",
+    "authors": "Lingyi Zhang, Xue Xiao, Yue Qiu, Wenhu Lu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786043",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on Computer-Assisted Cross-Cultural Communication Strategies of Musicals from the Perspective of Digital Communication",
+    "authors": "Chuchu Sun",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786001",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on Innovation Paths and Resource Optimization in International Chinese Language Education Empowered by Artificial Intelligence",
+    "authors": "Huazhen He",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786058",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "HOME: A Hierarchy-Oriented Memory Evaluation Framework for Fast Contention Analysis",
+    "authors": "Dhruv Gajaria, Andrés Márquez",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767123",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Artificial Intelligence Leading Traditional Chinese Medicine Higher Education Digitalization Development Strategy Research",
+    "authors": "Jingchao Li, Meiwei Zhang, Gengnan Fu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786061",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Design and Implementation of a Personalized Learning Recommendation Platform for Computer Science Majors",
+    "authors": "Qingyuan Meng, Qiuyu Ma, Yingtao Liu, Chengying Liao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786095",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Security and Forensics–Is Solid State Drive a Friend or a Foe?",
+    "authors": "Avinash Srinivasan",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767138",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Web-VR Technology Empowering Campus Network Culture Governance: A Multimodal Discourse Analysis and Empirical Study",
+    "authors": "Yanan Guo",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786021",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Study on Classroom Interaction and Personalized Learning Based on an Improved Convolutional Neural Network",
+    "authors": "Zeyu Zhu, Genfeng Zhou, Mario Di Nardo",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786054",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "The Design and Development of a Computer Science Teaching Assistant Agent Based on Large Language Models",
+    "authors": "Lili Quan, Yong Pan",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786108",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Application of GABP Neural Network in Quality Evaluation of Undergraduate Course Experience in China's Preschool Education Program",
+    "authors": "Linxi Zhang, Yahua Xiang, Lei Zheng, Ying Zhou",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786094",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Mechanisms and Pathways of AI-Enabled Design Paradigm Transformation: A Perspective on Integrating Personalization and Mass Production",
+    "authors": "Rui Wang, Yang Xiang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786057",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Multimodal AI-Based Framework for Project-Based Learning in Cognitive Neuroscience",
+    "authors": "Beibei Zhu, Haolong Duan, Jiayi Zhao, Sibing Lu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785997",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Evolution Trends of Ideological and Political Education Topics",
+    "authors": "Hengrui Zhai, Jingshuo Liu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785992",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Semantic Tagging and Content Indexing for Educational Videos Based on Multimodal Feature Fusion",
+    "authors": "Jingyi Wu, Yafeng Liao, Gang Xue, Jufang Zhang, Lijuan Song, Shize Yu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786060",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Artificial Intelligence Assisted Teaching and Teacher Burnout: Exploring the Mediating Effect of Teachers' Sense of Efficacy",
+    "authors": "Xiaoyi Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786046",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "IEEE Reviews in Biomedical Engineering (R-BME) Publication Information",
+    "authors": "N/A",
+    "publish": "IEEE Reviews in Biomedical Engineering",
+    "url": "https://doi.org/10.1109/rbme.2026.3652438",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Integrating AI Virtual Tutors in Blended Learning: A Controlled Evaluation of Learning Outcomes and Student Engagement",
+    "authors": "Yang Li, Zilong Bao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786027",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Construction and Optimization of Comprehensive Quality Evaluation Model for Private College Teachers Based on AHP and Python",
+    "authors": "Congying Han, Baoqing Cheng, Yaping Jiang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786072",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Data Access Complexity: Monotonicity and Proportionality",
+    "authors": "Chen Ding, Yifan Zhu",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767131",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Exploring multi-level cache prefetching for fabric attached memory",
+    "authors": "Chandrahas Tirumalasetty, Narasimha Reddy",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767129",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "The Impact of Perceived Value on Gen Z Users’ Continuance Intention Toward AIGC Platforms from an SOR Perspective",
+    "authors": "Xiaoqiang Zheng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786056",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Automating Classroom Observation: AI-Enabled Behavior Monitoring for Adaptive Educational Management",
+    "authors": "Shihong Zhu, Qingyun Fang, Rongyue Zheng, David Z. Zhu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786101",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Strategies for Enhancing Visitor Experience with Digital Exhibition in Museums: A Case Study of the Suzhou Bay Digital Art Museum",
+    "authors": "Yanmei Wu, Xueqian Song",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786020",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Digital Transformation and Quality Cultivation: A Curriculum Cluster-Based Reform in Engineering Drawing Education",
+    "authors": "Ying Liu, Kehong Lv, Yanting Luo, Haijun Xu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786041",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Application and Effectiveness Analysis of AI-Assisted Mathematical Modeling in STEAM Education",
+    "authors": "Shaojun Chen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786040",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Construction of Multi-factor Causes Model for Locomotive Crew Accidents in Typical Scenarios",
+    "authors": "Chen Yang, Jikai Tai, Yu Zhu, Yankun Qi, Siying Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786005",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Generation of Resources Adapted to Hierarchical Progressive Teaching Scenarios in Ideological and Political Resource Repository Based on Generative AI",
+    "authors": "Meng Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786087",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Identification and Prevention Strategies of Ideological Security Risks in Primary School Chinese Language Classrooms in the Era of Artificial Intelligence",
+    "authors": "Xinhai Xu, Xu Liu, Yousong Hu, Ziqiao Zhao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785993",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Adaptive Learning Paths in EFL Teaching: A Reinforcement Learning Approach to Nonlinear Motivation Dynamics",
+    "authors": "Cheng Hui",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786031",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Data Analysis and Algorithm Optimization in Intelligent Student Management Platform",
+    "authors": "Qian Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786110",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Hierarchical Framework for Multi-node Compute eXpress Link Memory Transactions",
+    "authors": "Ellis Robinson Giles, Peter Varman",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767127",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "An LDA-Dynastic Model-Based Visualization Algorithm for Teaching Evaluation: System Design and Experimental Validation",
+    "authors": "Shuyan Yi, Zhuowei Gai",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786077",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Meta-Hierarchical Policy Gradients: Adaptive Meta-Learning for Personalized Music Skill Progression",
+    "authors": "Yiming Gu, Chen Shao, Jingze Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786045",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Design and Application of the Digital Teaching Material Simulation System of Logistics and Distribution",
+    "authors": "Yun Ren",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786012",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Design and Implementation of a HarmonyOS-Based Student Mental Health Management System",
+    "authors": "Ming Chen, Yimei Xu, Pengju He, Hongfei Hu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786025",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Study on the Model and Effect of Family-School Collaborative Intervention for Children with Special Needs in Inclusive Education Environments: Integrating Artificial Intelligence and Data Science",
+    "authors": "Junying Guo",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786036",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "AI-Enhanced PBL: Integrating Artificial Intelligence into Project-Based Learning for Youth STEM Education",
+    "authors": "Na Tian",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786062",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Fusing Specialty-Innovation Integration and AI-Driven Pedagogy: A Vocational Education Framework for Cultivating Talent in the Emerging Low-Altitude Logistics Industry",
+    "authors": "Haidong Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786008",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "An Evolutionary Study of Teaching Models for Cultivating Graduate Students' Innovation Capabilities Based on LDA Topic Models",
+    "authors": "Lili Zhu, Jing Cai, Yan Hao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786015",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Knowledge Graph-Empowered Five-Dimensional Teaching Model on the Chaoxing Platform Using DeepDive",
+    "authors": "Mengfang Kuang, Zhifan Han, Pengcheng Dong, Yingdong Chen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785995",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Deep Learning in Technology Enhanced Project Based Learning for Art and Cultural Creative Education Using PLS SEM and IPMA",
+    "authors": "Min Tang, Shanshan Cheng, Jirui Dong",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785990",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Generative AI Technology for Safeguarding Intangible Cultural Heritage: A Systematic Review",
+    "authors": "Yue Ming, Xiaoyu Xia",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785989",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Data-Driven SEM and Clustering Analysis of Pre-service Teachers' AI Literacy",
+    "authors": "Siqi Guo, Xin Xie",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786081",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "How Artificial Intelligence Enhanced Digital Technology Shapes Autonomy and Mindset in Informal Language Learning",
+    "authors": "Jiana Liu, Jianghui Huang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786022",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "CMOS+X: Stacking Memories based on Oxide Transistors upon GPGPU Platforms",
+    "authors": "Faaiq Waqar, Ming-Yen Lee, Seongwon Yoon, Seongkwang Lim, Shimeng Yu",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767120",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Secure IVSHMEM: End-to-End Shared-Memory Protocol with Hypervisor-CA Handshake and In-Kernel Access Control",
+    "authors": "Hyunwoo Kim, Jaeseong Lee, Sunpyo Hong, Changmin Han",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767119",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Visualization analysis of research hotspots on the Two Mountains Theory based on Citespace software",
+    "authors": "Lian Jia, Sun Yun",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786047",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Multi-Agent GenAI Scaffolding System with Pattern-Specific Algorithms for Physical Education Cooperative Learning",
+    "authors": "Shuangrui Liu, Dolors Caabate, Jordi Colomer, Jieun Yu, Tong Zhou",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786114",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Towards Intelligent Enterprises: AI-Enabled Innovation in Family Businesses",
+    "authors": "Feifei Wang, Birong Yao, Yuzhong Lu, Jiong Wu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3785998",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Evaluating the Effectiveness of the BOPPPS+5E Teaching Model in High School Mathematics Using Random Forest Classification: A Multi-Regional Empirical Study",
+    "authors": "Yujie Du, Changhuan Feng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786097",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Research on the Reform of Teaching Compiler Principles Empowered by GraphRAG",
+    "authors": "Shan Jiang, Xiaoqing Wan",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786106",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Strategies and Practices for Enhancing Higher Education Faculty Teaching Capabilities through Artificial Intelligence",
+    "authors": "Yangpeng Zhu, Linjie Zhang, Nuonan Chen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786014",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "ZipCXL: CXL-based Main Memory Compression at Low Performance Penalty",
+    "authors": "Asad Ul Haq, Rui Xie, Linsen Ma, Yunhua Fang, Liu Liu, Tong Zhang",
+    "publish": "Proceedings of the International Symposium on Memory Systems",
+    "url": "https://doi.org/10.1145/3767110.3767125",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "AI-Driven Ideological Risk Governance in Private Universities: Optimization of BERT/RoBERTa-Based Early Warning Model and Closed-Loop Mechanism",
+    "authors": "Dan Song, Weifeng Liang, Jie Tang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786023",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "Based on acoustic vowel contrasts: errors and learning path construction between Western Yugur and Mandarin Chinese",
+    "authors": "Fan Bai",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786067",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

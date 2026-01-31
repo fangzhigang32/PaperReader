@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-1-30",
+    "title": "Intelligent Question-Answering Based on Knowledge Graphs and Large Language Models",
+    "authors": "Tianyue Xue",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786086",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于知识图谱与大语言模型的智能问答",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "A Research Roadmap for Augmenting Software Engineering Processes and Software Products with Generative AI",
+    "authors": "Domenico Amalfitano, Andreas Metzger, Marco Autili, Tommaso Fulcini, Tobias Hey, Jan Keim, Patrizio Pelliccione, Vincenzo Scotti, Anne Koziolek, Raffaela Mirandola, Andreas Vogelsang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3788879",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "利用生成式人工智能增强软件工程流程与软件产品的研究路线图",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-1-30",
+    "title": "An LLM-Powered Grammatical Error Correction Agent with Explainable Feedback",
+    "authors": "Jinmei Hao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education",
+    "url": "https://doi.org/10.1145/3785987.3786075",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大语言模型的可解释反馈语法错误纠正代理",
+    "abstract_zh": "None"
+  }
+]
