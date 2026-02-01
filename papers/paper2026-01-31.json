@@ -1,0 +1,812 @@
+[
+  {
+    "date": "2026-1-31",
+    "title": "Analysis of Bus Current Control Characteristics of BLDC Motors Based on Different PWM Modulation Methods",
+    "authors": "Junwei Wan, Guanqun Sun, Ran Shi, Qinzheng Song, Shuwen Cai",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784000",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Intelligent Analysis of Geotechnical Mechanical Parameters Based on Big Data Algorithm",
+    "authors": "Xiuyun Zhao, Jian Wang",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784008",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "DRMip-Gaussian: Unaliasing Sparse-View 3D Gaussian Splatting with Depth Regularization",
+    "authors": "Tao Lin, Zhengyao Bai, Mingqiang Xu, Han Ma, Zennan Xu, Qiqin Huang",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784726",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Study on the Migration of Campus Service Outlets Based on Bigdata",
+    "authors": "Qiang Li, Dongxiao Shi, Wei Qiu, Xiaohui Shen, Yating Zheng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3789035",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "First-Order Optimization through Adaptively Transformed Normalized Gradients",
+    "authors": "Dirk V. Arnold, Yuhan Fu",
+    "publish": "ACM Transactions on Evolutionary Learning and Optimization",
+    "url": "https://doi.org/10.1145/3795135",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Development of Real-Time Monitoring and Fault Identification System for Machinery Operation",
+    "authors": "Fenghsiung Hou",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784004",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research on deep learning-based segmentation algorithm for lung CT images",
+    "authors": "Dingjie Zhai, Lizhong Zhu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788522",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Application of Artificial Intelligence-Based Infrared Sensors in Indoor People Counting",
+    "authors": "Xin Lv, Zhaoliang Chen, Kai Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788526",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Evaluation for the Application of Intelligent Teaching Based on Entropy-Weighted TOPSIS, Coupling Coherence and XGBoost Machine Learning Model",
+    "authors": "Yuju Wu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788541",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Industrial Leakage Source Localization System Using Dual-Vehicle Collaboration and Multi-Sensor Fusion: A Risk Management-Oriented Design and Empirical Study",
+    "authors": "Chen Dongxu, Chen Dongyi, Zhang Min",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788538",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Design of Hospital Information Intelligent Management System Based on Three Layer BS Architecture",
+    "authors": "Ying Feng, Qiming Dong, Ran Huo, Xinyu Zhang, Kai Wen",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784007",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research on high-precision control algorithm for robots based on deep neural networks",
+    "authors": "Jiefei Chen",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3783999",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Domain Adaptive Semantic Segmentation through Dual Pseudo-label Fusion and Adaptive Region Pasting",
+    "authors": "Chen Wang, Qianqian Wang, Haisheng Li, Xiaochuan Wang, Ruijun Liu",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784720",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Improved YOLOv10 Algorithm for Remote Sensing Object Detection",
+    "authors": "Bolin Wang, Haowei Wu, Yang Wu",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784714",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Data Augmentation Method for Chinese-Japanese Translation Based on Inter-sentential Contextual Association",
+    "authors": "Zhonghui Gao, Yan Zhang, Qiuli Zheng, Jinyi Zhang, Hang Zheng, Yiduo Yu, Wanting Huang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788521",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Quantitative Evaluation of Acute Tonic Pain Signals Based on Entropy-Machine Learning Algorithm",
+    "authors": "Daoshuang Geng, Xiaobang Wu, Yang Liu, Wenchao Wen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788505",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Emotion Recognition Based on Multimodal Physiological Signal Fusion and Refinement",
+    "authors": "Yue Chao, Haichun Huang, Jianing Xue",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788540",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Design of Mobile Charge Management System in Smart Hospital Based on Big Data Algorithm",
+    "authors": "Ying Feng, Shenbo Xuan, Hong Tian, Tianqi Guo",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784005",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research on early warning method for drilling spill based on multi source data",
+    "authors": "Chao Xiang, Yang Cao, Xiaodong Qian, Hai Yang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788534",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "An intelligent cockpit voice testing system based on artificial intelligence technology",
+    "authors": "Han Zhou, Junxia Ma",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784002",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "HybirdRVIT-CNN: A Improved Vision Transformer Model for the Recognition of Onychomycosis in Dermatoscopic Images",
+    "authors": "Yinying Kong, Shiyu Lan, Sha Lu, Zhihong Yang, Niangqiu Huang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788532",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3784713",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "No-Reference Plane Image Quality Assessment Based on Differential Feature Fusion",
+    "authors": "Yurui Xie, Yongcan Zhao, Tianfeng Xia, Lei Chen",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784724",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Zero-shot Referring Image Segmentation Augmented by Multimodal Large Language Models",
+    "authors": "Yongqiu Huang, Qiang Zhang, Xiantong Zhen, Yehui Wang, Lei Zhang, Xin Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788502",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Transformer-based adaptive equalizer for robust OFDM underwater acoustic communication",
+    "authors": "Xiang Zou, Shaowei Rong, Yuting Sun, Tianyuan Ding, Xuanzhi Zhao, Zengli Liu, Feng Liu",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784732",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research and Design of Intelligent Coal Mine Drill Pipe with Metal-Resistant Interference Characteristics",
+    "authors": "Yuqing Xiao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788111",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "PFCL-HAR: Personalized Federated Clustering Learning for Human Activity Recognition",
+    "authors": "Guozhi Zhang, Bin Yang, Hongsen Liu, Xingbo Zhu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788500",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "An improved lightweight YOLOv7-tiny-based network for beach litter detection",
+    "authors": "Daoheng Zhu, Xiaoyu Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788530",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research and Analysis on the Development Trends of Stealth and Anti-Stealth Technologies",
+    "authors": "Qian Zhang, Yuheng Shen, Xianlong Ma",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784729",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Quick Detection of Metabolic Status in Dairy Cows Based on Near-Infrared Spectral Analysis",
+    "authors": "Xinyu Lu, Lijie Wang, Shuchao Li, Wei Gao",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784715",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "An Adaptive Convolutional Autoencoder Model-based Predictive Anomaly Detection Framework for Locomotive Diesel Engines",
+    "authors": "Fan Ye, Yongqiang Zheng, Hao Fang, Honglei Zhang, Jiajun Wu, Weihao Jiang, Gui Mi, Tianyun Yang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3789055",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Computer-aided intelligent systems for public music and art appreciation education",
+    "authors": "Yang Chen",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784009",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Optimization Methods of Machine Learning in Financial Big Data Analysis Models",
+    "authors": "Haowen Fang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788519",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research on Pain Intensity Detection and Classification Using WPT-CNN",
+    "authors": "Daoshuang Geng, Wenchao Wen, Xiaobang Wu, Yang Liu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Distributed Control Approach for Multi-Agent Reinforcement Learning in Collaborative AI Music Performance",
+    "authors": "Yang Chen",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784010",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3788108",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Considerations for VR Integration into Human-Centered Computing Education",
+    "authors": "Ruchi Sembey, Roberto Martinez-Maldonado, John Grundy",
+    "publish": "ACM Transactions on Computing Education",
+    "url": "https://doi.org/10.1145/3795531",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Adaptive Traffic Signal Control Using Multi-Source Traffic State Prediction Under Urban Intelligent Transportation Systems",
+    "authors": "Zhen Sun",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784011",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research on Driver Fatigue and Distraction Detection Method Based on YOLOv8 Algorithm",
+    "authors": "Jing Bai, Quan Zhang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788523",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Short-term load forecasting method based on TCN-BiLSTM-PSO combination model",
+    "authors": "Yu Zhou, Ding Feng, Qingyang Li, Xiaoxuan Chai, Fengrui Guo",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788515",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Cognitive Load Early Warning Based on Behavioral Data: A Single-Agent Approach for Dynamically Adjusting Task Difficulty",
+    "authors": "Yankun Yi, Xianjun Wu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788518",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Detection of underwater buried metal targets based on distributed MIMO Ground Penetrating Radar",
+    "authors": "Yuting Sun, Shaowei Rong, Xiang Zou, Tianyuan Ding, Xuanzhi Zhao, Zengli Liu, Xiangyu Deng, Huaxia Zhang",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784718",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Wearable Inertial Sensor-Based Recognition of Swimming Movements and Postures",
+    "authors": "Guozhi Zhang, Bokai Xi, Mingsen Hu, Xingbo Zhu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788525",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Cyclic Implicit Complexity",
+    "authors": "Gianluca Curzi, Anupam Das",
+    "publish": "ACM Transactions on Computational Logic",
+    "url": "https://doi.org/10.1145/3793666",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "HiblaTek: A Mobile Image Processing System for Automated Warp and Weft Density Analysis",
+    "authors": "Julie Ann Acebuque Salido, Kirk Macabante Hilario, Melba Lavilles Ragaas, Jioelle Biray Laurente",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784717",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Distributed Multi-Level Task Scheduling Framework for Heterogeneous workloads",
+    "authors": "Jinzong Mo, Mianxiong Dong, Zhijun Wang, Xiaocui Sun",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788512",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A L-RAFT Consensus Algorithm for Content Caching in Fog Radio Access Network",
+    "authors": "Yang Li, Lincong Zhang, Ying Liang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788498",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research on Control Strategy of Three-Level Photovoltaic Grid-Connected Inverter with Three-Phase Four-wire Unbalanced Load Compensation",
+    "authors": "Luyao Xie, Youbing Zhang, Zezhou Wang, Aihua Zhou, JianXiang Yuan, Luoyang Zhao",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784001",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "RPPFL: A Robust and Privacy-Preserving Framework for Federated Learning with Trusted Execution Environments",
+    "authors": "Yihao Cao, Jianbiao Zhang, Yufei Han, Tao Ye",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788514",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "LocaMage: Cross-Modal Geolocalization Using Satellite and Ground Imagery",
+    "authors": "Gowri Paliwal, Pinak Paliwal",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784735",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Semantic Segmentation of Skin Lesions Using Deep CNNs with Artifact Removal and Multiclass Detection",
+    "authors": "Julie Ann Acebuque Salido, Conrado Jr. Ruiz, Oya Aran",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784721",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Public Transport Priority Signal Control Based on Traffic State Prediction",
+    "authors": "Chao Ma",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784012",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research on Dragonfly Algorithm Based on Elite Reverse Learning and Cauchy Variation Candidate Positions",
+    "authors": "Yuxuan Xie, Ming Dai",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788509",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3783998",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Learning-Based Model Predictive Control for Intelligent Vehicle Trajectory Planning and Tracking: Methodological Framework and Theoretical Enhancement",
+    "authors": "Qiong Wu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788517",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Understanding Internal Representations of Recommendation Models with Sparse Autoencoders",
+    "authors": "Jiayin Wang, Xiaoyu Zhang, Weizhi Ma, Zhiqiang Guo, Min Zhang",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3795529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Clustering-guided Generative Adversarial Network with Data Augmentation for Surface Defect Detection",
+    "authors": "Zhu Lin, Zhen Che, Shaoliang Fang, Xiaomeng Zhao, Chengchuang Lin, Zhiping Ma",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788528",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Loss Function for Blind Audio Separation",
+    "authors": "Hailong Yang, Yuanfei Deng, Hao Weng, Jing Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788506",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Analysis and Evaluation of Baseline Models for Highway Traffic Incident Detection",
+    "authors": "Chengchuang Lin, Yusheng Zhang, Xuebing Luo, Kunlin Lin, Longhui Guan, Wanyong Xing",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788507",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Application of Convolutional Neural Network Method based on Principal Component Analysis in Pore Pressure Monitoring",
+    "authors": "Yitao Hu, Pan Wang, Haosheng Wu, Min Mao, Pengbo Ni",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788535",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "ORNet: No-reference Point Cloud Quality Assessment in an Ordinal Regression Way",
+    "authors": "Xin Shang, Yangwei Li, Haisheng Li, Xiaochuan Wang",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784728",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Prediction of Communication Failures Caused by System Resource Depletion in Wireless Networks Based on Deep Learning",
+    "authors": "Jia Xie, Wenliang Zhang, Junyan Li, Jiahao Liu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788520",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "An IoT-based Aquaculture Environmental Monitoring System",
+    "authors": "Yuandan Zheng, Yinhong Chen, Xiuxin Li, Xiaohong Peng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788531",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Joint Spatial-Spectral Feature Network for Hyperspectral Images Classification",
+    "authors": "Shiyu Dai, Haibin Wu, Haoran Lv, Aili Wang, Minhui Wang",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784725",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Systematic Review of Approaches for Evaluating Students’ Function-Level Code Structure Knowledge with a Catalog of All Discussed Patterns",
+    "authors": "Sara Nurollahian, Noelle Brown, Anna N. Rafferty, Eliane Wiese",
+    "publish": "ACM Transactions on Computing Education",
+    "url": "https://doi.org/10.1145/3787450",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "The Interactive Multi-Model PMBM filter for coexistence point and extended target tracking",
+    "authors": "Yixing Du, Yuansheng Li",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784730",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Review of Small Object Detection Based on Deep Learning",
+    "authors": "Xiaohong Peng, Hongbin Jiang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788510",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "An Improved Method Based on Retinex Theory for Video Data Extraction Under Low-Light Condition",
+    "authors": "Jinglan Zou, Tao Feng, Lei Yu, Zhihong Zhu",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784736",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Hierarchical Semantic Embedded Transformers for Fine-Grained Classification",
+    "authors": "Zhibin Liu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788511",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Characteristic analysis of rain-wind induced stay-cable vibration based on the finite element model in field observation",
+    "authors": "Xiaoxi Wu",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788537",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Leveraging Machine Learning to Improve Education Quality and Economic Development",
+    "authors": "Lina Chen, Meidan Yin, Khwaja Mutahir Ahmad, Muhammad Ahtsam Naeem, Sami Ahmed Haider",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788539",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Remote Sensing Image Spectral Super-Resolution Reconstruction Based on Multi-Attention Residual Block",
+    "authors": "Xunguo Zhu, Qingzhi Du, Yubin Shao, Lin Duo",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784722",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Research on Learning Strategies for Missile Penetration in Game Theory Based on Machine Learning",
+    "authors": "Wanchao Zhang, Li Cheng, Yijun Chen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788501",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Intelligent Comprehensive Logging Instrument Technology Research and Solution Design",
+    "authors": "Song Guan",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788533",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "KAUDA: Knowability-Aware Universal Domain Adaptation",
+    "authors": "Ming Cheng, Mingxin Zhang",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784731",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "From Design Sketch to 3D Model: A Rapid Generation Method for Car Body Frame in the Conceptual Phase Based on Key Point Detection Network",
+    "authors": "Jie You, Yonghong Zhao, Wenbin Hou, Jingfei Han, Yongcheng Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788536",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Chinese-Japanese Parallel Corpus for Document-level Neural Machine Translation Based on Web-Crawled News Data",
+    "authors": "Zhonghui Gao, Guojing Man, Liyan Liu, Jinyi Zhang, Qiuli Zheng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788513",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Rule-Based System for Improving Efficiency and Standardization in Locomotive Design Checking",
+    "authors": "Zhenbo Liu, Yu Liu, Ying Tian, Tian Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788504",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Proxy-Label Guided Representation Learning for Brain Imaging Genomics",
+    "authors": "Xin Lin, Aiping Liu, Yu Li",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784738",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Tensor Computation and Analytics for Intelligence Service on Heterogeneous Platform",
+    "authors": "Chuhong Wang, Qin Xie, Xiaosong Peng, Yanjun Wang",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788508",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Distributed Synthetic Aperture Sonar with Joint Tracking and Phase Compensation Based on Extended Kalman Filter",
+    "authors": "Tianyuan Ding, Shaowei Rong, Yuting Sun, Xiang Zou, Xuanzhi Zhao, Xiangyu Deng, Zengli Liu, Feng Liu",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784734",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "IEGFusion: An Information Entropy-Guided Framework for Infrared and Visible Image Fusion",
+    "authors": "Chenghao Cao, Rencan Nie",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784723",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Design of Construction Equipment Management Operation and Maintenance System Based on BIM and Big Data Algorithm",
+    "authors": "Kaigong Song, Liying Ma, Zhaoxing Meng",
+    "publish": "Proceedings of the International Conference on Intelligent Control and Automation Applications",
+    "url": "https://doi.org/10.1145/3783998.3784006",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Scalable Tracking of Multiple Extended Targets with PMBM Filter and Generalized Inverse Gaussian Distribution",
+    "authors": "WeiLong Qiu, Yuansheng Li, Jianglin Dou, Yixing Du",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784737",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "CCFBQGD: Chinese Cross-Domain Fill-in-the-Blank Question Generation Dataset and Its Benchmarking Methodology",
+    "authors": "Haozheng Liu, Yiming Zhang, Qingdian Meng",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788109",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Drilling Overflow Early Warning Method Based on Field Model and Big Data",
+    "authors": "Mubai Duan, Qiang Wei, Geng Yang, Xianjie He, Qiulai Xue, Yinxiang Feng, Hao Su",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788110",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Fusing AI Vision and Human Psychology for Tourism Advertising Optimization",
+    "authors": "Ping Huang, Ratanachote Thienmongkol, Ruethai Nimnor",
+    "publish": "Proceedings of the 2025 7th International Conference on Video, Signal and Image Processing",
+    "url": "https://doi.org/10.1145/3784713.3784733",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "English Speech Verbs’ Meaning Potential for Natural Language Processing",
+    "authors": "Nana Jin, Zili Chen",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "A Novel RLS-Based Adaptive Beamforming Algorithm with Variable Forgetting Factor for Robust Target Detection",
+    "authors": "Jifei Zhang, Yongqiang You, Jiangyang Fan, Zihao Fu, Long Li",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788516",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-1-31",
+    "title": "Student Classroom Behavior Detection and Classification: Swin Transformer and Mask RCNN",
+    "authors": "Xinpeng Huang, Yingshan Shen, Ruiyang Qiao",
+    "publish": "Proceedings of the 2025 2nd International Conference on Big Data Analytics and Artificial Intelligence Application",
+    "url": "https://doi.org/10.1145/3788108.3788527",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
