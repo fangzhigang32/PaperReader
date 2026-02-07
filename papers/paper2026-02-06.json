@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2026-2-6",
+    "title": "iCrop+: On-Device AI for Crop Disease Detection with Adaptive Offloading over LoRa",
+    "authors": "Xu Tao, Jackson Butcher, Simone Silvestri, Flavio Esposito, Sajal K Das",
+    "publish": "ACM Transactions on Cyber-Physical Systems",
+    "url": "https://doi.org/10.1145/3795791",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-6",
+    "title": "Self-Regressive Prototype Refinement: Stepping from Local to Global Prototypes in Few-Shot Image Classification",
+    "authors": "Zhenyu Zhou, Qing Liao, Tianrui Liu, Lei Luo, Xinwang Liu, En Zhu",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3794850",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-6",
+    "title": "Contributions, Collaborations, and Transitions: Paid and Volunteer Developers in the Rust Community",
+    "authors": "Yuxia Zhang, Klaas-Jan Stol, Minghui Zhou, Qunhong Zeng, Mian Qin, Hui Liu",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3789503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-6",
+    "title": "A Review on Single-Problem Multi-Attempt Heuristic Optimization",
+    "authors": "Judith Echevarrieta, Etor Arza, Aritz Perez, Josu Ceberio",
+    "publish": "ACM Transactions on Evolutionary Learning and Optimization",
+    "url": "https://doi.org/10.1145/3795878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-6",
+    "title": "Constella: Supporting Storywriters’ Interconnected Character Creation through LLM-based Multi-Agents",
+    "authors": "Syemin Park, Soobin Park, Youn-kyung Lim",
+    "publish": "ACM Transactions on Computer-Human Interaction",
+    "url": "https://doi.org/10.1145/3796234",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-6",
+    "title": "Modeling Dynamic Interference for Treatment Effect Estimation from Dynamic Graphs",
+    "authors": "Xiaofeng Lin, Han Bao, Koh Takeuchi, Yan Cui, Hisashi Kashima",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3796240",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

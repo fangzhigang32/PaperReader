@@ -1,0 +1,22 @@
+[2026-02-07 09:18:34] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-02-06
+正在获取论文...
+[ACM] 2026-2-6 | iCrop+: On-Device AI for Crop Disease Detection with Adaptive Offloading over LoRa
+[ACM] 2026-2-6 | Self-Regressive Prototype Refinement: Stepping from Local to Global Prototypes in Few-Shot Image Classification
+[ACM] 2026-2-6 | Contributions, Collaborations, and Transitions: Paid and Volunteer Developers in the Rust Community
+[ACM] 2026-2-6 | A Review on Single-Problem Multi-Attempt Heuristic Optimization
+[ACM] 2026-2-6 | Constella: Supporting Storywriters’ Interconnected Character Creation through LLM-based Multi-Agents
+[ACM] 2026-2-6 | Modeling Dynamic Interference for Treatment Effect Estimation from Dynamic Graphs
+共写入 6 条记录，保存到 papers/paper2026-02-06.json。
+论文获取成功，文件路径: papers/paper2026-02-06.json
+正在筛选、翻译并发送邮件...
+[NO] 1/6 | iCrop+: On-Device AI for Crop Disease Detection with Adaptive Offloading over LoRa
+[NO] 2/6 | Self-Regressive Prototype Refinement: Stepping from Local to Global Prototypes in Few-Shot Image Classification
+[NO] 3/6 | Contributions, Collaborations, and Transitions: Paid and Volunteer Developers in the Rust Community
+[NO] 4/6 | A Review on Single-Problem Multi-Attempt Heuristic Optimization
+[NO] 5/6 | Constella: Supporting Storywriters’ Interconnected Character Creation through LLM-based Multi-Agents
+[NO] 6/6 | Modeling Dynamic Interference for Treatment Effect Estimation from Dynamic Graphs
+筛选完成：共 6 篇；Yes = 0 篇；已保存到 papers/select_paper2026-02-06.json。
+邮件发送成功！
+[2026-02-07 09:19:16] 任务执行成功！
