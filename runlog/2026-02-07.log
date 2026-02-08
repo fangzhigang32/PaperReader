@@ -1,0 +1,52 @@
+[2026-02-08 09:18:52] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-02-07
+正在获取论文...
+[IEEE] 2026-2-7 | Microstructural analysis of corrosion inhibition in sub-100-nm-scale Josephson circuits
+[IEEE] 2026-2-7 | Finite Element Analysis of Electromagnetic Field of Superconductive-Assisted Machining (SUAM) Using Superconducting Tapes and Halbach Array Permanent Magnets
+[IEEE] 2026-2-7 | Screening Current-Induced Stress in Edge-Impregnated REBCO Coils for 33T-CSM
+[ACM] 2026-2-7 | Beyond Pointwise: Exploring Comparative Approaches for Predicting Query Performance Using LLMs
+[IEEE] 2026-2-7 | Effect of Annealing on the Superconducting and Structural Properties of Aerosol-Deposited Bi-2223 Films
+[IEEE] 2026-2-7 | Quench Protection of a DCT superconducting quadrupole magnet employing the Adjustable Quench-back
+[IEEE] 2026-2-7 | Data Assimilation Between Experimental and Crystal Growth Simulation on REBCO Thin Films
+[IEEE] 2026-2-7 | Learning-Based Recommendations for Efficient Urban Visual Query_supp1-3625071.mp4
+[IEEE] 2026-2-7 | Establishment of the Inductance Matrix of Uninsulated Superconducting Windings With Different Shapes and the Treatment of Their Singular Value Problems
+[IEEE] 2026-2-7 | Design and Experimental Validation of an Air-cored Superconducting Generator Module
+[IEEE] 2026-2-7 | Development of a Fast-ramping Dipole with Multi-layer cos Configuration
+[ACM] 2026-2-7 | Boosting Metamorphic Testing: A General Metamorphic Specification Language and A Supporting System
+[IEEE] 2026-2-7 | Load Recovery Performances of Variable Impedance Superconducting Fault Current Limiting Transformers
+[IEEE] 2026-2-7 | Editorial: A Message From the New Editor-in-Chief
+[IEEE] 2026-2-7 | AC Loss Measurement and Validation of an HTS Soldered Stack Cable for Accelerator Magnets
+[IEEE] 2026-2-7 | Impedance Characterization of a HL-LHC Nb
+                    <sub>3</sub>
+                    Sn MQXFS Model Magnet During Powered Operation at Nominal Current
+[IEEE] 2026-2-7 | A Novel Non-Twisted Stacked REBCO Cable-in-Conduit Conductor With Excellent Bending Performance
+[ACM] 2026-2-7 | Improving Test-Time Efficiency in Source-Free Semantic Segmentation via Multi-Stage Self-Training
+[IEEE] 2026-2-7 | Development of Interaction Region Superconducting Magnet Twin-Aperture Final Focus Quadrupole Prototype for Super Tau-Charm Facility
+共写入 19 条记录，保存到 papers/paper2026-02-07.json。
+论文获取成功，文件路径: papers/paper2026-02-07.json
+正在筛选、翻译并发送邮件...
+[NO] 1/19 | Microstructural analysis of corrosion inhibition in sub-100-nm-scale Josephson circuits
+[NO] 2/19 | Finite Element Analysis of Electromagnetic Field of Superconductive-Assisted Machining (SUAM) Using Superconducting Tapes and Halbach Array Permanent Magnets
+[NO] 3/19 | Screening Current-Induced Stress in Edge-Impregnated REBCO Coils for 33T-CSM
+[NO] 4/19 | Beyond Pointwise: Exploring Comparative Approaches for Predicting Query Performance Using LLMs
+[NO] 5/19 | Effect of Annealing on the Superconducting and Structural Properties of Aerosol-Deposited Bi-2223 Films
+[NO] 6/19 | Quench Protection of a DCT superconducting quadrupole magnet employing the Adjustable Quench-back
+[NO] 7/19 | Data Assimilation Between Experimental and Crystal Growth Simulation on REBCO Thin Films
+[NO] 8/19 | Learning-Based Recommendations for Efficient Urban Visual Query_supp1-3625071.mp4
+[NO] 9/19 | Establishment of the Inductance Matrix of Uninsulated Superconducting Windings With Different Shapes and the Treatment of Their Singular Value Problems
+[NO] 10/19 | Design and Experimental Validation of an Air-cored Superconducting Generator Module
+[NO] 11/19 | Development of a Fast-ramping Dipole with Multi-layer cos Configuration
+[NO] 12/19 | Boosting Metamorphic Testing: A General Metamorphic Specification Language and A Supporting System
+[NO] 13/19 | Load Recovery Performances of Variable Impedance Superconducting Fault Current Limiting Transformers
+[NO] 14/19 | Editorial: A Message From the New Editor-in-Chief
+[NO] 15/19 | AC Loss Measurement and Validation of an HTS Soldered Stack Cable for Accelerator Magnets
+[NO] 16/19 | Impedance Characterization of a HL-LHC Nb
+                    <sub>3</sub>
+                    Sn MQXFS Model Magnet During Powered Operation at Nominal Current
+[NO] 17/19 | A Novel Non-Twisted Stacked REBCO Cable-in-Conduit Conductor With Excellent Bending Performance
+[NO] 18/19 | Improving Test-Time Efficiency in Source-Free Semantic Segmentation via Multi-Stage Self-Training
+[NO] 19/19 | Development of Interaction Region Superconducting Magnet Twin-Aperture Final Focus Quadrupole Prototype for Super Tau-Charm Facility
+筛选完成：共 19 篇；Yes = 0 篇；已保存到 papers/select_paper2026-02-07.json。
+邮件发送成功！
+[2026-02-08 09:20:14] 任务执行成功！

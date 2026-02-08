@@ -1,0 +1,173 @@
+[
+  {
+    "date": "2026-2-7",
+    "title": "Microstructural analysis of corrosion inhibition in sub-100-nm-scale Josephson circuits",
+    "authors": "M. I. Faley, M. Arzeo, T. Denneulin, A. Kovács, G. Ummethala, A. H. Tavabi, O. Mukhanov, R. E. Dunin-Borkowski",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661936",
+    "source": "IEEE",
+    "abstract": "We have studied nanobridge Josephson junctions (nJJs) and nJJ-based circuits using microstructural analysis and measurements of electron transport properties to reveal the possible origins of a spread in superconducting parameters (<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">T<sub>c</sub></i>, <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">I<sub>c</sub></i>, etc.) and long-term stability. The structures were prepared by dc magnetron sputtering from Nb, Ti and TiN targets, with electron beam exposure of HSQ resist and reactive ion etching in pure SF<sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">6</sub> gas. Microstructural characterization was performed using aberration-corrected scanning transmission electron microscopy imaging and elemental mapping using energy-dispersive X-ray spectroscopy. The distributions of elements in nanostructures based on Ti-Nb-Ti heterostructures and TiN films were compared. Oxygen-free TiN nJJs are of interest for the realization of corrosion-resistant superconducting circuits, including qubits with operating temperatures down to 10 mK. Ti-Nb-Ti heterostructures contain oxygen that has been chemisorbed by the Ti layers and are intended primarily for operation at 4.2 K. Superconducting through-silicon vias between circuits on opposite sides of a wafer will also be realized by using direct writing of superconducting current leads with focused-ion-beam-induced deposition of superconducting films. Particular emphasis will be paid to the inhibition of oxygenation and corrosion on the nanometer scale by using new materials and methods, which promise to bring superconducting chip manufacture closer to circular-economy-related objectives. Our work helps to realize the large-scale integration of superconducting circuits that have long-term stability, including nanoSQUIDs, qubits and classical superconducting digital circuits, such as Single Flux Quantum based circuits."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Finite Element Analysis of Electromagnetic Field of Superconductive-Assisted Machining (SUAM) Using Superconducting Tapes and Halbach Array Permanent Magnets",
+    "authors": "Takuma Shimizu, Ayumi Nakato, Ken Arita, Edmund Soji Otabe, Soma Yamamoto, Keisuke Suzuki",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661458",
+    "source": "IEEE",
+    "abstract": "A magnetic-levitation tool using a superconductor (Superconducting Assisted Machining: SUAM) is a promising technology that enables noncontact finishing of hollow or complex-shaped structures by exploiting flux pinning. However, conventional SUAM has faced the issue of insufficient repulsive force required for polishing. To address this, we replaced the conventional ring-shaped arrangement of permanent magnets with a Halbach array to enhance the repulsive force. In finite element method (FEM) analysis, we computed the repulsive force for a ring-shaped one-sided 4-pole magnet with a surface field of 450 mT (Ring-model) and for a Halbach array (Halbach-model) composed of five bar magnets with the same 450 mT surface field, and found that the Halbach-model yielded a larger repulsive force than the Ring-model. In experiments, we measured the repulsive force using a 450 mT ring magnet and a 391 mT Halbach array and obtained comparable forces despite the different surface flux densities. FEM under the same conditions exhibited the same trend. These results indicate that optimizing the magnet arrangement is effective for improving SUAM performance and that FEM, even when limited in reproducing absolute values, is useful for comparing arrays and extracting design guidelines."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Screening Current-Induced Stress in Edge-Impregnated REBCO Coils for 33T-CSM",
+    "authors": "Shohei Nojima, Yuji Tsuchiya, Alexandre Zampa, Arnaud Badel, Yoh Nagasaki, Makoto Tsuda, Satoshi Awaji",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661934",
+    "source": "IEEE",
+    "abstract": "Edge impregnation is a key technology for fabricating robust, high-field REBCO insert magnets. However, the effect of screening current-induced stress (SCIS), a critical challenge in ultra-high field magnet design, has not been fully clarified. This study aims to investigate the influence of SCIS on edge-impregnated REBCO coils through an electromagnetic-mechanical analysis. The investigation focuses on the 33 T cryogen-free superconducting magnet (33T-CSM) under development at HFLSM, Tohoku University. The analysis revealed that SCIS significantly amplified the hoop strain in edge-impregnated coils, predicting a maximum strain exceeding the conductor's irreversible limit. Compared with the full impregnation, the edge impregnation was insufficient to suppress SCIS to the acceptable level even with mechanical reinforcement although it made the delamination stress negligible. Notably, the analysis overestimated the hoop strain compared with experiments because the large-scale prototype coil (33T-LPC) has been successfully validated without degradation. Possible origins for the overestimation are discussed, including interfacial friction between the stacked pancake coils."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Beyond Pointwise: Exploring Comparative Approaches for Predicting Query Performance Using LLMs",
+    "authors": "Cezary Golecki, Adrian Racki, Jakub Król, Pawel Zawistowski, Aleksander Wawer",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3793556",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Effect of Annealing on the Superconducting and Structural Properties of Aerosol-Deposited Bi-2223 Films",
+    "authors": "Marina Mendoza, Shunsuke Omori, Kenji Sakai, Shinzo Yoshikado, Yuuki Sato, Ryo Matsumoto, Yoshihiko Takano",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661460",
+    "source": "IEEE",
+    "abstract": "Bi <inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$_{2}$</tex-math></inline-formula> Sr<inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$_{2}$</tex-math></inline-formula>Ca <inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$_{2}$</tex-math></inline-formula> Cu<inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$_{3}$</tex-math></inline-formula>O<inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$_{x}$</tex-math></inline-formula> (Bi-2223) is a high-<inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$T_{c}$</tex-math></inline-formula> cuprate with potential for high-current applications, yet thin-film fabrication remains challenging due to multi-step, high-temperature processes. In this study, Bi-2223 films were fabricated on Ag substrates using aerosol deposition (AD), a room-temperature process that enables the rapid formation of dense ceramic films. The influence of multistep annealing on their structural and superconducting properties was systematically investigated. X-ray diffraction (XRD) revealed that as-deposited films retained Bi-2223 peaks with weak orientation, while annealing improved the <inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$c$</tex-math></inline-formula>-axis texture but also induced partial Bi-2212 formation. Scanning electron microscopy (SEM) showed a transition from dense particle-boundary microstructures to porous, plate-like grains with local compositional inhomogeneity. Electrical resistance measurements confirmed superconducting transitions whose sharpness and <inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$T_{c}$</tex-math></inline-formula> were correlated with phase and texture. These results demonstrate the tunability of AD-grown Bi-2223 films by annealing, underscoring the method's potential as a rapid alternative to conventional film processes for superconducting device applications."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Quench Protection of a DCT superconducting quadrupole magnet employing the Adjustable Quench-back",
+    "authors": "Yujin Tong, Enming Mei, Xianjin Ou, Li'an Jin, Zhuoyue Du, Xudong Wang, Yuquan Chen, Yu Liang, Beimin Wu, Shijun Zheng, Dongsheng Ni, Xiang Zhang, Wei Wu, Qinggao Yao",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3662291",
+    "source": "IEEE",
+    "abstract": "This study focuses on the quench protection of a superconducting quadrupole magnet based on the discrete cosine theta (DCT) configuration. The magnet is protected utilizing a previously developed scheme that employs an adjustable quench-back, induced by a central copper strand acting as a secondary coil. For the prototype L1200, quench transients were investigated through both simulation and experimental methods. During the excitation test, the quadrupole coil reached its nominal current of 466 A after 15 quenches, successfully validating the proposed protection scheme. A comparison of the simulated and measured current and voltage evolutions was used to analyze the quench-back characteristics during the discharge process. Furthermore, to facilitate the application of this adjustable quench-back protection scheme in accelerator facilities, a cold resistor wound by constantan wire was designed, fabricated, and installed on the outside surface of magnet. This resistor serves as an adjustable element to control the transient current induced in the copper coil. The temperature evolution of the hot-spot in the superconducting coil and the cold resistor was also estimated, confirming that all temperatures remained within the safe operating range to ensure magnet integrity."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Data Assimilation Between Experimental and Crystal Growth Simulation on REBCO Thin Films",
+    "authors": "Y. Ichino, Y. Seike, N. Taoka, T. Mori, K. Horio, A. Ichinose, T. Horide, K. Matsumoto, Y. Yoshida",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3662287",
+    "source": "IEEE",
+    "abstract": "We have developed a Monte Carlo (MC) simulation for REBa<sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">2</sub>Cu<sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">3</sub>O<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><sub>y</sub></i> (REBCO) + BaMO<sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">3</sub> (BMO) thin film crystal growth. However, identifying parameters that accurately reproduce the experimentally determined crystal grain size has remained a challenge. The data assimilation between the simulation and experiment is crucial as BMO nanostructures significantly impact in-field critical current density. In this study, we utilized Definitive Screening Design (DSD), a powerful type of Design of Experiments, to efficiently search for optimal simulation parameters. We targeted three key variables: REBCO-REBCO bonding energy (<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">E</i><sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">RR</sub>), desorption energy from the substrate (<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">E</i><sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">des</sub>), and deposition rate (<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">v</i><sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">DR</sub>). We conducted MC simulations based on the DSD. The DSD successfully identified an optimal condition in only nine simulation runs, which is in strong agreement with the experimental target. The optimized parameter set was determined to be (<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">E</i><sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">RR</sub>, <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">v</i><sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">DR</sub>, <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">E</i><sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">des</sub>) = (1530 K, 100 nm/h, 5000 K). Furthermore, the REBCO surface morphology simulated under these conditions confirmed the expected 2D island growth mode, consistent with experimental observations. This result demonstrates that DSD is an effective tool for the optimization and data assimilation of multi-parameter crystal growth simulations."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Learning-Based Recommendations for Efficient Urban Visual Query_supp1-3625071.mp4",
+    "authors": "Ziliang Wu",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tvcg.2025.3625071/mm1",
+    "source": "IEEE",
+    "abstract": "Urban visual querying leverages visual representations and interactions to depict the domain of interest and express related requests for exploring complex datasets, which is usually an iterative process. One main challenge of this process is the vast search space in terms of identifying querying conditions, observing querying results, and making the subsequent queries. This paper proposes a novel acceleration scheme that intelligently recommends a small set of querying results subject to previous queries. Central to our approach is a reinforcement learning based approach that trains a recommendation agent by simulating user behavior and characterizing the search space. We propose a mixed-initiative urban visual query scheme to enhance the exploration process additionally. We evaluate our approach by performing qualitative and quantitative experiments on a real-world scenario. The experimental results demonstrate the capability of reducing user workload, achieving optimized querying, and improving analysis efficiency."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Establishment of the Inductance Matrix of Uninsulated Superconducting Windings With Different Shapes and the Treatment of Their Singular Value Problems",
+    "authors": "Jingyin Zhang, Lingfeng Lai, Peicheng Yuan, Kai Zhao, Yubin Yue, Chen Gu",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661939",
+    "source": "IEEE",
+    "abstract": "In order to accurately and efficiently study the transient process of quenching in non-insulated superconducting windings, the Partial Element Equivalent Circuit (PEEC) model is employed. This model regards the superconducting winding as being composed of multiple independent segments. To establish the model parameter matrix, it is necessary to calculate the resistance and inductance parameters for each independent segment. Among these, the inductance parameters can be derived from the relationship between the magnetic vector potential A and the current density J. However, during the derivation process, when calculating the self-inductance of each segment, a singularity problem may arise. This issue can be resolved through the method of partial integration. This paper will elaborate on the derivation process of the inductance matrix for circular windings, straight laminations, and D-shaped windings, with a focus on the solution to the self-inductance singularity problem."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Design and Experimental Validation of an Air-cored Superconducting Generator Module",
+    "authors": "Qian Dong, Mingzhe Sang, Jiafu Wei, Zhenkai Cai, Shuangrong You, Hongye Zhang, Markus Mueller",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3659456",
+    "source": "IEEE",
+    "abstract": "With the increase in wind turbine generator power ratings, achieving high power output while minimizing mass has become critically important. Conventional wind turbine generators rely on massive iron cores, which significantly contribute to the overall weight. In recent years, air-cored designs combined with high-temperature superconducting (HTS) windings have emerged as a promising approach to reducing generator mass and enhancing power capability. In this study, eight YBCO HTS coils were connected in series to form a closed magnetic loop (CML) array, demonstrating a novel ironless topology that replaces permanent magnets with HTS coils to enhance magnetic field strength. The FEM model for the HTS CML module was validated by measuring the magnetic field distribution, power dissipation during current ramping, and back electromotive force (emf) in the copper stator windings. The validated finite element method (FEM) model was subsequently extended to predict the performance of a full-scale HTS generator operating at 30 K. The prediction results confirm the feasibility of the proposed design and highlight its potential for realizing lightweight, modular, and high–power-density HTS generators for future renewable energy systems."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Development of a Fast-ramping Dipole with Multi-layer cos Configuration",
+    "authors": "Tongjun Yang, Li Zhu, Lian Jin, Yujin Tong, Yu Liang, Yuquan Chen, Enming Mei, Xianjin Ou, Jiaqi Lu, Zhengnan Han, Zhuoyue Du, Donge Liu, Dongsheng Ni, Xiang Zhang, Wei Wu, Qinggao Yao, Ping Yuan",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661930",
+    "source": "IEEE",
+    "abstract": "Fast-ramping superconducting magnets are crucial for the next-generation high-intensity heavy-ion accelerators and cancer therapy machines. A fast-ramping superconducting dipole magnet featuring a multi-layer coil structure has been developed at the Institute of Modern Physics (IMP), Chinese Academy of Sciences. This magnet utilizes a modified cos θ configuration with rope-based cables. It consists of an 8-layer coil wound with two types of rope cables to improve conductor utilization efficiency. The coil layout was optimized through a linear programming algorithm. To reduce AC losses during fast-ramping operations, low-loss NbTi strands with CuMn matrix were employed, along with G10 formers. The magnet was optimized by integrating liquid helium channels and interlayer copper strips to enhanced heat conduction, based on AC loss estimates and thermal simulations. A shell-based structure utilizing bladder and key technology was employed to pre-stress the superconducting coils. An 800 mm-long dipole prototype was manufactured, assembled, and tested in liquid helium. After 76 quenches, the dipole prototype achieved a central magnetic field of 6 T and a maximum ramp rate of 1.01 T/s. This paper presents the design, fabrication, assembly, and test results of the prototype dipole magnet."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Boosting Metamorphic Testing: A General Metamorphic Specification Language and A Supporting System",
+    "authors": "Chang-ai Sun, Siyi Wu, XiaoYi Zhang, Pak-Lok Poon",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3796225",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Load Recovery Performances of Variable Impedance Superconducting Fault Current Limiting Transformers",
+    "authors": "Qi Zhang, Bin Xiang, Shuxin Ma, Junkai Han, Dongyu Wang, Huixin Du, Yingsan Geng, Zhiyuan Liu, Jianhua Wang",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661473",
+    "source": "IEEE",
+    "abstract": "The Superconducting Fault Current Limiting Transformers (SFCLTs) offer significant advantages such as large capacity and high efficiency. However, a challenge arises in maintaining power transmission during some short-circuit fault conditions, as this may lead to the inability of superconducting tapes to recover from quenching, resulting in damage due to overheating. A variable impedance superconducting fault current limiting transformer (VI-SFCLT) was designed as two parallel superconducting branches in a secondary winding to recover seamlessly with the system load after fault current limitation. In this manuscript, an experimental platform is constructed to test the current limiting and recovery performance of the VI-SFCLT under load current after a fault. The experimental results demonstrate that the proposed VI-SFCLT can limit the fault current to 40% lower than the normal SFCLT. The joule heat of the VI-SFCLT can be 78.3% of the normal SFCLT with the increase of fault duration, and the recovery time is at least 26.2% shorter. By incorporating a fast switch, VI-SFCLT achieves rapid recovery with load current, thereby enhancing the stability of the power grid."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Editorial: A Message From the New Editor-in-Chief",
+    "authors": "Marco Aiello",
+    "publish": "IEEE Transactions on Services Computing",
+    "url": "https://doi.org/10.1109/tsc.2026.3653169",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-7",
+    "title": "AC Loss Measurement and Validation of an HTS Soldered Stack Cable for Accelerator Magnets",
+    "authors": "M. Duda, D. Sotnikov, D. Araujo, B. Auchmann, A. Brem, H. Garcia Rodrigues, T. W. Hanhart, A. Kario, J. Kosse, S. Otten, A. Ballarino",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661477",
+    "source": "IEEE",
+    "abstract": "This work explores the use of a double-pancake coil for validating electromagnetic numerical models of HTS cables. We present a cost-effective and rapid production method using 3D-printed plastic formers. High-temperature superconducting (HTS) REBCO tapes are a promising solution for high-field magnets, particularly in accelerator applications, due to their ability to maintain superconducting properties in high magnetic field and high critical current density. One of the most effective ways to utilize HTS tapes is through straight soldered stack cables, which offer excellent packing efficiency in racetrack coil geometries-ideal for Block and Common-coil dipole magnet configurations. Measurements were performed in self-field conditions in liquid nitrogen, with AC current applied at frequencies up to 20 Hz. The current was increased in steps of 5 A of peak current, reaching a maximal of 100 A-below the critical current of the tested samples. For each frequency, the AC loss dependence on peak current showed a smooth trend, while AC losses per cycle remained independent of frequency. The validation process involved finite element method (FEM) modeling, using Jc(B) interpolation from experimental data, ensuring high accuracy. Both single REBCO tapes and soldered face-to-face cables were analyzed and compared to models of different modelling depth. The computational model matched the measured results with an accuracy within 10%. These findings provide a foundation for further research on the practical application of HTS straight soldered stack cables in high-field accelerator magnets."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Impedance Characterization of a HL-LHC Nb\n                    <sub>3</sub>\n                    Sn MQXFS Model Magnet During Powered Operation at Nominal Current",
+    "authors": "M.B.B. Christensen, M.J. Bednarek, S. Izquierdo Bermudez, R. Denz, J. Feuvrier, A. Haziot, M. Janitschke, P. Koch, J. Ludwin, F. Mangiarotti, T. Podzorny, E. Ravaioli, J. Steckert, J. Uythoven, G. Willering, M. Wozniak, J. Østergaard",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3660243",
+    "source": "IEEE",
+    "abstract": "Impedance measurements have long been used to study superconducting magnets in their non-energized state, providing valuable insights into their electromagnetic behaviour. However, studies involving powering have primarily been conducted at low currents, due to the impact of the power converter impedance on the measurement. This paper presents a comprehensive set of impedance measurements on the powered MQXFS7 superconducting magnet, marking the first time such measurements have been performed up to its nominal operating current of I=16.23kA. The magnet's impedance was characterized using two distinct measurement configurations: low-frequency (f=10Hz-1KHz) and high-frequency (f=1kHz-45KHz). Measurements were conducted across all powering phases (ramp-up, steady state, and ramp-down) at two cryogenic temperatures T=1.9K and 4.5K. Impedance variations as a function of current were observed at T=1.9K, with the most notable result being an impedance shift towards the impedance measured at T=4.5K as the nominal operating current was approached. We hypothesize that this may be due to the presence of superconducting (Ti–6Al–4V) magnet poles. Being able to measure the impedance of superconducting magnets in a powered state represent a significant improvement in the understanding of impedance-based diagnostics for superconducting magnets, demonstrating their potential for characterizing magnet behaviour under operating conditions."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "A Novel Non-Twisted Stacked REBCO Cable-in-Conduit Conductor With Excellent Bending Performance",
+    "authors": "Lei Yuan, Qianjun Zhang, Run Wu, Zhaosheng Zhu, Mengchao Dong, Di Wang, Lele Jiang, Yongqi Yang, Wenqing Yi, Zhengxin Yin, Lang Qin, Shouzhi Wang, Binbin Wang, Rui Chen, Yi Tan",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661937",
+    "source": "IEEE",
+    "abstract": "High-temperature superconducting (HTS) cables with superior bending performance demonstrate promising application prospects in fusion magnets. To this end, a novel non-twisted stacked REBCO cable-in-conduit conductor (CICC) with excellent bending performance has been designed. The conductor consists of 75 REBCO tapes and is designed to achieve an operational current of 13.4 kA at 20 K under a magnetic field of 8.25 T. To validate the design feasibility, two short-length cable prototypes with different configurations were fabricated and experimentally characterized. The sample composed of 15 REBCO tapes demonstrated a critical current (<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">I</i><sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">c</sub>) of 1411 A at 77 K, while the prototype comprising 39 tapes achieved an <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">I</i><sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">c</sub> of 2788 A under identical temperature conditions. Compared with the theoretical predictions, no degradation in critical current was observed in either of the two short samples. Subsequently, a 1-meter-long cable sample composed of 15 tapes was tested for bending at 77 K, revealing a critical current degradation of nearly 6% at a bending radius of 160 mm. To enhance the bending performance of the cable, we have proposed a “bend-before-assembly” approach. The results demonstrate its promising potential for applications requiring high current-carrying capacity, compact bending radius, and high mechanical strength."
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Improving Test-Time Efficiency in Source-Free Semantic Segmentation via Multi-Stage Self-Training",
+    "authors": "Yifang Yin, Jinming Cao, Zhenguang Liu, Guanfeng Wang, Shili Xiang, Roger Zimmermann",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3795886",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-7",
+    "title": "Development of Interaction Region Superconducting Magnet Twin-Aperture Final Focus Quadrupole Prototype for Super Tau-Charm Facility",
+    "authors": "Wenbin MA, Shaoqing WEI, Zhenyu CHU, Jidong Zhang, Ya Zhu, Jingyu TANG",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3661931",
+    "source": "IEEE",
+    "abstract": "Super Tau Charm Facility (STCF) is the third generation e+-e- collider under design and R&D with a circumference about 860 m, a center-of-mass (CoM) energy range from 2 to 7 GeV. The facility has design luminosity higher than 0.5×10<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">35</sup> cm<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">-2</sup> s<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">-1</sup>, about 100 times higher than BEPC-II. It will provide a factory producing massive tau leptons and charm hadrons, to unravel the mystery of how quarks form matter and the symmetries of fundamental interactions. To squeeze the beam for higher luminosity, compact twin-aperture high gradient interaction region superconducting magnet (IRSM) systems are required on both sides of interaction point (IP). There are two twin-aperture superconducting quadrupoles, QD1 and QF2, in each IRSM, with design field gradients of 50 T/m and 40 T/m, respectively, and sited at a beam crossing angle of 60 mrad. Besides quadrupoles, each of the two IRSMs also consists of anti solenoids (including screen solenoids and compensation solenoids) and orbit correctors. In this paper, technical considerations and full-size prototype designs of the first quadrupole coils QD1 are described."
+  }
+]
