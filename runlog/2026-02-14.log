@@ -1,0 +1,121 @@
+[2026-02-15 09:19:45] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-02-14
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202602140000+TO+202602142359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"))
+[ACM] 2026-2-14 | Eval-PPO: Building an Efficient Threat Evaluator Using Proximal Policy Optimization
+[ACM] 2026-2-14 | CAPS: A Cross-Lingual Methodology for Detecting Misinformation in Estonian Health News
+[ACM] 2026-2-14 | TA-PPO: A Proximal Policy Optimization Method Integrating Temporal Sequence States
+[ACM] 2026-2-14 | Footprint Contour Detection Methods based on Improved DSNet Model
+[ACM] 2026-2-14 | A-UEBA: An Anomaly Heterogeneity Learning Framework Based on Multi-Endpoint User and Entity Behavior Analysis
+[ACM] 2026-2-14 | Object Goal Navigation based on 3D Semantic Gaussian
+[ACM] 2026-2-14 | Optimization Strategy for I/O Scheduling Method of a Disaster-tolerant Storage System
+[ACM] 2026-2-14 | Complexity Aware Recursive Decomposition for Math Reasoning
+[ACM] 2026-2-14 | REFINE: Composed Video Retrieval via Shared and Differential Semantics Enhancement
+[ACM] 2026-2-14 | IDBF: Information-theoretic Disentanglement with Bridge Fusion for Multimodal Sentiment Analysis
+[ACM] 2026-2-14 | A Data Center Room Monitoring Framework Based on Embodied Intelligence
+[ACM] 2026-2-14 | Support Vector Machine Aided Semi-intelligent Performance Enhancement of CMOS Gate-voltage Bootstrapped Sampling Switch
+[ACM] 2026-2-14 | PoseTalk: Exploring Text- and Audio-based Pose Control for One-Shot Talking Face Generation
+[ACM] 2026-2-14 | Text-Guided Cross-Modal Alignment with Attribute and Contour Prototypes for Visible-Infrared Person Re-Identification
+[ACM] 2026-2-14 | A Multi-Feature Fusion Driven Method for Time Series Pre-event Prediction
+[ACM] 2026-2-14 | Reversing the Retrieval Engine: Query Performance Prediction as an Inverse Learning Task
+[ACM] 2026-2-14 | Enhancing Depression Detection Using Pre-trained Multi-modal Sentiment Analysis Models with Deep Prefix Tuning
+[ACM] 2026-2-14 | VTalker: Text-Driven Synthesis of Talking Head with Vision Diffusion Transformer
+[ACM] 2026-2-14 | Enhancing POI Recommendation through Global Graph Disentanglement with POI Weighted Module
+[ACM] 2026-2-14 | Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey
+[ACM] 2026-2-14 | Opinion Paper Type: The Need for Pedagogical Approaches in Cross-cultural Design Practices in the US Midwest
+[ACM] 2026-2-14 | GAROD: Delve into Gradient-Based Attribution Reliability for Out-of-Distribution Detection
+[ACM] 2026-2-14 | Vision-Language Model-Assisted Active Learning for High-Accuracy Defect Detection in Automotive Bushing Components
+[ACM] 2026-2-14 | Mixup-Tuning: Enhancing Multimodal Reasoning via Attention-Aware Token Alignment and Consistency Regularization
+[ACM] 2026-2-14 | Two-Stage Tool Retrieval and Invocation for Customer Service Interactions
+[ACM] 2026-2-14 | Scaffolding Online Safety in Older Communities: Exploring the Relationship Between Digital Literacy and Cybersecurity
+[ACM] 2026-2-14 | Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations
+[ACM] 2026-2-14 | A method for selecting prosodic units in Tibetan based on function word features
+[ACM] 2026-2-14 | Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models
+[ACM] 2026-2-14 | CMUNeXt-YOLO: Enhancing Small Object Detection by Integrating Global Context and Fine-Grained Detection Heads
+[ACM] 2026-2-14 | Entity Classification in Noisy Knowledge Graphs: A Graph Attention Framework with K-order Sampling and Evidential Loss Regularization
+[ACM] 2026-2-14 | Optimizing Dynamic Ambulance Routing Problem: A Two-Phase Strategy Combining K-means Clustering and Multi-Objective Particle Swarm Optimization
+[ACM] 2026-2-14 | A Semantic Control Method for AIGC Based on Cultural Knowledge Graph: A Case Study of the Sishen Yunqi Tu
+[ACM] 2026-2-14 | Embodied Experiences Reshape Tourist Perceptions: A Computational Analysis of VR, AR, and AI in Heritage Tourism
+[ACM] 2026-2-14 | Multi-Domain Convolution with Attention: A Deep Learning Framework for BCI Motor Imagery Decoding
+[ACM] 2026-2-14 | Research on Optimization Method of Injection-Production Parameters for Water-Flooded Reservoirs Integrating Deep Learning and History Matching
+[ACM] 2026-2-14 | AdDetector: Detecting Chinese Advertorials on Social Media Platforms with Textual and Social Information
+[ACM] 2026-2-14 | A Cross-Linguistic Semantic Study with Large Language Models: Translating Core Concepts and Historical Names in
+                    <i>The Analects</i>
+[ACM] 2026-2-14 | A Research Test Bench for End to End based Autonomous Driving Models
+[ACM] 2026-2-14 | LPGN: A Lightweight Ligand–Pocket Gated Graph Network for Protein–Ligand Binding Affinity Prediction
+[ACM] 2026-2-14 | Erratum: Lifted Surfacing of Generalized Sweep Volumes
+[ACM] 2026-2-14 | Measuring Online Behavior Change with Observational Studies: A Review
+[ACM] 2026-2-14 | Artificial Intelligence-Based Large Weather Models: Advances, Comparisons, and Prospects
+[ACM] 2026-2-14 | Acoustic Environment-Aware Multi-USV Cooperative Adversarial Detection Method Based on MASAC
+[ACM] 2026-2-14 | High-precision Wellbore Pressure Prediction Considering Herschel-Bulkley Rheological Model
+[ACM] 2026-2-14 | Spatial Role Labeling Based on Dependency Guided Word Embeddings
+[ACM] 2026-2-14 | A Logic-Driven Workflow Based on LLM Agents for High-Fidelity SMT Code Generation
+[ACM] 2026-2-14 | EditCoT: A Stepwise Chain-of-Thought Reasoning Framework for Multi-Intent Text Revision
+[ACM] 2026-2-14 | TalkPersonaDiff: High-Fidelity Speech-Driven 3D Facial Animation Generation via Unified Multimodal Synergistic Encoding and Dual-Style Modulation
+[ACM] 2026-2-14 | Auto6D: A unified Framework for Automated 6D Pose Dataset Construction via Real-Sensor Fusion and Physically-Based Simulation
+[ACM] 2026-2-14 | Building Computational Literacy Through Computational Thinking in Pre-Service Preschool Teachers
+[ACM] 2026-2-14 | Machine Learning for Cybersecurity: A Comprehensive Literature Review
+[ACM] 2026-2-14 | A Global Attention Enhanced YOLOv8 Model for Outdoor Multi-Class Object Detection
+[ACM] 2026-2-14 | Vi-RoIL: Video-to-Robot Imitation Learning for Bimanual Dexterous Manipulation from Human Video
+共写入 54 条记录，保存到 papers/paper2026-02-14.json。
+论文获取成功，文件路径: papers/paper2026-02-14.json
+正在筛选、翻译并发送邮件...
+[NO] 1/54 | Eval-PPO: Building an Efficient Threat Evaluator Using Proximal Policy Optimization
+[NO] 2/54 | CAPS: A Cross-Lingual Methodology for Detecting Misinformation in Estonian Health News
+[NO] 3/54 | TA-PPO: A Proximal Policy Optimization Method Integrating Temporal Sequence States
+[NO] 4/54 | Footprint Contour Detection Methods based on Improved DSNet Model
+[NO] 5/54 | A-UEBA: An Anomaly Heterogeneity Learning Framework Based on Multi-Endpoint User and Entity Behavior Analysis
+[NO] 6/54 | Object Goal Navigation based on 3D Semantic Gaussian
+[NO] 7/54 | Optimization Strategy for I/O Scheduling Method of a Disaster-tolerant Storage System
+[NO] 8/54 | Complexity Aware Recursive Decomposition for Math Reasoning
+[NO] 9/54 | REFINE: Composed Video Retrieval via Shared and Differential Semantics Enhancement
+[NO] 10/54 | IDBF: Information-theoretic Disentanglement with Bridge Fusion for Multimodal Sentiment Analysis
+[NO] 11/54 | A Data Center Room Monitoring Framework Based on Embodied Intelligence
+[NO] 12/54 | Support Vector Machine Aided Semi-intelligent Performance Enhancement of CMOS Gate-voltage Bootstrapped Sampling Switch
+[NO] 13/54 | PoseTalk: Exploring Text- and Audio-based Pose Control for One-Shot Talking Face Generation
+[NO] 14/54 | Text-Guided Cross-Modal Alignment with Attribute and Contour Prototypes for Visible-Infrared Person Re-Identification
+[NO] 15/54 | A Multi-Feature Fusion Driven Method for Time Series Pre-event Prediction
+[NO] 16/54 | Reversing the Retrieval Engine: Query Performance Prediction as an Inverse Learning Task
+[NO] 17/54 | Enhancing Depression Detection Using Pre-trained Multi-modal Sentiment Analysis Models with Deep Prefix Tuning
+[NO] 18/54 | VTalker: Text-Driven Synthesis of Talking Head with Vision Diffusion Transformer
+[NO] 19/54 | Enhancing POI Recommendation through Global Graph Disentanglement with POI Weighted Module
+[NO] 20/54 | Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey
+[NO] 21/54 | Opinion Paper Type: The Need for Pedagogical Approaches in Cross-cultural Design Practices in the US Midwest
+[NO] 22/54 | GAROD: Delve into Gradient-Based Attribution Reliability for Out-of-Distribution Detection
+[NO] 23/54 | Vision-Language Model-Assisted Active Learning for High-Accuracy Defect Detection in Automotive Bushing Components
+[NO] 24/54 | Mixup-Tuning: Enhancing Multimodal Reasoning via Attention-Aware Token Alignment and Consistency Regularization
+[NO] 25/54 | Two-Stage Tool Retrieval and Invocation for Customer Service Interactions
+[NO] 26/54 | Scaffolding Online Safety in Older Communities: Exploring the Relationship Between Digital Literacy and Cybersecurity
+[NO] 27/54 | Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations
+[NO] 28/54 | A method for selecting prosodic units in Tibetan based on function word features
+[NO] 29/54 | Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models
+[NO] 30/54 | CMUNeXt-YOLO: Enhancing Small Object Detection by Integrating Global Context and Fine-Grained Detection Heads
+[NO] 31/54 | Entity Classification in Noisy Knowledge Graphs: A Graph Attention Framework with K-order Sampling and Evidential Loss Regularization
+[NO] 32/54 | Optimizing Dynamic Ambulance Routing Problem: A Two-Phase Strategy Combining K-means Clustering and Multi-Objective Particle Swarm Optimization
+[NO] 33/54 | A Semantic Control Method for AIGC Based on Cultural Knowledge Graph: A Case Study of the Sishen Yunqi Tu
+[NO] 34/54 | Embodied Experiences Reshape Tourist Perceptions: A Computational Analysis of VR, AR, and AI in Heritage Tourism
+[NO] 35/54 | Multi-Domain Convolution with Attention: A Deep Learning Framework for BCI Motor Imagery Decoding
+[NO] 36/54 | Research on Optimization Method of Injection-Production Parameters for Water-Flooded Reservoirs Integrating Deep Learning and History Matching
+[NO] 37/54 | AdDetector: Detecting Chinese Advertorials on Social Media Platforms with Textual and Social Information
+[NO] 38/54 | A Cross-Linguistic Semantic Study with Large Language Models: Translating Core Concepts and Historical Names in
+                    <i>The Analects</i>
+[NO] 39/54 | A Research Test Bench for End to End based Autonomous Driving Models
+[NO] 40/54 | LPGN: A Lightweight Ligand–Pocket Gated Graph Network for Protein–Ligand Binding Affinity Prediction
+[NO] 41/54 | Erratum: Lifted Surfacing of Generalized Sweep Volumes
+[NO] 42/54 | Measuring Online Behavior Change with Observational Studies: A Review
+[NO] 43/54 | Artificial Intelligence-Based Large Weather Models: Advances, Comparisons, and Prospects
+[NO] 44/54 | Acoustic Environment-Aware Multi-USV Cooperative Adversarial Detection Method Based on MASAC
+[NO] 45/54 | High-precision Wellbore Pressure Prediction Considering Herschel-Bulkley Rheological Model
+[NO] 46/54 | Spatial Role Labeling Based on Dependency Guided Word Embeddings
+[YES] 47/54 | A Logic-Driven Workflow Based on LLM Agents for High-Fidelity SMT Code Generation
+[NO] 48/54 | EditCoT: A Stepwise Chain-of-Thought Reasoning Framework for Multi-Intent Text Revision
+[NO] 49/54 | TalkPersonaDiff: High-Fidelity Speech-Driven 3D Facial Animation Generation via Unified Multimodal Synergistic Encoding and Dual-Style Modulation
+[NO] 50/54 | Auto6D: A unified Framework for Automated 6D Pose Dataset Construction via Real-Sensor Fusion and Physically-Based Simulation
+[NO] 51/54 | Building Computational Literacy Through Computational Thinking in Pre-Service Preschool Teachers
+[NO] 52/54 | Machine Learning for Cybersecurity: A Comprehensive Literature Review
+[NO] 53/54 | A Global Attention Enhanced YOLOv8 Model for Outdoor Multi-Class Object Detection
+[NO] 54/54 | Vi-RoIL: Video-to-Robot Imitation Learning for Bimanual Dexterous Manipulation from Human Video
+筛选完成：共 54 篇；Yes = 1 篇；已保存到 papers/select_paper2026-02-14.json。
+邮件发送成功！
+[2026-02-15 09:25:14] 任务执行成功！

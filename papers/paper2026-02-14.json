@@ -1,0 +1,488 @@
+[
+  {
+    "date": "2026-2-14",
+    "title": "Eval-PPO: Building an Efficient Threat Evaluator Using Proximal Policy Optimization",
+    "authors": "Wuzhou Sun, Siyi Li, Haonan Luo, Pengpeng Zeng, Jie Wang, Ji Zhang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788758",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "CAPS: A Cross-Lingual Methodology for Detecting Misinformation in Estonian Health News",
+    "authors": "Li Tetsmann, Uku Kangur, Roshni Chakraborty, Rajesh Sharma",
+    "publish": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "url": "https://doi.org/10.1145/3797259",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "TA-PPO: A Proximal Policy Optimization Method Integrating Temporal Sequence States",
+    "authors": "Weijun Wang, Mingjie Li, Bushuo Wang, Kuoyuan Zhu",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788745",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Footprint Contour Detection Methods based on Improved DSNet Model",
+    "authors": "Yi Gao, Dongsheng Zhou, Dongliang Yang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788749",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A-UEBA: An Anomaly Heterogeneity Learning Framework Based on Multi-Endpoint User and Entity Behavior Analysis",
+    "authors": "Xiaotong Chen, Linfu Sun, He Wang, Tong Gu, Zhiqiang Jiang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788735",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Object Goal Navigation based on 3D Semantic Gaussian",
+    "authors": "Xinyi Chen, Tianrui Li, Ji Zhang, Haonan Luo",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788744",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Optimization Strategy for I/O Scheduling Method of a Disaster-tolerant Storage System",
+    "authors": "Qian He, Zhichen Wang, Longliang Chen",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788762",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Complexity Aware Recursive Decomposition for Math Reasoning",
+    "authors": "Kaleem Ullah Qasim, Jiashu Zhang, Hafiz Saif Ur Rehman",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788750",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "REFINE: Composed Video Retrieval via Shared and Differential Semantics Enhancement",
+    "authors": "Yupeng Hu, Zixu Li, Zhiwei Chen, Qinlei Huang, Zhiheng Fu, Mingzhu Xu, Liqiang Nie",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3796712",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "IDBF: Information-theoretic Disentanglement with Bridge Fusion for Multimodal Sentiment Analysis",
+    "authors": "Wang Qi",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788748",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A Data Center Room Monitoring Framework Based on Embodied Intelligence",
+    "authors": "Qian Dang, Bo Zhao, Bokai Li, Zhihao Zhang, Jiaqi Wang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788732",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Support Vector Machine Aided Semi-intelligent Performance Enhancement of CMOS Gate-voltage Bootstrapped Sampling Switch",
+    "authors": "Bo Liu, Pengshuai Dong, Wei Zhe Zhang, Qingduan Meng, Jun Wang, Rui Yin, Mingyu Li",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3797481",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "PoseTalk: Exploring Text- and Audio-based Pose Control for One-Shot Talking Face Generation",
+    "authors": "Jun Ling, Yiwen Wang, Han Xue, Rong Xie, Li Song",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3788691",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Text-Guided Cross-Modal Alignment with Attribute and Contour Prototypes for Visible-Infrared Person Re-Identification",
+    "authors": "Yong Tao, Xingming Zhang",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3796720",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A Multi-Feature Fusion Driven Method for Time Series Pre-event Prediction",
+    "authors": "Hanlin Zhang, Junlu Wang, Baoyan Song",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788752",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Reversing the Retrieval Engine: Query Performance Prediction as an Inverse Learning Task",
+    "authors": "Rabeb Mbarek, Hawete Hattab",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3790102",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Enhancing Depression Detection Using Pre-trained Multi-modal Sentiment Analysis Models with Deep Prefix Tuning",
+    "authors": "Shiyu Teng, Jiaqing Liu, Shurong Chai, Hao Sun, Tomoko Tateyama, Lanfen Lin, Yen-Wei Chen",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3788672",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "VTalker: Text-Driven Synthesis of Talking Head with Vision Diffusion Transformer",
+    "authors": "Yali Cai, Peng Qiao, Dongsheng Li",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3793546",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Enhancing POI Recommendation through Global Graph Disentanglement with POI Weighted Module",
+    "authors": "Pei-Xuan Li, Cheng-Ru Chou, Wei-Yun Liang, Fandel Lin, Hsun-Ping Hsieh",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3795517",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey",
+    "authors": "Shengyue Guan, Jindong Wang, Jiang Bian, Bin Zhu, Jian-Guang Lou, Haoyi Xiong",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3793671",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Opinion Paper Type: The Need for Pedagogical Approaches in Cross-cultural Design Practices in the US Midwest",
+    "authors": "Nandhini Giri",
+    "publish": "Games: Research and Practice",
+    "url": "https://doi.org/10.1145/3797486",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "GAROD: Delve into Gradient-Based Attribution Reliability for Out-of-Distribution Detection",
+    "authors": "Guanhua Zheng, Jitao Sang, Changsheng Xu",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3787859",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Vision-Language Model-Assisted Active Learning for High-Accuracy Defect Detection in Automotive Bushing Components",
+    "authors": "Shikun Chen, Yangguang Liu",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788733",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Mixup-Tuning: Enhancing Multimodal Reasoning via Attention-Aware Token Alignment and Consistency Regularization",
+    "authors": "Chenghao Ma, Junpeng Ding",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788753",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Two-Stage Tool Retrieval and Invocation for Customer Service Interactions",
+    "authors": "Zihan Chen, Hongyu Zhao",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788739",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Scaffolding Online Safety in Older Communities: Exploring the Relationship Between Digital Literacy and Cybersecurity",
+    "authors": "Jack Holt, James Nicholson",
+    "publish": "ACM Transactions on Computer-Human Interaction",
+    "url": "https://doi.org/10.1145/3796705",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations",
+    "authors": "Chenglei Shen, Yi Zhan, Weijie Yu, Xiao Zhang, Jun Xu",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3793543",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A method for selecting prosodic units in Tibetan based on function word features",
+    "authors": "Dechen Droma, Lhakpa Dondrub",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788747",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3788731",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "CMUNeXt-YOLO: Enhancing Small Object Detection by Integrating Global Context and Fine-Grained Detection Heads",
+    "authors": "Yuqiang He, Shuaipeng Han",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788755",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Entity Classification in Noisy Knowledge Graphs: A Graph Attention Framework with K-order Sampling and Evidential Loss Regularization",
+    "authors": "Yanling Zhu, Min Han, Zhiqiang Jiang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788757",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Optimizing Dynamic Ambulance Routing Problem: A Two-Phase Strategy Combining K-means Clustering and Multi-Objective Particle Swarm Optimization",
+    "authors": "Issam Zidi, Brahim Issaoui, salim el khediri, Tarek Moulahi, Sami Mahfoudhi",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3793529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A Semantic Control Method for AIGC Based on Cultural Knowledge Graph: A Case Study of the Sishen Yunqi Tu",
+    "authors": "Zhenqian Xu, Xueyang Song, Ting Li, Yunke Deng, Lin Gao",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788742",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Embodied Experiences Reshape Tourist Perceptions: A Computational Analysis of VR, AR, and AI in Heritage Tourism",
+    "authors": "Yubing Huang, She Lyu",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788737",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Multi-Domain Convolution with Attention: A Deep Learning Framework for BCI Motor Imagery Decoding",
+    "authors": "Meijun Xiao, Zhenghui Gu, Hongyi Zhi",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788760",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Research on Optimization Method of Injection-Production Parameters for Water-Flooded Reservoirs Integrating Deep Learning and History Matching",
+    "authors": "Yingying Liu",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788746",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "AdDetector: Detecting Chinese Advertorials on Social Media Platforms with Textual and Social Information",
+    "authors": "Haitao Bai, Pinghui Wang, Ruofei Zhang, Zi Liang, Ziyang Zhou, Zhou Su",
+    "publish": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "url": "https://doi.org/10.1145/3797268",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A Cross-Linguistic Semantic Study with Large Language Models: Translating Core Concepts and Historical Names in\n                    <i>The Analects</i>",
+    "authors": "Liwei Yang, Guijun Zhou",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3797271",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A Research Test Bench for End to End based Autonomous Driving Models",
+    "authors": "Shaobo Li, Jiaping Wang, Zhen Wang, Xiangmo Zhao",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788740",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "LPGN: A Lightweight Ligand–Pocket Gated Graph Network for Protein–Ligand Binding Affinity Prediction",
+    "authors": "Yi Liu, Pan Zeng",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788754",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Erratum: Lifted Surfacing of Generalized Sweep Volumes",
+    "authors": "Yiwen Ju, Qingnan Zhou, Xingyi Du, Nathan Carr, Tao Ju",
+    "publish": "ACM Transactions on Graphics",
+    "url": "https://doi.org/10.1145/3795144",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Measuring Online Behavior Change with Observational Studies: A Review",
+    "authors": "Arianna Pera, Gianmarco De Francisci Morales, Luca Maria Aiello",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3797254",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Artificial Intelligence-Based Large Weather Models: Advances, Comparisons, and Prospects",
+    "authors": "Lei Hu, Zhen Ma, Huijin Fu",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788761",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Acoustic Environment-Aware Multi-USV Cooperative Adversarial Detection Method Based on MASAC",
+    "authors": "Jian Hu, Jiaru Chen, Rongyao Zhao, Yaotian Shi, Tongsheng Shen, Feng Liu",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788751",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "High-precision Wellbore Pressure Prediction Considering Herschel-Bulkley Rheological Model",
+    "authors": "Xiaodong Gao",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788759",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Spatial Role Labeling Based on Dependency Guided Word Embeddings",
+    "authors": "Alaeddine Moussa, Sebastien Fournier, Khaoula Mahmoudi, Bernard Espinasse, Sami Faiz",
+    "publish": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "url": "https://doi.org/10.1145/3795776",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A Logic-Driven Workflow Based on LLM Agents for High-Fidelity SMT Code Generation",
+    "authors": "Zhuwei Liu, Keming Wang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788734",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "EditCoT: A Stepwise Chain-of-Thought Reasoning Framework for Multi-Intent Text Revision",
+    "authors": "Xu Li, Chengkun Wei, Wenzhi Chen",
+    "publish": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "url": "https://doi.org/10.1145/3797483",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "TalkPersonaDiff: High-Fidelity Speech-Driven 3D Facial Animation Generation via Unified Multimodal Synergistic Encoding and Dual-Style Modulation",
+    "authors": "Peng Ouyang, Zhuoyuan Yu, Tong Wu, Zhiqian Zhang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788741",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Auto6D: A unified Framework for Automated 6D Pose Dataset Construction via Real-Sensor Fusion and Physically-Based Simulation",
+    "authors": "Xiaochen Yan, Genke Yang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788738",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Building Computational Literacy Through Computational Thinking in Pre-Service Preschool Teachers",
+    "authors": "Sevil Orhan Özen, Sacide Güzin Mazman Akar",
+    "publish": "ACM Transactions on Computing Education",
+    "url": "https://doi.org/10.1145/3787453",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Machine Learning for Cybersecurity: A Comprehensive Literature Review",
+    "authors": "Simon Gökstorp, Sotirios Katsikeas, Pontus Johnson",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3796543",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "A Global Attention Enhanced YOLOv8 Model for Outdoor Multi-Class Object Detection",
+    "authors": "Chengyu Jing, Mingliang Su, Chaohui Zhang, Fei Teng",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788756",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-14",
+    "title": "Vi-RoIL: Video-to-Robot Imitation Learning for Bimanual Dexterous Manipulation from Human Video",
+    "authors": "Runze Lv, Gengke Yang",
+    "publish": "Proceedings of the 2025 International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3788731.3788736",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
