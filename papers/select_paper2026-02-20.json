@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2026-2-20",
+    "title": "Multi-Agent Orchestration Protocol for Generative AI Systems",
+    "authors": "Varsha Shukla, Geoffrey Parker",
+    "publish": "2025 8th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)",
+    "url": "https://doi.org/10.1109/isriti68345.2025.11393196",
+    "source": "IEEE",
+    "abstract": "The growing use of large language models (LLMs) in industry demands new solutions for governance, compliance, and secure coordination across distributed AI agents. Existing agent frameworks lack built-in policy controls and assume a uniform environment, leading to risks from cross-border data flows and unmonitored information leakage. We propose a formal orchestration protocol that embeds jurisdictional rules, access controls, and auditability into every agent interaction. A central orchestrator decomposes complex requests into tasks, consults an Agent Registry (capturing each agent’s location, role, trust score, etc.) and a Policy Engine (enforcing laws like GDPR/HIPAA and security rules), and dynamically routes subtasks to eligible agents. Each agent has isolated memory shards and communicates a structured protocol with schema validation. A tamper-evident audit log captures every decision for post-hoc review. This ensures that sensitive data never crosses prohibited boundaries and every step is traceable. Unlike static LLM chains, our system constructs an on-the-fly task graph that adapts in real-time, enabling parallel execution and failover. Simulations show that this approach can reduce response latency while eliminating compliance violations. By combining policy-driven orchestration, memory isolation, and rigorous auditing, our protocol makes multi-agent AI workflows secure, compliant, and transparent in ways no existing framework has demonstrated.",
+    "title_zh": "生成式人工智能系统的多智能体编排协议",
+    "abstract_zh": "大型语言模型（LLM）在工业领域的广泛应用，对治理、合规性以及跨分布式AI智能体的安全协调提出了新的挑战。现有的智能体框架缺乏内置的策略控制机制，且假设环境是统一的，这导致了跨境数据流动和未受监控的信息泄露等风险。为此，我们提出了一种形式化的编排协议，将管辖权规则、访问控制和可审计性嵌入每一次智能体交互之中。\n\n一个中心化的编排器将复杂请求分解为子任务，通过查询“智能体注册表”（记录每个智能体的位置、角色、信任评分等信息）和“策略引擎”（强制执行GDPR、HIPAA等法律法规及安全规则），动态地将子任务分配给符合条件的智能体。每个智能体拥有隔离的内存碎片，并通过带有模式验证的结构化协议进行通信。不可篡改的审计日志完整记录每一次决策，便于事后审查。该机制确保敏感数据不会跨越禁止边界，且所有操作步骤均可追溯。\n\n与静态的LLM链不同，我们的系统能够实时构建动态任务图，支持并行执行与故障转移。仿真结果表明，该方法在降低响应延迟的同时，彻底消除了合规性违规问题。通过结合策略驱动的编排、内存隔离与严格的审计机制，我们的协议使多智能体AI工作流在安全性、合规性和透明度方面达到了现有框架无法实现的新高度。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "A Cloud-Based Generative AI Architecture for Integrated Multimodal Content Analysis and Automated Documentation",
+    "authors": "Ashutosh Kumar Sinha, Divya Priya K, Nitika Nigam, Rahul Mishra",
+    "publish": "2025 IEEE 22nd India Council International Conference (INDICON)",
+    "url": "https://doi.org/10.1109/indicon68490.2025.11393019",
+    "source": "IEEE",
+    "abstract": "The world is generating unprecedented data and becoming increasingly available in unstructured formats such as text files, images, and audio files. This presents a challenge for intelligent systems geared towards information generation. Here, we present an innovative solution called Cloud-Based Generative AI System for Multi-Modal Content Analysis and Documentation. It enhances the capabilities of generative AI and cloud technologies for the automation of analysis and synthesis of inputs, such as PDF, DOCX, PPTX, TXT, MP3, and MP4. Transcription, audio content-based summarization, and document generation are achieved using LLMs, the speech-to-text model Whisper, and cloud computing infrastructure like AWS S3. Customizable topic inputs allow users to define their requirements and obtain fine-tuned results. Extensive testing on academic, business, and conversational corpora verifies its ability to generate accurate, abridged, and semantically correct summaries and Q&A reports even when the input does not contain structured context. The accuracy on all modalities shows its applicability in the real-world production pipelines of research, education, and enterprise.",
+    "title_zh": "基于云的生成式人工智能架构：用于集成多模态内容分析与自动化文档生成",
+    "abstract_zh": "世界正以前所未有的速度生成海量数据，且这些数据越来越多地以非结构化格式存在，如文本文件、图像和音频文件。这对面向信息生成的智能系统提出了严峻挑战。本文提出了一种创新解决方案——基于云的多模态内容分析与文档生成生成式AI系统。该系统融合生成式AI与云计算技术，实现了对多种输入格式（如PDF、DOCX、PPTX、TXT、MP3和MP4）的自动化分析与综合处理。通过使用大语言模型（LLMs）、语音识别模型Whisper以及AWS S3等云基础设施，系统可完成语音转写、基于音频内容的摘要生成以及文档自动生成。用户可通过自定义主题输入来定义需求，从而获得高度定制化且精准的输出结果。在学术、商业及对话语料库上的广泛测试表明，即使输入缺乏结构化上下文，该系统仍能生成准确、简洁且语义正确的摘要与问答报告。各模态的高准确率证明了其在科研、教育及企业实际生产流程中的广泛应用潜力。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Machine Learning in Safety-Critical Applications: Beyond Traditional Worst-Case Design",
+    "authors": "Rolf Ernst, Robin Hapka",
+    "publish": "Computer",
+    "url": "https://doi.org/10.1109/mc.2025.3604078",
+    "source": "IEEE",
+    "abstract": "As semiconductor technology advances below 10 nm, the failure to capture the full range of system timing behaviors proposes a challenge for performance-demanding critical real-time applications such as neural networks. This article proposes a dual timing model for design, verification, and monitoring of real-time neural network systems.",
+    "title_zh": "安全关键应用中的机器学习：超越传统最坏情况设计",
+    "abstract_zh": "随着半导体技术的发展进入10纳米以下，若无法全面捕捉系统时序行为的全貌，将给性能要求高的关键实时应用（如神经网络）带来挑战。本文提出了一种双时序模型，用于实时神经网络系统的设计、验证与监控。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Development of Secure-by-Design RISC-V Architectures with Embedded Hardware Roots-of-Trust for Next-Generation Smart Devices",
+    "authors": "Dola Jyothi, M. Nagaraju Naik, S. Mallesh Narayan, K Subramanayam Chari",
+    "publish": "2025 International Conference on Innovations and Emerging Technologies In AI &amp;amp; Communication Systems (IETACS)",
+    "url": "https://doi.org/10.1109/ietacs68750.2025.11385713",
+    "source": "IEEE",
+    "abstract": "The ever-growing spread of smart devices in safety-critical areas like healthcare, industry, and defence has accentuated the demand for safe, dependable computing platforms. In this paper, we propose ANCHOR-RV, a novel secure-by-design RISC-V ISA that incorporates embedded hardware Roots of Trust (RoT) to overcome the shortcomings of traditional security models. In contrast to the current solutions based on fixed trust anchors and inflexible boot mechanisms, ANCHOR-RV proposes an amazingly flexible and dynamic security system comprised of a Context-Aware Trust Engine (CATE), a Nonlinear PUF-Enhanced Identity Vault, a Secure DMA Isolation Bubble (SDIB) and a Trust-Aware Boot Chain with Mutation (TAB-CM). In combination, these modules can offer real-time threat monitoring, per-device identity verification, secure peripheral isolation, and highstrength boot integrity, and are enhanced by a custom RISC-V ISA extension (RV-TISA) to support more secure firmware-software communication. ANCHOR-RV enables the self-configuration of intelligent devices to dynamically changing threat situations with a minimal power and space footprint, making it particularly useful for prototyping and simulation in low-resource environments. The architecture is prototyped and simulated with the FPGA to test its security robustness, performance and efficiency. The experimental data convincingly show that ANCHOR-RV can deliver significant improvements in trust flexibility and attack resistance, and that it is more efficient than traditional constant RoT deployments in dynamic environments. Mutation of the boot mechanism employed in the architecture and context-aware trust management provides a new defence against side-channel attacks, persistent threats, and boot-time attacks. The work will lay the foundation for future resilient RISC-V-based computing systems, enabling a flexible, extensible, and resilient next-generation smart device platform. The subsequent steps will include an ASIC implementation, optimisation of the machine learning models, and integration with real-world smart device platforms.",
+    "title_zh": "面向下一代智能设备的具有嵌入式硬件信任根的安全设计RISC-V架构开发",
+    "abstract_zh": "随着智能设备在医疗、工业和国防等安全关键领域中的不断普及，对安全、可靠计算平台的需求日益迫切。本文提出了一种名为 ANCHOR-RV 的新型安全设计 RISC-V 指令集架构（ISA），通过嵌入式硬件信任根（Root of Trust, RoT）克服传统安全模型的局限性。与当前依赖固定信任锚点和僵化启动机制的解决方案不同，ANCHOR-RV 构建了一个极为灵活且动态的安全体系，其核心包括：上下文感知信任引擎（Context-Aware Trust Engine, CATE）、非线性 PUF 增强型身份保险库（Nonlinear PUF-Enhanced Identity Vault）、安全 DMA 隔离气泡（Secure DMA Isolation Bubble, SDIB），以及具备变异能力的信任感知启动链（Trust-Aware Boot Chain with Mutation, TAB-CM）。这些模块协同工作，可实现实时威胁监控、设备级身份验证、外围设备安全隔离以及高强度的启动完整性保障，并通过定制的 RISC-V ISA 扩展（RV-TISA）支持更安全的固件与软件间通信。\n\nANCHOR-RV 能够使智能设备在动态变化的威胁环境中实现自我配置，同时保持极低的功耗和空间开销，特别适用于资源受限环境下的原型设计与仿真。该架构已在 FPGA 上完成原型实现与仿真，用于验证其安全性、性能与效率。实验数据充分表明，ANCHOR-RV 在信任灵活性和抗攻击能力方面均有显著提升，且在动态环境中比传统的固定信任根部署更加高效。架构中采用的启动机制变异技术与上下文感知的信任管理机制，为抵御侧信道攻击、持久性威胁及启动阶段攻击提供了全新的防御手段。\n\n本研究为未来基于 RISC-V 的弹性计算系统奠定了基础，推动构建一个灵活、可扩展且具备韧性的下一代智能设备平台。后续工作将包括 ASIC 实现、机器学习模型的优化，以及与真实世界智能设备平台的集成。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Time Travel: LLM-Assisted Semantic Behavior Localization with Git Bisect",
+    "authors": "Yujing Wang, Weize Hong",
+    "publish": "2025 IEEE Smart World Congress (SWC)",
+    "url": "https://doi.org/10.1109/swc65939.2025.00299",
+    "source": "IEEE",
+    "abstract": "We present a novel framework that integrates Large Language Models (LLMs) into the Git bisect process for semantic fault localization. Traditional bisect assumes deterministic predicates and binary failure states—assumptions often violated in modern software development due to flaky tests, non- monotonic regressions, and semantic divergence from upstream repositories. Our system augments bisect traversal with structured chain-of-thought reasoning, enabling commit-by-commit analysis under noisy conditions. We evaluate multiple open-source and proprietary LLMs for their suitability, and fine-tune DeepSeek- Coder-V2 using QLoRA on a curated dataset of semantically labeled diffs. We adopt a weak-supervision workflow to reduce annotation overhead, incorporating human-in-the-loop corrections and self-consistency filtering. Experiments across multiple open- source projects show a 6.4-point absolute gain in success rate (from 74.2% to 80.6%), leading to significantly fewer failed traversals and—by experiment—up to 2x reduction in average bisect time. We conclude with discussions on temporal reasoning, prompt design, and fine-tuning strategies tailored for commit-level behavior analysis.",
+    "title_zh": "时间旅行：基于 Git Bisect 的 LLM 辅助语义行为定位",
+    "abstract_zh": "我们提出了一种新颖的框架，将大型语言模型（LLMs）融入 Git bisect 过程，以实现语义层面的故障定位。传统 bisect 方法假设判定条件是确定性的，且失败状态为二值（成功/失败），但这一假设在现代软件开发中常被打破，原因包括测试的不稳定性、非单调性回归以及与上游仓库的语义偏差。我们的系统通过引入结构化的思维链推理，增强了 bisect 的遍历能力，使其能够在噪声环境下进行逐个提交的分析。我们评估了多种开源与专有 LLM 的适用性，并基于精心筛选的语义标注差异数据集，采用 QLoRA 对 DeepSeek-Coder-V2 进行微调。为降低标注成本，我们采用弱监督工作流，结合人工介入修正与自一致性过滤机制。在多个开源项目上的实验表明，该方法使成功定位率绝对提升了 6.4 个百分点（从 74.2% 提升至 80.6%），显著减少了遍历失败次数，并在实验中实现了平均 bisect 时间最高达 2 倍的缩短。最后，我们讨论了时间推理、提示设计以及针对提交级别行为分析量身定制的微调策略。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Software Defect Detection Using Optimized Support Vector Machine Based on RW-GWO-WOA",
+    "authors": "Maulana Alirridlo, Riyanarto Sarno, Dwi Sunaryono, Abdullah Faqih Septiyanto, Irzal Ahmad Sabilla",
+    "publish": "2025 8th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)",
+    "url": "https://doi.org/10.1109/isriti68345.2025.11393342",
+    "source": "IEEE",
+    "abstract": "Software defect detection is a crucial aspect of the software engineering process because undetected defects can cause system failures and application performance degradation. The growing complexity of software makes manual detection methods less efficient and error-prone. SVM has proven to be effective in detecting defects through the classification process, but its performance is largely determined by the optimal hyperparameter settings. This study proposes a novel optimization approach by applying the Random Walk mechanism to the hybrid Grey Wolf Optimizer-Whale Optimization Algorithm (RW-GWO-WOA) to optimize SVM parameters. The main contributions of this study include: (1) replacing hold-out evaluation with k-fold cross-validation to enhance model generalization reliability; (2) developing the RW-GWO-WOA optimization method, which combines the exploratory capabilities of GWO with the local exploitation of WOA enhanced by the Random Walk mechanism; and (3) conducting a comprehensive evaluation by comparing performance without oversampling, SMOTE, and BorderlineSMOTE. Experimental results show that the RW-GWO-WOA method achieves competitive performance with the highest average accuracy of 97.86% on the PC2 dataset without using PCA or oversampling. The k-fold cross-validation was able to provide a more reliable evaluation and reduce the possibility of overfitting compared to the hold-out approach.",
+    "title_zh": "基于RW-GWO-WOA优化的支持向量机软件缺陷检测",
+    "abstract_zh": "软件缺陷检测是软件工程过程中的关键环节，因为未被发现的缺陷可能导致系统故障和应用程序性能下降。随着软件复杂性的不断增加，传统的手动检测方法变得效率低下且容易出错。支持向量机（SVM）在通过分类过程检测缺陷方面已被证明是有效的，但其性能在很大程度上取决于最优超参数的设置。本研究提出了一种新颖的优化方法，通过将随机游走（Random Walk）机制引入混合灰狼优化算法-鲸鱼优化算法（RW-GWO-WOA），以优化SVM的参数。本研究的主要贡献包括：（1）用k折交叉验证替代传统的留出法评估，以提高模型泛化能力的可靠性；（2）提出RW-GWO-WOA优化方法，该方法结合了灰狼优化算法（GWO）的全局探索能力与鲸鱼优化算法（WOA）在随机游走机制增强下的局部开发能力；（3）通过对比不使用过采样、SMOTE以及BorderlineSMOTE三种情况下的性能，进行了全面的评估。实验结果表明，RW-GWO-WOA方法在PC2数据集上未使用主成分分析（PCA）或过采样时，达到了97.86%的最高平均准确率，表现出具有竞争力的性能。与留出法相比，k折交叉验证能够提供更可靠的评估结果，并有效降低过拟合的风险。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Understanding Inconsistent State Update Vulnerabilities in Smart Contracts",
+    "authors": "Lantian Li, Yuyu Chen, Jingwen Wu, Yue Pan, Zhongxing Yu",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3798052",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "理解智能合约中的状态更新不一致漏洞",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Autonomous Real-Time Fault Detection in Commercial Spacecraft Systems",
+    "authors": "P. K. Chidambaram, Hassan MuhamedAle, Sonam Dubey, V. Suresh, N. V. Dhandapani, Sharipov Dilshodbek Shodmonjon ugli, Mardon Rakhmatov",
+    "publish": "2025 International Conference on Innovations and Emerging Technologies In AI &amp;amp; Communication Systems (IETACS)",
+    "url": "https://doi.org/10.1109/ietacs68750.2025.11385390",
+    "source": "IEEE",
+    "abstract": "A fault detection on systems in commercial spacecrafts requires autonomy in real time in order to be able to safely, reliably and effectively see the missions through. The dynamic nature and multifaceted ness of space vehicles also leads to the large volumes of telemetry created as the space vehicles are operating through the interaction of different sub systems. Rigorous fault detection techniques such as model-based and classical machine learning-based have very low scalability and cross-subsystem dependency modelling problems and are not sensitive to the changes in the type of faults. It is on such weaknesses that they cannot be feasible in real-time applications in the environment in the onboard setting that will require fast and precise fault prognostic responses to outlaw cascade-like failures and the reality that autonomous remedial measures can be executed without the assistance before ground before ground. This system suggest of such a solution to such issues a Hybrid Adaptive Transformer-Graph Neural Network model (HAT-GNN) that is capable of identifying and localising faults in commercial spacecraft systems in real-time by itself. We have a research advantage which consists of an advantage called Interdependencies are expressly represented in our solution which means that it considers the spacecraft subsystems and sensors as a grab base system with dynamic edge connection implying dependencies. The trends in technical sensor telemetry amongst timeseries are detected timely by a lightweight Transformer encoder with the ability to identify temporal abnormalities. The Graph neural Network module condenses and disperses explicitly the information amongst the adjacent subsystem nodes and thereby allows fault localization and inter-subsystem diagnosis to be perfect.",
+    "title_zh": "商用航天器系统的自主实时故障检测",
+    "abstract_zh": "商业航天器系统中的故障检测需要具备实时自主能力，以确保任务能够安全、可靠且高效地完成。由于航天器具有动态特性及多方面的复杂性，在不同子系统相互作用运行过程中会产生大量遥测数据。传统的故障检测技术，如基于模型的方法和经典机器学习方法，存在可扩展性差、跨子系统依赖关系建模困难以及对故障类型变化不敏感等问题，因此难以在需要快速精准故障预测响应的星载实时环境中应用，也无法在地面支持缺失的情况下实现自主修复措施。针对上述问题，本文提出一种混合自适应Transformer-图神经网络模型（HAT-GNN），该模型能够自主实现对商业航天器系统中故障的实时识别与定位。本研究的优势在于：明确地在解决方案中表征了系统间的相互依赖关系，即将航天器的各个子系统与传感器视为一个具有动态边连接的图基系统，以体现其内在依赖性。轻量级的Transformer编码器能够及时捕捉时序传感器遥测数据中的趋势变化，有效识别时间异常。图神经网络模块则能精确地在相邻子系统节点间传递与聚合信息，从而实现精准的故障定位与跨子系统诊断。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Getting Acquainted with Your LLMs: Are They Aware of Smelly Code?",
+    "authors": "Zhengyi Zhuo, Yan Liu, Xindi Yang",
+    "publish": "IEEE Software",
+    "url": "https://doi.org/10.1109/ms.2026.3665838",
+    "source": "IEEE",
+    "abstract": "Generative AI has become a new software development role, helping human developers in designing, coding, and reviewing. However, LLMs do make mistakes, and worse, they make mistakes confidently. In this article, we take a close-up examination of LLMs with symptoms of code smells. Enlightened by the data-driven approach and observable software engineering, we provide supplementary evidence and practical takeaways to help practitioners know their LLMs. Our reminder is simple: manage your context, log the AI-usage traces, and engineer observations for LLMs—because software quality rarely speaks for itself.",
+    "title_zh": "了解你的大语言模型：它们是否能识别“糟糕的代码”？",
+    "abstract_zh": "生成式AI已成为软件开发领域的一个新角色，帮助人类开发者完成设计、编码和代码审查等工作。然而，大语言模型（LLMs）确实会出错，更糟糕的是，它们常常以极高的自信犯错。本文对表现出代码异味（code smells）特征的LLMs进行了深入剖析。受数据驱动方法和可观察软件工程的启发，我们提供了补充证据和实用建议，帮助开发者更好地了解和掌控自己的LLM。我们的提醒很简单：管理好上下文信息，记录AI使用痕迹，并为LLM设计可观测性机制——因为软件质量从不会自己说话。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Detecting inline code comment smells leveraging CodeBERT Model",
+    "authors": "Sajjad Mahmood",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3666288",
+    "source": "IEEE",
+    "abstract": "Inline code comments provide contextual information within source code, potentially enhancing readability and maintainability. However, suboptimal commenting practices, commonly referred to as comment smells, can obscure code intent, reduce maintainability, and increase the likelihood of defects. Automated detection of these smells remains challenging due to their diverse manifestations and the interplay between code and natural language. In this paper, we present a model that leverages CodeBERT embeddings to detect and classify multiple types of inline comment smells. The method incorporates systematic preprocessing of code comment pairs, class balancing to mitigate skewed label distributions, and contextual representation learning to capture semantic and syntactic aspects of the code. The proposed approach is evaluated on a publicly available benchmark dataset comprising 2,189 manually annotated code–comment pairs extracted from open-source Java and Python projects. Evaluation on a benchmark dataset shows that <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">CodeBERT</i> consistently outperforms traditional machine/deep learning classifiers in accuracy and Matthews Correlation Coefficient (MCC), establishing a new state-of-the-art for multi-class comment-smell detection. These results demonstrate the effectiveness of pre-trained, code-aware language models for detecting inline comment smells in a software project. These findings highlight the promise of code-aware transformer models for automated assessment of inline comment quality in real-world software systems.",
+    "title_zh": "利用CodeBERT模型检测内联代码注释异味",
+    "abstract_zh": "行内代码注释能够为源代码提供上下文信息，有助于提升代码的可读性和可维护性。然而，不良的注释实践（常被称为“注释异味”）可能模糊代码意图，降低可维护性，并增加缺陷出现的可能性。由于这些异味表现形式多样，且代码与自然语言之间存在复杂的交互关系，因此自动化检测仍面临挑战。本文提出一种基于CodeBERT嵌入的模型，用于检测和分类多种类型的行内注释异味。该方法结合了代码-注释对的系统性预处理、标签平衡技术以缓解标签分布不均问题，以及上下文表示学习，以捕捉代码的语义与语法特征。所提方法在公开的基准数据集上进行了评估，该数据集包含从开源Java和Python项目中提取的2,189个手工标注的代码-注释对。实验结果表明，<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">CodeBERT</i>在准确率和马修斯相关系数（MCC）方面均持续优于传统的机器学习与深度学习分类器，确立了多类注释异味检测的新基准。这些结果证明了预训练、代码感知语言模型在检测软件项目中行内注释异味方面的有效性。研究结果凸显了代码感知的Transformer模型在实际软件系统中自动化评估行内注释质量方面的巨大潜力。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Design and Implementation of a Smart Contract Integrity Verification Framework for API",
+    "authors": "Thanikaivel. B, Vishnupriyan. J, Dharma Sastha. B, Naveen Akash. V",
+    "publish": "2025 International Conference on Innovations and Emerging Technologies In AI &amp;amp; Communication Systems (IETACS)",
+    "url": "https://doi.org/10.1109/ietacs68750.2025.11385473",
+    "source": "IEEE",
+    "abstract": "This paper presents a Smart Contract Based Integrity Verifier framework for web security in APIs. This framework utilizes blockchain technology in order to design a secure mechanism that makes use of cryptographic hashes to verify the credibility of API responses. Smart contracts ensure transparent and tamper-proof scoring while automating security enforcement The approach is relevant because it covers the weaknesses existing in the existing Oauth 2.0 APIs and provides a strong mechanism for data tampering detection and prevention. This is achieved through the implementation of the system on Python Framework and blockchain simulation, hence enabling users to interact with the system and send API responses validated for credibility. The framework ensures <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{9 8 \\%}$</tex> verification accuracy rates as compared to the existing security mechanisms for API Credibility Verification. Future work is in integrating into various domains, such as healthcare, finance, supply chain, and IoT.",
+    "title_zh": "API智能合约完整性验证框架的设计与实现",
+    "abstract_zh": "本文提出了一种基于智能合约的API网络安全完整性验证框架。该框架利用区块链技术设计了一种安全机制，通过加密哈希来验证API响应的可信度。智能合约确保了评分过程的透明性和防篡改性，同时实现了安全策略的自动化执行。该方法具有重要意义，因为它弥补了现有OAuth 2.0 API中存在的安全缺陷，并提供了一种强有力的机制来检测和防止数据篡改。通过在Python框架和区块链模拟环境中实现该系统，用户能够与系统交互并发送经过可信度验证的API响应。该框架的验证准确率高达98%，显著优于现有的API可信度验证安全机制。未来的工作将致力于将该框架拓展至医疗、金融、供应链及物联网等多个领域。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Reconfigurable FPGA-Based Framework for Power-Efficient Signal Processing in AI-Assisted IoT Gateways",
+    "authors": "Janga Prasad, M. Sirin Kumari, G. Srikanth, A Gopi",
+    "publish": "2025 International Conference on Innovations and Emerging Technologies In AI &amp;amp; Communication Systems (IETACS)",
+    "url": "https://doi.org/10.1109/ietacs68750.2025.11385696",
+    "source": "IEEE",
+    "abstract": "In this paper, we introduce ANEMIA, a novel reconfigurable FPGA framework aimed at power-efficient signal processing in AI-assisted IoT gateways. With the increase in the reliance of IoT ecosystems on real-time edge intelligence data processing, the static traditional architectures are challenged immensely in terms of energy costs, latency, and flexibility. ANEMIA overcome these constraints by using a flexible, aware context model that combines neuromorphic processing and pipeline modules of signals. It has five key elements such as a Neuromorphic Signal Encoder (NSE) where spiking neural networks extract features in an energy-efficient manner; Modular Power-Aware Pipelines (MPAP) that activate only the signal processing units needed by the workload; an AI-Driven Reconfiguration Agent (AIRA) which optimizes hardware configurations using in real-time a lightweight meta-learning framework; an Edge-Aware Quantized Learning Core (EQL-Core) that supports low-power AI inferences by enabling ultra-low precision models; and an Hybrid Data Compression It has been experimentally demonstrated that ANEMIA is capable of saving a significant amount of power, as much as 43 percent when compared to state-of-the-art methods with competitive accuracy, latency and throughput. Its framework is also typified by the great scalability and flexibility of the heterogeneous IoT settings. The ANCEMIA is developed by reconfiguring hardware dynamically at the border, controlled by AI, hence it is an important step to create intelligent edge computing systems to be sustainable. The contributions made by this work are a new architectural paradigm of the next-generation AIoT systems that are to be energy-efficient and there is a high level of performance demanded in resource-constrained conditions.",
+    "title_zh": "面向人工智能辅助物联网网关的可重构FPGA架构节能信号处理框架",
+    "abstract_zh": "本文提出了一种名为ANEMIA的新型可重构FPGA框架，旨在实现AI辅助物联网网关中高效节能的信号处理。随着物联网生态系统对实时边缘智能数据处理的依赖日益增加，传统的静态架构在能耗、延迟和灵活性方面面临巨大挑战。ANEMIA通过采用一种灵活且具备上下文感知能力的模型，融合了类脑计算与信号流水线模块，有效克服了这些限制。该框架包含五个核心组件：类脑信号编码器（NSE），利用脉冲神经网络以节能方式提取特征；模块化低功耗流水线（MPAP），仅激活工作负载所需的信号处理单元；基于AI的动态重构代理（AIRA），通过实时轻量级元学习框架优化硬件配置；边缘感知量化学习核心（EQL-Core），支持超低精度模型，实现低功耗AI推理；以及混合数据压缩机制。实验结果表明，与现有最先进方法相比，ANEMIA在保持竞争性精度、延迟和吞吐量的同时，最高可实现43%的能耗降低。其架构还展现出在异构物联网环境中的优异可扩展性与灵活性。ANEMIA通过在边缘侧由AI动态控制硬件重构，实现了智能边缘计算系统的可持续发展，是迈向下一代智能边缘计算的重要一步。本研究的贡献在于提出了一种面向下一代AIoT系统的新型架构范式，兼顾高能效与在资源受限条件下对高性能的严苛需求。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Development of Dependable Systems Using Constrained Colored Petri Nets",
+    "authors": "Carolina Lagartinho-Oliveira, Filipe Moutinho, Luís Gomes",
+    "publish": "2025 IEEE 4th Industrial Electronics Society Annual On-Line Conference (ONCON)",
+    "url": "https://doi.org/10.1109/oncon68412.2025.11384468",
+    "source": "IEEE",
+    "abstract": "This paper introduces constrained colored Petri nets (CCP-nets), a high-level Petri net formalism that facilitates the creation and deployment of dependable systems. CCP-nets employ abstraction mechanisms such as colors, colored tokens, and variables, which are subject to explicit constraints. This enables compact modeling of complex behaviors, simplifying design, and ensures compatibility with unfolding techniques, allowing models to be integrated with verification and implementation tools. Here, we define the syntax and semantics of CCP-nets and clarify their role within the adopted model-driven development approach. Through an example, we discuss how CCP-nets' highlevel features reduce design effort while supporting state-space analysis and code generation for target platforms.",
+    "title_zh": "基于约束有色Petri网的可靠系统开发",
+    "abstract_zh": "本文介绍了约束着色Petri网（CCP-nets），这是一种高级Petri网形式化方法，有助于创建和部署可靠系统。CCP-nets采用抽象机制，如颜色、着色令牌和变量，并施加显式约束。这使得复杂行为能够以紧凑的方式建模，简化了设计过程，并确保与展开技术的兼容性，从而可将模型集成到验证和实现工具中。本文定义了CCP-nets的语法和语义，并阐明了其在所采用的模型驱动开发方法中的作用。通过一个实例，我们讨论了CCP-nets的高级特性如何降低设计工作量，同时支持状态空间分析和目标平台的代码生成。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Next-Gen AI Decision Support in Software Engineering: Leveraging Complexity with Quantum Computing, DevOps Automation, and Responsible Machine Learning",
+    "authors": "Paramjot Kaur Sarao",
+    "publish": "2025 International Conference on Computing and Communications (COMPUTINGCON)",
+    "url": "https://doi.org/10.1109/computingcon64838.2025.11376738",
+    "source": "IEEE",
+    "abstract": "The future will feature the use of next-generation AI decision support systems powered by quantum computing, DevOps automation, and machine learning with responsibility to accommodate mounting complexity in software engineering. Quantum computing provides a solution that allows breaking the current limits of computation and solving complex algorithms and huge quantities of data rather fast. DevOps automation is a complete incorporation of AI to eliminate bottlenecks and add efficiency in the process of staging seamless cooperation. Essentially, responsible machine learning serves as their moral guide that ensures that AI decisions are transparent, accountable, and within social conformities. Upon the convergence of these three concepts, a radical change is made in software development and management. They deal with challenges of modern software as they enhance the speed and reliability through decision making streamlining. This study presents a framework for Next-Generation AI Decision Support in Software Engineering, resulting in an AI driven “software engineer” capable of managing the difficulties of modern development. This intelligent system uses quantum computing to solve complicated software design difficulties with its improved processing capabilities. Integrating DevOps automation to speed up continuous integration, delivery, and deployment ensures agile, real-time responsiveness to changing needs. Through case studies and performance evaluations, this AI-driven software engineer has proven to optimize resources, reduce development timelines, and improve software quality, laying the groundwork for future autonomous engineering systems that support complex decision making and operational efficacy.",
+    "title_zh": "下一代人工智能决策支持在软件工程中的应用：利用量子计算、DevOps自动化与负责任的机器学习应对复杂性",
+    "abstract_zh": "未来将采用由量子计算、DevOps自动化和机器学习共同驱动的下一代AI决策支持系统，以应对软件工程日益增长的复杂性。量子计算提供了一种突破当前计算极限的解决方案，能够快速处理复杂的算法和海量数据。DevOps自动化则通过全面整合AI技术，消除流程中的瓶颈，提升协作效率，实现无缝衔接。而负责任的机器学习则作为其道德指南，确保AI决策具备透明性、可问责性，并符合社会规范。这三大技术的融合，将彻底改变软件开发与管理的模式。它们有效应对现代软件工程的挑战，通过优化决策流程，显著提升开发速度与可靠性。本研究提出了一种下一代AI决策支持在软件工程中的框架，构建出一个由AI驱动的“软件工程师”，能够应对现代开发中的各种难题。该智能系统利用量子计算的卓越处理能力，解决复杂的软件设计问题；通过集成DevOps自动化，加速持续集成、交付与部署，实现对需求变化的敏捷、实时响应。通过案例研究与性能评估，该AI驱动的软件工程师已被证明能够优化资源利用、缩短开发周期、提升软件质量，为未来自主工程系统的发展奠定了基础，使其能够支持复杂决策与高效运营。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Clustering and Profiling Student Study Behaviors and Interactions with an AI Coding Assistant",
+    "authors": "Eric Poitras, Jeffry Paul Suresh Durai, Jonathan Boisvert, Keaton Doucette, Michael Pin-Chuan Lin, Marta Kryven, Raghav Sampangi",
+    "publish": "2025 IEEE Smart World Congress (SWC)",
+    "url": "https://doi.org/10.1109/swc65939.2025.00067",
+    "source": "IEEE",
+    "abstract": "This study examines how undergraduate students spaced and interleaved their practice while learning introductory programming, with support from an AI coding assistant. The assistant was designed to provide guidance without revealing the complete solution to problems, aiming to foster independent learning rather than promoting over-reliance that could hinder skill development. Over a five-week period, students solved up to 350 formative practice problems and completed summative assessments. Analysis of their interactions revealed three distinct profiles of study behavior, each associated with distinct learning outcomes. The most proficient learners practiced more extensively and diversely, becoming more fluent in completing code writing tasks. Notably, these high-performing students also made the most frequent use of the AI assistant, especially for interpreting error messages and requesting context-sensitive hints.",
+    "title_zh": "聚类与分析学生使用AI编程助手的学习行为及互动模式",
+    "abstract_zh": "本研究探讨了本科生在学习入门级编程时如何安排练习的间隔与交错，以及在人工智能编程助手的支持下进行学习的情况。该助手旨在提供指导，但不直接揭示问题的完整解决方案，以促进独立学习，避免过度依赖而阻碍技能发展。在为期五周的实验中，学生们完成了多达350道形成性练习题，并参与了总结性评估。对其互动数据的分析揭示了三种不同的学习行为模式，每种模式对应不同的学习成果。最优秀的学习者练习得更加广泛且多样化，从而在编写代码任务上表现出更高的熟练度。值得注意的是，这些高绩效学生也最频繁地使用AI助手，尤其是在解读错误信息和请求上下文相关的提示方面。"
+  },
+  {
+    "date": "2026-2-20",
+    "title": "Embedded C Code Safety Analysis with Automated Fault Tree Synthesis for Automotive Virtualization Systems",
+    "authors": "Yikun Yang, Jie Xu, Yongping Huang, Junqun Xiong",
+    "publish": "2025 IEEE Smart World Congress (SWC)",
+    "url": "https://doi.org/10.1109/swc65939.2025.00133",
+    "source": "IEEE",
+    "abstract": "With the evolution of automotive E/E architectures toward centralized designs, virtualization systems for intelligent cockpits impose higher demands on the security and reliability of hypervisors. Traditional Fault Tree Analysis (FTA) methods suffer from dual bottlenecks: poor model-code consistency and low verification efficiency. Current research primarily relies on manual fault tree construction and code-level verification, leading to logical redundancy and insufficient coverage. To address the issues of logical redundancy and critical path omission, this paper proposes an automated fault tree generation framework based on program analysis and symbolic execution, enabling automated extraction of code-level critical paths and precise mapping of fault logic. Specifically, it achieves comprehensive variable-level dependency tracking through backward program slicing on Low Level Virtual Machine (LLVM) intermediate representation, resolves multipath events using an enhanced symbolic execution-based SMT solver, and optimizes minimal cut set generation via the Quine-McCluskey algorithm. Experimental results demonstrate that the proposed method can automatically generate fault trees from source code effectively, maintain high consistency with traditional FTA from design models, and uncover additional critical fault paths while dramatically reducing manual effort.",
+    "title_zh": "面向汽车虚拟化系统的嵌入式C代码安全分析与自动化故障树生成",
+    "abstract_zh": "随着汽车电子电气（E/E）架构向集中式设计的演进，智能座舱虚拟化系统对虚拟机监视器（Hypervisor）的安全性与可靠性提出了更高要求。传统的故障树分析（Fault Tree Analysis, FTA）方法存在模型与代码一致性差、验证效率低两大瓶颈。当前研究主要依赖人工构建故障树并进行代码级验证，导致逻辑冗余严重且覆盖不充分。为解决逻辑冗余与关键路径遗漏问题，本文提出一种基于程序分析与符号执行的自动化故障树生成框架，实现代码级关键路径的自动提取以及故障逻辑的精准映射。具体而言，该方法通过在低级虚拟机（LLVM）中间表示上进行反向程序切片，实现变量级别的全面依赖追踪；利用改进的基于SMT求解器的符号执行技术，有效处理多路径事件；并通过Quine-McCluskey算法优化最小割集的生成过程。实验结果表明，所提方法能够高效地从源代码自动构建故障树，与传统FTA从设计模型生成的结果保持高度一致性，同时发现更多关键故障路径，显著降低人工工作量。"
+  }
+]
