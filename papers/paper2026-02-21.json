@@ -1,0 +1,227 @@
+[
+  {
+    "date": "2026-2-21",
+    "title": "Table of Contents",
+    "authors": "N/A",
+    "publish": "IEEE BITS the Information Theory Magazine",
+    "url": "https://doi.org/10.1109/mbits.2026.3659371",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-21",
+    "title": "IEEE Collabratec",
+    "authors": "N/A",
+    "publish": "IEEE BITS the Information Theory Magazine",
+    "url": "https://doi.org/10.1109/mbits.2026.3661427",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Radiation Total Dose for PRIMA: Cold Exposure with Alpha Particles",
+    "authors": "Elijah Kane, Chris Albert, Andrew Beyer, Charles Bradford, Pierre Echternach, Logan Foote, Jason Glenn, Henry LeDuc, Hien Nguyen, Thomas Stevenson, Brian Zhu, Jonas Zmuidzinas",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3666788",
+    "source": "IEEE",
+    "abstract": "The Probe far-Infrared Mission for Astrophysics (PRIMA) is a far-infrared (24– 261 μm wavelengths) probe class space observatory currently under Phase A study, which promises orders-of-magnitude improvement in mapping speed over its predecessors. PRIMA will field exquisitely sensitive (NEP < 0.1 aWHz−1/2) kilopixel arrays of kinetic inductance detectors (KIDs) for the Far-Infrared Enhanced Survey Spectrometer (FIRESS) instrument. PRIMA will orbit in space at the Sun Earth L2 point, where Planck found the energetic particle flux to be about 300/min/cm2 [1]. Thus, the possible effect of a high fluence of energetic particles on the detector sensitivity must be characterized. Previous work has suggested that bombardment of KIDs by ions can reduce the quasiparticle lifetime (Barends et. al. 2009 [2]), but the conditions of the experiment were not representative of a detector which is continuously held at sub-Kelvin temperatures in the energetic particle environment of L2 orbit. To better replicate the damage which would be produced by energetic particles in this environment, we developed a fully cryogenic irradiation experiment in which a stepper motor controls a screen which can block or reveal an alpha particle emitter. This setup can be used to irradiate aluminum KID arrays fabricated for FIRESS to well-controlled dose levels. In this work, we calculate the damage dose expected for a 5-year mission in L2 orbit, and we irradiate an array to approximately 62% of this level. Before and after irradiation, we measure the quasiparticle lifetimes, resonant frequencies, and quality factors of the detectors."
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Spatio-Temporal Missing Data Imputation: A Systematic Literature Review with a Focus on Statistical and Machine Learning-Based Approaches",
+    "authors": "Samira Zahmatkesh, Philipp Zech",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3797903",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Measurement and Analysis of Induced Voltage in a Rotating Coordinate System of a 1 kW-class High Temperature Superconducting Squirrel-Cage Rotor Winding",
+    "authors": "C. N. D'Azevedo, T. Nakamura",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3666465",
+    "source": "IEEE",
+    "abstract": "This work presents a simple and direct measurement method for rotor bar voltages in the rotating coordinate system of a high temperature superconducting induction/synchronous motor (HTS-ISM). The arrangement consists of soldering copper wires to the opposing ends of the rotor bars and routing them through a spinning reel to avoid entanglement, thereby providing a continuous electrical connection between the rotating quantities of the rotor and the stationary measurement instruments. Experiments with both ramped and stepped stator voltage inputs under no-load conditions revealed markedly different dynamic behaviors, including rapid acceleration, hunting torque, and current distortion. A recurring component at ≈1.05 Hz was consistently identified on the rotor bar voltages across independent tests, including at different input frequencies, suggesting the presence of an intrinsic oscillation under low excitation. The proposed measurement approach provides new experimental access to the flux-flow and synchronous regimes of HTS machines and establishes a foundation for future studies under load and with varied rotor designs."
+  },
+  {
+    "date": "2026-2-21",
+    "title": "SWEEP: Gathering Hot Read/Write Data Together to Minimize Read Reclaims in SSDs",
+    "authors": "Xinyu Guo, Jiaojiao Wu, Shiyu Zhong, Jiaxu Wu, Li Cai, Zhigang Cai, Jianwei Liao",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3795519",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "TinyML Security: Attacks, Defenses, and Open Challenges in Resource-Constrained Machine Learning Systems",
+    "authors": "Jacob Huckelberry, Yuke Zhang, Allison Sansone, James Mickens, Peter Bereel, Vijay Janapa Reddi",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3793197",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Volunteer - Information Theory Society",
+    "authors": "N/A",
+    "publish": "IEEE BITS the Information Theory Magazine",
+    "url": "https://doi.org/10.1109/mbits.2026.3661347",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-21",
+    "title": "A Systematic Review on Human Roles, Solutions, and Methodological Approaches to Address Bias in AI",
+    "authors": "Amal Hashky, Eric Ragan",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3793667",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers",
+    "authors": "Jacob Spainhour, Kenneth Weiss",
+    "publish": "ACM Transactions on Graphics",
+    "url": "https://doi.org/10.1145/3797957",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Call for ISIT &amp; ITW Proposals",
+    "authors": "N/A",
+    "publish": "IEEE BITS the Information Theory Magazine",
+    "url": "https://doi.org/10.1109/mbits.2026.3661346",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-21",
+    "title": "2026 IEEE Information Theory Workshop",
+    "authors": "N/A",
+    "publish": "IEEE BITS the Information Theory Magazine",
+    "url": "https://doi.org/10.1109/mbits.2026.3661355",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-21",
+    "title": "IEEE BITS the Information Theory Magazine",
+    "authors": "N/A",
+    "publish": "IEEE BITS the Information Theory Magazine",
+    "url": "https://doi.org/10.1109/mbits.2026.3659369",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Detecting Fake News in Bangla Using Linguistic and Psychological Features",
+    "authors": "Tanjim Mahmud, Md Akash Rahman, Rimon Kanthi Devnath, Mohammad Shahadat Hossain, Karl Andersson",
+    "publish": "ACM Transactions on Social Computing",
+    "url": "https://doi.org/10.1145/3798302",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "SCANNER+: Neighborhood-based self-enrichment approach for traffic speed prediction",
+    "authors": "Steve Ludovic Gounoue Guiffo, Marco Markwald, Ran Yu, Elena Demidova",
+    "publish": "ACM Transactions on Spatial Algorithms and Systems",
+    "url": "https://doi.org/10.1145/3797479",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "IEEE BITS the Information Theory Magazine Information for Authors",
+    "authors": "N/A",
+    "publish": "IEEE BITS the Information Theory Magazine",
+    "url": "https://doi.org/10.1109/mbits.2026.3659373",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Functional Fault Impact Probability Prediction using Spatio-Temporal Graph Convolutional Network",
+    "authors": "Shaoqi Wei, Senling Wang, Hiroshi Kai, Yoshinobu Higami, Ruijun Ma, Tianming Ni, Xiaoqing Wen, Hiroshi Takahashi",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3798106",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "KID Detector Readout Electronics Development for Habitable Worlds Observatory",
+    "authors": "Sean Bryan, Hugh Barnaby, Oketa Basha, C. Matt Bradford, Kathryn Chamberlin, Nicholas Cothard, Sumit Dahal, Thomas Essinger-Hileman, Alessandro Geist, Jason Glenn, Tracee Jamison-Hooks, Abarna Karthikeyan, Philip Mauskopf, Lynn Miles, Sanetra Bailey Newman, Cody Roberson, Karwan Rostem, Adrian Sinclair",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3666750",
+    "source": "IEEE",
+    "abstract": "We present the status and goals of the readout electronics system we are developing to support the detector arrays in the coronagraph instrument on the NASA Habitable Worlds Observatory (HWO) mission currently in development. HWO aims to revolutionize exoplanet exploration by performing direct imaging and spectroscopy of 25 or more habitable exoplanets, and to resolve a broad range of astrophysics science questions as well. Since exoplanet yield depends critically on the detector dark count rate, as we show in this paper, the ambitious goals of HWO require arrays of single-photon energy-resolving detectors. We argue that Kinetic Inductance Detectors (KIDs) are best suited to meet these requirements. To support the detectors required for HWO and future far-IR missions, at the required power consumption and detector count, we are developing a radiation-tolerant reconfigurable readout system for both imaging and energy-resolving single photon KID detector arrays. We leverage an existing RFSoC-based system we built for NASA balloons that has a power consumption of 30 Watts and reads out 2000-4000 detectors (i.e. 7-15 mW/pixel), and move to a radiation tolerant Kintex Ultrascale FPGA chip to bring low-power wide bandwidth readout to a space-qualified platform for the first time. This improves significantly over previous spaceflight systems, and delivers what is required for NASA's future needs:  100,000 pixels with less than 1 kW total power consumption. Overall, the system we are developing is a significant step forward in capability, and retires many key risks for the Habitable Worlds Observatory mission."
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Sub-μm Sized Josephson Junctions Based LTS SQUID Receiver for Transient Electromagnetic Surveys",
+    "authors": "Yifeng Pei, Guofeng Zhang, Longqing Qiu, Jun Wu, Jinhui Zhang, Hui Dong, Liangliang Rong",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3666492",
+    "source": "IEEE",
+    "abstract": "Superconducting Quantum Interference Device (SQUID) magnetometers combine low noise, wide bandwidth, and high tolerance to magnetic field slew rates. These characteristics significantly enhance the depth and accuracy of transient electromagnetic (TEM) surveys. In this paper, we developed a high-performance superconducting TEM receiver using low temperature superconductors (LTS) SQUID chips fabricated via sub-μm Josephson-junction integration. The design boosts sensor output amplitudes from tens of microvolts (μV) to over 200 μV. The SQUID sensors achieve a noise floor below 5 fT/√Hz, and the system tolerates magnetic field slew rates exceeding 5 mT/s. Side-by-side field tests comparing the system against a commercial Phoenix V8 multipurpose network electrical instrument equipped with an MTEM-AL induction coil showed approximately 30-fold improvement in effective late-time resolution. Additional validation surveys were conducted at two sites in China: a gold deposit concealed beneath conductive overburden in Anhui Province, and a deep copper deposit in Heilongjiang Province. The TEM results from both sites correlated well with borehole logs, demonstrating that SQUID-based TEM receiver can effectively explore targets beneath conductive cover and/or at greater depths."
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Front Cover",
+    "authors": "N/A",
+    "publish": "IEEE BITS the Information Theory Magazine",
+    "url": "https://doi.org/10.1109/mbits.2026.3659367",
+    "source": "IEEE",
+    "abstract": null
+  },
+  {
+    "date": "2026-2-21",
+    "title": "10 kW cryogenic dc/dc converter for superconducting propulsion applications",
+    "authors": "Abdelrahman Elwakeel, Yuchuan Liao, Zihao Zao, Rafael Peña Alzola, Yudi Liao, Min Zhang, Weijia Yuan",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3666493",
+    "source": "IEEE",
+    "abstract": "Superconducting propulsion applications such as MAGLEV and electric aircraft rely on cryogenic cooling to reduce the losses and to enable their high-power density operation. However, if conventional power electronics is used into these systems, Bridging the thermal gradient from room temperature (300 K) to cryogenic temperatures requires sophisticated packaging and integration, introducing substantial design challenges. This article presents a cryogenic 270 V dc/dc converter specifically designed for powering the dc rails of superconducting motors, cables, and energy storage systems for cryogenic propulsion architectures. The article studies the use of Gallium Nitride (GaN) and Silicone Carbide (SiC) devices as a converter for cryogenic application, although GaN are known to have lower losses and faster switching at such low temperatures, this in turn would enable lighter more efficient electric transportation systems, SiC on the other hand, tend to have higher switching losses at cryogenic temperatures than GaN but tend to have readily available commercial of the shelf devices (COTs) at higher voltages and different packages. The article presents experimental and simulation results for both converter at room and cryogenic temperatures and how they would be integrated in a superconducting propulsion system."
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Flywheel Type Uninterruptible Power Supply Using High Temperature Superconducting Induction Machine and Its Self-Excitation Effect",
+    "authors": "Osami Tsukamoto, Kazuhito Yamagishi, Yasutaka Fujimoto, Yusuke Tkahashi",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3666498",
+    "source": "IEEE",
+    "abstract": "We investigated the feasibility of a flywheel type uninterruptible power supply (FW-UPS) that uses an high temperature super conducting (HTS) induction machine (SIM). An FW-UPS using a SIM can maintain the voltage of a load during a failure of power line by self-excitation effect due to trapped magnetic fluxes in the HTS rotor windings of the SIM. This allows it to function as a UPS without the needs for expensive semiconductor power and synchronizing devices. Using a small-scale test model of a SIM, we conducted an experiment to investigate the self-excitation effect. We also studied the characteristics of a 3 MW SIM FW-UPS using the self-excitation effect for industrial use by a numerical simulation analysis. The results show that an industrial-scale FW-UPS using a SIM is feasible."
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Incorporating Procedural Fairness in Flag Submissions on Social Media Platforms",
+    "authors": "Yunhee Shim, Shagun Jhaver",
+    "publish": "ACM Transactions on Social Computing",
+    "url": "https://doi.org/10.1145/3797820",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Electromagnetic Design of kW-Class HTS Rotating Machines for Carbon-Neutral Ports",
+    "authors": "K. Tsuzuki, M. Izumi, T. Ida, D. Oikawa",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3666496",
+    "source": "IEEE",
+    "abstract": "This paper presents the electromagnetic design and finite-element analysis of a kilowatt-class high-temperature superconducting field-switched rim-drive (HTS-FSR) rotating machine for carbon-neutral port applications. The proposed motor adopts a compact shaftless rim-drive topology with field wound HTS coils and is designed for direct liquid hydrogen (LH₂) cooling at a conceptual level to enable integration with hydrogen energy infrastructures. Three-dimensional finite element simulations are carried out to evaluate the magnetic flux distribution, torque characteristics, and associated electromagnetic loss tendencies under cryogenic (20 K) conditions. A performance comparison is made between a conventional 8 kW contra-rotating rim-drive thruster and the proposed design. HTS-FSR achieves a torque density of 27.0 kN·m/m³, which is approximately 1.5 times higher than that of the reference machine. These results demonstrate improved electromagnetic performance and indicate the scalability potential of the HTS-FSR configuration for compact rim-drive propulsion applications."
+  },
+  {
+    "date": "2026-2-21",
+    "title": "Prompting Frameworks for Large Language Models: A Survey",
+    "authors": "Xiaoxia Liu, Jingyi Wang, Xiaohan Yuan, Jun Sun, Guoliang Dong, Peng Di, Wenhai Wang, Dongxia Wang",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3789253",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

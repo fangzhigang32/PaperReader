@@ -1,0 +1,60 @@
+[2026-02-22 09:18:09] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-02-21
+正在获取论文...
+[IEEE] 2026-2-21 | Table of Contents
+[IEEE] 2026-2-21 | IEEE Collabratec
+[IEEE] 2026-2-21 | Radiation Total Dose for PRIMA: Cold Exposure with Alpha Particles
+[ACM] 2026-2-21 | Spatio-Temporal Missing Data Imputation: A Systematic Literature Review with a Focus on Statistical and Machine Learning-Based Approaches
+[IEEE] 2026-2-21 | Measurement and Analysis of Induced Voltage in a Rotating Coordinate System of a 1 kW-class High Temperature Superconducting Squirrel-Cage Rotor Winding
+[ACM] 2026-2-21 | SWEEP: Gathering Hot Read/Write Data Together to Minimize Read Reclaims in SSDs
+[ACM] 2026-2-21 | TinyML Security: Attacks, Defenses, and Open Challenges in Resource-Constrained Machine Learning Systems
+[IEEE] 2026-2-21 | Volunteer - Information Theory Society
+[ACM] 2026-2-21 | A Systematic Review on Human Roles, Solutions, and Methodological Approaches to Address Bias in AI
+[ACM] 2026-2-21 | Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers
+[IEEE] 2026-2-21 | Call for ISIT &amp; ITW Proposals
+[IEEE] 2026-2-21 | 2026 IEEE Information Theory Workshop
+[IEEE] 2026-2-21 | IEEE BITS the Information Theory Magazine
+[ACM] 2026-2-21 | Detecting Fake News in Bangla Using Linguistic and Psychological Features
+[ACM] 2026-2-21 | SCANNER+: Neighborhood-based self-enrichment approach for traffic speed prediction
+[IEEE] 2026-2-21 | IEEE BITS the Information Theory Magazine Information for Authors
+[ACM] 2026-2-21 | Functional Fault Impact Probability Prediction using Spatio-Temporal Graph Convolutional Network
+[IEEE] 2026-2-21 | KID Detector Readout Electronics Development for Habitable Worlds Observatory
+[IEEE] 2026-2-21 | Sub-μm Sized Josephson Junctions Based LTS SQUID Receiver for Transient Electromagnetic Surveys
+[IEEE] 2026-2-21 | Front Cover
+[IEEE] 2026-2-21 | 10 kW cryogenic dc/dc converter for superconducting propulsion applications
+[IEEE] 2026-2-21 | Flywheel Type Uninterruptible Power Supply Using High Temperature Superconducting Induction Machine and Its Self-Excitation Effect
+[ACM] 2026-2-21 | Incorporating Procedural Fairness in Flag Submissions on Social Media Platforms
+[IEEE] 2026-2-21 | Electromagnetic Design of kW-Class HTS Rotating Machines for Carbon-Neutral Ports
+[ACM] 2026-2-21 | Prompting Frameworks for Large Language Models: A Survey
+共写入 25 条记录，保存到 papers/paper2026-02-21.json。
+论文获取成功，文件路径: papers/paper2026-02-21.json
+正在筛选、翻译并发送邮件...
+[NO] 1/25 | Table of Contents
+[NO] 2/25 | IEEE Collabratec
+[NO] 3/25 | Radiation Total Dose for PRIMA: Cold Exposure with Alpha Particles
+[NO] 4/25 | Spatio-Temporal Missing Data Imputation: A Systematic Literature Review with a Focus on Statistical and Machine Learning-Based Approaches
+[NO] 5/25 | Measurement and Analysis of Induced Voltage in a Rotating Coordinate System of a 1 kW-class High Temperature Superconducting Squirrel-Cage Rotor Winding
+[NO] 6/25 | SWEEP: Gathering Hot Read/Write Data Together to Minimize Read Reclaims in SSDs
+[NO] 7/25 | TinyML Security: Attacks, Defenses, and Open Challenges in Resource-Constrained Machine Learning Systems
+[NO] 8/25 | Volunteer - Information Theory Society
+[NO] 9/25 | A Systematic Review on Human Roles, Solutions, and Methodological Approaches to Address Bias in AI
+[NO] 10/25 | Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers
+[NO] 11/25 | Call for ISIT &amp; ITW Proposals
+[NO] 12/25 | 2026 IEEE Information Theory Workshop
+[NO] 13/25 | IEEE BITS the Information Theory Magazine
+[NO] 14/25 | Detecting Fake News in Bangla Using Linguistic and Psychological Features
+[NO] 15/25 | SCANNER+: Neighborhood-based self-enrichment approach for traffic speed prediction
+[NO] 16/25 | IEEE BITS the Information Theory Magazine Information for Authors
+[NO] 17/25 | Functional Fault Impact Probability Prediction using Spatio-Temporal Graph Convolutional Network
+[NO] 18/25 | KID Detector Readout Electronics Development for Habitable Worlds Observatory
+[NO] 19/25 | Sub-μm Sized Josephson Junctions Based LTS SQUID Receiver for Transient Electromagnetic Surveys
+[NO] 20/25 | Front Cover
+[NO] 21/25 | 10 kW cryogenic dc/dc converter for superconducting propulsion applications
+[NO] 22/25 | Flywheel Type Uninterruptible Power Supply Using High Temperature Superconducting Induction Machine and Its Self-Excitation Effect
+[NO] 23/25 | Incorporating Procedural Fairness in Flag Submissions on Social Media Platforms
+[NO] 24/25 | Electromagnetic Design of kW-Class HTS Rotating Machines for Carbon-Neutral Ports
+[YES] 25/25 | Prompting Frameworks for Large Language Models: A Survey
+筛选完成：共 25 篇；Yes = 1 篇；已保存到 papers/select_paper2026-02-21.json。
+邮件发送成功！
+[2026-02-22 09:20:44] 任务执行成功！
