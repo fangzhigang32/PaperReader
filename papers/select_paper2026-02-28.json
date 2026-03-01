@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-2-28",
+    "title": "High-Efficiency Bidirectional Translator between SystemC and Verilog",
+    "authors": "Xin Zheng, Yongfeng Zhong, Chenyu Huang, Shaofen Zeng, Huaien Gao, Shuting Cai, Xiaoming Xiong",
+    "publish": "ACM Journal on Emerging Technologies in Computing Systems",
+    "url": "https://doi.org/10.1145/3798042",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "高效双向转换器：SystemC 与 Verilog 之间互转",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Do LLMs Understand Collaborative Signals? Diagnosis and Repair",
+    "authors": "Shahrooz Pouryousef, Ali Montazeralghaem",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787876",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大语言模型是否理解协作信号？诊断与修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "A Formal Lens on Android Permissions System: Modeling, Verification, and Exploitation Using LLMs and Model Checking",
+    "authors": "Amirhosein Sayyadabdi, Behrouz Tork Ladani, Bahman Zamani",
+    "publish": "ACM Transactions on Privacy and Security",
+    "url": "https://doi.org/10.1145/3799897",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于形式化视角的Android权限系统：利用大语言模型与模型检测进行建模、验证与攻击分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "What Were You Thinking? An LLM-Driven Large-Scale Study of Refactoring Motivations in Open-Source Projects",
+    "authors": "Mikel Robredo, Matteo Esposito, Fabio Palomba, Rafael Peñaloza, Valentina Lenarduzzi",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3799717",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "你当时在想什么？一项由大语言模型驱动的开源项目重构动机大规模研究",
+    "abstract_zh": "None"
+  }
+]

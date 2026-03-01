@@ -1,0 +1,1046 @@
+[
+  {
+    "date": "2026-2-28",
+    "title": "Designing a Question-Asking AI to Cultivate Epistemic Curiosity in Information Seeking",
+    "authors": "Yujin Choi",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787934",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "\"I don't know anything about laptops!\" – User Perception of Digital Product Advisors Adapting to Their Knowledge Levels",
+    "authors": "Kevin Schott, Andrea Papenmeier, Daniel Hienert, Dagmar Kern",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "The Bayesian Storyteller: An Interactive System for Human-AI Collaborative Pitch Book Narrative Generation",
+    "authors": "Zichao Li",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788844",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "From SERPs to Agents: A Platform for Comparative Studies of Information Interaction",
+    "authors": "Saber Zerhoudi, Michael Granitzer",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787948",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Information Overload in Information Seeking with Conversational Agents: A Survey and Design Considerations",
+    "authors": "Paul Compensis",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787886",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "High-Efficiency Bidirectional Translator between SystemC and Verilog",
+    "authors": "Xin Zheng, Yongfeng Zhong, Chenyu Huang, Shaofen Zeng, Huaien Gao, Shuting Cai, Xiaoming Xiong",
+    "publish": "ACM Journal on Emerging Technologies in Computing Systems",
+    "url": "https://doi.org/10.1145/3798042",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Quantification of dissimilarity between valued directed networks",
+    "authors": "Fabio Ashtar Telarico",
+    "publish": "ACM Transactions on Social Computing",
+    "url": "https://doi.org/10.1145/3800556",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Rethinking Human-AI Collaboration in Information Seeking: Why Epistemic Incompatibility Demands New Design Paradigms",
+    "authors": "Chirag Shah",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787946",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "The Influence of the Communication Medium on Data Storytelling",
+    "authors": "Tamara Nagel, Toine Bogers",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787869",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Supporting Humans in Evaluating AI Summaries of Legal Depositions",
+    "authors": "Naghmeh Farzi, Laura Dietz, David D. Lewis",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787923",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "ImmiGo - An Adaptive Multilingual Chatbot for Immigration Assistance",
+    "authors": "Stephen Toriola, Anirban Chakraborty, Ingo Frommholz",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787919",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Exploring Art through Internet Aesthetics",
+    "authors": "Sophia Rangelova, Bruno Nadalic Sotic, Jaap Kamps",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787922",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Implicit Humanization in Everyday LLM Moral Judgments",
+    "authors": "Hoda Ayad, Tanu Mitra",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787880",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Improving Data Reusability in Interactive IR: Insights from the Community",
+    "authors": "Tianji Jiang, Wenqi Li, Jiqun Liu",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787885",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Seek and You Shall Find: Design &amp; Evaluation of a Context-Aware Interactive Search Companion",
+    "authors": "Markus Bink, Marten Risius, Udo Kruschwitz, David Elsweiler",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787914",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Privacy Discourse and Emotional Dynamics in Mental Health Information Interaction on Reddit",
+    "authors": "Jai Kruthunz Naveen Kumar, Aishwarya Umeshkumar Surani, Harkirat Singh, Sanchari Das",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787875",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Confirmation, Framing, and Position Biases in LLM Responses",
+    "authors": "Liana Ermakova, Anton Firsov, Jaap Kamps",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787879",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "The impact of generative AI search result design on user perceptions and information adoption",
+    "authors": "Alice Li",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787937",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "The Effects of Thinking Aloud on Participants during Search and Sensemaking",
+    "authors": "Bogeum Choi, Jaime Arguello",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787883",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Simulation of Interactive Information Retrieval: A Guided Tour",
+    "authors": "Saber Zerhoudi, Adam Roegiest, Johanne R. Trippas",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787892",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Motion Intention Decoding and Training Effect Evaluation in Robot-assisted Upper Limb Rehabilitation based on MR-BCI",
+    "authors": "Xiaodong Liu, Dongxian Ye, Peng Chen, Yutong Fu, Xiangyun Li, Kang Li",
+    "publish": "ACM Transactions on Applied Perception",
+    "url": "https://doi.org/10.1145/3799698",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Hyperspectral Pansharpening using 3D VolumeNet and 2.5D Texture Transfer",
+    "authors": "Yinhao Li, Yen-Wei Chen",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785445",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Designing for Complex Information Needs: A Case Study in Special Education Health Services and Future Information Retrieval Systems",
+    "authors": "Amir Reza Asadi, Jess Kropczynski, Jennifer Johnson, Corey O'Connor, Wesley Reed, Hazem Said",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788840",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Rare but Respected: Sustainable Intent in Online Product Search",
+    "authors": "Florian Meier, David Elsweiler",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787877",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Length Effects in Conversation-Style Sustainability Information for Ethical Consumption: An Eye-tracking Study",
+    "authors": "Letizia Sangoi, Frans van der Sluis",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787884",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Beyond the Query: A Survey Design for Eliciting Underlying Motivations in Web Search",
+    "authors": "Elsa Lichtenegger, Aleksandra Urman, Aniko Hannak",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787889",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Complementary and Alternative Medicine (CAM) Information Seeking Behavior for Menopause Amongst Migrant Women",
+    "authors": "Shenell Silva",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787941",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Workshop on Generative AI and Academic Search (GAI&amp;AS)",
+    "authors": "Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787953",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction",
+    "authors": "Yunxiao Shi, Wujiang Xu, Haimin Zhang, Qiang Wu, Min Xu",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3799425",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Dynamic De-Redundancy and Modality-Guided Feature De-Noisy for Multimodal Recommendation",
+    "authors": "Feng Mo, Lin Xiao, Qiya Song, Xieping Gao, Eryao Liang",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3797878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "In-Browser Agents for Search Assistance",
+    "authors": "Saber Zerhoudi, Michael Granitzer",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787913",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "SearchPath: A Visual Reminder of Past Search Activity to Support Students with Dyslexia when Undertaking Exploratory Searches",
+    "authors": "Anita Seihoon, Lynne Beveridge, Orland Hoeber",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787926",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Understanding the Effects of Conversational Agent Personality on the Credibility of LLM-Based Conversational Search",
+    "authors": "Hyeonjeong Byeon, Uran Oh, Gary Hsieh",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788843",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Multi Omics Data Integration and Clustering for Disease Subtype Discovery Using SNF and NEMO Algorithms",
+    "authors": "Guru Lakshmi Priyanka Bodagala",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785459",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Enhancing Low-Resource Joint Entity and Relation Extraction Using Large Language Models within Semi-Supervised Learning",
+    "authors": "Xiaoqi Wang, Hang Shen, Honglei Qi, Yuanfei Dai",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3799423",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Label-Free 3D Virtual Staining of Urine Cytology Using Holotomography and GAN-Based Deep Learning",
+    "authors": "Tal Lifshitz, Su-Jin Shin, Juyeon Park, Kwang Suk Lee, YongKeun Park",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785444",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Comparison of YOLOv5 and YOLOv8 in Mycobacterium Tuberculosis Detection",
+    "authors": "Heny Yuniarti, Chastine Fatichah, Riyanto Sigit",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785451",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "From Principles to Practice: A Design Framework for Patient-Centered Conversational AI in Digital Medicine",
+    "authors": "Zhiqi Lin, Hanhui Li",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785460",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Witness Generation for Classical JSON Schema",
+    "authors": "Lyes Attouche, Mohamed-Amine Baazizi, Dario Colazzo, Giorgio Ghelli, Carlo Sartiani, Stefanii Scherzinger",
+    "publish": "ACM Transactions on Database Systems",
+    "url": "https://doi.org/10.1145/3799416",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "A Multi-Year Survey of Use and Perceptions of Generative AI in Higher Education",
+    "authors": "Anita Crescenzi, Bogeum Choi, Pao-Pei Huang, Emma Gautier, Riley Little, Siddhida Pandya",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787867",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Retrieval-Augmented Search for Large-Scale Map Collections with ColPali",
+    "authors": "Jamie Mahowald, Benjamin Charles Germain Lee",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787920",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Navigating an Evolving Landscape: Exploring Researchers' Interactions with AI-Enhanced Academic Search Systems",
+    "authors": "Yifan Liu",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787940",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Tip-of-the-Tongue Search in the Wild: Analyzing Human and LLM Performance and Success Factors on Complex Search Requests",
+    "authors": "Toine Bogers, Maria Gäde, Mark Hall, Marijn Koolen, Vivien Petras, Mette Skov",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787864",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Interest-Driven Search in AI-Mediated Information Environments: An Audio Diary Study",
+    "authors": "Yujin Choi, Soo Young Rieh",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787881",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Electromagnetic Diagnosis of First Stage Breast Cancer",
+    "authors": "Mazen Desouky, Mohamed Hassanin, Ismaeel Awad, Aya Hakiki, Pierre Louka",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785449",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Chinese Implicit Offensive Speech Detection Based on Knowledge Graph and Fuzzy Semantic",
+    "authors": "Hang Liu, Tengda Guo, Chengping Zheng, Lianxin Lin, Zhijian Tu, Haizhou Wang, Lei Zhang",
+    "publish": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "url": "https://doi.org/10.1145/3799418",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Can Instructed Retrieval Models Really Support Exploration?",
+    "authors": "Piyush Maheshwari, Sheshera Mysore, Hamed Zamani",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787888",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "A Questionnaire for Capturing Perceptions of Self-Regulated Learning Processes during Information Seeking",
+    "authors": "Kelsey Urgo, Jaime Arguello, Robert Capra",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787890",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Don't Break the Flow: Supporting Deferral and Review of Potentially Serendipitous Information in Library Search",
+    "authors": "Orland Hoeber, Abbas Pirmoradi, Ei Ei Mon, Stephann Makri",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788846",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Bridging Classification and Localization in X-Ray Fracture Diagnosis via Weakly-Supervised Vision Transformers",
+    "authors": "Abdulrahman Al-Shanoon, Edward Sykes",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785461",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Classifying More Rectangle Regions of Bacteria in Gram Stained Smears Images",
+    "authors": "Hiromu Kuroishi, Kouichi Hirata",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785456",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Bias or Balance? Analyzing Stance in Google and Bing Results for the 2024 EU Parliament Election",
+    "authors": "Sebastian Schultheiß, Katja Niemann, Dirk Lewandowski",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788849",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "AskAda: An AI-Anchored Conversational Agent for Scholarly Information Seeking in Educational Contexts to Improve Learning",
+    "authors": "Ruochen Zhao, Nibras Ar Rakib, Qianru Shi, Sangeun Han, Javed Mostafa",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787915",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Autonomy in Older Adults' Information Seeking with Information Agents",
+    "authors": "Jiaxin An",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787939",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Do LLMs Understand Collaborative Signals? Diagnosis and Repair",
+    "authors": "Shahrooz Pouryousef, Ali Montazeralghaem",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787876",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786304",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Object Detection for “Clinical Bacterial Dataset”",
+    "authors": "Yoshitomo Inoki, Kouichi Hirata",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785454",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "A Formal Lens on Android Permissions System: Modeling, Verification, and Exploitation Using LLMs and Model Checking",
+    "authors": "Amirhosein Sayyadabdi, Behrouz Tork Ladani, Bahman Zamani",
+    "publish": "ACM Transactions on Privacy and Security",
+    "url": "https://doi.org/10.1145/3799897",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Does It Still Make Sense? Organizing and Summarizing Resources in Cross-Session Aggregated Search",
+    "authors": "Milad Momeni, Orland Hoeber",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Information Farming",
+    "authors": "Leif Azzopardi, Adam Roegiest",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787947",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Bayesian Inference Reuse in Multilevel Models",
+    "authors": "David Tolpin",
+    "publish": "ACM Transactions on Probabilistic Machine Learning",
+    "url": "https://doi.org/10.1145/3799415",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Detecting Bacteria from Gram Stained Smears Images by SODIC-YOLO, YOLO-TLA and Mamba YOLO",
+    "authors": "Hiroto Tabakotani, Hikaru Kobata, Tsubasa Tanaka, Kouichi Hirata",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785452",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "CollabSearch: A Study of User-LLM Collaboration in Task-Based Search",
+    "authors": "Gloris Denisse Cedeño Batista, Joemon Jose, Hideo Joho",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788848",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "From SERPs to Sound: How Search Engine Result Pages and AI-generated Podcasts Interact to Influence User Attitudes on Controversial Topics",
+    "authors": "Junjie Wang, Gaole He, Alisa Rieger, Ujwal Gadiraju",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787942",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "An Exploration of Conversation Enhanced Browsing with Hypergraph of Text",
+    "authors": "Dean Edward Alvarez",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787935",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Characterizing Personality from Eye-Tracking: The Role of Gaze and Its Absence in Interactive Search Environments",
+    "authors": "Jiaman He, Marta Micheli, Damiano Spina, Dana McKay, Johanne R. Trippas, Noriko Kando",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788842",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "What Were You Thinking? An LLM-Driven Large-Scale Study of Refactoring Motivations in Open-Source Projects",
+    "authors": "Mikel Robredo, Matteo Esposito, Fabio Palomba, Rafael Peñaloza, Valentina Lenarduzzi",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3799717",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Measuring the credibility of generative AI-produced information: An exploratory factor analysis",
+    "authors": "Anita Crescenzi, Bogeum Choi, Pao-Pei Huang, Siddhida Pandya, Emma Gautier, Riley Little",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787882",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "CHARISMA: Character-Based Interaction Simulation with Multi-LLM Agents Toward Computational Social Psychology",
+    "authors": "Vahid Sadiri Javadi, Fryderyk Róg, Aksa Aksa, Johanne Trippas, Svitlana Vakulenko, Lucie Flek",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787921",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Workshop on Human-Centered Proactive and Personalized Agents for Interactive Information Access",
+    "authors": "Kirandeep Kaur, Vinayak Gupta, Madhura Raju, Tanya Roosta, Grace Hui Yang, Chirag Shah",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787954",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Measuring What Matters: Aligning System-Level RAG Metrics with User Trust in a High-Stakes Compliance Domain",
+    "authors": "Paul Momoh, Julius Odede",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787918",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Building Conversational Information Sources as Human-Centered Digital Persona Twins for Probation Officer Training",
+    "authors": "Amir Reza Asadi",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787936",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Cooking Up Politeness in Human–AI Information Seeking Dialogue",
+    "authors": "David Elsweiler, Christine Elsweiler, Anna Ziegner",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787870",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Effects of Working Memory Capacity and Search Task Complexity on Cognitive Load",
+    "authors": "Gavindya Jayawardena, Li Shi, Jacek Gwizdka",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787871",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "MPGNet: Multi-Prompt Guided Diffusion Network for All-In-One Image Restoration",
+    "authors": "Yuehua Li, Songwei Pei, Shangguang Wang",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3794842",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "A Critical Reflection on the State of Data Analysis in Empirical Software Engineering",
+    "authors": "Matteo Esposito, Mikel Robredo, Murali Sridharan, Guilherme Horta Travassos, Rafael Peñaloza, Valentina Lenarduzzi",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3799715",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "From Raw Waveforms to on-device Earthquake Detection: Real-Time Seismic Data Analysis for MCUs",
+    "authors": "Tayyaba Zainab, Patrick Rathje, Laura Harms, Lukas Schattenhofer, Jens Karstens, Olaf Landsiedel",
+    "publish": "ACM Transactions on Internet of Things",
+    "url": "https://doi.org/10.1145/3799716",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Humility Is Not Optional: When Teaching Shades Into Pastoral Care",
+    "authors": "Péter Makai",
+    "publish": "Games: Research and Practice",
+    "url": "https://doi.org/10.1145/3799900",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Does Cognitive Load Affect Human Accuracy in Detecting Voice-Based Deepfakes?",
+    "authors": "Marcel Gohsen, Nicola Libera, Johannes Kiesel, Jan Ehlers, Benno Stein",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Expanded Tag Genomes for Cross-Domain Recommendation",
+    "authors": "Denis Kotkov, Alan Medlar, Dorota Glowacka, Martin Halvey",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787950",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Technology Use in Community Work: Operational Realities and Implications for Smart Cities",
+    "authors": "Sunyoung Kim, Phaneendra Shivangula, Ge Gao",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788845",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Linear Formal Verification of Sequential Circuits using Weighted-AIGs",
+    "authors": "Mohamed Nadeem, Chandan Kumar Jha, Rolf Drechsler",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3799714",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Hierarchies of Minion Tests for PCSPs through Tensors",
+    "authors": "Lorenzo Ciardo, Stanislav Živný",
+    "publish": "ACM Transactions on Algorithms",
+    "url": "https://doi.org/10.1145/3799414",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "A Method for Improving the Accuracy of Biomagnetic Signal Inversion under Limited Field of View",
+    "authors": "Jianmei Guo, Zhaohui Zhang, Tianyao Zhang",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785457",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Not All Transparency Is Equal: Source Presentation Effects on Attention, Interaction, and Persuasion in Conversational Search",
+    "authors": "Jiangen He, Jiqun Liu",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787874",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "The effects of goal-setting on learning during information seeking with generative AI",
+    "authors": "Kelsey Urgo, Yuan Li, Jaime Arguello, Robert Capra",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788847",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "VoxVista: Enhancing Screen Reading Experience for Online User Comments",
+    "authors": "Yash Prakash, Akshay Kolgar Nayak, Mohammed Shoaib Alyaan, Sampath Jayarathna, Hae-Na Lee, Vikas Ashok",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788850",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Cleo: A Transparent and Controllable Chatbot for Conversational Commerce",
+    "authors": "Kevin Schott, Jan Lattenkamp, Daniel Hienert, Dagmar Kern",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787917",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "From Tool to Teacher: Rethinking Search Systems as Instructive Interfaces",
+    "authors": "David Elsweiler",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787945",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "An Execution Controller Enabling Autonomic Features in the Cloud-Native Environment",
+    "authors": "Joanna Kosińska, Kinga Sąkól, Michał Szczurek",
+    "publish": "ACM Transactions on Internet Technology",
+    "url": "https://doi.org/10.1145/3799702",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation",
+    "authors": "Julian Schumann, Jeroen Hagenus, Frederik Mathiesen, Arkady Zgonnikov",
+    "publish": "ACM Journal on Autonomous Transportation Systems",
+    "url": "https://doi.org/10.1145/3799894",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Integration of CT Imaging and CFD-DEM for Predictive Modelling of Bio-Particle Dynamics in a Stenosed Coronary Artery",
+    "authors": "Mongkol Kaewbumrung, Chalermpol Plengsa-Ard, Wasan Palasai",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785458",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Fair and Direct Exchange of Non-Fungible Tokens: The ExNFT Approach",
+    "authors": "Rosa Pericàs Gornals, M. Magdalena Payeras Capellà, Victor Garcia Font, Macià Mut Puigserver, Carlos Núñez-Gómez",
+    "publish": "ACM Transactions on Internet Technology",
+    "url": "https://doi.org/10.1145/3799703",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "\"Although Powerful, it's not Infallible\": Investigating Academic Researchers' Verification Challenges with LLMs",
+    "authors": "Monica Visani Scozzi, Stephann Makri, Pranava Madhyastha",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787865",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Reproducibility Report for ACM SIGMOD 2025 Paper: 'LpBound: Pessimistic Cardinality Estimation Using ?\n                    <sub>p</sub>\n                    -Norms of Degree Sequences'",
+    "authors": "Rico Bergmann, Suyang Zhong, Haozhe Zhang, Christoph Mayer",
+    "publish": "Reproducibility Reports of the 2025 International Conference on Management of Data",
+    "url": "https://doi.org/10.1145/3785021.3787997",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Modelling and Visualizing Flows of Objects from Museums",
+    "authors": "George A. Wright, Andrea Ballatore, Alexandra Poulovassilis, Peter T. Wood",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3798044",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "A Contactless and non-invasive Analysis of Meibomian Gland Cyst Eye Disease Using Hyperspectral Imaging Camera",
+    "authors": "Wessam Shehieb, Maher Assaad, Ayman Tawfik, Nor Ashidi Mat Isa, Soufy Mohamed, Zanib Zulfiqar",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785446",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3785443",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Building a Test Collection for Social Science Dataset Retrieval",
+    "authors": "Ji Eun Kim, Sara Lafia, Libby Hemphill",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787949",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Result Assessment Tool (RAT): An Open-Source Toolkit for Conducting Studies based on Search Results",
+    "authors": "Sebastian Sünkler, Kardelen Bilir, Tuhina Kumar, Oliver Koop, Sebastian Schultheiß, Dirk Lewandowski",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787925",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "\"Can You Tell Me?\": Designing Copilots to Support Human Judgement in Online Information Seeking",
+    "authors": "Markus Bink, Marten Risius, David Elsweiler, Udo Kruschwitz",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787866",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Interactive Taxonomy Development with Hybrid Methods",
+    "authors": "Jiaming Qu, Madhu Gopinathan, Shayan Ali Akbar, Omar Alonso",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787912",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Enhancing Multimodal Brain Tumor Segmentation using Class-Balanced 3D Attention U-Net and Dropout in MRI images",
+    "authors": "Aulia Salsabila, Dyah Aruming Tyas",
+    "publish": "Proceedings of the 2025 8th International Conference on Digital Medicine and Image Processing",
+    "url": "https://doi.org/10.1145/3785443.3785447",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Designing and Evaluating Generative AI Search Tools for Human Cognitive Augmentation",
+    "authors": "Zhitong Guan",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787938",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Efficient Neural Networks for Tiny Machine Learning: A Comprehensive Review",
+    "authors": "Minh Tri Lê, Pierre Wolinski, Julyan Arbel",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3798276",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Controlled Experimentation of Model Search Behaviour with Geniie-Lab",
+    "authors": "Hideo Joho",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787894",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "The Martian Game: Exploring Open-Ended Question-Asking via an Online Gaming Environment",
+    "authors": "Gili Cohen, Jacob Sherson, Janet Rafner, Yoed N. Kenett",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "PulseSearch: Modeling Long- and Short-term Patterns for Personalized Music Search Suggestions",
+    "authors": "Antonios Anagnostou, Jose Luis Redondo Garcia, Emelie Jin, Jonathan Warburton, Vinay Rao, Yannis Kantarelis, Daniel Lazarovski, Dani Doro, Francesco Cucari, Christine Doig Cardet, Hugues Bouchard, Dominic Child, Jonathan C. Brooks-Bartlett, Mounia Lalmas",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787924",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Micro-Behavioral Analysis of Online Shopping Patterns for Blind Users",
+    "authors": "Yash Prakash, Akshay Kolgar Nayak, Nithiya Venkatraman, Sampath Jayarathna, Hae-Na Lee, Vikas Ashok",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3788841",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Information Seeking in the Age of Agentic AI: A Half-Day Tutorial",
+    "authors": "Preetam Prabhu Srikar Dammu, Tanya Roosta",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787893",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Information Infrastructures of Play: Metadata, Discourse, and Storytelling in Iranian Video Games",
+    "authors": "Melinda Cohoon",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787887",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Rules, Resources, and Restrictions: A Taxonomy of Task-Based Information Request Intents",
+    "authors": "Melanie A. Kilian, David Elsweiler",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787863",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "AI-Generated Phishing: Combining Human Behavior with Post Content to Assess Susceptibility",
+    "authors": "Natalia Denisenko, Valerio La Gatta, Marco Postiglione, Lirika Sola, Youdinghuan Chen, V.S. Subrahmanian",
+    "publish": "ACM Transactions on Internet Technology",
+    "url": "https://doi.org/10.1145/3799891",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "SEA-u-lator: Privacy Preserving Social Engineering Attack Simulator for Gmail",
+    "authors": "Marcin Pawlukiewicz, Shaun Wallace",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787916",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Offscript: Agentic Auditing of Instruction Adherence in LLMs",
+    "authors": "Nicholas Clark, Ryan Bai, Tanu Mitra",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787891",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-2-28",
+    "title": "Attention! Rethinking What We Measure in CHIIR Studies",
+    "authors": "Dan Zhang, Gavindya Jayawardena, Jacek Gwizdka",
+    "publish": "Proceedings of the 2026 Conference on Human Information Interaction and Retrieval",
+    "url": "https://doi.org/10.1145/3786304.3787944",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
