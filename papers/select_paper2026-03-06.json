@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-3-6",
+    "title": "Surveying the Benchmarking Landscape of Large Language Models in Code Intelligence",
+    "authors": "Mohammad Abdollahi, Ruixin Zhang, Nima Shiri Harzevili, Jiho Shin, Song Wang, Hadi Hemmati",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3800957",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "审视大型语言模型在代码智能领域的基准测试格局",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub",
+    "authors": "Miku Watanabe, Hao Li, Yutaro Kashiwa, Brittany Reid, Hajimu Iida, Ahmed E. Hassan",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3798166",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "关于代理编程的使用：对GitHub上拉取请求的实证研究",
+    "abstract_zh": "None"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2026-3-6",
+    "title": "SEADUNet: A Multilingual Ancient Document Image Binarization using EMCAM Attention Mechanism and SCP",
+    "authors": "Hai Guo, LingLing Tong, Jingying Zhao, Ling Guan, Aoqi Jiang, Yue Gao",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3800946",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "Surveying the Benchmarking Landscape of Large Language Models in Code Intelligence",
+    "authors": "Mohammad Abdollahi, Ruixin Zhang, Nima Shiri Harzevili, Jiho Shin, Song Wang, Hadi Hemmati",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3800957",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "Automating the Extraction of Structured Data from Large Newspaper Corpora using Layout Analysis, OCR and Generative AI",
+    "authors": "Nikos Kontonasios, Yannis Tzitzikas, Pavlos Fafalios",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3800678",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "Theory of Troubleshooting: The Developer’s Cognitive Experience of Overcoming Confusion",
+    "authors": "Arty Starr, Margaret-Anne Storey",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3800945",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "CoverFL: Enhancing Fault Localization via Deep Coverage Relation",
+    "authors": "Wei Chen, Jiamou Liu, Kaiqi Zhao, Mingyue Zhang, Wu Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3787964",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "Push and Pull: Defending Against Retrieval Poisoning Attacks via Embedding Space Reshaping",
+    "authors": "Longzhu He, Xiyu Zhang, Quan Liu, Chaozhuo Li, Zheng Liu, Pengpeng Zhou, Sen Su",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3800948",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "EVC-Net: A Hybrid Deep Learning Network for Breast Cancer Classification from Histopathological Images",
+    "authors": "Shivpratap Singh Kushwah, Narinder Singh Punn, Mahua Bhattacharya",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3800952",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub",
+    "authors": "Miku Watanabe, Hao Li, Yutaro Kashiwa, Brittany Reid, Hajimu Iida, Ahmed E. Hassan",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3798166",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "Erratum: AI Development and Innovation: A Comparison of Large Language Models from the U.S. and China",
+    "authors": "Jiaxin Li, Zhenhui Jiang, Yang Liu",
+    "publish": "ACM Transactions on Management Information Systems",
+    "url": "https://doi.org/10.1145/3799224",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-6",
+    "title": "Computational complexity of the Weisfeiler-Leman dimension",
+    "authors": "Moritz Lichter, Simon Rassmann, Pascal Schweitzer",
+    "publish": "ACM Transactions on Computational Logic",
+    "url": "https://doi.org/10.1145/3798282",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

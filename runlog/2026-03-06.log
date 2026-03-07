@@ -1,0 +1,30 @@
+[2026-03-07 09:17:12] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-03-06
+正在获取论文...
+[ACM] 2026-3-6 | SEADUNet: A Multilingual Ancient Document Image Binarization using EMCAM Attention Mechanism and SCP
+[ACM] 2026-3-6 | Surveying the Benchmarking Landscape of Large Language Models in Code Intelligence
+[ACM] 2026-3-6 | Automating the Extraction of Structured Data from Large Newspaper Corpora using Layout Analysis, OCR and Generative AI
+[ACM] 2026-3-6 | Theory of Troubleshooting: The Developer’s Cognitive Experience of Overcoming Confusion
+[ACM] 2026-3-6 | CoverFL: Enhancing Fault Localization via Deep Coverage Relation
+[ACM] 2026-3-6 | Push and Pull: Defending Against Retrieval Poisoning Attacks via Embedding Space Reshaping
+[ACM] 2026-3-6 | EVC-Net: A Hybrid Deep Learning Network for Breast Cancer Classification from Histopathological Images
+[ACM] 2026-3-6 | On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub
+[ACM] 2026-3-6 | Erratum: AI Development and Innovation: A Comparison of Large Language Models from the U.S. and China
+[ACM] 2026-3-6 | Computational complexity of the Weisfeiler-Leman dimension
+共写入 10 条记录，保存到 papers/paper2026-03-06.json。
+论文获取成功，文件路径: papers/paper2026-03-06.json
+正在筛选、翻译并发送邮件...
+[NO] 1/10 | SEADUNet: A Multilingual Ancient Document Image Binarization using EMCAM Attention Mechanism and SCP
+[YES] 2/10 | Surveying the Benchmarking Landscape of Large Language Models in Code Intelligence
+[NO] 3/10 | Automating the Extraction of Structured Data from Large Newspaper Corpora using Layout Analysis, OCR and Generative AI
+[NO] 4/10 | Theory of Troubleshooting: The Developer’s Cognitive Experience of Overcoming Confusion
+[NO] 5/10 | CoverFL: Enhancing Fault Localization via Deep Coverage Relation
+[NO] 6/10 | Push and Pull: Defending Against Retrieval Poisoning Attacks via Embedding Space Reshaping
+[NO] 7/10 | EVC-Net: A Hybrid Deep Learning Network for Breast Cancer Classification from Histopathological Images
+[YES] 8/10 | On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub
+[NO] 9/10 | Erratum: AI Development and Innovation: A Comparison of Large Language Models from the U.S. and China
+[NO] 10/10 | Computational complexity of the Weisfeiler-Leman dimension
+筛选完成：共 10 篇；Yes = 2 篇；已保存到 papers/select_paper2026-03-06.json。
+邮件发送成功！
+[2026-03-07 09:18:11] 任务执行成功！
