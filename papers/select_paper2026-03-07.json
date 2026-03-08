@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-3-7",
+    "title": "InferCG: Enhancing Python Call Graph Generation via Static Analysis and Large Language Models",
+    "authors": "Dongming Xiang, Shichao Wu, Hanqian Tu, Wang Lin, Zuohua Ding",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3799990",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "InferCG：通过静态分析与大语言模型增强Python调用图生成",
+    "abstract_zh": "None"
+  }
+]
