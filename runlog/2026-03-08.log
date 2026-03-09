@@ -1,0 +1,12 @@
+[2026-03-09 09:35:30] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-03-08
+正在获取论文...
+[ACM] 2026-3-9 | Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration
+共写入 1 条记录，保存到 papers/paper2026-03-08.json。
+论文获取成功，文件路径: papers/paper2026-03-08.json
+正在筛选、翻译并发送邮件...
+[NO] 1/1 | Every Maintenance Has Its Exemplar: The Future of Software Maintenance through Migration
+筛选完成：共 1 篇；Yes = 0 篇；已保存到 papers/select_paper2026-03-08.json。
+邮件发送成功！
+[2026-03-09 09:35:50] 任务执行成功！
