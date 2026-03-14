@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2026-3-13",
+    "title": "ArA - Evaluating LLM Suitability as Out-of-the-Box Malware Analysts",
+    "authors": "Gabriel-Cătălin Rat, Andrei Popoviciu, Radu-Marian Portase, Adrian Coleşa",
+    "publish": "2025 IEEE 21st International Conference on Intelligent Computer Communication and Processing (ICCP)",
+    "url": "https://doi.org/10.1109/iccp68926.2025.11427171",
+    "source": "IEEE",
+    "abstract": "Security operations centers (SOCs) are increasingly deploying large language models (LLMs) to assist human analysts; however, the reliability of off-the-shelf LLMs for malware analysis remains uncertain. This paper investigates whether state-of-the-art LLMs can serve as “virtual malware analysts” without task-specific fine-tuning. We introduce ArA (Artificial Analyst), a novel system that combines dynamic malware sandboxing with an LLM-based reasoning engine. ArA executes programs in a controlled environment, translates the observed behaviour into natural-language reports, and prompts an LLM to classify the behaviour as malicious or benign. We evaluated 12 modern LLMs-including GPT-4, its distilled variants, open-source models (1B-27B parameters), and a security-tuned model-on a dataset comprising 712 real malware samples and 304 benign programs. GPT-4 achieved the highest accuracy at 95% (macro F1 = 0.93), correctly identifying nearly all malware samples and rarely mislabeling benign software. Smaller open-source models demonstrated mixed performance; some attained perfect malware recall but exhibited higher false-positive rates on benign data, while the security-tuned 8B model performed below general-purpose models. We analyse each model’s strengths, common errors (e.g., false-positive biases), and the usage of tentative (“suspicious”) versus definitive labels. Our findings demonstrate that advanced LLMs can accurately distinguish malware behaviours in zeroshot settings, offering immediate value for SOC triage. However, we also highlight limitations, including insufficient coverage of behaviour variations and limited explanation quality, and discuss future steps to enhance LLM-based malware analysis for practical deployment.",
+    "title_zh": "ArA：评估大语言模型作为开箱即用的恶意软件分析员的适用性",
+    "abstract_zh": "安全运营中心（SOC）正越来越多地部署大型语言模型（LLM）以辅助人工分析师；然而，现成的LLM在恶意软件分析中的可靠性仍存疑。本文探讨了当前最先进的LLM是否能在无需特定任务微调的情况下充当“虚拟恶意软件分析师”。我们提出了ArA（Artificial Analyst）——一种结合动态恶意软件沙箱与基于LLM的推理引擎的新系统。ArA在受控环境中执行程序，将观察到的行为转化为自然语言报告，并通过提示LLM判断该行为是恶意还是良性。我们在一个包含712个真实恶意软件样本和304个良性程序的数据集上评估了12种现代LLM，包括GPT-4及其压缩版本、开源模型（参数量从1B到27B不等）以及一个经过安全领域优化的模型。结果显示，GPT-4取得了最高的准确率95%（宏平均F1值为0.93），几乎正确识别了所有恶意软件样本，且极少误判良性软件。较小的开源模型表现参差不齐：部分模型实现了完美的恶意软件召回率，但对良性数据的误报率较高；而经过安全领域调优的8B模型性能反而低于通用型模型。我们分析了各模型的优势、常见错误（如误报偏差），以及其使用“可疑”这类试探性标签与“确定性”标签的倾向。研究结果表明，先进的LLM能够在零样本（zero-shot）设置下准确区分恶意软件行为，为SOC的初步筛选工作提供即时价值。然而，我们也指出了若干局限性，包括对行为变体覆盖不足以及解释质量有限等问题，并讨论了未来提升LLM在恶意软件分析中实用性的改进方向。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "JIT-DCK: A KAN Multi-Task Model for Just-In-Time Code Defect Prediction and Localization",
+    "authors": "Jingwei Wang, Chenchen Li, Shenglin Wang, Hui Li, Furui Zhan, Qiao Ning, Shikai Guo",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3801547",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "JIT-DCK：一种用于即时代码缺陷预测与定位的KAN多任务模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "Software Composition Analysis on Rust Binaries",
+    "authors": "Denisa Muntean, Ciprian Oprişa",
+    "publish": "2025 IEEE 21st International Conference on Intelligent Computer Communication and Processing (ICCP)",
+    "url": "https://doi.org/10.1109/iccp68926.2025.11427168",
+    "source": "IEEE",
+    "abstract": "Software Composition Analysis (SCA) is an important part of the reverse engineering process, useful for both antimalware research and vulnerabilities scanning. While traditional SCA techniques rely on Software Bill of Materials (SBOM) and strings analysis, we propose a new technique, based on binary code analysis on Rust programs. The binary code is analyzed through disassembly and OpCode n-grams extraction. The n-grams are then used to tag Rust crates using multiple methods and thresholds. The experimental evaluation shows the robustness of the proposed technique, being able to distinguish between 150 popular crates with over 87% accuracy and $48 \\% F_{1}$ score (micro-averaged) on the validation data.",
+    "title_zh": "Rust 二进制文件的软件成分分析",
+    "abstract_zh": "软件组成分析（SCA）是逆向工程过程中的重要环节，对于反恶意软件研究和漏洞扫描均具有重要意义。传统SCA技术依赖于软件物料清单（SBOM）和字符串分析，而本文提出一种基于Rust程序二进制代码分析的新方法。该方法通过反汇编获取二进制代码，并提取操作码n-gram特征。随后，利用多种方法和不同阈值对Rust库（crates）进行标记。实验评估表明，所提方法具有良好的鲁棒性：在验证数据上能够以超过87%的准确率区分150个流行库，并达到48%的F₁分数（微平均）。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "Detection of Technical Debt in Java Source Code",
+    "authors": "Nam Le Hai, Anh M. T. Bui, Phuong T. Nguyen, Davide Di Ruscio, Rick Kazman",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3801745",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "Java源代码中技术债务的检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "From Opcodes to Semantics: A Hybrid Approach for Function Name Inference in Stripped Binaries",
+    "authors": "Remus Petrache, Camelia Lemnaru, Ciprian Oprişa",
+    "publish": "2025 IEEE 21st International Conference on Intelligent Computer Communication and Processing (ICCP)",
+    "url": "https://doi.org/10.1109/iccp68926.2025.11427143",
+    "source": "IEEE",
+    "abstract": "The absence of debugging symbols in stripped binaries, particularly descriptive function names, hinders reverse engineering and security analysis. This paper introduces a structured pipeline for automated function name inference, combining Transformer models, calibrated confidence estimation, and context-aware refinement using large language models pretrained on code. In the first stage, a specialized Transformer model is trained on normalized assembly instructions to predict initial function names, along with statistical indicators. These indicators are then mapped to reliable confidence scores using a logistic regression calibration module. In the final stage, lowconfidence functions are reprocessed using fine-tuned, pretrained code language models, which leverage the context derived from high-confidence caller and callee relationships. The method is validated on a dataset of approximately 21.3 million functions extracted from 6,824 Windows executables compiled with various MSVC versions and architectures. The results demonstrate that our approach supports the practical recovery of meaningful function identifiers and enhances malware analysis tasks.",
+    "title_zh": "从操作码到语义：一种用于剥离二进制文件的函数名推断的混合方法",
+    "abstract_zh": "在剥离了调试符号的二进制文件中，尤其是缺乏描述性函数名称的情况下，逆向工程和安全分析面临巨大挑战。本文提出了一种结构化的自动化函数名推断流水线，结合了Transformer模型、经过校准的置信度估计，以及基于预训练代码大语言模型的上下文感知优化方法。在第一阶段，一个专门设计的Transformer模型在归一化汇编指令上进行训练，以预测初始函数名称，并生成相应的统计指标。随后，这些指标通过逻辑回归校准模块映射为可靠的置信度分数。在最后阶段，低置信度的函数将使用微调过的、预训练的代码语言模型重新处理，该模型利用高置信度调用者与被调用者关系所提取的上下文信息进行优化。该方法在包含约2130万个函数的数据集上进行了验证，这些函数来自6,824个使用不同MSVC版本和架构编译的Windows可执行文件。实验结果表明，本方法能够有效支持有意义函数标识符的实际恢复，并显著提升恶意软件分析任务的性能。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "Pre-Transaction Fraud Risk Prediction in DeFi Using Explainable AI",
+    "authors": "Rino Thomas, Savitha K.K",
+    "publish": "2026 Sixth International Conference on Advances in Electrical, Computing, Communications and Sustainable Technologies (ICAECT)",
+    "url": "https://doi.org/10.1109/icaect68478.2026.11426021",
+    "source": "IEEE",
+    "abstract": "Decentralized Finance (DeFi) has changed the financial ecosystem but is extremely vulnerable to complex schemes such as rug pulls, honeypots, and flash loan attacks, which cause massive losses for platforms and users. This study responds to the critical necessity of early and actionable warning for fraud by suggesting a real-time system predicting and justifying the risk level of freshly launched DeFi tokens prior to their engagement with the users. Drawing on a hybrid methodology, integrating smart contract code analysis, on-chain behavioral data, and social metrics, the system utilizes cutting, edge machine learning models, including Graph Neural Networks (GNNs) and ensemble methods (XGBoost, FT-Transformer), to provide sophisticated risk scoring. For user and regulatory trust assurance, explainable AI methods such as SHAP and LIME are utilized to clearly identify important risk drivers, including unsafe contract functions, wallet concentration, and liquidity lock patterns. The solution provides stage-aware and cross-chain surveillance, coupling functionality like anomaly detection, federated model training, and governance analysis. With large-scale literature synthesis and empirical validation, this framework shows that proactive, pre-transaction fraud identification and open risk valuation are possible, and it achieves a scalable defense for DeFi players and infrastructure.",
+    "title_zh": "基于可解释人工智能的去中心化金融交易前欺诈风险预测",
+    "abstract_zh": "去中心化金融（DeFi）已重塑了金融生态系统，但其极易受到复杂欺诈手段的威胁，如“跑路”（rug pulls）、“蜜罐”（honeypots）和闪电贷攻击，这些行为给平台和用户带来了巨大损失。本研究针对欺诈事件早期且可操作预警的迫切需求，提出一种实时系统，能够在新发行的DeFi代币与用户发生交互之前，预测并解释其风险等级。该系统采用混合方法论，融合智能合约代码分析、链上行为数据以及社交指标，运用前沿机器学习模型，包括图神经网络（GNNs）和集成学习方法（XGBoost、FT-Transformer），实现精准的风险评分。为保障用户与监管机构的信任，系统引入可解释人工智能技术（如SHAP和LIME），清晰识别关键风险因素，例如不安全的合约函数、钱包集中度以及流动性锁定模式。该解决方案具备阶段感知与跨链监控能力，集成了异常检测、联邦模型训练及治理分析等功能。通过大规模文献综述与实证验证，本框架证明：主动性的事前欺诈识别与公开透明的风险评估是可行的，并为DeFi参与者与基础设施提供了可扩展的防御机制。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "A Two-Wave Evaluation of the Web-Related Security Standards Implemented by Higher Education Institutions in Germany",
+    "authors": "Jackson Barreto, Sebastian Neef, Pedro Pinto",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3674050",
+    "source": "IEEE",
+    "abstract": "Higher Education Institutions (HEIs) have a large and transient user base, hold rich and diverse data, and thus represent high-value targets for cyber threats. Given their broad attack surface, HEIs must ensure that fundamental security services and configurations, including the Web-related ones, are correctly implemented and routinely audited. This study presents a two-wave evaluation of the web security postures of 400 German HEIs. The web security posture is evaluated across three domains: Hypertext Transfer Protocol Secure (HTTPS), Hypertext Transfer Protocol (HTTP) Security Headers, and Domain Name System Security Extensions (DNSSEC), using measurement snapshots with data collected in the years 2023 and 2025. The results were aggregated by Level 2 of the Nomenclature of Territorial Units for Statistics (NUTS2) regions and further segmented by public and private sectors. The general results reveal a sound cryptographic baseline, with approximately 90% of institutions using valid certificates and high-security key lengths. However, the downside is evident in DNSSEC adoption, which reached only 13%, and in the implementation of security headers, where all observed Content-Security-Policy (CSP) deployments and 70% of HTTP Strict Transport Security (HSTS) configurations are classified as weak. The two-wave comparison between 2023 and 2025 indicates a trajectory of slow, incremental modernization, with modest gains in header adoption but near-stagnation in DNSSEC deployment. These results suggest that, while German HEIs are gradually improving their defenses, a systemic gap still exists between the availability of web-related security standards and their effective and secure implementation.",
+    "title_zh": "德国高等教育机构实施的网络相关安全标准的两阶段评估",
+    "abstract_zh": "高等教育机构（HEIs）拥有庞大且流动性强的用户群体，掌握着丰富多样的数据，因此成为网络威胁的高价值目标。鉴于其广泛的攻击面，HEIs必须确保基本安全服务与配置（包括与Web相关的部分）得到正确实施，并定期进行审计。本研究对400所德国高等教育机构的Web安全态势进行了两阶段评估。评估涵盖三个领域：安全超文本传输协议（HTTPS）、HTTP安全头以及域名系统安全扩展（DNSSEC），数据分别采集于2023年和2025年，通过测量快照形式呈现。结果按欧盟统计区划的二级单位（NUTS2）进行汇总，并进一步按公立与私立部门进行细分。\n\n总体结果显示，这些机构具备良好的加密基础，约90%的机构使用有效证书并采用高安全强度的密钥长度。然而，问题也显而易见：DNSSEC的采用率仅为13%，而在安全头的实施方面，所有观察到的内容安全策略（CSP）部署以及70%的HTTP严格传输安全（HSTS）配置均被归类为弱安全级别。2023年与2025年两阶段对比表明，整体呈现出缓慢、渐进的现代化趋势，尽管安全头的采用略有提升，但DNSSEC的部署几乎停滞不前。\n\n上述结果表明，尽管德国高等教育机构正在逐步加强其防御能力，但在Web相关安全标准的可用性与其实际有效、安全的实施之间，仍存在显著的系统性差距。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "AutoML-Pipeline: A RAG-Enhanced Code Generation Framework with Pre-validation for Cloud-Native Machine Learning Workflows",
+    "authors": "Wenyu Zhao, Tingjie Chen, Jie Si Yang, Lei Qiu",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3673923",
+    "source": "IEEE",
+    "abstract": "The proliferation of cloud-native machine learning platforms has significantly accelerated model development and deployment cycles. However, constructing and maintaining heterogeneous pipeline code spanning multiple languages (Python, YAML, Spark SQL) and cloud-specific configurations remains labor-intensive and error-prone. Existing LLM-based code generation tools lack awareness of runtime constraints and historical execution patterns, frequently producing code with resource misconfigurations or dependency conflicts that fail upon deployment. To address these challenges, we propose <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">AutoML-Pipeline</i>, a closed-loop code generation framework that integrates Retrieval-Augmented Generation (RAG) with reinforcement learning feedback mechanisms. Our approach leverages a knowledge base constructed from successful pipeline execution logs to guide GPT-4 in generating deployment-ready code that adheres to platform-specific constraints. The key innovation lies in a novel <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Pre-validation Agent</i> that employs simulated execution environments to predict resource consumption and detect dependency conflicts before actual deployment. This agent iteratively refines generated code through a feedback loop informed by predicted execution profiles and dependency graphs. We evaluate our framework on the CodeSearchNet dataset augmented with Azure ML pipeline specifications, demonstrating a 43.7% improvement in first-submission success rate and 31.2% reduction in resource over-provisioning compared to vanilla GPT-4 baselines. Ablation studies confirm that both the RAG retrieval mechanism and pre-validation agent contribute substantially to performance gains. Our work establishes a practical paradigm for integrating large language models with domain-specific runtime intelligence, with potential applications extending to other infrastructure-as-code generation tasks.",
+    "title_zh": "AutoML-Pipeline：一种基于RAG增强的代码生成框架，用于云原生机器学习工作流的预验证",
+    "abstract_zh": "云原生机器学习平台的普及显著加速了模型的开发与部署周期。然而，构建和维护跨越多种语言（如 Python、YAML、Spark SQL）以及特定云环境配置的异构流水线代码，仍然是一项耗时且容易出错的工作。现有的基于大语言模型（LLM）的代码生成工具缺乏对运行时约束和历史执行模式的认知，常常生成存在资源配置不当或依赖冲突的代码，导致部署失败。为解决上述挑战，我们提出 <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">AutoML-Pipeline</i>，一种闭环式代码生成框架，该框架将检索增强生成（RAG）与强化学习反馈机制相结合。我们的方法利用从成功流水线执行日志中构建的知识库，引导 GPT-4 生成符合平台特定约束、可直接部署的代码。其核心创新在于提出了一种新型的 <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">预验证代理（Pre-validation Agent）</i>，该代理通过模拟执行环境预测资源消耗并提前检测依赖冲突。该代理通过由预测的执行特征和依赖图驱动的反馈循环，迭代优化生成的代码。我们在 CodeSearchNet 数据集基础上，结合 Azure ML 流水线规范进行评估，结果表明，相较于原始 GPT-4 基线，我们的框架在首次提交成功率上提升了 43.7%，资源过度配置减少了 31.2%。消融实验进一步证实，RAG 检索机制与预验证代理均对性能提升起到了关键作用。本研究建立了一种将大语言模型与领域特定运行时智能相结合的实用范式，其应用潜力可扩展至其他基础设施即代码（IaC）生成任务。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "TinyMl-Based Embedded Analytics Model Compression and Hardware Co-Design",
+    "authors": "Pavithra S, Narthika S, Praveen M",
+    "publish": "2026 Sixth International Conference on Advances in Electrical, Computing, Communications and Sustainable Technologies (ICAECT)",
+    "url": "https://doi.org/10.1109/icaect68478.2026.11426168",
+    "source": "IEEE",
+    "abstract": "TinyML represents the paradigm shift of running machine learning algorithms directly on powerconstrained microcontrollers and small edge devices. These technologies are not only capable of running these computational operations in on premises hardware, but they can also reduce dependence on a continuous cloud infrastructure, resolves time to respond, and time to travel cut down, and produce higher privacy of sensitive data. This integration becomes especially beneficial in the monitoring of industrial machinery, structural health monitoring, biomedical signal analysis, and environmental monitoring, where continuous and real-time processing in remote or bandwidth constrained environment is essential. Its underlying architecture utilizes sophisticated methods for quantization, pruning, and neural network architecture searching to minimize complex models while maintaining little loss in predictive performance At the same time, co-design methodologies enable hardware efficiencies that support intelligent functionality at milliwatt consumption profiles. The algorithm-level optimizations and architecture-level adaptations together provide for local sensor level decisionmaking which removes the need for a lot of backhauling and makes the overall system more robust. But TinyML is not simply about miniaturisation of existing technology, it is a clear shift to the provision of ubiquitous sensing intelligence integrated into devices and supported by low-power processing. This development opens new pathways for scalable deployments in smart agriculture, wearable diagnostics, asset monitoring and sustainable infrastructure. Against a backdrop of increasing global research effort, TinyML is being positioned as a cornerstone of democratizing <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$A I$</tex> in the emerging field of ultralow-power embedded intelligence that are accessible, reliable, and environmentally sustainable, at scale.",
+    "title_zh": "基于TinyML的嵌入式分析模型压缩与硬件协同设计",
+    "abstract_zh": "TinyML代表了将机器学习算法直接运行在功耗受限的微控制器和小型边缘设备上的范式转变。这些技术不仅能够在本地硬件上执行计算操作，还能减少对持续云端基础设施的依赖，缩短响应时间与传输延迟，同时提升敏感数据的隐私保护水平。这种集成在工业机械监测、结构健康监测、生物医学信号分析以及环境监测等领域尤为有益，因为在远程或带宽受限的环境中，持续且实时的数据处理至关重要。其底层架构采用先进的量化、剪枝及神经网络架构搜索等方法，在大幅压缩模型复杂度的同时，几乎不损失预测性能。与此同时，协同设计方法提升了硬件效率，使智能功能可在毫瓦级功耗下实现。算法层面的优化与架构层面的适应性改进相结合，实现了传感器层级的本地决策能力，减少了大量数据回传的需求，从而让整个系统更加稳健可靠。然而，TinyML并不仅仅是现有技术的微型化，它更标志着一种根本性的转变——将无处不在的传感智能融入各类设备，并由低功耗处理能力予以支持。这一发展为智慧农业、可穿戴诊断、资产监控以及可持续基础设施领域的规模化部署开辟了全新路径。在全球科研投入不断增长的背景下，TinyML正被定位为推动超低功耗嵌入式智能领域发展的核心力量，致力于实现AI的普及化，使其在规模上具备可访问性、可靠性与环境可持续性。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "3D Electronic-Photonic Heterogeneous Interconnect Platforms Enabling Energy-Efficient Scalable Architectures For Future HPC Systems",
+    "authors": "Anirban Samanta, Shun-Hung Lee, Chun-Yi Cheng, Samuel Palermo, S. J. Ben Yoo",
+    "publish": "IEEE Journal of Selected Topics in Quantum Electronics",
+    "url": "https://doi.org/10.1109/jstqe.2026.3674145",
+    "source": "IEEE",
+    "abstract": "3D interconnects have emerged as a solution to address the scaling issues of interconnect bandwidth and the memory wall problem in high-performance computing (HPC), such as High-Bandwidth Memory (HBM). However, the copper based electrical interconnect retains fundamental limitations. Dense I/O for high-speed signals lead to degraded signal quality for end-to-end links, necessitating additional circuits to mitigate signal impairments and resulting in poor energy efficiency, We propose a 3D chiplet stacking electronic-photonic interconnect (EPIC) platform, which offers a solution by moving the high speed data communication interface to the optical domain across the 3D stack by using Through Silicon Optical Vias (TSOV), while retaining the functionality of electrical TSVs and 2.5D interconnects for power delivery and short-reach low-latency communications. We then benchmark the proposed model against state-of-the-art 3D electrical interconnects to demonstrate our 3D EPIC platform beating the 3D electrical interconnects to >10 TB/s/mm<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">2</sup> bandwidth density. We present a pathway to extend our demonstrated, industry-ready design to achieving ≤100 fJ/bit high-speed communication.",
+    "title_zh": "面向未来高性能计算系统的三维电子光子异质互连平台，实现能效优化的可扩展架构",
+    "abstract_zh": "3D互连技术已成为解决高性能计算（HPC）中互连带宽扩展难题及“内存墙”问题的有效方案，例如高带宽存储器（HBM）。然而，基于铜的电互连仍存在根本性局限。高速信号所需的密集I/O导致端到端链路的信号质量下降，必须引入额外电路来缓解信号失真，从而造成能效低下。为此，我们提出一种3D芯片小片堆叠的电光互连（EPIC）平台，通过在3D堆叠中采用硅通孔光学通道（TSOV），将高速数据通信接口迁移至光域，同时保留电TSV和2.5D互连在电源传输以及短距离低延迟通信方面的功能。随后，我们将所提出的模型与当前最先进的3D电互连技术进行对比，验证了该3D EPIC平台在带宽密度上可超过10 TB/s/mm²。我们进一步展示了将已实现的、具备产业应用可行性的设计拓展至实现≤100 fJ/bit高速通信的技术路径。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "CTF-PWN100: Automated Binary Exploitation of CTF Challenges Leveraging Large Language Models",
+    "authors": "Tudor Cristea, Radu-Marian Portase, Adrian Coleşa",
+    "publish": "2025 IEEE 21st International Conference on Intelligent Computer Communication and Processing (ICCP)",
+    "url": "https://doi.org/10.1109/iccp68926.2025.11427115",
+    "source": "IEEE",
+    "abstract": "In this paper, we introduce CTF-PWN100, a dataset and automated framework designed to evaluate the performance of large language models (LLMs) in solving Capture-The-Flag (CTF) binary exploitation challenges. We specifically assess the capabilities of DeepSeek-R1, Gemini-2.5-Pro (Preview), and Gemini-2.5-Flash (Preview) on a balanced and diverse dataset consisting of 100 binary exploitation problems covering multiple vulnerability types, including Buffer Overflow, Format String, Heap Overflow, Use-After-Free, and Miscellaneous. Using an automated evaluation framework integrating decompilation, code filtering, and dynamic feedback from Python-generated exploit scripts, the three models achieved success rates of ${5 1 \\%}, {6 6 \\%}$, and $46 \\%$, respectively. The results indicate that reasoning-oriented LLMs demonstrate promising potential in addressing complex cybersecurity tasks. However, limitations persist regarding vulnerability identification and the development of sophisticated exploit scripts.",
+    "title_zh": "CTF-PWN100：利用大型语言模型实现CTF挑战的自动化二进制漏洞利用",
+    "abstract_zh": "本文介绍了CTF-PWN100，这是一个用于评估大型语言模型（LLMs）在解决Capture-The-Flag（CTF）二进制漏洞利用挑战方面表现的数据集与自动化框架。我们特别针对DeepSeek-R1、Gemini-2.5-Pro（预览版）和Gemini-2.5-Flash（预览版）三种模型，在一个平衡且多样化的数据集上进行了评估，该数据集包含100个二进制漏洞利用问题，涵盖多种漏洞类型，包括缓冲区溢出、格式化字符串漏洞、堆溢出、使用后释放以及其它类型。通过集成反编译、代码过滤以及由Python生成的利用脚本提供的动态反馈的自动化评估框架，这三款模型的成功率分别为${51\\%}$、${66\\%}$和$46\\%$。结果表明，以推理为导向的大型语言模型在应对复杂的网络安全任务方面展现出巨大的潜力。然而，在漏洞识别以及开发复杂利用脚本方面仍存在明显局限性。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "Enhancing Large Language Models (LLMs) for Telecom Using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation",
+    "authors": "Dun Yuan, Hao Zhou, Xue Liu, Hao Chen, Yan Xin, Jianzhong Zhang",
+    "publish": "IEEE Wireless Communications",
+    "url": "https://doi.org/10.1109/mwc.2026.3667495",
+    "source": "IEEE",
+    "abstract": "Large language models (LLMs) have shown strong potential across a variety of tasks, but their application in the telecom field remains challenging due to domain complexity, evolving standards, and specialized terminology. Therefore, general-domain LLMs may struggle to provide accurate and reliable outputs in this context, leading to increased hallucinations and reduced utility in telecom operations. To address these limitations, this work introduces KG-RAG—a novel framework that integrates knowledge graphs (KGs) with retrieval-augmented generation (RAG) to enhance LLMs for telecom-specific tasks. In particular, the KG provides a structured representation of domain knowledge derived from telecom standards and technical documents, while RAG enables dynamic retrieval of relevant facts to ground the model’s outputs. Such a combination improves factual accuracy, reduces hallucination, and ensures compliance with telecom specifications. Experimental results across benchmark datasets demonstrate that KG-RAG outperforms both LLM-only and standard RAG baselines, e.g., KG-RAG achieves an average accuracy improvement of 14.3% over RAG and 21.6% over LLM-only models. These results highlight KG-RAG’s effectiveness in producing accurate, reliable, and explainable outputs in complex telecom scenarios.",
+    "title_zh": "利用动态知识图谱与可解释的检索增强生成技术提升大语言模型在电信领域的应用效能",
+    "abstract_zh": "大型语言模型（LLMs）在众多任务中展现出强大的潜力，但在电信领域的应用仍面临挑战，主要源于领域复杂性、标准不断演进以及专业术语的使用。因此，通用领域的 LLM 在此背景下可能难以提供准确可靠的输出，导致幻觉现象增加，降低其在电信运营中的实际效用。为解决上述局限性，本文提出一种名为 KG-RAG 的新型框架，通过将知识图谱（KG）与检索增强生成（RAG）相结合，提升 LLM 在电信特定任务中的表现。具体而言，知识图谱从电信标准和技术文档中提取并结构化地表示领域知识，而 RAG 则实现相关事实的动态检索，以确保模型输出的准确性与上下文一致性。这种结合有效提升了事实准确性，减少了幻觉，并保障了输出符合电信规范要求。在多个基准数据集上的实验结果表明，KG-RAG 显著优于仅使用 LLM 或传统 RAG 的基线方法：例如，KG-RAG 相较于 RAG 平均提升准确率 14.3%，相较 LLM-only 模型提升 21.6%。这些结果充分证明了 KG-RAG 在复杂电信场景下生成准确、可靠且可解释性输出的有效性。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "A Roadmap for Modern Code Review: Challenges and Opportunities",
+    "authors": "Zezhou Yang, Cuiyun Gao, Zhaoqiang Guo, Zhenhao Li, Kui Liu, Xin Xia, Yuming Zhou",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3800963",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "现代代码审查的路线图：挑战与机遇",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "A System for Logic Circuits Interpretation from Hand-Drawn Diagrams",
+    "authors": "Alexandru Cristian Moldovan, Constantin Nandra",
+    "publish": "2025 IEEE 21st International Conference on Intelligent Computer Communication and Processing (ICCP)",
+    "url": "https://doi.org/10.1109/iccp68926.2025.11427173",
+    "source": "IEEE",
+    "abstract": "This paper describes an improved solution for the problem of accurate detection and classification of hand-drawn logic circuit components. The solution builds upon previous work which has shown promising initial results in logic gate classification and experimented with connection detection. Herein, we describe an improved connection detection solution, which is based on a YOLO classifier, and evaluate its performance. Additionally, we expand upon the initial collection of classes, adding more complex logic circuit components. The result is an in-memory model that can be used to test the circuit and verify its correctness. Throughout the paper, we provide an overview of our solution and describe a series of test scenarios we devised to evaluate the proposed solution. Index Terms-logic circuit classification, neural networks, deep learning, optical character recognition",
+    "title_zh": "一种从手绘图中解析逻辑电路的系统",
+    "abstract_zh": "本文描述了一种针对手绘逻辑电路元件精确检测与分类问题的改进解决方案。该方案建立在先前研究的基础上，此前的研究已在逻辑门分类方面取得了令人鼓舞的初步成果，并对连接检测进行了实验。本文重点介绍了基于YOLO分类器的改进连接检测方法，并对其性能进行了评估。此外，我们还扩展了初始的类别集合，增加了更多复杂的逻辑电路元件。最终，我们构建了一个可内存调用的模型，可用于电路测试及正确性验证。本文全面概述了我们的解决方案，并详细描述了一系列为评估所提方案而设计的测试场景。  \n关键词—逻辑电路分类，神经网络，深度学习，光学字符识别"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "Mining Analytically Defined Families with Periodic Patterns for Chordal Ring Networks Using LLMs",
+    "authors": "Oleg Monakhov, Emilia Monakhova",
+    "publish": "2025 5th International Siberian Scientific Workshop on Data Analysis Technologies with Applications (SibDATA)",
+    "url": "https://doi.org/10.1109/sibdata67295.2025.11427859",
+    "source": "IEEE",
+    "abstract": "Chordal ring networks are a well-known class of graphs used as a model for communication networks in parallel computing systems and distributed networks. This class of graphs has a ring connection of vertices and additional edges (defined by generators) connecting them, forming a 3-regular graph. In this paper, an optimal graph is defined as a graph with a minimum diameter for a given number of vertices. The authors previously developed a large database (dataset) of optimal chordal ring networks. This paper is devoted to finding families of optimal chordal ring networks, that is, optimal networks that have common analytical descriptions of the number of vertices and generator, regularly repeating with a certain period of graph diameter variation. To solve this problem, two large language models (LLMs) were used as intelligent assistants. The algorithms and programs developed by these models were applied to the analysis of the dataset and allowed the discovery of over a hundreds families of optimal chordal ring networks.",
+    "title_zh": "利用大语言模型挖掘具有周期性模式的弦环网络中的分析定义族",
+    "abstract_zh": "弦环网络是一类广为人知的图类，常被用作并行计算系统和分布式网络中通信网络的模型。这类图具有顶点的环形连接，并通过由生成元定义的附加边相连，形成一个3-正则图。本文中，将最优图定义为在给定顶点数下具有最小直径的图。作者此前建立了一个大型数据库（数据集），包含大量最优弦环网络。本文致力于发现最优弦环网络的家族，即那些具有共同解析表达式（描述顶点数和生成元）且随图直径变化呈现特定周期性规律的最优网络。为解决该问题，研究采用了两个大型语言模型（LLMs）作为智能助手。这些模型所开发的算法与程序被应用于数据集的分析，成功发现了数百个最优弦环网络家族。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "RustC4++: Improving Rust Code-Comment Inconsistency Detection via Hybrid LLM and Static Analysis",
+    "authors": "Yichi Zhang, Yang Feng",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3800689",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "RustC4++：通过混合大语言模型与静态分析提升Rust代码注释不一致检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "Neuron Patching: Semantic-based Neuron-level Language Model Repair for Code Generation",
+    "authors": "Jian Gu, Aldeida Aleti, Chunyang Chen, Hongyu Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3799426",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "神经元修补：基于语义的代码生成语言模型神经元级修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "A Review of Surrogate-Assisted Evolutionary Multi-Objective Optimization",
+    "authors": "Qing Wang, Yong Zhang, Dunwei Gong, Xianfang Song, Chunlin He, Xinfang Ji, Fei Chu",
+    "publish": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+    "url": "https://doi.org/10.1109/tetci.2026.3670690",
+    "source": "IEEE",
+    "abstract": "Expensive multi-objective optimization problems (EMOPs) are widely encountered in science and engineering, but solving them often requires expensive evaluation costs. To alleviate the computational burden, surrogate-assisted multi-objective evolutionary algorithms (SAMOEAs) have emerged as an efficient paradigm by integrating evolutionary search with surrogate models. This survey provides a systematic overview of the field from multiple perspectives. First, EMOPs are classified based on their attributes, including the structure of objective space, Characteristics of decision variables, dynamics and constraints, and augmented optimization methods. Second, we analyze the core algorithmic components, including surrogate model management, infill criteria, and other acceleration mechanisms. Furthermore, we highlight the design of SAMOEAs tailored for special scenarios, such as multimodal optimization, heterogeneous objectives, and inverse modeling. In addition, applications across benchmark problems and real-world domains are also reviewed. Finally, we outline future promising research directions, including the development of more efficient and robust surrogate models, parallel and distributed frameworks, LLM-assisted SAMOEAs, privacy-preserving SAMOEAs and theoretical analysis of SAMOEAs. This survey aims to establish a systematic perspective on SAMOEAs, bridging methodological advances with practical challenges, and offering a roadmap for future developments.",
+    "title_zh": "代理辅助的进化多目标优化方法综述",
+    "abstract_zh": "昂贵的多目标优化问题（EMOPs）在科学与工程领域中广泛存在，但求解这类问题通常需要高昂的评估成本。为缓解计算负担，基于代理模型的多目标进化算法（SAMOEAs）应运而生，该方法通过将进化搜索与代理模型相结合，形成了一种高效的求解范式。本文从多个角度对这一领域进行了系统性综述：首先，根据目标空间结构、决策变量特征、动态性与约束条件以及增强型优化方法等属性对EMOPs进行分类；其次，深入分析了核心算法组件，包括代理模型管理策略、填充准则（infill criteria）以及其他加速机制；此外，重点介绍了针对特定应用场景设计的SAMOEA架构，如多模态优化、异构目标优化以及逆向建模问题；同时，还回顾了SAMOEAs在基准测试问题和真实世界应用中的实践案例。最后，本文展望了未来具有前景的研究方向，包括开发更高效、更鲁棒的代理模型，构建并行与分布式计算框架，引入大语言模型（LLM）辅助的SAMOEAs，实现隐私保护的SAMOEAs，以及对SAMOEAs的理论分析。本综述旨在建立对SAMOEAs的系统性认知，弥合方法创新与实际挑战之间的鸿沟，为该领域的未来发展提供清晰的路线图。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "LLM-Based Emulation of the Radio Resource Control Layer: Towards AI-Native RAN Protocols",
+    "authors": "Ziming Liu, Bryan Liu, Alvaro Valcarce, Xiaoli Chu",
+    "publish": "IEEE Journal on Selected Areas in Communications",
+    "url": "https://doi.org/10.1109/jsac.2026.3673712",
+    "source": "IEEE",
+    "abstract": "Integrating Large AI Models (LAMs) into 6G mobile networks is a key enabler of the AI-Native Air Interface (AI-AI), where protocol intelligence must scale beyond handcrafted logic. This paper presents, to our knowledge, the first standards-compliant emulation of the Radio Resource Control (RRC) layer using a decoder-only LAM (LLAMA-class) fine-tuned with Low-Rank Adaptation (LoRA) on a multi-vendor corpus of real-world traces spanning both 5G and 4G systems. We treat RRC as a domain-specific language and construct a segmentation-safe Question-and-Answer (QA) dataset that preserves Abstract Syntax Notation (ASN.1) structure through linearization prior to Byte Pair Encoding (BPE) tokenization. The proposed approach combines parameter-efficient adaptation with schema-bounded prompting to ensure syntactic and procedural fidelity. Evaluation introduces a standards-aware triad—ASN.1 conformance, field-level coverage analysis, and uplink-to-downlink state-machine checks—alongside semantic similarity and latency profiling across 120 configurations. On 30k 5G request–response pairs plus an additional 4.8k QA turns from 4G sessions, our 8B model achieves a median cosine similarity of 0.97, a 61% relative gain over a zero-shot baseline, while sustaining high conformance rates. These results demonstrate that LAMs, when augmented with protocol-aware reasoning, can directly orchestrate control-plane procedures, laying the foundation for the future Artificial Intelligence (AI)-native Radio Access Network (RAN).",
+    "title_zh": "基于大语言模型的无线资源控制层仿真：迈向人工智能原生的无线接入网协议",
+    "abstract_zh": "将大型人工智能模型（LAMs）集成到6G移动网络中，是实现AI原生空中接口（AI-AI）的关键推动力，其中协议智能必须超越手工编写的逻辑。据我们所知，本文首次提出了基于解码器-only型LAM（如LLAMA类模型），通过在涵盖4G与5G系统的多厂商真实数据 trace 上使用低秩适应（LoRA）进行微调，对无线资源控制（RRC）层进行符合标准的仿真。我们将RRC视为一种领域特定语言，并构建了一个分段安全的问答（QA）数据集，在进行字节对编码（BPE）分词前，通过线性化方法保留了抽象语法标记（ASN.1）结构。所提出的方案结合了参数高效的适配机制与基于模式约束的提示策略，以确保语法和流程上的准确性。评估部分引入了一套标准感知的三重验证体系——ASN.1合规性、字段级覆盖率分析以及上行至下行状态机一致性检查——并辅以跨120种配置的语义相似度与延迟性能分析。在3万条5G请求-响应对及额外4.8k条来自4G会话的QA交互样本上，我们的8B规模模型实现了0.97的中位数余弦相似度，相较于零样本基线提升了61%的相对性能，同时保持了高合规率。这些结果表明，当结合协议感知推理能力后，LAMs能够直接编排控制面操作，为未来人工智能原生无线接入网（AI-native RAN）的发展奠定了基础。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "Improving Integrated Circuit Manufacturing Flow Through Machine Learning: A Focus on Pre-Silicon Verification",
+    "authors": "Alecsandra Rusu, Marius Neag, Marina Topa",
+    "publish": "2025 IEEE 21st International Conference on Intelligent Computer Communication and Processing (ICCP)",
+    "url": "https://doi.org/10.1109/iccp68926.2025.11427150",
+    "source": "IEEE",
+    "abstract": "Machine learning (ML) has become an increasingly important component in integrated circuit (IC) development, particularly in pre-silicon verification. Traditional methods often face challenges such as slow processing, high resource demands, and difficulties in achieving comprehensive design space coverage. In contrast, adaptive ML techniques concentrate on critical regions of the design space while simultaneously ensuring extensive coverage, enabling faster convergence and lower simulation costs. By employing stopping criteria based on the convergence of a cost function, these methods enhance both accuracy and computational efficiency. As IC complexity continues to rise, the integration of ML-based approaches into the manufacturing flow offers a practical and scalable path toward robust, cost-effective development workflows.",
+    "title_zh": "通过机器学习改进集成电路制造流程：聚焦于硅前验证",
+    "abstract_zh": "机器学习（ML）已成为集成电路（IC）开发中日益重要的组成部分，尤其是在硅前验证领域。传统方法常常面临处理速度慢、资源消耗高以及难以实现全面设计空间覆盖等挑战。相比之下，自适应机器学习技术能够聚焦于设计空间中的关键区域，同时确保广泛的覆盖范围，从而实现更快的收敛速度和更低的仿真成本。通过基于代价函数收敛性的停止准则，这些方法不仅提升了准确性，还增强了计算效率。随着集成电路复杂度的持续提升，将基于机器学习的方法融入制造流程，为构建稳健且成本效益高的开发工作流提供了一条切实可行且可扩展的路径。"
+  },
+  {
+    "date": "2026-3-13",
+    "title": "\"Should I Give Up Now?\" Investigating LLM Pitfalls in Software Engineering",
+    "authors": "Jiessie Tie, Bingsheng Yao, Tianshi Li, Hongbo Fang, Syed Ishtiaque Ahmed, Dakuo Wang, Shurui Zhou",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3801972",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "“现在放弃还来得及吗？”——探究大型语言模型在软件工程中的陷阱",
+    "abstract_zh": "None"
+  }
+]
