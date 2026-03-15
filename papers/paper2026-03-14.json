@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2026-3-14",
+    "title": "TSDF Volume Compression using Sampling-Enhancing Residual Block and Selective Latent Code Encoding",
+    "authors": "Soowoong Kim, Jooyoung Lee, Gun Bang, Seungjoon Yang",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3801970",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-14",
+    "title": "Letter from the new Editors-in-Chief",
+    "authors": "Melissa Densmore, Waylon Brunette, Sunandan Chakraborty",
+    "publish": "ACM Journal on Computing and Sustainable Societies",
+    "url": "https://doi.org/10.1145/3788549",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-14",
+    "title": "Transition-aware Path and Direction Variation Modeling for Gaze Target Detection in Video",
+    "authors": "Xingming Yang, Jing Jin, Kewei Wu, Zhao Xie, Chongjia Zhu, Dan Guo",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3799429",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-14",
+    "title": "Artifact Evaluation in the FPGA Community and in ACM TRETS",
+    "authors": "Miriam Leeser",
+    "publish": "ACM Transactions on Reconfigurable Technology and Systems",
+    "url": "https://doi.org/10.1145/3802561",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-14",
+    "title": "Beyond Smoothing: A Discriminative Enhanced Aggregation Graph Neural Network for Camouflaged Fraud Detection",
+    "authors": "Venus Haghighi, Behnaz Soltani, Lina Yao, Jia Wu, Jian Yang, Quan Z. Sheng",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3801967",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-14",
+    "title": "SITFFormer: A Blind Super-Resolution Framework Preserving Structural Integrity and Texture Fidelity",
+    "authors": "Wei-Yen Hsu, Hsin-Yun Chang, Chung-Yu Chen",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3799233",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

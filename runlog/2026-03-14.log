@@ -1,0 +1,22 @@
+[2026-03-15 09:22:05] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-03-14
+正在获取论文...
+[ACM] 2026-3-14 | TSDF Volume Compression using Sampling-Enhancing Residual Block and Selective Latent Code Encoding
+[ACM] 2026-3-14 | Letter from the new Editors-in-Chief
+[ACM] 2026-3-14 | Transition-aware Path and Direction Variation Modeling for Gaze Target Detection in Video
+[ACM] 2026-3-14 | Artifact Evaluation in the FPGA Community and in ACM TRETS
+[ACM] 2026-3-14 | Beyond Smoothing: A Discriminative Enhanced Aggregation Graph Neural Network for Camouflaged Fraud Detection
+[ACM] 2026-3-14 | SITFFormer: A Blind Super-Resolution Framework Preserving Structural Integrity and Texture Fidelity
+共写入 6 条记录，保存到 papers/paper2026-03-14.json。
+论文获取成功，文件路径: papers/paper2026-03-14.json
+正在筛选、翻译并发送邮件...
+[NO] 1/6 | TSDF Volume Compression using Sampling-Enhancing Residual Block and Selective Latent Code Encoding
+[NO] 2/6 | Letter from the new Editors-in-Chief
+[NO] 3/6 | Transition-aware Path and Direction Variation Modeling for Gaze Target Detection in Video
+[NO] 4/6 | Artifact Evaluation in the FPGA Community and in ACM TRETS
+[NO] 5/6 | Beyond Smoothing: A Discriminative Enhanced Aggregation Graph Neural Network for Camouflaged Fraud Detection
+[NO] 6/6 | SITFFormer: A Blind Super-Resolution Framework Preserving Structural Integrity and Texture Fidelity
+筛选完成：共 6 篇；Yes = 0 篇；已保存到 papers/select_paper2026-03-14.json。
+邮件发送成功！
+[2026-03-15 09:23:09] 任务执行成功！
