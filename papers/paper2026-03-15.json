@@ -1,0 +1,605 @@
+[
+  {
+    "date": "2026-3-16",
+    "title": "Research on Flight Scheduling Optimization Based on Meta-Heuristic Algorithms",
+    "authors": "Jingchuan Wen, Xijun Ke, Feiyu Yang, Yueting Wang, Zongyu Li",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3788542",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Optimize Resource Management for Data Governance using Forecasting Algorithms",
+    "authors": "Ace C. Lagman, Rosicar E. Escober, Jeneffer A. Sabonsolin, Ricky C. Dimaapi, Alvin John M. Paz, Jowell M. Bawica",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787350",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Star Target Trajectory Detection Based on Dynamic Programming and Multistage Hypothesis Testing",
+    "authors": "Shaoyuan Zhong, Xinguo Wei",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772695",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Design and Key Technology Research of a \"Question-to-Chart/Question-to-Data\" Natural Resource Application System Based on Large Language Model",
+    "authors": "Fei Xiao, Hui Chen, Wenhua Guo, Xi Wang, Jianbo Lu, Ming Xiao, Fanrong Meng",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787363",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Hardware-Efficient Activation Approximation based on Error-Sensitivity Analysis for Deep Neural Networks",
+    "authors": "Juhyuk Ahn, Kwangrae Kim, Chanhoon Kim, Soo-Min Rho, Ki-Seok Chung",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772698",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "PC-FedAvg: Personalized Federated Learning for One-Class SVMs in Smart City Monitoring Systems",
+    "authors": "Ali Anaissi, Weidong Huang, Jie Hua, Junaid Akram, Basem Suleiman",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787341",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Scalable Decode Caching in Multi-Core Instruction Set Simulators",
+    "authors": "Martin Kristien, Björn Franke, Nigel Topham, Igor Böhm, Harry Wagstaff, Tom Spink",
+    "publish": "Proceedings of the Rapid Simulation and Performance Evaluation for Design",
+    "url": "https://doi.org/10.1145/3787501.3787504",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3787330",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Advancements of Topology Control in Internet of Underwater Things",
+    "authors": "Hang Tao, Hanjiang Luo, Yang Zhao, Yinyan Wang, Wei Shi, Jingjing Wang",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787340",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Comparative Study of Graph-Based, Community-Based, and Generative Models for Top-N Recommendation",
+    "authors": "Anh H. Nguyen, Lan T. H. Nguyen, Anh D. Do, Ban Q. Tran",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772700",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Pilot's Hand Positioning for Task Analysis using RBG-D Image Sequences",
+    "authors": "Xuewen Zuo, Yifan He, Ying Zhang",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787348",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Design and Performance Evaluation of Centralized and Decentralized Federated Edge Learning",
+    "authors": "Chi Wan Sung",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787347",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Erratum: Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach",
+    "authors": "Junjie Zhang, Ruobing Xie, Yupeng Hou, Wayne Xin Zhao, Leyu Lin, Ji-Rong Wen",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3795143",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Proceedings of the Rapid Simulation and Performance Evaluation for Design",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3787501",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Knowledge-Based Expert System for Software Methodology Selection using MCDM and Flow Entropy Sort Powered by Large Language Model",
+    "authors": "Moustafa F. Ali, Angie M. Ceniza-Canillo",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787352",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Hunting Memory WebShells: Detection Practices Based on Dynamic Baselines and Memory Tracing",
+    "authors": "Li Xingchen, Shi Yun, Chen Jiahui",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787345",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Web-Based Air Quality Monitoring and Mapping System using Fuzzy Logic Algorithm",
+    "authors": "Shaneth C. Ambat, Ace C. Lagman, Jeneffer A. Sabonsolin, Alejandro D. Magnaye",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787355",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Multi-Agent LLM for Reducing Unsheltered Homelessness",
+    "authors": "Shravya Kothapalli, Samhita Juloori, Vishvaas Vasudeva Rao, Joshna Medisetty, Ahmed Hambaba",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772682",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Research on Construction Specifications and Quality Assessment Methods for Multi-source Internet of Things Datasets in Smart City Waterway Transportation",
+    "authors": "Jihong Zhang, Xiaoquan Chen",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787342",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Unsupervised object segmentation based on multi-background feature similarity",
+    "authors": "Qifeng Luo, Tengda Huang, Fulin Liu, Zhenzhong Wei",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772705",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Distributed Privacy-Preserving Measurement: Architecture, Protocols, and Applications",
+    "authors": "Yu Fu, Yingbin Zhang, Qiong Sun, Guozhen Bian, Xin Li, Fazhi Qin",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787351",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Sidelobe Level Control Algorithm for Wide-Angle Scanning 2D Planar Phased Array",
+    "authors": "Xinglong Zhang, Yong Wang, Xianren Kong, Rui Ding, Bin Zhang, Huiying Sun",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787343",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Thought Experiment for Making Computers to Discover Euclidean Geometry Theorems Automatically",
+    "authors": "Zhenbing Zeng, Jian Lu, Yaochen Xu, Niuniu Qi",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787349",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "An Integrated Approach for Optimal Economic/Emission Dispatch Problems of Power Generation",
+    "authors": "Chao-Lung Chiang",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787335",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Predicting News Click-Through Rates Using Transformer-Based Multimodal Models",
+    "authors": "Kuoan Liao, Tzren-Ru Chou",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772708",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Research on Path Planning for Intelligent Robots Based on Improved A star Algorithm",
+    "authors": "Mai Jialing, Zhang Xiaohua",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772688",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Optimizing CPU Architecture for Small ML Workloads",
+    "authors": "Khawaja Arsalan Khalid, Jerry Wu",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772709",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "CEFU-QoS: A Cloud-Edge Federated Unlearning Framework for Rapid QoS Prediction via Collaborative Mechanisms",
+    "authors": "Hongyu Lin, Linhan Fang, Guanchen Du, Yuxuan Guo",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787356",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "An Improved ICP Point Cloud Registration Method Based on PCA and Point Normal",
+    "authors": "Tong Liu, Can Hao, Chao Gao, Peiling Cui, Weihu Zhou",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772699",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Dual-Frequency Wireless Power Transfer Circuit Operating in ISM Bands",
+    "authors": "Fang Wu, Xia Wang, Shan Huang, Xiaojian Xu, Hailong Tan",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787331",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "BIM-IoT Integration for Advancing Dispute Resolution Mechanisms: Challenges and Opportunities",
+    "authors": "Portia Masontaha Khaka, Nkosinathi Khoza, Prince Mlambo, Ehsan Saghatforoush",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787336",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "IoT-Based Fleet Monitoring System with Driver Logging and OBD-II Diagnostics",
+    "authors": "Shanelle Kate Reyes Lopez, Jovita Johann Dungca Tipon, Joshua Visbal, Adriane Brent Castro, Benedict Guarin",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787339",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Simulation Methodology for Fast Verification of Cyber-Physical Systems",
+    "authors": "Maxime Gras--Chevalier, Christophe Jégo, Camille Leroux, Franck Guillemard",
+    "publish": "Proceedings of the Rapid Simulation and Performance Evaluation for Design",
+    "url": "https://doi.org/10.1145/3787501.3787505",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "MESA: Secure and Efficient Sample Alignment for Vertical Federated Learning",
+    "authors": "Dan Wang, Ying Wang",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787353",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Robust Fault Detection in Phased Array Antennas via Deep Neural Networks",
+    "authors": "Mohammad Dadras Jeddi Pishkhani, Fujiang Lin",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787333",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Performance Analysis of Integrated Sensing and Communication Networks Based on Stochastic Geometry",
+    "authors": "Xia Wang, Fang Wu, Jun Han, Xiaojian Xu, Hailong Tan, Yuanqiang Yu",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787334",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Selective Triplication for Fault-Tolerant Systolic Array Processing Elements",
+    "authors": "Wilfread Guillemé, Gaëtan Lounes, Angeliki Kritikakou, Youri Helen, Robin Gerzaguet, Matthieu Gautier, Cédric Killian, Daniel Chillet",
+    "publish": "Proceedings of the Rapid Simulation and Performance Evaluation for Design",
+    "url": "https://doi.org/10.1145/3787501.3787503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "An Employee Clustering Method Based on Variational Autoencoder and Agglomerative Clustering",
+    "authors": "Tongkun Xing, Zhibing Xue, Songyang Zhang, Na Su, Ziyi Liu",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772683",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Plug-and-Play Optimization Framework via Deep-Broad Learning Cascade (DBLS)",
+    "authors": "Xinrui Wang, Xiaorong Hou, Yajian Zeng, Xiaoyu Zhou",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772687",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Performance Evaluation of a Contest Management System on Raspberry Pi",
+    "authors": "Chia-Chi Chang, Ting-Yun Cheng, Ching-Chuan Wei",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787357",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "ARCADES: A RISC-V-Coupled Accelerator for Discrete Event Simulation",
+    "authors": "Nils Wilbert, Derek Christ, Timo Grundheber, Matthias Jung",
+    "publish": "Proceedings of the Rapid Simulation and Performance Evaluation for Design",
+    "url": "https://doi.org/10.1145/3787501.3787502",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Multi-Agent Reinforcement Learning for Dynamic Software Development Methodology Selection: A Stakeholder-Aware Approach",
+    "authors": "Moustafa F. Ali, Angie M. Ceniza-Canillo",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787358",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Wide-Range Joint Calibration Method of 2D-3D Sensors for Robot Navigation",
+    "authors": "Jiuzheng Song, Zhen Liu, Chonglin Zhao, Shuyuan Wen, Bingrui Hu",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772707",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Few-shot Object Detection Integrating Multi-level Features and Attention",
+    "authors": "GuoPing Cao, YuHan Wang, Lin Chai",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772674",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Decentralized Swarm Learning with Class-Weighted Aggregation for Robust and Privacy-Preserving Cancer Diagnosis",
+    "authors": "Ali Anaissi, Weidong Huang, Jie Hua, Junaid Akram, Ahmad Hussein, Ali Braytee",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787354",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Erratum: Learning Discrete Identifiers and Dense Vectors for Generative Retrieval",
+    "authors": "Yunfan Xie, Lixin Zou, Xiangyang Luo, Hengyi Cai, Chaoran Zhang, Liming Dong, Xixun Lin, Chenliang Li",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3795145",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Development of Faculty Data Model and Evaluation System Using Decision Tree and Sentiment Analysis Algorithm",
+    "authors": "Ace C. Lagman, Rommel J. Constantino, Jeneffer A. Sabonsolin, Laser Ryan V. Lleno, Ariel A. Dela Cruz, Mary Ann T. Lim",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787360",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Resume-Job Compatibility Scoring Using Graph Neural Networks and Large Language Models",
+    "authors": "Amin Baghbanzadeh, Dan Wu",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787359",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Modelling Intelligent Systems for Smart Cities Using a Unified Framework for Intelligence and Intelligent Systems",
+    "authors": "Harris Wang",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787338",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Navigation based on Deep Reinforcement Learning with Replay Memory",
+    "authors": "Meixia Chen, Rujun Liang, Zhi Chen, Hongqiang Lv, Tianhua Hong",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787346",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Research on the Fundamental Principles and Key Technologies of Blockchain-Enabled Mobile Communication Wireless Access Networks",
+    "authors": "Yang Yang, Lei Shu Zhang, Wei Xue, Yao Xian Gu, Lin Zhang, Huan Wang",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787332",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Smart Governance using an Integrated IoT Model in the Sultanate of Oman: Architecture and Pilots",
+    "authors": "Anjum Zameer Bhat, Faheem Sayeed Masoodi, Said KHAMIS KHALAF Al Musilhi, Jitendra Pandey",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787337",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Multi-scale Adaptive Context Fusion for Multi-Modal Emotion Recognition in Conversation",
+    "authors": "Chao Gao, Shaomei Li, Danke Wu, Lixin Ji",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787362",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "A Comparative Study of Machine Learning Algorithms for Handwriting-Based Personality Trait Prediction",
+    "authors": "Parth Bhatnagar, Manjit Sodhi, Sailendra Panigrahi",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772675",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "The Impact of Part-of-Speech on Sentimental Values in Sichuan Dialect Based on Sentiment Analysis of Language Knowledge Base",
+    "authors": "Liang Chen, Yanlong Li, Wenjie Zou, Yuxuan Li, Xianbo Li",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772684",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3772673",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Multimodal Deep Learning for ATCO Command Lifecycle Modeling and Workload Prediction",
+    "authors": "Kaizhen Tan",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772702",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Automated Personality Prediction through Hindi Handwriting Analysis: A Machine Learning Approach to Graphology",
+    "authors": "Parth Bhatnagar, Manjit Sodhi, Sailendra Panigrahi",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772676",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Multistatic Radar-based Positioning in the ISAC System with Factor Graph Technique",
+    "authors": "Yunqi Wu, Sutong Wei, Meng Cheng",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787344",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Perceptlets: Key to Machine Learning",
+    "authors": "Guy Baron Olney, Leland Eugene Olney",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772679",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Synthetic Data Generation for Medical Data Privacy and Improved Classification Performance",
+    "authors": "Madhuri Sakhamuri, Ying Zhu",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772706",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Automating Tumour Localisation in Brain MRI Images by Utilizing a Reward Function based on Reinforcement Learning (RL)",
+    "authors": "Siva Raja P M, Sumithra R P, Vidhya S, Rejini K, Anjana S, Ramanan K",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3779113",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "TokenSkipping: A Practical and Robust KV Cache Pruning Method for Long-Context LLM Inference",
+    "authors": "Narupol Hongthai, Ekapol Chuangsuwanich",
+    "publish": "Proceedings of the 13th International Conference on Information Technology: IoT and Smart City",
+    "url": "https://doi.org/10.1145/3787330.3787361",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Automated Handwriting Analysis for Personality Assessment Using Machine Learning Techniques",
+    "authors": "Parth Bhatnagar, Manjit Sodhi, Parvathy Rajeev",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772677",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Multi-Scale Adaptive Attention for Time Series Anomaly Detection",
+    "authors": "Waylyn Lee, Tianrong Ye",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772696",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Online Calibration of Binocular Vision Sensor Structural Parameters Based on Kalman Filtering",
+    "authors": "Feng Yan, Zhen Liu, Yaowen Zhu",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772704",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-16",
+    "title": "Crop Disease and Pest Identification Based on Deep Learning and Raspberry Pi",
+    "authors": "Keke Wei, Yuanyuan Gao",
+    "publish": "Proceedings of the 2025 7th Asia Conference on Machine Learning and Computing",
+    "url": "https://doi.org/10.1145/3772673.3772703",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
