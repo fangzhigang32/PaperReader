@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2026-3-20",
+    "title": "A Multi-Stage Neuro-Symbolic Framework for Trustworthy Agentic Intelligence in ICE Systems",
+    "authors": "Jiaming Pei, Minxi Feng, Yue Xiu, Yonis Gulzar, Rayan Hamza Alsisi, Minghui Dai",
+    "publish": "IEEE Transactions on Consumer Electronics",
+    "url": "https://doi.org/10.1109/tce.2026.3676046",
+    "source": "IEEE",
+    "abstract": "The rapid evolution of consumer electronics has led to intelligent learning systems that must reason reliably and transparently under dynamic and complex inputs. When abstracted from specific applications, these systems expose fundamental challenges in multi-step reasoning, logical consistency, and interpretability that are not well addressed by purely data-driven models. To tackle these challenges, we propose a Multi-Stage Symbolic Supervised Learning framework that integrates perception, learnable symbolization, and logic-based reasoning within a unified, multi-stage training paradigm. The proposed approach progressively enforces symbolic constraints during supervised learning, improving reasoning robustness and interpretability. Experiments on visual and logical reasoning benchmarks demonstrate that our method consistently outperforms state-of-the-art approaches in both accuracy and logical consistency across increasing reasoning complexity.",
+    "title_zh": "面向ICE系统中可信代理智能的多阶段神经符号框架",
+    "abstract_zh": "消费电子产品的快速演进催生了智能学习系统，这些系统必须在动态且复杂的输入条件下实现可靠且透明的推理。当脱离具体应用场景进行抽象时，这些系统暴露出多步推理、逻辑一致性以及可解释性等方面的根本性挑战，而纯数据驱动的模型难以有效应对这些问题。为解决上述挑战，我们提出了一种多阶段符号监督学习框架，该框架在统一的多阶段训练范式中整合了感知、可学习的符号化以及基于逻辑的推理。所提出的方案在监督学习过程中逐步施加符号约束，从而提升了推理的鲁棒性和可解释性。在视觉与逻辑推理基准上的实验表明，随着推理复杂度的增加，我们的方法在准确率和逻辑一致性方面均持续优于现有的最先进方法。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "AI-Augmented Quality Assurance for Telecom and Network Management Applications",
+    "authors": "Srikanth Singireddy, Abinaya Mettupatti Sivagnanam",
+    "publish": "2025 2nd Asian Conference on Intelligent Technologies (ACOIT)",
+    "url": "https://doi.org/10.1109/acoit66109.2025.11436907",
+    "source": "IEEE",
+    "abstract": "Telecom and network management applications are critical enterprise systems that handle billing, provisioning, expense management, and large-scale service delivery. Ensuring their quality and reliability remains a challenge due to the scale of data, complexity of business rules, and evolving network technologies such as 5G and SDN. This paper proposes an AI-augmented framework for software quality assurance (QA) that takes advantage of machine learning (ML) and natural language processing (NLP) to automate defect detection, anomaly analysis, and test generation. Experiments in telecom expense management (TEM) and network operations platforms demonstrate that AI-augmented QA improves defect detection rates by 32%, reduces regression cycle time by 45%, and provides explainable insights for developers and QA teams. The findings indicate that integrating AI into QA pipelines enables more resilient, scalable, and adaptive telecom systems, positioning it as a key enabler for next-generation communication infrastructure.",
+    "title_zh": "人工智能增强的电信与网络管理应用质量保证",
+    "abstract_zh": "电信与网络管理应用是关键的企业系统，负责处理计费、服务开通、费用管理以及大规模服务交付。由于数据规模庞大、业务规则复杂，以及5G和软件定义网络（SDN）等新兴网络技术的不断发展，确保这些系统的质量和可靠性始终面临挑战。本文提出了一种基于人工智能增强的软件质量保障（QA）框架，充分利用机器学习（ML）和自然语言处理（NLP）技术，实现缺陷检测、异常分析和测试用例自动生成的自动化。在电信费用管理（TEM）和网络运营平台中的实验表明，AI增强型QA可使缺陷检测率提升32%，回归测试周期缩短45%，并为开发人员和QA团队提供可解释的洞察。研究结果表明，将AI融入QA流程能够构建更加稳健、可扩展且适应性强的电信系统，使其成为下一代通信基础设施的关键支撑技术。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Did I Vet You Before? Assessing the Chrome Web Store Vetting Process through Browser Extension Similarity",
+    "authors": "José Miguel Moreno, Narseo Vallina-Rodriguez, Juan Tapiador",
+    "publish": "IEEE Transactions on Services Computing",
+    "url": "https://doi.org/10.1109/tsc.2026.3675950",
+    "source": "IEEE",
+    "abstract": "Web browsers, particularly Google Chrome and other Chromium-based browsers, have grown in popularity over the past decade, with browser extensions becoming an integral part of their ecosystem. These extensions can customize and enhance the user experience, providing functionality that ranges from ad blockers to, more recently, AI assistants. Given the ever-increasing importance of web browsers, distribution marketplaces for extensions play a key role in keeping users safe by vetting submissions that display abusive or malicious behavior. In this paper, we characterize the prevalence of malware and other infringing extensions in the Chrome Web Store (CWS), the largest distribution platform for this type of software. To do so, we introduce SIMEXT, a novel methodology for detecting similarly behaving extensions that leverages static and dynamic analysis, Natural Language Processing (NLP) and vector embeddings. Our study reveals significant gaps in the CWS vetting process, as 86% of infringing extensions are extremely similar to previously vetted items, and these extensions take months or even years to be removed. By characterizing the top kinds of infringing extension, we find that 83% are New Tab Extensions (NTEs) and raise some concerns about the consistency of the vetting labels assigned by CWS analysts.",
+    "title_zh": "我之前审查过你吗？通过浏览器扩展相似性评估Chrome网络商店的审核流程",
+    "abstract_zh": "过去十年中，网络浏览器（尤其是谷歌Chrome及其他基于Chromium的浏览器）的受欢迎程度持续上升，浏览器扩展程序也逐渐成为其生态系统中不可或缺的一部分。这些扩展程序能够自定义并增强用户体验，功能范围从广告拦截器到近年来兴起的AI助手不等。鉴于网络浏览器日益重要的地位，扩展程序分发平台在保障用户安全方面发挥着关键作用，通过审核提交的扩展程序，防止存在滥用或恶意行为的软件进入市场。本文旨在分析Chrome Web Store（CWS）——这一最大的扩展程序分发平台——中恶意软件及其他违规扩展的普遍程度。为此，我们提出了一种名为SIMEXT的新方法，该方法结合静态分析、动态分析、自然语言处理（NLP）以及向量嵌入技术，用于检测行为相似的扩展程序。研究发现，CWS的审核流程存在显著漏洞：86%的违规扩展与已通过审核的项目极为相似，而这些违规扩展往往需要数月甚至数年才能被移除。通过对主要类型的违规扩展进行分析，我们发现其中83%为“新标签页扩展”（NTEs），这引发了人们对CWS审核人员所分配审核标签一致性的担忧。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Integrating Ontology with Abstract Behavioural Specification for Automated Business Logic in Software Product Lines",
+    "authors": "Venkata Madhu Prateek Reddy Kambala",
+    "publish": "2025 2nd Asian Conference on Intelligent Technologies (ACOIT)",
+    "url": "https://doi.org/10.1109/acoit66109.2025.11436961",
+    "source": "IEEE",
+    "abstract": "Software Product Lines (SPL) offer a promising approach to accelerate development processes while enhancing product quality and reducing production costs. Central to SPL is the feature diagram, which delineates the relationships between features within a domain, capturing both commonalities and variabilities. Despite its advantages, the implementation of SPL in information system development remains insufficiently explored. This paper investigates the integration of ontology within the SPL framework, particularly through the lens of executable modeling languages like Abstract Behavioural Specification (ABS). We introduce the ABS Microservices Framework, which extends ABS capabilities to accommodate variabilities in microservices-based architectures. Our proposed adaptor effectively integrates ABS microservices with ontology-based information systems, enabling the automation of business logic generation. By leveraging ontology, we ensure that the system maintains a semantically structured foundation, allowing for automatic updates of the necessary business logics. This integration not only enhances the adaptability and efficiency of information systems but also positions ontology as a critical component in the evolution of SPL methodologies.",
+    "title_zh": "将本体与抽象行为规范相结合以实现软件产品线中的自动化业务逻辑",
+    "abstract_zh": "软件产品线（SPL）为加速开发流程、提升产品质量并降低生产成本提供了一种极具前景的解决方案。SPL的核心是特征图，它描绘了领域内各功能之间的关系，既捕捉共性也表达变异性。尽管具有诸多优势，SPL在信息系统开发中的实际应用仍缺乏深入探索。本文研究了本体论在SPL框架中的集成，特别是通过可执行建模语言如抽象行为规范（ABS）的视角。我们提出了ABS微服务框架，该框架扩展了ABS的能力，以支持基于微服务架构中的变异性。所提出的适配器能够有效将ABS微服务与基于本体的信息系统集成，实现业务逻辑的自动化生成。借助本体论，系统得以保持语义结构化的基础，从而支持必要业务逻辑的自动更新。这一集成不仅提升了信息系统的适应性和效率，更确立了本体论在SPL方法演进过程中的关键作用。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Beyond Warning Lists: How to Uncover Patterns in Python Static Code Warnings Using Association Rule Mining",
+    "authors": "Gudrun Schappacher-Tilp, Jan Kornberger, Nicoletta Kaehling, Kevin Beichler, Egon Teiniker",
+    "publish": "IEEE Software",
+    "url": "https://doi.org/10.1109/ms.2026.3676245",
+    "source": "IEEE",
+    "abstract": "Static analysis tools such as Pylint generate hundreds or thousands of warnings in Python projects. While each warning is useful in isolation, it is far less clear how these warnings relate to one another or what broader patterns they form across a codebase. This article presents a practical method for uncovering such structures in Pylint outputs using association rule mining. By treating each source file as a transaction and warning codes as items, we identify recurring cooccurrence patterns, directional relationships, and warning “hubs” that consistently appear across multiple repositories. We demonstrate how association-rule mining exposes relationships among warnings that are not visible in flat lists, enabling deeper analysis of static code quality data. Using examples from real-world Python projects, we highlight how this approach enriches the interpretation of static analysis results for developers, technical leads, and educators.",
+    "title_zh": "超越警告列表：如何使用关联规则挖掘发现Python静态代码警告中的模式",
+    "abstract_zh": "静态分析工具（如 Pylint）在 Python 项目中会产生数百甚至数千条警告。尽管每条警告单独来看都有其价值，但这些警告之间的相互关系以及在整个代码库中形成的更广泛模式却并不清晰。本文提出了一种实用方法，通过关联规则挖掘技术来揭示 Pylint 输出中的潜在结构。我们将每个源文件视为一条交易记录，将警告代码视为项目，从而识别出频繁共现的模式、方向性关系以及在多个仓库中反复出现的“警告枢纽”。我们展示了如何通过关联规则挖掘发现那些在扁平列表中无法察觉的警告间关系，进而实现对静态代码质量数据的深入分析。结合真实世界 Python 项目的案例，本文强调了该方法如何提升开发者、技术负责人和教育工作者对静态分析结果的理解与解读能力。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Predicting Executability and Performance of CNN Kernels on Tenstorrent Hardware Using Machine Learning",
+    "authors": "Param Gandhi, Sharvil Potdar, Nayan Gogari, Gargi Alavani Prabhu, Sankar Manoj, Santonu Sarkar",
+    "publish": "2025 IEEE 32nd International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+    "url": "https://doi.org/10.1109/hipc66333.2025.00043",
+    "source": "IEEE",
+    "abstract": "Maximizing the performance of deep learning models on AI accelerators like Tenstorrent Wormhole requires precise control over hardware resources such as compute cores and onchip memory. Operations such as convolution expose a range of tunable parameters, such as parallelization strategies, buffer sizes, compute datatypes, and memory hierarchies (SRAM vs. DRAM) that involve trade-offs between performance, memory usage, and numerical accuracy. Tenstorrent's TT-NN API reimplements PyTorch's conv2d while exposing all these lowlevel controls, allowing fine-grained control, but presenting a steep learning curve for users familiar with PyTorch's high-level abstractions. We propose a predictive software layer that facilitates the execution of conv2d on Tenstorrent hardware by modeling the relationship between input tensors, configuration parameters, and execution outcomes. We train two machine learning models: one predicts execution success with 99.82% accuracy, and the other estimates run-time performance with an <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathrm{R}^{2}$</tex> score of 0.9984. These models enable automated hardware-aware tuning (TuneNet) of the TT-NN configuration space, reducing trial and error, avoiding out-of-memory errors, and improving performance. TuneNetselected configurations reduce conv2d latency by 13.29% compared to TT-NN defaults on Tenstorrent Wormhole N150s, while incurring minimal computational overhead (9s). This work introduces the first hardware-aware autotuning pipeline for Tenstorrent accelerators, significantly reducing tuning overhead while improving performance.",
+    "title_zh": "使用机器学习预测卷积神经网络核在Tenstorrent硬件上的可执行性与性能",
+    "abstract_zh": "在AI加速器（如Tenstorrent Wormhole）上最大化深度学习模型的性能，需要对硬件资源（如计算核心和片上内存）进行精确控制。卷积等操作涉及一系列可调参数，包括并行化策略、缓冲区大小、计算数据类型以及内存层次结构（SRAM与DRAM之间的权衡），这些参数在性能、内存占用和数值精度之间存在复杂的权衡关系。Tenstorrent的TT-NN API重写了PyTorch的conv2d函数，同时暴露了所有底层控制选项，从而实现细粒度调控，但对习惯PyTorch高层抽象的用户而言，学习曲线陡峭。\n\n为此，我们提出了一种预测性软件层，通过建模输入张量、配置参数与执行结果之间的关系，来促进conv2d在Tenstorrent硬件上的高效执行。我们训练了两个机器学习模型：一个用于预测执行成功率，准确率达99.82%；另一个用于估计运行时性能，R²得分高达0.9984。这两个模型共同支持自动化硬件感知调优（TuneNet），能够显著减少试错成本，避免内存溢出错误，并提升整体性能。\n\nTuneNet所选择的配置在Tenstorrent Wormhole N150设备上使conv2d延迟降低了13.29%，相较于TT-NN默认配置，且仅带来微小的计算开销（约9秒）。本工作首次为Tenstorrent加速器构建了硬件感知的自动调优流水线，在大幅降低调优开销的同时，有效提升了模型性能。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Context Aware LLM Optimization Using Domain-Specific Fine-Tuning",
+    "authors": "S Geetha, Divij P, Pranav K M, Abhishek Paul P",
+    "publish": "2025 2nd Asian Conference on Intelligent Technologies (ACOIT)",
+    "url": "https://doi.org/10.1109/acoit66109.2025.11436679",
+    "source": "IEEE",
+    "abstract": "This paper presents an efficient attitude to fine-tune any Large Language Model (LLM) using Quantized Low Rank Adaptation (QLoRA) technique. QLoRA provides a coherent approach that not only shrinks computational resources usage but also maintains complete or full 16 – bit fine-tuning task performance. QLoRA incorporates several advancements to minimize memory usage while maintaining performance: (a) 4-bit NormalFloat (NF4), an optimized data type designed for normally distributed weights, (b) Double Quantization, which lowers memory consumption by further compressing quantization constants, and (c) Paged Optimizers, which help control memory spikes efficiently. Various LLMs have been fine-tuned using this approach. The results show that QLoRA fine-tuning on these models using clean datasets yields better results than the base models.",
+    "title_zh": "基于领域特定微调的上下文感知大模型优化",
+    "abstract_zh": "本文提出了一种高效的方法，利用量化低秩适应（QLoRA）技术对任意大型语言模型（LLM）进行微调。QLoRA提供了一种协调一致的解决方案，不仅显著降低了计算资源的使用，同时保持了与完整16位微调任务相当的性能水平。QLoRA通过多项创新有效减少了内存占用，同时维持高性能：（a）4位正态浮点数（NF4），一种专为服从正态分布权重设计的优化数据类型；（b）双层量化，通过进一步压缩量化常数来降低内存消耗；（c）分页优化器，可高效控制内存峰值。该方法已成功应用于多种大型语言模型的微调。实验结果表明，使用干净数据集对这些模型进行QLoRA微调后，其性能优于原始基线模型。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "UniOMP: Unified Optimization Framework for OpenMP Offload Under Machine Learning Guidance",
+    "authors": "Jianan Li, Lin Han, Shaoliang Peng, Yingying Li, Wei Gao",
+    "publish": "2025 IEEE 32nd International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+    "url": "https://doi.org/10.1109/hipc66333.2025.00039",
+    "source": "IEEE",
+    "abstract": "Heterogeneous programming is a critical approach to unleashing the parallel computing potential of GPUs, playing a vital role in fields requiring massive computational resources, such as scientific computing, artificial intelligence, and computer graphics. While OpenMP simplifies parallel programming and offers greater flexibility and portability compared to CUDA and Triton, it still faces challenges in fully leveraging hardware resources for efficient task execution. We propose UniOMP, an OpenMP-based optimization framework designed to enhance kernel launch efficiency and deeply optimize parallel tasks across diverse computational patterns. By integrating machine learning algorithms to select optimal parameters and orchestrate optimization passes, UniOMP seamlessly combines traditional compilation with ML-driven strategies, achieving holistic coordination of fine-grained and global optimizations. Experimental results demonstrate that UniOMP achieves speedups of 1.74x on AMDGPU and 1.34x on NVIDIA platforms for PolyBench, and 1.33x (AMDGPU) and 1.24x (NVIDIA) for SPEC ACCEL. Additionally, it reduces average register usage by 25 %, maximizing the efficient utilization of GPU hardware resources.",
+    "title_zh": "UniOMP：基于机器学习指导的OpenMP卸载统一优化框架",
+    "abstract_zh": "异构编程是释放GPU并行计算潜力的关键方法，在需要大量计算资源的领域（如科学计算、人工智能和计算机图形学）中发挥着至关重要的作用。尽管OpenMP简化了并行编程，相较于CUDA和Triton具有更高的灵活性和可移植性，但在充分利用硬件资源以实现高效任务执行方面仍面临挑战。为此，我们提出了UniOMP——一种基于OpenMP的优化框架，旨在提升内核启动效率，并对多种计算模式下的并行任务进行深度优化。通过集成机器学习算法来选择最优参数并协调优化流程，UniOMP将传统编译技术与基于机器学习的策略无缝结合，实现了细粒度优化与全局优化的全面协同。实验结果表明，UniOMP在PolyBench基准测试中，于AMDGPU平台取得1.74倍的加速比，在NVIDIA平台上达到1.34倍；在SPEC ACCEL基准测试中，分别实现1.33倍（AMDGPU）和1.24倍（NVIDIA）的加速效果。此外，该框架还将平均寄存器使用量降低了25%，最大限度地提升了GPU硬件资源的利用效率。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Automatic Pipelining for Arbitrary Circuits via Gate-level Forwarding and Customized Scheduling",
+    "authors": "Chongxiao Li, Shuyao Cheng, Rui Zhang, Qicheng Wang, Pengwei Jin, Di Huang, Jiaming Guo, Zidong Du, Xing Hu, Qi Guo",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3675930",
+    "source": "IEEE",
+    "abstract": "Circuit pipelining is essential for improving the frequency and throughput of sequential circuits, yet it still largely relies on manual design at the behavioral level, which is effort-intensive, error-prone, and fails to exploit fine-grained gate-level opportunities. Existing automatic approaches analyze feedforward paths to insert registers but fall back to conservative stalling in the presence of feedback loops, sacrificing parallelism to preserve correctness. As a result, neither manual nor existing automatic methods simultaneously achieve fine-grained throughput optimization and correctness guarantees on arbitrary sequential circuits. We present an automatic pipelining framework that combines gate-level forwarding and customized scheduling. Our key insight is that gate-level analysis reveals shorter feedback loops, whose hazards can be resolved by forwarding paths spanning fewer pipeline stages, thus avoiding long multi-cycle dependencies that cause redundant stalls. Our method consists of two steps: the first focuses on fine-grained optimization beyond behavioral-level analysis, while the second ensures correctness for arbitrary circuits. Concretely, we (i) greedily assign pipeline stages at the gate level and create short forwarding paths for fine-grained pipeline optimization, and (ii) design a circuit-specific scheduler to ensure correctness. The scheduler analyzes state-conditioned reads/writes to predict future dependencies and apply only the necessary stalls, and is then synthesized into hardware using an improved Binary Speculative Diagram (BSD) algorithm with acceptable hardware overhead. Across diverse circuit datasets, our approach identifies 35.23% redundant pipeline stalls overlooked by behavioral-level manual designs and improves throughput by 9.46% for 3-stage and 23.07% for 4-stage pipelines over EDA-based automatic pipelining techniques, while guaranteeing functional correctness on arbitrary sequential circuits.",
+    "title_zh": "通过门级前向传播与定制调度实现任意电路的自动流水线设计",
+    "abstract_zh": "流水线技术对于提升时序电路的频率和吞吐量至关重要，然而目前仍主要依赖于行为级的手动设计，这种做法耗时费力、容易出错，并且无法充分挖掘细粒度的门级优化机会。现有的自动流水线方法通过分析前馈路径来插入寄存器，但在遇到反馈环路时会退化为保守的停顿策略，以保证正确性而牺牲了并行性。因此，无论是手动方法还是现有自动方法，都无法在任意时序电路上同时实现细粒度的吞吐量优化与功能正确性的保障。\n\n本文提出一种全新的自动流水线框架，结合了门级前向传递（forwarding）与定制化调度机制。我们的核心洞察是：通过对门级结构进行分析，可以发现更短的反馈环路，这些环路中的冒险可通过跨越较少流水线阶段的前向通路解决，从而避免因长周期多周期依赖导致的冗余停顿。该方法包含两个步骤：第一阶段专注于超越行为级分析的细粒度优化；第二阶段则确保任意电路的正确性。具体而言，我们（i）在门级层面贪婪地分配流水线阶段，并构建短距离前向通路，以实现细粒度的流水线优化；（ii）设计一种电路特定的调度器，以确保正确性。该调度器通过分析状态条件读写操作，预测未来的数据依赖关系，并仅施加必要的停顿；随后，该调度器通过改进的二进制推测图（Binary Speculative Diagram, BSD）算法被综合为硬件逻辑，其带来的硬件开销在可接受范围内。\n\n在多种不同的电路数据集上，我们的方法识别出比行为级手动设计多出35.23%的冗余流水线停顿，并在三段流水线中将吞吐量提升9.46%，四段流水线中提升23.07%，显著优于基于EDA的自动流水线技术，同时对任意时序电路均能保证功能正确性。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "DaV$^\\text{3}$is: Data Flow-Based Vulnerability Verification Through Visualization_supp1-3675682.mp4",
+    "authors": "Tobias Mertz",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tvcg.2026.3675682/mm2",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DaV$^\\text{3}$ 是一种基于数据流的漏洞验证方法，通过可视化实现。_supp1-3675682.mp4",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Self-Healing Data Systems: AI-Augmented Root Cause Analysis in Modern Warehouses",
+    "authors": "Mahendran Chinnaiah, Sashi Kiran Kaata, Rishiraj Kohli",
+    "publish": "2025 2nd Asian Conference on Intelligent Technologies (ACOIT)",
+    "url": "https://doi.org/10.1109/acoit66109.2025.11436627",
+    "source": "IEEE",
+    "abstract": "Contemporary data warehouses are becoming more technical, distributed and more mission critical, but they are also becoming more susceptible to outage and degraded performance due to implicit anomalies. Conventional methods of monitoring and troubleshooting are usually based on manual analysis and rule-based notifications that do not scale in dynamic settings. This paper gives Self-Healing Data Systems that are enabled by AI-enhanced root cause analysis to automatically identify, diagnose, and resolve errors in data warehouse ecosystems. The framework proposed combines anomaly detection, causal inference, and reinforcement learning to observe at scale the large pipelines and to localize the source of faults with extreme precision and activate automatic recovery steps. The system rapidly reduces mean time to detect (MTTD) and mean time to repair (MTTR) by applying log mining, dependency graph modelling and predictive analytics to ensure continuity in service. Modern cloud-based data warehouse workload evaluation shows that experimental evaluation can substantially increase accuracy of the root cause localization as well as reducing the recovery time up to 45 percent versus the baseline workload approaches. Based on these findings, self-healing with AI is a promising foundational capability to build resilient, adaptive, and intelligent data management infrastructures.",
+    "title_zh": "自愈式数据系统：人工智能增强的现代仓库根因分析",
+    "abstract_zh": "当代数据仓库正变得越来越技术化、分布式化，且日益关键，但同时也因隐含异常而更容易出现中断和性能下降。传统的监控与故障排查方法通常依赖人工分析和基于规则的告警，难以在动态环境中实现有效扩展。本文提出一种由AI增强的根因分析驱动的自愈数据系统，能够自动识别、诊断并解决数据仓库生态系统中的错误。所提出的框架结合了异常检测、因果推断与强化学习技术，可大规模观测复杂的数据流水线，以极高的精度定位故障源头，并触发自动恢复流程。通过应用日志挖掘、依赖图建模和预测分析，该系统显著缩短了平均故障发现时间（MTTD）和平均修复时间（MTTR），保障了服务的持续性。现代云原生数据仓库工作负载的实验评估表明，相较于基线方法，该方案在根因定位准确率上大幅提升，同时将恢复时间最多减少45%。基于这些成果，基于AI的自愈能力展现出巨大潜力，可作为构建弹性、自适应且智能的数据管理基础设施的核心基础。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Agentic LLM Pipelines for Reproducible Scientific Software: Opportunities and Challenges",
+    "authors": "Andrey Adashchik, Abu Huraira, Zamira Kholmatova, Andrei Mikriukov, Alessandro Ravveduto, Mariia Snigireva, Giancarlo Succi, Alexander Tormasov, Ekaterina Trofimova",
+    "publish": "Proceedings of the 2025 9th International Conference on Computer Science and Artificial Intelligence",
+    "url": "https://doi.org/10.1145/3788149.3788227",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "用于可重现科学软件的代理型大语言模型流水线：机遇与挑战",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "GAISH-BENCH: An evaluation method for generative artificial intelligence software and hardware adaptation compatibility",
+    "authors": "Wu Yinqian, Weng Qinlan, Zhang Weimin, Shi Lin",
+    "publish": "Proceedings of the 2025 9th International Conference on Computer Science and Artificial Intelligence",
+    "url": "https://doi.org/10.1145/3788149.3788156",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "GAISH-BENCH：生成式人工智能软硬件适配兼容性评估方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Estimating Code Comprehension Time Using Large Language Models: A Time Based Evaluation of Java Code Understanding",
+    "authors": "Navruza Tulkunova, Firas Jolha, Aleksandra Egorova, Gleb Bugaev, Alyona Maksimova, Dmitriy Okoneshnikov, Evgeniy Zuev",
+    "publish": "Proceedings of the 2025 9th International Conference on Computer Science and Artificial Intelligence",
+    "url": "https://doi.org/10.1145/3788149.3788237",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用大型语言模型估算代码理解时间：基于时间的Java代码理解评估",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "Autonomous Algorithm Synthesis via Large Language Models for Multi-Hop Routing in IoT Networks",
+    "authors": "Tran Cong Dao, Nguyen Cong Luong, Xingwang Li, Thien Huynh-The, Dusit Niyato, Dong In Kim",
+    "publish": "IEEE Wireless Communications Letters",
+    "url": "https://doi.org/10.1109/lwc.2026.3676041",
+    "source": "IEEE",
+    "abstract": "Multi-hop routing optimization in IoT networks involves complex energy–latency trade-offs that challenge traditional algorithm design approaches. This paper presents a systematic framework for Large Language Model (LLM)-assisted algorithm synthesis for multi-hop routing in digital twin (DT)-enabled IoT systems. The proposed three-phase methodology enables LLMs to support algorithmic design by analyzing problem structures, synthesizing hybrid optimization strategies, and iteratively refining routing heuristics under energy, reliability, and latency constraints. The framework generates multiple specialized algorithms, including Advanced Smart Constraint (ASC) for adaptive construction, Energy-Focused Iterative (EFI) refinement, and problem-specific large neighborhood search operators. Extensive experiments on synthetic IoT networks with <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">K</i> = 5–50 devices demonstrate consistent energy reductions of approximately 45% over the random baseline, with statistical significance (<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">p</i> < 0.05) and very large effect sizes (Cohen’s <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">d</i> ≈ 2.5–3.2). Algorithm specialization emerges naturally across network scales, with EFI performing best on small networks and ASC dominating medium to larger configurations. These results indicate that LLM-assisted algorithm synthesis provides a practical and scalable approach for constrained routing optimization in DT-enabled IoT systems.",
+    "title_zh": "基于大型语言模型的自主算法合成在物联网网络多跳路由中的应用",
+    "abstract_zh": "物联网网络中的多跳路由优化涉及复杂的能耗-时延权衡，对传统算法设计方法提出了严峻挑战。本文提出了一种系统性框架，用于在数字孪生（DT）赋能的物联网系统中，借助大语言模型（LLM）实现多跳路由算法的智能合成。所提出的三阶段方法使LLM能够通过分析问题结构、合成混合优化策略，并在能耗、可靠性与时延约束下迭代优化路由启发式算法，从而支持算法设计。该框架生成了多种专用化算法，包括用于自适应构造的先进智能约束（ASC）算法、以能耗为导向的迭代优化（EFI）算法，以及针对特定问题的大邻域搜索算子。在包含K = 5–50个设备的合成物联网网络上进行的大量实验表明，与随机基线相比，该方法在所有场景中均实现了约45%的持续能耗降低，且具有统计显著性（p < 0.05）和极高的效应量（Cohen’s d ≈ 2.5–3.2）。随着网络规模的变化，算法专业化特征自然显现：EFI在小型网络中表现最佳，而ASC则在中等至大型网络配置中占据主导地位。这些结果表明，基于LLM的算法合成为DT赋能的物联网系统中的受限路由优化提供了一种实用且可扩展的解决方案。"
+  },
+  {
+    "date": "2026-3-20",
+    "title": "DaV$^\\text{3}$is: Data Flow-Based Vulnerability Verification Through Visualization_supp2-3675682.pdf",
+    "authors": "Tobias Mertz",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tvcg.2026.3675682/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DaV$^\\text{3}$ 是：通过可视化实现基于数据流的漏洞验证_supp2-3675682.pdf",
+    "abstract_zh": "None"
+  }
+]
