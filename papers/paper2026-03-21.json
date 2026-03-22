@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-3-21",
+    "title": "Real-Time Task Mapping for CPU-GPU Heterogeneous Platforms: Spatial GPU Partitioning and Utilization Bound",
+    "authors": "Jian-Jun Han, Changan Zhang, Yan Xiao, Jie Liu, Laurence T. Yang",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3803800",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-21",
+    "title": "Trusted Execution for Secure and Privacy-Preserving Data Handling in Internet of Medical Things",
+    "authors": "Chen Zhou, Masoud Barati",
+    "publish": "ACM Transactions on Privacy and Security",
+    "url": "https://doi.org/10.1145/3803554",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

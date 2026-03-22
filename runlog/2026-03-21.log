@@ -1,0 +1,14 @@
+[2026-03-22 09:20:09] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-03-21
+正在获取论文...
+[ACM] 2026-3-21 | Real-Time Task Mapping for CPU-GPU Heterogeneous Platforms: Spatial GPU Partitioning and Utilization Bound
+[ACM] 2026-3-21 | Trusted Execution for Secure and Privacy-Preserving Data Handling in Internet of Medical Things
+共写入 2 条记录，保存到 papers/paper2026-03-21.json。
+论文获取成功，文件路径: papers/paper2026-03-21.json
+正在筛选、翻译并发送邮件...
+[NO] 1/2 | Real-Time Task Mapping for CPU-GPU Heterogeneous Platforms: Spatial GPU Partitioning and Utilization Bound
+[NO] 2/2 | Trusted Execution for Secure and Privacy-Preserving Data Handling in Internet of Medical Things
+筛选完成：共 2 篇；Yes = 0 篇；已保存到 papers/select_paper2026-03-21.json。
+邮件发送成功！
+[2026-03-22 09:20:31] 任务执行成功！
