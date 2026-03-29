@@ -1,0 +1,49 @@
+[2026-03-29 22:31:23] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-03-28
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202603280000+TO+202603282359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"))
+[ACM] 2026-3-28 | Arabic-based Agent for Authorship Style Transfer
+[ACM] 2026-3-28 | Breaking the Scalability Barrier of Content Addressable Memories: A Probabilistic Alternative for Large-Key Associative Search
+[ACM] 2026-3-28 | AI4DSE: Leveraging Dynamic Graph Neural Networks and Large Language Models for Optimizing High-Level Synthesis Design Space Exploration
+[ACM] 2026-3-28 | TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes
+[ACM] 2026-3-28 | The Aftermath of Technology-Mediated Scams: Strengthening Older Adults’ Efforts Toward Redress
+[ACM] 2026-3-28 | FuILT-S: Full Chip ILT With Unified Boundary Healing and SRAF Co-Optimization
+[ACM] 2026-3-28 | Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering
+[ACM] 2026-3-28 | GLU-Net: Global-Local Fusion Network for Event-Based Monocular Depth Estimation via Uncertainty Optimization
+[ACM] 2026-3-28 | A Comprehensive Study on Large Language Models for Mutation Testing
+[ACM] 2026-3-28 | Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions
+[ACM] 2026-3-28 | Twenty Years of Personality Computing: Threats, Challenges and Future Directions
+[ACM] 2026-3-28 | The Role of Intrusiveness and Color in Content Warning Label Effectiveness
+[ACM] 2026-3-28 | Transition‑Based Acceptance for ω‑Regular Expression Synthesis
+[ACM] 2026-3-28 | SVGS: Single-View to 3D Object Editing via Gaussian Splatting
+[ACM] 2026-3-28 | Data-Centric Foundation Models in Computational Healthcare: A Survey
+[ACM] 2026-3-28 | Concise Object-word Visuals as Effective Cues for Visual Question Answering
+[ACM] 2026-3-28 | Automated Prompt Engineering for Cost-Effective Code Generation Using Evolutionary Algorithms
+[ACM] 2026-3-28 | Physics-Constrained Adversarial Attack Generation and Active Defense for the Hybrid Deep Reinforcement Learning-Based Load Frequency Control
+[ACM] 2026-3-28 | Benchmarking LLMs for Unit Test Generation from Real-World Functions
+共写入 19 条记录，保存到 papers/paper2026-03-28.json。
+论文获取成功，文件路径: papers/paper2026-03-28.json
+正在筛选、翻译并发送邮件...
+[NO] 1/19 | Arabic-based Agent for Authorship Style Transfer
+[NO] 2/19 | Breaking the Scalability Barrier of Content Addressable Memories: A Probabilistic Alternative for Large-Key Associative Search
+[YES] 3/19 | AI4DSE: Leveraging Dynamic Graph Neural Networks and Large Language Models for Optimizing High-Level Synthesis Design Space Exploration
+[NO] 4/19 | TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes
+[NO] 5/19 | The Aftermath of Technology-Mediated Scams: Strengthening Older Adults’ Efforts Toward Redress
+[NO] 6/19 | FuILT-S: Full Chip ILT With Unified Boundary Healing and SRAF Co-Optimization
+[YES] 7/19 | Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering
+[NO] 8/19 | GLU-Net: Global-Local Fusion Network for Event-Based Monocular Depth Estimation via Uncertainty Optimization
+[YES] 9/19 | A Comprehensive Study on Large Language Models for Mutation Testing
+[NO] 10/19 | Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions
+[NO] 11/19 | Twenty Years of Personality Computing: Threats, Challenges and Future Directions
+[NO] 12/19 | The Role of Intrusiveness and Color in Content Warning Label Effectiveness
+[NO] 13/19 | Transition‑Based Acceptance for ω‑Regular Expression Synthesis
+[NO] 14/19 | SVGS: Single-View to 3D Object Editing via Gaussian Splatting
+[NO] 15/19 | Data-Centric Foundation Models in Computational Healthcare: A Survey
+[NO] 16/19 | Concise Object-word Visuals as Effective Cues for Visual Question Answering
+[YES] 17/19 | Automated Prompt Engineering for Cost-Effective Code Generation Using Evolutionary Algorithms
+[NO] 18/19 | Physics-Constrained Adversarial Attack Generation and Active Defense for the Hybrid Deep Reinforcement Learning-Based Load Frequency Control
+[YES] 19/19 | Benchmarking LLMs for Unit Test Generation from Real-World Functions
+筛选完成：共 19 篇；Yes = 5 篇；已保存到 papers/select_paper2026-03-28.json。
+邮件发送成功！
+[2026-03-29 22:34:44] 任务执行成功！

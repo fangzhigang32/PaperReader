@@ -1,0 +1,173 @@
+[
+  {
+    "date": "2026-3-28",
+    "title": "Arabic-based Agent for Authorship Style Transfer",
+    "authors": "Shadi Abudalfa, Raed Mughaus, Ahmed Abdelali",
+    "publish": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "url": "https://doi.org/10.1145/3806046",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Breaking the Scalability Barrier of Content Addressable Memories: A Probabilistic Alternative for Large-Key Associative Search",
+    "authors": "Arish Sateesan, Jo Vliegen, Nele Mentens",
+    "publish": "ACM Transactions on Reconfigurable Technology and Systems",
+    "url": "https://doi.org/10.1145/3805708",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "AI4DSE: Leveraging Dynamic Graph Neural Networks and Large Language Models for Optimizing High-Level Synthesis Design Space Exploration",
+    "authors": "Lei Xu, Shanshan Wang, Emmanuel Casseau, Chenglong X iao",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3805806",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes",
+    "authors": "Jialiang Huang, Teng Ma, Zheng Liu, Sixing Lin, Kang Chen, Jinlei Jiang, Xia Liao, Yingdi Shan, Yongwei Wu, Ning Zhang, Mengting Lu, Tao Ma, Haifeng Gong, Mingxing Zhang",
+    "publish": "ACM Transactions on Computer Systems",
+    "url": "https://doi.org/10.1145/3805475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "The Aftermath of Technology-Mediated Scams: Strengthening Older Adults’ Efforts Toward Redress",
+    "authors": "Sam Addison Ankenbauer, Robin N. Brewer",
+    "publish": "ACM Transactions on Computer-Human Interaction",
+    "url": "https://doi.org/10.1145/3805036",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "FuILT-S: Full Chip ILT With Unified Boundary Healing and SRAF Co-Optimization",
+    "authors": "Shuo Yin, ZIYANG YU, Wenqian Zhao, Lancheng Zou, Jiahao Xu, Su Zheng, Yuzhe Ma, Tsungyi Ho, Bei Yu",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3801558",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering",
+    "authors": "Filipe R. Cogo, Gustavo A. Oliva, Ahmed E. Hassan",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3802581",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "GLU-Net: Global-Local Fusion Network for Event-Based Monocular Depth Estimation via Uncertainty Optimization",
+    "authors": "Shangjie Wu, Jihua Zhu, Zhikuan Zhou, Siqi Li, Shaoyi Du, Yue Gao",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3803017",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "A Comprehensive Study on Large Language Models for Mutation Testing",
+    "authors": "Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis, Jie M. Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3805038",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions",
+    "authors": "Nagabhushan Somraj, Sai Harsha Mupparaju, Adithyan Karanayil, Rajiv Soundararajan",
+    "publish": "ACM Transactions on Graphics",
+    "url": "https://doi.org/10.1145/3806041",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Twenty Years of Personality Computing: Threats, Challenges and Future Directions",
+    "authors": "Fabio Celli, Aleksandar Kartelj, Mijan Dordevič, Derwin Suhartono, Vladimir Filipovič, Veljko Milutinovič, Georgios Spathoulas, Alessandro Vinciarelli, Michal Kosinski, Bruno Lepri",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3806009",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "The Role of Intrusiveness and Color in Content Warning Label Effectiveness",
+    "authors": "Holly Sarah Liban, Benjamin D. Horne",
+    "publish": "ACM Transactions on Applied Perception",
+    "url": "https://doi.org/10.1145/3805797",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Transition‑Based Acceptance for ω‑Regular Expression Synthesis",
+    "authors": "Charles Pert, Dalal Alrajeh, Alessandra Russo",
+    "publish": "Formal Aspects of Computing",
+    "url": "https://doi.org/10.1145/3803799",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "SVGS: Single-View to 3D Object Editing via Gaussian Splatting",
+    "authors": "Pengcheng Xue, Yan Tian, Qiutao Song, Ziyi Wang, Linyang He, Weiping Ding, Mahmoud Hassaballah, Karen Egiazarian, Wei-fa Yang, Leszek Rutkowski",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3803793",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Data-Centric Foundation Models in Computational Healthcare: A Survey",
+    "authors": "Yunkun Zhang, Jin Gao, Zheling Tan, Lingfeng Zhou, Kexin Ding, Mu Zhou, Shaoting Zhang, Dequan Wang",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3800677",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Concise Object-word Visuals as Effective Cues for Visual Question Answering",
+    "authors": "Quanxing Xu, Ling Zhou, Xian Zhong, Feifei Zhang, Rubing Huang",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3805048",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Automated Prompt Engineering for Cost-Effective Code Generation Using Evolutionary Algorithms",
+    "authors": "Hamed Taherkhani, Melika Sepidband, Hung Viet Pham, Song Wang, Hadi Hemmati",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3805704",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Physics-Constrained Adversarial Attack Generation and Active Defense for the Hybrid Deep Reinforcement Learning-Based Load Frequency Control",
+    "authors": "Zhenyong Zhang, Wei Wang, Mufeng Wang, Haiming Wang, Jichao Bi, Guowen Xu",
+    "publish": "ACM Transactions on Autonomous and Adaptive Systems",
+    "url": "https://doi.org/10.1145/3805703",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Benchmarking LLMs for Unit Test Generation from Real-World Functions",
+    "authors": "Dong Huang, Jie M. Zhang, Mark Harman, Qianru Zhang, Mingzhe Du, See-Kiong Ng",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3805043",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

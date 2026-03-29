@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-3-28",
+    "title": "AI4DSE: Leveraging Dynamic Graph Neural Networks and Large Language Models for Optimizing High-Level Synthesis Design Space Exploration",
+    "authors": "Lei Xu, Shanshan Wang, Emmanuel Casseau, Chenglong X iao",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3805806",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AI4DSE：利用动态图神经网络与大语言模型优化高层次综合设计空间探索",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering",
+    "authors": "Filipe R. Cogo, Gustavo A. Oliva, Ahmed E. Hassan",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3802581",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "Compiler.next：一种基于搜索的编译器，以推动软件工程的AI原生未来",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "A Comprehensive Study on Large Language Models for Mutation Testing",
+    "authors": "Bo Wang, Mingda Chen, Ming Deng, Youfang Lin, Mark Harman, Mike Papadakis, Jie M. Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3805038",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大型语言模型在突变测试中的综合研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Automated Prompt Engineering for Cost-Effective Code Generation Using Evolutionary Algorithms",
+    "authors": "Hamed Taherkhani, Melika Sepidband, Hung Viet Pham, Song Wang, Hadi Hemmati",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3805704",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于进化算法的自动化提示工程：实现低成本代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-3-28",
+    "title": "Benchmarking LLMs for Unit Test Generation from Real-World Functions",
+    "authors": "Dong Huang, Jie M. Zhang, Mark Harman, Qianru Zhang, Mingzhe Du, See-Kiong Ng",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3805043",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于真实函数的单元测试生成大语言模型基准测试",
+    "abstract_zh": "None"
+  }
+]
