@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-4-3",
+    "title": "Leveraging AI Tools in Engineering Education: Promise and Pitfalls of AI in Software Development",
+    "authors": "Antonio Carlos Bento, José Reinaldo Silva, Marcos Ribeiro Pereira Barretto, Sérgio Camacho-León, Elsa Yolanda Torres-Torres",
+    "publish": "IEEE Revista Iberoamericana de Tecnologias del Aprendizaje",
+    "url": "https://doi.org/10.1109/rita.2026.3680777",
+    "source": "IEEE",
+    "abstract": "This paper examines the pedagogical impact of Artificial Intelligence-assisted tools in a university software construction course. Through a 10-week case study with 25 engineering students, the study captures qualitative insights into how students interact with AI tools, the challenges they face, and the learning strategies that emerge. While students reported perceived time savings, the core contribution lies in understanding the educational implications, both positive and challenging of integrating AI into project-based learning environments. The findings reveal that Artificial Intelligence tools enhance prototyping and debugging skills but require structured integration to mitigate over-reliance. The study contributes a framework for balancing Artificial Intelligence use with traditional pedagogy, supporting Sustainable Development Goals 4’s goal of equitable education, while the opinion survey carried out with students shows a result of 96% satisfaction with the use of assisted artificial intelligence tools during the development of the project during the studies.",
+    "title_zh": "在工程教育中利用人工智能工具：人工智能在软件开发中的前景与风险",
+    "abstract_zh": "本文探讨了人工智能辅助工具在大学软件构建课程中的教学影响。通过为期10周、涵盖25名工程专业学生的案例研究，该研究深入捕捉了学生与AI工具互动的定性见解，揭示了他们在使用过程中遇到的挑战以及由此产生的学习策略。尽管学生普遍认为AI工具带来了时间上的节省，但本研究的核心贡献在于深入理解将人工智能融入项目式学习环境所带来的教育意义，包括积极影响与潜在挑战。研究发现，人工智能工具有助于提升原型设计与调试能力，但需通过结构化整合来避免过度依赖。本研究提出了一种平衡人工智能应用与传统教学方法的框架，支持可持续发展目标4中关于公平教育的目标。此外，针对学生开展的意见调查结果显示，在项目开发过程中使用人工智能辅助工具的满意度高达96%。"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "Software Vulnerabilities as Cognitive Blindspots; Assessing the Suitability of a Dual Processing Theory of Decision Making for Secure Coding",
+    "authors": "Matthew Ivory, John Towse, Miriam Sturdee, Mark Levine, Bashar Nuseibeh",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806388",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "软件漏洞作为认知盲点；评估双重加工理论在安全编码决策中的适用性",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "Challenges in Testing Large Language Model Based Software: A Faceted Taxonomy",
+    "authors": "Felix Dobslaw, Robert Feldt, Juyeon Yoon, Shin Yoo",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806396",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大语言模型的软件测试挑战：一种多维分类法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "Review of Superconducting Qubit Devices and Their Large-Scale Integration",
+    "authors": "Hiu Yung Wong",
+    "publish": "IEEE Electron Devices Reviews",
+    "url": "https://doi.org/10.1109/edr.2026.3680072",
+    "source": "IEEE",
+    "abstract": "The superconducting qubit quantum computer is one of the most promising quantum computing architectures for large-scale integration due to its maturity and close proximity to the well-established semiconductor manufacturing infrastructure. From an education perspective, it also bridges classical microwave electronics and quantum electrodynamics. In this paper, we will review the basics of quantum computers, superconductivity, and Josephson junctions. We then introduce important technologies and concepts related to DiVincenzo’s criteria, which are the necessary conditions for the superconducting qubit technology to work as a useful quantum computer. Firstly, we will discuss various types of superconducting qubits formed with Josephson junctions, from which we will understand the trade-off across multiple design parameters, including their noise immunity. Secondly, we will discuss different schemes to achieve entanglement gate operations, which are a major bottleneck in achieving more efficient fault-tolerant quantum computing. Thirdly, we will review readout engineering, including the implementations of the Purcell filters and quantum-limited amplifiers. Finally, we will discuss the nature and review the studies of two-level system defects, which are currently the limiting factor of qubit coherence time. DiVincenzo’s criteria are only the necessary conditions for a technology to be eligible for quantum computing. To have a useful quantum computer, large-scale integration is required. We will review proposals and developments for the large-scale integration of superconducting qubit devices. By comparing with the application of electronic design automation (EDA) in semiconductors, we will also review the use of EDA in superconducting qubit quantum computer design, which is necessary for its large-scale integration.",
+    "title_zh": "超导量子比特器件及其大规模集成的综述",
+    "abstract_zh": "超导量子比特量子计算机由于其技术成熟度以及与成熟的半导体制造基础设施的紧密联系，是实现大规模集成最具前景的量子计算架构之一。从教育角度来看，它还架起了经典微波电子学与量子电动力学之间的桥梁。本文将首先回顾量子计算机、超导性以及约瑟夫森结的基本原理。随后，我们将介绍与迪文森佐（DiVincenzo）标准相关的重要技术与概念，这些是超导量子比特技术能够作为实用量子计算机运作的必要条件。首先，我们将讨论由约瑟夫森结构成的各种类型的超导量子比特，从中理解在多个设计参数之间的权衡关系，包括其抗噪声能力。其次，我们将探讨实现纠缠门操作的不同方案，因为这是实现更高效容错量子计算的主要瓶颈。第三，我们将回顾读出工程方面的进展，包括Purcell滤波器和量子极限放大器的实现。最后，我们将讨论两级系统缺陷的本质，并综述当前关于此类缺陷的研究，因为它们目前是限制量子比特相干时间的主要因素。需要指出的是，迪文森佐标准只是某项技术具备量子计算潜力的必要条件，要构建真正有用的量子计算机，仍需实现大规模集成。本文还将综述超导量子比特器件大规模集成的相关设想与进展。通过与半导体领域中电子设计自动化（EDA）的应用进行对比，我们还将探讨EDA在超导量子比特量子计算机设计中的应用，这对于其实现大规模集成至关重要。"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "Fine-Tuning Lightweight LLM for Enhanced Network Understanding: A Rephrase and Contrast Approach",
+    "authors": "Liujianfu Wang, Jingqi Lin, Yuyang Du, Yuchen Pan, Kexin Chen, Soung Chang Liew",
+    "publish": "IEEE Transactions on Machine Learning in Communications and Networking",
+    "url": "https://doi.org/10.1109/tmlcn.2026.3680410",
+    "source": "IEEE",
+    "abstract": "The application of Large Language Models (LLMs) to the domain of communication networks has emerged as a significant area of investigation for both academia and industry. However, progress in this field is constrained by two critical challenges: the limited generalization capabilities inherent in prompt-dependent techniques and a scarcity of efficient fine-tuning methodologies that can unlock the full potential of lightweight LLMs. To surmount these obstacles, this paper introduces Rephrase and Contrast (RaC), a novel fine-tuning framework designed to substantially enhance an LLM’s comprehension and logical reasoning abilities by systematically integrating question reformulation with a comparative evaluation of correct and incorrect responses. Our contributions are threefold. First, we present the RaC framework, whose efficacy is validated through extensive experimentation. The fine-tuned model demonstrates a 15.84% improvement in accuracy over its baseline counterpart when evaluated on a comprehensive benchmark of networking problems. Second, to facilitate robust model training, we developed a GPT-assisted data mining pipeline to generate high-fidelity question-answer (QA) pairs from established networking textbooks, creating a comprehensive dataset. We further introduce ChoiceBoost-X, a data augmentation technique designed to expand this dataset while mitigating positional bias in multiple-choice formats. Third, to foster reproducible research and community-driven innovation, we are releasing our complete toolchain as open-source, including: (1) a LLaMA3.1-8B model specifically fine-tuned for networking QA; (2) the curated training dataset from textbooks; and (3) multi-difficulty test sets to serve as a standardized benchmark for future studies.",
+    "title_zh": "轻量级大模型的微调以增强网络理解：一种重述与对比方法",
+    "abstract_zh": "大型语言模型（LLMs）在通信网络领域的应用已成为学术界和产业界广泛关注的重要研究方向。然而，该领域的发展受到两大关键挑战的制约：一是依赖提示（prompt-dependent）的技术固有的泛化能力有限；二是缺乏高效微调方法，难以充分发挥轻量级LLMs的全部潜力。为克服这些障碍，本文提出了一种名为“重述与对比”（Rephrase and Contrast, RaC）的新颖微调框架，通过系统性地结合问题重述与正确与错误回答的对比评估，显著提升LLM对网络问题的理解能力和逻辑推理能力。本文的主要贡献有三方面：第一，我们提出了RaC框架，并通过大量实验验证了其有效性。在针对网络问题的综合性基准测试中，经过微调的模型相比基线模型准确率提升了15.84%。第二，为支持稳健的模型训练，我们开发了一个基于GPT的辅助数据挖掘流程，从权威网络技术教材中生成高质量的问题-答案（QA）对，构建了一个全面的数据集。此外，我们还提出了ChoiceBoost-X这一数据增强技术，旨在扩充数据集的同时缓解多选题格式中的位置偏差问题。第三，为促进可复现研究和社区驱动的创新，我们已将完整的工具链以开源形式发布，包括：（1）一个专为网络问答任务微调的LLaMA3.1-8B模型；（2）来自教材的精心筛选训练数据集；以及（3）涵盖多种难度级别的测试集，作为未来研究的标准基准。"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "As Long As I See It - OSVHunter: Understanding and Detecting Open-Secret Vulnerabilities in Smart Contracts",
+    "authors": "Songyan Ji, Jin Wu, Wei Zhang, Ming Han, Limin Ma, Jian Dong",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806397",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "只要我能看见它 - OSVHunter：理解与检测智能合约中的开放秘密漏洞",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "Personalized NextGen Product Design with GenAI",
+    "authors": "Adrik Ray",
+    "publish": "2025 IEEE Integrated STEM Education Conference (ISEC)",
+    "url": "https://doi.org/10.1109/isec64801.2025.11460358",
+    "source": "IEEE",
+    "abstract": "This paper presents an advanced system design environment (SDE) that implements a data-driven pipeline for product refinement through automated feedback analysis and rapid prototyping. The system introduces a novel integrated approach combining personality-aware feedback analysis, generative AI (GenAI), and 3D visualization technologies in a unified workflow. The core innovation lies in its seven-stage automated pipeline that transforms qualitative user feedback into quantitative design parameters while dynamically adapting to distinct personality traits through calibrated temperature settings - from High Openness individuals (0.8) valuing creative exploration to High Conscientiousness users (0.2) emphasizing structured efficiency. The architecture features a sophisticated Review Analysis Engine employing large language models (LLMs) to process user feedback with personality-specific temperature settings, while the Parameter Generation System converts these insights into design variables. The system's Design Refinement Engine and Visualization System create a continuous improvement cycle where feedback from High Innovator users (0.9) is balanced against High Empathy (0.6) and High Confidence (0.7) personalities to influence physical specifications through AI-mediated analysis and geometric processing. Initial implementations demonstrate significant improvements, with High Innovator users generating 200% more unique design variations and showing 70% higher likelihood of design acceptance. The system achieves 40% faster design iteration cycles while maintaining strong correlation (r > 0.7) between personality traits and design acceptance across all types. This research advances the field by establishing a direct, automated pipeline from personality-influenced user sentiment to physical product specifications, representing a fundamental shift in how diverse user perspectives influence product development while maintaining cost-effectiveness through strategic use of open-source foundations and scalable implementation options.",
+    "title_zh": "基于生成式AI的个性化下一代产品设计",
+    "abstract_zh": "本文提出了一种先进的系统设计环境（SDE），该环境通过自动化反馈分析与快速原型设计，构建了一个数据驱动的产品优化流程。系统引入了一种创新的集成方法，将人格感知的反馈分析、生成式人工智能（GenAI）以及三维可视化技术融合于统一的工作流中。其核心创新在于一个七阶段的自动化流程，能够将定性的用户反馈转化为定量的设计参数，并通过校准的温度设置动态适应不同人格特质——例如，高开放性个体（温度设为0.8）重视创造性探索，而高尽责性用户（温度设为0.2）则更强调结构化与效率。\n\n该系统的架构包含一个复杂的评论分析引擎，利用大语言模型（LLMs）对用户反馈进行处理，并根据用户的人格特征采用特定的温度参数；同时，参数生成系统将这些洞察转化为具体的设计变量。设计优化引擎与可视化系统共同构成持续改进的闭环：来自高创新者用户（温度0.9）的反馈，会与高共情型（0.6）和高自信型（0.7）人格用户的反馈相平衡，通过AI中介分析与几何处理，影响产品的物理规格。\n\n初步实施结果表明，高创新者用户产生的独特设计方案数量提升了200%，且设计被接受的可能性高出70%。系统实现了40%的设计迭代速度提升，同时在所有类型用户中，人格特质与设计接受度之间保持了较强的正相关性（r > 0.7）。本研究推动了该领域的进步，建立了一条从受人格影响的用户情感到实体产品规格的直接、自动化的转化路径，标志着产品开发方式的根本转变——即在充分吸纳多样化用户视角的同时，通过战略性地使用开源基础框架和可扩展的实现方案，有效控制成本并保障效率。"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "Meta:\n                    <i>Graph-encoded Printed Circuit Board Datasets for Component Classification with Graph Neural Networks</i>",
+    "authors": "Tian Lan, Yuhang Wang, Feng Ji, Xinrui Wang, Deruo Cheng, Yiqiong Shi, Bah-Hwee Gwee",
+    "publish": "IEEE Data Descriptions",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3680389",
+    "source": "IEEE",
+    "abstract": "We present a graph-based framework for Printed Circuit Board (PCB) image analysis, targeting core hardware assurance (HA) tasks such as IC segmentation and component identification. PCB images differ fundamentally from natural images in texture simplicity, spatial sparsity, and lack of informative backgrounds, limiting the effectiveness of traditional vision models. We propose GraphPCB, a generic scheme that transforms PCB images into graph-structured data, where nodes represent localized component regions and edges encode spatial proximity. This representation enables the application of Graph Neural Networks (GNNs) to PCB understanding, offering robustness to geometric variations and background noise. We release two high-quality <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">GraphPCB</i> datasets and analyze their structural properties, including graph heterophily and domain-specific challenges. Extensive experiments with various GNN architectures provide benchmarks and insights, establishing GraphPCB as a new testbed for node classification in structured visual domains.",
+    "title_zh": "图编码的印刷电路板数据集用于图神经网络的元件分类",
+    "abstract_zh": "我们提出了一种基于图的印刷电路板（PCB）图像分析框架，旨在解决集成电路（IC）分割和元器件识别等核心硬件保障（HA）任务。与自然图像相比，PCB图像在纹理上更为简单，空间分布稀疏，且缺乏信息丰富的背景，这限制了传统视觉模型的有效性。为此，我们提出了GraphPCB——一种通用的数据转换方案，将PCB图像转化为图结构数据：节点代表局部元器件区域，边则编码它们之间的空间邻近关系。这种表示方式使得图神经网络（GNNs）能够有效应用于PCB理解，对几何形变和背景噪声具有更强的鲁棒性。我们发布了两个高质量的GraphPCB数据集，并对其结构特性进行了分析，包括图异质性及领域特定挑战。通过多种GNN架构的大量实验，我们提供了基准测试结果与深入洞察，确立了GraphPCB作为结构化视觉领域中节点分类任务的新基准测试平台。"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection",
+    "authors": "Beiqi Zhang, Peng Liang, Xin Zhou, Xiyu Zhou, David Lo, Qiong Feng, Zengyang Li, Lin Li",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806390",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于参数高效微调的代码异味检测综合评估",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "Microelectronics and VLSI Curriculum Development for Potential Workforce",
+    "authors": "Jabeom Koo",
+    "publish": "2025 IEEE Integrated STEM Education Conference (ISEC)",
+    "url": "https://doi.org/10.1109/isec64801.2025.11460352",
+    "source": "IEEE",
+    "abstract": "Rapid evolution of semiconductor technology has resulted in an unprecedented reliance on microelectronics and Very Large-Scale Integration (VLSI) systems across various industries. As technology of this field continues to advance and affects various aspects of the modern world, educational institutions are recognizing the crucial need of a specialized curriculum tailored to these domains. By establishing a curriculum that emphasizes these specialized areas, educational institutions can equip students with skills and knowledge required to address the challenges and opportunities present in the microelectronics and VLSI landscape. Such curriculum shall extend from theoretical fundamentals to practical hands-on experience, exposure to industry-standard tools, and collaborative projects. Integration of microelectronics and VLSI-focused courses will help bridge any gaps between academia and industry standards and will be able to foster potential workforce that meets industry demands. This paper introduces such curriculum for each class year and explores in detail its contents and its outcome. Course survey results from the last 4 years show how students were affected by the proposed curricula.",
+    "title_zh": "微电子与超大规模集成电路（VLSI）人才培养课程开发",
+    "abstract_zh": "半导体技术的迅速发展导致了各行各业对微电子学和超大规模集成（VLSI）系统前所未有的依赖。随着该领域技术的持续进步，深刻影响着现代社会的方方面面，教育机构也日益认识到为这些专业领域量身定制专门课程的迫切需求。通过建立以这些专业方向为重点的课程体系，教育机构能够培养学生应对微电子学与VLSI领域所面临挑战与机遇所需的知识与技能。该课程体系应涵盖从理论基础到实践动手能力，包括对行业标准工具的接触以及协作项目经验。将聚焦于微电子学与VLSI的课程有机整合，有助于弥合学术界与产业界之间的差距，培养出符合产业实际需求的高素质人才。本文介绍了针对各年级学生设计的此类课程体系，并详细阐述其内容及实施效果。过去四年课程调查结果表明，学生在学习过程中受到了所提出课程体系的积极影响。"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "LIMO: Large Language Model-Empowered Intent-Driven Network Management and Orchestration",
+    "authors": "Pu Wang, Tong Li, Chungang Yang, Fuqiang Li, Yao Wang, Qiao Li, Zheng Chang, Bodong Shang, Dusit Niyato",
+    "publish": "IEEE Communications Magazine",
+    "url": "https://doi.org/10.1109/mcom.001.2500533",
+    "source": "IEEE",
+    "abstract": "To support on-demand network services towards 6G networks, we present a large language model-empowered intent-driven network management and orchestration framework named LIMO. Although large language models have already been applied to intent-driven network management, there still lacks an intent full lifecycle design encompassing intent translation, policy generation, code generation, and continuous assurance. To bridge this gap, we present the LIMO framework with intent-enabled, policy generation, and code implementation layers, each integrating distinct large language model functionalities. Meanwhile, we deploy a proof-of-concept implementation of the presented LIMO framework in 6G radio access networks. In terms of the intent translation, fine-tuned large language models achieve 48%-50% higher accuracy compared to their foundation models without domain-specific adaptation. For the policy optimization, the presented framework outperforms five baseline schemes, achieving a maximum service-level agreement satisfaction rate of 96.0%. Finally, the presented LIMO successfully generates executable code for managing and orchestrating the underlying infrastructure. Overall, experimental results validate the feasibility and effectiveness of the presented LIMO framework.",
+    "title_zh": "LIMO：基于大语言模型的意图驱动网络管理与编排",
+    "abstract_zh": "为支持面向6G网络的按需网络服务，本文提出了一种由大语言模型赋能的意图驱动型网络管理与编排框架——LIMO。尽管大语言模型已应用于意图驱动的网络管理，但目前仍缺乏涵盖意图翻译、策略生成、代码生成及持续保障等全生命周期的完整设计。为弥补这一空白，我们提出了LIMO框架，该框架包含意图感知、策略生成和代码实现三个层次，每一层均集成了特定的大语言模型功能。同时，我们在6G无线接入网络中部署了LIMO框架的原型验证系统。在意图翻译方面，经过微调的大语言模型相比未进行领域适配的基础模型，准确率提升了48%至50%；在策略优化方面，所提出的框架优于五种基线方案，最高实现了96.0%的服务水平协议（SLA）满足率；最后，LIMO成功生成了可执行代码，用于管理和编排底层基础设施。总体而言，实验结果验证了LIMO框架的可行性与有效性。"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "MCPNet++: Interpretable Classification Models via Multi-Level Concept Prototypes",
+    "authors": "Bor-Shiun Wang, Chien-Yi Wang, Wei-Chen Chiu",
+    "publish": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "url": "https://doi.org/10.1109/tpami.2026.3680506",
+    "source": "IEEE",
+    "abstract": "Post-hoc and inherently interpretable methods have shown great success in uncovering the inner workings of black-box models, whether by examining them after training or by explicitly designing for interpretability. While these approaches effectively narrow the semantic gap between a model's latent space and human understanding, they typically extract only high-level semantics from the model's final feature map. As a result, they provide a limited perspective on the decision-making process. We argue that explanations lacking insight into both lower- and mid-level semantics cannot be considered fully faithful or genuinely useful. To address this issue, we introduce the Multi-Level Concept Prototypes Classifier (MCPNet), which offers a more holistic interpretation by drawing on information from multiple levels within the model. Rather than relying on predefined concept labels, MCPNet autonomously discovers meaningful concepts from feature maps. To increase versatility, we further propose MCPNet++, which can be seamlessly applied to both CNN and transformer backbones, allowing it to learn meaningful concepts from their respective features. Building on these learned concepts, we also introduce a large language model (LLM)-based method to bridge the gap between these concepts and human perception. Experimental results show that MCPNet++ provides more comprehensive explanations without sacrificing model performance, with the discovered concepts aligning closely with human understanding.",
+    "title_zh": "MCPNet++：通过多层级概念原型实现可解释的分类模型",
+    "abstract_zh": "事后的且固有可解释的方法在揭示黑箱模型内部工作机制方面取得了显著成功，无论是通过训练后分析，还是通过显式设计以实现可解释性。尽管这些方法有效缩小了模型隐空间与人类理解之间的语义鸿沟，但它们通常仅能从模型的最终特征图中提取高层次语义信息，因而对决策过程的洞察十分有限。我们认为，若解释无法深入揭示低层与中层语义，便不能被视为真正忠实或具有实际价值。为解决这一问题，我们提出了多层级概念原型分类器（MCPNet），该方法通过整合模型内部多个层次的信息，提供更为全面的解释视角。与依赖预定义概念标签的方法不同，MCPNet能够自主地从特征图中发现有意义的概念。为进一步提升灵活性，我们还提出了MCPNet++，其可无缝应用于CNN与Transformer两种骨干网络，从而分别从其特征中学习到有意义的概念。基于所学得的概念，我们进一步引入一种基于大语言模型（LLM）的方法，以弥合这些概念与人类感知之间的差距。实验结果表明，MCPNet++在不损害模型性能的前提下，提供了更全面的解释，且所发现的概念与人类理解高度一致。"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors",
+    "authors": "Tianchi Li, Zhenyu Yan, Junhao Liu, Peng Di, Xin Zhang",
+    "publish": "ACM Transactions on Programming Languages and Systems",
+    "url": "https://doi.org/10.1145/3806652",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过局部推理错误反馈引导基于大语言模型的循环不变式合成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-3",
+    "title": "PacketScope: Bridging eBPF and LLMs for In-Stack Defense Against Subtle TCP/IP Exploits",
+    "authors": "Xuewei Feng, Qixun Tang, Min Li, Yuxiang Yang, Zhaoxi Li, Xingxiang Zhan, Yi He, Chi Chen, Qi Li, Ke Xu",
+    "publish": "IEEE Communications Magazine",
+    "url": "https://doi.org/10.1109/mcom.001.2500660",
+    "source": "IEEE",
+    "abstract": "The TCP/IP protocol suite underpins today's Internet infrastructure, yet emerging attacks increasingly exploit subtle semantic flaws in protocol interactions to bypass traditional defenses and inflict severe damage. In this article, we introduce PacketScope, a framework that integrates kernel-level observability via the extended Berkeley Packet Filter (eBPF) with reasoning and policy synthesis driven by large language models (LLMs), enabling comprehensive and effective in-stack defense against a wide range of subtle TCP/IP exploits. Specifically, PacketScope follows a three-stage workflow. First, leveraging eBPF, it performs per-packet inspection within the kernel to construct protocol interaction graphs (PIGs) across layers and protocols, capturing long-context semantics and fine-grained session dynamics. Second, it employs an LLM to reason over PIGs, identifying anomalous interactions and generating enforcement policies expressed as eBPF rules. Finally, these rules are enforced in-kernel for real-time blocking, mitigating attacks directly within the TCP/IP stack. We implement a Linux prototype that instruments critical TCP/IP components with eBPF hooks and integrates LLMs (e.g., DeepSeek, TrafficLLM) for semantic analysis. Evaluation with real-world traffic traces, synthetic attack scenarios, and stress-test environments involving mixed protocol interactions shows that PacketScope detects a wide spectrum of attacks - including cross-protocol interference, state desynchronization, and covert connection manipulation - while incurring less than 2.5% performance loss. Unlike existing packet- or flow-level approaches based on signatures or classification, PacketScope demonstrates that coupling kernel-level observability with AI-driven semantic reasoning enables practical, effective, and lightweight in-stack defenses.",
+    "title_zh": "PacketScope：连接eBPF与大模型，实现对细微TCP/IP漏洞的栈内防御",
+    "abstract_zh": "TCP/IP协议套件支撑着当今互联网的基础架构，然而新兴攻击正越来越多地利用协议交互中的细微语义缺陷，绕过传统防御机制并造成严重破坏。本文介绍了一种名为PacketScope的框架，该框架将通过扩展的伯克利数据包过滤器（eBPF）实现的内核级可观测性，与由大语言模型（LLM）驱动的推理和策略生成相结合，从而实现对多种复杂TCP/IP漏洞攻击的全面、高效在栈防御。具体而言，PacketScope采用三阶段工作流程：首先，借助eBPF技术，在内核中对每条数据包进行检查，构建跨层、跨协议的协议交互图（PIG），以捕捉长上下文语义信息和细粒度会话动态；其次，利用大语言模型对PIG进行分析推理，识别异常交互行为，并生成以eBPF规则形式表达的执行策略；最后，这些规则在内核中实时执行，直接在TCP/IP栈内部阻断攻击流量。我们实现了一个基于Linux的原型系统，通过在关键TCP/IP组件中植入eBPF钩子，并集成大语言模型（如DeepSeek、TrafficLLM）进行语义分析。通过对真实网络流量数据、合成攻击场景以及包含多协议混合交互的压力测试环境进行评估，结果表明，PacketScope能够有效检测包括跨协议干扰、状态不同步以及隐蔽连接操控在内的广泛攻击类型，同时性能开销低于2.5%。与现有基于签名或分类的报文级或流级检测方法不同，PacketScope证明了将内核级可观测性与AI驱动的语义推理相结合，可实现实用、高效且轻量化的在栈防御机制。"
+  }
+]
