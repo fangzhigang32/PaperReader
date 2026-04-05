@@ -1,0 +1,83 @@
+[
+  {
+    "date": "2026-4-4",
+    "title": "Big Data Analytics and Internet of Things Combined with Artificial Intelligence Techniques for Effective Emergency Management: A Comprehensive Survey",
+    "authors": "Khedoudja Bouafia, Hachem Slimani, Hassina Nacer, Hamida Seba",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3806828",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "Identity, Form, and Function: Exploring Re-Embodiment for Human-Robot Teaming in Virtual Reality Environments",
+    "authors": "Karla Bransky, Penny Sweetser, Sabrina Caldwell, Tom Gedeon",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3806398",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "Survey on Explainable AI for Traditional Machine Learning and Domains",
+    "authors": "Ambreen Hanif, Radwa Shawi, Amin Beheshti, Boualem Benatallah",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3806829",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "As Long As I See It - OSVHunter: Understanding and Detecting Open-Secret Vulnerabilities in Smart Contracts",
+    "authors": "Songyan Ji, Jin Wu, Wei Zhang, Ming Han, Limin Ma, Jian Dong",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806397",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "Generative AI for Testing of Autonomous Driving Systems: A Survey",
+    "authors": "Qunying Song, He Ye, Mark Harman, Federica Sarro",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806653",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "Rethinking Services in the Quantum Age: The SOQ Paradigm",
+    "authors": "Jose Garcia-Alonso, Enrique Moguel, Jaime Alvarado-Valiente, Javier Romero-Alvarez, Álvaro M. Aparicio-Morales, Juan M. Murillo, Francisco Javier Cavero, Adrián Romero-Flores, Alfonso E. Marquez-Chamorro, José Antonio Parejo, Antonio Ruiz-Cortés, Giuseppe Bisicchia, Alessandro Bocci, Antonio Brogi",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3805807",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "But what does it mean for me? Apps (fail) to Support Men’s Information-Seeking when they Experience Infertility",
+    "authors": "Dilisha Patel, Ann Blandford, Jill Shawe, Judith Stephenson",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3806651",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "TSCAN: Context-Aware Uplift Modeling via Two-Stage Training for Online Merchant Business Diagnosis",
+    "authors": "Hangtao Zhang, Zhe Li, Kairui Zhang",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3806647",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors",
+    "authors": "Tianchi Li, Zhenyu Yan, Junhao Liu, Peng Di, Xin Zhang",
+    "publish": "ACM Transactions on Programming Languages and Systems",
+    "url": "https://doi.org/10.1145/3806652",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

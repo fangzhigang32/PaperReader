@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-4-4",
+    "title": "As Long As I See It - OSVHunter: Understanding and Detecting Open-Secret Vulnerabilities in Smart Contracts",
+    "authors": "Songyan Ji, Jin Wu, Wei Zhang, Ming Han, Limin Ma, Jian Dong",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806397",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "只要我还能看见它 - OSVHunter：理解与检测智能合约中的开放秘密漏洞",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-4",
+    "title": "Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors",
+    "authors": "Tianchi Li, Zhenyu Yan, Junhao Liu, Peng Di, Xin Zhang",
+    "publish": "ACM Transactions on Programming Languages and Systems",
+    "url": "https://doi.org/10.1145/3806652",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过局部推理错误反馈引导基于大语言模型的循环不变式生成",
+    "abstract_zh": "None"
+  }
+]

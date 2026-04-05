@@ -1,0 +1,28 @@
+[2026-04-05 22:31:58] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-04-04
+正在获取论文...
+[ACM] 2026-4-4 | Big Data Analytics and Internet of Things Combined with Artificial Intelligence Techniques for Effective Emergency Management: A Comprehensive Survey
+[ACM] 2026-4-4 | Identity, Form, and Function: Exploring Re-Embodiment for Human-Robot Teaming in Virtual Reality Environments
+[ACM] 2026-4-4 | Survey on Explainable AI for Traditional Machine Learning and Domains
+[ACM] 2026-4-4 | As Long As I See It - OSVHunter: Understanding and Detecting Open-Secret Vulnerabilities in Smart Contracts
+[ACM] 2026-4-4 | Generative AI for Testing of Autonomous Driving Systems: A Survey
+[ACM] 2026-4-4 | Rethinking Services in the Quantum Age: The SOQ Paradigm
+[ACM] 2026-4-4 | But what does it mean for me? Apps (fail) to Support Men’s Information-Seeking when they Experience Infertility
+[ACM] 2026-4-4 | TSCAN: Context-Aware Uplift Modeling via Two-Stage Training for Online Merchant Business Diagnosis
+[ACM] 2026-4-4 | Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors
+共写入 9 条记录，保存到 papers/paper2026-04-04.json。
+论文获取成功，文件路径: papers/paper2026-04-04.json
+正在筛选、翻译并发送邮件...
+[NO] 1/9 | Big Data Analytics and Internet of Things Combined with Artificial Intelligence Techniques for Effective Emergency Management: A Comprehensive Survey
+[NO] 2/9 | Identity, Form, and Function: Exploring Re-Embodiment for Human-Robot Teaming in Virtual Reality Environments
+[NO] 3/9 | Survey on Explainable AI for Traditional Machine Learning and Domains
+[YES] 4/9 | As Long As I See It - OSVHunter: Understanding and Detecting Open-Secret Vulnerabilities in Smart Contracts
+[NO] 5/9 | Generative AI for Testing of Autonomous Driving Systems: A Survey
+[NO] 6/9 | Rethinking Services in the Quantum Age: The SOQ Paradigm
+[NO] 7/9 | But what does it mean for me? Apps (fail) to Support Men’s Information-Seeking when they Experience Infertility
+[NO] 8/9 | TSCAN: Context-Aware Uplift Modeling via Two-Stage Training for Online Merchant Business Diagnosis
+[YES] 9/9 | Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors
+筛选完成：共 9 篇；Yes = 2 篇；已保存到 papers/select_paper2026-04-04.json。
+邮件发送成功！
+[2026-04-05 22:32:54] 任务执行成功！
