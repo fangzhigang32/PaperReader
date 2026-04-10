@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2026-4-9",
+    "title": "Upgrading Camshaft Analysis Labs: AI-Assisted Coding, Automation and Digital Logging Integration",
+    "authors": "Nicolaas Luwes",
+    "publish": "2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)",
+    "url": "https://doi.org/10.1109/icecet63943.2025.11472061",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "升级凸轮轴分析实验室：人工智能辅助编程、自动化与数字记录集成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "Hunting CUDA Bugs at Scale with cuFuzz",
+    "authors": "Mohamed Tarek Ibn Ziad, Christos Kozyrakis",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798231",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用 cuFuzz 大规模检测 CUDA 错误",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "InspectCoder: Dynamic Analysis-Driven Self Repair through Interactive LLM-Debugger Collaboration",
+    "authors": "Yunkun Wang, Yue Zhang, Guochang Li, Chen Zhi, Binhua Li, Fei Huang, Yongbin Li, Shuiguang Deng",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798238",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "InspectCoder：通过交互式大语言模型调试器协作实现动态分析驱动的自我修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer",
+    "authors": "Kunpeng Zhang, Dongwei Xiao, Daoyuan Wu, Shuai Wang, Jiali Zhao, Yuanyi Lin, Tongtong Xu, Shaohua Wang",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798258",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大语言模型的深度学习库中静默缺陷模糊测试：通过通用且可控的缺陷迁移实现",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "From Raw Pointers to Memory Safety: A Modular Demand-Driven Typestate Analysis for Rust",
+    "authors": "Wei Li, Wenyao Chen, Jingling Xue",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798266",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从原始指针到内存安全：一种针对 Rust 的模块化需求驱动型类型状态分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "Harnessing LLMs for Cyber-Resilience A Systematic Survey in Threat Mitigation and Future Trajectories",
+    "authors": "Nouman Ahmad, Uroosa Sehar, Jianhua Zhou, Yifei Peng, Changsheng Zhang",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3682720",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "利用大语言模型实现网络韧性：威胁缓解与未来发展方向的系统性综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-9",
+    "title": "Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages",
+    "authors": "Wenbo Guo, Shiwen Song, Jiaxun Guo, Zhengzi Xu, Chengwei Liu, Haoran Ou, Mengmeng Ge, Yang Liu",
+    "publish": "Proceedings of the ACM Web Conference 2026",
+    "url": "https://doi.org/10.1145/3774904.3792083",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "连接专家推理与大模型检测：一种面向恶意软件包的知识驱动框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure",
+    "authors": "Jie Ma, Ningyu He, Jinwen Xi, Mingzhe Xing, Liangxin Liu, Jiushenzi Luo, Xiaopeng Fu, Chiachih Wu, Haoyu Wang, Ying Gao, Yinliang Yue",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798219",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当规范遇见现实：揭示以太坊基础设施中的API不一致性",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-9",
+    "title": "Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap",
+    "authors": "Ahmed E. Hassan, Gustavo A. Oliva, Dayi Lin, Boyuan Chen, Zhen Ming (Jack) Jiang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3807901",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向人工智能原生的软件工程（SE 3.0）：一个愿景与挑战路线图",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-9",
+    "title": "A Framework for Generative AI-Driven Application Modernization: Strategies and Case Studies",
+    "authors": "Anant Wairagade",
+    "publish": "2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)",
+    "url": "https://doi.org/10.1109/icecet63943.2025.11472176",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "生成式人工智能驱动的应用现代化框架：策略与案例研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-9",
+    "title": "Exploring and Exploiting Security Vulnerabilities in Self-Hosted LLM Services",
+    "authors": "Zhihuang Liu, Ling Hu, Yonghao Tang, Tongqing Zhou, Fang Liu, Zhiping Cai",
+    "publish": "Proceedings of the ACM Web Conference 2026",
+    "url": "https://doi.org/10.1145/3774904.3792097",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "探索和利用自托管大语言模型服务中的安全漏洞",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "OBsmith: LLM-Powered JavaScript Obfuscator Testing",
+    "authors": "Shan Jiang, Chenguang Zhu, Sarfraz Khurshid",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798204",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "OBsmith：基于大语言模型的 JavaScript 混淆测试工具",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "CMakeSonar: A Static Approach to Detecting CMake Bugs with a Fine-Grained Type System",
+    "authors": "Haotian Han, Zihang Zhong, Qingan Li, Jingling Xue, Mengting Yuan",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798218",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CMakeSonar：一种基于细粒度类型系统的静态方法，用于检测CMake中的缺陷",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-9",
+    "title": "DeDroid-Sec: A Web-Based Machine Learning System for Android Vulnerability Analysis and Reporting",
+    "authors": "Kaya Emre Arikan, Sait Melih Dogan, Ercan Nurcan Yilmaz",
+    "publish": "2025 1st International Conference on Emerging Innovation and Digital Technology (ICEIDT)",
+    "url": "https://doi.org/10.1109/iceidt66693.2025.11473680",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DeDroid-Sec：基于Web的机器学习系统，用于Android漏洞分析与报告",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows",
+    "authors": "Chenyan Liu, Yun Lin, Jiaxin Chang, Jiawei Liu, Binhang Qi, Bo Jiang, Zhiyong Huang, Jin Song Dong",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798249",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "EditFlow：通过重构开发者工作流来基准测试与优化代码编辑推荐系统",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "A Tale of 1001 LoC: Potential Runtime Error-Guided Specification Synthesis for Verifying Large-Scale Programs",
+    "authors": "Zhongyi Wang, Tengjie Lin, Mingshuai Chen, Haokun Li, Mingqi Yang, Xiao Yi, Shengchao Qin, Yixing Luo, Xiaofeng Li, Bin Gu, Liqiang Lu, Jianwei Yin",
+    "publish": "Proceedings of the ACM on Programming Languages",
+    "url": "https://doi.org/10.1145/3798268",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "1001行代码的故事：基于潜在运行时错误引导的规格合成以验证大规模程序",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-10",
+    "title": "Secure Containers: A DevSecOps-Based Approach for Comprehensive Docker Image Vulnerability Assessment",
+    "authors": "Mohan Kumar T G, Sanjay H A",
+    "publish": "2025 Global Conference on Information Technology and Communication Networks (GITCON)",
+    "url": "https://doi.org/10.1109/gitcon65266.2025.11478531",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "安全容器：基于 DevSecOps 的 Docker 镜像漏洞全面评估方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-9",
+    "title": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+    "authors": "Yizheng Huang, Jimmy Xiangji Huang",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3805774",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大型语言模型的检索增强型文本生成综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-9",
+    "title": "Integrating GenAI in Embedded Systems Education: from Requirements to Prototyping",
+    "authors": "Giovanni Adorni, Daniele Grosso",
+    "publish": "2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)",
+    "url": "https://doi.org/10.1109/icecet63943.2025.11472524",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "将生成式人工智能融入嵌入式系统教育：从需求到原型设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-9",
+    "title": "Mitigating Cognitive Vulnerabilities in Code Generation via Multi-Agent Adversarial Debate",
+    "authors": "Shuofu Liu, Quanjiang Guo, Xiao Liu, Ying Liu",
+    "publish": "Proceedings of the ACM Web Conference 2026",
+    "url": "https://doi.org/10.1145/3774904.3792557",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过多智能体对抗性辩论缓解代码生成中的认知脆弱性",
+    "abstract_zh": "None"
+  }
+]
