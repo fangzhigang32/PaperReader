@@ -1,0 +1,578 @@
+[
+  {
+    "date": "2026-4-11",
+    "title": "WearStreamer: Enabling High-Resolution Health Data Acquisition from Consumer Smartwatches",
+    "authors": "Zilu Liang",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779679",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Using Item Personality-Based Profiling in Music Recommender Systems",
+    "authors": "Joel de Goma, Jan Nielsen Anonuevo, Gian Nicole Pangan, John Jovaniel Deang, Alberto Villaluz",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779698",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Stakeholder Value Criteria for Technical Debt Acquisition Decisions: An Empirical Analysis",
+    "authors": "João Pedro Bittencourt, Rodrigo Spinola, Rita Suzana P. Maciel",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3808227",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Corrigendum: A data-centric chip design agent framework for Verilog code generation",
+    "authors": "Kaiyan Chang, Wenlong Zhu, Kun Wang, Xinyang He, Nan Yang, Zhirong Chen, Dantong Jin, Cangyuan Li, Yunhao Zhou, Hao Yan, Zhuoliang Zhao, Yuan Cheng, Mengdi Wang, Shengwen Liang, Yinhe Han, Xiaowei Li, Huawei Li, Ying Wang",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3802988",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Hybrid Approach Using GANS And Multivariate Regression to Analyze the Impact of Acoustic Variables on Piezo Transducer Output",
+    "authors": "Rufo Illustre Marasigan, Jr., Alexis Alvarado Ardiente, Napski Rudolph Aguiling Pacleb, Gerard Francesco De Guzman Apolinario",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779699",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Secure XP Programming: Integrating OWASP Practices and Lightweight Threat Modelling into Extreme Programming",
+    "authors": "Ayah AlJabali, Muawya Aldalaien",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779663",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Towards Least-Privilege WebAssembly Applications: Transparent Interposition for WebAssembly Components",
+    "authors": "Olav Blaak, Tom Van Cutsem",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801125",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "A Tool for Transforming the Type of a Container in C++ Code",
+    "authors": "Ábel Szauter, Norbert Pataki",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801132",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Code Layout Optimization Guided by Temporal Profiling Information",
+    "authors": "Marko Spasic, Miloje Joksimović, Peter Hofer, Milena Vujošević Janičić",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801124",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "A Memory-Aware Sparse Matrix-Matrix Multiplication on Multicore Architectures",
+    "authors": "Deshun Bi, Shengguo Li, Haozhong Qiu, Chuanfu Xu, Xiaojian Yang, Fan Yuan, Dezun Dong, Tiaojie Xiao, Jie Liu",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3803422",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Liveness in the Age of Agents: Are We Back to Compile-and-Run Cycles?",
+    "authors": "Toni Mattis, Marcel Taeumel, Lukas Böhme, Robert Hirschfeld",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801131",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Implementing DevSecOps: A Systematic Literature Review on Integrating Security into DevOps",
+    "authors": "Jenny Ann Guyong, Rjanna Miki Balaybay, Justine Mae Macario, Efraim Jededia Pangan, Jhun Russel Clemente",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779664",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "PACGBI: A CI/CD Pipeline for LLM-assisted Code Generation of Web Front End",
+    "authors": "Mahja Sarschar, Gefei Zhang, Annika Nowak",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779672",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Machine Learning-Based Skin Lesion Classification with Feature Importance Analysis using SVM for Dermoscopy Images in the Philippines",
+    "authors": "Joel de Goma, Camille Marie Esteller, Luke Fernandez, Elson Benn Macalintal, Alberto Villaluz",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779688",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3801119",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "The Art, Science, and Craftsmanship of Typography (Keynote)",
+    "authors": "Didier Verna",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801121",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "The Promise of Static Profiling: Exploring the Limits",
+    "authors": "Milan Cugurovic, Aleksandar Prokopec, Boris Spasojevic, Vojin Jovanovic, Milena Vujošević Janičić",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801123",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Analyzing the 2024 U.S. Presidential Elections: BERT-based Sentiment Classification of Spoken Content in Video Data",
+    "authors": "Reaven Reaven, Joshua Reynald Labrado, Saleh Ahmed Mohammed Obied Al-Jizani, Joel de Goma, Elcid Serrano, Alberto Villaluz",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779678",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "A Systematic Literature Review on the Application of Scrum in Application Development",
+    "authors": "Harlene Luy Fook, Micah Angela Cagas, Althea Aquilino, Efraim Jededia Pangan, Joan Peralta, Jhun Russel Clemente",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779668",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "A Probabilistic Least Squares Estimation For NHPP-based Software Reliability Models with Time-domain Data",
+    "authors": "Jingchi Wu, Tadashi Dohi, Junjun Zheng, Hiroyuki Okamura",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779662",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Traceability and Detect Forgery Platform of Digitally Important Educational Documents for Grade 6 Secondary Schools Case Study of the Northeastern Region, Thailand",
+    "authors": "Kritsanaphon Saengprachum, Suntorn Kunjansee, Piyawat Saipan, Wararat Songpan",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779682",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Towards Transferring Text Comprehension Techniques to Program Comprehension",
+    "authors": "Teresa Dreyer, Joel Michel, Christoph Bockisch",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801126",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Mining Exception Rules from Eclipse and NetBeans Defect Dataset",
+    "authors": "Catherine Francis Mangare, Hiroshi Aoyagi, Hiroki Inayoshi, Akito Monden",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779689",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Analyzing Interpretable Visual Control Policy Search and Synthesis",
+    "authors": "Christina Berghegger, Camilo De La Torre, Giorgia Nadizar, Yuri Lavinas, David Simoncini, Hervé Luga, Dennis G. Wilson, Sylvain Cussat-Blanc",
+    "publish": "ACM Transactions on Evolutionary Learning and Optimization",
+    "url": "https://doi.org/10.1145/3799432",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "RVSM: Convolutional Block Attention Module for Robust Retinal Vessel Segmentation in Diabetic Retinopathy",
+    "authors": "Abbas Rehman, Gu Naijie, Muhammad Umer, Andrea Francesco Abate, Lucia Cascone",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3805699",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "PhysiCode Builder: A Framework for Rapid Prototyping of Tangible Programming Toolkits",
+    "authors": "Hina Hiratsuka, Kenji Hisazumi",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801128",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "<i>Vy</i>\n                    ZX: Formal Verification of a Graphical Quantum Language",
+    "authors": "Adrian Lehmann, Ben Caldwell, Bhakti Shah, William Spencer, Robert Rand",
+    "publish": "ACM Transactions on Programming Languages and Systems",
+    "url": "https://doi.org/10.1145/3807780",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Simulating QR Code Scanner Phishing Attacks: Investigating Vulnerabilities in QR Scanning and Reading Mechanisms Leading to Cookie and Data Exposure in Organization Environment",
+    "authors": "Eric Blancaflor, Michelle Algabre, Clyde Justin Angeles, Andrei Goc-Ong, Enrique Karl Liberato, Lester Ladera, William Rey",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779681",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Deep Sentiment Analysis on Online Learning Tweets Using CNN, LSTM",
+    "authors": "Joel de Goma, Jericho Dimaano, Paz Maive An Castillo, Vincent Raquedan, Alberto Villaluz",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779674",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Code Clone Refactoring in C# with Lambda Expressions",
+    "authors": "Takuto Kawamoto, Yoshiki Higo",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779670",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Architecting A Behavior-Driven Test Automation Framework for CI/CD Environments",
+    "authors": "Abhirup Chatterjee",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779661",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "A Secured Cloud Integration Network Design and Fault Tolerant for file and Application Sharing in a Medium Size Business Environment",
+    "authors": "Bryan B. Penuliar, William P. Rey",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779684",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Authentic Teaching and Assessment: Simulation of an Off-Shoring Project with Geographically Distributed Teams",
+    "authors": "Dana Theresa Sophia Plessing, Patricia Brockmann, Daniel Moritz Marutschke, Tri Astoto Kurniawan, Victor V. Kryssanov",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779692",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "ContextualSHAP : Enhancing SHAP Explanations Through Contextual Language Generation",
+    "authors": "Latifa Dwiyanti, Sergio Ryan Wibisono, Hidetaka Nambo",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779691",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "A Behavior-Centric Programming Framework for Drone Systems with Digital Twin Backends",
+    "authors": "Ryota Uesugi, Nobuhiko Ogura, Kenji Hisazumi, Harumi Watanabe",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801130",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Scrum for Safety-Critical Software Development",
+    "authors": "Francis Carlo Clemente Del Campo, John Reniel Cruz, Khenjie Cruz, Efraim Jededia Pangan, Roma Joy Fronda",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779659",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "The Evolution of Agile and Hybrid Project Management Methodologies: A Systematic Literature Review",
+    "authors": "Bianca Leech, Ridewaan Hanslo",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779696",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "A Software Tool to Support Structured Object-Oriented Programming",
+    "authors": "Ying Xia, Shaoying Liu",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779671",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "OmniHands: Robust Motion Capture of Interactive Hands via A Versatile Transformer",
+    "authors": "Dixuan Lin, Yuxiang Zhang, Mengcheng Li, Wei Jing, Qi Yan, Qianying Wang, Yebin Liu, Hongwen Zhang",
+    "publish": "ACM Transactions on Graphics",
+    "url": "https://doi.org/10.1145/3807943",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "CFAIR: A Cloud-Hosted Commerce System for Managing Fish Products Utilizing Hyperledger Fabric Blockchain for Data Governance",
+    "authors": "John Rhyz Pulgar, James Rodley Chan, Morris Myles Ly, William Rey",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779686",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "An Application of ChatGPT4o to Generate Requirement Definition Documents and Its Evaluation: An Industrial Case Study",
+    "authors": "Takeshi Niiyama, Hirohisa Aman, Takashi Ninomiya",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779687",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "A Systematic Literature Review of Workflow Efficiency in Software Development Through the Kanban Framework",
+    "authors": "JC Aushley Ervas Villanueva, Lady Venice Mones Villanueva, Marga Segundo Chawag, Efraim Jededia Pangan, Eugene Frank Bayani, Jhun Russel Domingo Clemente",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779666",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "An Empirical Study on Software Design Inspections - Effectiveness of Software Design Error Taxonomy",
+    "authors": "Tushar Agrawal, Vaibhav K. Anu, Gursimran Singh Walia",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779667",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Strengthening Resilience in DriveCare: A Thorough Assessment of Security Posture",
+    "authors": "William P Rey, Alberto C. Villaluz, Robert M. Dadigan",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779683",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Past, Present, and Future of Bug Tracking in the Generative AI Era",
+    "authors": "Utku Boran Torun, Mehmet Taha Demircan, Mahmut Furkan Gön, Eray Tüzün",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806655",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Patterns and widgets for collaboration awareness in next-generation groupware",
+    "authors": "Crescencio Bravo, Ana I. Molina, Manuel Ortega-Cordovilla",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779675",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "A Note on Software Reliability Modeling Based on Hawkes Processes with Gamma Type Base Intensity",
+    "authors": "Nanxiang Qiu, Tadashi Dohi, Junjun Zheng, Hiroyuki Okamura",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779660",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Vexa: Automated Configuration-to-Code Generation for On-Demand State Management in Vue.js Applications",
+    "authors": "Yizhi Mei, Tetsuo Kamina",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801127",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Exploratory Analysis of Audio Features for Dominant Feature Identification: A Multimodal Machine Learning Evaluation of Song Popularity Prediction Using Deep Neural Networks, Clustering, and Regression Models",
+    "authors": "Joel de Goma, Sean Fredrick Cruz, Mackleine Espino, Jaime Rodolfo Tuason, Alberto Villaluz",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779690",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Level of Satisfaction Among Users of the E-Gov Application ‘Sahel’",
+    "authors": "Abdullah Alshehab, Ali Alfayly, Naser Alazemi",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779665",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Cross-Process Error Detection in Industrial Screw Driving Operations Using Time Series Classification",
+    "authors": "Nikolai West, Marco Klute, Hans-Peter Heim, Jochen Deuse",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779677",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Employee Performance when Implementing Agile Practices in an IT Workforce",
+    "authors": "Muhammad Hamid Raza Mookadam, Ridewaan Hanslo",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779694",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Literate Exploratory Programming for Asynchronous Collaboration",
+    "authors": "Christoph Thiede, Tom Beckmann, Marcel Taeumel, Robert Hirschfeld",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801129",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Comparing Large Language Models and Traditional Clone Detection Tools for Intra- and Cross-Language Code Clone Detection",
+    "authors": "Luka Vranković, Gordana Rakić",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801133",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Solid Waste Detection with YOLOv9 Using Preprocessing Techniques and Experimental Evaluation, Improving Generalization to Real-World Data via a Data-Centric Preprocessing Pipeline",
+    "authors": "Ashley Sybil Manalo, Allen Kyle Sabilala, Joel de Goma, Elcid Serrano, Alberto Villaluz",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779676",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Implications of Self-Reported Attitudes Towards UML in Bachelor and Master Software Engineering Courses",
+    "authors": "Daniel Moritz Marutschke, Anja Petra Metzner, Patricia Brockmann, Tri Astoto Kurniawan, Mate Kovacs, Victor Kryssanov",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779673",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Value Support in the qBeta Language",
+    "authors": "Ole Lehrmann Madsen, Birger Møller-Pedersen",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801134",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Make it PAWssible: a Client-Specific Dedicated Progressive Web Application for Whelps Animal Shelter",
+    "authors": "Darwin Christian Leonardo, James Jefferson Romero, Nico Adrian Suyat, Geldof Resuello, Alberto Villaluz, Reginald Verdida",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779695",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "A Logical Foundation for Type-Safe Cross-Language Interoperability (Keynote)",
+    "authors": "Brigitte Pientka",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801120",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "LLM-based Formality Ranking of Candidate Translations",
+    "authors": "John S. Y. Lee, Qiong Wang",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779669",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Simulating Phishing Attacks via Social Media: Assessing Student Vulnerabilities to Hidden Malicious Links Using Zphisher",
+    "authors": "Eric Blancaflor, Aron Clark Bataller, John Benjamin Dulay, Alain Marcus Leyva, Ivan Jay Medina, Lester Ladera, Mideth Abisado",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779685",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3779657",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "From Scenario to Code: Structured Prompting for LLM-Based Unit Test Generation",
+    "authors": "Aminata Diop, Fadel Toure, Mourad Badri",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779658",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Bakr: A 3D-Interactive App for Homemade Pastry Baking Step-by-Step Guides and Techniq",
+    "authors": "Raineir Espinola, James Garnet Laca, Julian Carlos Ubalde, Reginald Veridida, Elcid Serrano, Alberto Villaluz",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779697",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

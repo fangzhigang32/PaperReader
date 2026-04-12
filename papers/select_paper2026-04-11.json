@@ -1,0 +1,123 @@
+[
+  {
+    "date": "2026-4-11",
+    "title": "Corrigendum: A data-centric chip design agent framework for Verilog code generation",
+    "authors": "Kaiyan Chang, Wenlong Zhu, Kun Wang, Xinyang He, Nan Yang, Zhirong Chen, Dantong Jin, Cangyuan Li, Yunhao Zhou, Hao Yan, Zhuoliang Zhao, Yuan Cheng, Mengdi Wang, Shengwen Liang, Yinhe Han, Xiaowei Li, Huawei Li, Ying Wang",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3802988",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "更正：面向Verilog代码生成的数据中心芯片设计代理框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Secure XP Programming: Integrating OWASP Practices and Lightweight Threat Modelling into Extreme Programming",
+    "authors": "Ayah AlJabali, Muawya Aldalaien",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779663",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "安全的XP编程：将OWASP实践与轻量级威胁建模融入极限编程",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "A Tool for Transforming the Type of a Container in C++ Code",
+    "authors": "Ábel Szauter, Norbert Pataki",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801132",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一种用于转换C++代码中容器类型的工具",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Implementing DevSecOps: A Systematic Literature Review on Integrating Security into DevOps",
+    "authors": "Jenny Ann Guyong, Rjanna Miki Balaybay, Justine Mae Macario, Efraim Jededia Pangan, Jhun Russel Clemente",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779664",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "实施DevSecOps：将安全融入DevOps的系统性文献综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "PACGBI: A CI/CD Pipeline for LLM-assisted Code Generation of Web Front End",
+    "authors": "Mahja Sarschar, Gefei Zhang, Annika Nowak",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779672",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PACGBI：面向Web前端LLM辅助代码生成的CI/CD流水线",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Code Clone Refactoring in C# with Lambda Expressions",
+    "authors": "Takuto Kawamoto, Yoshiki Higo",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779670",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "C# 中使用 Lambda 表达式进行代码克隆重构",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "An Application of ChatGPT4o to Generate Requirement Definition Documents and Its Evaluation: An Industrial Case Study",
+    "authors": "Takeshi Niiyama, Hirohisa Aman, Takashi Ninomiya",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779687",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ChatGPT4o在需求定义文档生成中的应用及其评估：一项工业案例研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "Past, Present, and Future of Bug Tracking in the Generative AI Era",
+    "authors": "Utku Boran Torun, Mehmet Taha Demircan, Mahmut Furkan Gön, Eray Tüzün",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3806655",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "生成式AI时代漏洞追踪的过去、现在与未来",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Vexa: Automated Configuration-to-Code Generation for On-Demand State Management in Vue.js Applications",
+    "authors": "Yizhi Mei, Tetsuo Kamina",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801127",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "Vexa：面向Vue.js应用按需状态管理的自动化配置到代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-12",
+    "title": "Comparing Large Language Models and Traditional Clone Detection Tools for Intra- and Cross-Language Code Clone Detection",
+    "authors": "Luka Vranković, Gordana Rakić",
+    "publish": "Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming",
+    "url": "https://doi.org/10.1145/3801119.3801133",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大型语言模型与传统克隆检测工具在跨语言和同语言代码克隆检测中的比较",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-11",
+    "title": "From Scenario to Code: Structured Prompting for LLM-Based Unit Test Generation",
+    "authors": "Aminata Diop, Fadel Toure, Mourad Badri",
+    "publish": "Proceedings of the 2025 7th World Symposium on Software Engineering",
+    "url": "https://doi.org/10.1145/3779657.3779658",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从场景到代码：基于大语言模型的单元测试生成的结构化提示方法",
+    "abstract_zh": "None"
+  }
+]
