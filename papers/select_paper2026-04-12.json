@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-4-13",
+    "title": "Leveraging Generative AI for Security Defense of Mobile Edge-Enabled Digital Twins: A Survey",
+    "authors": "Yaoqi Yang, Geng Sun, Hongyang Du, Changyuan Zhao, Zehui Xiong, Dusit Niyato, Abbas Jamalipour, Zhu Han, Khaled B. Letaief",
+    "publish": "IEEE Transactions on Cognitive Communications and Networking",
+    "url": "https://doi.org/10.1109/tccn.2026.3683228",
+    "source": "IEEE",
+    "abstract": "Addressing rising security threats that hinder the deployment of mobile edge-enabled digital twins (MDTs), this paper investigates the transformative potential of generative artificial intelligence (GAI) for enhancing MDT security frameworks. We propose a comprehensive five-layer MDT architecture and analyze various malicious security threats across physical and digital twin spaces. Focusing on GAI’s unique capabilities in data quality and diversity, we explore the application of variational autoencoders, generative adversarial networks, generated diffusion models, and transformer-based models within different layers of the MDT architecture. We also provide a summary of performance metrics, evaluation methodologies, and implementation considerations, concluding with key future research directions aimed at realizing real-time and complex attack defense strategies. Our findings show that GAI can significantly improve security measures for MDT systems, effectively addressing critical challenges in this rapidly evolving field.",
+    "title_zh": "利用生成式人工智能保护移动边缘赋能的数字孪生安全：综述",
+    "abstract_zh": "针对阻碍移动边缘赋能数字孪生（MDT）部署的日益严峻的安全威胁，本文探讨了生成式人工智能（GAI）在提升MDT安全框架方面的变革潜力。我们提出了一种全面的五层MDT架构，并分析了物理空间与数字孪生空间中各类恶意安全威胁。聚焦于GAI在数据质量与多样性方面的独特能力，本文研究了变分自编码器、生成对抗网络、生成扩散模型以及基于Transformer的模型在MDT架构不同层级中的应用。同时，本文总结了性能指标、评估方法及实施考量，并展望了未来关键的研究方向，旨在实现实时且复杂的攻击防御策略。研究结果表明，GAI能够显著增强MDT系统的安全防护能力，有效应对该快速演进领域中的关键挑战。"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "The Safety Frontier in LLMs: Risks, Defenses, and Open Challenges",
+    "authors": "Ishika Goyal, Siva Sai, Aahana Gupta, Vinay Chamola",
+    "publish": "IEEE Communications Standards Magazine",
+    "url": "https://doi.org/10.1109/mcomstd.2026.3676030",
+    "source": "IEEE",
+    "abstract": "Large Language Models (LLMs) such as ChatGPT, Claude, and LLaMA are rapidly transforming domains including healthcare, education, law, and finance. However, their increasing adoption in high-stakes applications raises serious safety concerns. Without sufficient safeguards, LLM-powered AI systems are vulnerable to threats such as prompt injection, training data poisoning, model theft, denial-of-service through prompt abuse, misinformation generation, adversarial examples, model inversion, data leakage, and insider misuse. These vulnerabilities can produce harmful, biased, or misleading outputs, compromise privacy, and undermine trust. To address these risks, researchers have proposed safety approaches that aim to constrain and guide model behaviour, proactively detect and resist attacks, and incorporate ethical alignment into model design. Together, these methods form a multi-layered defence that combines preventive, detective, and corrective measures to improve LLM robustness and trustworthiness. This paper presents a comprehensive review of key safety mechanisms for LLMs, categorizing them into guardrails, red teaming, adversarial training, alignment techniques, jailbreak detection and prevention, watermarking, and fuzzing. For each category, recent advances are summarized, strengths and limitations are assessed, and open challenges are identified to support safer and more reliable real-world deployment of LLMs.",
+    "title_zh": "大语言模型中的安全边界：风险、防御与开放性挑战",
+    "abstract_zh": "大型语言模型（LLMs）如ChatGPT、Claude和LLaMA正在迅速改变医疗、教育、法律和金融等多个领域。然而，它们在高风险应用场景中的日益普及也引发了严重的安全担忧。若缺乏充分的防护措施，基于LLM的人工智能系统极易受到多种威胁，包括提示注入攻击、训练数据污染、模型盗用、通过提示滥用引发的拒绝服务攻击、虚假信息生成、对抗性样本、模型反演、数据泄露以及内部人员滥用等。这些漏洞可能导致有害、偏见或误导性的输出，损害隐私，并削弱用户信任。\n\n为应对这些风险，研究人员提出了多种安全策略，旨在约束和引导模型行为，主动检测并抵御攻击，并将伦理对齐融入模型设计之中。这些方法共同构成了一套多层次的防御体系，结合预防、检测与纠正措施，以提升LLM的鲁棒性与可信度。\n\n本文对LLM的关键安全机制进行了全面综述，将其分类为：安全护栏（Guardrails）、红队测试（Red Teaming）、对抗训练（Adversarial Training）、对齐技术（Alignment Techniques）、越狱检测与防范、水印技术（Watermarking）以及模糊测试（Fuzzing）。针对每一类别，本文总结了最新进展，评估了其优势与局限性，并指出了当前仍待解决的开放性挑战，旨在推动LLM在现实世界中更安全、更可靠的部署。"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "Qualitative Coding Analysis through Open-Source Large Language Models: A User Study and Design Recommendations",
+    "authors": "Tung Ngo, Anh Minh Nguyen, Dai Nguyen Van, Anh Nguyen-Quoc",
+    "publish": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "url": "https://doi.org/10.1145/3772363.3798320",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过开源大语言模型进行定性编码分析：一项用户研究与设计建议",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "When Help Hurts: Verification Load and Fatigue with AI Coding Assistants",
+    "authors": "Guangrui Fan, Dandan Liu, Lihu Pan, Rui Zhang",
+    "publish": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "url": "https://doi.org/10.1145/3772318.3791176",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当帮助适得其反：AI编程助手带来的验证负担与疲劳",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "Demonstrating Code Mutations Using LLMs: A Sandbox Approach to Safe Malware Testing",
+    "authors": "Indhuja. E, Noel Ashik.J.S, Dheeraj. K, Surya Prakash.V",
+    "publish": "2026 Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+    "url": "https://doi.org/10.1109/icmsci67830.2026.11469278",
+    "source": "IEEE",
+    "abstract": "There is a rapid increase in the use of Large Language Models (LLMs). These models have made advanced code generators democratically available, introducing a dual-use threat where automated agents can be directed to iteratively generate malware. Although existing literature discusses static code obfuscation, few studies investigate the effectiveness of closed-loop execution feedback in evading contemporary behavioral defenses. This paper proposes an autonomous malware mutation framework utilizing an uncensored local LLM (Dolphin 3.0) to produce, execute, and debug malicious payloads within an instrumented Windows 10 sandbox. In contrast to conventional one-shot generation techniques, this system adopts a genetic evolution cycle, using runtime error logs and Antivirus (AV) detection events to guide the LLM in rewriting code. The framework was evaluated in a two-phase longitudinal study against Windows Defender with Real-Time Protection fully enabled and no folder exclusions. Phase I (Exploratory) established a baseline over 14 random runs, where ‘noisy’ ransomware activities were successfully identified by Controlled Folder Access (28.6% detection rate). Phase II (Targeted Evasion), however, refined payloads across four distinct categories of malware-Reconnaissance, Espionage, Command and Control and Sabotage- 100 percent evasion. These results reveal a lethal loophole in currently deployed behavioral heuristics in that they could not identify malicious behavior on Python-based automatically-executed executables, even in the midst of aggressive actions like network tunneling and file encryption attempts. The findings explain that despite the effectiveness of commercial AVs in terms of known signatures, they are susceptible to the polymorphism and iterativeness of code generated by LLMs.",
+    "title_zh": "使用大语言模型展示代码变异：一种安全的恶意软件测试沙箱方法",
+    "abstract_zh": "大型语言模型（LLMs）的使用正迅速增长。这些模型已使先进的代码生成工具变得普及，从而引入了双重用途威胁——自动化代理可被引导以迭代方式生成恶意软件。尽管现有文献讨论了静态代码混淆技术，但很少有研究探讨闭环执行反馈在规避现代行为防御机制方面的有效性。本文提出了一种自主的恶意软件变异框架，利用未经审查的本地大语言模型（Dolphin 3.0），在经过仪器化的Windows 10沙箱环境中实现恶意载荷的生成、执行与调试。与传统的单次生成技术不同，该系统采用遗传进化循环机制，通过运行时错误日志和杀毒软件（AV）检测事件来指导LLM重写代码。该框架在一项两阶段纵向研究中进行了评估，测试环境为启用实时保护且无文件夹排除项的Windows Defender。第一阶段（探索性阶段）在14次随机运行中建立了基线，成功通过受控文件夹访问功能识别出“嘈杂”的勒索软件活动（检测率为28.6%）。第二阶段（针对性规避阶段）则对四类不同类型的恶意软件——侦察、间谍活动、命令与控制以及破坏——进行了优化，实现了100%的规避效果。研究结果揭示了当前部署的行为启发式检测机制存在致命漏洞：即使在执行诸如网络隧道和文件加密等激烈攻击行为时，它们仍无法识别基于Python自执行可执行文件的恶意活动。这一发现表明，尽管商业杀毒软件在已知特征匹配方面表现有效，但面对由LLM生成的具有多态性和迭代特性的代码，依然极为脆弱。"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "Intelli-Query: A Large Language Model System for Semantic Retrieval and Document Understanding",
+    "authors": "Suhana Bansal, Tanisha Choudhary, Ravi Shankar Pal",
+    "publish": "2026 5th International Conference on Innovative Practices in Technology and Management (ICIPTM)",
+    "url": "https://doi.org/10.1109/iciptm69057.2026.11465331",
+    "source": "IEEE",
+    "abstract": "The rapid growth of unstructured digital documents has created significant challenges in retrieving accurate information using traditional keyword-based search systems. Organizations often struggle to efficiently interpret lengthy reports, contracts, and policy documents, resulting in increased manual effort and delayed decision-making. This paper presents INTELLI-QUERY, an intelligent document understanding and semantic retrieval platform designed to provide context-aware query responses. The system integrates a Python-based backend, transformer-based sentence embeddings, FAISS vector indexing, and a Retrieval-Augmented Generation (RAG) pipeline powered by Large Language Models (LLMs). Intelli-Query automatically ingests documents, performs preprocessing and semantic chunking, and stores embeddings in a vector database to enable similarity-based retrieval. When a user submits a natural-language query, the system identifies intent, retrieves the most relevant document sections, and generates evidence-grounded responses. The platform also supports multi-question batch processing and structured JSON outputs for downstream applications. Experimental evaluation demonstrates that embedding-based retrieval combined with LLM reasoning significantly improves contextual relevance and reduces hallucination compared to direct LLM answering. The system achieved a context relevance score of 0.81 and reduced incorrect responses by approximately 70 %. This work highlights the effectiveness of combining semantic search and language models in transforming static documents into interactive knowledge systems, enabling efficient enterprise information access and supporting accurate decision-making.",
+    "title_zh": "智能查询：一种用于语义检索与文档理解的大语言模型系统",
+    "abstract_zh": "非结构化数字文档的快速增长给传统基于关键词的搜索系统在获取准确信息方面带来了巨大挑战。组织机构常常难以高效解读长篇报告、合同和政策文件，导致人工工作量增加以及决策延迟。本文提出了一种名为INTELLI-QUERY的智能文档理解与语义检索平台，旨在提供具备上下文感知能力的查询响应。该系统集成了基于Python的后端、基于Transformer的句子嵌入技术、FAISS向量索引，以及由大语言模型（LLMs）驱动的检索增强生成（RAG）流程。Intelli-Query能够自动导入文档，进行预处理和语义分块，并将嵌入向量存储于向量数据库中，从而实现基于相似性的检索。当用户提交自然语言查询时，系统可识别查询意图，检索最相关的文档片段，并生成有证据支持的回答。该平台还支持多问题批量处理及为下游应用提供结构化的JSON输出。实验评估表明，结合嵌入式检索与大语言模型推理的方法，在上下文相关性方面显著优于直接使用大语言模型回答，有效减少了幻觉现象。系统实现了0.81的上下文相关性得分，并使错误回答减少了约70%。本研究凸显了语义搜索与语言模型相结合在将静态文档转化为交互式知识系统方面的有效性，有助于实现企业级信息的高效访问，并支持精准决策。"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents",
+    "authors": "Bingsheng Yao, Chaoran Chen, April Yi Wang, Tongshuang Wu, Toby Jia-Jun Li, Dakuo Wang",
+    "publish": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "url": "https://doi.org/10.1145/3772363.3778744",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从人与人协作到人与智能体协作：实现人类与大语言模型智能体成功合作的愿景、设计哲学与实证框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "From Answer Givers to Design Mentors: Guiding LLMs with the Cognitive Apprenticeship Model",
+    "authors": "Yongsu Ahn, Lejun R Liao, Benjamin Bach, Nam Wook Kim",
+    "publish": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "url": "https://doi.org/10.1145/3772318.3791899",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从答案提供者到设计导师：基于认知学徒制模型引导大语言模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "Large-Scale Empirical Analysis of Continuous Fuzzing: Insights from 1 Million Fuzzing Sessions",
+    "authors": "Tatsuya Shirai, Olivier Nourry, Yutaro Kashiwa, Kenji Fujiwara, Yasutaka Kamei, Hajimu Iida",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3683879",
+    "source": "IEEE",
+    "abstract": "Software vulnerabilities are constantly being reported and exploited in software products, causing significant impacts on society. In recent years, the main approach to vulnerability detection, fuzzing, has been integrated into the continuous integration process to run in short and frequent cycles. This continuous fuzzing allows for fast identification and remediation of vulnerabilities during the development process. Despite adoption by thousands of projects, however, it is unclear how continuous fuzzing contributes to vulnerability detection. <p xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">This study aims to elucidate the role of continuous fuzzing in vulnerability detection. Specifically, we investigate the coverage and the total number of fuzzing sessions when fuzzing bugs are discovered. We collect issue reports, coverage reports, and fuzzing logs from OSS-Fuzz, an online service provided by Google that performs fuzzing during continuous integration. Through an empirical study of a total of approximately 1.12 million fuzzing sessions from 878 projects participating in OSS-Fuzz, we reveal that (i) a substantial number of fuzzing bugs exist prior to the integration of continuous fuzzing, leading to a high detection rate in the early stages; (ii) code coverage continues to increase as continuous fuzzing progresses; (iii) changes in coverage contribute to the detection of fuzzing bugs; and (iv) developer-provided seed corpus exhibit long-term effectiveness. This study provides empirical insights into how continuous fuzzing contributes to fuzzing bug detection, offering practical implications for future strategies and tool development in continuous fuzzing.</p>",
+    "title_zh": "大规模连续模糊测试的实证分析：来自一百万次模糊测试会话的洞察",
+    "abstract_zh": "软件漏洞不断被报告并被利用于各类软件产品中，对社会造成了重大影响。近年来，主流的漏洞检测方法——模糊测试（fuzzing）已被集成到持续集成流程中，以短周期、高频次的方式运行。这种持续模糊测试能够在开发过程中快速发现并修复漏洞。尽管已有数千个项目采用该方法，但持续模糊测试在漏洞检测中的具体作用仍不明确。\n\n本研究旨在阐明持续模糊测试在漏洞检测中的作用。具体而言，我们考察了在发现模糊测试漏洞时的代码覆盖率以及模糊测试会话的总次数。我们从Google提供的在线服务OSS-Fuzz中收集了问题报告、覆盖率报告和模糊测试日志，该服务在持续集成过程中执行模糊测试。通过对参与OSS-Fuzz的878个项目的约112万次模糊测试会话进行实证研究，我们发现：（i）在引入持续模糊测试之前，已存在大量模糊测试漏洞，导致早期阶段的漏洞检测率较高；（ii）随着持续模糊测试的推进，代码覆盖率持续提升；（iii）覆盖率的变化有助于发现新的模糊测试漏洞；（iv）开发者提供的种子语料库具有长期有效性。本研究为持续模糊测试如何促进模糊测试漏洞检测提供了实证洞察，对未来持续模糊测试策略制定与工具开发具有重要的实践意义。"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "Intelligent Substation Main Wiring Automatic Generation Based on Deep Learning IED Attributes",
+    "authors": "Yinni Zeng, Renyuan Cai, Guoju Wang, Shihao Wang, Chongpei Wu, Jiajia Hu",
+    "publish": "2025 IEEE 7th International Conference on Energy, Power and Grid (ICEPG)",
+    "url": "https://doi.org/10.1109/icepg67373.2025.11466554",
+    "source": "IEEE",
+    "abstract": "In engineering applications, SCD files often lack direct descriptions of primary equipment and their topological relationships, making it difficult to generate the main single-line diagram of a substation. This paper presents an intelligent approach based on deep learning for automatically generating the main single-line diagram of a substation. By utilizing the descriptive features of IEDs such as descriptions, names, models, types, and virtual connections, a knowledge graph database is constructed. A deep learning model is trained to learn the attributes of IEDs, incorporating recurrent neural network techniques to analyze and infer properties such as voltage levels, connection methods, interval types, insulation levels, and associated busbars. The FR algorithm is employed to calculate reasonable distances for interval allocation at different voltage levels, enabling the generation of busbars for each voltage level. The intervals are sequentially determined, and the <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathrm{A}^{*}$</tex> algorithm is applied to compute the optimal path for connecting high, medium, or low-side intervals of the main transformer, adjusting the interval positions accordingly. This method efficiently visualizes the implicit topological relationships of primary equipment and the associations between primary and secondary equipment. Instance verification results show that this method can accurately and automatically draw the primary main connection diagram, helping substation on-site engineering personnel intuitively and quickly understand the overall situation of the SCD, and significantly improving the work efficiency of on-site engineering configuration and verification.",
+    "title_zh": "基于深度学习IED属性的智能变电站主接线自动生成",
+    "abstract_zh": "在工程应用中，SCD文件通常缺乏对一次设备及其拓扑关系的直接描述，导致难以生成变电站的主接线图。本文提出一种基于深度学习的智能方法，用于自动生成变电站的主接线图。通过利用IED（智能电子设备）的描述、名称、型号、类型及虚拟连接等特征，构建知识图谱数据库；并训练深度学习模型以学习IED属性，结合循环神经网络技术，分析并推断电压等级、连接方式、间隔类型、绝缘水平以及关联母线等关键信息。采用FR算法计算不同电压等级下间隔布置的合理间距，从而生成各电压等级的母线。随后按序确定间隔位置，并运用A*算法计算主变压器高压、中压或低压侧间隔之间的最优连接路径，相应调整间隔位置。该方法能够高效地可视化一次设备间的隐含拓扑关系，以及一次设备与二次设备之间的关联关系。实例验证结果表明，该方法可准确、自动绘制出一次主接线图，帮助变电站现场工程人员直观、快速地掌握SCD文件的整体情况，显著提升了现场工程配置与核查的工作效率。"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "Explainable and Robust AI-Enhanced Secure Verification Using Adaptive Federated Learning and Theoretical Analysis",
+    "authors": "Sivakumar Depuru, Nagooru Chandana, P. Alekhya, S. Madhu, Seela Venkata Chandana Devi",
+    "publish": "2026 Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+    "url": "https://doi.org/10.1109/icmsci67830.2026.11469372",
+    "source": "IEEE",
+    "abstract": "Modern secure verification systems are becoming more dependent on artificial intelligence to enhance both detection accuracy and automation, although the majority of systems today are unchanged and opaque and do not provide formal performance guarantees. To overcome the shortcomings, the research introduced a flexible and interpretable AIgrounded secure design that merges federated intelligence, trust-aware learning and theoretical authentication of privacypreserving verification settings. The suggested framework uses an adaptive learning process which dynamically is used to revise the model parameters amongst distributed nodes without breaching data confidentiality. To increase the transparency, an explainability module is also added to decode the rationale of decision, trust scores allowing the accountable and verifiable verification. Moreover, there are formal convergence and complexity analysis that introduces theoretical performance guarantees. A large scale of experiments on various benchmark data reveals that the proposed framework offers better verification performance with up to 96-98 percent accuracy and better robustness in adversarial environments and faster convergence than state of art approaches. The effectiveness and cross-dataset evaluations through ablation, scalability, and cross-dataset evaluations are also used to prove the effectiveness and generalization ability of the proposed system. Such findings confirm the framework as a trusted, scalable, and explicable platform of next-generation secure verification applications.",
+    "title_zh": "可解释且鲁棒的AI增强安全验证：基于自适应联邦学习与理论分析",
+    "abstract_zh": "现代安全验证系统正越来越依赖人工智能来提升检测的准确性和自动化水平，然而目前大多数系统仍保持不变、缺乏透明度，且无法提供正式的性能保障。为克服这些不足，本研究提出了一种灵活且可解释的人工智能驱动安全设计，该设计融合了联邦智能、信任感知学习以及隐私保护验证环境下的理论认证机制。所提出的框架采用自适应学习过程，在不泄露数据机密性的前提下，动态地在分布式节点间更新模型参数。为了增强系统的透明性，还引入了一个可解释性模块，用于解析决策依据和信任评分，从而实现可问责、可验证的验证过程。此外，该框架还进行了形式化的收敛性与复杂度分析，提供了理论上的性能保证。在多个基准数据集上进行的大规模实验表明，该框架在验证性能方面表现优异，准确率高达96%至98%，在对抗性环境中的鲁棒性更强，且收敛速度优于现有最先进方法。通过消融实验、可扩展性分析及跨数据集评估，进一步验证了该系统在有效性与泛化能力方面的优势。这些发现证实，该框架是下一代安全验证应用中一个可信、可扩展且可解释的平台。"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "ShadAR: LLM-driven shader generation to transform visual perception in Augmented Reality",
+    "authors": "Yanni Mei, Samuel Wendt, Jonas Wombacher, Florian Müller, Jan Gugenheimer",
+    "publish": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "url": "https://doi.org/10.1145/3772363.3799378",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ShadAR：由大语言模型驱动的着色器生成，重塑增强现实中的视觉感知",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "Q-KVComm: Efficient Multi-Agent Communication via Adaptive KV Cache Compression",
+    "authors": "Boris Kriuk, Logic Ng",
+    "publish": "2026 Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)",
+    "url": "https://doi.org/10.1109/icmsci67830.2026.11469367",
+    "source": "IEEE",
+    "abstract": "Multi-agent Large Language Model (LLM) systems face a critical bottleneck: redundant transmission of contextual information between agents consumes excessive bandwidth and computational resources. Traditional approaches discard internal semantic representations and transmit raw text, forcing receiving agents to recompute similar representations from scratch. We introduce Q-KVComm, a new protocol that enables direct transmission of compressed key-value (KV) cache representations between LLM agents. Q-KVComm combines three key innovations: (1) adaptive layer-wise quantization that allocates variable bit-widths based on sensitivity profiling, (2) hybrid information extraction that preserves critical facts across content domains, and (3) heterogeneous model calibration establishing cross-architecture communication. Extensive experiments across three diverse question-answering datasets demonstrate that QKVComm achieves 5-6x compression ratios while maintaining semantic fidelity, with coherence quality scores above 0.77 across all scenarios. The protocol exhibits robust performance across model sizes (1.1B-1.5B parameters) and adapts to real-world applications including conversational QA and multi-hop reasoning. Our work establishes a new paradigm for LLM agent communication, shifting from text-based to representation-based information exchange.",
+    "title_zh": "Q-KVComm：通过自适应KV缓存压缩实现高效的多智能体通信",
+    "abstract_zh": "多智能体大语言模型（LLM）系统面临一个关键瓶颈：智能体之间冗余的上下文信息传输消耗了大量带宽和计算资源。传统方法丢弃内部语义表示，仅传输原始文本，迫使接收方智能体从头重新计算类似的表示。我们提出一种名为Q-KVComm的新协议，实现LLM智能体之间直接传输压缩后的键值（KV）缓存表示。Q-KVComm融合了三项核心创新：（1）自适应分层量化技术，根据敏感性分析动态分配可变位宽；（2）混合信息提取机制，在不同内容领域中保留关键事实；（3）异构模型校准，实现跨架构通信。在三个多样化的问答数据集上的大量实验表明，Q-KVComm在保持语义保真度的前提下实现了5-6倍的压缩比，所有场景下的连贯性质量评分均超过0.77。该协议在不同模型规模（11亿至15亿参数）下表现出稳健性能，并可适配实际应用场景，包括对话式问答与多跳推理。我们的工作确立了一种全新的LLM智能体通信范式，推动信息交换从基于文本的模式转向基于表示的模式。"
+  },
+  {
+    "date": "2026-4-13",
+    "title": "HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing",
+    "authors": "Zhiyuan Wei, Jing Sun, Zijian Zhang, Zhe Hou, Xianhao Zhang, Meng Li, Yuqiang Sun, Daoyuan Wu, Yang Liu, Chunmiao Li, Mingchao Wan, Jin Dong",
+    "publish": "IEEE Transactions on Information Forensics and Security",
+    "url": "https://doi.org/10.1109/tifs.2026.3683274",
+    "source": "IEEE",
+    "abstract": "The rapid growth of blockchain technology has driven the widespread adoption of smart contracts; however, their inherent vulnerabilities have led to significant financial losses. Traditional auditing methods, while essential, struggle to keep pace with the increasing complexity and scale of smart contracts. Large language models (LLMs) offer promising capabilities for automating vulnerability detection, but their adoption is often limited by high computational costs. Although prior work has explored leveraging large models through agents or workflows, relatively little attention has been given to improving the performance of smaller, fine-tuned models—a critical factor for achieving both efficiency and data privacy. In this paper, we introduce HKT-SmartAudit, a framework for developing lightweight models optimized for smart contract auditing. It features a multi-stage knowledge distillation pipeline that integrates classical distillation, external domain knowledge, and reward-guided learning to transfer high-quality insights from large teacher models. A single-task learning strategy is employed to train compact student models that maintain high accuracy and robustness while significantly reducing computational overhead. Experimental results show that our distilled models outperform both commercial tools and larger models in detecting complex vulnerabilities and logical flaws, offering a practical, secure, and scalable solution for smart contract auditing. The source code is available in the GitHub repository<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">1</sup>.",
+    "title_zh": "HKT-SmartAudit：面向智能合约审计的轻量级模型提炼方法",
+    "abstract_zh": "区块链技术的快速发展推动了智能合约的广泛应用；然而，其固有的安全漏洞已导致重大财务损失。传统审计方法虽然至关重要，但难以跟上智能合约日益增长的复杂性和规模。大型语言模型（LLMs）在自动化漏洞检测方面展现出巨大潜力，但其应用常受限于高昂的计算成本。尽管已有研究探索通过代理或工作流利用大模型，但对于提升小型微调模型性能的关注仍相对较少——而这一因素对于实现效率与数据隐私保护至关重要。本文提出HKT-SmartAudit框架，用于开发专为智能合约审计优化的轻量级模型。该框架采用多阶段知识蒸馏流程，融合经典蒸馏、外部领域知识以及基于奖励的学习机制，将大型教师模型中的高质量洞察有效迁移至学生模型。我们采用单任务学习策略训练紧凑的学生模型，在显著降低计算开销的同时，保持高准确率和鲁棒性。实验结果表明，我们的蒸馏模型在检测复杂漏洞和逻辑缺陷方面，优于现有商业工具及更大规模模型，为智能合约审计提供了一种实用、安全且可扩展的解决方案。源代码已发布于GitHub仓库<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">1</sup>。"
+  }
+]
