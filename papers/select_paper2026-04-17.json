@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2026-4-17",
+    "title": "Software Diversity in Resource-Constrained Embedded Systems",
+    "authors": "Kush Dave, Ian G. Harris",
+    "publish": "2026 IEEE 27th Latin American Test Symposium (LATS)",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480365",
+    "source": "IEEE",
+    "abstract": "Resource-constrained embedded devices often lack the security measures against Return-Oriented Programming (ROP) attacks, like Address Space Layout Randomization (ASLR), due to overhead restrictions and device constraints. If a malicious actor were to get hold of this firmware, reverse engineer it and craft a ROP attack for a device and the firmware, all similar devices would immediately become vulnerable to this attack. Moreover, it has been shown that compared to general purpose devices, IoT and embedded devices are far slower to receive the patch for vulnerabilities, leaving many of them still vulnerable up to multiple months even after a patch has been pushed out. In this paper, we present a tool to generate logically diverse, but functionally equivalent firmware for resource constrained embedded devices. Our system is context aware and prevents the uncertain performance or large overheads usually associated with diversifying software due to addition of extra instructions. Our security analysis shows that by diversifying firmware, we are able to generate variants that are secure against generalized attacks that involve using ROP gadgets.",
+    "title_zh": "资源受限嵌入式系统中的软件多样性",
+    "abstract_zh": "资源受限的嵌入式设备通常由于开销限制和设备本身的约束，缺乏针对返回导向编程（Return-Oriented Programming, ROP）攻击的安全措施，例如地址空间布局随机化（Address Space Layout Randomization, ASLR）。如果恶意攻击者获取了此类固件，能够对其进行逆向工程并为该设备及固件构造ROP攻击，那么所有类似设备将立即面临该攻击的威胁。此外，已有研究表明，与通用设备相比，物联网（IoT）和嵌入式设备在漏洞补丁的更新速度上要慢得多，即使补丁已发布，仍有许多设备在数月内保持脆弱状态。本文提出了一种工具，用于为资源受限的嵌入式设备生成逻辑上多样但功能等价的固件。我们的系统具备上下文感知能力，能够有效避免传统软件多样化技术中常见的性能不确定性和高开销问题，这些问题通常源于额外指令的引入。安全分析表明，通过固件多样化，我们能够生成对涉及使用ROP小工具的通用攻击具有抵御能力的固件变体。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Case Study: The High-Level Synthesis-Based Firmware Upgrade for the Digital Trigger Back-End System of the ATLAS Liquid Argon Calorimeter",
+    "authors": "Melissa S. Aguiar, Dabson F. dos Santos, Adriana Milic, Diogo A. Cardinot, Marcos V. S. Oliveira, Luciano M. A. Filho, Gustavo B. Libotte, Bernardo S. Peralva",
+    "publish": "2026 IEEE 27th Latin American Test Symposium (LATS)",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480279",
+    "source": "IEEE",
+    "abstract": "The trigger and data acquisition systems of the LHC experiments rely on reconfigurable architectures based on FPGA (Field Programmable Gate Arrays) to accommodate design updates and increasing of the detectors complexity. However, this flexibility comes at the cost of longer development and validation cycles, particularly for large real-time systems operating under strict latency and throughput constraints. This work presents the HLS-based firmware redesign of the back-end system from the ATLAS Liquid Argon Calorimeter, where the introduction of a parallel switch matrix on REMAP block significantly simplifies the architecture and reduces the use of firmware resources. The proposed methodology allows systematic design exploration without modifying the source code, shortens verification time, and provides a more efficient workflow for creating and maintaining large-scale FPGA firmware in modern trigger systems.",
+    "title_zh": "案例研究：基于高层次综合的ATLAS液氩量能器数字触发后端系统的固件升级",
+    "abstract_zh": "大型强子对撞机（LHC）实验中的触发与数据获取系统依赖于基于现场可编程门阵列（FPGA）的可重构架构，以适应设计更新及探测器复杂度的不断提升。然而，这种灵活性也带来了开发和验证周期延长的问题，尤其是在严格限制延迟和吞吐量的大规模实时系统中尤为明显。本文提出了一种基于高层次综合（HLS）的固件重设计方法，用于ATLAS液氩量能器后端系统的改造。通过在REMAP模块中引入并行开关矩阵，显著简化了系统架构，并减少了固件资源的使用。所提出的这一方法能够在不修改源代码的前提下实现系统性设计探索，缩短验证时间，并为现代触发系统中大规模FPGA固件的设计与维护提供更高效的流程。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Enhancing Cross-Project Defect Prediction for Automated Software Fault Detection",
+    "authors": "Hamza Abdulkareem Alsagier Rajab, Abraheem Alsubayahy, Mohamed A. E. Abdalla",
+    "publish": "2025 10th International Conference on Computer and Communication Engineering (ICCCE)",
+    "url": "https://doi.org/10.1109/iccce66530.2025.11473983",
+    "source": "IEEE",
+    "abstract": "Software defects refer to faults, bugs, or malfunctions in software systems that lead to incorrect outcomes. Such defects may stem from issues like flawed design, programming mistakes, misinterpreted requirements, or integration challenges. Ensuring software quality and reliability requires systematic defect management through testing, debugging, and quality assurance practices. They can be identified using methods such as manual code inspections, automated testing, and dynamic analysis, which help detect bugs, performance problems, and security flaws. Furthermore, user reports, error logs, and debugging tools are essential for discovering defects both during development and after release. Recently, AI has helped detect software defects by utilizing machine learning, static code analysis, and automated testing to recognize patterns, detect anomalies, and identify potential errors in the code. Moreover, AI-driven tools assess past defect data, anticipate vulnerabilities, and streamline testing procedures to improve software reliability and quality. This study explores advancements in Cross-Project Defect Prediction (CPDP) by integrating alternative size metrics and Explainable AI (XAI) techniques to enhance predictive accuracy and interpretability. The proposed AI model is examined from social network analysis (SNA). The proposed model employs XAI tools like SHapley Addictive exPlanation (SHAP). The model is applied on different datasets. It is proposed with several ML algorithms including: XGBoost, SVMs, and ANN. The findings emphasise the potential of combining innovative metrics and interpretability techniques to create robust, transparent CPDP models that support software quality assurance and defect management in increasingly complex software development projects.",
+    "title_zh": "提升跨项目缺陷预测以实现自动化软件故障检测",
+    "abstract_zh": "软件缺陷是指导致软件系统产生错误结果的故障、漏洞或异常行为。这些缺陷可能源于设计不当、编程错误、需求理解偏差或集成难题等问题。确保软件的质量与可靠性，需要通过测试、调试和质量保证等系统化手段进行缺陷管理。缺陷可通过人工代码审查、自动化测试以及动态分析等方法识别，有助于发现程序中的漏洞、性能问题及安全缺陷。此外，用户反馈、错误日志和调试工具在开发阶段及发布后均是发现缺陷的重要途径。近年来，人工智能（AI）通过机器学习、静态代码分析和自动化测试等技术，在识别软件缺陷方面发挥了重要作用，能够发现代码中的模式、检测异常并识别潜在错误。同时，基于AI的工具还能分析历史缺陷数据，预测潜在漏洞，并优化测试流程，从而提升软件的可靠性和质量。本研究探讨了通过整合替代性度量指标与可解释人工智能（XAI）技术，推动跨项目缺陷预测（CPDP）的进展，以提高预测准确率和模型可解释性。所提出的AI模型从社交网络分析（SNA）的角度进行了考察，采用SHapley Additive exPlanations（SHAP）等XAI工具增强模型透明度。该模型在多个数据集上进行了验证，并结合了多种机器学习算法，包括XGBoost、支持向量机（SVMs）和人工神经网络（ANN）。研究结果表明，将创新的度量指标与可解释性技术相结合，有助于构建稳健且透明的CPDP模型，为日益复杂的软件开发项目提供有力支持，有效促进软件质量保障与缺陷管理。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "LLM-based User-Customizable Economic MPC for Consumer Unmanned Surface Vehicle Path Planning",
+    "authors": "Zhimin Liu, Yubin Jia, Panxiao Yong, Changyin Sun",
+    "publish": "IEEE Transactions on Consumer Electronics",
+    "url": "https://doi.org/10.1109/tce.2026.3685009",
+    "source": "IEEE",
+    "abstract": "Existing unmanned surface vehicle (USV) path planning methods based on model predictive control (MPC) frequently necessitate extensive manual parameter adjustments in response to changes in the control task, which limits their usability in consumer-grade unmanned electronic systems operated by non-expert users. When addressing the conflicting requirements of safety and economic efficiency in path planning, MPC typically prioritizes trajectory safety. Additionally, methods for adjusting controller performance based on personalized user requirements typically depend heavily on extensive user feedback or pretraining data. In this paper, an economic model predictive control (EMPC) approach assisted by a large language model (LLM) is proposed. Using an LLM agent, users can conveniently and efficiently update controller parameters via natural language to meet their personalized requirements. The LLM agent translates user instructions into mathematical expressions in real time, thereby enabling parameter adjustments for the EMPC controller and achieving performance consistent with user demands. Meanwhile, the EMPC approach balances obstacle avoidance safety with the USV’s operational energy consumption, effectively managing the trade-off between these two objectives. Experimental results demonstrate the effectiveness and feasibility of the proposed method, indicating its potential for real-time deployment in consumer unmanned surface vehicle electronic systems that require flexible user interaction and energy-efficient autonomous navigation.",
+    "title_zh": "基于大语言模型的用户可定制经济型模型预测控制在消费级无人水面艇路径规划中的应用",
+    "abstract_zh": "基于模型预测控制（MPC）的现有无人水面艇（USV）路径规划方法在面对控制任务变化时，通常需要大量手动参数调整，这限制了其在非专业用户操作的消费级无人电子系统中的可用性。在路径规划中应对安全与经济效率之间的矛盾需求时，MPC通常优先考虑轨迹安全性。此外，现有根据个性化用户需求调整控制器性能的方法往往严重依赖于大量用户反馈或预先训练数据。本文提出一种由大语言模型（LLM）辅助的经济型模型预测控制（EMPC）方法。通过引入LLM智能体，用户可借助自然语言便捷高效地更新控制器参数，以满足个性化需求。该LLM智能体能够实时将用户指令转化为数学表达式，从而实现对EMPC控制器参数的动态调整，使系统性能与用户期望保持一致。同时，所提出的EMPC方法在保障避障安全性的基础上，有效平衡了USV运行过程中的能耗问题，合理协调了安全性与能效之间的权衡关系。实验结果验证了该方法的有效性与可行性，表明其具备在需灵活人机交互和节能自主导航的消费级无人水面艇电子系统中实现实时部署的潜力。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "eXAI-CodeDebug: Towards Reliable, Trustworthy, and Explainable LLM-Based Coding for Production Systems",
+    "authors": "Srishti Dubey, Vijay K. Madisetti",
+    "publish": "Computing in Science &amp; Engineering",
+    "url": "https://doi.org/10.1109/mcse.2026.3684488",
+    "source": "IEEE",
+    "abstract": "Large Language Models speed up software development but often produce flawed, non-production-ready code resulting in a controversy over their use. Existing AI coding tools lack transparency, confidence scores, and clear explanations. We present eXAI-CodeDebug, an explainable code analysis framework that combines static analysis with LLM-based detection to ensure production-quality code. It provides dual confidence scores, separately measuring certainty for detected issues and proposed fixes—plus detailed explanations and one-click automated corrections. The system covers seven issue categories, including hallucinations and security vulnerabilities, with customizable filters and thresholds. On 48 seeded issues, it achieves 100% precision and recall for Security and Hallucination, 85.7% F1 Score for Bug Detection, Quality, and Trustworthiness, and 69% Quick Fix success. Analysis averages 12.5 seconds per file and reduces debugging time from 6–23 minutes to under 2 seconds per issue.",
+    "title_zh": "eXAI-CodeDebug：迈向可靠、可信且可解释的基于大模型的生产系统编程",
+    "abstract_zh": "大型语言模型（LLM）虽加速了软件开发进程，但常生成存在缺陷、无法直接投入生产的代码，由此引发对其使用方式的争议。现有AI编程工具普遍缺乏透明度、置信度评分以及清晰的解释说明。为此，我们提出eXAI-CodeDebug——一种可解释的代码分析框架，通过结合静态分析与基于大语言模型的检测技术，确保代码达到生产级质量标准。该系统提供双重置信度评分，分别衡量对发现的问题和建议修复方案的确定性；同时提供详细解释及一键自动化修复功能。系统涵盖七大类问题，包括幻觉、安全漏洞等，并支持自定义过滤器与阈值设置。在48个预设问题的测试中，其在安全性和幻觉检测方面实现100%的精确率与召回率，Bug检测、代码质量和可信度三项指标的F1分数达85.7%，快速修复成功率高达69%。平均每个文件分析耗时仅12.5秒，将调试时间从原先的每项问题6至23分钟大幅缩短至不足2秒。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Error-Driven Prompt Optimization for Arithmetic Reasoning\n                    <i>A Code Generation Approach Using On-Premises Small Language Models on Tabular Data</i>",
+    "authors": "Árpád Pándy, Róbert Lakatos, András Hajdu",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3685125",
+    "source": "IEEE",
+    "abstract": "Recent advancements in artificial intelligence have sparked interest in industrial agents capable of supporting analysts in regulated sectors, such as finance and healthcare, within tabular data workflows. A key capability for such systems is performing accurate arithmetic operations on structured data while ensuring sensitive information never leaves secure, on-premises environments. Here, we introduce an error-driven optimization framework for arithmetic reasoning that enhances a Code Generation Agent (CGA), specifically applied to on-premises small language models (SLMs). Through a systematic evaluation of a leading SLMs (Qwen3 4B, Gemma 3N E4B, Gemma3 4B), we find that while the base model exhibits fundamental limitations in arithmetic tasks, our proposed error-driven method, which clusters erroneous predictions to refine prompt-rules iteratively, dramatically improves performance, elevating the model’s accuracy to 66.45%. Our results suggest that developing reliable, interpretable, and industrially deployable AI assistants can be achieved not only through costly fine-tuning but also via systematic, error-driven prompt optimization, enabling small models to surpass larger language models (GPT-3.5 Turbo) in a privacy-compliant manner.",
+    "title_zh": "基于错误驱动的提示优化用于算术推理\n                    <i>一种使用本地小型语言模型处理表格数据的代码生成方法</i>",
+    "abstract_zh": "近年来，人工智能的最新进展激发了人们对工业级智能体的兴趣，这些智能体能够支持金融、医疗等受监管领域中的分析师，在表格数据工作流中完成任务。此类系统的关键能力在于：在保证敏感信息始终留在安全的本地环境中、不外泄的前提下，对结构化数据执行精确的算术运算。本文提出了一种基于错误驱动的优化框架，用于提升代码生成智能体（CGA）在算术推理方面的能力，特别针对本地部署的小型语言模型（SLMs）。通过对当前领先的几款SLMs（Qwen3 4B、Gemma 3N E4B、Gemma3 4B）进行系统性评估，我们发现基础模型在算术任务上存在根本性局限；而我们提出的错误驱动方法，通过聚类错误预测结果并迭代优化提示规则，显著提升了模型性能，使准确率大幅提升至66.45%。研究结果表明，通过系统性的、以错误为导向的提示优化，而非昂贵的微调，同样可以实现可靠、可解释且适用于工业场景的AI助手开发。这一方法使得小型模型在符合隐私保护要求的前提下，甚至超越大型语言模型（如GPT-3.5 Turbo）的表现。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Evaluating an Analog Test Pattern Generation Tool by Means of Hardware-Emulated Fault Injection",
+    "authors": "Luis A. Duarte, Lucas B. Zilch, Állan F. G. Ferreira, Marcelo S. Lubaszewski, Tiago R. Balen",
+    "publish": "2026 IEEE 27th Latin American Test Symposium (LATS)",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480304",
+    "source": "IEEE",
+    "abstract": "This work presents a hardware-emulated fault injection experiment designed to evaluate a previously proposed test pattern generation tool for analog circuits. The tool processes the SPICE netlist of the circuit under test, performing iterative fault simulations and analyzing AC, DC, and transient responses at internal nodes and primary outputs. Its output is a test sequence that identifies optimal stimuli and observation points to maximize fault coverage. For experimental validation, a simple operational amplifier was implemented using MOS transistors from a commercial device. The SPICE netlist and corresponding transistor models were provided as input to the tool. The generated test sequence was then applied to the hardware circuit while open and short faults were injected directly into the hardware, considering the same fault model which was previously simulated. Experimental results show good fault coverage and good agreement with the simulations. Discrepancies were observed in the behavior of certain hard-to-detect faults — particularly open faults at transistor gate terminals — between the simulation and the hardware implementation.",
+    "title_zh": "通过硬件仿真故障注入评估模拟测试图案生成工具",
+    "abstract_zh": "本研究提出了一项基于硬件仿真的故障注入实验，旨在评估一种先前提出的模拟电路测试矢量生成工具。该工具对被测电路的SPICE网表进行处理，通过迭代故障仿真，并分析内部节点及主要输出端口的交流（AC）、直流（DC）和瞬态响应。其输出为一组测试序列，能够识别出最优激励信号与观测点，以最大化故障覆盖率。为验证实验效果，采用商用器件中的MOS晶体管实现了一个简单的运算放大器电路。将该电路的SPICE网表及其对应的晶体管模型作为输入提供给该工具。随后，将生成的测试序列应用于实际硬件电路，并在硬件层面直接注入开路和短路故障，所采用的故障模型与此前仿真中的一致。实验结果表明，故障覆盖率良好，且与仿真结果具有良好的一致性。然而，在某些难以检测的故障（特别是晶体管栅极处的开路故障）方面，仿真结果与硬件实现之间仍存在一定的差异。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Towards Reliable and Scalable Firmware Testing in Communication-Constrained Environments",
+    "authors": "J. D. S. Coutinho Filho, A. H. P. Dantas, T. D. de Araújo, J. E. Silva Filho, J. A. N. da Silveira, A. A. M. de Albuquerque",
+    "publish": "2026 IEEE 27th Latin American Test Symposium (LATS)",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480419",
+    "source": "IEEE",
+    "abstract": "The rapid evolution of the Internet of Things (IoT) has driven the widespread adoption of Low Power Wide Area Network (LPWAN) technologies in embedded devices for diverse applications. While LPWANs provide long-range connectivity and high energy efficiency, they inherently suffer from high latency, low data rates, and dependence on external infrastructure. These constraints impose severe limitations on firmware test automation, leading to slow and costly validation processes that often fail to meet stringent reliability and security requirements. This paper presents an alternative method for automating integration and vulnerability testing in embedded firmware using a SEGGER J-Link debug probe with Real-Time Transfer (RTT) technology combined with the Pytest framework. The proposed architecture enables testing independent of network infrastructure, supporting functional, regression, and controlled fuzzing experiments that assess system robustness under unexpected states. When applied to a real IoT device, three consecutive automated test cycles demonstrated a reduction in total execution time from 272,471 seconds (LPWAN + Pytest) to 25,473 seconds (RTT + Pytest) — an absolute gain of 246,998 seconds, equivalent to a 90.6 % improvement in performance. This significant efficiency gain enhances reproducibility, shortens regression cycles, and facilitates seamless integration with DevOps pipelines. The proposed methodology addresses a gap identified in the literature — the lack of accessible, automated, and reproducible solutions for firmware integration testing in communication-constrained environments — thus contributing to the advancement of reliable embedded software design by reconciling hardware limitations with modern quality and automation requirements.",
+    "title_zh": "在通信受限环境中的可靠且可扩展固件测试",
+    "abstract_zh": "物联网（IoT）的快速发展推动了低功耗广域网（LPWAN）技术在各类嵌入式设备中的广泛应用。尽管LPWAN具备远距离连接和高能效的优势，但其固有的高延迟、低数据速率以及对外部基础设施的依赖性，给嵌入式固件测试自动化带来了严峻挑战，导致验证过程缓慢且成本高昂，难以满足严格的可靠性与安全性要求。本文提出一种创新方法，利用SEGGER J-Link调试探针结合实时传输（RTT）技术，并集成Pytest框架，实现嵌入式固件集成与漏洞测试的自动化。该架构摆脱了对网络基础设施的依赖，支持功能测试、回归测试及受控模糊测试，能够有效评估系统在异常状态下的鲁棒性。在实际物联网设备上的应用中，连续三次自动化测试周期显示，总执行时间从采用LPWAN+Pytest方案的272,471秒，降低至采用RTT+Pytest方案的25,473秒，绝对节省246,998秒，性能提升达90.6%。这一显著效率提升不仅增强了测试结果的可复现性，缩短了回归测试周期，还实现了与DevOps流水线的无缝集成。所提出的方案填补了现有文献中的空白——即在通信受限环境下缺乏可访问、自动化且可复现的固件集成测试解决方案，从而在硬件限制与现代质量保障及自动化需求之间取得平衡，推动了可靠嵌入式软件设计的发展。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Deep Learning-Based Power Side-Channel Evaluation from RTL Switching-Activity Proxies",
+    "authors": "Behnam Farnaghinejad, Annachiara Ruospo, Alessandro Savino, Stefano Di Carlo, Ernesto Sanchez",
+    "publish": "2026 IEEE 27th Latin American Test Symposium (LATS)",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480302",
+    "source": "IEEE",
+    "abstract": "Deep learning has become a central tool in power side-channel analysis, supporting not only key recovery from measured traces but also the detection of key-dependent patterns, templates, and leakage structure. Despite this progress, the use of deep learning for leakage assessment at the Register-Transfer Level (RTL) remains largely unexamined. RTL-level switching activity provides the earliest point in the design flow where power side-channel leakage can be assessed, offering fast analysis while avoiding the complexity and cost associated with gate-level evaluation. This paper presents the first study that applies both unsupervised and supervised deep learning to power side-channel evaluation at RTL-level. An unsupervised Convolutional Long Short-Term Memory (ConvLSTM) autoencoder is used to learn temporal representations without key labels, and a supervised Convolutional Neural Network (CNN) is included to provide a profiling-style reference. Both models are evaluated using 40,000 RTL switching-activity proxies generated with VeriSide for AES-128 executions on a CVA6 core with an AES-64 accelerator. The unsupervised model achieves precise key distinguishability and consistent leakage localization, approaching the supervised baseline with moderately higher trace requirements. The results show that deep learning can expose exploitable leakage directly at the RTL stage, motivating the integration of mitigation strategies early in the digital design process.",
+    "title_zh": "基于深度学习的RTL切换活动代理的电源侧信道评估",
+    "abstract_zh": "深度学习已成为电源侧信道分析中的核心工具，不仅支持从测量轨迹中恢复密钥，还能检测密钥相关的模式、模板及泄漏结构。尽管取得了这些进展，但将深度学习应用于寄存器传输级（RTL）的泄漏评估仍鲜有研究。RTL级的开关活动是设计流程中最早可进行电源侧信道泄漏评估的阶段，能够在避免门级评估所带来的复杂性和成本的同时，实现快速分析。本文首次将无监督和有监督的深度学习方法应用于RTL级的电源侧信道评估。我们采用一种无监督的卷积长短期记忆（ConvLSTM）自编码器来学习时间特征表示，而无需密钥标签；同时引入一个有监督的卷积神经网络（CNN），以提供类似建模分析的参考基准。两种模型均基于使用VeriSide生成的40,000个RTL开关活动代理数据进行评估，这些数据来自在CVA6核心上运行AES-128算法并配备AES-64加速器的情况。实验结果表明，无监督模型能够实现精确的密钥区分能力与稳定的泄漏定位效果，其性能接近有监督基线，仅需略多一些的测试轨迹。结果证明，深度学习可在RTL阶段直接揭示可被利用的泄漏信息，从而推动在数字设计早期就集成相应的防护策略。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "A Unified Perspective for Learning Graph Representations across Multi-Level Abstractions_supp1-3681811.pdf",
+    "authors": "Mohamed Bouguessa",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tkde.2026.3681811/mm1",
+    "source": "IEEE",
+    "abstract": "Graph Self-Supervised Learning (GSSL) has emerged as a powerful paradigm for generating high-quality representations for graph-structured data. While multi-scale graph contrastive learning has received increasing attention, many existing methods still predominantly focus on a single graph abstraction level. To address this limitation, we propose a unified contrastive framework that can target node-level, proximity-level, cluster-level, and graph-level information and integrate them through a linear combination of similarity scores on positive pairs and dissimilarity scores (i.e., similarity scores on negative pairs). Furthermore, current approaches typically assign uniform penalty strengths to all examples, which reduces optimization flexibility and leads to ambiguous convergence status. To overcome this, we introduce a novel parameter-free fine-grained self-weighting mechanism that adaptively assigns weights to individual similarity and dissimilarity scores. The proposed mechanism emphasizes the scores that deviate significantly from their target values. Our approach not only enhances optimization flexibility but also eliminates the computational overhead of hyperparameter tuning in conventional multi-task GSSL methods. Comprehensive experiments on real-world datasets show that our methods consistently outperform state-of-the-art approaches across downstream tasks, including classification, clustering, and link prediction, in both single-level and multi-level scenarios.",
+    "title_zh": "一种跨多层级抽象学习图表示的统一视角_supp1-3681811.pdf",
+    "abstract_zh": "图自监督学习（Graph Self-Supervised Learning, GSSL）已成为生成图结构数据高质量表示的一种强大范式。尽管多尺度图对比学习受到越来越多的关注，但现有方法仍主要集中在单一图抽象层次上。为解决这一局限性，我们提出了一种统一的对比学习框架，能够同时捕捉节点级、邻近级、聚类级和图级信息，并通过正样本对的相似度得分与负样本对的不相似度得分（即相似度得分）的线性组合来融合这些信息。此外，当前方法通常对所有样本施加相同的惩罚强度，这降低了优化灵活性，并导致收敛状态模糊。为此，我们引入一种新颖的无参数细粒度自加权机制，可自适应地为每个相似度和不相似度得分分配权重。该机制特别强调那些显著偏离目标值的得分。所提方法不仅提升了优化灵活性，还消除了传统多任务GSSL方法中繁琐的超参数调优计算开销。在真实世界数据集上的大量实验表明，我们的方法在单层次与多层次场景下，均在下游任务（包括分类、聚类和链接预测）中持续优于现有的最先进方法。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "PowerCourt: Formally Judging Benign-Looking Circuits in Multi-Tenant FPGA Environments",
+    "authors": "Philipp Schmitz, Mohamed Shelkamy Ali, Dino Mehmedagić, Hassan Nassar, Jörg Henkel, Dominik Stoffel, Wolfgang Kunz",
+    "publish": "2026 IEEE 27th Latin American Test Symposium (LATS)",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480311",
+    "source": "IEEE",
+    "abstract": "In the era of Cloud Computing and High Performance Computing as a Service, multiple customers run their software and hardware on the same physical devices. This opens new opportunities for attackers, like Denial of Service (DoS) attacks on shared cloud Field Programmable Gate Arrays (FP-GAs). DoS attacks work by employing a malicious hardware design as a tenant on a shared FP-GA device, draining the FPGA's power budget. This paper aims at identifying potentially malicious circuits before they are deployed to the FPGA, using formal verification. Our methodology, PowerCourt, provides an accurate worst-case power estimation based on switching activity. It computes metadata about the design that enables service providers to classify designs as malicious. The method checks formal properties that verify whether a design can exceed a custom threshold and whether this threshold can be exceeded repeatedly. We demonstrate the effectiveness of our approach using various hardware designs. For example, for a trojan that enables excessive switching, we show that we can detect it offline and disable it during runtime.",
+    "title_zh": "PowerCourt：在多租户FPGA环境中正式判定看似无害的电路",
+    "abstract_zh": "在云计算和高性能计算即服务（HPC as a Service）的时代，多个客户在同一物理设备上运行其软件和硬件。这为攻击者带来了新的机会，例如针对共享云环境中的现场可编程门阵列（FPGA）的拒绝服务（DoS）攻击。DoS攻击通过在共享FPGA设备上部署恶意硬件设计作为租户，耗尽FPGA的功耗预算。本文旨在利用形式化验证，在硬件电路部署到FPGA之前识别出潜在的恶意电路。我们的方法PowerCourt基于开关活动提供了精确的最坏情况功耗估算，并生成关于设计的元数据，使服务提供商能够对设计进行恶意性分类。该方法检查一系列形式化属性，以验证某个设计是否可能超过自定义阈值，以及该阈值是否可能被反复突破。我们通过多种硬件设计验证了该方法的有效性。例如，对于一种能引发过度开关活动的木马电路，我们展示了可以在离线阶段检测到它，并在运行时将其禁用。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "LRASGen: LLM-based RESTful API Specification Generation",
+    "authors": "Sida Deng, Rubing Huang, Man Zhang, Chenhui Cui, Dave Towey, Rongcun Wang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3810241",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "LRASGen：基于大语言模型的RESTful API规范生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Case Study: Integrating RISC-V Zicfiss Shadow Stack Support for Control-Flow Integrity on the CVA6 Processor",
+    "authors": "Behnam Farnaghinejad, Ernesto Sanchez",
+    "publish": "2026 IEEE 27th Latin American Test Symposium (LATS)",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480312",
+    "source": "IEEE",
+    "abstract": "Control-flow integrity (CFI) is a fundamental defense against control-flow hijacking attacks that corrupt return addresses, and hardware-supported shadow stacks have been adopted in several mainstream processor architectures to provide backward-edge protection. The RISC-V Zicfiss extension introduces analogous CFI support into the RISC-V ecosystem, yet its practical integration into RISC-V processors remains largely unexplored. This paper presents a case study on integrating Zicfiss shadow stack support into the CVA6 processor, an opensource application-class RISC-V core representative of systems executing rich operating systems and user applications. The extension's architectural behavior is implemented and validated across privilege levels, establishing a correct and specificationaligned baseline for enforcing backward-edge CFI. This work enables a systematic study of control-flow protection mechanisms in advanced RISC-V designs. It provides a foundation for future investigations into robustness and hardening against physical and microarchitectural attack vectors.",
+    "title_zh": "案例研究：在CVA6处理器上集成RISC-V Zicfiss影子栈支持以实现控制流完整性",
+    "abstract_zh": "控制流完整性（CFI）是抵御控制流劫持攻击的一种基本防御机制，这类攻击会篡改返回地址。为提供后向边保护，硬件支持的影子栈已在多个主流处理器架构中得到采用。RISC-V 的 Zicfiss 扩展将类似的 CFI 支持引入 RISC-V 生态系统，但其在 RISC-V 处理器中的实际集成仍处于未充分探索的状态。本文通过一个案例研究，探讨了将 Zicfiss 影子栈支持集成到 CVA6 处理器的过程。CVA6 是一个开源的应用级 RISC-V 核心，代表了运行丰富操作系统和用户应用程序的系统。本文实现了该扩展的体系结构行为，并在不同特权级别下进行了验证，建立了一个正确且与规范一致的基线，用于强制执行后向边 CFI。本工作为在先进 RISC-V 设计中系统性研究控制流保护机制奠定了基础，也为未来针对物理和微架构攻击向量的鲁棒性与加固研究提供了重要支撑。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Using Task Graph Caching to Accelerate TVM Code Generation",
+    "authors": "Thais Silva Camacho, Lucas Alvarenga e Silva, Marcio Pereira, Guido Araujo",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3810246",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用任务图缓存加速 TVM 代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Embedded Tutorial: Security in Reconfigurable Scan Networks",
+    "authors": "Joel Åhlund, Markus Törmänen, Erik Larsson",
+    "publish": "2026 IEEE 27th Latin American Test Symposium (LATS)",
+    "url": "https://doi.org/10.1109/lats70329.2026.11480354",
+    "source": "IEEE",
+    "abstract": "Reconfigurable scan networks (RSNs) provide efficient and flexible access to on-chip logic, such as instruments for test and diagnostics, throughout a semiconductor's lifetime. Test instruments are powerful, as they provide high controllability and observability. The availability of a high number of test instruments, as well as the standardized and easy access, makes RSNs a valuable target for an adversary. With the goal of exploiting the instruments to perform more advanced attacks. Without any security measures in place, the attacker can access the RSN directly over the test port. On top of this, the extensive use of third-party IP and untrusted actors in the semiconductor supply chain opens up for malicious logic to be injected into the device, so called hardware trojans, causing a risk of attacks from within the RSN itself. In this embedded tutorial, we cover the risks related to RSNs, and discuss mitigation strategies to protect against attacks.",
+    "title_zh": "嵌入式教程：可重构扫描网络中的安全问题",
+    "abstract_zh": "可重构扫描网络（Reconfigurable Scan Networks, RSNs）为半导体在整个生命周期内提供了高效且灵活的片上逻辑访问方式，例如用于测试和诊断的仪器。测试仪器功能强大，能够提供高度的可控性和可观测性。由于存在大量测试仪器，并且访问方式标准化且简便，RSN 成为了攻击者的重要目标。攻击者旨在利用这些仪器实施更高级别的攻击。若未采取任何安全措施，攻击者可直接通过测试端口访问 RSN。此外，半导体供应链中广泛使用第三方知识产权（IP）以及不可信的参与方，使得恶意逻辑可能被注入到设备中，即所谓的硬件木马，从而导致来自 RSN 内部的攻击风险。在本次嵌入式教程中，我们将探讨与 RSN 相关的安全风险，并讨论相应的缓解策略以防范此类攻击。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "IDEA: Automated Design Space Exploration for Visualization Design",
+    "authors": "Chuer Chen, Xiaoke Yan, Xiaoyu Qi, Nan Cao",
+    "publish": "IEEE Transactions on Visualization and Computer Graphics",
+    "url": "https://doi.org/10.1109/tvcg.2026.3684920",
+    "source": "IEEE",
+    "abstract": "Design spaces serve as a conceptual framework that enables designers to explore feasible solutions, yet their lack of computational formalization limits integration with AI-driven design automation. To address this, we introduce a structured design space model that formalizes design spaces with orthogonal dimensions and discrete elements, making them machine-interpretable and executable. Building on this model, we present IDEA, a fully automated design exploration framework to generate effective outcomes based on user requirements and design spaces. Specifically, IDEA leverages large language models (LLMs) for constraint generation, incorporates a constraint-guided Monte Carlo Tree Search (MCTS) algorithm to explore the space, and instantiates abstract decisions into domain-specific implementations. We evaluate IDEA in two design scenarios: data-driven article and standard visualization, supported by blind ratings, expert interviews, and quantitative experiments. Results demonstrate the IDEA's adaptability across domains and its capability to produce high-quality designs.",
+    "title_zh": "IDEA：面向可视化设计的自动化设计空间探索",
+    "abstract_zh": "设计空间作为一种概念框架，使设计师能够探索可行的解决方案，但其缺乏计算形式化，限制了与人工智能驱动的设计自动化系统的集成。为解决这一问题，我们提出了一种结构化的设计空间模型，该模型通过正交维度和离散元素对设计空间进行形式化表达，使其具备机器可读性和可执行性。基于此模型，我们提出了IDEA——一个完全自动化的设计探索框架，可根据用户需求和设计空间生成高效的设计结果。具体而言，IDEA利用大型语言模型（LLMs）生成约束条件，结合约束引导的蒙特卡洛树搜索（MCTS）算法在设计空间中进行探索，并将抽象决策实例化为特定领域的实现方案。我们在两种设计场景中评估了IDEA：数据驱动的文章设计与标准可视化设计，评估方法包括盲评、专家访谈以及定量实验。结果表明，IDEA具有跨领域的适应能力，能够生成高质量的设计成果。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Does LLM Generated Code Smell?",
+    "authors": "Debalina Ghosh Paul, Hong Zhu, Ian Bayley",
+    "publish": "2025 9th International Conference on Cloud and Big Data Computing (ICCBDC)",
+    "url": "https://doi.org/10.1109/iccbdc67784.2025.00017",
+    "source": "IEEE",
+    "abstract": "Large Language Models (LLMs) are increasingly being used to generate program code. Much research has been reported on the functional correctness of generated code, but there is far less on code quality. In this study, we evaluate the code smells, an important indicator of code quality, of the Java programs generated in response to prompts given to four state-of-the-art LLMs: Gemini Pro, ChatGPT, Codex, and Falcon. We find that LLM-generated code has a higher incidence of code smells compared to reference solutions and this number increases with coding task complexity. We also find that the types of code smells vary with both programming topic and the choice of model. Falcon performed best, followed by Gemini Pro and ChatGPT. Codex performed worst, increasing by <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{1 0 9 \\%}$</tex> the average number of violations of coding rules. The quality of LLM-generated code tends to be worse in advanced topics such as encapsulation, abstract class and generics, polymorphism and inheritance, etc. The worst types of code smells in the baseline were also the worst in the LLM-generated code. On average across all LLMs, the implementation smells increase by 81 % and design smells by 64 %.",
+    "title_zh": "大语言模型生成的代码有“异味”吗？",
+    "abstract_zh": "大型语言模型（LLMs）正越来越多地被用于生成程序代码。尽管已有大量研究关注生成代码的功能正确性，但关于代码质量的研究却相对较少。在本研究中，我们评估了四种前沿LLM——Gemini Pro、ChatGPT、Codex和Falcon——在响应用户提示时生成的Java程序中的代码异味（code smells），而代码异味是衡量代码质量的重要指标。研究发现，与参考解决方案相比，LLM生成的代码中存在更高频率的代码异味，且随着编程任务复杂度的增加，这一现象愈发明显。此外，代码异味的类型不仅与编程主题相关，也受所选模型的影响。其中，Falcon表现最佳，其次为Gemini Pro和ChatGPT，而Codex表现最差，其编码规范违规数量平均增加了109%。在诸如封装、抽象类与泛型、多态性与继承等高级编程主题中，LLM生成代码的质量普遍更差。基准代码中最严重的几类代码异味，在LLM生成的代码中同样表现最为严重。总体来看，所有LLM生成的代码中，实现层面的异味增加了81%，设计层面的异味增加了64%。"
+  },
+  {
+    "date": "2026-4-17",
+    "title": "Cross-Phase Knowledge Transfer via Variable Space Alignment for Expensive Incremental Optimization_supp1-3684126.pdf",
+    "authors": "Yuanchao Liu",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tevc.2026.3684126/mm1",
+    "source": "IEEE",
+    "abstract": "One main feature of expensive incremental optimization problems (EIOPs) is the involvement of multiple costly related design phases. Based on the characteristics of EIOPs, solutions from previous design phases can be beneficial to find the optimum for the present design phase. However, extracting and reusing previous solutions is still a challenging task when solving EIOPs. To this end, this work proposes a surrogate-assisted differential evolution with variable space alignment (SADE-VSA) to effectively solve EIOPs. In SADE-VSA, a surrogate-assisted transfer strategy based on Wasserstein distance (SA-TWD) is first proposed to measure the similarity between different design phases. This strategy enables the pre-screening of high-quality solutions from previous design phases that exhibit high correlation with the present phase. Second, a surrogate-assisted variable space alignment (SA-VSA) strategy is proposed to align the variable space between previous and present design phases. Following this alignment, the highest quality solution is selected for transfer, which can help speed up the convergence of the algorithm. In order to verify the performance of the proposed SADE-VSA in solving EIOPs, six state-of-the-art methods are compared. The experimental results confirm the effectiveness of the proposed SADE-VSA in solving EIOPs.",
+    "title_zh": "通过变量空间对齐实现跨相位知识迁移以进行高成本增量优化_supp1-3684126.pdf",
+    "abstract_zh": "昂贵增量优化问题（EIOPs）的一个主要特征是涉及多个代价高昂且相互关联的设计阶段。基于EIOPs的特点，以往设计阶段的解决方案对于寻找当前设计阶段的最优解具有潜在价值。然而，在求解EIOPs时，如何有效提取并重用先前的解仍然是一个挑战性任务。为此，本文提出了一种基于代理模型的差分进化算法与变量空间对齐方法（SADE-VSA），以高效求解EIOPs。在SADE-VSA中，首先提出一种基于Wasserstein距离的代理模型辅助迁移策略（SA-TWD），用于度量不同设计阶段之间的相似性。该策略能够预先筛选出与当前阶段高度相关的高质量解。其次，提出一种代理模型辅助的变量空间对齐策略（SA-VSA），用于对齐以往与当前设计阶段的变量空间。在完成空间对齐后，选择质量最高的解进行迁移，从而有助于加速算法的收敛。为验证所提SADE-VSA在求解EIOPs方面的性能，本文将其与六种先进的方法进行了对比。实验结果充分证实了SADE-VSA在求解EIOPs方面的有效性。"
+  }
+]
