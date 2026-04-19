@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2026-4-18",
+    "title": "Quality Diversity Time-Use Optimisation for Health",
+    "authors": "Adel Nikfarjam, Ty Stanford, Aneta Neumann, Dorothea Dumuid, Frank Neumann",
+    "publish": "ACM Transactions on Evolutionary Learning and Optimization",
+    "url": "https://doi.org/10.1145/3808693",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-18",
+    "title": "DRAR: Diffusion-Based Relation Augmentation for Knowledge-aware Recommendation",
+    "authors": "Yingtao Peng, Chen Gao, Tangpeng Dan, Yong Li, Xiaofeng Meng",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3787454",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-18",
+    "title": "Understanding Visual Saliency of Outlier Items in Product Search",
+    "authors": "Fatemeh Sarvi, Mohammad Aliannejadi, Sebastian Schelter, Maarten de Rijke",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3806228",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-18",
+    "title": "RWKV4Rec: RWKV-Based Personalized Sequential Recommendation Model",
+    "authors": "Mengwei Yuan, Linkai Wan, Zengmin Xu, Ziyuan Xu, Weijian Ruan",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3810245",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-18",
+    "title": "Ideology-Based LLMs for Content Moderation",
+    "authors": "Stefano Civelli, Pietro Bernardelle, Nardiena A. Pratama, Gianluca Demartini",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3810946",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-18",
+    "title": "Investigating Self-Body Perception and its Effect on Affordance in Augmented Reality",
+    "authors": "Etienne Peillard, Marie-Cécile Léculier, Malena Joly, Nathalie Le Bigot",
+    "publish": "ACM Transactions on Applied Perception",
+    "url": "https://doi.org/10.1145/3807944",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-18",
+    "title": "OntoChat Assistant for User Story Generation in Ontology Engineering",
+    "authors": "Yihang Zhao, Anelia Kurteva, Albert Meroño Peñuela, Elena Simperl",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3810943",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-4-18",
+    "title": "Enhanced Quality Aware Scalable Underwater Image Compression",
+    "authors": "Linwei Zhu, Junhao Zhu, Xu Zhang, Huan Zhang, Ye Li, Runmin Cong, Sam Kwong",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3810949",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

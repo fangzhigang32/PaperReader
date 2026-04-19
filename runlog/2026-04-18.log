@@ -1,0 +1,26 @@
+[2026-04-19 22:37:11] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-04-18
+正在获取论文...
+[ACM] 2026-4-18 | Quality Diversity Time-Use Optimisation for Health
+[ACM] 2026-4-18 | DRAR: Diffusion-Based Relation Augmentation for Knowledge-aware Recommendation
+[ACM] 2026-4-18 | Understanding Visual Saliency of Outlier Items in Product Search
+[ACM] 2026-4-18 | RWKV4Rec: RWKV-Based Personalized Sequential Recommendation Model
+[ACM] 2026-4-18 | Ideology-Based LLMs for Content Moderation
+[ACM] 2026-4-18 | Investigating Self-Body Perception and its Effect on Affordance in Augmented Reality
+[ACM] 2026-4-18 | OntoChat Assistant for User Story Generation in Ontology Engineering
+[ACM] 2026-4-18 | Enhanced Quality Aware Scalable Underwater Image Compression
+共写入 8 条记录，保存到 papers/paper2026-04-18.json。
+论文获取成功，文件路径: papers/paper2026-04-18.json
+正在筛选、翻译并发送邮件...
+[NO] 1/8 | Quality Diversity Time-Use Optimisation for Health
+[NO] 2/8 | DRAR: Diffusion-Based Relation Augmentation for Knowledge-aware Recommendation
+[NO] 3/8 | Understanding Visual Saliency of Outlier Items in Product Search
+[NO] 4/8 | RWKV4Rec: RWKV-Based Personalized Sequential Recommendation Model
+[NO] 5/8 | Ideology-Based LLMs for Content Moderation
+[NO] 6/8 | Investigating Self-Body Perception and its Effect on Affordance in Augmented Reality
+[NO] 7/8 | OntoChat Assistant for User Story Generation in Ontology Engineering
+[NO] 8/8 | Enhanced Quality Aware Scalable Underwater Image Compression
+筛选完成：共 8 篇；Yes = 0 篇；已保存到 papers/select_paper2026-04-18.json。
+邮件发送成功！
+[2026-04-19 22:38:00] 任务执行成功！
