@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-4-21",
+    "title": "Towards Reliable Generation of Executable Workflows by Foundation Models",
+    "authors": "Sogol Masoumzadeh, Keheliya Gallaba, Dayi Lin, Ahmed E. Hassan",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3809500",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过基础模型实现可执行工作流的可靠生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "FocusFuzz: Towards Efficient and Directed Fuzzing for RTL Processor Designs",
+    "authors": "He Wang, Ruomin Fang, Jingqian Zhang, Xu Chen, Qizhen Xu, Ruiping Yin, Liwei Chen, Gang Shi",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11464709",
+    "source": "IEEE",
+    "abstract": "As processor architectures evolve with the integration of new functional units, verifying the entire hardware design after each modification becomes increasingly inefficient. Although a significant portion of the modules remains unmodified between iterations, traditional verification methodologies still require re-testing of the entire process, failing to leverage this inherent modularity in hardware development.To address this inefficiency, we propose FocusFuzz, a novel module-directed hardware fuzzing framework tailored for processor verification. FocusFuzz integrates two key components: a Static-Dynamic Module Distance Profiler(SDMD) that identifies modules functionally close to the target, and a Module Feature-Guided Mutation Engine (MFGM) enhanced by a lightweight LSTM model to adapt mutation strategies to module-specific functional characteristics. We evaluated FocusFuzz on open-source RISC-V cores, where at the module level it improves time-to-target- coverage (TTTC) by up to 89× and achieves an average 6.94× speedup over DifuzzRTL, the famous currently available fuzzer.",
+    "title_zh": "FocusFuzz：面向高效且定向的RTL处理器设计模糊测试",
+    "abstract_zh": "随着处理器架构不断演进，新功能单元的集成使得每次修改后对整个硬件设计进行验证变得越来越低效。尽管在迭代过程中大部分模块保持不变，但传统的验证方法仍需重新测试整个系统，未能充分利用硬件开发中固有的模块化特性。为解决这一效率问题，我们提出了一种名为FocusFuzz的新颖模块导向型硬件模糊测试框架，专为处理器验证而设计。FocusFuzz集成了两个核心组件：静态-动态模块距离分析器（SDMD），用于识别与目标功能相近的模块；以及基于轻量级LSTM模型增强的模块特征引导变异引擎（MFGM），能够根据模块特有的功能特征自适应调整变异策略。我们在开源RISC-V核心上对FocusFuzz进行了评估，结果表明，在模块级别，其将到达目标覆盖率的时间（TTTC）提升了最高达89倍，并且相较于目前最著名的fuzzer——DifuzzRTL，平均实现了6.94倍的加速效果。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "CAD-Judge: Toward Efficient Morphological Grading and Verification for Text-to-CAD Generation",
+    "authors": "Zheyuan Zhou, Jiayi Han, Liang Du, Naiyu Fang, Lemiao Qiu, Shuyou Zhang",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11461978",
+    "source": "IEEE",
+    "abstract": "Computer-Aided Design (CAD) models are widely used across industrial design, simulation, and manufacturing processes. Text-to-CAD systems aim to generate editable, general-purpose CAD models from textual descriptions, significantly reducing the complexity and entry barrier associated with traditional CAD workflows. However, rendering CAD models can be slow, and deploying VLMs to review CAD models can be expensive and may introduce reward hacking that degrades the systems. To address these challenges, we propose CAD-Judge, a novel, verifiable reward system for efficient and effective CAD preference grading and grammatical validation. We adopt the Compiler-as-a-Judge Module (CJM) as a fast, direct reward signal, optimizing model alignment by maximizing generative utility through prospect theory. To further improve the robustness during testing phase, we introduce a simple yet effective agentic CAD generation and adopt the Compiler-as-a-Review Module (CRM), which efficiently verifies the generated CAD models, enabling the system to refine them accordingly. Extensive experiments on challenging CAD datasets demonstrate that our method achieves state-of-the-art performance while maintaining superior efficiency.",
+    "title_zh": "CAD-Judge：面向文本到CAD生成的高效形态分级与验证",
+    "abstract_zh": "计算机辅助设计（CAD）模型在工业设计、仿真和制造流程中被广泛应用。文本到CAD系统旨在从文本描述生成可编辑的通用CAD模型，显著降低了传统CAD工作流程的复杂性和入门门槛。然而，CAD模型的渲染过程通常较慢，且部署视觉语言模型（VLM）来评估CAD模型既昂贵又可能引发奖励劫持问题，从而损害系统性能。为应对这些挑战，我们提出了一种新颖的可验证奖励机制——CAD-Judge，用于高效且准确地进行CAD偏好评分与语法校验。我们采用“编译器即裁判模块”（CJM）作为快速、直接的奖励信号，通过前景理论优化模型对齐，最大化生成模型的实用性。为进一步提升测试阶段的鲁棒性，我们引入一种简单而高效的代理式CAD生成方法，并结合“编译器即评审模块”（CRM），能够高效验证生成的CAD模型，使系统得以自动修正和完善。在多个具有挑战性的CAD数据集上的大量实验表明，我们的方法在保持卓越效率的同时，达到了当前最先进的性能水平。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "CorrEctor: An Execute-to-Correct Paradigm for Efficient LLM Secure Inference",
+    "authors": "Dong Liu, Bingzheng Wang, Yifan Zeng, Minghui Pan, Jiang Zhou, Xiaoyan Gu",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11462929",
+    "source": "IEEE",
+    "abstract": "Trusted Execution Environments (TEEs) provide hardware-level isolation that protects sensitive user data during Large Language Model (LLM) inference. However, mainstream CPU-based TEEs lack the capability to perform largescale matrix operations efficiently. To mitigate this, many approaches offload computations to untrusted GPUs via parameter encryption or differential privacy, but these typically introduce substantial communication overhead or accuracy degradation. To achieve efficient LLM inference while protecting user request privacy without compromising accuracy, we propose an execute-to-correct paradigm for efficient LLM secure inference, namely CorrEctor. The core mechanism of CorrEctor involves generating a sequence of candidate tokens from user inputs protected by differential privacy on untrusted GPUs, followed by verification and correction within a TEE. Experimental results on mainstream LLMs show that CorrEctor outperforms CPU-based TEE baselines by 1.36× to 3.55× in inference acceleration.",
+    "title_zh": "纠错器：一种用于高效大语言模型安全推理的执行-纠错范式",
+    "abstract_zh": "可信执行环境（TEEs）提供硬件级别的隔离，可在大型语言模型（LLM）推理过程中保护敏感的用户数据。然而，主流基于CPU的TEEs缺乏高效执行大规模矩阵运算的能力。为缓解这一问题，许多方法通过参数加密或差分隐私将计算任务卸载到不可信的GPU上，但这些方法通常会引入显著的通信开销或精度下降。为了在不牺牲准确性的前提下实现高效的LLM推理并保护用户请求隐私，我们提出了一种名为CorrEctor的“执行-纠错”范式，用于高效安全的LLM推理。CorrEctor的核心机制是在不可信GPU上对用户输入进行差分隐私保护后生成一系列候选标记序列，随后在TEEs内完成验证与纠错。在主流LLM上的实验结果表明，CorrEctor相比基于CPU的TEEs基线，在推理加速方面提升了1.36倍至3.55倍。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "EvoGraphCoder: An Evolutionary Graph-Reasoning Framework for Self-Adaptive Software Engineering",
+    "authors": "Karthik Ramamurthy, Rahul Kumar Konduru, Nurmyrat Amanmadov",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3686019",
+    "source": "IEEE",
+    "abstract": "Modern software evolves rapidly, accumulates architectural debt, and develops cross-module dependencies that complicate reliable maintenance. We present <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">EvoGraphCoder</i>, an evolutionary graph-reasoning framework for self-adaptive software engineering. EvoGraphCoder represents source code, tests, commit history, dependencies, performance signals, and review feedback as a relational software graph. It combines <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Adaptive Evolutionary Code Reasoning</i> (AECR) with a multi-agent design consisting of the <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Innovator, Critic</i>, and <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Historian</i> to generate, evaluate, and refine candidate repairs over multiple cycles rather than emitting a single patch. The framework further introduces <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">EvoGraph Memory</i> for persistent cross-release learning and <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Self-Reflexive Validation</i> for explainable pre-merge verification. Experiments on repository-level repair benchmarks show that EvoGraphCoder improves patch quality and robustness over strong baselines, while maintaining positive improvement across repeated repair cycles. These results suggest that graph-driven evolutionary reasoning with persistent memory offers a practical path toward reliable and explainable AI-assisted software maintenance.",
+    "title_zh": "EvoGraphCoder：一种用于自适应软件工程的进化图推理框架",
+    "abstract_zh": "现代软件发展迅速，积累了大量的架构债务，并形成了复杂的跨模块依赖关系，使得可靠维护变得愈发困难。我们提出了 <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">EvoGraphCoder</i>，这是一种用于自适应软件工程的演化图推理框架。EvoGraphCoder 将源代码、测试用例、提交历史、依赖关系、性能信号以及评审反馈等信息统一表示为一个关联的软件图。该框架结合了 <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">自适应演化代码推理</i>（AECR）与多智能体设计，包含 <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">创新者</i>、<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">批评者</i> 和 <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">历史学家</i> 三个角色，通过多轮迭代生成、评估并优化候选修复方案，而非仅输出单一补丁。此外，该框架引入了 <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">EvoGraph 内存</i>，实现跨版本的持久化学习；以及 <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">自我反思验证</i>，支持可解释的合并前验证。在仓库级修复基准上的实验表明，EvoGraphCoder 在修复质量与鲁棒性方面均优于多个强基线方法，且在多次修复循环中持续保持正向改进。这些结果表明，基于图驱动的演化推理与持久化记忆相结合，为实现可靠且可解释的AI辅助软件维护提供了一条切实可行的路径。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "Multi-Classifier and Deep Learning Framework for Robust Credit Card Fraud Detection",
+    "authors": "Swathi D R, Kalaiarasan T, Sanjai C, Vinotheni M S, Mariammal K",
+    "publish": "2026 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES)",
+    "url": "https://doi.org/10.1109/icses66558.2026.11478847",
+    "source": "IEEE",
+    "abstract": "Credit card fraud remains a major concern in the financial sector, leading to significant financial losses and eroding customer trust. Real-time detection is challenging due to highly imbalanced datasets and constantly changing fraud behaviors. This work presents a unified fraud detection framework that combines supervised learning models such as Random Forest, Stochastic Gradient Descent Classifier, Support Vector Machine and Logistic Regression with unsupervised techniques including Isolation Forest, One-Class Support Vector Machine and Density-Based Spatial Clustering for Applications with Noise to identify both known and previously unseen fraud patterns. Reinforcement learning methods such as Q-Learning and Deep Q-Learning enable adaptive detection strategies that improve over time, while deep learning architectures such as Multilayer Perceptron and Long Short-Term Memory networks capture complex sequential and nonlinear transaction patterns. A key contribution is the extraction and conversion of model parameters into FPGA compatible formats using Vitis High-Level Synthesis, enabling real-time hardware-accelerated inference with significantly reduced latency. Experimental evaluation on benchmark datasets demonstrates superior accuracy, recall, F1-score and ROC-AUC with lower false-positive rates compared to individual models, making the proposed framework scalable, adaptive and effective for real-time credit card fraud detection..",
+    "title_zh": "用于鲁棒信用卡欺诈检测的多分类器与深度学习框架",
+    "abstract_zh": "信用卡欺诈仍然是金融行业的一大难题，导致巨额财务损失并削弱客户信任。由于数据高度不平衡以及欺诈行为不断演变，实时检测面临巨大挑战。本文提出了一种统一的欺诈检测框架，结合了监督学习模型（如随机森林、随机梯度下降分类器、支持向量机和逻辑回归）与无监督技术（包括孤立森林、一类支持向量机以及基于密度的空间聚类算法DBSCAN），以识别已知及未知的欺诈模式。强化学习方法（如Q-Learning和深度Q-Learning）使检测策略能够自适应优化，随时间持续改进；而深度学习架构（如多层感知机和长短期记忆网络）则能有效捕捉复杂的交易序列特征与非线性模式。本研究的关键贡献在于，通过Vitis高层次综合（High-Level Synthesis）技术，将模型参数提取并转换为适用于FPGA的格式，实现了低延迟的实时硬件加速推理。在基准数据集上的实验评估表明，该框架在准确率、召回率、F1分数和ROC-AUC方面均优于单一模型，同时显著降低误报率，展现出良好的可扩展性、自适应能力与实际应用效果，为实时信用卡欺诈检测提供了高效可靠的解决方案。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "PHPTrigger: Multi-Engine Assisted Vulnerability Auditing and Verification in PHP Applications",
+    "authors": "Yayuan Zhang, Zhisheng Yang, Jiangyong Shi, Yongjun Wang, Jianzhe Yang, Xi Xuan, Hao Peng, Zhiyuan Jiang",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11464511",
+    "source": "IEEE",
+    "abstract": "With the widespread adoption of web applications and IoT firmware, PHP vulnerabilities have become a frequent and high-impact attack vector. Existing PHP vulnerability auditing approaches, which mainly rely on rule-based detection or precise causal modeling, often struggle to balance high recall with practical exploitability verification.To address this challenge, we propose PHPTrigger, an intelligent auditing framework that integrates multi-engine analysis with large language model reasoning. Without requiring complete causal modeling of vulnerabilities, PHPTrigger combines inter-procedural semantic reasoning with cross-modal semantic generation to automatically locate vulnerabilities and generate environment-adaptive PoCs.We implemented a prototype of PHPTrigger and systematically evaluated it on 150 vulnerabilities collected from 7 open-source projects. Experimental results show that, compared with the state-of-the-art tool ZIPPER, PHPTrigger improves recall by 46% and precision by 62%. For vulnerability verification, PHPTrigger achieved 100% executable PoC rate on 147 detected vulnerabilities. Moreover, PHPTrigger discovered 46 0-day vulnerabilities, of which 34 were assigned CVE identifiers. These results demonstrate the effectiveness and practical value of our approach in real-world vulnerability auditing and verification.",
+    "title_zh": "PHPTrigger：面向PHP应用的多引擎辅助漏洞审计与验证",
+    "abstract_zh": "随着Web应用和物联网固件的广泛采用，PHP漏洞已成为频繁且影响重大的攻击向量。现有的PHP漏洞审计方法主要依赖规则检测或精确的因果建模，往往难以在高召回率与实际可利用性验证之间取得平衡。为应对这一挑战，我们提出了PHPTrigger——一种融合多引擎分析与大语言模型推理的智能审计框架。该框架无需完整的漏洞因果建模，通过结合过程间语义推理与跨模态语义生成，能够自动定位漏洞并生成环境自适应的PoC（概念验证代码）。我们实现了一个PHPTrigger原型，并在7个开源项目中收集的150个漏洞上进行了系统评估。实验结果表明，相较于当前最先进的工具ZIPPER，PHPTrigger的召回率提升了46%，准确率提高了62%。在漏洞验证方面，PHPTrigger在所检测到的147个漏洞中实现了100%可执行的PoC生成率。此外，PHPTrigger共发现了46个0-day漏洞，其中34个已获得CVE编号。这些结果充分证明了本方法在真实世界漏洞审计与验证中的有效性与实用价值。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "Individual Risky Action Warning of Wearable Sensors on Personalized Health Profiles via LLM",
+    "authors": "Yiyin Xie, Yuhan Jing, Haifeng Sun, Qi Qi, Bo He, Chengsen Wang, Jingyu Wang",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11464652",
+    "source": "IEEE",
+    "abstract": "Current action recognition methods for health monitoring are often generic, failing to provide personalized warnings and struggling to scale to complex risky behaviors. This paper introduces a two-stage personalized risky action warning system to overcome these limitations. In the first stage, a Large Language Model (LLM) processes user medical histories to generate a tailored set of risky actions and decomposes complex behaviors, significantly enhancing recognition scalability. The LLM then formats this knowledge into structured guidance. In the second stage, an action recognition model, guided by the LLM’s output, utilizes wearable sensor data for a comprehensive risk assessment across action category, intensity, and temporal patterns. This enables precise, real-time warnings. Tested on real-world data for 10 different physical conditions, our system achieves an early warning F1-score of over 90%.",
+    "title_zh": "可穿戴传感器通过大语言模型对个性化健康档案的个体风险行为预警",
+    "abstract_zh": "当前用于健康监测的动作识别方法通常较为通用，难以提供个性化预警，且在应对复杂高风险行为时扩展性不足。本文提出一种两阶段的个性化高风险动作预警系统，以克服上述局限。第一阶段，利用大语言模型（LLM）处理用户病史，生成量身定制的高风险动作清单，并对复杂行为进行分解，显著提升识别的可扩展性；随后，LLM将这些知识转化为结构化指导信息。第二阶段，基于LLM输出的指导，动作识别模型结合可穿戴传感器数据，对动作类别、强度及时间模式进行全面的风险评估，实现精准、实时的预警。在涵盖10种不同身体状况的真实世界数据上进行测试，本系统实现了超过90%的早期预警F1分数。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "Scalable Bayesian Fine-Tuning of LLMs for Multi-Objective Bayesian Optimization",
+    "authors": "Haotian Xiang, Heng Zhang, Qin Lu",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11464308",
+    "source": "IEEE",
+    "abstract": "As the default choice for surrogate modeling in multi-objective Bayesian optimization (MOBO), Gaussian processes (GPs) struggle with irregular high-dimensional variables and non-stationary spaces. To alleviate these challenges, we adapt the prevailing large language model (LLM) as the surrogate model given its powerful capability in feature extraction based on large-scale pre-training. Specifically, we rely on the Bayesian last layer (BLL) framework with the Low-Rank Adaptation (LoRA) of the LLM as a common feature extractor across objectives, which is amenable to scalable variational (V) training with tractable posterior inference. The resulting LoRA-VBLL-MO surrogate can not only accommodate computation- and storage-efficient recursive Bayesian updates across fine-tuning steps, but can also be coupled with Thompson sampling-based expected hypervolume improvement for acquisition function design. Experimental results on MO molecular optimization benchmarks demonstrate superior performance over baselines.",
+    "title_zh": "用于多目标贝叶斯优化的可扩展贝叶斯微调大语言模型",
+    "abstract_zh": "在多目标贝叶斯优化（MOBO）中，高斯过程（GPs）作为默认的代理模型，难以应对不规则的高维变量和非平稳空间。为缓解这些挑战，我们引入当前主流的大语言模型（LLM）作为代理模型，利用其基于大规模预训练的强大特征提取能力。具体而言，我们采用贝叶斯最后一层（BLL）框架，并结合LLM的低秩适应（LoRA）技术，将其作为跨目标的通用特征提取器，该方法可支持可扩展的变分（V）训练，并实现可 tractable 的后验推断。由此得到的LoRA-VBLL-MO代理模型不仅能够实现计算与存储高效的递归贝叶斯更新，适用于微调的各个步骤，还可与基于Thompson采样预期超体积改进的获取函数设计相结合。在多目标分子优化基准测试中的实验结果表明，该方法显著优于现有基线。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "Metatoolagent: Towards Generalizable Tool Usage in LLMs Through Meta-Learning",
+    "authors": "Zheng Fang, Wolfgang Mayer, Zeyu Zhang, Jian Wang, Hong-Yu Zhang, Wanli Li, Zaiwen Feng",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11463658",
+    "source": "IEEE",
+    "abstract": "Tool learning is increasingly important for large language models (LLMs) to effectively coordinate and utilize a diverse set of tools in order to solve complex real-world tasks. By selecting and integrating appropriate tools, LLMs extend their capabilities beyond pure language understanding to perform specialized functions. However, existing methods for tool selection often focus on limited tool sets and struggle to generalize to novel tools encountered in practical deployments. To address these challenges, we introduce a comprehensive dataset spanning 7 domains, containing 155 tools and 9,377 question-answer pairs, which simulates realistic integration scenarios. Additionally, we propose MetaToolAgent (MTA), a meta-learning approach designed to improve cross-tool generalization. Experimental results show that MTA significantly outperforms baseline methods on unseen tools, demonstrating its promise for building flexible and scalable systems that require dynamic tool coordination.",
+    "title_zh": "元工具代理：通过元学习实现大语言模型中可泛化的工具使用",
+    "abstract_zh": "工具学习对于大型语言模型（LLMs）日益重要，使其能够有效协调并利用多样化的工具，以解决复杂的现实世界任务。通过选择并整合合适的工具，LLMs 的能力已超越单纯的自然语言理解，扩展至执行专业功能。然而，现有的工具选择方法通常局限于有限的工具集合，在面对实际部署中遇到的新工具时，难以实现良好泛化。为应对这些挑战，我们构建了一个涵盖7个领域的综合性数据集，包含155个工具和9,377对问答样本，模拟了真实的工具集成场景。此外，我们提出了 MetaToolAgent（MTA），一种元学习方法，旨在提升跨工具的泛化能力。实验结果表明，MTA 在未见过的工具上显著优于基线方法，展现出其在构建具备动态工具协调能力的灵活、可扩展系统方面的巨大潜力。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "A Dual-Path Approach to Optimizing LLMs: Entropy Constraint for Exploitation and Neural Perturbation For Exploration",
+    "authors": "Dongxiang Zhang, Yiming Li, Erkun Zhang, Fangjiong Chen, Yijia Zhang, Shixun Zhang",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11464282",
+    "source": "IEEE",
+    "abstract": "Optimizing Large Language Models (LLMs) requires managing the fundamental trade-off between knowledge exploitation (precision) and solution space exploration (diversity). This paper introduces a dual-path optimization framework to address this challenge by providing task-specific tuning methods. For tasks demanding high determinism, we propose Entropy-Constrained with Fine-Tuning, which incorporates an entropy regularization term into the loss function to explicitly reduce output uncertainty and strengthen the model’s precise reasoning capabilities. This method improved the accuracy of Llama3.2-1B on the MMLU bench-mark by 11.62%. Conversely, for scenarios requiring extensive exploration, we introduce Stochastic Neural Perturbation, a technique that applies transient perturbations to model weights during inference to stimulate the generation of diverse content. On the GSM8K benchmark, this approach achieved an accuracy of 50.68% on samples where the baseline model failed, significantly outperforming traditional sampling methods. Together, these complementary methods provide a targeted toolkit for optimizing LLMs, enhancing precision for exploitation-focused tasks and fostering novel discovery for exploration-driven applications.",
+    "title_zh": "一种优化大语言模型的双路径方法：基于熵约束的利用与神经扰动探索",
+    "abstract_zh": "优化大型语言模型（LLMs）需要在知识利用（精度）与解空间探索（多样性）之间权衡这一根本性矛盾。本文提出一种双路径优化框架，通过任务特定的调优方法来应对这一挑战。对于需要高度确定性的任务，我们提出了“熵约束微调”（Entropy-Constrained with Fine-Tuning）方法，该方法在损失函数中引入熵正则化项，显式降低输出不确定性，从而增强模型的精确推理能力。该方法使Llama3.2-1B在MMLU基准测试中的准确率提升了11.62%。相反，在需要广泛探索的场景中，我们提出了“随机神经扰动”（Stochastic Neural Perturbation）技术，该技术在推理过程中对模型权重施加瞬时扰动，以激发多样化内容的生成。在GSM8K基准测试中，该方法在基线模型失败的样本上实现了50.68%的准确率，显著优于传统采样方法。这两种互补的方法共同构成了一套精准的优化工具集，既可提升以利用为导向任务的精度，又能促进以探索驱动应用中的创新发现。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "ATTN-Defense: Attention-Guided Detection, Location and Removal for Indirect Prompt Injection",
+    "authors": "Ziyang Zhang, Yuechen Lin, Xuanxuan An, Mingyang Wan, Caigui Jiang, Ning Ding",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11461745",
+    "source": "IEEE",
+    "abstract": "Large language models (LLMs) have been severely affected by prompt injection attacks due to their strong instruction-following capabilities. Among these, indirect prompt injection (IPI) attacks pose broader security threats, as their injection occurs outside the model’s system boundary. Recent research efforts to defend against such attacks primarily focus on detection and prevention strategies. However, existing detection methods often degrade user experience by directly rejecting inputs after attack identification, while prevention approaches face inherent security and utility trade-off. To address this issue, this paper proposes Attn-Defense, an IPI removal method based on the LLM attention weight. Our approach extracts attention sequence features generated during input processing to achieve both detection and location of IPI attacks, followed by precise sentence-level removal operations. This enables accurate defense implementation without compromising the model’s ability to fulfill legitimate user instructions. Our method demonstrates consistent superiority across various models, jailbreak attacks, and datasets, achieving a 10.1% lower Attack Success Rate and 14.8% higher F1 Difference compared to existing approaches on two extended and augmented datasets. Furthermore, we validate the robustness of our framework and the effectiveness of its individual components through comprehensive experiments.",
+    "title_zh": "ATTN-Defense：基于注意力引导的间接提示注入检测、定位与消除",
+    "abstract_zh": "大型语言模型（LLMs）由于其强大的指令遵循能力，极易受到提示注入攻击的影响。其中，间接提示注入（IPI）攻击带来的安全威胁更为广泛，因为其注入行为发生在模型系统边界之外。目前针对此类攻击的防御研究主要集中在检测与预防策略上。然而，现有检测方法往往在识别攻击后直接拒绝输入，从而严重影响用户体验；而预防类方法则面临安全性和可用性之间的固有权衡。为解决这一问题，本文提出了一种基于大模型注意力权重的IPI移除方法——Attn-Defense。该方法通过提取输入处理过程中生成的注意力序列特征，实现对IPI攻击的检测与定位，并在此基础上执行精确的句子级移除操作，从而在不损害模型完成合法用户指令能力的前提下，实现精准防御。实验结果表明，该方法在多种模型、越狱攻击及数据集上均表现出一致的优越性，在两个扩展和增强的数据集上，相较于现有方法，攻击成功率降低了10.1%，F1分数差异提升了14.8%。此外，我们通过全面的实验验证了该框架的鲁棒性及其各组件的有效性。"
+  },
+  {
+    "date": "2026-4-22",
+    "title": "NASchecker: Automatically Identifying the Performance, Security, and Privacy Issues of NAS Devices",
+    "authors": "Guangyue Ren, Jincheng Wang, Le Yu, Liping Han, Mingzhe Hu, Wei Chen, Tingting Liu, Xiapu Luo, Guozi Sun",
+    "publish": "IEEE Internet of Things Journal",
+    "url": "https://doi.org/10.1109/jiot.2026.3686461",
+    "source": "IEEE",
+    "abstract": "Network attached storage (NAS) devices are widely deployed for personal data storage. However, their distributed architecture and limited inspection interfaces pose significant challenges for comprehensive performance, security, and privacy analysis. In this paper, we first establish a threat model for NAS ecosystems. Then, we present a systematic framework NASchecker for discovering performance optimization mechanisms, security threats, and privacy leakage in NAS devices. By analyzing traffic generated during varied file operations on crafted files, NASchecker infers implemented optimizations and identifies security flaws within the traffic (e.g., susceptibility to passive sniffing and replay attacks). NASchecker also integrates NAS-specific protocol fuzzing and firmware reverse engineering to uncover deep-seated command injection, memory corruption, and improper access control vulnerabilities. NASchecker compares personally identifiable information (PII) leaked in traffic against declarations in privacy policies to detect privacy compliance issues. We evaluated NASchecker on twelve commercial NAS devices. Our results reveal that none of the tested devices employ file compression or deduplication. From a security standpoint, ten devices are vulnerable to passive sniffing and seven to replay attacks. Moreover, seven devices are affected by command injection, four by memory corruption, and eleven by improper access control. From a privacy perspective, four devices leaked PIIs that were not disclosed in their respective privacy policies. After reporting the findings to the manufacturers, we have been acknowledged by several manufacturers, resulting in the assignment of 20 CVEs and 6 NVDB entries (16 of them are rated as high severity). These findings validate NASchecker’s effectiveness and underscore the urgent need for improved design and testing practices of NAS.",
+    "title_zh": "NASchecker：自动识别NAS设备的性能、安全与隐私问题",
+    "abstract_zh": "网络附加存储（NAS）设备被广泛用于个人数据存储。然而，其分布式架构以及有限的检测接口给全面的性能、安全性和隐私分析带来了重大挑战。本文首先建立了NAS生态系统的威胁模型，随后提出了一种系统性框架NASchecker，用于发现NAS设备中的性能优化机制、安全威胁及隐私泄露问题。通过分析在精心构造文件上执行不同文件操作时产生的网络流量，NASchecker能够推断出设备中实现的优化策略，并识别出流量中存在的安全缺陷（例如易受被动嗅探和重放攻击的影响）。此外，NASchecker还集成了针对NAS特有协议的模糊测试以及固件逆向工程，以发现深层次的命令注入、内存破坏和不当访问控制等漏洞。NASchecker还将流量中泄露的个人身份信息（PII）与隐私政策中的声明进行比对，从而检测隐私合规性问题。\n\n我们在12款商用NAS设备上评估了NASchecker。结果表明，所有测试设备均未采用文件压缩或去重技术。从安全角度分析，10款设备易受被动嗅探攻击，7款易受重放攻击；此外，7款设备存在命令注入漏洞，4款存在内存破坏漏洞，11款存在访问控制不当的问题。从隐私角度来看，4款设备泄露了其隐私政策中未披露的PII信息。在将发现的问题报告给相关厂商后，多家厂商已予以确认，并共分配了20个CVE编号和6个NVDB条目（其中16个被评为高危级别）。\n\n这些发现验证了NASchecker的有效性，也凸显了改进NAS设备设计与测试实践的紧迫性。"
+  },
+  {
+    "date": "2026-4-21",
+    "title": "Reflective Confidence: Correcting Reasoning Flaws via Online Self-Correction",
+    "authors": "Qinglin Zeng, Jing Yang, Keze Wang",
+    "publish": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/icassp55912.2026.11463123",
+    "source": "IEEE",
+    "abstract": "Large Language Models (LLMs) have achieved remarkable success in complex reasoning tasks with techniques like Chain-of-Thought (CoT) and Self-Consistency. However, these ensemble methods, especially Self-Consistency which relies on multiple reasoning trajectories, often incur high computational overhead. To improve efficiency, researchers have leveraged internal confidence signals, where early stopping strategies such as DeepConf save resources by terminating low-confidence paths. Yet this discards incomplete paths and wastes computation. We introduce Reflective Confidence, a novel reasoning framework that transforms a low-confidence signal from a termination symbol into a reflection trigger. When confidence drops below a threshold, instead of stopping, the model generates a reflection prompt to analyze current reasoning, identify errors, and continue with a corrected trajectory. Experiments on mathematical reasoning benchmarks, including AIME 2025, show significant accuracy gains over advanced early stopping strategies at comparable cost, validating the efficiency of proactive correction over passive discarding.",
+    "title_zh": "反思性自信：通过在线自我修正纠正推理错误",
+    "abstract_zh": "大型语言模型（LLMs）在复杂推理任务中取得了显著成功，这得益于链式思维（Chain-of-Thought, CoT）和自一致性（Self-Consistency）等技术。然而，这些集成方法，尤其是依赖多条推理路径的自一致性方法，通常带来较高的计算开销。为提升效率，研究人员已尝试利用模型内部的置信度信号，通过诸如DeepConf等早期停止策略，在低置信度路径上提前终止以节省资源。但这种方法会丢弃不完整的推理路径，造成计算浪费。我们提出了一种名为“反思置信度”（Reflective Confidence）的新颖推理框架，将原本用于终止推理的低置信度信号转化为反思触发机制。当置信度低于阈值时，模型不再停止，而是生成一个反思提示，对当前推理过程进行分析，识别错误，并基于修正后的轨迹继续推理。在数学推理基准测试（包括AIME 2025）上的实验表明，该方法在与先进早期停止策略相当的计算成本下，显著提升了准确率，验证了主动修正优于被动舍弃的高效性。"
+  }
+]
