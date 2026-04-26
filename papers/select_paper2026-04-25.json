@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-4-25",
+    "title": "Intelligent Generation and Security Protection for IP Digital Assets: Key Technologies and Teaching-Oriented Practice",
+    "authors": "Lixi Dai, Di Wu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Digital Education and Information Technology",
+    "url": "https://doi.org/10.1145/3802607.3802685",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "IP数字资产的智能生成与安全保护：关键技术与教学实践",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-25",
+    "title": "Changes in Coding Behavior and Performance Since the Introduction of LLMs",
+    "authors": "Yufan Zhang, Jaromir Savelka, Seth Goldstein, Michael Conway",
+    "publish": "Proceedings of the LAK26: 16th International Learning Analytics and Knowledge Conference",
+    "url": "https://doi.org/10.1145/3785022.3785075",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "自引入大语言模型以来编码行为与性能的变化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-25",
+    "title": "When LLMs Fall Short in Deductive Coding: Model Comparisons and Human–AI Collaboration Workflow Design",
+    "authors": "Zijian Li, Luzhen Tang, Mengyu Xia, Xinyu Li, Naping Chen, Dragan Gašević, Yizhou Fan",
+    "publish": "Proceedings of the LAK26: 16th International Learning Analytics and Knowledge Conference",
+    "url": "https://doi.org/10.1145/3785022.3785130",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当大语言模型在演绎编码中表现不足时：模型比较与人机协作工作流程设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-25",
+    "title": "CoGuard: A Large Language Model-Based Multi-Agent System for Autonomous Security Policy Enforcement in Cloud Environments",
+    "authors": "Kazeem Adamson Mutiu, Chijioke Erasmus Ogbonna, Teslim Oluwafemi Kazeem, David Ocheme Onoja, Bolaji Richard Adesina, Oluwaseun Bantale, Olufemi Emmanuel Owolabi, Christopher John Ozurumba",
+    "publish": "Proceedings of the 2025 9th International Conference on Advances in Artificial Intelligence",
+    "url": "https://doi.org/10.1145/3787279.3787301",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CoGuard：一种基于大语言模型的多智能体系统，用于云环境中的自主安全策略执行",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-4-25",
+    "title": "Fine-Tuning Code Language Models to Detect Cross-Language Bugs",
+    "authors": "Zengyang Li, Yimeng Li, Binbin Huang, Peng Liang, Ran Mo, Hui Liu, Yutao Ma",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3811920",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "微调代码语言模型以检测跨语言漏洞",
+    "abstract_zh": "None"
+  }
+]
