@@ -1,0 +1,1244 @@
+[
+  {
+    "date": "2026-5-9",
+    "title": "An NRBO-Enhanced CNN-BiLSTM Framework for Multivariate Photovoltaic Power Forecasting",
+    "authors": "Xingbo Fu, Wenhui Luo, Yang Liu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807316",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Enhanced cross-modal representation method for multi-modal rumor detection: A fusion framework based on DeBERTa-V3 and ViT-Large",
+    "authors": "Xuquan Wen, Xufeng Wen, Xianhua Dai",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807274",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Study on YOLOv11 Clothing Image Segmentation Method Based on Lightweight Group Attention (LWGA)",
+    "authors": "Xianqi Lei",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807263",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Tea Polyphenol Detection Model Based on Residual Attention Convolutional Neural Network",
+    "authors": "Shixian Hu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807259",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Multi-Region Temporal–Spatial Attention Network for Motor Imagery EEG Decoding",
+    "authors": "Nanqing Zhang, Xianlun Tang, Xiaoyu Chen, Zhiwu Gao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807340",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Innovative Structural Design and Performance Analysis of Autonomous Planet Exploration Robot",
+    "authors": "Qiyue Pan, Yuelong Wang, Xingyu Zhao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807350",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "AGISNet: Axis Adaptive Gated Inception Network with Cross Gated Skip Fusion",
+    "authors": "Ao Deng, Hao Cai",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807258",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Few-Shot Emergency Response Equipment Fault Diagnosis for Coal Electricity Integrated Enterprises Based on Structure-Aware Neural Processes",
+    "authors": "Rong Wang, Shengtao Pang, Chengzhi Li, Gaoqiang Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807319",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Stability Control and Optimization of Parallel Operation of Multiple Chiller Units",
+    "authors": "Weifeng Cheng, Jianqi Yin, Hu Wang, Xin Shu, Guang Yang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807283",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Multi-Agent Large Language Model Framework for Marketing Decision-Making with Auditable Attribution Analysis",
+    "authors": "Qianxi Liu, Hengguang Cui, Yingzi Wang, Chi Shing Lee, Sheng Chen, Linghao Yang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807341",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Safety Inspection and Assessment of Metal Structures for the Arc Gate System at Jiaomutang Hydropower Station",
+    "authors": "Congwei Qiu, Bo Chen, Peng Ding",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807287",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "An Improved RT-DETR Method for Surface Defect Detection of Small Targets on Steel Plates",
+    "authors": "Ying Zhu, Yong Liu, Hao Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807268",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Equivariance and AttentionFlow for Pose-Adaptive Virtual Try-On in Latent Diffusion Models",
+    "authors": "Yunhai Han",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807266",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "LLM-Guided Monocular 3D Human Pose Estimation via Structured Semantic Priors",
+    "authors": "Haiyan Ma",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807269",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Path Planning Based on Topological Maps and Particle Swarm Optimization",
+    "authors": "Wangwen Hu, Lijuan Yu, Yixin Su, Hanbing Huang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807292",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Fault Diagnosis of Chillers Based on CNN-Transformer Cross-Attention Fusion",
+    "authors": "Zhiqiang Cao, Chenyu Liu, Danhong Zhang, Yixin Su",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807293",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Fault Diagnosis of Chillers Based on CNN-WOA-SVM",
+    "authors": "Yuhang Chen, Yixin Su, De Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807295",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Simulated Annealing Driven Particle Swarm Optimization for 3D UAV Path Planning in Urban Environments from the Perspective of Industrial Design",
+    "authors": "Zhe Niu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807371",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "CoViMem: Co-Visibility Memory Network for Lifelong Embodied Scene Understanding",
+    "authors": "Yingqi Xu, Peng Liang, Zhu Yuan",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807276",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Ground-based Cloud Detection with an Efficient Parallel Dilated Convolutional Network",
+    "authors": "Yuzhu Tang, Bian Guo, Yalong Qi, Longlong Chen, Haoyu Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807261",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "MAS-DPD: Multi-Agent System for Dark Pattern Detection Using Large Vision-Language Models",
+    "authors": "Xiang Wang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807265",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Adaptive Anomaly Detection in Microservice Systems via Meta-Learning",
+    "authors": "Xiao Yang, Sijia Li, Ke Wu, Zhijun Wang, Yuqi Tang, Yueting Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807348",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "CalibJudge: Calibrated LLM-as-a-Judge for Multilingual RAG with Uncertainty-Aware Scoring",
+    "authors": "Chenfeiyu Wen, Ao Zhu, Runkun Long, Hejun Huang, Junjie Jiang, Chi Shing Lee",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807349",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Benchmarking the DeepResearch Agent in the Game Domain",
+    "authors": "Zishen Ma",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807324",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Robust Obstacle Avoidance Control for Dynamically Adaptive Unmanned Vehicle Formations Under Cyber Attack Perturbations",
+    "authors": "Zehui He, Yiwei Feng",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807299",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Generative-enhanced Proximal Policy Optimization for Intelligent Traffic Signal Control",
+    "authors": "Zhangling Yan, Mao Dai, Min Yan, Xinxin Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807301",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "EFBA: Efficient Fine-grained Backdoor Attack Against Image Captioning",
+    "authors": "Jiajun Hu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807277",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Trust the Similar Ones: Belief-Based Q-Learning with Embedding Proximity",
+    "authors": "Colby Ziyu Wang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807315",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Posture Control of a Bionic Wheel-legged Robot",
+    "authors": "Jingxia Huang, Xiongwei Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807366",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "An Improved Mask-only Transformer Framework for Rainfall-induced Landslide Segmentation using Deep Learning: A Case Study of Zixing Area, China",
+    "authors": "Yue Zhang, Qing Hu, Dongning Lei, Liyu Li, Yongjian Cai",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807273",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Semi-Automatic Annotation Method for Targets in UAV Optical Sequence Images",
+    "authors": "Lei Lei, Bingwei Hui, Wenchao Li, Dengke Ge",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807364",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Multimodal Prediction of Student Bullying Risk Based on a Hierarchical Attention Heterogeneous Graph Neural Network",
+    "authors": "Tianpei Xu, Xiaoli Wang, Xuelian Bao, Yongzhi Jiang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807339",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Federated UAV Object Detection via Multi-Dimensional Distillation",
+    "authors": "Shuai Yu, Changnan Jiang, Ziyuan Zhang, Chenguang Xing, Bo Liu, Jiale Xie",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807272",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Emergency Resource Recommendation for Coal Electricity Integrated Enterprises based on Heterogeneous Graphs",
+    "authors": "Wei Luo, Ning Jiang, Wenzhe Yang, Kai Xie, Pengpeng Yan",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807320",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Low-Altitude Security UAV Detection: Fusing Generative Augmentation with Hypergraph Computing",
+    "authors": "Puhui Wang, Chuanyang Li, Jiaqi Zhang, Yuanlong Pang, Xiangrui Zhang, Xinyi Wan, Changhua Hu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807363",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Development and Application of Boiler AI Genie Based on Digital Human and Large Model",
+    "authors": "Yu Fu, Husong Wang, Qizhong Huang, Weimin Xu, Jingyao Zhang, Yuxin Sun, Kaida Tu, Nanzhe Ding",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807318",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Network Performance and EtherCAT Cycle Matching Optimization for Cloud-based PLC",
+    "authors": "Yimeng Liu, Yingshuang Liu, Zeyuan Huang, Qingyang Yan, Xiaoge Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807302",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Lightweight Mining Truck Target Segmentation Method for Mining Environments",
+    "authors": "Aiping He, Jiming Wang, Xin Wang, Tao Yang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807260",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Small Target Detection for Floating Objects on Water Surface Based on Enhanced RT-DETR",
+    "authors": "Xinran Wu, Fuwen Su, Jiefeng Shi",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807252",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "An Adaptive Sparrow Search Algorithm Fused with Tent Chaotic Mapping and Cauchy Mutation",
+    "authors": "Xin Luo, Wenhui Luo, Xingbo Fu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807279",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Real-time Safety Assessment for Deep-sea Manned Submersibles Based on Cloud Model",
+    "authors": "Yulin Chen, Changlin Xu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807290",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "FSGTN: A Fused Spectral–Graph–Temporal Network for EEG-Based Attention Recognition",
+    "authors": "Jin Xu, Yao Yao, Wenjun Guan",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807322",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Day-ahead optimal dispatch of a wind-PV-hydrogen-battery integrated energy system",
+    "authors": "Ruiqi Mao, Shi Mo, Danhong Zhang, Xi Chen, Yixin Su",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807286",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Dual-Agent Collaboration-Based Zero-Shot Model for Rice Disease and Pest Question Intent Recognition",
+    "authors": "Chunchun Li, Yulan Mo, Zhonghong Xu, Haiyan Zheng, Rui Wang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807331",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "An End-to-end Autonomous Driving Framework with Images and Point Clouds Fusion",
+    "authors": "Wenyong Dong, Zhixue Liang, Jiahao Song, Mengqiang Zhou",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807358",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Neural network-based inversion study of thermal plasma jet characteristic parameters",
+    "authors": "Xinqi Zou, Enrui Jiang, Changyun Li, Jinlong Zhao, Bo Hu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807342",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Dynamic structural change detection and its effect on dynamic stability in segment synergy during sit-to-stand transition with healthcare robot assistance",
+    "authors": "Tianyi Wang, Keisuke Shima, Yuko Ohno",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3815170",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design and Implementation of an Integrated Communication Diagnostic Software for Modern Vessels Network Communication",
+    "authors": "Peng Zhou, Bingyang Luo, Yixin Su",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807294",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Enhancing Stock Sequence Prediction with Attention Mechanism and Parrot Optimizer Algorithm",
+    "authors": "Dai Wang, Liefa Liao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807327",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Rover Localization on Extraterrestrial Surfaces Based on Aerial-Ground Obstacle Distribution Pattern Matching",
+    "authors": "Hongliang Wang, Fuxuan Chen, Xiong Xu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807372",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Two-Stage Cross-Lingual Supervised Transfer for Low-Resource Tibetan Rumor Detection",
+    "authors": "Yongxin Ma, Haoqiang Du, Shuo Zhang, Jing He, Yun Hu, Peng Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807333",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Robust Face Anti-Spoofing via Multi-Scale Feature-Guided Wavelet Transform",
+    "authors": "Junxian Huang, Fei Peng, Min Long",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807275",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design of Functional Community Intelligent Management System Based on Computer Vision: A Case Study of Binyang Beili Community, Miyun District, Beijing",
+    "authors": "Hanqi Wang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807249",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Construction and Application of Intelligent Production Line System Based on Digital Twin Technology",
+    "authors": "Chengwei Li, Xiuli Zhu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807375",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Cosine Oscillation-based Quantum-behaved Particle Swarm Optimization for Path Planning",
+    "authors": "Jia Guo, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807284",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Hierarchical Path Planning System for Unmanned Vehicles Based on Depth Vision in Complex Off-Road Scenarios",
+    "authors": "Yuelong Wang, Qiyue Pan, Xingyu Zhao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807352",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "High-fidelity model of a permanent magnet synchronous motor via a physics-informed motor fault deep operator network",
+    "authors": "Yaotian Fan, Chuanyang Li, Xinyi Wan, Yuanlong Pang, Puhui Wang, Changhua Hu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807332",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Systematic Framework for Motion Planning and Energy Optimization of Humanoid Robots Based on Analytical Inverse Kinematics",
+    "authors": "Jiarui Liu, Xiaoxin Wu, Yiwei Liao, Tuerxun Ayinuremu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807376",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Intrusion detection method with hybrid attention mechanisms and spatial-temporal feature extraction",
+    "authors": "Xueyuan Chen, Pin Wang, Lijun Zhu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807314",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Power Smoothing for New Energy Grids by Large-Capacity Pumped Storage under Multi-Source Input Scenarios",
+    "authors": "Qiangsong Li, Shi Mo, Yixin Su, Xi Chen, Yuting Qiu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807282",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on the Newly Launched Product Multimodal Recommendation Method Based on Model Distillation: Efficiency Optimization and Parameter Tuning",
+    "authors": "Zhexuan Zhao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807345",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "ST-HPP: A Spatio-Temporal Hybrid Privacy Protection Mechanism for Federated Learning",
+    "authors": "Qinghong Wei, Xiubo Chen",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807343",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "The TCN-LSTM Deep Learning Model for Real-Time Prediction of Ship Motions",
+    "authors": "Guolian He, Chang Su, Yifu Tang, Jian Liu, Yuming Huang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807313",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "ICP Collision Avoidance Optimization Method for Manned and Unmanned Vehicle Mixed Formation for Flight Area Operation Safety",
+    "authors": "Pengyu He, Hailian Dong, Xiong Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807280",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Hybrid-Metric Clustering for Enhanced Collaborative Filtering",
+    "authors": "Dongdong Shi, Jie Shen, Fangsheng Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807337",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design and Experiment of an Intelligent Cooling Tower Based on BLDC",
+    "authors": "Jie Xu, Qingquan Liu, Hui Dong, Xiangyu Gu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807289",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Steel Surface Defect Detection Algorithm Based on SYNERA-YOLO",
+    "authors": "Tianxiang Xia, Yixin Su, Huawei Zhang, Danhong Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807262",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "MBFFNet: A Multi-Branch Feature Fusion–Based Method for Classroom Behavior Recognition",
+    "authors": "Chenglong Qi, Hao Cai",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807255",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Influencing Factors of Manned-Unmanned Collaborative Logistics and Equipment Support Capability Based on DEMATEL-ISM-MICMAC Method",
+    "authors": "Yu Duan, Huifang Lv, Qiuping Shen, Jingyu Guan, Wei Zhong",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807356",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "MFFENet: Multi-scale Frequency Feature Enhancement Network for Clothing Semantic Segmentation",
+    "authors": "Jiaolong Wan, Xiaokun Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807256",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Performance Improvement of Remote Sensing Object Detection Based on RTDETR",
+    "authors": "Yuqing Tian, Wenhui Luo, Hongchang Jing",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807250",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Enhanced Cross-Modal Retrieval: Multi-Label Hierarchical Semantic Alignment Using Mamba",
+    "authors": "Wei Ye, Lei Zhang, Kai He",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807253",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Robust Adaptive Unscented Kalman Filter Based Method for Real-Time State-of-Health Estimation of Solid Oxide Fuel Cells",
+    "authors": "Yaliang Pan, Binyu Xiong, Ruodong Ma, Qihong Chen, Liyan Zhang, Wenmao Tu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807288",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "DFAB-Net: A Dynamically Fused Attentional Biomarker Network for EEG-Based Attention Level Classification",
+    "authors": "Jin Xu, Wenjun Guan, Yao Yao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807325",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Implementation of an Autonomous Control System for Unmanned Aerial Vehicles Based on Deep Reinforcement Learning",
+    "authors": "Wei Wu, Sishi Mu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807370",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "An Enhanced Object Detection Framework Combining Model Architecture Optimization and Dataset-Specific Augmentation Strategies for Safety-Critical Visual Applications",
+    "authors": "Xiaoming Wang, Yunlong Bai, Wenguang Zhao, Bo Peng, Baichuan Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807247",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design of Object Detection System for Composite Robots Based on YOLOv5",
+    "authors": "Chuixin Chen",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807377",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Financial Early Warning of Supply Chain Finance Risks Based on Machine Learning",
+    "authors": "Yuxin Luo, Xinyu Cheng, Xinli Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807317",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Energy-saving Control Strategy Optimization of Cabinet-level Refrigeration System in Data Center",
+    "authors": "Zixuan Yang, Wenbo Yang, Gensheng Xian, Zhuochuan Zhang, Bo Hu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807303",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Identification and Information Question-Answering System for Traditional Chinese Medicine Herbs: Construction of an Intelligent Platform Based on Python",
+    "authors": "Jing Guo, Haozhe Teng, Tianhao Yu, Hongyu Zhang, Zihan Xing, Minghao Liu, Yao Sun",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807329",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Building The Human Remains Digital Library (HRDL)",
+    "authors": "Ruth Nugent, James O. Butler, Glenn Cahilly-Bretzin, Adam Daubney, Thomas J. Farrow, Katherine Foster, Isabelle Gribomont, Llewelyn Hopwood",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3813803",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "The Implementation of Railway Signal Indication System Based on FPGA",
+    "authors": "Bolun Li, Jiacheng Zhu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807296",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Federated Generative AI for Privacy-Preserving Industrial Fault Diagnosis An Adaptive Heterogeneity-Aware Framework",
+    "authors": "Peihao Chen",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807347",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "MDFENet: Multi-Decomposition Frequency-Domain Feature Enhancement Network for Skin Lesion Classification",
+    "authors": "Jiaqi Yuan, Xiaokun Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807257",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Surround Vision Autonomous Driving Based on Swin-Transformer and Trajectory Prediction Network",
+    "authors": "Wenyong Dong, Zhixue Liang, Jiahao Song, Mengqiang Zhou",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807365",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design and research of inter station communication device for 64D type semi automatic block system training equipment",
+    "authors": "Xiaoning Ling, Fang Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807309",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Adaptive Fault-Tolerant Control for Multi-Agent Systems Based on Dynamic Threshold Event-Triggering",
+    "authors": "Chenlong Gan, Jianliang Chen",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807300",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design of smart farm crop monitoring system with IoT based on STM32",
+    "authors": "Ling Fan, Liu He",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807357",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Escaping the Swamping Zone: Fully Low-Precision Training via Relative ULP Noise Injection",
+    "authors": "Zhenyu Yu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807335",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3807246",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Pyramid Convolution and Bidirectional Graph Attention for Cyber Threat Detection from Unstructured Text",
+    "authors": "Yue Xu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807334",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Depth Control of Underwater Vehicle in Inverse Velocity Zone Based on Dynamic Equilibrium and Sliding Mode-Predictive Composite Control",
+    "authors": "Yuming Huang, Yifu Tang, Xiaojun Zhao, Xiangguo Song, Zichang Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807351",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Quality-Guided Sample-Efficient Domain Adaptation for Large Language Models",
+    "authors": "Qingbo Jiao, Dongsheng Wang, Yuchen Hu, Yao Yang, Yong Jiang, Jiaxi Yang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807323",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Communication Emitter Identification Method Based on Joint Optimization of Deep Clustering and Autoencoder",
+    "authors": "Xin Jia, Lei Jiang, Tao Yang, Qingwei Meng",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807338",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Hybrid Data-Driven Assessment Framework for Industrial Safety Resilience Integrating Panel Econometrics and Machine Learning",
+    "authors": "Jianhao Feng, Ze Li, Xinyu Zhang, Haoran Jiang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807307",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Fuzzy Nonlinear Active Disturbance Rejection Control for Quadrotor UAVs under Extreme Operating Conditions",
+    "authors": "Zhongjie He, Yiou Wang, Jiazheng Pei, Yang Long",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807353",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Structural Design and Kinematic Simulation Analysis of a Dexterous Hand",
+    "authors": "Ziqi Liu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807360",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Local Path Planning Method for Unmanned Surface Vehicles Based on Hybrid Optimization Algorithm with Dynamic Time Warping",
+    "authors": "Zongqing Shen, Binghua Shi",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807359",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Federated Learning-Based Hyper-Heuristic for Distributed Permutation Flow-Shop Scheduling",
+    "authors": "Yuebao Liu, Yijin Shi, Yiming Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807308",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Investigation of a Multi-Information Fusion-Based UAV Defense System",
+    "authors": "Zhengzheng Ding, Yue Zhao, Lina He",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807373",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Identifying the Drivers of Energy Intensity for Green Growth: A Dual-Structure Analysis of Economic and Energy Systems",
+    "authors": "Xinyu Ma",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807310",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Integrating Pre-trained Model and Ensemble Learning for Biomedical Multi-label Topic Classification",
+    "authors": "Jieqiong Zheng, Liang Xiao, Yuhuan Guo, Yuxuan Tian",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807330",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Optimized Fuzzy PID Temperature Control Strategy Based on Improved Particle Swarm Optimization",
+    "authors": "Renjie Jin",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807306",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Motion Control and Terrain Adaptability of Parallel Wheel-Leg Robots",
+    "authors": "Xinran Si, Binliang Shao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807368",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "FDDPNet: Frequency-domain Decoupling Perception Network for UAV Small Target Detection",
+    "authors": "Lingxing Xie, Xiaokun Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807254",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design and Application Research of Deep Learning-Based Visual Recognition Systems for Industrial Robots",
+    "authors": "Rongli Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807362",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on a Control Method for a Push-the-Bit Rotary Steerable Hydraulic System Based on Dynamic Optimization and Fault-Tolerant Regulation",
+    "authors": "Zhenhua Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807285",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Review on Non-cooperative Satellite Signal Analysis Methods based on Deep Learning",
+    "authors": "Fengyi Tang, Liuli Wu, Jianhua Liao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807336",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Neural Network PID Control System Based on XGBoost Identifier",
+    "authors": "Hongkai Zhang, Haoming Yuan",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807298",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Investigation on Digital Modeling and Dynamic Simulation of a Dexterous Hand",
+    "authors": "Xin Sui",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807378",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Robust Horizontal Federated Learning Framework Based on Trimmed K-Means and Homomorphic Encryption",
+    "authors": "Junyang Bai, Bo Meng, Dejun Wang, Chenrong Xiang, Sijie Yu, Tanwei Zhou",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807328",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Automated Inspection and Imaging Method for Insertion-type Nozzle-to-Shell Fillet Welds Based on Flexible Ultrasonic",
+    "authors": "Shengjie Qian, Qida Xu, Sheng Lv, Lei Wang, Zhengxiang Shen",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807297",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Ship Trajectory Prediction Based on Data Conversion Model and CGO-TCN-LSTM Algorithm",
+    "authors": "Xingfeng Duan, Zhenning Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807312",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design and Implementation of ArUco Marker Recognition Based on OpenCV",
+    "authors": "Chuixin Chen",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807278",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Multi-Objective Ecological Car-Following Strategy for Connected Autonomous Vehicles Based on Improved PPO",
+    "authors": "Wentao Luo, Lijuan Yu, Xingbo Fu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807354",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on a Wood Defect Detection Model Based on Improved YOLOv8s",
+    "authors": "Yang Liu, Wenhui Luo, Xin Luo",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807248",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on the Error Assessment of Electromagnetic Voltage Transformers Using Robust Principal Component Analysis Considering Harmonic Influence",
+    "authors": "Cheng Chen, Yafu Tang, Junchao Xiong, Zhifeng Zhu, Wenji Zhou, Duanhuan Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807304",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Design of experimental system for dismantling waste printed circuit boards based on YOLOv5",
+    "authors": "Fuwen Su, Xiaojun Wang, Zhijie Yang, Eerdemutu Bao, Jun Chen, Jingyu Pan",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807271",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Dual-Policy Actor–Critic for Cost-Aware Cooling Control in Data Centers with Thermal Energy Storage",
+    "authors": "Zhi Li, Zhiyang Li, Gui Chen, Ruijun Zhang, Xin Zhou",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807281",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Multi-Agent Deep Determination Strategies for Task Computation Offloading in Space-Ground Integrated Networks",
+    "authors": "Wenhao Wang, Wenzheng Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807326",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "SNEAK: Synonymous Sentences-Aware Adversarial Attack on Natural Language Video Localization",
+    "authors": "Wen Shi, Wenchao Xu, Haozhao Wang, Xingshuo Han, Pan Zhou, Ruixuan Li",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3815168",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on the full lifecycle management of industrial mother machines empowered by human centered intelligent manufacturing metaverse in the context of Industry 5.0",
+    "authors": "Ying Wang, Qihao Cui, Mingwei Sun, Rui Han",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807374",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Glyph-Conditioned Prototyping Diffusion Model",
+    "authors": "Moyi Zhang, Mingyun Ding",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807267",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "AI-Assisted Date Recognition and Correction for WAFS Meteorological Charts",
+    "authors": "Chen Wang, Qi Xu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807270",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Automated Pointer Gauge Reading Using an Improved YOLOv11-Pose Model",
+    "authors": "Tiantian Chen, Yi Wei",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807251",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Multi-objective Multiplicity Flexible Job Shop Scheduling Method Considering Due Date Variations",
+    "authors": "Jie Luo",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807291",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Test Problem Design for Real-World Engineering",
+    "authors": "Xiaochen Chu, Wenjing Wang, Xiaofeng Han, Jingming Wan, Bengang Liu, Da Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807311",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "GPUArmor: A Hardware-Software Co-Design for Efficient and Scalable Memory Safety on GPUs",
+    "authors": "Mohamed Tarek Ibn Ziad, Sana Damani, Mark Stephenson, Stephen Keckler, Aamer Jaleel",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3815783",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Utility-scale Experimental Quantum Computation with Hardware Efficient Ansätze and Calibrated Hamiltonian",
+    "authors": "Muhammad Ahsan",
+    "publish": "ACM Transactions on Quantum Computing",
+    "url": "https://doi.org/10.1145/3815786",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Fed-SU: A Federated Learning Framework Balancing Security and Utility Against Backdoors",
+    "authors": "Haoyu Wang, Shuai Yu, Changnan Jiang, Ziyuan Zhang, Heqing Ouyang, Mengyu Xiong",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807344",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research and Development of Virtual Reality Technology in the Field of Stroke Rehabilitation",
+    "authors": "Ying Yu, Xiaoyu Hu, Zhonglin Jin",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807361",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "CHARIOT: A Communication-Aware Exploration Framework for 2.5D/3D Silicon Interposer Design",
+    "authors": "Yuman Zeng, Bo Jiao, Siyao Jia, Xiankui Xiong, Chengchen Wang, Haidong Tian, Haozhe Zhu, Qi Liu, Chixiao Chen",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3815192",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "A Noise Reduction Method for Partial Discharge Signals Based on CEEMDAN with Added Laplace White Noise and Improved Wavelet Thresholding",
+    "authors": "Bowen Zheng, Xiaoliang Feng",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807305",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "RL-SVP: A Reinforcement Learning Level-based Spherical Vector Particle Swarm Optimization for Safe UAV Path Planning",
+    "authors": "Kaijie Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807367",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Intelligent Conformance Checking Approach for Emergency Process in Coal–Power Integrated Enterprises",
+    "authors": "Yuezheng Liu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807321",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Driver Fatigue Detection by Transformer with Neural Architecture Search via Electroencephalography Signals",
+    "authors": "Xiaona He, Bin Li, Mengyue Su, Chaobin Li, Yan Liu, Junfu Huang, Zhihao Wang, Kongming Jiang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807346",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "GeminiIE: An end-to-end Multimodal Information Extraction Framework based on Prompt Engineering",
+    "authors": "Jiayi Jing, Bin Wen",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807264",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-9",
+    "title": "Research on Unmanned Mining Truck Dispatching Algorithm in Open-Pit Mines Based on Divergence-Convergence Learning Particle Swarm Optimization",
+    "authors": "Jianxing Xuan, Xin Wang, Xin Bai, Tao Yang, Ziqi Xu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Control",
+    "url": "https://doi.org/10.1145/3807246.3807369",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
