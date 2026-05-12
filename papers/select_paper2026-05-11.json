@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-5-11",
+    "title": "A Hybrid SRU-Transformer-Conv1d Architecture for High-Speed Signal Transient Prediction With Uncertainty Quantification",
+    "authors": "Haining Jiang, Yinhang Zhang, Liyin Wu, Xi Yang, Yongzheng Zhan, Renmin Zhang",
+    "publish": "IEEE Transactions on Electromagnetic Compatibility",
+    "url": "https://doi.org/10.1109/temc.2026.3687246",
+    "source": "IEEE",
+    "abstract": "Time domain transient simulation is crucial in signal integrity analysis of high-speed serial link design. In this article, we propose a novel hybrid neural architecture combining simple recurrent unit (SRU), Transformer, and 1-D Convolution (Conv1d) layers for accurate and uncertainty-aware transient waveform prediction in high-speed serial links. In this hybrid neural architecture, SRU effectively models local temporal dependencies, the Transformer encoder captures global context, and the Conv1d module enhances fine-grained pattern extraction in the output stage. Compared to other time-series prediction models, this method performs better in waveform fitting accuracy and shape preservation. To estimate prediction uncertainty, Monte Carlo dropout is applied during inference, offering reliable confidence intervals of <inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$\\pm 2\\sigma$</tex-math></inline-formula>. In addition, the experiments shows that it also has high practical value in eye diagram prediction.",
+    "title_zh": "一种面向高速信号瞬态预测与不确定性量化的混合SRU-Transformer-Conv1d架构",
+    "abstract_zh": "时域瞬态仿真在高速串行链路设计的信号完整性分析中至关重要。本文提出了一种结合简单循环单元（SRU）、Transformer和一维卷积（Conv1d）层的新型混合神经架构，用于高速串行链路中精确且具有不确定性感知的瞬态波形预测。在该混合神经架构中，SRU有效建模局部时间依赖性，Transformer编码器捕获全局上下文，而Conv1d模块则增强输出阶段的细粒度模式提取。与其他时间序列预测模型相比，该方法在波形拟合精度和形状保持方面表现更优。为估计预测不确定性，推理过程中应用蒙特卡洛丢弃法（Monte Carlo dropout），提供了可靠的$\\pm 2\\sigma$置信区间。此外，实验表明该方法在眼图预测中也具有较高的实用价值。"
+  },
+  {
+    "date": "2026-5-11",
+    "title": "CodeVision: A Self-Explaining Intelligence Platform for Understanding Complex Software Repositories",
+    "authors": "R. Thirumalai Murugan, R Shreevathsan, V Kumara Ayyappan, M Yogapriya, J Udhayakumar, S Nagomiya",
+    "publish": "2026 International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI)",
+    "url": "https://doi.org/10.1109/icdsaai69492.2026.11505100",
+    "source": "IEEE",
+    "abstract": "As software repositories scale to become monorepos, containing millions of lines of code, the cognitive chasm between the metadata from the repository and the developer’s knowledge of the system expands. This is called “Ownership Blindness,” thus creating knowledge silos and a delay in code reviews in pull requests, and unintended architectural regressions. This paper presents CodeVision (also developed internally as CodeFamily), a production-grade, full-stack web application designed to bridge this visibility gap. CodeVision implements a decoupled three-tier architecture, consisting of a React 18 frontend for visualization, a high-performance.NET 8 backend for orchestration, and a specialized Node.js sidecar service for multilingual Syntax Tree parsing. Unlike conventional static analysis software, the CodeVision system employs a dynamic Semantic Ownership Algorithm that uses commit volume, frequency, and recency to distinguish genuine subject-matter experts. Moreover, it adds a “Collaborative Context Layer\"-a 9-table relational schema that preserves sticky notes, discussions, and line-level comments, including human-like, natural-language comments directly on the code artefacts. Experimental evaluation on open-source code repositories clearly shows that CodeVision’s predictive dependency model can forecast merge conflicts and greatly reduce the time needed to onboard new engineers and identify code owners.",
+    "title_zh": "CodeVision：一个自解释智能平台，用于理解复杂的软件仓库",
+    "abstract_zh": "随着软件仓库扩展为单体仓库，包含数百万行代码，仓库元数据与开发者对系统的认知之间的鸿沟日益扩大。这种现象被称为“所有权盲区”，进而导致知识孤岛、拉取请求代码审查延迟以及无意的架构退化。本文提出了CodeVision（内部亦称作CodeFamily），一个生产级的全栈Web应用，旨在弥合这一可见性鸿沟。CodeVision采用解耦的三层架构：前端基于React 18实现可视化，后端基于高性能.NET 8进行编排，并配备专用的Node.js边车服务处理多语言语法树解析。与传统的静态分析软件不同，CodeVision系统采用动态语义所有权算法，通过提交量、频率和近因性来区分真正的领域专家。此外，它引入了“协作上下文层”——一个包含9张表的关系型模式，用于保存便签、讨论和行级注释，甚至包括直接在代码制品上添加的类人自然语言注释。在开源代码仓库上的实验评估清晰表明，CodeVision的预测性依赖模型能够预判合并冲突，并显著缩短新工程师的上手时间及代码所有者识别时间。"
+  },
+  {
+    "date": "2026-5-11",
+    "title": "Towards Security Commit Message Standardization",
+    "authors": "Sofia Reis, Rui Abreu, Corina Păsăreanu",
+    "publish": "2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR)",
+    "url": "https://doi.org/10.1109/msr66628.2025.11513373",
+    "source": "IEEE",
+    "abstract": "Timely patch management is crucial for protection against malicious attacks. The lack of quality documentation on security patches hinders triage systems in identifying and prioritizing fixes. Previous work has shown that vulnerability patch detection techniques cannot rely purely on commit messages to detect software patches due to the often inaccurate, incomplete, and missing information in the commit messages. Providing wellstructured and quality security patch documentation can improve security awareness, facilitate quicker stakeholder responses to potential vulnerabilities, and allow researchers to produce larger research datasets for security. We investigated the completeness and standardization of 11,036 security commit messages by analyzing the types of information included in those messages and whether or not common practices were applied to create commit messages. We concluded that security commit messages miss important information and do not follow standardization. We propose a standardization solution called SECOM and show the potential of large language models (LLMs) to help us generate more complete and standardized commit messages automatically.",
+    "title_zh": "迈向安全提交消息标准化",
+    "abstract_zh": "及时进行补丁管理对于抵御恶意攻击至关重要。然而，安全补丁相关文档质量欠佳，导致分类系统难以识别和优先修复漏洞。此前的研究表明，由于提交消息常存在不准确、不完整甚至信息缺失的问题，漏洞补丁检测技术无法仅依赖提交消息来检测软件补丁。提供结构清晰、质量可靠的安全补丁文档，有助于提升安全意识，使利益相关者能更快地应对潜在漏洞，同时让研究人员能够构建更庞大的安全研究数据集。我们通过分析11,036条安全提交消息中信息的类型，以及编写这些消息时是否遵循了通用规范，对其完整性和标准化程度进行了研究。结论是：安全提交消息遗漏了重要信息，且未遵循标准化规范。我们提出了一套名为SECOM的标准化方案，并展示了大语言模型（LLM）在自动生成更完整、更标准化的提交消息方面的潜力。"
+  },
+  {
+    "date": "2026-5-11",
+    "title": "Real-Time Product Dispensing System with FPGA",
+    "authors": "Ch. Babaiah, P Somasundri, J Palanimeera, Rakesh Kumar, Binod Kumar, Shrikant Upadhyay",
+    "publish": "2026 IEEE International Conference for Convergence in Computing Technology (I3CTCON)",
+    "url": "https://doi.org/10.1109/i3ctcon68242.2026.11507957",
+    "source": "IEEE",
+    "abstract": "This paper presents the RTL design logic of vending machine and its implementation into FPGA zed board. FPGA technology enables faster processing, reconfigurability, and better resource efficiency for vending control. The FPGA-based approach provides a modern, adaptable, and high-performance solution for vending machine automation. The Control logic in this proposed model of vending machine includes insertion of amount, cancel operation and dispensing of candy. The proposed design is tested and simulated using Xilinx Vivado 2024 version, achieving a 69.3% of power optimization than the previous model, with further power consumption and timing analysis performed across different RTL coding styles (if-else, switch case, and while loop implementations).",
+    "title_zh": "基于FPGA的实时产品分配系统",
+    "abstract_zh": "本文介绍了自动售货机的RTL设计逻辑及其在FPGA Zed板上的实现。FPGA技术能够实现更快的处理速度、可重构性以及更好的资源效率，适用于售货控制。基于FPGA的方法为自动售货机自动化提供了一种现代、可适应且高性能的解决方案。本模型中的控制逻辑包括金额插入、取消操作以及糖果分发功能。所提出的设计使用Xilinx Vivado 2024版本进行测试和仿真，相比之前的模型实现了69.3%的功耗优化，并针对不同RTL编码风格（if-else、switch case和while循环实现）进行了进一步的功耗和时序分析。"
+  },
+  {
+    "date": "2026-5-11",
+    "title": "Optimizing Phase-Scheduling with Throughput Trade-offs in AQFP Digital Circuits",
+    "authors": "Robert S. Aviles, Peter A. Beerel",
+    "publish": "IEEE Transactions on Applied Superconductivity",
+    "url": "https://doi.org/10.1109/tasc.2026.3692200",
+    "source": "IEEE",
+    "abstract": "Adiabatic Quantum-Flux-Parametron (AQFP) logic is a promising emerging superconducting technology for ultralow power digital circuits, offering orders of magnitude lower power consumption than CMOS. However, AQFP scalability is challenged by excessive buffer overhead due to path balancing technology constraints. Addressing this, recent AQFP works have proposed design solutions to reduce path balancing overhead using phase-skipping and phase-alignment. Phase-skipping is a circuit-level technique that allows data transfer between AQFP gates clocked with non-consecutive clock phases. In contrast, phase-alignment is an architectural approach involving repeating input patterns to allow data transfer between AQFP gates across multiples of full clock cycles. While both techniques individually mitigate the area overhead of path-balancing, they have not yet been jointly explored. In this work, we present the first clock phase scheduling algorithm that combines phase-skipping and phase-alignment. We first present a minimum area method that on average, achieves a 25% area reduction compared to phase-skipping alone and a 11% reduction compared to phase alignment. We then extend the method to enforce a target throughput, enabling efficient area-performance trade-offs. With our throughput constrained optimization, we achieve on average 6.8% area savings with a 2.62x increased throughput compared to the state-of-the-art phase-aligned method.",
+    "title_zh": "在AQFP数字电路中优化具有吞吐量权衡的相位调度",
+    "abstract_zh": "绝热量子通量参变管（AQFP）逻辑是一种前景广阔的超低功耗数字电路新兴超导技术，其功耗比CMOS低数个数量级。然而，由于路径均衡技术带来的缓冲器过度开销，AQFP的可扩展性面临挑战。为此，近期AQFP研究提出了利用跳相和相位对齐的设计方案以降低路径均衡开销。跳相是一种电路级技术，允许在非连续时钟相位驱动的AQFP门之间进行数据传输；而相位对齐则是一种架构方法，通过重复输入模式使得AQFP门可在多个完整时钟周期的倍数间传输数据。尽管这两种技术各自都能缓解路径均衡的面积开销，但尚未被联合研究过。在本工作中，我们首次提出了一种结合跳相与相位对齐的时钟相位调度算法。首先，我们提出一种最小面积方法，其平均面积与仅使用跳相相比减少25%，与仅使用相位对齐相比减少11%。随后，我们将该方法扩展为强制实现目标吞吐量，从而实现高效的面积-性能权衡。通过吞吐量约束优化，与最先进的相位对齐方法相比，我们在平均节省6.8%面积的同时，实现了2.62倍的吞吐量提升。"
+  },
+  {
+    "date": "2026-5-11",
+    "title": "Cross-Project Defect Prediction Using High-Dimensional Feature Selection and Decision Tree",
+    "authors": "J.Maria Arockia Dass, B.Geetha Vani, T Dilli Kumari, G Chandana, B Harika, G Chaitanya",
+    "publish": "2026 International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI)",
+    "url": "https://doi.org/10.1109/icdsaai69492.2026.11505184",
+    "source": "IEEE",
+    "abstract": "This study addresses challenges in traditional software defect prediction by proposing a cross-project approach. It tackles distribution differences and high-dimensional features through a feature selection method. Experimentation shows its superiority, especially when paired with Decision Tree classification, outperforming existing methods based on the F1_score metric.",
+    "title_zh": "使用高维特征选择与决策树的跨项目缺陷预测",
+    "abstract_zh": "本研究针对传统软件缺陷预测中的挑战，提出了一种跨项目方法。通过一种特征选择方法解决了分布差异和高维特征问题。实验表明该方法具有优越性，尤其是与决策树分类相结合时，基于F1分数指标的表现优于现有方法。"
+  },
+  {
+    "date": "2026-5-11",
+    "title": "Design Tradeoffs of Through-Silicon-Carbide Vias for High-Temperature 3D SiC IC Integration",
+    "authors": "Sahithi Thota, Li Song, Feng Li",
+    "publish": "2026 IEEE Workshop on Microelectronics and Electron Devices (WMED)",
+    "url": "https://doi.org/10.1109/wmed71264.2026.11509675",
+    "source": "IEEE",
+    "abstract": "Through-silicon-carbide vias (TSiCV) is a key enabling technology for three-dimensional (3D) integration of silicon carbide (SiC) integrated circuits intended for extremeenvironment applications such as Venus surface exploration. In these environments, conventional copper-based interconnects face challenges related to oxidation, diffusion, and long-term reliability at elevated temperatures. This work presents a full-wave electromagnetic simulation study of gold-filled TSiCVs in SiC substrates, focusing on geometry- and temperature-dependent electrical tradeoffs relevant to high-temperature operation. Using ANSYS HFSS, TSiCVs with radii of $5 \\mu \\mathrm{~m}$ and $10 \\mu \\mathrm{~m}$ and a depth of $100 \\mu \\mathrm{~m}$ are analyzed over a frequency range of $1-50 \\mathrm{GHz}$ at temperature of $20^{\\circ} \\mathrm{C}$ and $600^{\\circ} \\mathrm{C}$. Scattering parameters and extracted resistance and capacitance values are used to quantify signal-integrity and power-delivery-relevant trends. The results show that increasing via radius reduces $\\mathbf{A C}$ resistance and temperature sensitivity but significantly increases capacitive loading, leading to tradeoffs between signal integrity and power delivery. These findings provide practical design guidance for selecting TSiCV geometries in high-temperature, mixed-signal 3D SiC IC integration.",
+    "title_zh": "高温三维碳化硅集成电路集成中碳化硅通孔的设计权衡",
+    "abstract_zh": "碳化硅通孔（TSiCV）是实现针对极端环境（如金星表面探测）的三维（3D）集成碳化硅（SiC）集成电路的关键使能技术。在此类环境中，传统的铜基互连面临氧化、扩散以及高温下的长期可靠性挑战。本文对SiC衬底中金填充TSiCV进行了全波电磁仿真研究，重点分析了与高温运行相关的几何参数和温度依赖性电学性能权衡。利用ANSYS HFSS软件，分析了半径为5微米和10微米、深度为100微米的TSiCV在20°C和600°C温度下、频率范围为1-50 GHz的特性。通过散射参数以及提取的电阻和电容值，量化了信号完整性和功率传输相关的趋势。结果表明，增加通孔半径虽可降低交流电阻和温度敏感性，但会显著增加电容负载，从而在信号完整性和功率传输之间产生权衡。这些发现为高温混合信号3D SiC集成电路集成中选择TSiCV几何结构提供了实用的设计指导。"
+  }
+]
