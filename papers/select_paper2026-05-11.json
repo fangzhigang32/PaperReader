@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-5-12",
+    "title": "Proceedings of the 2026 6th International Conference on Computer Network Security and Software Engineering",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3803633",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "2026年第六届计算机网络安全与软件工程国际会议论文集",
+    "abstract_zh": "无"
+  },
+  {
     "date": "2026-5-11",
     "title": "A Hybrid SRU-Transformer-Conv1d Architecture for High-Speed Signal Transient Prediction With Uncertainty Quantification",
     "authors": "Haining Jiang, Yinhang Zhang, Liyin Wu, Xi Yang, Yongzheng Zhan, Renmin Zhang",
@@ -7,8 +18,63 @@
     "url": "https://doi.org/10.1109/temc.2026.3687246",
     "source": "IEEE",
     "abstract": "Time domain transient simulation is crucial in signal integrity analysis of high-speed serial link design. In this article, we propose a novel hybrid neural architecture combining simple recurrent unit (SRU), Transformer, and 1-D Convolution (Conv1d) layers for accurate and uncertainty-aware transient waveform prediction in high-speed serial links. In this hybrid neural architecture, SRU effectively models local temporal dependencies, the Transformer encoder captures global context, and the Conv1d module enhances fine-grained pattern extraction in the output stage. Compared to other time-series prediction models, this method performs better in waveform fitting accuracy and shape preservation. To estimate prediction uncertainty, Monte Carlo dropout is applied during inference, offering reliable confidence intervals of <inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$\\pm 2\\sigma$</tex-math></inline-formula>. In addition, the experiments shows that it also has high practical value in eye diagram prediction.",
-    "title_zh": "一种面向高速信号瞬态预测与不确定性量化的混合SRU-Transformer-Conv1d架构",
-    "abstract_zh": "时域瞬态仿真在高速串行链路设计的信号完整性分析中至关重要。本文提出了一种结合简单循环单元（SRU）、Transformer和一维卷积（Conv1d）层的新型混合神经架构，用于高速串行链路中精确且具有不确定性感知的瞬态波形预测。在该混合神经架构中，SRU有效建模局部时间依赖性，Transformer编码器捕获全局上下文，而Conv1d模块则增强输出阶段的细粒度模式提取。与其他时间序列预测模型相比，该方法在波形拟合精度和形状保持方面表现更优。为估计预测不确定性，推理过程中应用蒙特卡洛丢弃法（Monte Carlo dropout），提供了可靠的$\\pm 2\\sigma$置信区间。此外，实验表明该方法在眼图预测中也具有较高的实用价值。"
+    "title_zh": "一种用于高速信号瞬态预测与不确定性量化的混合SRU-Transformer-Conv1d架构",
+    "abstract_zh": "时域瞬态仿真在高速串行链路设计的信号完整性分析中至关重要。本文提出了一种结合简单循环单元（SRU）、Transformer和一维卷积层（Conv1d）的新型混合神经网络架构，用于实现高速串行链路中准确且具备不确定性感知的瞬态波形预测。在该混合神经网络架构中，SRU有效建模局部时间依赖关系，Transformer编码器捕获全局上下文信息，而Conv1d模块则在输出阶段增强细粒度模式提取能力。与其他时间序列预测模型相比，该方法在波形拟合精度和形状保持方面表现更优。为估计预测不确定性，推理过程中应用蒙特卡洛丢弃法，提供可靠的<inline-formula xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><tex-math notation=\"LaTeX\">$\\pm 2\\sigma$</tex-math></inline-formula>置信区间。此外，实验表明该方法在眼图预测方面同样具有较高的实用价值。"
+  },
+  {
+    "date": "2026-5-12",
+    "title": "Intelligent Code Analysis and Automated Testing Technologies for Power Grid Software Systems",
+    "authors": "Jingyi Zhao",
+    "publish": "2026 2nd International Conference on Power Electronics and Electric Drives (PEED)",
+    "url": "https://doi.org/10.1109/peed69047.2026.00075",
+    "source": "IEEE",
+    "abstract": "Power grid software used in dispatching, substation monitoring, metering, and distribution management must satisfy stronger safety, traceability, and release-governance requirements than generic enterprise applications. Although recent studies on Large Language Model (lLM)-assisted code review and automated test generation have improved developer productivity, their direct adoption in grid software remains limited by weak domain grounding, inadequate risk prioritization, and insufficient coupling between review evidence and Continuous Integration (CI) / Continuous Delivery (CD) execution. This paper proposes a lifecycle-aware intelligent engineering framework for power grid software systems. A bounded re-trieval-augmented semantic review module first extracts structured change intent from commits, requirement notes, and defect tickets, then retrieves grid rules, historical incidents, and CI evidence, and finally invokes a locally deployed code LLM only within a controlled context window to produce evidence-linked review comments and test intents. A multi-source risk model then integrates static severity, historical defect density, semantic change scope, business criticality, and test-gap signals to allocate validation budget and trigger staged execution. Generated tests are retained only after deterministic compilation, oracle checking, and sandbox validation, while high-risk changes additionally activate digital-twin replay. Experiments on $\\mathbf{1 8 6}$ change sets from 12 grid-related repositories show that precision improves from 0.74 to 0.87, recall from 0.68 to 0.82, and effective coverage from 11% to 29%, while median review time is reduced by 34%. Paired statistical tests confirm that the improvements in precision, recall, and effective coverage are significant ($\\mathbf{p}\\lt0.01$).",
+    "title_zh": "电网软件系统的智能代码分析与自动化测试技术",
+    "abstract_zh": "用于调度、变电站监控、计量和配电管理的电网软件必须满足比通用企业应用更强的安全性、可追溯性和发布治理要求。尽管近期关于大语言模型（LLM）辅助代码审查和自动化测试生成的研究提高了开发人员生产力，但由于领域基础薄弱、风险优先级不足以及审查证据与持续集成/持续交付（CI/CD）执行之间的耦合不够紧密，这些方法在电网软件中的直接采用仍受到限制。本文提出了一种面向电网软件系统的全生命周期感知智能工程框架。首先，一个受限检索增强语义审查模块从提交记录、需求说明和缺陷工单中提取结构化变更意图，随后检索电网规则、历史事件和CI证据，最后在可控上下文窗口内调用本地部署的代码LLM，生成附有证据的审查意见和测试意图。接着，一个多源风险模型整合静态严重性、历史缺陷密度、语义变更范围、业务关键性和测试缺口信号，以分配验证预算并触发分阶段执行。生成的测试仅通过确定性编译、预言检查及沙箱验证后才予以保留，而高风险变更则额外激活数字孪生回放。在来自12个电网相关代码仓库的186个变更集上的实验表明，精确率从0.74提升至0.87，召回率从0.68提升至0.82，有效覆盖率从11%提升至29%，同时中位审查时间减少34%。配对统计检验确认，精确率、召回率和有效覆盖率的提升具有显著性（p<0.01）。"
+  },
+  {
+    "date": "2026-5-12",
+    "title": "AI-Powered Transformer Framework for Intelligent Natural Language to SQL Query Generation",
+    "authors": "P. Arul Prakash, Shakthi S, Sri Santhiya M P, Shreeja A V, Subash S, Eyamini C",
+    "publish": "2026 International Conference on Smart Futuristic Technology",
+    "url": "https://doi.org/10.1109/icsft66733.2026.11507944",
+    "source": "IEEE",
+    "abstract": "Natural language database interfaces frequently do not generate SQL that is structurally correct when the queries involve complex joins, nested queries, and queries that are ambiguous in terms of schema. The work introduces an AI-powered Transformer framework that supports bidirectional semantic encoding, schema linking, and constraint-aware SQL generation. The model uses a pre-trained T5-Large encoder as well as a relational schema graph made up of 5,752 table-column nodes and 14,986 relationship edges allowing for reasoning over explicit structure. The framework is evaluated on the Spider and WikiSQL benchmarks of 10,181 training queries, 1,034 development queries, and 15,878 natural-language questions. The experiments achieve 84.72% exact-match accuracy on Spider and 92.41% logical-form accuracy on WikiSQL, surpassing the prior best baselines by 6.18% and 4.35%, respectively. SQL generation times were average 1.83 seconds and were brought down to 0.97 seconds for real time deployment. These results confirm that transformer driven semantic parsing leads to improvements in correctness, generalization and execution fidelity in NL-to-SQL translation. These results indicate that the framework proposed yields a gain in exact-match accuracy, reliability of execution and efficiency in latency in all types of database scenarios.",
+    "title_zh": "基于AI的Transformer框架，用于智能自然语言到SQL查询生成",
+    "abstract_zh": "自然语言数据库接口在处理涉及复杂连接、嵌套查询及模式模糊的查询时，常无法生成结构正确的SQL语句。本文提出了一种基于AI的Transformer框架，支持双向语义编码、模式链接以及约束感知的SQL生成。该模型采用预训练的T5-Large编码器，并构建了由5,752个表-列节点和14,986条关系边组成的关系模式图，以实现对显式结构的推理。该框架在Spider和WikiSQL基准上进行了评估，涉及10,181个训练查询、1,034个开发查询以及15,878个自然语言问题。实验结果显示，在Spider上实现了84.72%的精确匹配准确率，在WikiSQL上实现了92.41%的逻辑形式准确率，分别比先前最佳基线提升了6.18%和4.35%。SQL生成时间平均为1.83秒，并在实时部署中降至0.97秒。这些结果证实，基于Transformer的语义解析能够提升自然语言到SQL转换的正确性、泛化能力和执行保真度。实验表明，所提出的框架在所有类型的数据库场景下，在精确匹配准确率、执行可靠性和延迟效率方面均取得了提升。"
+  },
+  {
+    "date": "2026-5-12",
+    "title": "AdaptGen: A Problem-Adaptive Solution Template Generation Technique for Online Programming Platforms",
+    "authors": "Guowei Zhang, Weiqin Zou, Xiaowei Zhang, Jingxuan Zhang, Jifeng Xuan",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3692192",
+    "source": "IEEE",
+    "abstract": "Online programming platforms that offer various programming tasks play a crucial role in helping programmers enhance their coding skills. Programming tasks posted for different application scenarios may follow the same or similar programming patterns in their solutions. This leads programmers to repeatedly write not just the core code of problem-solving, but also the same basic framework and some peripheral code (such as variable declarations and input/output handling) that are needed to make their solutions executable. Repeatedly writing boilerplate or well-mastered algorithmic frameworks wastes time and adds little value for programmers focused on skill-specific practice. <p xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Toward this, we propose to develop AdaptGen, a problemadaptive code template generation method for online programming platforms. AdaptGen analyzes and extracts solution patterns from various programming problem solutions (i.e., code accepted by online programming platforms) and generates templates tailored to each problem. More specifically, AdaptGen is built on genetic programming and uses a linear hashing sequence encoding strategy to represent solutions. It incorporates selection, crossover, and de-duplication operators to maintain diversity in the evolution process, and a fitness function tailored to generate solution templates. These templates are then abstracted and structured with a flexible core-code-hiding mechanism, enabling programmers of different experience levels to practice efficiently.</p> <p xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">We evaluated AdaptGen using two datasets from LeetCode and NowCoder, containing a total of 997 tasks and over 3,200 solution categories. Results show that AdaptGen successfully generates usable templates for 77%-84% of solution categories, with 80% of the templates performing well in manual evaluations. It also outperforms seven advanced representative large language models (LLMs), achieving the best overall performance in template quality, consistency, and generation efficiency. To validate Adapt- Gen’s effectiveness in real-world programming environments, we further conduct a user study involving live coding practice by programmers in online programming platforms, which effectively demonstrated its utility in practical application scenarios.</p>",
+    "title_zh": "AdaptGen：一种面向在线编程平台的问题自适应解决方案模板生成技术",
+    "abstract_zh": "在线编程平台提供多种编程任务，在帮助程序员提升编码技能方面发挥着关键作用。针对不同应用场景发布的编程任务，其解决方案可能遵循相同或相似的编程模式。这导致程序员不仅需要重复编写解决问题的核心代码，还必须重复编写使解决方案可执行所需的基础框架和部分外围代码（如变量声明、输入输出处理）。对于专注于特定技能练习的程序员而言，重复编写模板代码或已熟练掌握的算法框架既浪费时间，又缺乏增值意义。为此，我们提出开发AdaptGen——一种面向在线编程平台的、适配特定问题的代码模板生成方法。AdaptGen通过分析并从各类编程问题解决方案（即在线编程平台接受的代码）中提取解决模式，为每个问题生成定制化模板。具体而言，AdaptGen基于遗传编程构建，采用线性哈希序列编码策略表示解决方案。它引入选择、交叉和去重操作符以保持进化过程中的多样性，并设计了专用于生成解决方案模板的适应度函数。这些模板随后通过灵活的核心代码隐藏机制进行抽象与结构化，使不同经验水平的程序员能够高效练习。\n\n我们使用来自LeetCode和NowCoder的两个数据集（共包含997个任务和超过3200个解决方案类别）对AdaptGen进行评估。结果表明，AdaptGen成功为77%-84%的解决方案类别生成了可用模板，其中80%的模板在人工评估中表现良好。该方法的模板质量、一致性和生成效率全面优于七种先进的代表性大型语言模型。为验证AdaptGen在实际编程环境中的有效性，我们进一步开展了用户研究，让程序员在在线编程平台中进行实时编码练习，结果充分证明了其在实践应用场景中的实用性。"
+  },
+  {
+    "date": "2026-5-12",
+    "title": "Custom Template for Data Collection and Software Refactoring Algorithm",
+    "authors": "Jing Sun, Mengdi Wang, Dandan Xiao",
+    "publish": "Proceedings of the 2026 6th International Conference on Computer Network Security and Software Engineering",
+    "url": "https://doi.org/10.1145/3803633.3803652",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "数据收集与软件重构算法的自定义模板",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-12",
+    "title": "Large Language Models in Software Security Analysis",
+    "authors": "Dylan Wolff, Martin Mirchev, Abhik Roychoudhury",
+    "publish": "Communications of the ACM",
+    "url": "https://doi.org/10.1145/3770922",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "软件安全分析中的大型语言模型",
+    "abstract_zh": "无"
   },
   {
     "date": "2026-5-11",
@@ -18,8 +84,8 @@
     "url": "https://doi.org/10.1109/icdsaai69492.2026.11505100",
     "source": "IEEE",
     "abstract": "As software repositories scale to become monorepos, containing millions of lines of code, the cognitive chasm between the metadata from the repository and the developer’s knowledge of the system expands. This is called “Ownership Blindness,” thus creating knowledge silos and a delay in code reviews in pull requests, and unintended architectural regressions. This paper presents CodeVision (also developed internally as CodeFamily), a production-grade, full-stack web application designed to bridge this visibility gap. CodeVision implements a decoupled three-tier architecture, consisting of a React 18 frontend for visualization, a high-performance.NET 8 backend for orchestration, and a specialized Node.js sidecar service for multilingual Syntax Tree parsing. Unlike conventional static analysis software, the CodeVision system employs a dynamic Semantic Ownership Algorithm that uses commit volume, frequency, and recency to distinguish genuine subject-matter experts. Moreover, it adds a “Collaborative Context Layer\"-a 9-table relational schema that preserves sticky notes, discussions, and line-level comments, including human-like, natural-language comments directly on the code artefacts. Experimental evaluation on open-source code repositories clearly shows that CodeVision’s predictive dependency model can forecast merge conflicts and greatly reduce the time needed to onboard new engineers and identify code owners.",
-    "title_zh": "CodeVision：一个自解释智能平台，用于理解复杂的软件仓库",
-    "abstract_zh": "随着软件仓库扩展为单体仓库，包含数百万行代码，仓库元数据与开发者对系统的认知之间的鸿沟日益扩大。这种现象被称为“所有权盲区”，进而导致知识孤岛、拉取请求代码审查延迟以及无意的架构退化。本文提出了CodeVision（内部亦称作CodeFamily），一个生产级的全栈Web应用，旨在弥合这一可见性鸿沟。CodeVision采用解耦的三层架构：前端基于React 18实现可视化，后端基于高性能.NET 8进行编排，并配备专用的Node.js边车服务处理多语言语法树解析。与传统的静态分析软件不同，CodeVision系统采用动态语义所有权算法，通过提交量、频率和近因性来区分真正的领域专家。此外，它引入了“协作上下文层”——一个包含9张表的关系型模式，用于保存便签、讨论和行级注释，甚至包括直接在代码制品上添加的类人自然语言注释。在开源代码仓库上的实验评估清晰表明，CodeVision的预测性依赖模型能够预判合并冲突，并显著缩短新工程师的上手时间及代码所有者识别时间。"
+    "title_zh": "CodeVision：一个用于理解复杂软件仓库的自解释智能平台",
+    "abstract_zh": "随着软件仓库扩展成为包含数百万行代码的单一仓库（monorepo），仓库中的元数据与开发者对系统的知识之间的认知鸿沟不断拉大。这种现象被称为“所有权盲区”（Ownership Blindness），由此导致知识孤岛的形成、拉取请求（pull request）中代码审查的延迟以及意外的架构退化。本文介绍了CodeVision（内部也作为CodeFamily开发），一个面向生产环境的全栈Web应用，旨在弥合这一可见性差距。CodeVision实现了解耦的三层架构：用于可视化的React 18前端、用于编排的高性能.NET 8后端，以及用于多语言语法树解析的专用Node.js sidecar服务。与传统的静态分析软件不同，CodeVision系统采用了动态语义所有权算法（Semantic Ownership Algorithm），该算法利用提交量、频率和近时性来识别真正的领域专家。此外，它还增加了“协作上下文层”（Collaborative Context Layer）——一个包含9个表的关系模式，用于保存便签、讨论和行级注释，包括直接附加在代码工件上的类人自然语言注释。在开源代码仓库上的实验评估清楚地表明，CodeVision的预测性依赖模型能够预测合并冲突，并显著减少新工程师入职和代码所有者识别所需的时间。"
   },
   {
     "date": "2026-5-11",
@@ -30,7 +96,29 @@
     "source": "IEEE",
     "abstract": "Timely patch management is crucial for protection against malicious attacks. The lack of quality documentation on security patches hinders triage systems in identifying and prioritizing fixes. Previous work has shown that vulnerability patch detection techniques cannot rely purely on commit messages to detect software patches due to the often inaccurate, incomplete, and missing information in the commit messages. Providing wellstructured and quality security patch documentation can improve security awareness, facilitate quicker stakeholder responses to potential vulnerabilities, and allow researchers to produce larger research datasets for security. We investigated the completeness and standardization of 11,036 security commit messages by analyzing the types of information included in those messages and whether or not common practices were applied to create commit messages. We concluded that security commit messages miss important information and do not follow standardization. We propose a standardization solution called SECOM and show the potential of large language models (LLMs) to help us generate more complete and standardized commit messages automatically.",
     "title_zh": "迈向安全提交消息标准化",
-    "abstract_zh": "及时进行补丁管理对于抵御恶意攻击至关重要。然而，安全补丁相关文档质量欠佳，导致分类系统难以识别和优先修复漏洞。此前的研究表明，由于提交消息常存在不准确、不完整甚至信息缺失的问题，漏洞补丁检测技术无法仅依赖提交消息来检测软件补丁。提供结构清晰、质量可靠的安全补丁文档，有助于提升安全意识，使利益相关者能更快地应对潜在漏洞，同时让研究人员能够构建更庞大的安全研究数据集。我们通过分析11,036条安全提交消息中信息的类型，以及编写这些消息时是否遵循了通用规范，对其完整性和标准化程度进行了研究。结论是：安全提交消息遗漏了重要信息，且未遵循标准化规范。我们提出了一套名为SECOM的标准化方案，并展示了大语言模型（LLM）在自动生成更完整、更标准化的提交消息方面的潜力。"
+    "abstract_zh": "及时的补丁管理对于防御恶意攻击至关重要。安全补丁文档质量的缺乏阻碍了分诊系统对修复措施进行识别和优先级排序。先前的研究表明，由于提交消息中经常存在不准确、不完整和缺失的信息，漏洞补丁检测技术无法完全依赖提交消息来检测软件补丁。提供结构良好且高质量的安全补丁文档可以提升安全认知，促进利益相关者更快地响应潜在漏洞，并允许研究人员为安全领域生成更庞大的研究数据集。我们通过分析11,036条安全提交消息中包含的信息类型，以及是否应用了常见实践来编写提交消息，调查了这些消息的完整性和标准化程度。我们得出结论：安全提交消息遗漏了重要信息，并且未遵循标准化。我们提出了一种名为SECOM的标准化解决方案，并展示了大语言模型（LLMs）帮助自动生成更完整和标准化的提交消息的潜力。"
+  },
+  {
+    "date": "2026-5-12",
+    "title": "SmartCode AI: A Hybrid Static Analysis and Ensemble Transformer Framework for Secure Code Review and Automated Remediation",
+    "authors": "N. Uma Maheswari, A.K. Prabhakaran, R. Raja Vignesh, T. Ram Prakash, S. Sanju",
+    "publish": "2026 9th International Conference on Inventive Computation Technologies (ICICT)",
+    "url": "https://doi.org/10.1109/icict68280.2026.11510940",
+    "source": "IEEE",
+    "abstract": "Application security vulnerabilities continue to dominate the threat landscape, contributing to nearly seventy percent of reported security breaches. The growing volume of software applications, combined with increasing architectural complexity, has significantly expanded the attack surface. Traditional Static Application Security Testing (SAST) tools remain widely adopted; however, existing approaches suffer from critical limitations. High false positive rates, often ranging between sixty and eighty percent, create alert fatigue and reduce developer trust. Pattern-based detection mechanisms lack contextual understanding of business logic, leading to misclassification of safe code as vulnerable. The absence of automated remediation further compounds the issue, as developers must manually interpret findings and design secure fixes. This manual effort increases remediation time, delays deployment cycles, and introduces inconsistency in patch quality. Limited scalability and integration flexibility also hinder continuous security monitoring across large repositories. The proposed SmartCode AI methodology addresses these challenges through a hybrid architecture integrating rule-based static analysis with an ensemble of transformer-based deep learning models. Initial candidate detection ensures broad vulnerability coverage, while contextual verification performed by multiple models significantly reduces false positives. Consensus-driven validation enhances reliability and minimizes inconsistent predictions. Automated patch generation further transforms vulnerability management from detection-only to detection-and-repair. Multi-layer validation ensures syntactic correctness, security compliance, and functional preservation before presenting fixes. A scalable microservices deployment model supports concurrent analysis of large repositories, reducing remediation time from days to hours. Benchmark evaluations demonstrate substantial improvement in precision, recall, F1-score, and patch success rate, validating the effectiveness of the integrated framework.",
+    "title_zh": "SmartCode AI：一种用于安全代码审查和自动修复的混合静态分析与集成Transformer框架",
+    "abstract_zh": "应用安全漏洞仍然是威胁环境的主要因素，涉及近百分之七十的报告安全漏洞。软件应用数量的增长，加上架构复杂性的提升，显著扩大了攻击面。传统的静态应用安全测试（SAST）工具仍被广泛采用，但现有方法存在关键局限。误报率通常在百分之六十到八十之间，导致警报疲劳并降低开发者信任。基于模式的检测机制缺乏对业务逻辑的上下文理解，导致将安全代码误分类为有漏洞。缺乏自动修复进一步加剧了问题，因为开发者必须手动解读发现并设计安全补丁。这种手动工作增加了修复时间，延迟了部署周期，并导致补丁质量不一致。有限的扩展性和集成灵活性也阻碍了大型仓库的持续安全监控。提出的SmartCode AI方法通过混合架构解决了这些挑战，该架构结合了基于规则的静态分析和集成转换器深度学习模型。初始候选检测确保了广泛的漏洞覆盖，而多个模型执行的上下文验证显著降低了误报率。共识驱动的验证增强了可靠性，并最小化了不一致的预测。自动补丁生成进一步将漏洞管理从仅检测转变为检测与修复。多层验证确保在呈现修复方案之前，语法正确性、安全合规性和功能保留。可扩展的微服务部署模型支持对大型仓库的并发分析，将修复时间从数天缩短到数小时。基准评估显示了在精确率、召回率、F1分数和补丁成功率方面的显著提升，验证了集成框架的有效性。"
+  },
+  {
+    "date": "2026-5-12",
+    "title": "Adaptive PWM Control using Machine Learning and RISC-V",
+    "authors": "Abhinav Chalil, Vivek Ashok Nair, Rajesh Kannan Megalingam",
+    "publish": "2026 International Conference on Smart Futuristic Technology",
+    "url": "https://doi.org/10.1109/icsft66733.2026.11507849",
+    "source": "IEEE",
+    "abstract": "This paper presents the design and virtual implementation of an Adaptive Pulse Width Modulation - PWM control system using Machine Learning and RISC-V architecture. Instead of actual physical hardware, the system is simulated using QEMU, BRISC-V, and EDA Playground. A machine learning Linear Regression model predicts the PWM duty cycle from parameters such as temperature,humidity and speed. The trained model runs on a RISC-V emulator which updates the duty cycles dynamically, while PWM In Verilog, waveform verification is done using GTKWave. Results confirm that adaptive PWM can be achieved entirely. accuracy of results and low latency in software, providing a cost-effective approach for intelligent control in embedded and IoT applications.",
+    "title_zh": "基于机器学习和RISC-V的自适应PWM控制",
+    "abstract_zh": "本文介绍了基于机器学习与RISC-V架构的自适应脉宽调制（PWM）控制系统的设计与虚拟实现。该系统并非使用实际物理硬件，而是通过QEMU、BRISC-V和EDA Playground进行仿真。机器学习线性回归模型根据温度、湿度和速度等参数预测PWM占空比。训练好的模型运行在RISC-V模拟器上，动态更新占空比，同时利用Verilog实现PWM波形生成，并通过GTKWave进行波形验证。结果证实，完全能够实现自适应PWM，具备结果准确性和软件低延迟特性，为嵌入式与物联网应用中的智能控制提供了一种经济高效的解决方案。"
   },
   {
     "date": "2026-5-11",
@@ -41,39 +129,6 @@
     "source": "IEEE",
     "abstract": "This paper presents the RTL design logic of vending machine and its implementation into FPGA zed board. FPGA technology enables faster processing, reconfigurability, and better resource efficiency for vending control. The FPGA-based approach provides a modern, adaptable, and high-performance solution for vending machine automation. The Control logic in this proposed model of vending machine includes insertion of amount, cancel operation and dispensing of candy. The proposed design is tested and simulated using Xilinx Vivado 2024 version, achieving a 69.3% of power optimization than the previous model, with further power consumption and timing analysis performed across different RTL coding styles (if-else, switch case, and while loop implementations).",
     "title_zh": "基于FPGA的实时产品分配系统",
-    "abstract_zh": "本文介绍了自动售货机的RTL设计逻辑及其在FPGA Zed板上的实现。FPGA技术能够实现更快的处理速度、可重构性以及更好的资源效率，适用于售货控制。基于FPGA的方法为自动售货机自动化提供了一种现代、可适应且高性能的解决方案。本模型中的控制逻辑包括金额插入、取消操作以及糖果分发功能。所提出的设计使用Xilinx Vivado 2024版本进行测试和仿真，相比之前的模型实现了69.3%的功耗优化，并针对不同RTL编码风格（if-else、switch case和while循环实现）进行了进一步的功耗和时序分析。"
-  },
-  {
-    "date": "2026-5-11",
-    "title": "Optimizing Phase-Scheduling with Throughput Trade-offs in AQFP Digital Circuits",
-    "authors": "Robert S. Aviles, Peter A. Beerel",
-    "publish": "IEEE Transactions on Applied Superconductivity",
-    "url": "https://doi.org/10.1109/tasc.2026.3692200",
-    "source": "IEEE",
-    "abstract": "Adiabatic Quantum-Flux-Parametron (AQFP) logic is a promising emerging superconducting technology for ultralow power digital circuits, offering orders of magnitude lower power consumption than CMOS. However, AQFP scalability is challenged by excessive buffer overhead due to path balancing technology constraints. Addressing this, recent AQFP works have proposed design solutions to reduce path balancing overhead using phase-skipping and phase-alignment. Phase-skipping is a circuit-level technique that allows data transfer between AQFP gates clocked with non-consecutive clock phases. In contrast, phase-alignment is an architectural approach involving repeating input patterns to allow data transfer between AQFP gates across multiples of full clock cycles. While both techniques individually mitigate the area overhead of path-balancing, they have not yet been jointly explored. In this work, we present the first clock phase scheduling algorithm that combines phase-skipping and phase-alignment. We first present a minimum area method that on average, achieves a 25% area reduction compared to phase-skipping alone and a 11% reduction compared to phase alignment. We then extend the method to enforce a target throughput, enabling efficient area-performance trade-offs. With our throughput constrained optimization, we achieve on average 6.8% area savings with a 2.62x increased throughput compared to the state-of-the-art phase-aligned method.",
-    "title_zh": "在AQFP数字电路中优化具有吞吐量权衡的相位调度",
-    "abstract_zh": "绝热量子通量参变管（AQFP）逻辑是一种前景广阔的超低功耗数字电路新兴超导技术，其功耗比CMOS低数个数量级。然而，由于路径均衡技术带来的缓冲器过度开销，AQFP的可扩展性面临挑战。为此，近期AQFP研究提出了利用跳相和相位对齐的设计方案以降低路径均衡开销。跳相是一种电路级技术，允许在非连续时钟相位驱动的AQFP门之间进行数据传输；而相位对齐则是一种架构方法，通过重复输入模式使得AQFP门可在多个完整时钟周期的倍数间传输数据。尽管这两种技术各自都能缓解路径均衡的面积开销，但尚未被联合研究过。在本工作中，我们首次提出了一种结合跳相与相位对齐的时钟相位调度算法。首先，我们提出一种最小面积方法，其平均面积与仅使用跳相相比减少25%，与仅使用相位对齐相比减少11%。随后，我们将该方法扩展为强制实现目标吞吐量，从而实现高效的面积-性能权衡。通过吞吐量约束优化，与最先进的相位对齐方法相比，我们在平均节省6.8%面积的同时，实现了2.62倍的吞吐量提升。"
-  },
-  {
-    "date": "2026-5-11",
-    "title": "Cross-Project Defect Prediction Using High-Dimensional Feature Selection and Decision Tree",
-    "authors": "J.Maria Arockia Dass, B.Geetha Vani, T Dilli Kumari, G Chandana, B Harika, G Chaitanya",
-    "publish": "2026 International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI)",
-    "url": "https://doi.org/10.1109/icdsaai69492.2026.11505184",
-    "source": "IEEE",
-    "abstract": "This study addresses challenges in traditional software defect prediction by proposing a cross-project approach. It tackles distribution differences and high-dimensional features through a feature selection method. Experimentation shows its superiority, especially when paired with Decision Tree classification, outperforming existing methods based on the F1_score metric.",
-    "title_zh": "使用高维特征选择与决策树的跨项目缺陷预测",
-    "abstract_zh": "本研究针对传统软件缺陷预测中的挑战，提出了一种跨项目方法。通过一种特征选择方法解决了分布差异和高维特征问题。实验表明该方法具有优越性，尤其是与决策树分类相结合时，基于F1分数指标的表现优于现有方法。"
-  },
-  {
-    "date": "2026-5-11",
-    "title": "Design Tradeoffs of Through-Silicon-Carbide Vias for High-Temperature 3D SiC IC Integration",
-    "authors": "Sahithi Thota, Li Song, Feng Li",
-    "publish": "2026 IEEE Workshop on Microelectronics and Electron Devices (WMED)",
-    "url": "https://doi.org/10.1109/wmed71264.2026.11509675",
-    "source": "IEEE",
-    "abstract": "Through-silicon-carbide vias (TSiCV) is a key enabling technology for three-dimensional (3D) integration of silicon carbide (SiC) integrated circuits intended for extremeenvironment applications such as Venus surface exploration. In these environments, conventional copper-based interconnects face challenges related to oxidation, diffusion, and long-term reliability at elevated temperatures. This work presents a full-wave electromagnetic simulation study of gold-filled TSiCVs in SiC substrates, focusing on geometry- and temperature-dependent electrical tradeoffs relevant to high-temperature operation. Using ANSYS HFSS, TSiCVs with radii of $5 \\mu \\mathrm{~m}$ and $10 \\mu \\mathrm{~m}$ and a depth of $100 \\mu \\mathrm{~m}$ are analyzed over a frequency range of $1-50 \\mathrm{GHz}$ at temperature of $20^{\\circ} \\mathrm{C}$ and $600^{\\circ} \\mathrm{C}$. Scattering parameters and extracted resistance and capacitance values are used to quantify signal-integrity and power-delivery-relevant trends. The results show that increasing via radius reduces $\\mathbf{A C}$ resistance and temperature sensitivity but significantly increases capacitive loading, leading to tradeoffs between signal integrity and power delivery. These findings provide practical design guidance for selecting TSiCV geometries in high-temperature, mixed-signal 3D SiC IC integration.",
-    "title_zh": "高温三维碳化硅集成电路集成中碳化硅通孔的设计权衡",
-    "abstract_zh": "碳化硅通孔（TSiCV）是实现针对极端环境（如金星表面探测）的三维（3D）集成碳化硅（SiC）集成电路的关键使能技术。在此类环境中，传统的铜基互连面临氧化、扩散以及高温下的长期可靠性挑战。本文对SiC衬底中金填充TSiCV进行了全波电磁仿真研究，重点分析了与高温运行相关的几何参数和温度依赖性电学性能权衡。利用ANSYS HFSS软件，分析了半径为5微米和10微米、深度为100微米的TSiCV在20°C和600°C温度下、频率范围为1-50 GHz的特性。通过散射参数以及提取的电阻和电容值，量化了信号完整性和功率传输相关的趋势。结果表明，增加通孔半径虽可降低交流电阻和温度敏感性，但会显著增加电容负载，从而在信号完整性和功率传输之间产生权衡。这些发现为高温混合信号3D SiC集成电路集成中选择TSiCV几何结构提供了实用的设计指导。"
+    "abstract_zh": "本文介绍了自动售货机的RTL设计逻辑及其在FPGA zed板上的实现。FPGA技术能够实现更快的处理速度、可重构性以及更高效的资源利用，从而优化售货控制。基于FPGA的方案为自动售货机自动化提供了现代、适应性强且高性能的解决方案。该自动售货机模型中的控制逻辑包括金额输入、取消操作以及糖果出货。所提出的设计采用赛灵思Vivado 2024版本进行测试和仿真，相比前代模型实现了69.3%的功耗优化，并针对不同RTL编码风格（if-else、switch case和while循环实现）进行了进一步的功耗和时序分析。"
   }
 ]
