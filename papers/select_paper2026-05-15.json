@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-5-15",
+    "title": "HumanEval-V: Systematic Evaluation of Visual Reasoning in Large Multimodal Models for Code Generation",
+    "authors": "Fengji Zhang, Linquan Wu, Huiyu Bai, Guancheng Lin, Xiao Li, Xiao Yu, Yue Wang, Bei Chen, Jacky Keung",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3813804",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "HumanEval-V：面向代码生成的大型多模态模型视觉推理的系统性评估",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-15",
+    "title": "Tool-Use Failure Analysis and Recovery Framework for LLM Agents",
+    "authors": "Jiayi Jiang, Chuan Li, Junjie Ma, Kun Chen",
+    "publish": "2026 9th International Conference on Advanced Algorithms and Control Engineering (ICAACE)",
+    "url": "https://doi.org/10.1109/icaace69793.2026.11508644",
+    "source": "IEEE",
+    "abstract": "As large language models (LLMs) become increasingly common in handling complex tasks that require external tools and services, the various issues that arise when calling tools have become a major factor affecting system stability and usability. This article addresses the situation where LLMs fail to learn or botch the use of tools, and proposes a practical solution for identifying and resolving such issues. The key actions taken include: First, we established a framework to categorize all cases of tool learning failures and developed a tester capable of intentionally inducing faults; Then, we proposed a runtime recovery framework called Monitor-Classifier-Recovery (MCR), which includes simple rules, a fault classifier capable of learning, and a strategy library that considers costs; Then, we introduced the MAGRPO method, which involves multiple agents optimizing strategies through a process similar to a multi-player rock-paperscissors game. During training, agents collaborate and can compensate for each other's shortcomings. We tested this approach through a combination of writing and programming tasks, such as format errors, timeouts, returning garbled characters, and sequential errors in planning. Using MCR alone significantly accelerated problem resolution and reduced human intervention. Combining MCR and MAGRPO boosted the success rate for complex tasks from 42 % to 86.7 %, with a problem resolution rate of 92.6 %, while also optimizing API costs and speed. The article also discusses whether recovery strategies can be combined like building blocks, how to balance costs and benefits, how to model API behavior in the real world, and ethical reviewthese are engineering and research challenges. This approach provides a clear path for LLM systems to become more reliable, easier to understand, and efficient when using tools in practice.",
+    "title_zh": "面向LLM智能体的工具使用故障分析与恢复框架",
+    "abstract_zh": "随着大型语言模型（LLM）在处理需要外部工具和服务的复杂任务中日渐普及，调用工具时出现的各类问题已成为影响系统稳定性和可用性的主要因素。本文针对LLM未能正确学习或使用工具的情况，提出了一种识别并解决此类问题的实用方案。主要措施包括：首先，我们建立了一个框架，对工具学习失败的所有案例进行分类，并开发了可主动诱发故障的测试工具；随后，提出了一种名为监控-分类-恢复（MCR）的运行时恢复框架，该框架包含简单规则、具备学习能力的故障分类器以及考虑成本的策略库；接着，引入了MAGRPO方法，该方法通过类似多人剪刀石头布博弈的过程，由多个智能体协作优化策略。在训练过程中，智能体相互配合，能够弥补彼此的不足。我们通过结合写作和编程任务的测试，验证了该方法在格式错误、超时、返回乱码及规划顺序错误等场景下的效果。仅采用MCR即可显著加快问题解决速度并减少人工干预。将MCR与MAGRPO结合后，复杂任务的成功率从42%提升至86.7%，问题解决率达92.6%，同时优化了API成本和响应速度。文章还探讨了恢复策略能否像积木般组合、如何平衡成本与收益、如何模拟真实API行为以及伦理审查等工程与研究挑战。该方法为LLM系统在实际使用工具时提高可靠性、可理解性和效率提供了清晰路径。"
+  },
+  {
+    "date": "2026-5-15",
+    "title": "An Efficient Approximate Toffoli-Based Quantum Adder for Low-Power and High-Performance Applications",
+    "authors": "B N Lavanya, K. Rasadurai",
+    "publish": "2026 6th International Conference on Trends in Material Science and Inventive Materials (ICTMIM)",
+    "url": "https://doi.org/10.1109/ictmim68190.2026.11507670",
+    "source": "IEEE",
+    "abstract": "The basic components of both quantum and quantum-inspired arithmetic systems are quantum adders. Traditional direct quantum adders like the Vedral and Cuccaro ripple-carry adders provide accurate computation but have higher circuit depth, longer propagation delay and complexity of hardware implementation based upon extensive usage of Toffoli gates. This article brings about a comparison analysis of the current quantum adder designs, and it suggests an Approximate Toffoli Adder in order to enhance performance and hardware efficiency. The suggested design is designed with the help of Verilog HDL and run with Xilinx Vivado 2025.2. As can be seen from experimental results, the Vedral and Cuccaro adders have a critical path delay of 7.999 ns and 7.979 ns, respectively, and the total on-chip power consumption of 2.945 W. Conversely, the Approximate Toffoli Adder proposed has a low critical path delay of 7.261 ns, lower power consumption of 2.442 W and less hardware consumption with 18 logic cells than the current designs with 20 logic cells. Analysis of errors ensures that there is a minimal difference in the accuracy of the output. It is proven that approximate arithmetic offers a successful trade-off between precision, speed, and power efficiency to use in quantum-inspired computing.",
+    "title_zh": "一种高效的基于Toffoli的近似量子加法器，适用于低功耗和高性能应用",
+    "abstract_zh": "量子及受量子启发的算术系统的基本组成部分是量子加法器。传统的直接量子加法器（如Vedral和Cuccaro波纹进位加法器）虽然能提供精确计算，但电路深度较大、传播延迟较长，且因大量使用Toffoli门而增加了硬件实现的复杂性。本文对当前量子加法器设计进行了比较分析，并提出了一种近似Toffoli加法器，以提升性能和硬件效率。所提出的设计借助Verilog HDL完成，并在Xilinx Vivado 2025.2上运行。实验结果表明，Vedral和Cuccaro加法器的关键路径延迟分别为7.999纳秒和7.979纳秒，总片上功耗为2.945瓦。相比之下，本文提出的近似Toffoli加法器关键路径延迟更低，仅为7.261纳秒，功耗降至2.442瓦，且硬件消耗更小（仅使用18个逻辑单元，而现有设计需20个）。误差分析表明，输出精度差异极小。事实证明，近似算术能够在精度、速度和功耗效率之间实现成功权衡，适用于受量子启发的计算。"
+  },
+  {
+    "date": "2026-5-15",
+    "title": "ContextPilot: Adaptive Open Source Software Onboarding",
+    "authors": "Mazen Al-Asali, Mohammad El-Ramly",
+    "publish": "2025 26th International Arab Conference on Information Technology (ACIT)",
+    "url": "https://doi.org/10.1109/acit68900.2025.11510523",
+    "source": "IEEE",
+    "abstract": "Open source software relies on volunteer contributors, yet onboarding newcomers remains difficult and practices for ensuring quality are fragmented. Existing continuous integration pipelines, linters, templates, and documentation rarely adapt to repository-specific norms or explain failures in actionable terms, producing low-quality pull requests, prolonged reviews, and contributor attrition. This paper presents ContextPilot, a modular, multi-agent framework that provides guidance grounded in project artifacts. ContextPilot ingests repository metadata-such as readme files, contribution guidelines, workflow definitions, and linter and test configurations-into a retrieval index. Specialized agents for repositories, feedback, editing environments, and conversation coordinate with a large language model to transform logs, code differences, and policies into human-readable recommendations. We detail the architecture, data schema, prompting strategies, and safeguards. A prototype integrates with GitHub webhooks and a Visual Studio Code extension. Illustrative scenarios show how ContextPilot explains pipeline failures, offers proactive guidance during local development, and reuses organizational knowledge from prior contributions to reduce repeated maintainer effort. We outline an evaluation plan comparing standard workflows with ContextPilot-augmented workflows across efficiency, contribution quality, maintainer workload, contributor retention, and scalability, and we discuss threats to validity. ContextPilot turns quality enforcement from a gatekeeping step into an instructive experience.",
+    "title_zh": "ContextPilot: 自适应开源软件新手引导",
+    "abstract_zh": "开源软件依赖志愿贡献者，然而新成员入职仍存在困难，质量保障实践也较为分散。现有的持续集成流水线、代码检查工具、模板和文档很少能适应仓库特定的规范，也无法以可操作的方式解释失败原因，导致拉取请求质量低下、审核时间过长以及贡献者流失。本文提出ContextPilot，一个模块化、多智能体的框架，它基于项目工件提供引导。ContextPilot将仓库元数据（如README文件、贡献指南、工作流定义、代码检查及测试配置）摄入检索索引中。针对仓库、反馈、编辑环境和对话的专门智能体与大语言模型协同，将日志、代码差异和策略转化为人类可读的建议。我们详细阐述了架构、数据模式、提示策略和安全保障。原型集成了GitHub webhook和Visual Studio Code扩展。示例场景展示了ContextPilot如何解释流水线失败、在本地开发期间提供主动引导，以及重用先前贡献中的组织知识以减少维护者的重复工作。我们概述了一项评估计划，比较标准工作流与增强后的ContextPilot工作流在效率、贡献质量、维护者工作量、贡献者留存和可扩展性方面的差异，并讨论了效度威胁。ContextPilot将质量执行从一个把关步骤转变为具有指导性的体验。"
+  }
+]
