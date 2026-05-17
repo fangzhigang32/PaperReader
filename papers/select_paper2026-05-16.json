@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-5-16",
+    "title": "A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models",
+    "authors": "Sabrina Kaniewski, Fabian Schmidt, Markus Enzweiler, Michael Menth, Tobias Heer",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3815425",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大型语言模型在软件漏洞检测中的系统性文献综述",
+    "abstract_zh": "无"
+  }
+]

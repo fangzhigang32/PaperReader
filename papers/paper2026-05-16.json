@@ -1,0 +1,110 @@
+[
+  {
+    "date": "2026-5-16",
+    "title": "ARe you watching the road? Comparing Gaze Behaviour and Hazard Prediction between Heads-Up and Heads-Down NDRT Presentation in Augmented Reality",
+    "authors": "Thomas Goodge, Frank Pollick, Stephen Brewster",
+    "publish": "ACM Transactions on Applied Perception",
+    "url": "https://doi.org/10.1145/3807942",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "Federated Multi-source Domain Adaptation via Contrastive Cross-domain Semantic Alignment with Adversarial Feature Augmentation",
+    "authors": "Wenjie Mao, Bin Yu, Chen Zhang, Yu Xie",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3805032",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "Improving the Understanding of Arabic Political Text Through Emotion Analysis and Text Mining",
+    "authors": "Amjad Nassar, Mira Tzoreff, Tsvi Kuflik, Ilai Alon",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3815767",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "Label-Specific Feature Learning for Multi-Label Classification: A Survey",
+    "authors": "Jun-Yi Hang, Yi-Fan Zhang, Min-Ling Zhang",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3809484",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "Virtual Counselor Extenders: Social Cue Taxonomy, Soft Rooms, and Brief Motivational Interviewing",
+    "authors": "Christine Lisetti, Stephanie Lunn, James Hodgins, Diana Marin, Jaynish Hazari, Ubbo Visser, Maya Boustani",
+    "publish": "ACM Transactions on Computer-Human Interaction",
+    "url": "https://doi.org/10.1145/3815541",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "DCHVF-GAN: Synthesizing Adversarial DeepFakes with High Visual Fidelity by Multimodality Fusion",
+    "authors": "Feng Ding, Xinan He, Rensheng Kuang, Mengyao Xiao, Xiaogang Zhu, Guopu Zhu, Pradeep K. Atrey",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3808697",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "Selective 3D crypto-compression method based on Draco after quantization",
+    "authors": "Khelian Larvet, William Puech, Jean-Pierre Pedeboy",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3811915",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "Visual-Guided Long Temporal Context Learning Network for Weakly-Supervised Video Anomaly Detection",
+    "authors": "Hao Zhou, Ruomei Wang, Linxuan Han, Baoquan Zhao, Fan Zhou",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3810186",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "Multi-Granular Action Detection based on Highlighted Categories hierarchical prior-knowledge",
+    "authors": "Xiaochen Wang, Dehui Kong, Jinghua Li, Jing Wang, Baocai Yin",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3815785",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models",
+    "authors": "Siyuan Li, Feng Wang, Simeng Qin, Ranjie Duan, Haonan Cheng, Long Ye",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3796715",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "Knowledge-enhanced Hyperbolic Attention Network for Trustworthy Sequential Recommendation",
+    "authors": "Shanming Wei, Shunmei Meng, Qianmu Li",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3806830",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-16",
+    "title": "A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models",
+    "authors": "Sabrina Kaniewski, Fabian Schmidt, Markus Enzweiler, Michael Menth, Tobias Heer",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3815425",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
