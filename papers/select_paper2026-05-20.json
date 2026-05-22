@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2026-5-21",
+    "title": "SPI based Secure Communication Framework for Industrial IoT",
+    "authors": "Soumyadip Motilal, Soumita Chatterjee, Ayas Kanta Swain, Kamalakanta Mahapatra",
+    "publish": "2026 International Conference on Intelligent Processing, Hardware, Electronics, and Radio Systems (CIPHER)",
+    "url": "https://doi.org/10.1109/cipher70417.2026.11523846",
+    "source": "IEEE",
+    "abstract": "The rapid growth and development of IoT has led to the need for safe and effective hardware based communication protocols. As any other network system, IoT systems are also prone to security breaches. To ensure data integrity and authentication, this paper proposes a novel design of a secure FPGA-based communication protocol-SPI on Xilinx Spartan-7 XC7S50-CSGA324 FPGA for Industrial Internet of Things (IIoT) applications. The design involves design of a high-level synthesized (HLS) Intellectual Property (IP) of two security standards- Advanced Encryption Standard (AES) and Rivest–Shamir–Adleman (RSA) for encryption and decryption of the data. Following this, the serial interface is designed wherein the slave (sensor) transmits the encrypted data to the master (IoT Gateway). The decryption IP block then reveals the original message. The synthesis results show that the security protocols can achieve resource consumption as low as 3.79%. These security protocols have been also tested on Zybo, Pynq Z2 and Arty A7 boards. Additionally, these are also tested against various statistical strength measuring tests- NIST p-value and avalanche. The proposed secure design protocol is a stepping stone for next generation simple yet flexible secure IoT modules. The detailed experimental analysis also serves as a testimony to the fact that a highly secure protocol can be designed without requiring heavy resource usage or power overhead.",
+    "title_zh": "基于SPI的工业物联网安全通信框架",
+    "abstract_zh": "物联网的快速成长与发展催生了对安全且高效的硬件通信协议的需求。与其他网络系统一样，物联网系统也容易遭受安全攻击。为确保数据完整性和身份认证，本文提出了一种基于FPGA的安全通信协议——SPI（串行外设接口）的新型设计，该设计基于Xilinx Spartan-7 XC7S50-CSGA324 FPGA，应用于工业物联网（IIoT）。该设计包含两个安全标准——高级加密标准（AES）和Rivest–Shamir–Adleman（RSA）——的高层次综合（HLS）知识产权（IP）核，用于数据的加密与解密。随后，设计了串行接口，其中从设备（传感器）将加密数据传输至主设备（物联网网关）。解密IP核随后还原出原始消息。综合结果显示，这些安全协议可将资源消耗降至低至3.79%。这些安全协议还已在Zybo、Pynq Z2和Arty A7开发板上进行了测试。此外，还针对多种统计强度测试（如NIST p值和雪崩测试）进行了验证。所提出的安全设计协议为下一代简单而灵活的物联网安全模块奠定了基础。详细的实验分析也证明，无需沉重的资源消耗或额外功耗即可设计出高安全性的协议。"
+  },
+  {
+    "date": "2026-5-21",
+    "title": "Towards Comprehensive Semi-Formal Verification of AMBA AHB/APB Interconnects: Configuration Coverage, Mutation Testing, and Safety-Aware Design-for-Verification",
+    "authors": "Reshav Jaswal, Mamta Khosla",
+    "publish": "2026 International Conference on Intelligent Processing, Hardware, Electronics, and Radio Systems (CIPHER)",
+    "url": "https://doi.org/10.1109/cipher70417.2026.11523956",
+    "source": "IEEE",
+    "abstract": "Verification dominates effort in modern System-on-Chip (SoC) design, particularly for interconnects such as AMBA AHB and APB bridges. These interconnects are widely used but prone to subtle corner-case failures that escape simulation-only verification. This paper presents ConfigVerMet++, a semi-formal verification methodology tailored to AHB–APB interconnects. ConfigVerMet++ integrates configuration-driven coverage analysis, simulation, formal unreachability classification (UNR), counterexample-directed test generation, mutation-based robustness checks, safety-aware assertions, and design-for-verification (DFV) hooks. We apply the methodology to a representative AHB–APB subsystem implemented in SystemVerilog and show progression from baseline simulation-only functional coverage of about 75% to complete coverage closure at 100%. The paper presents detailed results: assertion proofs, UNR classification, counterexample-driven tests, mutation detection.",
+    "title_zh": "面向AMBA AHB/APB互连的全面半形式验证：配置覆盖率、变异测试与安全意识的可验证性设计",
+    "abstract_zh": "在现代片上系统（SoC）设计中，验证工作占据主导地位，尤其是在AMBA AHB与APB桥这类互连结构中。这些互连结构应用广泛，但也容易引发仅靠仿真验证难以发现的细微边界失效问题。本文提出ConfigVerMet++，一种专为AHB–APB互连结构设计的半形式化验证方法。ConfigVerMet++融合了配置驱动的覆盖率分析、仿真、形式化不可达分类（UNR）、反例导向的测试生成、基于变异的鲁棒性检查、安全感知断言以及面向验证的设计（DFV）钩子。我们将该方法应用于一个用SystemVerilog实现的代表性AHB–APB子系统，展示了从基线仿真功能覆盖率约75%提升至100%完全覆盖的过程。论文详细呈现了以下结果：断言证明、UNR分类、反例驱动测试以及变异检测。"
+  },
+  {
+    "date": "2026-5-21",
+    "title": "Introducing Optimization Techniques into Formal Verification for Faster Convergence and Reduced Runtime",
+    "authors": "Adepu Saiteja, Mamta Khosla",
+    "publish": "2026 International Conference on Intelligent Processing, Hardware, Electronics, and Radio Systems (CIPHER)",
+    "url": "https://doi.org/10.1109/cipher70417.2026.11523706",
+    "source": "IEEE",
+    "abstract": "This paper presents a set of optimization techniques aimed at improving convergence speed and reducing runtime in formal verification. Although formal verification is becoming more common in industrial design flows, its adoption is often hindered by inefficient implementation practices and long proof convergence times. To address these challenges, we first introduce a structured and practical verification methodology that guides engineers through the entire verification flow—from property creation and RTL preparation to error analysis and proof closure. This approach is designed to be systematic, repeatable, and suitable for real-world designs. Building on this methodology, the main contribution of this work is a set of optimization techniques developed to accelerate proof convergence and reduce solver complexity. These techniques include targeted adding constraints, parametrizing the modules and reducing parameter size, black boxing the standard modules that adapt during the verification process. Rather than relying on conventional methods, the proposed approach focuses on limiting unnecessary state-space exploration while maintaining proof completeness. Results from representative design examples show that the proposed techniques significantly improve proof success rates and achieve meaningful reductions in overall verification time. Together, these contributions offer a practical and scalable solution that improves the efficiency, reliability, and industrial usability of formal verification.",
+    "title_zh": "将优化技术引入形式验证，以加速收敛并缩短运行时间。",
+    "abstract_zh": "本文提出了一组旨在提升形式化验证收敛速度并减少运行时间的优化技术。尽管形式化验证在工业设计流程中日益普及，但其应用常受限于低效的实现实践和较长的证明收敛时间。为应对这些挑战，我们首先介绍了一种结构化且实用的验证方法，该方法可指导工程师完成从属性创建、RTL准备、错误分析到证明闭环的整个验证流程。该设计方法具有系统性、可重复性，并适用于实际设计场景。在此方法论基础上，本文的主要贡献在于开发了一组用于加速证明收敛、降低求解器复杂度的优化技术。这些技术包括：针对性添加约束、模块参数化及参数规模缩减、以及在验证过程中自适应对标准模块进行黑盒化处理。与传统方法不同，所提方案侧重于在保持证明完备性的同时，限制不必要的状态空间探索。代表性设计实例的结果表明，所提技术显著提升了证明成功率，并大幅缩短了总体验证时间。综合而言，这些贡献提供了一种实用且可扩展的解决方案，有效提升了形式化验证的效率、可靠性及工业适用性。"
+  },
+  {
+    "date": "2026-5-20",
+    "title": "SE-Blackboard: A Shared-State Architecture for Multi-Agent Software Engineering Pipelines",
+    "authors": "Erxi Liu, Qiang Zhu, Xinru Dong",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3695435",
+    "source": "IEEE",
+    "abstract": "Multi-agent large language model (LLM) systems are increasingly used for software engineering tasks, yet the role of communication architecture in these systems remains poorly understood. Most existing approaches rely on message passing, where agents communicate through sequential natural language summaries, potentially introducing information loss across pipeline stages. This paper introduces SE-Blackboard, a modular framework that applies a shared-state Blackboard architecture to multi-agent software engineering pipelines.We conduct controlled experiments on 50 SWE-bench Lite issues, comparing three communication architectures: message passing, shared-state blackboard, and a hybrid design. Our results show that communication architecture significantly affects information preservation and intermediate pipeline performance. The blackboard configuration improves Coder-stage information fidelity (IFS) by 62% compared with message passing (0.586 vs. 0.362), which translates into a 27.5 percentage-point improvement in correct file targeting (82.6% vs. 55.1%). However, once the correct file is identified, all configurations converge to a ∼22% conditional resolve rate, revealing a downstream bottleneck in LLM diff generation. As a result, the overall resolve-rate improvement is modest (16% vs. 12%) despite large upstream gains. These findings highlight communication architecture as an important design dimension for multi-agent software engineering systems and suggest that improvements in upstream information quality translate into task-level gains only when downstream generation bottlenecks are addressed.",
+    "title_zh": "SE-Blackboard：用于多智能体软件工程流水线的共享状态架构",
+    "abstract_zh": "多智能体大语言模型系统在软件工程任务中的应用日益广泛，然而通信架构在这些系统中的作用仍未得到充分理解。现有方法大多依赖消息传递机制，即智能体通过顺序的自然语言摘要进行通信，这可能在流水线各阶段引入信息丢失。本文提出SE-Blackboard，这是一个模块化框架，将共享状态黑板架构应用于多智能体软件工程流水线。我们在SWE-bench Lite的50个问题上进行了受控实验，比较了三种通信架构：消息传递、共享状态黑板以及混合设计。结果表明，通信架构显著影响信息保存和中间流水线性能。与消息传递相比，黑板配置将Coder阶段的信息保真度提升了62%（0.586对比0.362），这转化为正确文件定位率提高27.5个百分点（82.6%对比55.1%）。然而，一旦正确文件被识别，所有配置的条件解决率均收敛至约22%，揭示了大语言模型差异生成阶段的下游瓶颈。因此，尽管上游增益显著，整体解决率的提升幅度较小（16%对比12%）。这些发现表明通信架构是多智能体软件工程系统的重要设计维度，并提示只有当下游生成瓶颈得到解决时，上游信息质量的改进才能转化为任务层面的收益。"
+  },
+  {
+    "date": "2026-5-21",
+    "title": "PerfBench: Can Agents Resolve Real-World Performance Bugs?",
+    "authors": "Spandan Garg, Roshanak Zilouchian Moghaddam, Neel Sundaresan",
+    "publish": "Proceedings of the 2026 International Workshop on Agentic Engineering",
+    "url": "https://doi.org/10.1145/3786167.3788410",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PerfBench：智能体能否解决现实世界的性能缺陷？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-20",
+    "title": "From Large Language Models to Reasoning and Agents",
+    "authors": "Miroslaw Staron, Silvia Abrahão",
+    "publish": "IEEE Software",
+    "url": "https://doi.org/10.1109/ms.2026.3662034",
+    "source": "IEEE",
+    "abstract": "Software engineering is shifting from standalone large language models to reasoning-driven and agent-based systems. Drawing on ASE 2025 research, this column highlights how AI agents now test, debug, adapt, and explain software, making a transition toward more autonomous and observable AI-assisted development.",
+    "title_zh": "从大型语言模型到推理和智能体",
+    "abstract_zh": "软件工程正从独立的大型语言模型转向推理驱动和基于代理的系统。借鉴ASE 2025的研究，本专栏强调了AI代理如今如何测试、调试、适配和解释软件，推动着向更自主、更可观测的AI辅助开发模式转变。"
+  },
+  {
+    "date": "2026-5-20",
+    "title": "Source Code Vulnerability Detection and Personalized Password Recovery Tool",
+    "authors": "T Shyam Ganesh, T Vignesh, R Vasanthi",
+    "publish": "2026 International Conference on Smart Multidomain Integrated Learning Environments (ICSMILE)",
+    "url": "https://doi.org/10.1109/icsmile69273.2026.11519294",
+    "source": "IEEE",
+    "abstract": "The paper presents an intelligent machine learning-based security tool, which is used to process uploaded source code and detect possible vulnerabilities with the help of a feedforward neural network model. The system uses the method of token extraction, feature selection, model training and classification as the techniques of the system that are used to efficiently identify risky blocks of code. The application is trained on labelled datasets using a simple user interface and it helps developers and organisations to improve the security of their software by detecting flaws in real-time. Also, a password-recovery module is incorporated that provides possible passwords according to the keywords that were used in the past and typed in by the user. This project enhances cybersecurity, minimizes manual auditing, and allows identifying and addressing security vulnerabilities in time due to automatic password suggestions and vulnerability detection.",
+    "title_zh": "源代码漏洞检测与个性化密码恢复工具",
+    "abstract_zh": "本文提出了一种基于机器学习的智能安全工具，它通过前馈神经网络模型处理上传的源代码，以检测潜在的漏洞。该系统采用令牌提取、特征选择、模型训练和分类等流程技术，高效识别风险代码块。该应用程序在带标签的数据集上进行训练，并配备简洁的用户界面，帮助开发者和组织实时发现软件缺陷，从而提升软件安全性。此外，系统还集成了密码恢复模块，可根据用户过去使用及输入的关键词提供可能的密码。该项目增强了网络安全，减少了人工审计工作，并通过自动密码建议和漏洞检测，能够及时识别和解决安全漏洞。"
+  },
+  {
+    "date": "2026-5-20",
+    "title": "Bytecode-Level Ensemble Framework for V8 Vulnerability Detection in Regression Tests",
+    "authors": "Deepa Thilak K, Muhammed Sahal M N, Abdur Rahman",
+    "publish": "2026 3rd International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE)",
+    "url": "https://doi.org/10.1109/rmkmate69073.2026.11518585",
+    "source": "IEEE",
+    "abstract": "JavaScript engine vulnerabilities pose critical security risks to billions of web users, yet automated detection in regression test suites remains challenging due to high false-positive rates and limited semantic understanding of execution behavior. This paper presents a bytecode-level machine learning framework for vulnerability detection in V8 engine regression tests, extracting 41 interpretable features from Ignition bytecode including instruction diversity metrics, constant pool characteristics, and proximity-based semantic patterns. A soft-voting ensemble combining Random Forest and Gradient Boosting achieves 78.8% accuracy in balanced mode and–critically–94.1% precision at <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{1. 4 3 \\%}$</tex> FPR in low-noise triage mode, the operating point most relevant for CI deployment. The ensemble outperforms LSTM-based deep learning by 10.2 percentage points, while SHAP analysis confirms instruction diversity as the primary discriminative feature. The framework supports threshold-based deployment enabling automated prioritization of regression tests requiring manual security review.",
+    "title_zh": "用于回归测试中V8漏洞检测的字节码级集成框架",
+    "abstract_zh": "JavaScript引擎漏洞对数十亿网络用户构成严重安全风险，然而由于高误报率以及对执行行为的语义理解有限，在回归测试套件中实现自动化检测仍具挑战。本文提出一种基于字节码的机器学习框架，用于V8引擎回归测试的漏洞检测，从Ignition字节码中提取41个可解释特征，包括指令多样性指标、常量池特性以及基于临近性的语义模式。采用随机森林与梯度提升相结合的软投票集成方法，在均衡模式下实现了78.8%的准确率，而在低噪声分类模式（持续集成部署最相关的运行点）下，以<tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{1.43\\%}$</tex>的误报率取得了关键的94.1%精确率。该集成方法相比基于LSTM的深度学习提升了10.2个百分点，同时SHAP分析证实指令多样性是最具区分度的特征。该框架支持基于阈值的部署，能够自动优先安排需要人工安全审查的回归测试。"
+  },
+  {
+    "date": "2026-5-21",
+    "title": "Efficient RTL to GDSII Layout Implementation and Verification of UART Protocol Using SystemVerilog and OpenLane",
+    "authors": "Dhanavath Rajesh, Arvind Kumar",
+    "publish": "2026 International Conference on Intelligent Processing, Hardware, Electronics, and Radio Systems (CIPHER)",
+    "url": "https://doi.org/10.1109/cipher70417.2026.11524007",
+    "source": "IEEE",
+    "abstract": "This paper outlines the entire process of designing an ASIC for a Universal Asynchronous Receiver and Transmitter (UART), from RTL to GDSII layout. Yosys begins by creating a gate-level netlist using Verilog's RTL design. Functional verification is thoroughly examined using SystemVerilog testbenches to ensure that it is accurate at the RTL level. The OpenLane toolchain, which includes the OpenROAD application, is used to automate the process of floorplanning, placement, routing, and timing closure for the physical design. The paper goes into more detail about the most important design problems that were faced and talks about possible ways to make things even better. We show simulation results with waveform outputs from different testing scenarios, as well as backend results that show the physical layout and Quality of Results metrics, to prove that the process works effectively, validating the capabilities of the open-source EDA toolchain for producing production-ready ASIC layouts. The importance of each phase evaluated in the ASIC development life cycle is discussed in the concluding sections, along with potential terminology for relating the measurement of design performance and potential solutions for future work that aims to achieve an order of magnitude higher operating frequencies.",
+    "title_zh": "使用SystemVerilog和OpenLane的UART协议从RTL到GDSII版图的高效实现与验证",
+    "abstract_zh": "本文概述了从RTL到GDSII版图设计通用异步收发器（UART）专用集成电路（ASIC）的完整流程。Yosys首先利用Verilog的RTL设计创建门级网表。通过SystemVerilog测试平台对RTL级准确性进行详尽的功能验证。采用包含OpenROAD应用的OpenLane工具链，自动化完成物理设计的布局规划、布局、布线及时序收敛过程。论文详细阐述了设计过程中遇到的关键问题，并讨论了可能的优化方案。我们展示了不同测试场景下的波形仿真结果，以及体现物理版图和设计质量指标的后端结果，验证了该流程的有效性，并证实了开源EDA工具链具备生产级ASIC版图设计的能力。结论部分讨论了ASIC开发生命周期中各阶段的重要性，提出了用于衡量设计性能的潜在术语，以及为未来实现更高数量级工作频率而设想的解决方案。"
+  },
+  {
+    "date": "2026-5-20",
+    "title": "Scalable Energy-Aware Task Scheduling on Heterogeneous Voltage Frequency Islands: From Optimal ILP to Practical Heuristics with Real-World Validation",
+    "authors": "Sanchit, Sakshi, Maanas Singal, Dheeraj Kumar Dhaked, V.L. Narayanan, Jagpreet Singh",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3695239",
+    "source": "IEEE",
+    "abstract": "This paper presents a comprehensive approach to energy-efficient DAG scheduling on Voltage Frequency Islands (VFI) architectures, combining optimal Integer Linear Programming (ILP) formulation with a novel Energy-Aware List Scheduling with Dynamic Slot Reuse (EALS-DSR) heuristic. The work addresses the critical challenge of minimizing makespan and overall energy consumption through intelligent task allocation, voltage/frequency assignments, and scheduling optimization. Our contributions include: (1) a detailed ILP formulation with theoretical guarantees for optimal solutions, (2) the EALS-DSR heuristic providing near-optimal solutions with polynomial complexity O(n²p), (3) comprehensive experimental validation on LUD, FFT, and Random DAGs, and (4) real-world molecular dynamics simulation case study. To minimize makespan and overall energy consumption, a Directed Acyclic Graph (DAG) can be scheduled on voltage frequency islands by first splitting the available processing units into numerous islands with different voltage and frequency levels. This paper presents a comprehensive approach combining Integer Linear Programming (ILP) with a novel Energy-Aware List Scheduling with Dynamic Slot Reuse (EALS-DSR) heuristic. The proposed methodology includes four main components: (a) DAG modeling, (b) job allocation based on slots, (c) voltage/frequency assignments to each slot, and (d) scheduling optimization. We extend the original ILP formulation with theoretical analysis, comprehensive experimental validation, and real-world case studies including molecular dynamics simulation. Results demonstrate that the ILP approach improves performance by 10-24% over existing methods, while EALS-DSR achieves 15-25% energy savings with excellent scalability for large-scale problems. The molecular dynamics case study shows 37.4% energy reduction and 3.86× efficiency improvement, validating practical applicability.",
+    "title_zh": "异构电压频率岛上的可扩展能量感知任务调度：从最优整数线性规划到经实际验证的实用启发式算法",
+    "abstract_zh": "本文提出了一种面向电压频率岛（VFI）架构的能效DAG调度综合方法，将最优整数线性规划（ILP）公式与新颖的能量感知列表调度结合动态时隙重用（EALS-DSR）启发式算法相融合。该工作通过智能任务分配、电压/频率分配和调度优化，解决了最小化完工时间和整体能耗的关键挑战。我们的贡献包括：（1）具有最优解理论保证的详细ILP公式，（2）具有多项式复杂度O(n²p)的EALS-DSR启发式算法，能提供接近最优的解，（3）在LUD、FFT和随机DAG上进行的全面实验验证，以及（4）真实世界分子动力学模拟案例研究。为最小化完工时间和整体能耗，可将有向无环图（DAG）调度到电压频率岛上，首先将可用处理单元划分为多个具有不同电压和频率级别的岛。本文提出了一种综合方法，将整数线性规划（ILP）与新颖的能量感知列表调度结合动态时隙重用（EALS-DSR）启发式算法相结合。所提出的方法包括四个主要组成部分：（a）DAG建模，（b）基于时隙的作业分配，（c）每个时隙的电压/频率分配，以及（d）调度优化。我们对原始ILP公式进行了理论分析、全面实验验证以及包括分子动力学模拟在内的真实世界案例研究扩展。结果表明，ILP方法相比现有方法性能提升10-24%，而EALS-DSR在大型问题上实现了15-25%的能耗节省，并具有优异的可扩展性。分子动力学案例研究显示能耗降低37.4%，效率提升3.86倍，验证了实际应用可行性。"
+  },
+  {
+    "date": "2026-5-21",
+    "title": "Transistor-Level Optimization and Performance Analysis of a CMOS Op-Amp-Based Comparator for Biomedical Signals",
+    "authors": "Mansi Jain, P. P. Bansod, Rajesh Khatri, Disha Sharma, Mohit Kumar",
+    "publish": "2026 International Conference on Intelligent Processing, Hardware, Electronics, and Radio Systems (CIPHER)",
+    "url": "https://doi.org/10.1109/cipher70417.2026.11523800",
+    "source": "IEEE",
+    "abstract": "In this article, we introduce the design, simulation, and layout implementation of a two-stage CMOS operational amplifier employed as a comparator, using SCL 180 nm technology, targeting low-frequency biomedical applications. The design approach emphasizes transistor-level width and length optimization, aiming for an optimal balance between gain, stability, and power efficiency, keeping simplicity in design structure. The proposed design offers an impressive gain of 100 dB, ensuring proper detection of low-amplitude differential signals, and boasts an exceptional phase margin of 179°, verifying extremely stable operation, irrespective of oscillation and noise effects. Transient analysis verifies proper operation of the proposed comparator design, while a mere measured peak transient power of 1.955 µW verifies its compatibility for implementation in power-restricted biomedical applications. The proposed design has been implemented at the layout level employing standard CMOS layout design principles, verifying DRC and LVS checks, ensuring proper correlation of the layout layout and technology consistency. The results obtained verify the efficacy of our proposed approach, and it proves that our proposed design qualifies as an apt, stable, and energy-efficient candidate for biomedical analog front-end circuits and process for evaluation.",
+    "title_zh": "用于生物医学信号的基于CMOS运算放大器的比较器的晶体管级优化与性能分析",
+    "abstract_zh": "本文介绍了采用SCL 180纳米工艺、面向低频生物医学应用的两级CMOS运算放大器（用作比较器）的设计、仿真与版图实现。该设计方法侧重于晶体管级宽长比优化，旨在兼顾增益、稳定性与能效，同时保持设计结构的简洁性。所提出的设计实现了100 dB的卓越增益，确保能够准确检测低幅度差分信号，并拥有179°的优异相位裕度，验证了其无论面对振荡还是噪声影响均能保持超稳定运行。瞬态分析验证了所提比较器设计的正常功能，而仅1.955 µW的瞬态峰值功耗测量值则证实了其在功耗受限的生物医学应用中的兼容性。该设计采用标准CMOS版图设计原则在版图层面实现，通过了DRC和LVS检查，确保了版图与工艺的一致性和正确关联。所得结果验证了我们所提方法的有效性，并证明该设计符合生物医学模拟前端电路及工艺评估对适用性、稳定性和能效的要求。"
+  },
+  {
+    "date": "2026-5-21",
+    "title": "Low Power Testing: A Study of Power Aware Test Insertion Techniques",
+    "authors": "Atharva Yawalkar, Vrinda Gupta",
+    "publish": "2026 International Conference on Intelligent Processing, Hardware, Electronics, and Radio Systems (CIPHER)",
+    "url": "https://doi.org/10.1109/cipher70417.2026.11523819",
+    "source": "IEEE",
+    "abstract": "Research on low-power in semiconductor design has always been fascinating. The chip density has significantly increased as fabrication technology has developed and moved towards smaller nano meter (nm) technologies. Testing them presents an additional constraint for the design for test (DFT) design. DFT adds a 5-20% area overhead in comparison to the chip's core functional circuitry. In digital circuits, testability logic is just as significant as functional logic. Thus, optimizing DFT circuitry can help solve the issue of controlling power consumption in digital circuits. This paper discusses various advances in power-aware DFT insertion methods like unified power format (UPF), based designs, efficient scan mapping, and various tradeoffs between compression ratio, chain length, and test time affecting Power-Performance- Area (PPA) of the integrated circuit.",
+    "title_zh": "低功耗测试：功耗感知测试插入技术研究",
+    "abstract_zh": "半导体设计中的低功耗研究一直备受关注。随着制造工艺向更小纳米级技术发展，芯片密度显著提升，这给可测试性设计（DFT）带来了额外约束。相比芯片核心功能电路，DFT会引入5%-20%的面积开销。在数字电路中，可测试性逻辑与功能逻辑同等重要。因此，优化DFT电路有助于解决数字电路的功耗控制问题。本文探讨了功耗感知型DFT插入方法的多项进展，包括基于统一功耗格式（UPF）的设计、高效扫描映射，以及压缩率、链长和测试时间之间影响集成电路功耗-性能-面积（PPA）的各种权衡。"
+  }
+]
