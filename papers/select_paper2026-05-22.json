@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2026-5-23",
+    "title": "OLTL: An Optimization Extension of Linear Temporal Logic",
+    "authors": "Mohammad Mehdi Pourhashem Kallehbasti, Matteo Rossi (SI GE)",
+    "publish": "Formal Aspects of Computing",
+    "url": "https://doi.org/10.1145/3812533",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "OLTL：线性时序逻辑的优化扩展",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Willful Disobedience: Automatically Detecting Failures in Agentic Traces",
+    "authors": "Reshabh K Sharma, Shraddha Barke, Benjamin Zorn",
+    "publish": "Proceedings of the ACM Conference on AI and Agentic Systems",
+    "url": "https://doi.org/10.1145/3786335.3813153",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "故意不服从：自动检测智能体轨迹中的故障",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Carbon-I: Expanding the Frontiers of Carbon Cycle Science",
+    "authors": "Andrew K. Thorpe, Christian Frankenberg, Yunjin Kim, William E. Frazier, Timothy M. Linn, Lockheed Martin, Anna M. Michalak, Valerie J. Scott, Sharmila Padmanabhan, K. Dana Chadwick, Philip G. Brodrick, David R. Thompson, Robert O. Green, Matthew W. Smith, Christine L. Bradley",
+    "publish": "2026 IEEE Aerospace Conference",
+    "url": "https://doi.org/10.1109/aero66936.2026.11519899",
+    "source": "IEEE",
+    "abstract": "Earth's dynamic carbon cycle-unique among known planets—drives the growth of our food, sustains the oxygen we breathe, and generated the fossil fuels that powered the Industrial Revolution. The Carbon Investigation (Carbon-I) mission provides unprecedented clarity on this vital cycle by delivering high-resolution measurements of the main carbon-bearing molecules in the atmosphere: methane <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\left(\\text{CH}_{4}\\right)$</tex>, carbon dioxide <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\left(\\text{CO}_{2}\\right)$</tex>, and carbon monoxide (CO). Carbon-I directly addresses multiple NASA Decadal Survey objectives by closing the tropical data gap, focusing on natural emission sources (wetlands, permafrost, agriculture), measuring fire emissions, and providing robust source attribution across scales. The Carbon-I instrument builds on more than 40 years of imaging spectrometer technology development at the Jet Propulsion Laboratory. This Dyson imaging spectrometer provides a <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\sim 100 ~\\text{km}$</tex> swath that delivers monthly global land coverage at <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\leq 400 ~\\mathrm{m}$</tex> with <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\sim 10$</tex> times finer sampling for high-priority areas. This spatial detail is combined with high-resolution atmospheric spectroscopy in the <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$2.04-2.37 \\mu ~\\mathrm{m}$</tex> shortwave infrared range to capture absorption lines of <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\text{CH}_{4}, \\text{CO}_{2}, \\text{CO}$</tex>, and <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathrm{N}_{2} \\mathrm{O}$</tex> (nitrous oxide) at a 0.7 nm spectral sampling interval combined with a spectral response function of <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\leq 2.5 ~\\text{nm}$</tex> full width at half maximum. This ensures unambiguous discrimination of gas absorption lines and clear separation from surface albedo variations. Carbon-I is a NASA Earth System Explorer Mission Step 2 concept. The Carbon-I instrument flies on the LM400 bus, a proven midsized spacecraft architecture with significant flight heritage for all subsystems and components, including three-axis stabilization and low-jitter capabilities for high spatial sampling science needs. The payload data processor transmitter stores up to 8 Tbit of data, which is downlinked via a commercial Ka-band communication network, providing 1.46 Tb daily data <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$(\\geq 100$</tex> million spectra per day). Carbon-I delivers actionable trace gas results at the local to regional scale to a diverse set of stakeholders and scientific communities. Beyond its core objectives, Carbon-I also contributes to water-cycle research by measuring <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathrm{H}_{2} \\mathrm{O} / \\text{HDO}$</tex> to quantify evapotranspiration and study tropical land-atmosphere interactions. A Science Enhancement Option expands Carbon-I's scope to enhanced geologic mapping (critical minerals and rare earth elements), vegetation health (lignocellulose features for fire risk), and pollution monitoring (agricultural plastics, oil spills).",
+    "title_zh": "Carbon-I: 拓展碳循环科学的前沿",
+    "abstract_zh": "地球动态的碳循环——在已知行星中独一无二——推动着我们的食物生长，维持着我们呼吸的氧气，并产生了推动工业革命的化石燃料。碳探测任务（Carbon-I）通过高分辨率测量大气中的主要含碳分子——甲烷（\\(\\text{CH}_{4}\\)）、二氧化碳（\\(\\text{CO}_{2}\\)）和一氧化碳（CO），为这一关键循环提供了前所未有的清晰认识。Carbon-I直接响应了NASA十年调查的多项目标：填补热带数据空白，聚焦自然排放源（湿地、永久冻土、农业），测量火灾排放，并提供跨尺度的可靠源归因。Carbon-I仪器基于喷气推进实验室40多年的成像光谱仪技术发展而来。这款Dyson成像光谱仪提供约100公里的幅宽，实现每月全球陆地覆盖，分辨率≤400米，并对高优先级区域进行约10倍更精细的采样。这一空间细节与2.04-2.37微米短波红外范围内的高分辨率大气光谱学相结合，以0.7纳米光谱采样间隔和≤2.5纳米半高全宽的光谱响应函数，捕捉\\(\\text{CH}_{4}\\)、\\(\\text{CO}_{2}\\)、CO和\\(\\text{N}_{2}\\text{O}\\)（一氧化二氮）的吸收线。这确保了气体吸收线的明确分辨以及与地表反照率变化的清晰分离。Carbon-I是NASA地球系统探测器任务第二步的概念。Carbon-I仪器搭载于LM400卫星平台，这是一种成熟的中型航天器架构，其所有子系统及组件均具备丰富的飞行历史，包括满足高空间采样科学需求的三轴稳定和低抖动能力。有效载荷数据处理发射器可存储高达8太比特的数据，并通过商业Ka波段通信网络下行，每日提供1.46太比特的数据（每天≥1亿条光谱）。Carbon-I为多样化的利益相关者和科学界提供从局地到区域尺度的可操作痕量气体结果。除核心目标外，Carbon-I还通过测量\\(\\text{H}_{2}\\text{O}/\\text{HDO}\\)来量化蒸散发并研究热带陆-气相互作用，从而为水循环研究做出贡献。一项科学增强选项将Carbon-I的范围扩展至增强地质测绘（关键矿产和稀土元素）、植被健康（用于火灾风险的木质纤维素特征）以及污染监测（农业塑料、石油泄漏）。"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "When Harmful Intent Dissolves into Technical Detail: How Safe Are Coding Agents Against Cyber Misuse?",
+    "authors": "Xiangzhe Xu, Shiwei Feng, Guangyu Shen, Xiangyu Zhang",
+    "publish": "Proceedings of the ACM Conference on AI and Agentic Systems",
+    "url": "https://doi.org/10.1145/3786335.3813176",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当有害意图消解为技术细节：编码代理在抵御网络滥用方面有多安全？",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "Mapping NVD Records to Their Vulnerability-fixing Commits: How Hard is It?",
+    "authors": "Huu Hung Nguyen, Ting Zhang, Duc Manh Tran, Yiran Cheng, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Shar Lwin Khin, Ouh Eng Lieh, David Lo",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817046",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "将NVD记录映射到其修复漏洞的提交：这有多难？",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Automated Repair of Alloy Specifications in the Era of Large Language Models_supp1-3682711.pdf",
+    "authors": "Hamid Bagheri",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tse.2026.3682711/mm1",
+    "source": "IEEE",
+    "abstract": "The growing adoption of declarative software specification languages, coupled with their inherent difficulty in debugging, has underscored the need for effective and automated repair techniques applicable to such languages. Researchers have recently explored various methods to automatically repair declarative software specifications, such as template-based repair, feedback-driven iterative repair, and bounded exhaustive approaches. The latest developments in Large Language Models (LLMs) provide newopportunities for the automatic repair of declarative specifications. In this study, we assess the effectiveness of utilizing different LLMs to repair software specifications written in the Alloy declarative language. Unlike imperative languages, specifications in Alloy are not executed but rather translated into logical formulas and evaluated using backend constraint solvers to identify specification instances and counterexamples to assertions. Our evaluation focuses on LLMs’ ability to improve the correctness and completeness of Alloy declarative specifications through automatic repairs. We analyze the results produced by each LLM and compare them with those of leading automatic Alloy repair methods. Our study revealed that while LLMs fall short in comparison to existing techniques in many cases, they were able to successfully repair bugs that no other technique could address. Our analysis also identified errors in LLM-generated repairs, including constraint-related issues (over-constraint and under-constraint), quantifier logic errors, boolean operator misuse, binary relation mismatches, and syntax structure violations. Additionally, we observed instances of hallucinations in LLM-generated repairs and inconsistencies in their results in certain cases. Our study provides valuable insights for software practitioners, researchers, and tool builders considering LLMs for declarative specification repairs.",
+    "title_zh": "大型语言模型时代下的Alloy规范自动修复_supp1-3682711.pdf",
+    "abstract_zh": "随着声明式软件规范语言的日益普及，加上其固有的调试难度，凸显了对此类语言有效且自动化修复技术的需求。研究人员近期探索了多种自动修复声明式软件规范的方法，例如基于模板的修复、反馈驱动的迭代修复以及有界穷举方法。大型语言模型（LLM）的最新发展为声明式规范的自动修复带来了新的机遇。在本研究中，我们评估了利用不同LLM修复用Alloy声明式语言编写的软件规范的有效性。与命令式语言不同，Alloy中的规范并不执行，而是被转换为逻辑公式，并通过后端约束求解器进行评估，以识别规范实例和断言的反例。我们的评估侧重于LLM通过自动修复提升Alloy声明式规范正确性和完整性的能力。我们分析了每个LLM生成的结果，并将其与领先的自动Alloy修复方法进行了比较。研究表明，尽管LLM在许多情况下不如现有技术，但它们成功修复了其他技术无法处理的缺陷。我们的分析还指出了LLM生成修复中的错误，包括约束相关问题（过度约束和欠约束）、量词逻辑错误、布尔运算符误用、二元关系不匹配以及语法结构违规。此外，我们观察到LLM生成的修复中存在幻觉现象，并且在某些情况下其结果不一致。本研究为考虑使用LLM进行声明式规范修复的软件从业者、研究人员和工具构建者提供了宝贵的见解。"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "A Mixed-Method Study of Hot Fixing in Industry: Practices, Bottlenecks, and Opportunities",
+    "authors": "Carol Hanna, David Elliman, Wolfgang Emmerich, Federica Sarro, Justyna Petke",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816247",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "工业热修复的混合方法研究：实践、瓶颈与机遇",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "SecuGRC: A Machine Learning Secure SDLC Code Compliance Auditor Based on Governance Framework Mapping",
+    "authors": "Harshini T.V, Adina Auldwin Paul, B. Uma Maheswari",
+    "publish": "2026 4th International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+    "url": "https://doi.org/10.1109/aimla67915.2026.11522274",
+    "source": "IEEE",
+    "abstract": "Access authorization failures continue to be a leading source of security failures in enterprises, often because of the disconnect between the officially stated access control policies and their real-world implementation. Traditional Role-Based Access Control audit and checklist-based compliance verification methods do not offer detailed visibility of attribute level breaches and incident based policy deviation. The research paper presents an incident based Attribute-Based Access Control (ABAC) policy auditing and compliance validation model that is aimed at reinforcing safe Software Development Life Cycle governance by formal representation of each access request in terms of subject, object, action and contextual environment parameters, and then by deterministic rule assessment with regard to pre-defined ABAC policy constraints and IT General Control mappings. Access attributes based on incidents are methodically matched with organizational definitions of control to reveal overprivileges, unfinished policy restrictions and inconsistencies in control and policy disparities. To prioritize access violations on the attribute level, a quantified policy deviation severity index is computed. Remediation advice and traceability matrix between incidents, attributes, and access policies and governance controls are automatically produced and meet audit compliance criteria and 94.6 % policy gap detection and 92.1 % remediation recommendation accuracy with experimental validation against enterprise-scale synthetic access datasets. The outcome of the evaluation proves that audit transparency is improved, access governance visibility is improved, and regulatory interpretability is improved in contrast to the use of RBAC-based compliance validation methods. Results prove incident-based ABAC policy auditing to be a powerful, regulator-congruent tool of diminishing access control risk in secure SDLC settings.",
+    "title_zh": "SecuGRC：一种基于治理框架映射的机器学习安全的SDLC代码合规审计工具",
+    "abstract_zh": "未授权访问失败仍然是企业安全故障的主要原因，这通常源于官方声明的访问控制策略与其实际实施之间的脱节。传统的基于角色的访问控制审计和基于检查表的合规性验证方法无法提供属性级别违规和基于事件的策略偏差的详细可视性。本研究论文提出了一种基于事件的属性基访问控制（ABAC）策略审计与合规性验证模型，旨在通过以主体、对象、操作和上下文环境参数的形式正式表示每个访问请求，并基于预定义的ABAC策略约束和IT通用控制映射进行确定性规则评估，从而加强安全软件开发生命周期治理。基于事件的访问属性被系统地与组织定义的控制进行匹配，以揭示过度权限、未完成的策略限制以及控制与策略差异中的不一致性。为了在属性级别对访问违规进行优先级排序，计算了量化的策略偏差严重性指数。自动生成事件、属性、访问策略与治理控制之间的补救建议和可追溯性矩阵，满足审计合规标准，并通过企业级合成访问数据集的实验验证实现了94.6%的策略差距检测准确率和92.1%的补救建议准确率。评估结果表明，与基于RBAC的合规性验证方法相比，审计透明度、访问治理可见性和监管可解释性均得到提升。结果证明，基于事件的ABAC策略审计是在安全SDLC环境中降低访问控制风险的一个强大且符合监管要求的工具。"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Automatically Learning Skills for Coding Agents",
+    "authors": "Shangyin Tan, Lakshya A Agrawal, Rohit Sandadi, Dan Klein, Koushik Sen, Alexandros G. Dimakis, Matei Zaharia",
+    "publish": "Proceedings of the ACM Conference on AI and Agentic Systems",
+    "url": "https://doi.org/10.1145/3786335.3813196",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向编程智能体的自动技能学习",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Composing Policy Gradients and Prompt Optimization for Language Model Programs",
+    "authors": "Noah Ziems, Dilara Soylu, Lakshya A Agrawal, Isaac Miller, Liheng Lai, Chen Qian, Kaiqiang Song, Meng Jiang, Dan Klein, Matei Zaharia, Karel D’Oosterlinck, Christopher Potts, Omar Khattab",
+    "publish": "Proceedings of the ACM Conference on AI and Agentic Systems",
+    "url": "https://doi.org/10.1145/3786335.3813164",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "组合策略梯度与提示优化用于语言模型程序",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "The Self-Healing Software Organism: an Evolutionary Runtime Defense Framework for Autonomous Regeneration",
+    "authors": "Mohammed Ishaque, Zainab Siddiqui, Mashael Hassan Alzahrani, Hanin Mohammed Almqdashi",
+    "publish": "2026 International Conference on AI Innovations and Industry (ICAIII)",
+    "url": "https://doi.org/10.1109/icaiii69475.2026.11521300",
+    "source": "IEEE",
+    "abstract": "Modern cyberattacks increasingly exploit the static and predictable structure of software systems. Traditional intrusion detection systems (IDS) detect anomalies but cannot autonomously regenerate or reconfigure software during execution, leaving long windows of exposure between detection and patch deployment. This paper introduces the Self-Healing Software Organism (SHSO), a biologically inspired, AI-driven runtime defense framework that shifts the paradigm from passive intrusion detection to autonomous regeneration. SHSO continuously generates and maintains a pool of functionally equivalent but syntactically diverse digital alleles, validated in a micro-sandbox before being deployed in a live system. Upon detecting a successful or imminent exploit, SHSO performs an online allele swap, altering the memory layout, control-flow graph, and API invocation sequences, thereby invalidating the attacker's assumptions. A reinforcement learning (RL) module learns an optimal policy for allele selection that balances security gains against performance overhead and stability constraints. Using experimental results, we illustrate that SHSO can reduce exploit success rates by up to 66 %, shorten exploit retention time by 63.4 %, and maintain runtime overhead below 4.1 %. This work opens a pathway toward evolutionary, self-adaptive software defense mechanisms suitable for smart cities, cyberphysical systems, and future cognitive infrastructures.",
+    "title_zh": "自愈软件有机体：一种面向自主再生的进化运行时防御框架",
+    "abstract_zh": "现代网络攻击日益利用软件系统静态且可预测的结构。传统入侵检测系统（IDS）能够检测异常，但无法在执行过程中自主再生或重构软件，从而在检测与补丁部署之间留下漫长的暴露窗口。本文提出了自愈软件有机体（SHSO），一种受生物学启发、基于AI的运行时防御框架，将被动入侵检测范式转变为自主再生。SHSO持续生成并维护一个功能等价但语法多样的数字等位基因池，这些等位基因在微沙盒中验证后方可部署至实时系统。一旦检测到成功或即将发生的攻击，SHSO便执行在线等位基因切换，改变内存布局、控制流图和API调用序列，从而使攻击者的假设失效。强化学习模块学习最优等位基因选择策略，以平衡安全增益与性能开销及稳定性约束。实验结果表明，SHSO可将攻击成功率降低高达66%，缩短攻击驻留时间63.4%，并维持运行时开销低于4.1%。这项工作为适用于智慧城市、网络物理系统及未来认知基础设施的进化型自适应软件防御机制开辟了新路径。"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Grey Wolf Optimization Enhanced Random Forest Framework for LLM Software Defect Prediction",
+    "authors": "D R Medhunhashini, B Varun, J Ramkumar, V Valarmathi, R Karthikeyan, R K Kavitha",
+    "publish": "2026 International Conference on Current Trends in Advanced Computing (ICCTAC)",
+    "url": "https://doi.org/10.1109/icctac68277.2026.11524570",
+    "source": "IEEE",
+    "abstract": "Software Defect Prediction in Large Language Models (LLMs) has become significant area to have an impressive ability in understanding the natural language generation. The models do give flawed results in the form of hallucinations, factual errors and logical contradictions, however, they stand to question the use of these models in critical formulations. Contrary to conventional software defect prediction, there is little data on the systematic detection of defects in LLM outputs. In this paper we present an innovative solution of the LLM Defect Prediction (GWOEnRF) framework based on the Optimization-based solution to the problem of detecting defective outputs of LLMs. The defect repository is built on benchmark data whose ground-truth solutions are known, and errors on the part of the LLM in their responses are considered defects. Prompt and response semantic embeddings are obtained and optimized though the Grey Wolf Optimization algorithm on the classifier parameter tuning problem. The experimental findings indicate that the suggested framework is much better at detecting defects than the non-optimized baselines. The research work leads to the increase of the credibility and reliability of large language models.",
+    "title_zh": "灰狼优化增强的随机森林框架用于LLM软件缺陷预测",
+    "abstract_zh": "大型语言模型（LLM）中的软件缺陷预测已成为一个重要的研究领域，这些模型在理解自然语言生成方面展现出令人印象深刻的能力。然而，模型会以幻觉、事实性错误和逻辑矛盾的形式产生有缺陷的结果，这对其在关键应用中的使用提出了质疑。与传统的软件缺陷预测不同，关于系统检测LLM输出缺陷的数据很少。本文提出了一种基于优化的创新解决方案——LLM缺陷预测框架（GWOEnRF），用于检测LLM的有缺陷输出。缺陷库建立在已知真实解决方案的基准数据上，LLM在响应中出现的错误被视为缺陷。通过灰狼优化算法对分类器参数调优问题进行处理，获取并优化提示和响应的语义嵌入。实验结果表明，所提出的框架在检测缺陷方面远优于未优化的基线方法。该研究工作有助于提高大型语言模型的可信度和可靠性。"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Agent 4: Teamwork and Collaboration for Vibe-Coding",
+    "authors": "Peter Yong Zhong, Jacky Zhao, Edouard Sioufi, James Austin, Brian Pool, Luis Héctor Chávez, Adi Dahiya, William Ernst, Dawei Feng, Daniel Ryan Furman, Devin Halladay, Toby Ho, Zade Kaylani, Imen Kedir, Vaibhav Kumar, Zhen Li, Haya Odeh, Nicholas Ondo, Darsh Patel, Alec Wang, Jordan Walke, Poorva Potnis, Ibrahim Sheikh, Michele Catasta",
+    "publish": "Proceedings of the ACM Conference on AI and Agentic Systems",
+    "url": "https://doi.org/10.1145/3786335.3813211",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "智能体4：团队协作与氛围编程",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Adaptive Shell Scripting with Quine Programs and Large Language Models",
+    "authors": "Ali Mohammad Saghiri",
+    "publish": "2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS)",
+    "url": "https://doi.org/10.1109/iccraids67816.2026.11519702",
+    "source": "IEEE",
+    "abstract": "Traditional shell scripts require manual maintenance as environments evolve, consuming a substantial fraction of scripting effort. We present an adaptive shell scripting framework that combines Quine-inspired self-modifying code with Large Language Models (LLMs) to enable autonomous script evolution. Our algorithm separates a stable core from an evolvable payload, and validates candidate updates through a multi-stage safety pipeline including syntactic checks, sandboxed semantic tests, and explicit policy validation. We evaluate the framework using Monte Carlo simulation to model realistic administrator behavior in enterprise environments across a set of representative environmental drift scenarios. The results show a clear reduction in manual intervention and high autonomous success on simple-to-moderate single-script changes, while conservatively rejecting unsafe or non-compliant patches through deterministic safety gates. Prompt-template isolation and observation sanitization are implemented; cryptographic integrity of telemetry (e.g., HMAC-signed logs) is recommended hardening for deployments where log tampering is in scope. We also identify a boundary case: complex multi-artifact reconfigurations (e.g., network changes requiring coordinated updates across multiple scripts) remain outside the current single-script scope, motivating a transactional change-set extension with integration invariants. To the best of our knowledge, prior work does not provide an end-to-end framework combining Quine-inspired self-modification, LLM patch proposal, and enforceable multi-stage safety verification for production shell scripting.",
+    "title_zh": "结合Quine程序与大型语言模型的自适应Shell脚本编写",
+    "abstract_zh": "传统的 shell 脚本在环境演变过程中需要人工维护，这耗费了大量脚本开发精力。我们提出了一种自适应 shell 脚本框架，它将受 Quine 启发的自修改代码与大型语言模型相结合，以实现脚本的自主演化。我们的算法将稳定的核心部分与可演化的载荷部分分离，并通过多阶段安全管道（包括语法检查、沙盒语义测试和明确的策略验证）来验证候选更新。我们使用蒙特卡洛模拟进行评估，模拟企业环境中典型的管理员行为，涵盖一系列具有代表性的环境漂移场景。结果表明，对于简单到中等复杂度的单脚本变更，人工干预显著减少，自主成功率较高；同时，通过确定性安全门控，算法能够保守地拒绝不安全或不合规的补丁。我们实现了提示模板隔离和观测数据净化；在需要防范日志篡改的部署场景中，建议对遥测数据（例如 HMAC 签名日志）进行加密完整性加固。我们还识别出一个边界情况：复杂的多工件重配置（例如需要跨多个脚本协调更新的网络变更）目前超出了单脚本范围，这激发了我们进一步开发集成不变量的交易式变更集扩展。据我们所知，现有工作尚未提供能够将受 Quine 启发的自修改、LLM 补丁提议与可强制执行的多阶段安全验证相结合的生产级 shell 脚本端到端框架。"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Accelerating the Pre-Silicon Functional Verification Value Ramp Using Aspect Oriented Development",
+    "authors": "Hamilton Carter",
+    "publish": "2026 IEEE Aerospace Conference",
+    "url": "https://doi.org/10.1109/aero66936.2026.11520162",
+    "source": "IEEE",
+    "abstract": "In object-oriented verification methodologies like the Universal Verification Methodology, (UVM), where every checker object is run against the design for every test case-there is a high price to pay for frequent check-ins of new or modified verification code: a single flawed checker can bring down an entire regression causing 1000s of test cases to report false negative failures. These massive false-negative incidents are costly in two ways, first, we lose valuable coverage that could have been gained if the constrained random test cases had not erroneously failed, (typically, coverage is only collected from passing test cases.) Second, new, real bugs-surrounded by 1000s of false failures-may be masked or simply ignored. Therefore, the desire to simulate new verification code against a DUT is tempered by the desire not to ruin the existing verification test bench and its associated regression data. This creates a tug of war that can lead to long smoke tests and code review processes that retard the rate at which verification value can be added. We demonstrate a novel development process with three advantages: 1.It significantly reduces verification coding to regression delivery time allowing new test cases and new checkers to be released into regression rapidly. 2.It guarantees there will be no regression-wide false negative failures as a result of the newly released code. 3.It accelerates the speed at which new engineers can be productively added to a verification project. Our novel methodology leverages a programming paradigm defined in the 1970s, but seldom used: aspect-oriented programming, (AOP). We first review the concepts of AOP demonstrating that these concepts-extending multiple classes to add new or modified layers of functionality to the test bench-can be easily implemented using SystemVerilog and the UVM factory pattern. We then review the object-oriented UVM framework paying particular attention to classes that need to be created or modified to implement a checker for an unverified design feature along with the stimulus necessary to exercise that feature. We outline how to deploy aspect-oriented techniques using the UVM factory pattern to insulate the existing verification test bench from new development while allowing the newly developed code to utilize and benefit from the features of the existing test bench. Then, we discuss how the organization inherent in AOP accelerates the learning curve faced by new engineers entering a verification project. In the paper's final section, we briefly review both the implementation and benefits of the process and discuss other avenues where it can be efficiently deployed.",
+    "title_zh": "采用面向方面开发加速硅前功能验证的价值提升",
+    "abstract_zh": "在诸如通用验证方法论（UVM）等面向对象验证方法中，每个检查器对象都需要针对每个测试用例对设计进行运行——这意味着频繁提交新的或修改过的验证代码需要付出高昂代价：一个存在缺陷的检查器就可能拖垮整个回归测试，导致数千个测试用例报告假阴性失败。这些大规模的假阴性事件在两个方面代价高昂：首先，我们失去了本应通过约束随机测试用例（如果它们没有错误失败的话）获得的有价值覆盖率（通常覆盖率仅从通过的测试用例中收集）；其次，被数千个假失败包围的新真实缺陷可能被掩盖或直接被忽略。因此，对设计进行新验证代码仿真的愿望，与不破坏现有验证测试平台及其相关回归数据的愿望相互牵制。这引发了一场拉锯战，可能导致漫长的冒烟测试和代码审查流程，从而减缓验证价值的增加速度。我们展示了一种新颖的开发流程，具有三大优势：1. 显著缩短从验证编码到回归交付的时间，使新测试用例和新检查器能够快速发布到回归测试中；2. 保证新发布的代码不会导致整个回归测试出现假阴性失败；3. 加速新工程师高效加入验证项目的进程。我们的新颖方法利用了70年代定义但很少使用的编程范式：面向方面编程（AOP）。我们首先回顾AOP的概念，证明这些概念——扩展多个类以向测试平台添加新的或修改的功能层——可以轻松通过SystemVerilog和UVM工厂模式实现。然后，我们回顾面向对象的UVM框架，特别关注需要创建或修改的类，以便为未验证的设计特性实现检查器，以及驱动该特性所需的激励。我们概述如何使用UVM工厂模式部署面向方面技术，将现有验证测试平台与新开发隔离，同时允许新开发代码利用并从现有测试平台的特性中受益。接着，我们讨论AOP固有的组织方式如何加速新工程师进入验证项目时的学习曲线。在论文的最后部分，我们简要回顾该流程的实施和优势，并探讨可以高效部署的其他途径。"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Vista: Verifier-in-the-Loop Agentic Reinforcement Learning for Quantum Program Synthesis",
+    "authors": "Cong Yu, Tuo Shi, Valter Uotila, Shilong Deng, Lei You, Bo Zhao",
+    "publish": "Proceedings of the ACM Conference on AI and Agentic Systems",
+    "url": "https://doi.org/10.1145/3786335.3813148",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "Vista：用于量子程序合成的验证器在环智能体强化学习",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "ASP-DAC 2026: Strengthening Asia’s Expanding Role in Design Automation Research",
+    "authors": "Tsung-Yi Ho, Seokhyeong Kang, Takashi Sato",
+    "publish": "IEEE Design &amp; Test",
+    "url": "https://doi.org/10.1109/mdat.2026.3677144",
+    "source": "IEEE",
+    "abstract": "The 31st Asia and South Pacific Design Automation Conference (ASP-DAC 2026) was held on 19--22 January 2026, at the Hong Kong Disneyland Hotel. As the premier international forum for electronic design automation (EDA) and VLSI systems research in the Asia and South Pacific region, ASPDAC continues to play a critical role in advancing methodologies that span from device technologies to system-level design.",
+    "title_zh": "ASP-DAC 2026：强化亚洲在设计自动化研究中日益扩大的角色",
+    "abstract_zh": "第31届亚洲及南太平洋设计自动化会议（ASP-DAC 2026）于2026年1月19日至22日在香港迪士尼乐园酒店举行。作为亚洲及南太平洋地区电子设计自动化（EDA）与VLSI系统研究领域首屈一指的国际论坛，ASP-DAC在推动从器件技术到系统级设计的方法学演进中持续发挥关键作用。"
+  },
+  {
+    "date": "2026-5-22",
+    "title": "Design and Verification of a One-to-Three Routing Module for On-Chip Communication",
+    "authors": "Sri Bharani Kumar S, Poovarasan R",
+    "publish": "2026 4th International Conference on Artificial Intelligence and Machine Learning Applications Theme: Healthcare and Internet of Things (AIMLA)",
+    "url": "https://doi.org/10.1109/aimla67915.2026.11522313",
+    "source": "IEEE",
+    "abstract": "Design and Verification of a One-to-Three Routing Module for On-Chip Communication presents the development of a compact router architecture in Verilog HDL, highlighting its design, implementation, and verification aspects. The router integrates input registers, address based routing logic, FIFO buffers, and a finite state machine to manage control and synchronization. A self-checking testbench developed in Xilinx validates the design under multiple scenarios, including directed and random packet injection, buffer overflow, and corner case handling. Simulation results demonstrate low latency, high throughput, and reliable packet delivery, confirming that the proposed router meets performance and scalability requirements for modern System on Chip and Network on Chip applications.",
+    "title_zh": "片上通信中一对三路由模块的设计与验证",
+    "abstract_zh": "该文介绍了用于片上通信的一对三路由模块的设计与验证，详细阐述了其在Verilog HDL中的紧凑型路由器架构、设计实现及验证要点。该路由器集成了输入寄存器、基于地址的路由逻辑、FIFO缓冲器以及用于控制与同步的有限状态机。基于Xilinx平台开发的自检测试平台在多种场景下对设计进行了验证，包括定向与随机数据包注入、缓冲区溢出及边界情况处理。仿真结果表明，该路由器具有低延迟、高吞吐量和可靠的数据包传输能力，证实其能够满足现代片上系统（SoC）与片上网络（NoC）应用对性能及可扩展性的要求。"
+  }
+]
