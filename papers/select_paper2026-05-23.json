@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-5-23",
+    "title": "OLTL: An Optimization Extension of Linear Temporal Logic",
+    "authors": "Mohammad Mehdi Pourhashem Kallehbasti, Matteo Rossi (SI GE)",
+    "publish": "Formal Aspects of Computing",
+    "url": "https://doi.org/10.1145/3812533",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "OLTL：线性时序逻辑的优化扩展",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "Mapping NVD Records to Their Vulnerability-fixing Commits: How Hard is It?",
+    "authors": "Huu Hung Nguyen, Ting Zhang, Duc Manh Tran, Yiran Cheng, Thanh Le-Cong, Hong Jin Kang, Ratnadira Widyasari, Shar Lwin Khin, Ouh Eng Lieh, David Lo",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817046",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "将NVD记录映射到其漏洞修复提交：这有多难？",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "A Mixed-Method Study of Hot Fixing in Industry: Practices, Bottlenecks, and Opportunities",
+    "authors": "Carol Hanna, David Elliman, Wolfgang Emmerich, Federica Sarro, Justyna Petke",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816247",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "业界热修复的混合方法研究：实践、瓶颈与机遇",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "Coma, an Intermediate Verification Language with Explicit Abstraction Barriers",
+    "authors": "Andrei Paskevich, Paul Patault, Jean-Christophe Filliâtre",
+    "publish": "ACM Transactions on Programming Languages and Systems",
+    "url": "https://doi.org/10.1145/3816735",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "Coma，一种具有显式抽象屏障的中间验证语言",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "Beyond Functional Correctness: A Knowledge-Enhanced Iterative Framework for Generating Criteria-Compliant Code",
+    "authors": "Yating Zhang, Wei Dong, Shangwen Wang, Jing Zhang, Siyu Zhang, Jiaxin Liu",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817057",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "超越功能正确性：一种知识增强的迭代框架用于生成符合准则的代码",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "Fast TDDB Hotspot Detection of Large-Scale BEOL Circuits Using Physics-Informed Central Emphasized CNN",
+    "authors": "Wenjie Zhu, Xiaoman Yang, Xunsheng Tan, Pengpeng Ren, Runsheng Wang, Zhigang Ji, Haibao Chen",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3812547",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用物理信息引导的中心强调卷积神经网络快速检测大规模后段制程电路的TDDB热点",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "LE-Timing: Layout-Aware and Explainable Timing Prediction",
+    "authors": "Zhengyang Lyu, Xiaqing Li, Zidong Du, Rui Zhang, Qi Guo",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3816027",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "LE时序：布局感知且可解释的时序预测",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "Simplifying Mixed Boolean-Arithmetic Obfuscation by Program Synthesis and Equality Saturation",
+    "authors": "Jaehyung Lee, Seoksu Lee, Eunsun Cho, Woosuk Lee",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816695",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过程序合成与等式饱和简化混合布尔算术混淆",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-23",
+    "title": "Multi-Scale Feature Refinement Network for Lithography Hotspot Detection",
+    "authors": "Binling Luo, Ying Wang, Peng Gao, Beihai Tan, Ziran Zhu, Zihui Zhang, Xiaoming Xiong, Shuting Cai",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3815196",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "用于光刻热点检测的多尺度特征精炼网络",
+    "abstract_zh": "无"
+  }
+]
