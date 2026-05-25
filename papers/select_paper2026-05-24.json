@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2026-5-25",
+    "title": "Coding Agents in the Wild: Failure Modes and Rejection Patterns of AI-Generated Pull Requests",
+    "authors": "Mahd Hindi, Yasir Mahmood, Linda Mohammed, Salah Bouktif, Mohammed Mediani",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3696573",
+    "source": "IEEE",
+    "abstract": "Autonomous coding agents increasingly submit pull requests (PRs) to real software repositories, making it important to evaluate their behavior under actual review, testing, and governance workflows rather than only through synthetic benchmarks. This paper investigates how agent-generated pull request (APR) rejection evolves over time, which visible failure modes most often explain rejected APRs (RAPRs), and how these findings inform more effective coding-agent deployment and design. We follow a three-phase methodology. First, we construct an APR cohort from the AIDev-POP subset of the AIDev dataset, covering 12,433 APRs from 1,495 popular repositories and five coding agents. Second, we develop a socio-technical taxonomy of rejection reasons and validate a large language model (LLM)-based classifier on a manually labeled ground-truth subset of commented RAPRs, achieving 85.5% accuracy in identifying the main bucket reasons of the rejection. Third, we model temporal rejection patterns and conduct stratified analyses across agents, deployment settings, and reviewer types. Observational results show a significant decline in APR rejection odds over time after accounting for differences in change size, documentation and test updates, and agent type. This decline is not limited to a single agent in particular. Empirical results show that documentation co-changes are associated with lower rejection odds, whereas test-touch and patch size provide weaker differentiation. Most RAPRs are silent, with 84.2% closed without inline reviewer feedback. Among commented RAPRs, functional failures are the dominant visible rejection pattern, especially specification mismatch and logic defects. Overall, APR outcomes reflect interactions among agent behavior, repository guardrails, and developer practices. We translate these findings into evidence-informed design principles and advocate reflexive coding agent as a new design pattern that emphasizes context acquisition, local validation, and closer alignment with repository expectations. Our replication package is available at: https://github.com/mahdhindi/coding-agents-wild.",
+    "title_zh": "真实场景中的代码代理：AI生成的拉取请求的失败模式与拒绝模式",
+    "abstract_zh": "自主编码智能体越来越多地向真实软件仓库提交拉取请求（PR），这使得在真实审查、测试及治理工作流下评估其行为变得重要，而不仅仅依赖合成基准。本文研究了智能体生成的拉取请求（APR）被拒绝的演化趋势、最常见的可见失败模式如何解释被拒绝的APR（RAPR），以及这些发现如何为更有效的编码智能体部署和设计提供依据。我们采用三阶段方法论：首先，从AIDev数据集的AIDev-POP子集中构建APR队列，涵盖来自1495个流行仓库和五种编码智能体的12433个APR。其次，我们建立了一个拒绝原因的社会技术分类体系，并在手动标注的含评论RAPR真实子集上验证了基于大语言模型（LLM）的分类器，在识别拒绝的主要类别原因方面达到85.5%的准确率。第三，我们对时间上的拒绝模式进行建模，并针对智能体、部署设置和审查者类型进行分层分析。观察结果表明，在控制变更规模、文档和测试更新以及智能体类型的差异后，APR被拒绝的概率随时间显著下降。这种下降并非仅限于某个特定智能体。实证结果显示，文档协同变更与较低的拒绝概率相关，而测试触及和补丁规模提供的区分能力较弱。大多数RAPR是静默的，84.2%的关闭未包含行内审查者反馈。在含评论的RAPR中，功能故障是主要的可见拒绝模式，尤其是规格不匹配和逻辑缺陷。总体而言，APR的结果反映了智能体行为、仓库防护措施和开发者实践之间的相互作用。我们将这些发现转化为基于证据的设计原则，并倡导将“反身性编码智能体”作为一种新的设计模式，强调上下文获取、局部验证以及与仓库预期的更紧密对齐。我们的复制包可通过以下链接获取：https://github.com/mahdhindi/coding-agents-wild。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "Automated Refactoring for Conditional Branching",
+    "authors": "Yang Zhang, Xi Zhang, Chunhao Dong, Chaoshuai Li, Grant Meredith",
+    "publish": "IEEE Transactions on Services Computing",
+    "url": "https://doi.org/10.1109/tsc.2026.3696354",
+    "source": "IEEE",
+    "abstract": "Conditional branching provides a fundamental structure for executing a specific branch based on the value of a boolean expression at run-time. However, repeated or nested conditional branching can lead to increased complexity. Furthermore, fall-through semantics in conditional branching result in uncontrollable jumps. Refactoring conditional branching manually is error-prone, time-consuming, and tedious. There is a critical need to provide automated refactoring support for conditional branching. To this end, this paper presents <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</i>, an automated refactoring approach to eliminate repeated or nested conditional branching. Firstly, <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</i> parses source code into an abstract syntax tree and walks through conditional branching statements. Secondly, it removes redundant fall-through semantics by static program analysis and an automaton. The automaton is constructed from a control flow graph to match patterns of conditional branching. Finally, it converts a conditional branching into a <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">switch</i> expression and removes the fall-through semantics. <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</i> was evaluated on nine real-world projects involving 25,137 conditional branchings. Experimental results show that a total of 1,790 conditional branching constructs are refactored within an average of 18.62 seconds per project. Furthermore, <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</i> reduced the average cyclomatic complexity by 4.41% and removed 1,249 code smells, demonstrating its effectiveness in improving code quality.",
+    "title_zh": "条件分支的自动化重构",
+    "abstract_zh": "条件分支提供了一种基本结构，用于在运行时根据布尔表达式的值执行特定分支。然而，重复或嵌套的条件分支可能导致复杂性增加。此外，条件分支中的“穿透”语义会导致不可控的跳转。手动重构条件分支容易出错、耗时且繁琐。因此，迫切需要为条件分支提供自动化重构支持。为此，本文提出<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</italic>，一种自动重构方法，用于消除重复或嵌套的条件分支。首先，<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</italic>将源代码解析为抽象语法树，并遍历条件分支语句。其次，它通过静态程序分析和自动机来移除冗余的穿透语义。该自动机由控制流图构建，以匹配条件分支的模式。最后，它将条件分支转换为<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">switch</italic>表达式，并移除穿透语义。<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</italic>在九个涉及25,137个条件分支的真实项目上进行了评估。实验结果显示，共有1,790个条件分支结构被重构，每个项目平均耗时18.62秒。此外，<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</italic>将平均圈复杂度降低了4.41%，并消除了1,249个代码坏味，证明了其在提高代码质量方面的有效性。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "Two-Way Co-Design: Learnings from the Solid Lines project",
+    "authors": "Nicola St John",
+    "publish": "Proceedings of the 19th Participatory Design Conference 2026, Vol. 1: Full Papers",
+    "url": "https://doi.org/10.1145/3796624.3796647",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "双向协同设计：从Solid Lines项目中汲取的经验",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts",
+    "authors": "Vivi Andersson, Sofia Bobadilla, Harald Hobbelhagen, Martin Monperrus",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816704",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PoCo: 智能合约的自主概念验证漏洞利用生成",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "T-HAC: Time-Sensitive HLS Trojan Attack for Affecting Controller Timing Signal of Hardware IP Designs",
+    "authors": "Anirban Sengupta, Vishal Chourasia, Nabendu Bhui, Rimil Mandi",
+    "publish": "IEEE Embedded Systems Letters",
+    "url": "https://doi.org/10.1109/les.2026.3696630",
+    "source": "IEEE",
+    "abstract": "High level synthesis (HLS) is a de-facto standard for designing hardware intellectual property (IP) designs. However, recent research has shown security vulnerabilities (in the form of backdoor hardware Trojan) that may exist during different stages of HLS tool development process. This paper presents a new class of HLS-aided Trojan attack called <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">T-HAC</i>: Time-sensitive HLS Trojan Attack for affecting Controller timing signal of hardware IP designs. It can be automatically injected/embedded in a stealthy manner by an adversary/attacker during HLS datapath designing stage (of tool development process) at the interface between controller and datapath of the IP design. Results of the proposed T-HAC HT yielded significant timing signal delay (degradation) achieved, at nominal design area/power overhead.",
+    "title_zh": "T-HAC: 时间敏感的HLS木马攻击用于影响硬件IP设计的控制器时序信号",
+    "abstract_zh": "高层次综合（HLS）已成为设计硬件知识产权（IP）的事实标准。然而，近期研究表明，在HLS工具开发流程的不同阶段可能存在安全漏洞（表现为后门硬件木马）。本文提出了一类新型的HLS辅助木马攻击，名为<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">T-HAC</i>：即时间敏感型HLS木马攻击，旨在影响硬件IP设计的控制器时序信号。该攻击可由对手/攻击者在HLS数据路径设计阶段（工具开发流程中）以隐蔽方式自动注入/嵌入到IP设计的控制器与数据路径之间的接口处。实验结果表明，所提出的T-HAC HT攻击在标称设计面积/功耗开销下，实现了显著的时序信号延迟（性能退化）。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "Reentrancy Vulnerability Detection in Smart Contracts Based on Adversarial Examples",
+    "authors": "Fei Tong, Haoxuan Zang, Fang Jiang, Guodong Li, Hongyi Qiu",
+    "publish": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "https://doi.org/10.1109/tdsc.2026.3696629",
+    "source": "IEEE",
+    "abstract": "Reentrancy Vulnerabilities (RVs) in smart contracts pose severe financial risks to blockchain systems. While deep learning-based detection methods have shown promise, they suffer from critical limitations: (1) vulnerability to adversarial examples, (2) inadequate handling of Cross-Function RVs (CFRVs), and (3) reliance on limited training data. To address these challenges, we present SCAEG, the first adversarial example generation framework specifically designed for RV detection. SCAEG introduces five novel perturbation actions that preserve code functionality while exposing model vulnerabilities, including targeted modifications for CFRV scenarios. Our comprehensive evaluation demonstrates that SCAEG-generated examples sig nificantly degrade the performance of state-of-the-art detectors (e.g., reducing AWDNN's accuracy by 27.51 percentage points), exposing their fragility to adversarial attacks. Building on these insights, we propose VoteRD, an ensemble detection model that combines semantic, rule-based, and positional features through a multi-model voting mechanism. Experimental results show VoteRD achieves superior robustness, outperforming existing approaches by 3.7% in recall and 7.4% in F1-score (compare with AWDNN), while effectively detecting both traditional RVs and CFRVs. This work not only advances RV detection capabilities but also establishes a new benchmark for evaluating model robustness in smart contract security analysis. SCAEG and VoteRD form a synergistic framework: SCAEG systematically evaluates model robustness, while VoteRD leverages adversarial insights to enhance detection accuracy. Our datasets and tools are publicly released to support future research in adversarial testing and vulnerability detection.",
+    "title_zh": "基于对抗样本的智能合约重入漏洞检测",
+    "abstract_zh": "智能合约中的重入漏洞（RVs）对区块链系统构成了严重的财务风险。尽管基于深度学习的检测方法展现出潜力，但仍存在关键局限：（1）易受对抗样本攻击，（2）对跨函数重入漏洞（CFRVs）的处理不足，（3）依赖有限的训练数据。为应对这些挑战，我们提出了SCAEG——首个专为RV检测设计的对抗样本生成框架。SCAEG引入了五种新颖的扰动操作，在保持代码功能的同时暴露模型漏洞，包括针对CFRV场景的定向修改。全面评估表明，SCAEG生成的样本显著降低了现有检测器的性能（例如，使AWDNN的准确率下降27.51个百分点），揭示了它们对对抗攻击的脆弱性。基于这些发现，我们提出了VoteRD——一种集成检测模型，通过多模型投票机制结合语义特征、规则特征和位置特征。实验结果显示，VoteRD实现了卓越的鲁棒性，召回率较现有方法提升3.7%，F1分数提升7.4%（与AWDNN相比），同时有效检测传统RV和CFRV。这项工作不仅推进了RV检测能力，还为智能合约安全分析中的模型鲁棒性评估建立了新基准。SCAEG与VoteRD构成协同框架：SCAEG系统评估模型鲁棒性，而VoteRD利用对抗性洞察增强检测准确性。我们的数据集和工具已公开发布，以支持对抗测试和漏洞检测的未来研究。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "CASSIS: An LLM-Driven Framework for Sensitive API Identification in Cyber–Physical System Software Repositories",
+    "authors": "Zhefan Chen, Baolin Zhang, Na Wu, Dan Li, Yuhong Nan",
+    "publish": "IEEE Internet of Things Journal",
+    "url": "https://doi.org/10.1109/jiot.2026.3696762",
+    "source": "IEEE",
+    "abstract": "As cyber–physical systems (CPSs) are increasingly deployed in critical infrastructures, the misuse of CPS-sensitive (safety-critical) data can compromise device safety and even endanger human life. In this paper, we focus on identifying repository-specific Sensitive APIs that manipulate CPS-sensitive data along sensor–to–actuator data paths in <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">CPS software repositories</i> (“CPS repos”). These APIs are critical to downstream tasks related to CPS-sensitive data operations, such as vulnerability detection, access control, and privacy protection. Existing static and dynamic program analysis tasks typically assume a repository-specific list of Sensitive APIs as input. However, such lists are usually hand-crafted or derived from ad hoc pattern-matching rules. Therefore, they are difficult to reuse across repositories. Moreover, in large CPS repositories, where physical semantics are often abstract and documentation is scattered, these lists are prone to omissions. To address this issue, we propose CASSIS, an LLM-driven framework that automatically identifies Sensitive APIs in CPS repos without model fine-tuning. CASSIS constructs a CPS-aware code–documentation index, prunes unlikely candidates, and iteratively labels the remaining functions with an LLM without updating model parameters. On two real-world CPS repos—Genesis and ArduCopter, CASSIS reduces the number of functions requiring LLM-based classification by more than 80%, while preserving high recall for I/O-related functions. Overall, CASSIS achieves function-level Accuracy/Macro-F1 of 80.4%/77.8% on Genesis and 82.0%/80.8% on ArduCopter, demonstrating its effectiveness for practical CPS code auditing and security assessment.",
+    "title_zh": "CASSIS：一种用于网络-物理系统软件仓库中敏感API识别的LLM驱动框架",
+    "abstract_zh": "随着信息物理系统（CPS）在关键基础设施中的广泛应用，CPS敏感（安全关键）数据的误用可能危及设备安全，甚至危及人类生命。本文聚焦于识别CPS软件仓库（简称“CPS仓”）中沿传感器至执行器数据路径操纵CPS敏感数据的特定仓库敏感API。这些API对涉及CPS敏感数据操作的下游任务（如漏洞检测、访问控制、隐私保护）至关重要。现有静态与动态程序分析任务通常假设输入是一份特定仓库的敏感API列表。然而，此类列表通常由人工编制或基于临时模式匹配规则生成，因此难以跨仓库复用。此外，在大型CPS仓库中，物理语义往往抽象且文档分散，这些列表容易出现遗漏。为解决此问题，我们提出CASSIS——一种无需模型微调即可自动识别CPS仓中敏感API的大语言模型驱动框架。CASSIS构建了CPS感知的代码-文档索引，剪除不候选，并利用大语言模型对剩余函数进行迭代标注，无需更新模型参数。在两个真实CPS仓库（Genesis与ArduCopter）上，CASSIS减少了超过80%需要基于LLM分类的函数数量，同时保持了对I/O相关函数的高召回率。总体而言，CASSIS在Genesis上实现了80.4%/77.8%的函数级准确率/宏F1值，在ArduCopter上达到82.0%/80.8%，验证了其在实用CPS代码审计与安全评估中的有效性。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "PCB-QA: A Task-Specific Question Answering Framework for Text-Centric Chip Datasheet Queries in PCB Design",
+    "authors": "Binwu Zhu, Bei Yu",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3811922",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PCB-QA：面向PCB设计中以文本为中心的芯片数据手册查询的任务特定问答框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "A Universal and Lightweight Automated Design Framework for Multi-Band Power Amplifiers",
+    "authors": "Jinyu Wang, Jingyang Gao, Shengwei Meng, Yuchen Wei, Wenchao Peng, Ruihong Fang, Yang Wang, Cong Wang",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3696808",
+    "source": "IEEE",
+    "abstract": "In power amplifier (PA) design, the repeated trial-and-error process and time-consuming electromagnetic (EM) simulation are major obstacles to achieving efficient design. In this study, based on a small microstrip line dataset, a lightweight deep neural network (DNN) is trained to accurately predict the S-parameters of layout-level matching networks (MNs). Leveraging the DNN’s high-speed prediction capabilities and an ordinary particle swarm optimization (PSO) algorithm, the entire optimization process is completed without the involvement of EM simulation software, enabling highly efficient automated design of PAs. This method is applied to the automated synthesis of narrowband, tri-band, and broadband PAs, demonstrating high flexibility. Among these, the broadband PA (a 0.5-5 GHz GaN PA) is fabricated for validation. Measurement results show that within the operating frequency range, the output power reaches 39-42.2 dBm, and the drain efficiency (DE) ranges from 47.2% to 74.6%, with an average of 56.5%.",
+    "title_zh": "通用轻量级多频段功率放大器自动设计框架",
+    "abstract_zh": "在功率放大器（PA）设计中，反复的试错过程和耗时的电磁（EM）仿真是实现高效设计的主要障碍。本研究基于小型微带线数据集，训练了一个轻量级深度神经网络（DNN），以精确预测版图级匹配网络（MNs）的S参数。利用DNN的高速预测能力和普通粒子群优化（PSO）算法，整个优化过程无需电磁仿真软件的参与，从而实现PA的高效自动化设计。该方法被应用于窄带、三频以及宽带PA的自动综合，展现出高灵活性。其中，宽带PA（一款0.5-5 GHz GaN PA）被制造出来进行验证。测量结果显示，在工作频率范围内，输出功率达到39-42.2 dBm，漏极效率（DE）在47.2%至74.6%之间，平均值为56.5%。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "APT: Optimal Tree for Diagnosis Simulation and Various Diagnosis Applications",
+    "authors": "Wu-Tung Cheng",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3696833",
+    "source": "IEEE",
+    "abstract": "Performing a scan test failure diagnosis is necessary for advanced semiconductor manufacturing technologies to improve yield. A pre-silicon diagnosis simulation is essential to avoid low diagnosis resolution during volume production. Just as fault simulation identifies test quality problems, diagnosis simulation identifies diagnosis quality problems. The root causes of low diagnosis quality can be classified into three areas: (1) Insufficient data collected from the automatic test equipment (ATE) to support diagnosis. To fix this problem, ATE needs to have more extensive fail data storage; (2) Production scan test patterns are not adequate for diagnosis, such that better test pattern selection or new diagnosis-specific test patterns should be created; (3) Designs are not friendly to creating these diagnosis-specific test patterns, so design-for-diagnosis enhancements should be used to modify the designs to be friendly for diagnosis-specific test patterns. We propose using an Asymmetric Partition Tree (APT) to extract useful information from fault simulations for diagnosis simulation usage. APT can be used to calculate diagnosis coverage and identify areas with diagnosis quality issues. Furthermore, APT can be used to analyze the impact of ATE’s failed data storage limit on diagnosis coverage. APT can be proven to have the minimum size for diagnosis simulation. This paper provides a detailed explanation of how to collect the necessary information and construct APT trees effectively and efficiently for various applications.",
+    "title_zh": "APT：用于诊断模拟和各种诊断应用的最优树",
+    "abstract_zh": "在先进半导体制造技术中，执行扫描测试故障诊断对于提升良率至关重要。为避免量产阶段出现诊断分辨率低的问题，硅前诊断仿真不可或缺。正如故障仿真可识别测试质量问题，诊断仿真则能发现诊断质量缺陷。低诊断质量的根源可归纳为三类：(1) 自动测试设备（ATE）采集的数据不足，无法支持诊断。解决该问题需使ATE具备更强大的故障数据存储能力；(2) 生产用扫描测试图形不适用于诊断，需优化测试图形选择或生成专用于诊断的测试图形；(3) 设计本身不利于生成诊断专用测试图形，因此需采用可诊断性设计增强技术对设计进行修改，使其适用于诊断专用测试图形。本文提出使用非对称划分树（APT）从故障仿真中提取有效信息用于诊断仿真。APT可计算诊断覆盖率，并定位存在诊断质量问题的区域。此外，APT能分析ATE故障数据存储限制对诊断覆盖率的影响。经证明，APT具有诊断仿真所需的最小规模。本文详细阐述了如何高效收集必要信息并构建APT树，以适用于多种应用场景。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "Artificial Intelligence-Driven Design Automation of RF and Millimeter-Wave Circuits and Systems",
+    "authors": "Fábio Passos",
+    "publish": "IEEE Microwave Magazine",
+    "url": "https://doi.org/10.1109/mmm.2026.3690079",
+    "source": "IEEE",
+    "abstract": "The growing complexity of radio frequency (RF) and millimeter-wave (mm-wave) integrated circuits (ICs) has widened the gap between design productivity and system requirements. While artificial intelligence (AI)-based techniques have recently emerged as promising enablers of automation, many approaches remain limited to schematic-level optimization or isolated circuit blocks. <p xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">This article presents a hierarchical, layout- and variability-aware methodology for AI-driven RF and mm-wave circuit and system synthesis. The proposed framework integrates multiobjective optimization; automatic layout generation; parasitic extraction; and process, voltage, and temperature (PVT)-aware evaluation directly within the design loop, ensuring robustness by construction.</p> <p xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Device-, circuit-, and system-level examples, including passive components, amplifiers, oscillators, and a 77-GHz receiver (Rx) front end, demonstrate scalability and silicon-consistent performance. The results highlight how hierarchical automation can expose rich tradeoffs, accelerate exploration, and complement expert RF designers in the development of next-generation microwave systems.</p>",
+    "title_zh": "人工智能驱动的射频与毫米波电路与系统设计自动化",
+    "abstract_zh": "射频（RF）和毫米波（mm-wave）集成电路（IC）日益增长的复杂性，扩大了设计生产效率与系统需求之间的差距。虽然基于人工智能（AI）的技术近期已成为实现自动化的有前景手段，但许多方法仍局限于原理图级优化或孤立的电路模块。\n\n本文提出了一种层次化、兼顾布局与可变性的AI驱动射频与毫米波电路及系统综合方法。该框架将多目标优化、自动布局生成、寄生参数提取以及工艺、电压、温度（PVT）感知评估直接集成在设计回路中，从而确保设计本身具有鲁棒性。\n\n器件级、电路级和系统级实例（包括无源器件、放大器、振荡器以及一款77 GHz接收机前端）展示了该方法的可扩展性及其与硅基实现相一致的性能。结果表明，层次化自动化能够揭示丰富的设计权衡，加速探索过程，并辅助射频设计专家开发下一代微波系统。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "Fully Automated Schematic and Layout Design of Millimeter-Wave CMOS Power Amplifiers Using Prior Knowledge-Guided Decomposition and Machine Learning-Assisted Optimization",
+    "authors": "Hanyu Liu, Yawen Wei, Qi Wu, Guangyi Lu, Haiming Wang, Wei Hong",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3696817",
+    "source": "IEEE",
+    "abstract": "The RF CMOS technology is preferably used in the development of mass-market millimeter-wave (mmWave) integrated circuits because of its cost-effectiveness and integration capabilities. However, conventional design methods, limited by fixed topologies, struggle to achieve optimal performance, power, and area (PPA) trade-offs. A fully automated method is proposed for rapid mmWave CMOS power amplifier (PA) design that uses prior knowledge-guided decomposition and machine learning-assisted optimization (MLAO). Following hybrid topology configuration through schematic simulation, the proposed approach decomposes the entire circuit into multiple optimizable subproblems using microwave network theory. Then, these subproblems are solved sequentially and iteratively. In particular, a multibranch MLAO algorithm is applied to on-chip transformers to enable broadband matching and high-fidelity impedance synthesis. Post-layout simulation results for five different PA design cases, spanning 17 to 41 GHz, demonstrate that the proposed method significantly accelerates the design process compared to conventional approaches while maintaining a high PPA.",
+    "title_zh": "采用先验知识引导分解与机器学习辅助优化的毫米波CMOS功率放大器全自动原理图与版图设计",
+    "abstract_zh": "RF CMOS技术因其成本效益和集成能力，在面向大众市场的毫米波集成电路开发中备受青睐。然而，受限于固定拓扑的传统设计方法难以实现性能、功耗与面积的最佳权衡。本文提出一种全自动方法，用于快速设计毫米波CMOS功率放大器，该方法采用先验知识引导的分解与机器学习辅助优化技术。通过原理图仿真确定混合拓扑配置后，该方法借助微波网络理论将整个电路分解为多个可优化子问题，随后对这些子问题依次迭代求解。特别地，针对片上变压器应用了一种多分支机器学习辅助优化算法，以实现宽带匹配与高保真阻抗综合。针对17至41 GHz频段的五种不同功率放大器设计案例的后仿真结果表明，与传统方法相比，所提方法在保持高性能功耗面积权衡的同时，显著加速了设计流程。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection",
+    "authors": "Roman Nekrasov, Stefano Fossati, Indika Kumara, Damian Andrew Tamburri, Willem-Jan van den Heuvel",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817608",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "利用大语言模型生成基础设施即代码：错误分类与配置知识注入研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "Frequency-Oriented HLS Accelerator Exploration via Congestion-Aware Mapping on Multi-Die FPGA",
+    "authors": "Teng Wang, Yingxue Gao, Haoran Xue, Qianyu Cheng, Xianglan Chen, Lei Gong, Changlong Li, Chao Wang, Xuehai Zhou, Huaping Chen",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3696756",
+    "source": "IEEE",
+    "abstract": "Researchers use high-level synthesis (HLS) to develop large-scale accelerators, leveraging extensive resources to handle intricate computational tasks. Recent Multi-Die FPGAs feature several super logic regions (SLR) within one device to meet the high resource demands of advanced computation. However, implementing a large-scale accelerator on multi-die FPGAs presents three obstacles. The first is the considerable delay penalty caused by the interconnectivity of accelerator modules across multi-die boundaries. The second is the congestion caused by modules’ excessive use of local resources. The third is that the increasing number of accelerator modules expands the design space, making it difficult to find the optimal design point. All of these pose limitations on the maximum achievable frequency for developing large-scale accelerator designs on multi-die FPGAs. Therefore, this paper proposes a frequency-oriented design exploration with the congestion-aware module mapping algorithm, FrqBooster. It combines modules’ location and resource consumption to provide coarse-grained floorplanning optimization. Firstly, we analyze the connections between accelerator modules and build optimization objectives. Secondly, we analyze the resource cost of each module in accelerator design and propose a two-stage resource-balancing strategy, combined with resource consumption, to alleviate local congestion. Finally, we design a congestion-aware algorithm to complete the overall exploration for achieving higher potential performance. In the experiments, results show that FrqBooster achieves maximum frequency improvements of 73.15% and 81.22% on the U250 and U280 platforms, respectively, compared to the default implementation in Vivado. Compared to related works on accelerator DSE scenarios, FrqBooster achieved a maximum improvement of 25.84×, resulting in better overall performance.",
+    "title_zh": "面向频率的HLS加速器探索：通过多裸片FPGA上的拥塞感知映射",
+    "abstract_zh": "研究人员利用高层次综合（HLS）开发大规模加速器，借助大量资源处理复杂的计算任务。近年来，多裸片FPGA在一个器件内集成了多个超级逻辑区域（SLR），以满足高级计算对高资源的需求。然而，在多裸片FPGA上实现大规模加速器面临三大障碍：首先，加速器模块跨多裸片边界互连导致可观的延迟惩罚；其次，模块过度占用局部资源引发拥塞；第三，加速器模块数量的增加扩大了设计空间，使得最优设计点的寻找变得困难。这些问题都限制了在多裸片FPGA上开发大规模加速器设计时所能达到的最高频率。为此，本文提出了一种面向频率的设计探索方法——FrqBooster，采用拥塞感知的模块映射算法。该方法结合模块的位置和资源消耗，提供粗粒度的布局规划优化。首先，我们分析加速器模块间的连接关系并构建优化目标；其次，分析加速器设计中各模块的资源开销，并提出一种两阶段资源均衡策略，结合资源消耗缓解局部拥塞；最后，设计一种拥塞感知算法完成整体探索，以实现更高的潜在性能。实验结果表明，相比Vivado的默认实现，FrqBooster在U250和U280平台上分别实现了最高73.15%和81.22%的频率提升。与加速器设计空间探索（DSE）场景的相关工作相比，FrqBooster最大提升达25.84倍，从而获得了更优的整体性能。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "LEO: An Information-theoretic Learning-based Approach for Identifying Out-of-distribution Source Code in Software Systems",
+    "authors": "Van Nguyen, Xingliang Yuan, Tingmin Wu, Surya Nepal, Marthie Grobler, Carsten Rudolph",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817604",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "LEO: 一种基于信息论的学习方法，用于识别软件系统中的分布外源代码",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "SSTA-X: GPU-Accelerated First-Order Block-Based Statistical Static Timing Analysis",
+    "authors": "Chih-Chun Chang, Yi-Hua Chung, Wan Luan Lee, Boyang Zhang, Tsung-Wei Huang",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3696812",
+    "source": "IEEE",
+    "abstract": "Statistical static timing analysis (SSTA) is a widely used approach to evaluate circuit timing by modeling gate and path delays as random variables affected by process variations. While Monte Carlo-based SSTA methods offer high accuracy, their reliance on massive sampling leads to very long runtime. To alleviate this runtime overhead, first-order block-based SSTA (FB-SSTA) has been proposed to approximate timing distributions through linear propagation of statistical moments. However, existing FB-SSTA solutions are largely limited to CPU-based parallelism, and their scalability can no longer quickly respond to the ever-growing size of SSTA problems. To overcome this limitation, we propose SSTA-X, a GPU-accelerated FB-SSTA algorithm that significantly enhances the runtime performance by leveraging the massive parallelism of modern GPU. SSTA-X introduces GPU-efficient data structures and kernel algorithms to accelerate key yet time-consuming operations in statistical delay, slew, and moment propagation. Experimental results show that SSTA-X achieves 3.10×–12.47× speedup over a CPU-based baseline on a large-scale design with millions of gates.",
+    "title_zh": "SSTA-X: GPU加速的一阶基于块的统计静态时序分析",
+    "abstract_zh": "统计静态时序分析（SSTA）是一种广泛采用的方法，通过将门延迟和路径延迟建模为受工艺变化影响的随机变量来评估电路时序。尽管基于蒙特卡洛的SSTA方法具有较高精度，但其对大量采样的依赖导致运行时间极长。为缓解这一时间开销，一阶基块式SSTA（FB-SSTA）被提出，通过统计矩的线性传播来近似时序分布。然而，现有的FB-SSTA解决方案主要局限于基于CPU的并行化，其可扩展性已无法快速响应SSTA问题规模持续增长的需求。为克服这一局限，我们提出SSTA-X——一种GPU加速的FB-SSTA算法，通过利用现代GPU的大规模并行能力显著提升运行时性能。SSTA-X引入了面向GPU的高效数据结构与核函数算法，以加速统计延迟、转换时间和矩传播中的关键耗时操作。实验结果表明，在包含数百万个门的大规模电路设计中，SSTA-X相比基于CPU的基准方法实现了3.10倍至12.47倍的加速比。"
+  }
+]

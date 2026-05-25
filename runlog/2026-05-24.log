@@ -1,0 +1,1665 @@
+[2026-05-25 23:02:02] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-05-24
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202605240000+TO+202605242359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ResponseError('too many 429 error responses'))
+[ACM] 2026-5-25 | Advisory Today, Co-decisive Tomorrow? Complementing the Participation Ladder in Smart City Innovation with Institutional Learning Perspectives
+[ACM] 2026-5-25 | Uncovering Hidden Inequalities through Participatory Service Design: Institutional Service Failure in Public Employment Services
+[IEEE] 2026-5-25 | Investigating Key Meteorological Factors That Affect Atmospheric Transmittance via Simulation
+[IEEE] 2026-5-25 | Research on Underwater Construction Monitoring Device for Submarine Cable Repair in High-Turbidity Water Bodies
+[IEEE] 2026-5-25 | A Study on Dynamic and Reliable Assessment of Dispatchable Capacity from Electric Vehicles and Risk Early Warning for High-Penetration Renewable Energy Integration
+[IEEE] 2026-5-25 | Online Damage-Updated Lifetime Equalization for a Si IGBT/SiC MOSFET Hybrid Parallel Inverter
+[IEEE] 2026-5-25 | Direct Cardiac T1 Mapping with Subspace Modeling and Free-breathing Data Acquisition
+[IEEE] 2026-5-25 | Real-Time Streamable Generative Speech Restoration with Flow Matching_supp1-3696215.pdf
+[IEEE] 2026-5-25 | Study on Structural and Magnetic Properties of Cobalt Substituted Permalloy Amorphous Nanocrystalline Ribbons
+[IEEE] 2026-5-25 | Moment-Reenacting: Inverse Motion Degradation With Cross-Shutter Guidance
+[IEEE] 2026-5-25 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization
+[IEEE] 2026-5-25 | RIHP-Net: Rotation-Invariant Hyperspectral Image Classification Via Harmonic Fiber Pooling and Rotation-Conditioned Spectral Fusion
+[IEEE] 2026-5-25 | Force Perception in Smart Robotic Grippers Based on Fiber Bragg Grating [Instrumentation and Measurement Systems]
+[IEEE] 2026-5-25 | Spotlight on I&amp;MER: 2024 J. Barry Oakes Award
+[IEEE] 2026-5-25 | Society Officers
+[IEEE] 2026-5-25 | Reactive and Decoupled Control of Mobile Manipulators via Spatially Modulated Velocity Fields
+[IEEE] 2026-5-25 | VAPE-Net: An Extrinsic-Pose-Agnostic Viewpoint-Aware Progressive Enhancement Framework for Pure-Visual Vehicle-Infrastructure Cooperative Perception
+[IEEE] 2026-5-25 | A Time-Space Fusion Early Diagnostic Framework for PEM Fuel Cell Faults with Deep Learning
+[IEEE] 2026-5-25 | Gait adaptation to asymmetric foot-ground compliance applied by robotic footwear
+[IEEE] 2026-5-25 | Momentum Gradient Descent with Kinematic Prediction-based Initialization for High-Accuracy Star Sensor Attitude Estimation
+[IEEE] 2026-5-25 | Field-agnostic Beam Focusing and Tracking for ISAC
+[IEEE] 2026-5-25 | Curvilinear Particle-in-Cell Simulations of Plasma Sheath Effects on Impedance of VLF Antenna in the Magnetosphere
+[ACM] 2026-5-25 | Participatory Design Back to its Political Roots : Insights from the Full Papers
+[IEEE] 2026-5-25 | UAV Swarm-Based Dynamic Differential GNSS with Collaborative Multipath Mitigation: Low-Altitude Augmentation System for Emergency Positioning
+[IEEE] 2026-5-25 | Enhancing Cell-Free SWIPT IoT Networks By Active RIS
+[IEEE] 2026-5-25 | Tactile-Sensor-Embedded Treadmill for Deep Learning-Based Step-Length Measurement
+[IEEE] 2026-5-25 | DB-CoGNN: A Dual-Branch Synergistic Contrastive Graph Neural Network for Robust Small-Signal Stability Assessment
+[IEEE] 2026-5-25 | LGIEA: A Local-Global Information Guided Evolutionary Algorithm for Influence Maximization
+[IEEE] 2026-5-25 | Compact High-Linearity and Wide-Range Permittivity Measurement Phase-Variation Sensor Based on Electronically Tunable Structure
+[IEEE] 2026-5-25 | On the role of stubbornness in Nash equilibrium problems
+[IEEE] 2026-5-25 | Feature Map Compression for Split Learning in Mobile Wireless Environment: Theory and Practice
+[IEEE] 2026-5-25 | Horizontal Transfer Strategy Based Collaborative Optimization for Power Grid Emergency Resource Scheduling
+[IEEE] 2026-5-25 | Novel Structure and Control Strategy for Electrolysis Hydrogen Powered by Offshore Wind Power
+[IEEE] 2026-5-25 | Improved YOLOv8-Based Small Target Defect Identification in Substations
+[IEEE] 2026-5-25 | PQV Modeling and Voltage Regulation Strategy for Distributed Photovoltaic Systems Under Reverse Power Flow Conditions
+[IEEE] 2026-5-25 | Digital Twin-Empowered Vehicle–Road Cooperation: A Perception and Virtualization Paradigm for Connected and Automated Vehicles
+[IEEE] 2026-5-25 | Pathwise guessing in categorical time series with unbounded alphabets
+[IEEE] 2026-5-25 | Broadband and Wide-Angle Conformal Active Metasurface for Continuous and Dynamic RCS Modulation
+[IEEE] 2026-5-25 | Scanpath Prediction in Panoramic Videos Via Expected Code Length Minimization
+[IEEE] 2026-5-25 | Stability and Performance Enhancement of IoT-Enabled Dual-Axis Solar Tracker Using Red Colobuses Monkey Optimization Algorithm
+[IEEE] 2026-5-25 | Adaptive Feature Enhancement for SAR-based Ship Detection
+[IEEE] 2026-5-25 | IEEE CS Career Center
+[IEEE] 2026-5-25 | Mapping AI Literacy Expectations in Technical and Professional Communication: Evidence From 137 AI-Referenced Job Postings
+[IEEE] 2026-5-25 | TwinRL-Onco: A World Model-Empowered Digital Twin Framework with Hierarchical Reinforcement Learning for Venetoclax Resistance Trajectory Prediction and Adaptive Therapy Optimization in Chronic Lymphocytic Leukemia
+[IEEE] 2026-5-25 | Harmonic-excited Closed-slot Brushless Wound Rotor Synchronous Machine with Reduced Torque Ripple
+[IEEE] 2026-5-25 | Efficient Partially-Connected Hybrid Beamforming for Communication Capacity Maximization in FD-DFRC Systems
+[IEEE] 2026-5-25 | Integrating Network and Attack Graphs for Service-Centric Impact Analysis
+[IEEE] 2026-5-25 | ICAD: Rethinking the Role of Inference and Cues for the Anomaly Detection of Time Series in IIoT
+[IEEE] 2026-5-25 | EEG-Based Depression Detection with Temporal-Spectral and Graph Cross-Attention in a Sensor Signal-Processing Architecture
+[IEEE] 2026-5-25 | Decomposition and Successive Decomposition Methods and Algorithms for Nonconvex Optimization
+[IEEE] 2026-5-25 | Site-Specific Channel Modeling and Optimization of RIS-Assisted Multiuser MISO Systems
+[IEEE] 2026-5-25 | Reconfigurable Magnetic Field Shaping via Current-Controlled Relay Coils for Wirelessly Powering Capsule Endoscopy
+[IEEE] 2026-5-25 | FlashSAM: Lightweight Vision Model for Multi-UAV Token Communication in Low-Altitude Wireless Networks
+[IEEE] 2026-5-25 | BAPA-Net: Cross-Domain Few-Shot Object Detection in Remote Sensing via Background-Aligned Prototype Aggregation
+[IEEE] 2026-5-25 | June Calendar
+[IEEE] 2026-5-25 | YOLOv8-EfficientViT for Robust Personnel Detection in Substation Operation Scenes
+[IEEE] 2026-5-25 | Analysis of China's Dual Carbon Control Progress and Its Impacts on the Power System
+[IEEE] 2026-5-25 | Research on Synergistic Optimization of Source-Load-Storage Based on Integrated Energy
+[IEEE] 2026-5-25 | Early Anomaly Detection of Wind Turbine Main Bearings Based on Multi-Head Self-Attention Network
+[IEEE] 2026-5-25 | Reliable Multi-Modal Object Re-Identification via Modality-Aware Graph Reasoning
+[IEEE] 2026-5-25 | Autonomous Causal Discovery: Evaluating LLMs' Priors and Constraint Strategies for Reliability_supp1-3689960.pdf
+[IEEE] 2026-5-25 | Mitigate Catastrophic Remembering via Continual Self-Paced Dual-Knowledge Purification for Noisy Lifelong Person Re-Identification_supp1-3693671.pdf
+[ACM] 2026-5-25 | ‘It's not only my Issue, but also a Community Issue’: an Atlas of Design Actions for Commoning Flood Adaptation
+[ACM] 2026-5-25 | Mediating Digital Security: Participatory Learning with Older Adults in Smartphone Café Sessions
+[IEEE] 2026-5-25 | Integrating Robust CRT with Signal Unwrapping for Modulo Sampling
+[IEEE] 2026-5-25 | Estimating the Temperature Distribution of Pouch-Type Li-Ion Batteries Based on a Distributed-Parameter Electrothermal Coupling Model
+[IEEE] 2026-5-25 | Research on Optimization Method of Medium Voltage Target Network Based on Reliability and Economy
+[IEEE] 2026-5-25 | Short-Term Load Forecasting Based on Graph Convolutional and Kolmogorov-Arnold Network
+[IEEE] 2026-5-25 | A Concise Review of Resilience Assessment for Power Systems Against Typhoons
+[IEEE] 2026-5-25 | Hierarchical Long-Term Operation Optimization of Flexible Resources Considering Multi-Scale Temporal Characteristics
+[IEEE] 2026-5-25 | High-Sensitivity MEMS Optical Switch with Wide Spectral Response
+[IEEE] 2026-5-25 | Research on Data Integrity Verification and Tracing in the Power Internet of Things
+[IEEE] 2026-5-25 | Research and Application of Artificial Intelligence in Pattern Recognition of Power Grid Connection
+[IEEE] 2026-5-25 | Optimization Design of Uplift Safety Reserve Factor for Transmission Line Foundations in Collapsible Loess Sites
+[IEEE] 2026-5-25 | From the Society: President's Message
+[IEEE] 2026-5-25 | IEEE Transactions on Energy Conversion Information for Authors
+[IEEE] 2026-5-25 | Impedance-Spectrum Driven Frequency Weighted Functional Fault Location in Undersea Observation Network Power Systems
+[IEEE] 2026-5-25 | Urban Environmental Challenges and Health: Environmental Determinants of Respiratory Illnesses in Samarkand
+[IEEE] 2026-5-25 | Multi-Objective UAV–HAP Collaborative Offloading for Hotspot Region Computing in Urban Non-Terrestrial Networks
+[IEEE] 2026-5-25 | CCSFusion: A Hierarchical Semantic Chain-of-Thought Reasoning Architecture for Infrared-Visible Image Fusion and Captioning
+[IEEE] 2026-5-25 | High Voltage Power Lines Conductor Anomaly Detection using Magnetic Field
+[IEEE] 2026-5-25 | Performance Analysis of Multiple User Average BLER in Downlink NOMA Short-Packet Communications over $\alpha - \kappa - \mu$ Shadowed Fading
+[IEEE] 2026-5-25 | Foundations of Efficient Model Reconstruction Using Counterfactual Explanations_supp1-3695917.pdf
+[ACM] 2026-5-25 | Proceedings of the 19th Participatory Design Conference 2026, Vol. 1: Full Papers
+[ACM] 2026-5-25 | Participating in Designing Sustainable Futures: The Challenges of Imagination and Envisioning
+[IEEE] 2026-5-25 | DuSS-PET: Self-Supervised Low-Dose PET Reconstruction Using Pseudo-Dual-Domain Consistency Without Paired Data
+[IEEE] 2026-5-25 | Sensor Fusion with Neural Virtual Measurements for Aerial GNSS/INS Integration
+[IEEE] 2026-5-25 | Physical Realization of Mathematics Geometric Fractals in Metasurface Filters
+[IEEE] 2026-5-25 | Transceive Beamforming in FDA-MIMO-Based Dual-Function Radar-Communication Systems for Low Probability of Interception
+[IEEE] 2026-5-25 | Knowledge-Enhanced Contrastive Learning for Unsupervised Signal Modulation Clustering
+[IEEE] 2026-5-25 | DRL-Enabled Polymorphic Acceleration Framework for Flexible and Energy-Efficient Hybrid-Float Deep Learning Inference in Mobile Computing
+[IEEE] 2026-5-25 | Aging Behaviors of Ester-Insulated Oil–Paper Composite Systems under Combined Electrical and Thermal Stresses – Part I: Evolution of Oil Properties and Molecular Microscopic Mechanism
+[IEEE] 2026-5-25 | Coding Agents in the Wild: Failure Modes and Rejection Patterns of AI-Generated Pull Requests
+[IEEE] 2026-5-25 | ST-GCN and Reinforcement Learning-Assisted Dynamic Multi-Strategy Task Offloading in Edge-IoT Vehicular Networks
+[IEEE] 2026-5-25 | Technical and economic feasibility study of a grid-connected solar power plant in northwest Algeria for charging Electric Vehicles
+[IEEE] 2026-5-25 | Robust Multi-Level Forecast-Based Anomaly Detection for Smart Grid Overload Attacks
+[IEEE] 2026-5-25 | Lightweight Power Quality Disturbance Recognition for Edge Monitoring in Distribution Networks
+[IEEE] 2026-5-25 | Research on Multi Factor Coupling Modeling and Prediction Optimization Method for Distributed Photovoltaic Power Station Generation Power
+[IEEE] 2026-5-25 | A Study on the Mechanism and Coordinated Control of the Conflict Between Excessive Short-Circuit Current and Insufficient Short-Circuit Ratio at the “Desert, Gobi, and Wasteland” New Energy Base
+[IEEE] 2026-5-25 | Analysis of a UHV Converter Transformer Electrostatic Ring Discharge Failure
+[IEEE] 2026-5-25 | Analysis and Damping Control of Low-Frequency Oscillations in Renewable-Integrated Power Systems: A Brief Review
+[IEEE] 2026-5-25 | Multi-Source Spatio-Temporal Prediction of EV Charging Demand Based on Spatial Behavior Clustering
+[IEEE] 2026-5-25 | A Two-Layer Architecture of BiLSTM Prediction and Nonlinear MPC for Coordinated Multi-Unit PEMWE Hydrogen Production
+[IEEE] 2026-5-25 | Variable-Temperature Magnetic Properties Measurement and Improved Temperature-coupled Bertotti Core-Loss Modeling of Fe-Based Amorphous Alloy
+[IEEE] 2026-5-25 | Routing of LEO Satellite Networks Based on Characteristic Graph Embedding Heuristic Approach
+[IEEE] 2026-5-25 | A Hybrid Cascaded Active Power Quality Conditioner for Railway Power System
+[IEEE] 2026-5-25 | Adaptive Phase Selection for Stator High-Impedance Grounding Fault Considering Winding Parameter Asymmetry and Nonlinear Potential Distribution
+[IEEE] 2026-5-25 | FOF-X: Towards Real-time Detailed Human Reconstruction from a Single Image_supp1-3696142.pdf
+[IEEE] 2026-5-25 | Fractional and Fractal Theory for Progressively Scaled Pharmacokinetic Compartment Models with Anomalous Diffusion
+[IEEE] 2026-5-25 | Transition-Region Co-Optimization for Enhanced
+                    <i>dV/dt</i>
+                    Ruggedness in 4H-SiC MOSFETs
+[IEEE] 2026-5-25 | Orchestrating Data Collection and Computation in Green IoT Networks
+[IEEE] 2026-5-25 | Communication-Efficient Dual-Branch Transmission with Semantic Masks and Quantized Features for V2X Cooperative Perception
+[IEEE] 2026-5-25 | Transformer-Enhanced Machine Learning Framework for Advanced Palm Biometric Recognition
+[IEEE] 2026-5-25 | CMPCC: Cross-modal Point Cloud Completion Model Fusing Single-view Images and Partial Point Clouds
+[IEEE] 2026-5-25 | LMFF-Net: Lightweight Multi-Scale Feature Fusion Object Detection for Underwater IoT Networks
+[IEEE] 2026-5-25 | Detection Method for Mechanical Deformation of Autotransformer Winding Based on Frequency Response and DATN Algorithm
+[IEEE] 2026-5-25 | Hypersharpening Using Inter-cluster Sample Equalization and Intra-cluster Low-rank Constraints
+[IEEE] 2026-5-25 | Learning for Statistical Channel Fingerprint-Based Positioning in Massive MIMO System: Static Mapping and Dynamic Tracking
+[IEEE] 2026-5-25 | Robust Target-Sensitive Region Segmentation via Adaptive Frequency Fusion and Dynamic Optimization
+[IEEE] 2026-5-25 | Uncertainty Modeling for Domain Generalization in Cross-Scene Hyperspectral Image Classification
+[IEEE] 2026-5-25 | Critically Damped Output-Feedback Positioning System for PMSM Servo Drives With Model-Independent Observer and Disturbance Observer via Pole-Zero Cancellation
+[IEEE] 2026-5-25 | A High-Gain Loop-Shaping-Based Real-Time Iterative Compensation Control Applied to Ultraprecision Wafer Stages
+[IEEE] 2026-5-25 | Automated Refactoring for Conditional Branching
+[IEEE] 2026-5-25 | Fast Robust Dual Dynamic Programming for Multi-Stage Robust Intra-Day Microgrid Scheduling
+[IEEE] 2026-5-25 | Hierarchical Coordinated Control of Source-Grid-Load-Storage in Highly Resilient Power Grids
+[IEEE] 2026-5-25 | Research on Transmission Line Image Monitoring Technology Based on Ultra-High-Pixel Imaging
+[IEEE] 2026-5-25 | A Continuous Wavelet Transform Framework with Frequency-Enhanced Convolutional Attention for Bearing Fault Classification
+[IEEE] 2026-5-25 | Power Optimization Allocation Strategy for Wind-Storage Frequency Regulation Considering Stability and Economic Efficiency
+[IEEE] 2026-5-25 | Proactive Rolling Optimization-Based Scheduling Method for Off-Grid Flexible Synthetic Ammonia System
+[IEEE] 2026-5-25 | Truncated Sparse Regularization Adjustment Method for Radar Forward-Looking Azimuth Super-Resolution Imaging
+[IEEE] 2026-5-25 | From Dual-Stream Manifold-Aligned Tokenizer to Latent Sensor-Invariant Consistency Model: Rapid Generative Super-Resolution for Cross-Sensor Remote Sensing Imagery
+[IEEE] 2026-5-25 | Quantum Hardware-in-The-Loop for Optimal Power Flow in Renewable-Integrated Power Systems
+[IEEE] 2026-5-25 | A Novel INFORM Strategy Based on Bidirectional Voltage-Vector Injection for Low-Speed Sensorless PMSM Control Considering Armature Reaction
+[IEEE] 2026-5-25 | An Improved Affine Optimization Method for Lowcarbon Dispatch in Multi-Energy Microgrids Considering Source-Load Correlation
+[IEEE] 2026-5-25 | Wasserstein Distributionally Robust Optimization for Park-Level Integrated Energy Systems
+[IEEE] 2026-5-25 | A Lithium-Ion Battery SOC Estimation Method Based on an Attention-Residual Bidirectional LSTM Network
+[IEEE] 2026-5-25 | Physics-Informed BiLSTM with Adaptive Gated Fusion for Lithium-Ion Battery State-of-Health Estimation
+[IEEE] 2026-5-25 | Finite Element Simulation Analysis of Tritium Transport in Lithium-Lead Droplets Inside Vacuum Sieve Tray
+[IEEE] 2026-5-25 | Federated Contrastive Diffusion Prototypes for Robust Private Learning
+[IEEE] 2026-5-25 | Cross-Center Surgical Step Recognition in Standardized Training Tasks: Dataset, Baselines, and Transfer Analysis
+[IEEE] 2026-5-25 | User-Guided Visual Analytics of Genome-wide DNA Methylation Data Based on Self-Organizing Maps
+[IEEE] 2026-5-25 | Large Deviation Analysis for the Reverse Shannon Theorem
+[IEEE] 2026-5-25 | Metasurface-Assisted Ultra-Wideband Radar for High-Sensitivity Non-Contact Respiratory Detection
+[IEEE] 2026-5-25 | Refined State-error-based Model Predictive Control and Flight Testing of Eagle of Taihu 10: A Canard-Configured Tail-Sitter Technology Demonstrator
+[IEEE] 2026-5-25 | Design and Analysis of a High Torque Density FSPM Machine with Enhanced Low Pole-Pair Working Magnetic Field
+[IEEE] 2026-5-25 | Full-period one-shot prediction of Li-ion battery aging trajectories via multi-view encoding
+[IEEE] 2026-5-25 | A Unified Perceptual-Physical Framework for Real-Time Underwater Motion Simulation of Immersive Agents and Large-Scale Crowds
+[IEEE] 2026-5-25 | OMARF: An Orchestrated Multi-Agent Resilience Framework for Autonomic Software-Defined Offshore Wind Industrial Networks
+[IEEE] 2026-5-25 | Few-Shot Cross-Domain Indoor Localization via Multi-Modal Feature Refinement
+[IEEE] 2026-5-25 | End-to-End Through-Wall Respiratory Waveform Reconstruction for 60-GHz MIMO FMCW Radar
+[IEEE] 2026-5-25 | Energy-aware Adaptive Topology Control for UOWSNs_supp1-3693790.pdf
+[IEEE] 2026-5-25 | False Alarm Rate-Controllable Maritime Target Detection Via Cross-Attention Transformer Network
+[IEEE] 2026-5-25 | Sensor Data Quality Scoring for MEMS Accelerometers Via Spectral Anomaly Detection
+[IEEE] 2026-5-25 | Research on Dual-Frequency Penetrating Radio Wave Detection Method and Application in Fault Structures of Coal Seam Working Face
+[ACM] 2026-5-25 | Hearing Materials, Feeling Participation, Caring for Personhood: Situated Lessons from Participatory Design with Nonverbal Participants
+[ACM] 2026-5-25 | Enacting Utopias: A Participatory Design Approach to AI
+[ACM] 2026-5-25 | Participatory Design through the Lenses of Women Architects and Designers
+[IEEE] 2026-5-25 | High-Speed CMOS ADCs for 5G New Radio and AI-Edge Systems: Design Trends and Trade-Offs
+[IEEE] 2026-5-25 | S-Edge: A Multi-Region Edge Computing Framework with Adaptive Data Compression and Dynamic Load Balancing
+[IEEE] 2026-5-25 | Enhanced Traction Control on Irregular Roads through Preview-based Nonlinear Model Predictive Control
+[IEEE] 2026-5-25 | Quantum Key Distribution For Optical Satellite Communications: An Engineering-Oriented Review
+[IEEE] 2026-5-25 | Cognitive GenAI-as-a-Service Orchestration in Edge Networks: A Value-Adaptive Multi-Agent Learning Framework
+[IEEE] 2026-5-25 | Enhanced Sensing in Large-Scale Array PMCW Systems by Range-Angle Decoupling
+[IEEE] 2026-5-25 | AC Power Flow-Based Demand Response for Multi-Energy Three-Phase Distribution Systems
+[IEEE] 2026-5-25 | FedGDD: Defending Federated Learning Against Targeted Model Poisoning Sybil Attacks Based on Gradient Drift Detection
+[IEEE] 2026-5-25 | A Bandwidth-Enhanced Metasurface-Based RF Energy Harvester With Wide-Angle Reception
+[IEEE] 2026-5-25 | Point-RMAE: Reinforcement Masked Autoencoder for 3D Representation Learning_supp1-3694193.pdf
+[IEEE] 2026-5-25 | Global Localization of the Perseverance Rover via Orbiter–UAV–Rover Collaborative Matching
+[IEEE] 2026-5-25 | Implicit Continuous Full-spectrum Response Network for Visible-to-Infrared Image Translation
+[IEEE] 2026-5-25 | Integrated UAV and Satellite Observations for Antarctic Melt Pond Monitoring: Assessing the Melt-induced Risk for Transportation on Landfast Ice_supp1-3695914.docx
+[IEEE] 2026-5-25 | An Accelerated Vectorized Discrete Ordinate Method With Forward and Jacobian Modules Developed Toward Advanced Satellite Data Assimilation
+[IEEE] 2026-5-25 | A High-Power
+                    <i>Ku</i>
+                    -Band PA Using Multi-Combiner Architecture
+[IEEE] 2026-5-25 | Stochastic Computing Circuits for Nonlinear Functions Based on Multiplexers
+[IEEE] 2026-5-25 | Disk-Integrated Lunar Phase Curves from FY-4B/AGRI: Hapke Photometric Modeling from 470 nm to 2230 nm
+[IEEE] 2026-5-25 | A Bad Data Identification Method Based on Optimal Weight-Tuning for Power System State Estimation
+[IEEE] 2026-5-25 | Consistency-based Semi-supervised Evidential Active Learning Framework for Robust Classification of Radiology Images
+[IEEE] 2026-5-25 | Physics-Informed Prostate MR–US Registration by Biomechanical Fields Prediction Network
+[ACM] 2026-5-25 | Two-Way Co-Design: Learnings from the Solid Lines project
+[ACM] 2026-5-25 | Framing the conversation on Democracy and Participation along six structural gaps to reach democratic resilience
+[IEEE] 2026-5-25 | Optimization Model of Investment Benefit for Power Grid Enterprises Based on Improved Genetic Algorithm
+[IEEE] 2026-5-25 | A Multi-Objective Operational Management Approach for Photovoltaic Charging Stations Based on Reinforcement Learning
+[IEEE] 2026-5-25 | Prototype Development of an Integrated Distributed Energy-Dissipating Modular Multi-Level Converter Based on 6.5kV IGBT
+[IEEE] 2026-5-25 | Current Stress Optimization Control of Dual Active Bridge DC-DC Converter Based on Dual Integral Sliding Mode Control
+[IEEE] 2026-5-25 | Author Index
+[IEEE] 2026-5-25 | Secure Optimization with Asynchronous Structured Skyline Predicates under Vertical Data Federation
+[IEEE] 2026-5-25 | Joint Beam Scheduling and Passive Beamforming for IRS-Assisted Hybrid-Field SWIPT
+[IEEE] 2026-5-25 | An Ultrawideband and Low-Profile Phased Array Design for Satellite-assisted Internet of Things Vehicular Communication
+[IEEE] 2026-5-25 | Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder
+[IEEE] 2026-5-25 | Front Cover
+[IEEE] 2026-5-25 | Call for Papers - IEEE Computer Society
+[IEEE] 2026-5-25 | A 210-GHz Planar Balanced Third-harmonic Mixer Based on Dual-band Rat-race Coupler
+[IEEE] 2026-5-25 | New Products
+[IEEE] 2026-5-25 | UAV-Assisted-IRS-Aided-UE: Analysis of Ergodic Capacity, Outage Probability, and Diversity Order
+[IEEE] 2026-5-25 | DT-MAEI: A Dual Timescale MARL-Embedded Embodied Intelligence Architecture to Enable AUV Cluster Network-Based Multi-Target Tracking
+[IEEE] 2026-5-25 | Reinforcement Learning Neural Network Observer-Based Adaptive Optimal Time-Varying Formation Control for Uncertain Multi-agent Systems With External Disturbance
+[IEEE] 2026-5-25 | Style Backdoor: A Robust Style-Decoupled Clean-Label Backdoor Attack
+[IEEE] 2026-5-25 | Neighbor-Consistent Transformer for Domain Adaptation in Remote Sensing Scene Classification
+[IEEE] 2026-5-25 | ZAP: Zoned Architecture and Performant Compiler for Field Programmable Atom Array
+[IEEE] 2026-5-25 | Field Emission From Polymers Relevant to Anode-Initiated Flashover Development
+[IEEE] 2026-5-25 | High Efficient and Near-Optimal Binary Computation Offloading Strategy Based on Game Theory and Greedy Optimization
+[IEEE] 2026-5-25 | Performance of
+                    <i>X</i>
+                    -bar Control Chart Pattern Recognition Scheme with Regulated Monitoring and Ensemble Recognizers
+[IEEE] 2026-5-25 | Adaptive Structured Proximal Policy Optimization-Based Compensation for PID control of Folding-Wing UAVs under Disturbances
+[IEEE] 2026-5-25 | Edge-Based Vision-Language Assistive System for the Visually Impaired: A Quantized VLM Approach
+[IEEE] 2026-5-25 | M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge
+[IEEE] 2026-5-25 | NEMESI: 5G Non-invasive EMF Multi-user Exposure Surveillance and Inspection
+[IEEE] 2026-5-25 | Prediction and Analysis of Total Health Expenditure in China Based on Combination Model
+[IEEE] 2026-5-25 | Current Sensor Detection and Remedial Strategy for Repeated Faults in Dual Three-Phase PMSMs With Multiple-Branch Current Sampling
+[IEEE] 2026-5-25 | Risk-Sensitive Stochastic Control for Robust UAV-Assisted Free-Space Quantum Key Distribution under Atmospheric Turbulence
+[IEEE] 2026-5-25 | SPARE: Asymmetric Proof-of-Work–Based DoS Mitigation for IoT Devices
+[IEEE] 2026-5-25 | Decoupled Cross-Modal Fusion and Knowledge Injection for Multimodal Sentiment Analysis
+[IEEE] 2026-5-25 | Multi-Slot Distributed Frequency Control for Power Systems With Heterogeneous Devices
+[IEEE] 2026-5-25 | Joint Power Transfer and Interference Suppression via Metaheuristics-Driven 1-Bit Phase Control in Intelligent Reflecting Surface-Aided Wireless Systems
+[IEEE] 2026-5-25 | Collision-Free Coordination of Heterogeneous Multiagent Systems Under Independent DoS Attacks
+[IEEE] 2026-5-25 | HepaCopilot: A 6G-Enabled Multimodal Vision-Language Agent for Real-Time Hepatocellular Carcinoma Risk Stratification via Contrast-Enhanced Ultrasonography with Chain-of-Thought Clinical Reasoning
+[IEEE] 2026-5-25 | Smart Parking for Medical Cities via Passenger-Aware Allocation and Fast Grouping–Permutation Heuristics
+[IEEE] 2026-5-25 | Resource Allocation Optimization in Process Petri Nets Based on Bottleneck Identification
+[IEEE] 2026-5-25 | SCD-Net: A Semantic-Contour-Disparity Triadic Collaborative Network for 3D Building Reconstruction from Stereo Satellite Imagery
+[IEEE] 2026-5-25 | Hidden Markov Model Based Shared Autonomy for Grip Strength Regulation in sEMG Driven Robot Hand Control_supp1-3696049.mp4
+[IEEE] 2026-5-25 | GaussianFusion_AI:Urban 3D Reconstruction and Label-Efficient Segmentation with Gaussian-Based Splatting
+[IEEE] 2026-5-25 | Hardware-in-the-Loop Testbed for Advanced Distribution Management Systems
+[IEEE] 2026-5-25 | Insulator Defect Detection Algorithm Based on Optimized YOLOv8-Transformer
+[IEEE] 2026-5-25 | Interactive Support of Frequency and DC Voltage for Receiving-End Network with Offshore Wind VSC-HVDC Integration
+[IEEE] 2026-5-25 | AMPGLDA: Predicting LncRNA-Disease Associations Based on Adaptive Meta-Path Generation and Multi-Layer Perceptron
+[IEEE] 2026-5-25 | Enhancing End-to-End Delay Satisfiability for IEEE 802.1Qav
+[ACM] 2026-5-25 | Resettlement Work: Accounting for the Invisible Work of Refugee Community Health Workers
+[ACM] 2026-5-25 | Towards Multispecies Participation in More-than-human Worlds
+[ACM] 2026-5-25 | PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts
+[ACM] 2026-5-25 | PRLBridge: A Legality-Aware Interface between Compilers and LLMs for Secure DNN Obfuscation
+[IEEE] 2026-5-25 | K-FDE: Kurtosis and Frequency Domain Enhanced Adaptive Feature Learning Framework for Intelligent Fault Diagnosis
+[IEEE] 2026-5-25 | Near-Field Beam Training Design for Stacked Intelligent Metasurface Assisted Communication Systems
+[IEEE] 2026-5-25 | Lifecycle-Aware Multi-Temporal InSAR: Synergistic Optical-Radar Monitoring of Evolving Infrastructure
+[IEEE] 2026-5-25 | Linear Economic MPC With Nonlinear Friction Feedforward for Built-in Direct-Drive Wave Energy Converters
+[IEEE] 2026-5-25 | Photovoltaic Power Forecasting Method Based on Similar-Day Clustering and Attention-Based Multi-Scale Transformer
+[IEEE] 2026-5-25 | A Method for Short-Term Wind Power Forecasting Based on Multi-Scenario Segmentation and Error Correction
+[IEEE] 2026-5-25 | Interference-resistant Radar Reception with Microwave Photonic Time-frequency Matched Signal Selection and Amplification
+[IEEE] 2026-5-25 | Flexible Floating-Gate Optoelectronic Synaptic Transistor for Neuromorphic Visual Processing
+[IEEE] 2026-5-25 | Collaborative Charging Optimization for Wireless Rechargeable Sensor Networks via Heterogeneous Mobile Chargers
+[IEEE] 2026-5-25 | Anti-Interference Coverage Optimization for UWSNs in Time-Varying Underwater Acoustic Environments Based on the DynCov-BiS Algorithm
+[IEEE] 2026-5-25 | Decentralized Adaptive Delayed Control of Large-Scale Nonlinear Systems with Random Couplings and Biased Measurements
+[IEEE] 2026-5-25 | Supervised Feature Selection Guided by Granular-Ball Computing: A Two-Stage Geometry-Driven Framework_supp1-3695768.pdf
+[IEEE] 2026-5-25 | A High-Precision Dual-Domain Signal Denoising and Lightweight Phase Picking Method for Seismic Edge Devices
+[IEEE] 2026-5-25 | Transient Modulation of the Nucleus Accumbens by Transcranial Temporal Interference Stimulation: An fMRI Study in Healthy Adults
+[IEEE] 2026-5-25 | Arrayed triaxial force plate system using high-speed line-scan camera and sampling moiré method for jumping spider measurement
+[IEEE] 2026-5-25 | Bayesian Learning-Based Spectrum Mapping with UAV Path Dynamic Optimization Under Three-dimensional Unknown Environments
+[ACM] 2026-5-25 | Reframing Participation: Inclusion and Democracy in Participatory Design
+[IEEE] 2026-5-25 | Green Synthesis of Multiphase Gd/Gd₂O₃ Nanoparticles Using Hazelnut Husk
+                    <i>(Corylus colurna)</i>
+                    Extract for Biomedical Applications CR-16
+[IEEE] 2026-5-25 | A Data-Driven Magnetic Field Model for the Halbach Arrays of the Magnetically Levitated Planar Motor with Variable Harmonic Coefficients
+[IEEE] 2026-5-25 | Inductive Generation of Rotation-Free Electric Fields and Non-Contact Liquid Characterization Using a Vector-Potential Transformer
+[IEEE] 2026-5-25 | Spatial Encoding Informatical Electromagnetic Sensing for Stress Measurement
+[IEEE] 2026-5-25 | Bilayer Stator BLDC Motor With Auxiliary Stator Driven by One Electronic Speed Controller for Torque Ripple and Vibration Reduction
+[IEEE] 2026-5-25 | MMFormer: Macro-Micro Transformer for Small-Sample Classification of Mars Hyperspectral Image
+[IEEE] 2026-5-25 | A Systolic Random Increment Memory Architecture for Unary Computing
+[IEEE] 2026-5-25 | Hierarchical PatchMatch Depth Estimation with Double-Layer MST Propagation for Urban 3D Reconstruction from Satellite Imagery
+[IEEE] 2026-5-25 | Biogeographical Trends of Benthic Habitats in Guam from WorldView-2/3 Observations Using Advanced Deep Learning
+[IEEE] 2026-5-25 | Distributed Quantum Learning over Near-term Devices: Convergence Analysis and Security Design
+[IEEE] 2026-5-25 | Analytical Framework for Power System Strength
+[IEEE] 2026-5-25 | Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors
+[IEEE] 2026-5-25 | Carbon Intensity Sensitivity Analysis Method for Distribution Networks Based on the ABCD Model
+[IEEE] 2026-5-25 | Design and Application of a Web-Based Real-Time Management System for Massive Vector Data in Power Grid Engineering Feasibility Study and Design
+[IEEE] 2026-5-25 | Optimal Dispatch of AA-CAES Considering State-of-Charge Dependency
+[IEEE] 2026-5-25 | Carbon Pricing, Green Certificates, and Capacity Compensation: Synergistic Effects on Absorption
+[IEEE] 2026-5-25 | Ambient Wind Impact on Air-Cooling Island Thermal-Flow Characteristics and Resultant Thermal Economy of Adjacent Dual Direct Air-Cooling Units Under Unequal Load
+[IEEE] 2026-5-25 | Optimization of Low-Carbon Transition Pathways for Power Systems Considering Renewable Energy Output Uncertainty
+[IEEE] 2026-5-25 | A Field Diagnosis and Repair Case of Ultra-High Voltage Converter Transformer High-Temperature Overheating Fault
+[IEEE] 2026-5-25 | Research on the Integration of DCS and Test Data Acquisition System in Nuclear Power Plants
+[IEEE] 2026-5-25 | Expert Representation-Driven LightGBM for Photovoltaic Power Forecasting
+[IEEE] 2026-5-25 | TMR Anti-Interference Method Based on Spatial Filtering for Multiple Unknown Quantities
+[IEEE] 2026-5-25 | LPGNet: Learnable Prompt-Guided Network for Low-dose Contrast Computed Tomography Angiography Imaging
+[IEEE] 2026-5-25 | Optimizing Server Allocation for Multi-Tenant GPU Inference with Dynamic Batching: A Queueing Theoretic Approach
+[IEEE] 2026-5-25 | Real Mine Data-Driven Multi-Agent Reinforcement Learning for Coordinated Ventilation Fan Operational Scheduling
+[IEEE] 2026-5-25 | Dual Time-Scale Framework for Joint Optimization of Service Caching and UAV Trajectory based on Self Attention Deep Reinforcement Learning
+[IEEE] 2026-5-25 | PhishLumos: From a Single URL to Campaign-Level Phishing Mitigation
+[IEEE] 2026-5-25 | Wheelchair Navigation Assistance via Braille Block Detection with a Single Omnidirectional Camera
+[IEEE] 2026-5-25 | Ultralow detection limit label-free biosensor based on a microbottle resonator for the detection of human chorionic gonadotropin
+[IEEE] 2026-5-25 | Model-Reduction-Based Balance and Locomotion Control of Single-Track-Two-Wheeled Robots Under Strong Disturbances
+[IEEE] 2026-5-25 | Design and Operational Characteristics of a Nuclear Power Unit Coupled with Molten-Salt Thermal Energy Storage
+[IEEE] 2026-5-25 | A Study on Differentiated Pricing Strategies for Demand-Side Response in the Electricity Sector Based on a Maximum Entropy Deep Reinforcement Learning Algorithm
+[IEEE] 2026-5-25 | A Novel Pre-Synchronization Control Scheme of Grid-Forming Converters Based on VSM Control
+[IEEE] 2026-5-25 | Testing Dependency of Weighted Random Graphs
+[IEEE] 2026-5-25 | A Flux-guiding Type Variable Flux Machine with Multi-layer Arc-shaped Magnetic Barriers
+[IEEE] 2026-5-25 | Design of Optimal Gain Mask for Phased Array-Fed Offset Reflectors
+[IEEE] 2026-5-25 | OutDreamer: Video Outpainting with a Diffusion Transformer_supp1-3694129.mp4
+[IEEE] 2026-5-25 | Interpreting Federated Learning by Aggregating SHAP Explanations_supp1-3696009.pdf
+[IEEE] 2026-5-25 | Automated Resume Evaluation Using Large Language Models: A Multi-Agent Framework with Fine-Tuning and Prompt Engineering
+[IEEE] 2026-5-25 | A High-Gain Quadratic DC-DC Converter with Trans-Inverse Property and Low Current Stress
+[IEEE] 2026-5-25 | DORSAL: Downlink Optimization for Robust Direct-to-Satellite LoRaWAN
+[IEEE] 2026-5-25 | A Systematic Design Framework for Multiport Wireless Power Transfer Using the Maximum Efficiency of Multiple Input/Multiple Output Approach
+[IEEE] 2026-5-25 | Get Published in the IEEE Transactions on Privacy
+[IEEE] 2026-5-25 | IEEE Computer Society Information
+[IEEE] 2026-5-25 | Unlock the Benefits - IEEE Computer Society Membership
+[IEEE] 2026-5-25 | T-HAC: Time-Sensitive HLS Trojan Attack for Affecting Controller Timing Signal of Hardware IP Designs
+[IEEE] 2026-5-25 | Collaboration and Engagement in I&amp;M: Rising Star Judy Amanor-Boadu
+[IEEE] 2026-5-25 | Front Cover
+[IEEE] 2026-5-25 | CTransFuse: A Hybrid Transformer-CNN Framework for Precise Meniscus Segmentation and Lesion Identification
+[IEEE] 2026-5-25 | Decision Behavior of Leading Vehicle Driver With Predictive-Forward-Collision-Warning Considering Group Heterogeneity
+[IEEE] 2026-5-25 | Transient Thermal Characterization Method for GaN HEMTs With Different Device Architectures
+[ACM] 2026-5-25 | When Do Large Language Models (LLMs) Struggle to Count Letters?
+[ACM] 2026-5-25 | A2SPM: A Memory Access Acceleration for Neuromorphic Processing with the SPM
+[ACM] 2026-5-25 | Queer, Hybrid Participatory Design: Relational Practices and Norms for Coalition Building with Rural, LGBTQ+ Communities
+[ACM] 2026-5-25 | REVERSELAB. Reclaiming Space and Relations in Prison through Art and Participation
+[ACM] 2026-5-25 | Situated Relational Designing: Re-Discovering Relational Fragments towards Pluriversal Contact Zones by Examining Nordic Mythology
+[IEEE] 2026-5-25 | Frequency-Selective Adaptive Generalized Orthogonal Matching Pursuit for DME Interference Mitigation in Aeronautical Communications
+[IEEE] 2026-5-25 | Modeling and Stability Analysis of the ISOP-Type Cascaded Hydrogen Converter
+[IEEE] 2026-5-25 | Pre- and During-Disaster Co-Optimized Pre-Scheduling Strategy for Distribution Networks
+[IEEE] 2026-5-25 | Research on Daily Power Generation Prediction of Photovoltaic Power Station Considering Meteorological and Dust Factors
+[IEEE] 2026-5-25 | Loss Modeling and Parameter Co-Optimization of GaN QR Flyback Converter for High-Frequency and High-Efficiency Applications
+[IEEE] 2026-5-25 | Adaptive Detection of Early Abnormal States in Inverters via a Mechanism Combining Attention and Transfer Learning
+[IEEE] 2026-5-25 | Research on Hierarchical Decoupling and Service Permission Control Technology for SCD Files in Smart Substations
+[IEEE] 2026-5-25 | Site - Selection and Capacity - Planning Method of Soft Open Points Adaptation to Distributed New Energy Access
+[IEEE] 2026-5-25 | Weakness Analysis of Distribution Network Based on Multi-Source Heterogeneous Data Collaborative Driving
+[IEEE] 2026-5-25 | Transfer Learning Enhanced Multi-Scale Non-Intrusive Load Monitoring with Dual-Branch Decomposition
+[IEEE] 2026-5-25 | Coordinated Control of Active Preheating and Intelligent Balancing for Lithium-Ion Battery Packs Under Low-Temperature Conditions
+[IEEE] 2026-5-25 | MFANet: LiDAR-Camera Extrinsic Calibration via Multi-Features Association with Dual-Branch Cross-Attention
+[IEEE] 2026-5-25 | High Resolution Optical Displacement and Polar Axis Deviation Angle Detection Method for Superconducting Magnetic Levitation Rotor
+[IEEE] 2026-5-25 | Coverage Performance Analysis of FAS-enhanced LoRa Wide Area Networks under both Co-SF and Inter-SF Interference
+[IEEE] 2026-5-25 | OOBA: Object Offset Backdoor Attack for Remote Sensing Object Detection
+[IEEE] 2026-5-25 | BiasField: Interactive Bias Probing of Machine Learning Datasets
+[IEEE] 2026-5-25 | BrushEdit: All-In-One Image Inpainting and Editing_supp1-3695011.pdf
+[IEEE] 2026-5-25 | BEMF-Based PMSM Sensorless Control Using Finite Position Set-PLL Considering Speed Reversal and Computational Burden
+[IEEE] 2026-5-25 | DSA-NRP: No-Reflow Prediction from Angiographic Perfusion Dynamics in Stroke EVT
+[IEEE] 2026-5-25 | Fluid Antennas: An Efficient Approach to Mitigating Packet Loss in Broadband Wireless Communication Systems
+[IEEE] 2026-5-25 | Cascaded Stimulated Raman Soliton Frequency-Shift Amplification Tunable Into the 1.7-μm Spectral Region Based on Erbium-Ytterbium Co-Doped Fiber and Phosphorus-Doped Fiber
+[IEEE] 2026-5-25 | Quantum-Driven State-Reduction for Reliable UAV Trajectory Optimization in Low-Altitude Networks
+[IEEE] 2026-5-25 | Psych-Air: Predictive Smog Analytics for Psychotic Disorder Patients’ Risk Assessment in Smart Cities
+[IEEE] 2026-5-25 | Plasticity-Enhanced Multi-Agent Mixture of Experts for Dynamic Objective Adaptation in UAV-Assisted Emergency Communication Networks
+[IEEE] 2026-5-25 | Dynamic Resource Scheduling for Time-triggered Flows With Deep Reinforcement Learning Algorithm in TSN-5G Network
+[IEEE] 2026-5-25 | Metal Integrated Suspended Line Technology: New Paradigm for Low-Loss RF and Millimeter-Wave Components
+[IEEE] 2026-5-25 | Can LoRA teach? Cross
+                    <i>A</i>
+                    -matrix in Single Space for Low-Rank Knowledge Distillation
+[ACM] 2026-5-25 | Understanding the Role of Future Visions as Infrastructure for Sustainable Living
+[IEEE] 2026-5-25 | Computing Edge
+[IEEE] 2026-5-25 | Masthead
+[IEEE] 2026-5-25 | IRS Aided Non-linear Energy Harvesting with Harvester Sensitivity in CRN: A Deep Reinforcement Learning Approach
+[IEEE] 2026-5-25 | Evaluating the Capability of InSAR-Derived Surface Deformation to Characterize the Spatio-temporal variability of Permafrost Active Layer Thickness in Svalbard
+[IEEE] 2026-5-25 | Adaptive Inertia of DC-link Voltage Synchronization
+[IEEE] 2026-5-25 | Table of Contents
+[IEEE] 2026-5-25 | SDMCC: Sample-wise Debiased Multilevel Contrastive Clustering for Single-cell Gene Expression Data
+[IEEE] 2026-5-25 | Deadbeat Direct Flux Control: Plug-and-Play Torque Controllers for Electrically Excited Synchronous Motors
+[IEEE] 2026-5-25 | A Low-Latency Three-Phase ROI Cropping Architecture for Real-Time Single-Object Localization on FPGA
+[IEEE] 2026-5-25 | High-Frequency Current Transformers in Rotating Machines: A Critical Review
+[IEEE] 2026-5-25 | Normal-Variation-Aware Cross-Domain Zero-Shot Anomaly Detection via Multi-Prompt Learning with CLIP
+[IEEE] 2026-5-25 | Robust and Explainable Physics-Informed Transformer-Based Thermal Parameter Identification of Lithium-Ion Battery Systems
+[IEEE] 2026-5-25 | Superimposed Pilot-Based Adaptive Semantic Communications for Wireless Image Transmission
+[IEEE] 2026-5-25 | Verifiable Error Bounds for Physics-Informed Neural Network Solutions of Lyapunov and Hamilton–Jacobi–Bellman Equations
+[IEEE] 2026-5-25 | Capacity Optimization of CSP Plants Considering Nonlinear Temperature-Efficiency Interdependence
+[IEEE] 2026-5-25 | Research on Evaluation and Optimization of MarketBased Regulation for Charging Resource Clusters Based on Multi-Source Data Fusion
+[IEEE] 2026-5-25 | Multi-Scenario Optimization and Key Factor Assessment of Renewable Energy Utilization Under High Penetration Levels
+[IEEE] 2026-5-25 | Sensorless Control of SPMSM with Unknown Flux Linkage Based on Switching from Standard-Type to Nonlinear-Type Flux Observer
+[IEEE] 2026-5-25 | An Advanced NanocompositeInsulation Framework for High-Voltage Power Equipment
+[IEEE] 2026-5-25 | The Effects of Relaxing Price Limits on Spot Electricity Markets Under High Renewable Penetration
+[IEEE] 2026-5-25 | 2026 5th International Conference on Green Energy and Power Systems (ICGEPS)
+[IEEE] 2026-5-25 | Retention Characteristics of the Synaptic Pass-Transistor Dependent on the Position of the Load Resistor for the Long-Term Plasticity_supp1-3694348.pdf
+[IEEE] 2026-5-25 | A Spiking Few-Shot Learning Framework for Drone RF Signal Recognition
+[IEEE] 2026-5-25 | Simplifying Robotic Ultrasound Calibration Via Conic Sections Geometry_supp1-3695989.mp4
+[IEEE] 2026-5-25 | Multiple Fault Calculation for Distribution Networks with Inverter-Based Distributed Generator Based on Fault Component Network
+[ACM] 2026-5-25 | Watermarking for Model Ownership Verification:Invisible at Deployment, Activated by Updates
+[ACM] 2026-5-25 | Near Optimal Alphabet-Soundness Tradeoff PCPs
+[IEEE] 2026-5-25 | Stress-Aware Modeling in UX: Combining Synthetic Physiological Data Features with Personality-Based Labeling
+[IEEE] 2026-5-25 | The Latens Patronus: Seamless Model Watermarking for Latent Diffusion Model in IoT Environments
+[IEEE] 2026-5-25 | Branching-Ratio-Based Detection Efficiency Calibration of Transition-Edge Sensors at C-Band Wavelengths
+[IEEE] 2026-5-25 | Quickest Change Detection for UAV-Based Sensing
+[IEEE] 2026-5-25 | An Efficient Junction Temperature Prediction Model for Diamond-on-Chip-on-Glass (DoCoG) Packaging Based on Thermal Resistance Network
+[IEEE] 2026-5-25 | Are Deep Learning Based Hybrid PDE Solvers Reliable? Why Training Paradigms and Update Strategies Matter
+[IEEE] 2026-5-25 | Multi-Agent Opportunistic Routing for UAV Swarms: A Deployment-Aligned Robust Learning Framework
+[IEEE] 2026-5-25 | Elastic Cloud Scaling for Small Models: Dynamic Resource Allocation as an Alternative to Training Large LLMs
+[IEEE] 2026-5-25 | MLDCSS: Energy-Aware Multi-Level Cooperative Spectrum Sensing with Hierarchical Fusion and Non-Coherent MIMO in CR-IoT Networks
+[IEEE] 2026-5-25 | PAMA: Provable-Secure Anonymous Multi-Factor Authentication with Post-Quantum Security for IoT-enabled E-Healthcare Systems
+[IEEE] 2026-5-25 | An Improved Beta Burst Extraction for Chip-Based Deep Brain Stimulation with Real-Time Model Updating
+[IEEE] 2026-5-25 | A Deep Bidirectional LSTM Model Enhanced by Transfer-Learning for the Classification of Peripheral Arterial Blood Pressure Waveforms
+[IEEE] 2026-5-25 | Feature Matching-Based Extraction of Independent Ice Floe Motion in the Arctic Marginal Ice Zone
+[IEEE] 2026-5-25 | Voltage Risk Assessment of Power Systems Based on an Electrical Coupling-Aware Temporal Fusion Network Model
+[IEEE] 2026-5-25 | A Photovoltaic Resource Survey Method Guided by UAV Precision Survey Samples and Trained Across Scale Image Mapping
+[IEEE] 2026-5-25 | Harmonic Cancellation-Based Virtual DQ Decoupling Control for Totem-Pole Bridgeless PFC with Enhanced Dynamic and Steady-State Performance
+[ACM] 2026-5-25 | Designing for Living Together
+[IEEE] 2026-5-25 | A 0.2–12-GHz Fast-Settling Wideband Frequency Synthesizer With Stage-Switching Frequency Extender and Continuous Compensation PFDCP
+[IEEE] 2026-5-25 | Table of Contents
+[IEEE] 2026-5-25 | Impact of Acceleration and Imperfect CSI on Multidimensional Waveforms in Doubly Dispersive Channel
+[IEEE] 2026-5-25 | IMS Society Awards
+[IEEE] 2026-5-25 | Regrown-Ohmic-Contacts Enabled GaN HEMTs with Ultra-Low Noise Figures and Superior Power Merits for Wide-Band LNA Applications
+[IEEE] 2026-5-25 | Tri-Hybrid Combining Design in Segmented Pinching-Antenna MU-MISO Uplinks
+[IEEE] 2026-5-25 | Convergence of Large Language Models, Internet of Things, and Process Mining: A Systematic Literature Review
+[IEEE] 2026-5-25 | Theoretical Study and Validation for the High-Gain High-Mode-Purity Double Spiral Vortex Electromagnetic Wave Antenna Array
+[IEEE] 2026-5-25 | General Revenue Adequacy Conditions for Energy Transport Networks
+[IEEE] 2026-5-25 | Beam-Switchable Antenna Array Based on Parasitic Unit Boundary for Customer Premises Equipment
+[IEEE] 2026-5-25 | Diagnosis and Treatment of a Batch-Related Abnormal Gas Generation Fault in Converter Transformers
+[IEEE] 2026-5-25 | High-Precision Modeling of Key Components in Fuel Cell Hybrid Systems and Research on Multi-Physics Coupling Characteristics
+[IEEE] 2026-5-25 | Intertemporal Strategies Amid Technological Interaction during Integration of the IoT and Blockchain_supp1-3695080.pdf
+[IEEE] 2026-5-25 | Net-Zero Carbon Planning for Port Industrial Parks with High-Grade Heat Demand Based on Multi-Objective Optimization
+[ACM] 2026-5-25 | MRGE: Enhancing long-short-term interest session recommendation through multivariate relationship graph embedding
+[ACM] 2026-5-25 | Rethinking Participatory Design as a Political and Pluralistic Practice. Agonistic Coexistence in Prison.
+[ACM] 2026-5-25 | Wisdom in the Loop - Human-Centered AI and African Knowledge Systems in HCI
+[IEEE] 2026-5-25 | Research on dynamic load and trajectory detection method of maize threshing based on the bionic electronic maize ear
+[IEEE] 2026-5-25 | CoGFormer: A Context-Gated Spatial Transformer With Temporal-Spatial Gated Graph Convolution for Traffic Flow Forecasting
+[IEEE] 2026-5-25 | A High-Band Phase Synchronization Approach for Distributed UAV SAR
+[IEEE] 2026-5-25 | Modeling of multi-service queueing systems with traffic overflow
+[IEEE] 2026-5-25 | Ultra-compact Ultra-low-loss 1 × 2 Power Splitter for Broadband SiN-LNOI Photonics via DBS Inverse Design
+[IEEE] 2026-5-25 | Photonics Breakthroughs 2025: Parallel Photonic Machine Learning With a Nonlinear Amplifying Loop Mirror
+[IEEE] 2026-5-25 | Beyond Sequential Scanning: A Synergistic Mamba Paradigm with Adaptive Receptive Recalibration for Hyperspectral Image Classification
+[IEEE] 2026-5-25 | Model-Data Co-Driven Detection of False Data Injection Attacks for Two-Stage Volt/Var Control in Distribution Networks
+[IEEE] 2026-5-25 | An Hybrid Photovoltaic Power Prediction Model Based on VMD-ICPO-LSTM
+[IEEE] 2026-5-25 | Fuzzy Event-Driven Optimal Quantized Control for USVs under Thruster and Positioning Constraints: An Adaptive Dynamic Programming Method
+[IEEE] 2026-5-25 | Modality-Guided Feature Alignment and Complementary Enhancement for Infrared-Visible Object Detection
+[IEEE] 2026-5-25 | Cross-Domain Radar Gesture Generation via Diffusion Models with Transfer Guidance and Physical Priors
+[IEEE] 2026-5-25 | Difference-Based Recovery for Modulo Sampling: Tightened Bounds and Robustness Guarantees
+[IEEE] 2026-5-25 | Constellation Selection and Power Control for OFDM-based ISAC: From Theory to Prototype
+[IEEE] 2026-5-25 | Reentrancy Vulnerability Detection in Smart Contracts Based on Adversarial Examples
+[IEEE] 2026-5-25 | Trans-MAML: Meta-Learning Enhanced Transformers for Human Activity Recognition in WiFi CSI Sensing
+[IEEE] 2026-5-25 | A Dual Asynchronous-synchronous Relation Graph Method for Sensor-based Group Activity Recognition
+[IEEE] 2026-5-25 | Home-Charging Sufficiency for EVs in Hot Desert Climates: A Real-World GPS Case Study from Qatar
+[IEEE] 2026-5-25 | 3D SLAM and Deep Learning for Real-Time Fire Localization in Ship Engine Rooms
+[IEEE] 2026-5-25 | Comparative Study Between On- and Off-grid Photovoltaic to Reduce Peak Demand in Residential Houses
+[IEEE] 2026-5-25 | CASSIS: An LLM-Driven Framework for Sensitive API Identification in Cyber–Physical System Software Repositories
+[ACM] 2026-5-25 | Creating a University-based Accessible Makerspace for Use by Local Community Members through Participatory Design Workshops
+[ACM] 2026-5-25 | Participants on Participation
+[ACM] 2026-5-25 | PCB-QA: A Task-Specific Question Answering Framework for Text-Centric Chip Datasheet Queries in PCB Design
+[IEEE] 2026-5-25 | RHFormer: A Residential Electricity Load Forecasting Model
+[IEEE] 2026-5-25 | An Improved Zonotope-Based Method for Flexible Resource Aggregation
+[IEEE] 2026-5-25 | Fault Analysis and Handing of a Converter Transformer Overheating Gas Production
+[IEEE] 2026-5-25 | Investigations of magnetic properties of nanoribbon arrays based on Co and Cu
+[IEEE] 2026-5-25 | A CGAN-LSTM-Based Framework for Time-Varying Non-Stationary Channel Modeling
+[IEEE] 2026-5-25 | How Far Are We from Generating Missing Modalities with Foundation Models?
+[IEEE] 2026-5-25 | Simultaneous Sensing Data Acquisition and Sharing in Low-Altitude Wireless Networks: Fundamental Limits and Signaling Design
+[IEEE] 2026-5-25 | A Universal and Lightweight Automated Design Framework for Multi-Band Power Amplifiers
+[IEEE] 2026-5-25 | APT: Optimal Tree for Diagnosis Simulation and Various Diagnosis Applications
+[IEEE] 2026-5-25 | Sentiment Hypergraphs with Hierarchical Reasoning: A Novel Framework for Advanced Aspect-Based Sentiment Analysis
+[IEEE] 2026-5-25 | Hybrid Grid-Forming Control for Enhanced Active Support and DC Voltage Stability in MMC-HVDC Systems
+[IEEE] 2026-5-25 | Spectral Diagnostics of Emergence: A Random Matrix Baseline and a Mesoscopic Regime from Competing Scales
+[IEEE] 2026-5-25 | Analysis and Experiment of Isolated DC-DC Converter Using Multiple Cascaded Chopper Cells with Phase-Shift Application
+[IEEE] 2026-5-25 | Robust Real-Time Human Activity Recognition via 2D Tensor CNN with Change Point Detection and Confidence-Based Prediction Filtering
+[IEEE] 2026-5-25 | Machine Learning for Network Optimization: An Empirical Performance Analysis Across Diverse Traffic Scenarios
+[IEEE] 2026-5-25 | Artificial Intelligence-Driven Design Automation of RF and Millimeter-Wave Circuits and Systems
+[IEEE] 2026-5-25 | Joint Beamforming and Deployment Optimization for Active STAR-RIS Enabled Covert Communications
+[IEEE] 2026-5-25 | Enhancing Service Function Chain Performance in SDN/NFV-Enabled Space-Air-Ground Integrated Vehicular Networks: A Three-Sided Stable Matching Approach
+[ACM] 2026-5-25 | Making Policy Work: Navigating Organisational Inertia Through Participatory Design
+[ACM] 2026-5-25 | Theatre of the Tech-Oppressed: Exploring Algorithmic Injustice Through Participatory Performances
+[IEEE] 2026-5-25 | SwinLoAttn-DIP: A Hybrid Transformer-Enhanced Deep Image Prior for Microscopic EIT Sensing
+[IEEE] 2026-5-25 | Simultaneous Temperature and Salinity Sensing via FBS and FWM
+[IEEE] 2026-5-25 | Development of Columnar Tin-Doped Gallium Oxide Films Using an RF/DC Co-Sputtering Technique of Dual-procedure for Hydrogen Sulfide Sensing Applications
+[IEEE] 2026-5-25 | Truthful Online Preference Aggregation for LLM Fine-Tuning in Mobile Crowdsourcing
+[IEEE] 2026-5-25 | Effect of Annealing on the Microstructure and the Magnetostrictive Property of Nanogranular Fe-B-N Alloy Thin Film
+[IEEE] 2026-5-25 | Progressive Point Cloud Denoising Guided by Unsigned Distance Function
+[IEEE] 2026-5-25 | Topology-Guided Knowledge Transfer for Multiobjective Multitask Optimization
+[IEEE] 2026-5-25 | Evolving Robot Morphology with Manipulation Learning Inspired by Human Hand Evolution
+[IEEE] 2026-5-25 | Fully Automated Schematic and Layout Design of Millimeter-Wave CMOS Power Amplifiers Using Prior Knowledge-Guided Decomposition and Machine Learning-Assisted Optimization
+[IEEE] 2026-5-25 | Time-Frequency Feature-Guided Progressive Attention DenseNet for Audio Magnetotelluric Noise Detection
+[IEEE] 2026-5-25 | Personalized Diabetes Care: Discovering Diabetes Mindset Disparities From Metaphorical Cognition
+[IEEE] 2026-5-25 | Emoji-Free Sarcasm Detection in Code-Mixed Text via Emotion-Polarity Divergence
+[IEEE] 2026-5-25 | Ultra-Flat Gain Profile With Raman Amplification Employing Combined Coherent and Incoherent Pumps
+[IEEE] 2026-5-25 | Analysis of Carbon Reduction Strategies for ParksConsidering Dynamic Carbon Emission Factors and Energy Storage Optimization
+[IEEE] 2026-5-25 | Identification of Electricity Load Fluctuation Characteristics in the Textile and Apparel Industry Based on CatBoost Algorithm Model
+[IEEE] 2026-5-25 | Hydro-Thermal Optimization of Battery Thermal Management Based on 3D Composite Variable Cross-Section Channels Under Low Pump Power Conditions
+[IEEE] 2026-5-25 | Air Handling Unit Fault Diagnosis via Bayesian Network Parameter Optimization Under Data-Scarce Conditions
+[IEEE] 2026-5-25 | A Short-Term Multivariate Load Forecasting Model Based on ILSO-WTC-BILSTM
+[IEEE] 2026-5-25 | Text-Image Guided Retrieval Network for Triple-modal Images Few-Shot Semantic Segmentation
+[IEEE] 2026-5-25 | LiDAR Fusion-based Optimized Path Selection for Autonomous Vehicles using the Verification Model
+[IEEE] 2026-5-25 | Low-cost Parallel Transmission for Dense Indoor Data Collection with LoRaWAN: Time Synchronization and Resource Allocation
+[IEEE] 2026-5-25 | Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging
+[IEEE] 2026-5-25 | Model Analysis and Research of Equivalent Capacitance of Multi-segment Induction Coil in Aviation Electromagnetic Measurement System
+[IEEE] 2026-5-25 | C
+                    <sup>3</sup>
+                    DG: Conditional Domain Generalization for Hyperspectral Imagery Classification with Convergence and Constrained-risk Theories
+[IEEE] 2026-5-25 | CSEM3DINV: A Scalable 3-D parallel inversion framework for multi-source CSEM data
+[IEEE] 2026-5-25 | Two-Stage Optimization for Multi-Objective Dynamic Vehicle Routing Problem with Time Windows under Uncertainty_supp1-3696098.pdf
+[IEEE] 2026-5-25 | LLM-Guided Multiobjective Optimization for Physically-Plausible and Diverse 3D Human Motion Generation
+[IEEE] 2026-5-25 | DCT: Dimensional Collapse Tiling for Tensor Operators on Attention Accelerators
+[IEEE] 2026-5-25 | A Robust Synchronization Method for Enhancing Stability of IBR-Dominated Grids
+[IEEE] 2026-5-25 | Hybrid p-n Junction/Ohmic Gate p-GaN HEMT with Enhanced Threshold Voltage Stability and Large Gate Swing
+[IEEE] 2026-5-25 | Operationalizing Urgent Computing for Wildland Fire: A Case for Readiness
+[IEEE] 2026-5-25 | A Study on the Modeling of Energy-Intensive Industrial Loads and Their Control Potential in Production Processes
+[IEEE] 2026-5-25 | Wind Power Forecasting via MSTL Decomposition and Complexity-Driven Dual-Branch Deep Learning
+[IEEE] 2026-5-25 | STWFormer: Spatial-Temporal Sparse Transformer with Adaptive Gating for Multi-Location Wind Power Forecasting
+[IEEE] 2026-5-25 | Physical-Data Dual-Driven Method for Power Scheduling Auxiliary Decision: PDEVR Closed-Loop Framework with Constrained Large Language Model
+[IEEE] 2026-5-25 | Low-Communication Adaptive Volt/Var Control for PV-Rich Distribution Networks
+[IEEE] 2026-5-25 | A 6–16 GHz Reflectionless Downconverter Using Fast-Settling Digital-Coarse Feed-Forward AGC
+[IEEE] 2026-5-25 | PCB-Embedded SiC MOSFET Packaging Using Shield to Suppress Near-Field Magnetic Radiation
+[IEEE] 2026-5-25 | Optimization Analysis of Core Loss and Rotor Eddy Current Loss in Aircraft Excitation Built-In Hybrid Excitation Brushless Machine
+[IEEE] 2026-5-25 | DRoPE: Directional Rotary Position Embedding for Efficient Agent Interaction Modeling
+[IEEE] 2026-5-25 | Correlation-Driven Extended Target Detection in the Frequency Domain: High-Speed Waveform Design
+[IEEE] 2026-5-25 | Asymmetric Antenna for Mobile Platforms with Common-Mode Current Suppression
+[IEEE] 2026-5-25 | Multiple Optical Waveguide Tactile Sensor for Differentiating Micro- and Macro-Scale Tangential Displacements
+[IEEE] 2026-5-25 | Schrödinger Bridges of Averaged Systems
+[IEEE] 2026-5-25 | Reshaping Wireless Channel using UAV Swarms: A User-Centric Approach with Practical Constraints
+[IEEE] 2026-5-25 | Distributed Triangulation Filter for Target Motion Estimation via Bearing-Only Measurements_supp1-3695606.mp4
+[IEEE] 2026-5-25 | A Fusion Algorithm for Ground Roll Suppression Methods based on Adversarial Matching Filtering
+[IEEE] 2026-5-25 | Seeking Safety From Uncertainty: Probabilistic Vessel Trajectory Prediction With a Flow-Based Generative Model
+[IEEE] 2026-5-25 | Interpretable Undergraduate Dropout Prediction via Explainable Boosting and Gaussian Hidden Markov Models
+[IEEE] 2026-5-25 | Risk-Aware Rulebooks for Multi-Objective Trajectory Evaluation under Uncertainty
+[IEEE] 2026-5-25 | EA-APO: A Universal Proactive Defense Against Facial Manipulation
+[IEEE] 2026-5-25 | Definitional-Closure-Constrained Multi-Task Retrieval of Leaf LMA, EWT, and FMC From Hyperspectral Spectra
+[IEEE] 2026-5-25 | Personalized Privacy-preserving Task Allocation in Spatial Crowdsourcing
+[IEEE] 2026-5-25 | NOVA: A Self-Supervised Graph Framework for Real-Time Anomaly Detection in Internet of Vehicles
+[IEEE] 2026-5-25 | FASE: FPGA-Assisted Syscall Emulation for Rapid Early-Stage Processor Performance Evaluation
+[IEEE] 2026-5-25 | Optimization Method for Safety Domain of Electric Vehicle Cluster and Distributed Photovoltaic Collaborative Operation Based on Graph Reinforcement Learning
+[IEEE] 2026-5-25 | A Rapid Method for Evaluating Power Grid Capacity by Integrating Graph Neural Networks and Deep Reinforcement Learning
+[IEEE] 2026-5-25 | Research on Dark Fermentation-Driven Biological Hydrogen Production Systems
+[IEEE] 2026-5-25 | Research on IGBT Open-Circuit Fault Diagnosis for Grid-Connected Photovoltaic Inverters Based on EVR-RF
+[IEEE] 2026-5-25 | Research on Data Simulation and Energy Analysis Based on Multi-Stage Membrane Separation Process
+[IEEE] 2026-5-25 | Experimental Study on the Threshold of Loss of Vacuum in an NBI Cryopump Under Liquid-Helium Flow-Loss Conditions
+[IEEE] 2026-5-25 | Co-Optimization of Capacity Configuration and Operational Scheduling for a Park-Level Integrated Energy System
+[IEEE] 2026-5-25 | A Subdivision Analytical Model for Accurate Prediction, Rapid Positioning and Degree Evaluation of Irreversible Demagnetization of Permanent Magnets in Surface-Mounted Permanent Magnet Motors
+[IEEE] 2026-5-25 | A Comprehensive Study on the Evolution of Different Motivations and Architectures of YOLO
+[IEEE] 2026-5-25 | A Robust Tamper-Resistant and Location-Aware Authentication Protocol for Securing Charging Services in V2G Environments
+[ACM] 2026-5-25 | Agentic PD: Rethinking Participatory Design through a Transformative Agency Lens
+[ACM] 2026-5-25 | Designing Responsible AI with Indigenous Communities: Towards Participatory AI with ovaHimba and San People in Namibia
+[ACM] 2026-5-25 | Infrastructuring and Place
+[IEEE] 2026-5-25 | Outlier Detection of Electricity Load Anomalies in the Leather Manufacturing Industry Based on the Isolation Forest Algorithm
+[IEEE] 2026-5-25 | Topology Optimization Design of Pemfc Cathode Flow Field Based on Composite Objective Function
+[IEEE] 2026-5-25 | Effect of Gradient Distribution of Platinum Content and Perforation Structure on Reaction Transport Processes in the Catalytic Layer
+[IEEE] 2026-5-25 | Spatio-Temporal Feature Fusion Network with Multi-Head Attention for Electricity Spot Price Forecasting
+[IEEE] 2026-5-25 | Standardized Commercial Building Cooling Audits for Low-Carbon Power Systems: An ANSI/ASHRAE Standard 211 Framework to Operationalize National Cooling Action Plans
+[IEEE] 2026-5-25 | Thermoeconomic Study on Low-Carbon Steam System Retrofitting in a Pulp and Paper Mill
+[IEEE] 2026-5-25 | Fundamental Limit of Discrete Distribution Estimation under Utility-Optimized Local Differential Privacy
+[IEEE] 2026-5-25 | Decentralizing Land Registry Infrastructure: Consumer-Run Shared Blockchain for Sustainable Agricultural Applications
+[IEEE] 2026-5-25 | A Hierarchical Deep Reinforcement Learning Framework for Dependency-Aware Task Offloading in Edge Computing
+[IEEE] 2026-5-25 | Is Geometry Enough? An Evaluation of Landmark-Based Gaze Estimation
+[IEEE] 2026-5-25 | Analysis and Optimization of Spatially Correlated STAR-RIS Assisted Secure Massive MIMO Systems
+[IEEE] 2026-5-25 | Multi-AUV Cooperative Path Planning Based on Plasticity Injection TD3 Framework for IoUT Data Collection
+[IEEE] 2026-5-25 | RDSAN-CDS: An RD Spectrum-Aware Network With Controllable Detection Sensitivity for HFSWR Target Detection
+[IEEE] 2026-5-25 | Robust Fine-Grained Oriented Ship Detection for Remote Sensing imagery via Controllable Generative Pretraining
+[IEEE] 2026-5-25 | Accelerated Landweber regularization for vehicle velocity from high-rate GNSS positioning
+[IEEE] 2026-5-25 | LassoNet-GNN: A Catalyst for Few-Shot Distorted SAR Image Classification
+[IEEE] 2026-5-25 | Evaluating Large Language Models as Substitutes for Human Affective Ratings in Naturalistic Paradigms
+[IEEE] 2026-5-25 | ERMoV: Modeling Affective Mental States via Emotion Regulation for Dialogue Emotion Recognition
+[IEEE] 2026-5-25 | High-Speed GaN Position Sensitive Detector for Visible-Blind Ultraviolet Detection
+[IEEE] 2026-5-25 | An Adaptive Fusion Network for Breast Tumor Grading Based on Graph Structure Learning
+[IEEE] 2026-5-25 | Global Fast Control for Finite-Time Consensus in Multi-Linear Motor Systems
+[IEEE] 2026-5-25 | Multi-Satellite Beam-Hopping Scheduling for Coexisting NGSO Satellite Networks Based on Electromagnetic Map-Driven Interference Avoidance
+[ACM] 2026-5-25 | Recollecting with Collectives towards Coexistence: A Theoretical Framework for Participatory Design in Times of Climate Crises
+[ACM] 2026-5-25 | Weaving Peace in a World of Conflict: Conversations about Participatory Design
+[ACM] 2026-5-25 | Using Design Projects to Understand Youths’ Experiences with AI
+[IEEE] 2026-5-25 | Camera-based Blood Pressure Monitoring Using Pulse Transit Time from Depolarized Skin Layers
+[IEEE] 2026-5-25 | BatteryGPT: A Generative Pre-Training Method for Battery State-of-Health and Remaining Useful Life Estimations
+[IEEE] 2026-5-25 | Interfacial Charge Regulation in β-Ga
+                    <sub>2</sub>
+                    O
+                    <sub>3</sub>
+                    /rGO Extended-Gate Field-Effect Transistors for pH and Theophylline Detection
+[IEEE] 2026-5-25 | Adaptive Subspace Signal Detection and Performance Analysis in Nonzero-Mean Clutter
+[IEEE] 2026-5-25 | Unrepeated White Rabbit Time Synchronisation Over a 300 km Optical Fibre Link
+[IEEE] 2026-5-25 | Fusion of Multi-Source Data for Comprehensive Assessment of Phytoplankton Composition
+[IEEE] 2026-5-25 | On Improved Modeling for LEO Doppler Spread
+[IEEE] 2026-5-25 | A Comprehensive Review of Fault Identification, Protection, and Localization Strategies in HVDC Transmission Systems
+[IEEE] 2026-5-25 | Reinforcement learn-based dialogue policy with LLM-assisted decision distillation
+[IEEE] 2026-5-25 | Cert-ADD: Certified Adaptive Directional Defense Against Backdoor Attacks in Smart Homes Vision_supp1-3696003.pdf
+[IEEE] 2026-5-25 | Jointly optimizing global generalization and local personalization via prompt fusion for Heterogeneous Consumer Electronics
+[IEEE] 2026-5-25 | Synchronous High-Bandwidth Composite Control of Fast–Slow Coordinated Tool Servos for Diamond Turning of Functional Optical Surfaces
+[IEEE] 2026-5-25 | Enhancing Brain Signal Generation Through A Hybrid Approach Integrating Reinforcement Learning And Diffusion Models
+[IEEE] 2026-5-25 | A Stiffness-Adaptive Visuo-Tactile Robotic Palpation System for Surface Texture Profiling and Deep Lesion Localization
+[IEEE] 2026-5-25 | AI’s 10 to Watch
+[IEEE] 2026-5-25 | Kinematically-Constrained Marching for Optimal Reeds-Shepp Nonholonomic Path Planning on 2D Cartesian Grids_supp1-3695992.mp4
+[IEEE] 2026-5-25 | Iterative Moveout Correction for Seismic Gather Based on a Random Stacking Model Trace
+[IEEE] 2026-5-25 | STH-CL: Spatial and Temporal Hypergraph Contrastive Learning for Radar Signal Sorting
+[IEEE] 2026-5-25 | Mixed Fault Diagnosis of Photovoltaic Array Based on Random Forest-Self-Training Bayesian Optimization Support Vector Machine
+[IEEE] 2026-5-25 | Key Factors by which Active Distribution Networks Influence Transmission System Transient Stability
+[IEEE] 2026-5-25 | Optimization of Coal Mill Output Combination for Multi-Load Operation of the Coal-Fired Unit
+[IEEE] 2026-5-25 | Impedance Modelling and Stability Analysis of Grid-Connected Inverters with Power Loop and Feedforward Control
+[IEEE] 2026-5-25 | Reliability Evaluation for the 110 kV Station-Level Protection System Based on Markov Model Considering Self-Checking Mechanisms
+[ACM] 2026-5-25 | From Control to Co-Evolution: Rethinking Participation in Bio-Inclusive Design
+[ACM] 2026-5-25 | Infrastructuring Participatory Scaffolds with People with Profound Intellectual Disabilities in Community Gallery
+[ACM] 2026-5-25 | IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection
+[IEEE] 2026-5-25 | A Data-Driven Safety Risk Identification Method for Grid-Connected Energy Storage Systems
+[IEEE] 2026-5-25 | Energy Consumption Analysis and Energy Saving Optimization of Air Conditioning System in Constant Temperature Laboratory of Scientific Research
+[IEEE] 2026-5-25 | An Improved Transient Voltage Stability Assessment Method for the Renewable Energy Plants
+[IEEE] 2026-5-25 | Memristor PID Algorithm Based on PSO-Optimized BP Neural Network
+[IEEE] 2026-5-25 | Preface
+[IEEE] 2026-5-25 | Research on Lithium-Ion Battery Health Estimation Methods Based on SMA-GPR
+[IEEE] 2026-5-25 | Electricity-Carbon Joint Pricing Guided Coordinated Low-Carbon Operation Strategy for Coupled Vehicle-Road-Grid Systems
+[IEEE] 2026-5-25 | Design of a Fast Battery Balancer Based on Resonant Switching Capacitors
+[IEEE] 2026-5-25 | YOLO-IRPower: An Efficient Infrared-Based Power Equipment Detection Algorithm
+[IEEE] 2026-5-25 | An Informer-Based Decision-Oriented Wind Power Forecasting Method with Two-Stage Training for Electricity Spot Markets
+[IEEE] 2026-5-25 | Research on Investment Optimization of Rural Distribution Network Under the Background of Electric Vehicles Going to the Countryside
+[IEEE] 2026-5-25 | StarPicker: A Technique for Selecting Dense Small Targets in AR-based Data Visualization Environments
+[IEEE] 2026-5-25 | MMA++: Effective Multi-Modal Adaptation for Vision-Language Models
+[IEEE] 2026-5-25 | Robotic Steerable Sheath for Left Atrial Appendage Occlusion
+[IEEE] 2026-5-25 | Scalable and Robust Resource Provisioning via Adaptive Task Scheduling for Edge Devices
+[IEEE] 2026-5-25 | CAF-Net: A Cross-modal Adaptive Fusion Network for GNSS-R Soil Salinity Retrieval
+[IEEE] 2026-5-25 | Modeling and Analysis of Operating Limits of the Differential Boost Inverter
+[IEEE] 2026-5-25 | An Improved Sparse-Aware Efficient Bayesian Convolutional Neural Networks via Optimized Weight Sampling and Pruning
+[IEEE] 2026-5-25 | Hadamard-Transform-Based CAP Modulation
+[IEEE] 2026-5-25 | Wideband HF Ionospheric Channel Evolution Over Distances: Measurement and Statistical Modeling
+[IEEE] 2026-5-25 | An Untrimmed Cryogenic Voltage Reference Based on Saturation-to-Linear Transition Achieving 60.3 ppm/K TC and 0.56% Inaccuracy
+[IEEE] 2026-5-25 | Single Hole Spin Qubit Optimization in SOI Quantum Dots Via $\bm {k}\cdot \bm {p}$ Simulations and Perturbative Analysis
+[ACM] 2026-5-25 | Frames of Participation: Design as Enquiry in Exploring Technological Futures of Emergency Care
+[IEEE] 2026-5-25 | Flexible Electrically Small Yagi-Uda Antenna with Enhanced Bandwidth
+[IEEE] 2026-5-25 | Multi-Tier UAV Edge Computing Towards Long-Term Energy Stability for Low Altitude Networks
+[IEEE] 2026-5-25 | Cascade Skip-Connection BiLSTM Autoencoder for CPR Artifact Removal Prior to AED Shock Advisory
+[IEEE] 2026-5-25 | TS-WAEM: A Two-Stage Waveform-Aware Adaptive Ensemble Method for Magnetic Core Loss Prediction
+[IEEE] 2026-5-25 | DRL-based Trajectory Planning for UAV-Assisted Communication Systems
+[IEEE] 2026-5-25 | Data-Driven Machine Learning Analysis of Pulse Compression in Praseodymium-Doped Tapered Photonic Crystal Fiber
+[IEEE] 2026-5-25 | Shoveling-Induced Slip Prediction for Distributed Electric Wheel Loaders: A Feature-Enhance CNN-BiLSTM Approach
+[IEEE] 2026-5-25 | The Impact of Different Ionospheric Mapping Functions on Modeling Global Ionospheric Vertical Total Electron Content
+[IEEE] 2026-5-25 | Hyperbolic Geometry-Guided Unsupervised Domain Adaptive Semantic Segmentation in Remote Sensing
+[IEEE] 2026-5-25 | FT-ESO Based Fixed-Time Secondary Control for DC Microgrids with Unknown External Disturbances
+[IEEE] 2026-5-25 | Real-Time 2-D-to-1-D Decomposition of Roesser Models via Sylvester Equation Transformation With Interval-Constrained Balanced Model Reduction
+[IEEE] 2026-5-25 | Electrical Degradation and Trapped Charge Evolution in SiC MOSFETs Under Power-Cycling Stress
+[IEEE] 2026-5-25 | A Resilient Edge-Cloud Orchestration Framework for Sustaining Tactical Intelligence Continuity in LLM-Enabled V2X Systems
+[IEEE] 2026-5-25 | Optimal Synthesis of Reconfigurable Sparse Arrays with Dynamic Range Ratio Constraints
+[IEEE] 2026-5-25 | CIG-MAE: Cross-Modal Information-Guided Masked Autoencoder for Self-Supervised WiFi Sensing
+[IEEE] 2026-5-25 | High Sample Utilization Reinforcement Learning Algorithm Based on MMD Distance Symmetric Causal Inference
+[IEEE] 2026-5-25 | Research on Identification Method of Critical Nodes for Power Grid Support Capability
+[ACM] 2026-5-25 | Digesting Östersjön Data
+[ACM] 2026-5-25 | Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds
+[IEEE] 2026-5-25 | DWDMixer: Detail-Aware Wavelet Decomposition and Mixing for Time Series Forecasting in IoT Systems
+[IEEE] 2026-5-25 | Graph Continual Learning Based Lithium-Ion Battery State of Health Prediction With Longer-Range Patterns Discovering
+[IEEE] 2026-5-25 | Context-Aware Itinerary Planning in Smart Tourism: IoT Enabled Design and Tourist Profiling
+[IEEE] 2026-5-25 | Learning Approach to Optimal Grasping Planning Using Vision-Based Tactile Perception
+[IEEE] 2026-5-25 | Symbolic-in-the-Loop: Leveraging Knowledge Graph Engineering to Ensure High-Assurance Generative Artificial Intelligence Outcomes
+[IEEE] 2026-5-25 | Special Issue on Quantum Networks: Part II
+[IEEE] 2026-5-25 | Frequency-Oriented HLS Accelerator Exploration via Congestion-Aware Mapping on Multi-Die FPGA
+[IEEE] 2026-5-25 | Editorial
+[IEEE] 2026-5-25 | Robust Domain Modeling of Electric Vehicles and its Optimal Operation Strategy for Energy-Frequency Regulation
+[IEEE] 2026-5-25 | CEEMDAN and Wavelet Thresholding for HVDC Power Quality Denoising
+[IEEE] 2026-5-25 | Neuromuscular Control of CT and LCA Muscles in Human Vocal Pitch and Register Regulation: Insights from sEMG Analysis_supp1-3695957.pdf
+[IEEE] 2026-5-25 | Communication-Efficient Federated Learning via Fractional-Order Gradient Descent With Adaptive Momentum Under Non-IID Data
+[IEEE] 2026-5-25 | Post-Silicon Deception: Evasive Hardware Trojan Through Adversarial Power Trace
+[IEEE] 2026-5-25 | A Multi-Phase Multi-Path Hybrid SC Buck Converter with Enhanced DCR-Loss Reduction and Alleviated
+                    <i>I</i>
+                    <sub>CF</sub>
+                    Gathering for 9-48 V-Input PoL Conversions
+[IEEE] 2026-5-25 | A Novel n⁺/i-well Dot Ge₁₋ₓSnₓ-on-Si Single-Photon Avalanche Photodiode for High-Fill-Factor Room-Temperature Quantum Applications
+[ACM] 2026-5-25 | Encountering, Engaging with and Nurturing Relations in PD Processes - An Explorative Approach to Relational Work and Reflexivity
+[ACM] 2026-5-25 | Participation and the Troubles with Intelligence
+[ACM] 2026-5-25 | Decentralized, Distributed, and Resilient Pathfinding for Dynamic, GPS-Denied Environments Using Visual Common Landmarks
+[IEEE] 2026-5-25 | Learning Policy-Dependent Traversability for Terrain-Aware Quadruped Navigation
+[IEEE] 2026-5-25 | A Low-Cost MEMS-Based Vertical Inertial Navigation and Condition Monitoring System for Mineshafts
+[IEEE] 2026-5-25 | Textless, Tiny, and Private: Hashed n-Grams With LLM-Teacher Distillation and Local Differential Privacy for Mental-Health Screening on Social Media
+[IEEE] 2026-5-25 | End-to-End Architecture for LLM-Based Business Process Automation: A Low-Code Integration Framework with Performance Benchmarking
+[IEEE] 2026-5-25 | Overcoming RF Hurdles in 5G/6G Satellite-Terrestrial Integration
+[IEEE] 2026-5-25 | Knowledge-Guided Deep Reinforcement Learning for Timely State Estimation in Wireless Embodied Networks
+[IEEE] 2026-5-25 | A Flexible Electrochemical Sensor with Sensitive and Selective Performance for Real-Sample Cholesterol Detection Enabled by PANI/Cu&amp;#x2082;O Nanohybrids_supp1-3694112.docx
+[IEEE] 2026-5-25 | RC-DOA: DOA Estimation Based on Residual-ConvNeXt
+[IEEE] 2026-5-25 | Design and Analysis of Phase Conjugation-Based Self-Alignment Beamforming for RIS-Assisted Terahertz SWIPT
+[IEEE] 2026-5-25 | Distributed Online Convex Optimization with Nonseparable Costs and Constraints
+[IEEE] 2026-5-25 | Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications
+[IEEE] 2026-5-25 | Maximize Quantum Network Throughput via EPS Placement and Lightweight Entanglement Routing
+[IEEE] 2026-5-25 | FGAIM: Identifying Drug-Target Activation and Inhibition Mechanisms via Inductive Graph Neural Networks Based on Fine-Grained Interaction Strategies_supp1-3695928.pdf
+[IEEE] 2026-5-25 | Improved Nondestructive Ultrasound Molecular Imaging with Lightweight Convolutional Neural Network_supp1-3687142.mp4
+[IEEE] 2026-5-25 | Aging Characteristics of XLPE Insulation Materials for 500 kV HVDC Cables
+[IEEE] 2026-5-25 | Research on Anomaly Detection Scheme for Terminal Behaviors in the Power Internet of Things
+[IEEE] 2026-5-25 | Constant Voltage Output Control Technique for LCCS Topology Wireless Power Transfer Systems Based on Generalized Predictive Control
+[ACM] 2026-5-25 | Rebuilding Place, Reframing Identity: Participatory Visual and Environmental Tools for Intercultural and Marginalised Communities
+[IEEE] 2026-5-25 | Reinforcement Learning-Based Adversarial Scatterer Generation for Attacking SAR Image Target Detectors
+[IEEE] 2026-5-25 | A Heterogeneous Crowd Agents Collaborative Scheduling Method for Complex Spatiotemporal Environments
+[IEEE] 2026-5-25 | Discriminative Knowledge Fuzzy Transfer Learning Guided by Resting-state EEG for Cross-subject Emotion Recognition
+[IEEE] 2026-5-25 | TACOS: A Topology-Aware Cooperative Multiagent Framework for Power-Computing Coscheduling in Data Center Microgrids
+[IEEE] 2026-5-25 | Stacked Intelligent Metasurface–Assisted Fluid Antenna Systems: Outage Probability
+[IEEE] 2026-5-25 | Hybrid multiplexing demodulation system based on AWG theory for high-capacity FBG sensing network
+[IEEE] 2026-5-25 | Signal-Injection-Free Online Identification of Temperature-Dependent Electrical Parameters for SPMSM Drives: An Alternating Dual-Adaline Approach
+[IEEE] 2026-5-25 | Principled, Model-Free State Estimation: From Constrained Smoothness to Hierarchical Energy
+[IEEE] 2026-5-25 | Urban Power Grid Load Forecasting and Analysis Based on BO-AM-CNN-KAN and SHAP
+[IEEE] 2026-5-25 | Table of Contents
+[IEEE] 2026-5-25 | RF-Sputtered CoFeB Films with Switch-Like Magnetic Response for Wireless Power Transmission in Implantable Devices
+[IEEE] 2026-5-25 | UAV-Aided Mmwave Massive MIMO Broadcasting With Rotatable Antenna Array
+[IEEE] 2026-5-25 | Multimodal Mixture-of-Experts for ISAC in Low-Altitude Wireless Networks
+[IEEE] 2026-5-25 | FS-CrossMamba: Dual-Branch Frequency-Guided Spatial and Spectral-Attention Driven Spectral Cross-Mamba Network for Hyperspectral Image Classification
+[IEEE] 2026-5-25 | IEEE Quantum Week
+[IEEE] 2026-5-25 | ISAR Technique for Inland Waterway Surveillance Using Spaceborne Single-Channel SAR Data
+[IEEE] 2026-5-25 | An Improved Lightweight YOLOv8 Model for Frozen Dumplings to Surface Defect Detection
+[IEEE] 2026-5-25 | Reflection–Transmission Guided Distorted Born Iterative Method for 1-D Plasma Inverse Profiling
+[ACM] 2026-5-25 | Participatory Design for Intergenerational Dialogue: How the Voice® Model Can Foster a Longevity Society in the Italian Context
+[ACM] 2026-5-25 | Comparison of Text-Based Inputs for Human-in-the-Loop Feedback in Vision–Language Models
+[IEEE] 2026-5-25 | Research on Backup Shutdown Design for Modular Multi-Purpose Small Modular Reactor Against Cyberattacks
+[IEEE] 2026-5-25 | Research on Joint Clearing of Energy and Regulation Markets with Renewable Energy Participation
+[IEEE] 2026-5-25 | An Approach Towards AC Power Loss Reduction in Additively Manufactured Winding for Electrical Machine
+[IEEE] 2026-5-25 | Learning From Crowds With Multiple Feature Dynamic Fusion-Based Annotation Generation
+[IEEE] 2026-5-25 | A Sliced Learning Framework for Online Disturbance Identification in Quadrotor SO(3) Attitude Control
+[IEEE] 2026-5-25 | Grants for Emerging Technology Activities
+[IEEE] 2026-5-25 | A Bayesian Game-Theoretic Framework for False Data Injection in Cyber-Physical Systems
+[IEEE] 2026-5-25 | Correction to “Enhanced UPQC Control Scheme for Power Quality Improvement in Wave Energy Driven PMSG System”
+[IEEE] 2026-5-25 | A Data-Driven Decision Architecture for Sustainable University Operations: Linking Regression-Based PCE Analytics to SDG-Oriented Improvement Regimes
+[IEEE] 2026-5-25 | Joint Communication and Computation Scheduling for MEC-enabled AIGC Services: A Game-Theoretic Stochastic Learning Approach
+[IEEE] 2026-5-25 | MARLTC: A Multi-Agent Reinforcement Learning-based Interference-Aware Transmission Control for LoRaWAN IoT Devices
+[IEEE] 2026-5-25 | Lightweight Mutual Authentication and Session Key Agreement for UAV Roaming in Multi-Fog Tactical Networks
+[IEEE] 2026-5-25 | Totoro$^+$: An Adaptive and Scalable Edge Federated Learning System
+[IEEE] 2026-5-25 | AlN and LGS Surface Acoustic Wave Resonators for Passive Wireless High-Temperature Sensing
+[IEEE] 2026-5-25 | Dual-Beam Continuous-Scanning SSPP Leaky-Wave Antenna with Synergistic Phase-Reversal Modulation and Broadside Radiation Stabilization
+[IEEE] 2026-5-25 | TVRN: Invertible Neural Networks for Compression-Aware Temporal Video Rescaling
+[IEEE] 2026-5-25 | Analysis of Electrical Characteristics of Ice-Shedding Jumping in Transmission Lines
+[IEEE] 2026-5-25 | Analysis and Handling of an Inter-Turn Short Circuit Fault in a Converter Transformer Winding
+[IEEE] 2026-5-25 | Dynamic Fault Probability Modeling and Risk Assessment of Source Network Equipment Under Extreme Cold Wave
+[ACM] 2026-5-25 | Designing Community Trust through Collective Intergenerational Memory Sharing
+[IEEE] 2026-5-25 | Research on the Energy-Saving Effect of Active Grille Shutters
+[IEEE] 2026-5-25 | A Joint Trading and Settlement Framework for Wind-Solar-Thermal-Storage Resources in the Unified National Electricity Market
+[IEEE] 2026-5-25 | A Hybrid QPSO-LSTM-CEEMDAN-Attention Model for Wind Power Forecasting
+[IEEE] 2026-5-25 | Deformable 3D Point Cloud Perturbations using Cage-based Deformation for Semantic Consistency
+[IEEE] 2026-5-25 | A 23-nW, −62-dBm Sensitivity, 920-MHz Temperature-Robust Wake-Up Receiver With Automatic Offset Calibration Technique
+[IEEE] 2026-5-25 | Orchestrating Generative AI Paradigms with Human-In-The-Loop for 3D Generation_supp1-3695993.pdf
+[IEEE] 2026-5-25 | Dynamic Hypergraph-Guided Mamba for TLS Point Cloud Foliage Separation
+[IEEE] 2026-5-25 | Reconfigurable Mode-Division-Multiplexing Coherent Receiver for 2-D Spatial Modes Based on A Photodetector Array
+[IEEE] 2026-5-25 | Ultrafast and Sensitive NiO/Ga
+                    <sub>2</sub>
+                    O
+                    <sub>3</sub>
+                    Lateral Superjunction Photodetectors for Solar-Blind Ultraviolet Detection
+[IEEE] 2026-5-25 | Table of Contents
+[IEEE] 2026-5-25 | Robust Model-Free Predictive Current Control of PMSM Using Improved SMO and Adaptive Gain Identification
+[IEEE] 2026-5-25 | End-to-End Explainable Sequential Recommendation Based on Multi-Strategy Training and Adaptive Loss Balancing
+[IEEE] 2026-5-25 | Enhancing Cross-User Generalization in Human Activity Recognition with Adaptive Noise Scheduling and Linear Attention
+[IEEE] 2026-5-25 | Fully Distance-Guided Refinement Graph Convolutional Networks for Skeleton-Based Human Action Recognition
+[IEEE] 2026-5-25 | Alternating Subspace Method for Sparse Recovery of Signals_supp1-3695936.pdf
+[IEEE] 2026-5-25 | Dielectric Breakdown Behavior in Vapor Phase Dielectric Fluids: Understanding Voltage Isolation in Direct Immersion Power Electronics
+[ACM] 2026-5-25 | Imagination, Reflexivity and Agency in Institutional Change and Public Policy
+[IEEE] 2026-5-25 | Multi-scale Guided Cross-stage Refinement SAM2 for Seamless Steel Pipe Internal Surface Defect Detection
+[IEEE] 2026-5-25 | Deep Rhetoric: A Qarīna-Aware Multi-Task Learning Framework for Hierarchical Analysis of Qur’anic Metaphor
+[IEEE] 2026-5-25 | GNSS Positioning Aided with Pedestrian Dead Reckoning (PDR) in Urban Areas
+[IEEE] 2026-5-25 | Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System
+[IEEE] 2026-5-25 | IDME: Interpretable Drug-Drug Interaction Prediction via Meta-Path Attribute Encoding
+[IEEE] 2026-5-25 | Decentralized Intelligence for Energy Efficient 6G TN–NTN: A Cooperative Multi-Agent DRL Framework for Active RIS-Aided UAV-NOMA Communications
+[IEEE] 2026-5-25 | Federated LoRA Fine-Tuning of LLMs with Only Transmitting Matrix A or B
+[IEEE] 2026-5-25 | Robust Gaussian Process-Based Sliding Mode Predictive Control for Autonomous Underwater Vehicles: A Short-Horizon Approach
+[IEEE] 2026-5-25 | Multi-Modal Fusion Bearing Fault Diagnosis Based on CNN-GRU and Multi-Head Self-Attention Mechanism
+[IEEE] 2026-5-25 | Combined Multi-Parameter Diagnosis for Transformer DC Bias Induced by Metro Stray Current
+[IEEE] 2026-5-25 | Preventive Control of Voltage Instability in High-Renewable Sending-End Systems Under UHVDC Blocking
+[IEEE] 2026-5-25 | Dynamic Power Supply Capability Evaluation Method of Micro-Grid Based on Risk Perception
+[IEEE] 2026-5-25 | Source-Storage Dynamic Collaborative Optimization Method for Comprehensive Voltage Regulation in Low-Voltage Distribution Networks
+[IEEE] 2026-5-25 | Feedforward Phase-Angle Compensation for Transient Stability Enhancement of VSG
+[IEEE] 2026-5-25 | Cryptanalysis of the DIZY Stream Cipher with Provable Security
+[IEEE] 2026-5-25 | Threshold Issuance Selective Disclosure Credentials With Equivalence Class Signature_supp1-3696205.pdf
+[IEEE] 2026-5-25 | Hyperledger Fabric and Ethereum for Emergency Response Vehicular Networks under DDOS Attacks: A Performance Analysis
+[IEEE] 2026-5-25 | Remote State Estimation over Unreliable Channels with Unreliable Feedback: Strategies and Limits
+[IEEE] 2026-5-25 | Decentralized and Lightweight Server-Aided Revocable Attribute-Based Encryption for Mobile Cloud Computing
+[IEEE] 2026-5-25 | Long-Term Trading Risk Management for Intra-Regional Market Operators with Participant Risk Preferences
+[IEEE] 2026-5-25 | RVDeformer: Sparse Point Cloud-Guided Right Ventricle 3D Reconstruction in Echocardiograms
+[IEEE] 2026-5-25 | Efficient Microservice Autoscaling through $\mu$Opt
+[IEEE] 2026-5-25 | Design of the next generation of global carbon monitoring experimental satellite (TanSat-2) for global stocktake
+[IEEE] 2026-5-25 | Rapid Hotspot Temperature Prediction of Magnetic Couplers in WPT Systems via a Simulation-Based Data-Driven Model
+[IEEE] 2026-5-25 | Research on New Power System Grid-Connected Energy Storage Control Strategy Based on Adaptive Adjustment
+[ACM] 2026-5-25 | Dreaming with MAKOTO: Co-Designing an "Older Adult" Voice Assistant Intervention for Implicit Ageism
+[ACM] 2026-5-25 | Knowledge Infrastructuring in the Large-Scale: Sparring Partners and Reflective Spaces in Participatory Design
+[ACM] 2026-5-25 | LEO: An Information-theoretic Learning-based Approach for Identifying Out-of-distribution Source Code in Software Systems
+[IEEE] 2026-5-25 | Frequency-Aware Decision Transformer for Offline Policy Learning in Adaptive Twin Control
+[IEEE] 2026-5-25 | CIPHERBD: A Backdoor Defense Towards Privacy Preserving Neural Network Training
+[IEEE] 2026-5-25 | An Unscented Information-Form Finite-Memory Approach for Simultaneous Localization and Calibration with Application to Unmanned Aerial Vehicles
+[IEEE] 2026-5-25 | CDRL-Det: Causal-Debiased Representation Learning for Robust Rotated SAR Ship Detection
+[IEEE] 2026-5-25 | Arc Tracking Resistance Tests on Polymeric Insulating Materials Using High Frequency High Voltages – An Approach
+[IEEE] 2026-5-25 | Fairness-Oriented Transmission Design in PASS-Assisted Backscatter Communication Networks
+[IEEE] 2026-5-25 | Climate Risk-averse Power System Planning Under Renewable Drought Events
+[IEEE] 2026-5-25 | Online Stator Resistance Estimation of Low-Power PMSMs Using Data Driven Methods
+[IEEE] 2026-5-25 | A Dual-Branch Network-Based Method for Unified Diagnosis of IGBT Open-Circuit and Current Sensor Faults in Three-Phase Inverters
+[IEEE] 2026-5-25 | Automated Design of Countermeasures for ICS Based on Security Standards
+[IEEE] 2026-5-25 | Dual-Stream of CNN and Transformer feature-based Cross-Attention Model for Multiclass Ocular Surface Squamous Neoplasia (OSSN) Classification
+[IEEE] 2026-5-25 | A Study on the Reliability Design of Medical Device Software for Hybrid Architectures
+[IEEE] 2026-5-25 | Multi-view Data Exploration Recipes for Making Sense of Multi-source Industrial Data
+[IEEE] 2026-5-25 | Impact of Optimal Electric Vehicle Charging Station Placement on Distribution Network Performance: A Comparative Study
+[IEEE] 2026-5-25 | Indoor and outdoor integrated localization scheme for mobile robot using multi-sensor fusion and graph optimization
+[IEEE] 2026-5-25 | Indoor Smartphone Positioning Method via a Single Wall Reflection Using a Parametric Speaker
+[IEEE] 2026-5-25 | Electromechanical Performance of a Soldered Stack of ReBCO Tapes at 77 K
+[IEEE] 2026-5-25 | Cooperative Optimization Method for Thermal Reserve Capacity Considering Non-Curtailment of Wind and Solar Power
+[IEEE] 2026-5-25 | State of Health Estimation Based on Multi-Segment Charging Data Fusion
+[IEEE] 2026-5-25 | Quantitative Assessment of the Flexibility of Load Regulation in Typical Energy-Intensive Industrial Loads Considering Complex Process Constraints
+[IEEE] 2026-5-25 | Copyright Page
+[IEEE] 2026-5-25 | Multi-Source Data-Driven Multi-Objective Collaborative Decision-Making Method for Comprehensive Perception of Distribution Networks
+[IEEE] 2026-5-25 | Design and Implementation of an Intelligent Management and Control System for Substation Monitoring Information Point Tables
+[IEEE] 2026-5-25 | Research and Application of Digital Twin System for Offshore Terminals of Large-Capacity Floating Wind Power
+[IEEE] 2026-5-25 | A Multi-lithic Finemet Toroidal Inductor with Soft Iron Powder Insertion for High-Frequency Converters
+[IEEE] 2026-5-25 | FGO-ABRC: A Factor Graph Optimization Framework for AUV Bathymetric Residuals Calibration Integrating Multi-Source Observations
+[IEEE] 2026-5-25 | Geometry-Dependent Radiation of Pinching Antennas: Theory, Simulation, and Measurement
+[IEEE] 2026-5-25 | A Provably Secure Multifactor Authentication and Key Exchange Protocol with Anonymity for Next-Generation IoT
+[ACM] 2026-5-25 | What counts - Thinkering with Visual Mapping Toward Relational More than Human Temporality in Participatory Design
+[ACM] 2026-5-25 | Hizca, a Critical Video Game and Indigenous Co-creation.
+[ACM] 2026-5-25 | Semantic-Driven and NLP-Powered Generation of the Heluo Cultural Landscape for Digital Heritage
+[ACM] 2026-5-25 | Drones in the Archipelago: Tensions in Technological Progress for Medical Transportation
+[IEEE] 2026-5-25 | Generalizable Stochastic Optimizations for UAV-Assisted ISAC Systems: A Hybrid Decision Causal Convformer Framework
+[IEEE] 2026-5-25 | An Isolated Integrated Battery Charger With Double Active Filter for Electric Vehicle Based on Open-Winding Permanent Magnet Synchronous Motor
+[IEEE] 2026-5-25 | Seamless Beam Handover for Direct-to-Satellite IoT in Ultra-Dense Multi-Beam LEO Networks
+[IEEE] 2026-5-25 | Multi-Objective Parameter Optimization of Artificial-Cavern Compressed Air Energy Storage Systems via Two-Person Zero-Sum Game
+[IEEE] 2026-5-25 | Coordinated Optimization of the Hydropower and the Wind Power Based on the Second-Order Eigen-Sensitivity to Suppress the LFO
+[IEEE] 2026-5-25 | Research on Short-Term Power Load Forecasting Method Based on Multi-Dimensional Fusion Model
+[IEEE] 2026-5-25 | Design and Application of Wind-Photovoltaic-Storage Hybrid Operation System for Clean Energy Bases
+[IEEE] 2026-5-25 | A Post-Quantum Decentralized Threshold Authenticated Key Agreement Scheme for Securing Vehicular Ad-Hoc Networks
+[IEEE] 2026-5-25 | Fuzzy Game-theoretic Tube Model Predictive Control for Integrated Vehicle Stability System
+[IEEE] 2026-5-25 | Geometric Correlation-Guided Motion Improvement for Geometric Partitioning Mode in VVC
+[IEEE] 2026-5-25 | Sub-Nyquist Wideband Spectrum Sensing and DOA Estimation with Sparse Co-Arrays
+[IEEE] 2026-5-25 | Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification
+[IEEE] 2026-5-25 | TTT-Dance: A Diffusion Framework Leveraging Test-Time Training and LayerScale for Adaptive Music-Driven Dance Generation_supp1-3695826.pdf
+[IEEE] 2026-5-25 | A Multiple Half-Pitch-Shift Compensation Method for Robust Fiber Weave Effect Mitigation
+[IEEE] 2026-5-25 | Transverse Magnetic Coupling Coefficients in Three-Layer Waveguides: Possibilities of Disappearing Gratings
+[IEEE] 2026-5-25 | A MARL-Based Beam Hopping Framework for Dynamic Overflying LEO Satellite Networks
+[IEEE] 2026-5-25 | PD-GAN: A Physics-Guided Dual-Domain Network for Fabric Texture Restoration Under Optoelectronic Saturation
+[IEEE] 2026-5-25 | Fully Automatic Landing Site Selection by a UAV in an Unknown Environment
+[IEEE] 2026-5-25 | Evaluating Large Language Models for Generating YouTube Programming Tutorial Metadata from Video Transcripts
+[ACM] 2026-5-25 | DDialogue: A Collaborative Framework for Cross-Sectoral Dialogue through Data
+[IEEE] 2026-5-25 | A PINN-Based Modeling and State Estimation Method for Doubly-Fed Wind Turbines
+[IEEE] 2026-5-25 | Adaptive Voltage Control Strategy for Distributed Energy Storage Based on SOC and Voltage Deviation
+[IEEE] 2026-5-25 | Flexible Power Sharing in Multi-Three-Phase PMSM via Virtual Current Regulation With Vector Space Decomposition
+[IEEE] 2026-5-25 | Improving the Reliability of Port Equipment Maintenance Decision Support Via Context-Aware Knowledge Graph Retrieval-Augmented Generation
+[IEEE] 2026-5-25 | A Thyristor-Switched Pulsed Power System With 78-ns Jitter for a Coaxial Plasma Gun_supp1-3692821.pdf
+[IEEE] 2026-5-25 | Cross-Modality Self-Distillation for Visible-Infrared Person Re-identification
+[IEEE] 2026-5-25 | Development and Characterization of KID-Based SPIAKID Instrument
+[IEEE] 2026-5-25 | Robust RIS Selection for mmWave Communication Systems with Predictive Beamforming Tracking
+[IEEE] 2026-5-25 | Rotatable Antenna-Enhanced Cell-Free Communication
+[IEEE] 2026-5-25 | Blank Page
+[IEEE] 2026-5-25 | Burhan: A Constraint-Based Engineering Framework for Computational Rhetorical Semantics in Classical Arabic
+[IEEE] 2026-5-25 | An Advanced Persistent Threat Detection Framework Based on Graph Attention Networks with Spectral Feature Refinement
+[ACM] 2026-5-25 | Equitable and Inclusive PD for Public Services: Using Shared Reflexivity to Unpack Enablers and Limitations
+[IEEE] 2026-5-25 | Robust Scheduling Method for a Multi-Energy Microgrid with Hydrogen–Ammonia Coupling
+[IEEE] 2026-5-25 | Cover Page
+[IEEE] 2026-5-25 | Study on the Hydrogen Embrittlement Mechanism of Key Metal Materials in Hydrogen Transmission Pipelines
+[IEEE] 2026-5-25 | Proactive Resilience-Enhancement Strategy for Power Grids Under Icing Operation Scenarios Based on Tracking Pre-Dispatching Trajectory of Flexible Resources
+[IEEE] 2026-5-25 | Stability Analysis and Computational Modeling of New Energy Integration for Smart Grids
+[IEEE] 2026-5-25 | Active Power Support and Coordination Control Strategy for Grid-Forming STATCOM Based on Model Predictive Control
+[IEEE] 2026-5-25 | A Survey on Wearable Inertial Sensing for Indoor Positioning
+[IEEE] 2026-5-25 | Blockchain-Based Secure and Efficient Federated Learning Scheme for IoMT Consumer Electronics Devices
+[IEEE] 2026-5-25 | MFDR++: Robust and Efficient Multivariate Time Series Forecasting with Deep Reconstruction
+[IEEE] 2026-5-25 | Lightweight Multi-Channel Generative Adversarial Network for Synthesizing Brain Perfusion CT Series from Healthy Subjects: Toward Radiation Dose Reduction in Clinical Imaging
+[IEEE] 2026-5-25 | Quantum-Classical Dual LSTM Optimization for Internet of Intelligent Vehicles
+[IEEE] 2026-5-25 | A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot
+[IEEE] 2026-5-25 | A Bitmap-Guided Collision Tree Anti-collision Protocol for Large-Scale RFID Tags Identification
+[IEEE] 2026-5-25 | Near-Data Compaction for LSM Tree on Rack-scale Disaggregated Storage
+[IEEE] 2026-5-25 | A Self-Supervised Deep Stochastic Configuration Network with Contrastive Learning and Probabilistic Explanation for Complex Industrial Fault Detection
+[IEEE] 2026-5-25 | High-Velocity Target Detection and Estimation via Block-Sparse Recovery
+[IEEE] 2026-5-25 | Tuning Glass-Transition Dynamics and Ion Transport by Fluorination in DBU-Based Protic Ionic Liquids
+[IEEE] 2026-5-25 | CVGD: Cross-View Guided Disentangler for Multi-View Radar Semantic Segmentation
+[IEEE] 2026-5-25 | SSTA-X: GPU-Accelerated First-Order Block-Based Statistical Static Timing Analysis
+[IEEE] 2026-5-25 | Enhancing sea surface current retrieval from Geostationary Ocean Color Imager Observations: Multispectral Optimization and Validation with HF Radar
+[IEEE] 2026-5-25 | Hierarchical Aggregation of Wind Farm Frequency Support Capability Based on Hybrid Control Strategy
+[IEEE] 2026-5-25 | IEEE Power &amp; Energy Society Information
+[IEEE] 2026-5-25 | 3D Single-Tooth Reconstruction via Curriculum Learning and Topology-aware Generation
+共写入 804 条记录，保存到 papers/paper2026-05-24.json。
+论文获取成功，文件路径: papers/paper2026-05-24.json
+正在筛选、翻译并发送邮件...
+[NO] 1/804 | Advisory Today, Co-decisive Tomorrow? Complementing the Participation Ladder in Smart City Innovation with Institutional Learning Perspectives
+[NO] 2/804 | Uncovering Hidden Inequalities through Participatory Service Design: Institutional Service Failure in Public Employment Services
+[NO] 3/804 | Investigating Key Meteorological Factors That Affect Atmospheric Transmittance via Simulation
+[NO] 4/804 | Research on Underwater Construction Monitoring Device for Submarine Cable Repair in High-Turbidity Water Bodies
+[NO] 5/804 | A Study on Dynamic and Reliable Assessment of Dispatchable Capacity from Electric Vehicles and Risk Early Warning for High-Penetration Renewable Energy Integration
+[NO] 6/804 | Online Damage-Updated Lifetime Equalization for a Si IGBT/SiC MOSFET Hybrid Parallel Inverter
+[NO] 7/804 | Direct Cardiac T1 Mapping with Subspace Modeling and Free-breathing Data Acquisition
+[NO] 8/804 | Real-Time Streamable Generative Speech Restoration with Flow Matching_supp1-3696215.pdf
+[NO] 9/804 | Study on Structural and Magnetic Properties of Cobalt Substituted Permalloy Amorphous Nanocrystalline Ribbons
+[NO] 10/804 | Moment-Reenacting: Inverse Motion Degradation With Cross-Shutter Guidance
+[NO] 11/804 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization
+[NO] 12/804 | RIHP-Net: Rotation-Invariant Hyperspectral Image Classification Via Harmonic Fiber Pooling and Rotation-Conditioned Spectral Fusion
+[NO] 13/804 | Force Perception in Smart Robotic Grippers Based on Fiber Bragg Grating [Instrumentation and Measurement Systems]
+[NO] 14/804 | Spotlight on I&amp;MER: 2024 J. Barry Oakes Award
+[NO] 15/804 | Society Officers
+[NO] 16/804 | Reactive and Decoupled Control of Mobile Manipulators via Spatially Modulated Velocity Fields
+[NO] 17/804 | VAPE-Net: An Extrinsic-Pose-Agnostic Viewpoint-Aware Progressive Enhancement Framework for Pure-Visual Vehicle-Infrastructure Cooperative Perception
+[NO] 18/804 | A Time-Space Fusion Early Diagnostic Framework for PEM Fuel Cell Faults with Deep Learning
+[NO] 19/804 | Gait adaptation to asymmetric foot-ground compliance applied by robotic footwear
+[NO] 20/804 | Momentum Gradient Descent with Kinematic Prediction-based Initialization for High-Accuracy Star Sensor Attitude Estimation
+[NO] 21/804 | Field-agnostic Beam Focusing and Tracking for ISAC
+[NO] 22/804 | Curvilinear Particle-in-Cell Simulations of Plasma Sheath Effects on Impedance of VLF Antenna in the Magnetosphere
+[NO] 23/804 | Participatory Design Back to its Political Roots : Insights from the Full Papers
+[NO] 24/804 | UAV Swarm-Based Dynamic Differential GNSS with Collaborative Multipath Mitigation: Low-Altitude Augmentation System for Emergency Positioning
+[NO] 25/804 | Enhancing Cell-Free SWIPT IoT Networks By Active RIS
+[NO] 26/804 | Tactile-Sensor-Embedded Treadmill for Deep Learning-Based Step-Length Measurement
+[NO] 27/804 | DB-CoGNN: A Dual-Branch Synergistic Contrastive Graph Neural Network for Robust Small-Signal Stability Assessment
+[NO] 28/804 | LGIEA: A Local-Global Information Guided Evolutionary Algorithm for Influence Maximization
+[NO] 29/804 | Compact High-Linearity and Wide-Range Permittivity Measurement Phase-Variation Sensor Based on Electronically Tunable Structure
+[NO] 30/804 | On the role of stubbornness in Nash equilibrium problems
+[NO] 31/804 | Feature Map Compression for Split Learning in Mobile Wireless Environment: Theory and Practice
+[NO] 32/804 | Horizontal Transfer Strategy Based Collaborative Optimization for Power Grid Emergency Resource Scheduling
+[NO] 33/804 | Novel Structure and Control Strategy for Electrolysis Hydrogen Powered by Offshore Wind Power
+[NO] 34/804 | Improved YOLOv8-Based Small Target Defect Identification in Substations
+[NO] 35/804 | PQV Modeling and Voltage Regulation Strategy for Distributed Photovoltaic Systems Under Reverse Power Flow Conditions
+[NO] 36/804 | Digital Twin-Empowered Vehicle–Road Cooperation: A Perception and Virtualization Paradigm for Connected and Automated Vehicles
+[NO] 37/804 | Pathwise guessing in categorical time series with unbounded alphabets
+[NO] 38/804 | Broadband and Wide-Angle Conformal Active Metasurface for Continuous and Dynamic RCS Modulation
+[NO] 39/804 | Scanpath Prediction in Panoramic Videos Via Expected Code Length Minimization
+[NO] 40/804 | Stability and Performance Enhancement of IoT-Enabled Dual-Axis Solar Tracker Using Red Colobuses Monkey Optimization Algorithm
+[NO] 41/804 | Adaptive Feature Enhancement for SAR-based Ship Detection
+[NO] 42/804 | IEEE CS Career Center
+[NO] 43/804 | Mapping AI Literacy Expectations in Technical and Professional Communication: Evidence From 137 AI-Referenced Job Postings
+[NO] 44/804 | TwinRL-Onco: A World Model-Empowered Digital Twin Framework with Hierarchical Reinforcement Learning for Venetoclax Resistance Trajectory Prediction and Adaptive Therapy Optimization in Chronic Lymphocytic Leukemia
+[NO] 45/804 | Harmonic-excited Closed-slot Brushless Wound Rotor Synchronous Machine with Reduced Torque Ripple
+[NO] 46/804 | Efficient Partially-Connected Hybrid Beamforming for Communication Capacity Maximization in FD-DFRC Systems
+[NO] 47/804 | Integrating Network and Attack Graphs for Service-Centric Impact Analysis
+[NO] 48/804 | ICAD: Rethinking the Role of Inference and Cues for the Anomaly Detection of Time Series in IIoT
+[NO] 49/804 | EEG-Based Depression Detection with Temporal-Spectral and Graph Cross-Attention in a Sensor Signal-Processing Architecture
+[NO] 50/804 | Decomposition and Successive Decomposition Methods and Algorithms for Nonconvex Optimization
+[NO] 51/804 | Site-Specific Channel Modeling and Optimization of RIS-Assisted Multiuser MISO Systems
+[NO] 52/804 | Reconfigurable Magnetic Field Shaping via Current-Controlled Relay Coils for Wirelessly Powering Capsule Endoscopy
+[NO] 53/804 | FlashSAM: Lightweight Vision Model for Multi-UAV Token Communication in Low-Altitude Wireless Networks
+[NO] 54/804 | BAPA-Net: Cross-Domain Few-Shot Object Detection in Remote Sensing via Background-Aligned Prototype Aggregation
+[NO] 55/804 | June Calendar
+[NO] 56/804 | YOLOv8-EfficientViT for Robust Personnel Detection in Substation Operation Scenes
+[NO] 57/804 | Analysis of China's Dual Carbon Control Progress and Its Impacts on the Power System
+[NO] 58/804 | Research on Synergistic Optimization of Source-Load-Storage Based on Integrated Energy
+[NO] 59/804 | Early Anomaly Detection of Wind Turbine Main Bearings Based on Multi-Head Self-Attention Network
+[NO] 60/804 | Reliable Multi-Modal Object Re-Identification via Modality-Aware Graph Reasoning
+[NO] 61/804 | Autonomous Causal Discovery: Evaluating LLMs' Priors and Constraint Strategies for Reliability_supp1-3689960.pdf
+[NO] 62/804 | Mitigate Catastrophic Remembering via Continual Self-Paced Dual-Knowledge Purification for Noisy Lifelong Person Re-Identification_supp1-3693671.pdf
+[NO] 63/804 | ‘It's not only my Issue, but also a Community Issue’: an Atlas of Design Actions for Commoning Flood Adaptation
+[NO] 64/804 | Mediating Digital Security: Participatory Learning with Older Adults in Smartphone Café Sessions
+[NO] 65/804 | Integrating Robust CRT with Signal Unwrapping for Modulo Sampling
+[NO] 66/804 | Estimating the Temperature Distribution of Pouch-Type Li-Ion Batteries Based on a Distributed-Parameter Electrothermal Coupling Model
+[NO] 67/804 | Research on Optimization Method of Medium Voltage Target Network Based on Reliability and Economy
+[NO] 68/804 | Short-Term Load Forecasting Based on Graph Convolutional and Kolmogorov-Arnold Network
+[NO] 69/804 | A Concise Review of Resilience Assessment for Power Systems Against Typhoons
+[NO] 70/804 | Hierarchical Long-Term Operation Optimization of Flexible Resources Considering Multi-Scale Temporal Characteristics
+[NO] 71/804 | High-Sensitivity MEMS Optical Switch with Wide Spectral Response
+[NO] 72/804 | Research on Data Integrity Verification and Tracing in the Power Internet of Things
+[NO] 73/804 | Research and Application of Artificial Intelligence in Pattern Recognition of Power Grid Connection
+[NO] 74/804 | Optimization Design of Uplift Safety Reserve Factor for Transmission Line Foundations in Collapsible Loess Sites
+[NO] 75/804 | From the Society: President's Message
+[NO] 76/804 | IEEE Transactions on Energy Conversion Information for Authors
+[NO] 77/804 | Impedance-Spectrum Driven Frequency Weighted Functional Fault Location in Undersea Observation Network Power Systems
+[NO] 78/804 | Urban Environmental Challenges and Health: Environmental Determinants of Respiratory Illnesses in Samarkand
+[NO] 79/804 | Multi-Objective UAV–HAP Collaborative Offloading for Hotspot Region Computing in Urban Non-Terrestrial Networks
+[NO] 80/804 | CCSFusion: A Hierarchical Semantic Chain-of-Thought Reasoning Architecture for Infrared-Visible Image Fusion and Captioning
+[NO] 81/804 | High Voltage Power Lines Conductor Anomaly Detection using Magnetic Field
+[NO] 82/804 | Performance Analysis of Multiple User Average BLER in Downlink NOMA Short-Packet Communications over $\alpha - \kappa - \mu$ Shadowed Fading
+[NO] 83/804 | Foundations of Efficient Model Reconstruction Using Counterfactual Explanations_supp1-3695917.pdf
+[NO] 84/804 | Proceedings of the 19th Participatory Design Conference 2026, Vol. 1: Full Papers
+[NO] 85/804 | Participating in Designing Sustainable Futures: The Challenges of Imagination and Envisioning
+[NO] 86/804 | DuSS-PET: Self-Supervised Low-Dose PET Reconstruction Using Pseudo-Dual-Domain Consistency Without Paired Data
+[NO] 87/804 | Sensor Fusion with Neural Virtual Measurements for Aerial GNSS/INS Integration
+[NO] 88/804 | Physical Realization of Mathematics Geometric Fractals in Metasurface Filters
+[NO] 89/804 | Transceive Beamforming in FDA-MIMO-Based Dual-Function Radar-Communication Systems for Low Probability of Interception
+[NO] 90/804 | Knowledge-Enhanced Contrastive Learning for Unsupervised Signal Modulation Clustering
+[NO] 91/804 | DRL-Enabled Polymorphic Acceleration Framework for Flexible and Energy-Efficient Hybrid-Float Deep Learning Inference in Mobile Computing
+[NO] 92/804 | Aging Behaviors of Ester-Insulated Oil–Paper Composite Systems under Combined Electrical and Thermal Stresses – Part I: Evolution of Oil Properties and Molecular Microscopic Mechanism
+[YES] 93/804 | Coding Agents in the Wild: Failure Modes and Rejection Patterns of AI-Generated Pull Requests
+[NO] 94/804 | ST-GCN and Reinforcement Learning-Assisted Dynamic Multi-Strategy Task Offloading in Edge-IoT Vehicular Networks
+[NO] 95/804 | Technical and economic feasibility study of a grid-connected solar power plant in northwest Algeria for charging Electric Vehicles
+[NO] 96/804 | Robust Multi-Level Forecast-Based Anomaly Detection for Smart Grid Overload Attacks
+[NO] 97/804 | Lightweight Power Quality Disturbance Recognition for Edge Monitoring in Distribution Networks
+[NO] 98/804 | Research on Multi Factor Coupling Modeling and Prediction Optimization Method for Distributed Photovoltaic Power Station Generation Power
+[NO] 99/804 | A Study on the Mechanism and Coordinated Control of the Conflict Between Excessive Short-Circuit Current and Insufficient Short-Circuit Ratio at the “Desert, Gobi, and Wasteland” New Energy Base
+[NO] 100/804 | Analysis of a UHV Converter Transformer Electrostatic Ring Discharge Failure
+[NO] 101/804 | Analysis and Damping Control of Low-Frequency Oscillations in Renewable-Integrated Power Systems: A Brief Review
+[NO] 102/804 | Multi-Source Spatio-Temporal Prediction of EV Charging Demand Based on Spatial Behavior Clustering
+[NO] 103/804 | A Two-Layer Architecture of BiLSTM Prediction and Nonlinear MPC for Coordinated Multi-Unit PEMWE Hydrogen Production
+[NO] 104/804 | Variable-Temperature Magnetic Properties Measurement and Improved Temperature-coupled Bertotti Core-Loss Modeling of Fe-Based Amorphous Alloy
+[NO] 105/804 | Routing of LEO Satellite Networks Based on Characteristic Graph Embedding Heuristic Approach
+[NO] 106/804 | A Hybrid Cascaded Active Power Quality Conditioner for Railway Power System
+[NO] 107/804 | Adaptive Phase Selection for Stator High-Impedance Grounding Fault Considering Winding Parameter Asymmetry and Nonlinear Potential Distribution
+[NO] 108/804 | FOF-X: Towards Real-time Detailed Human Reconstruction from a Single Image_supp1-3696142.pdf
+[NO] 109/804 | Fractional and Fractal Theory for Progressively Scaled Pharmacokinetic Compartment Models with Anomalous Diffusion
+[NO] 110/804 | Transition-Region Co-Optimization for Enhanced
+                    <i>dV/dt</i>
+                    Ruggedness in 4H-SiC MOSFETs
+[NO] 111/804 | Orchestrating Data Collection and Computation in Green IoT Networks
+[NO] 112/804 | Communication-Efficient Dual-Branch Transmission with Semantic Masks and Quantized Features for V2X Cooperative Perception
+[NO] 113/804 | Transformer-Enhanced Machine Learning Framework for Advanced Palm Biometric Recognition
+[NO] 114/804 | CMPCC: Cross-modal Point Cloud Completion Model Fusing Single-view Images and Partial Point Clouds
+[NO] 115/804 | LMFF-Net: Lightweight Multi-Scale Feature Fusion Object Detection for Underwater IoT Networks
+[NO] 116/804 | Detection Method for Mechanical Deformation of Autotransformer Winding Based on Frequency Response and DATN Algorithm
+[NO] 117/804 | Hypersharpening Using Inter-cluster Sample Equalization and Intra-cluster Low-rank Constraints
+[NO] 118/804 | Learning for Statistical Channel Fingerprint-Based Positioning in Massive MIMO System: Static Mapping and Dynamic Tracking
+[NO] 119/804 | Robust Target-Sensitive Region Segmentation via Adaptive Frequency Fusion and Dynamic Optimization
+[NO] 120/804 | Uncertainty Modeling for Domain Generalization in Cross-Scene Hyperspectral Image Classification
+[NO] 121/804 | Critically Damped Output-Feedback Positioning System for PMSM Servo Drives With Model-Independent Observer and Disturbance Observer via Pole-Zero Cancellation
+[NO] 122/804 | A High-Gain Loop-Shaping-Based Real-Time Iterative Compensation Control Applied to Ultraprecision Wafer Stages
+[YES] 123/804 | Automated Refactoring for Conditional Branching
+[NO] 124/804 | Fast Robust Dual Dynamic Programming for Multi-Stage Robust Intra-Day Microgrid Scheduling
+[NO] 125/804 | Hierarchical Coordinated Control of Source-Grid-Load-Storage in Highly Resilient Power Grids
+[NO] 126/804 | Research on Transmission Line Image Monitoring Technology Based on Ultra-High-Pixel Imaging
+[NO] 127/804 | A Continuous Wavelet Transform Framework with Frequency-Enhanced Convolutional Attention for Bearing Fault Classification
+[NO] 128/804 | Power Optimization Allocation Strategy for Wind-Storage Frequency Regulation Considering Stability and Economic Efficiency
+[NO] 129/804 | Proactive Rolling Optimization-Based Scheduling Method for Off-Grid Flexible Synthetic Ammonia System
+[NO] 130/804 | Truncated Sparse Regularization Adjustment Method for Radar Forward-Looking Azimuth Super-Resolution Imaging
+[NO] 131/804 | From Dual-Stream Manifold-Aligned Tokenizer to Latent Sensor-Invariant Consistency Model: Rapid Generative Super-Resolution for Cross-Sensor Remote Sensing Imagery
+[NO] 132/804 | Quantum Hardware-in-The-Loop for Optimal Power Flow in Renewable-Integrated Power Systems
+[NO] 133/804 | A Novel INFORM Strategy Based on Bidirectional Voltage-Vector Injection for Low-Speed Sensorless PMSM Control Considering Armature Reaction
+[NO] 134/804 | An Improved Affine Optimization Method for Lowcarbon Dispatch in Multi-Energy Microgrids Considering Source-Load Correlation
+[NO] 135/804 | Wasserstein Distributionally Robust Optimization for Park-Level Integrated Energy Systems
+[NO] 136/804 | A Lithium-Ion Battery SOC Estimation Method Based on an Attention-Residual Bidirectional LSTM Network
+[NO] 137/804 | Physics-Informed BiLSTM with Adaptive Gated Fusion for Lithium-Ion Battery State-of-Health Estimation
+[NO] 138/804 | Finite Element Simulation Analysis of Tritium Transport in Lithium-Lead Droplets Inside Vacuum Sieve Tray
+[NO] 139/804 | Federated Contrastive Diffusion Prototypes for Robust Private Learning
+[NO] 140/804 | Cross-Center Surgical Step Recognition in Standardized Training Tasks: Dataset, Baselines, and Transfer Analysis
+[NO] 141/804 | User-Guided Visual Analytics of Genome-wide DNA Methylation Data Based on Self-Organizing Maps
+[NO] 142/804 | Large Deviation Analysis for the Reverse Shannon Theorem
+[NO] 143/804 | Metasurface-Assisted Ultra-Wideband Radar for High-Sensitivity Non-Contact Respiratory Detection
+[NO] 144/804 | Refined State-error-based Model Predictive Control and Flight Testing of Eagle of Taihu 10: A Canard-Configured Tail-Sitter Technology Demonstrator
+[NO] 145/804 | Design and Analysis of a High Torque Density FSPM Machine with Enhanced Low Pole-Pair Working Magnetic Field
+[NO] 146/804 | Full-period one-shot prediction of Li-ion battery aging trajectories via multi-view encoding
+[NO] 147/804 | A Unified Perceptual-Physical Framework for Real-Time Underwater Motion Simulation of Immersive Agents and Large-Scale Crowds
+[NO] 148/804 | OMARF: An Orchestrated Multi-Agent Resilience Framework for Autonomic Software-Defined Offshore Wind Industrial Networks
+[NO] 149/804 | Few-Shot Cross-Domain Indoor Localization via Multi-Modal Feature Refinement
+[NO] 150/804 | End-to-End Through-Wall Respiratory Waveform Reconstruction for 60-GHz MIMO FMCW Radar
+[NO] 151/804 | Energy-aware Adaptive Topology Control for UOWSNs_supp1-3693790.pdf
+[NO] 152/804 | False Alarm Rate-Controllable Maritime Target Detection Via Cross-Attention Transformer Network
+[NO] 153/804 | Sensor Data Quality Scoring for MEMS Accelerometers Via Spectral Anomaly Detection
+[NO] 154/804 | Research on Dual-Frequency Penetrating Radio Wave Detection Method and Application in Fault Structures of Coal Seam Working Face
+[NO] 155/804 | Hearing Materials, Feeling Participation, Caring for Personhood: Situated Lessons from Participatory Design with Nonverbal Participants
+[NO] 156/804 | Enacting Utopias: A Participatory Design Approach to AI
+[NO] 157/804 | Participatory Design through the Lenses of Women Architects and Designers
+[NO] 158/804 | High-Speed CMOS ADCs for 5G New Radio and AI-Edge Systems: Design Trends and Trade-Offs
+[NO] 159/804 | S-Edge: A Multi-Region Edge Computing Framework with Adaptive Data Compression and Dynamic Load Balancing
+[NO] 160/804 | Enhanced Traction Control on Irregular Roads through Preview-based Nonlinear Model Predictive Control
+[NO] 161/804 | Quantum Key Distribution For Optical Satellite Communications: An Engineering-Oriented Review
+[NO] 162/804 | Cognitive GenAI-as-a-Service Orchestration in Edge Networks: A Value-Adaptive Multi-Agent Learning Framework
+[NO] 163/804 | Enhanced Sensing in Large-Scale Array PMCW Systems by Range-Angle Decoupling
+[NO] 164/804 | AC Power Flow-Based Demand Response for Multi-Energy Three-Phase Distribution Systems
+[NO] 165/804 | FedGDD: Defending Federated Learning Against Targeted Model Poisoning Sybil Attacks Based on Gradient Drift Detection
+[NO] 166/804 | A Bandwidth-Enhanced Metasurface-Based RF Energy Harvester With Wide-Angle Reception
+[NO] 167/804 | Point-RMAE: Reinforcement Masked Autoencoder for 3D Representation Learning_supp1-3694193.pdf
+[NO] 168/804 | Global Localization of the Perseverance Rover via Orbiter–UAV–Rover Collaborative Matching
+[NO] 169/804 | Implicit Continuous Full-spectrum Response Network for Visible-to-Infrared Image Translation
+[NO] 170/804 | Integrated UAV and Satellite Observations for Antarctic Melt Pond Monitoring: Assessing the Melt-induced Risk for Transportation on Landfast Ice_supp1-3695914.docx
+[NO] 171/804 | An Accelerated Vectorized Discrete Ordinate Method With Forward and Jacobian Modules Developed Toward Advanced Satellite Data Assimilation
+[NO] 172/804 | A High-Power
+                    <i>Ku</i>
+                    -Band PA Using Multi-Combiner Architecture
+[NO] 173/804 | Stochastic Computing Circuits for Nonlinear Functions Based on Multiplexers
+[NO] 174/804 | Disk-Integrated Lunar Phase Curves from FY-4B/AGRI: Hapke Photometric Modeling from 470 nm to 2230 nm
+[NO] 175/804 | A Bad Data Identification Method Based on Optimal Weight-Tuning for Power System State Estimation
+[NO] 176/804 | Consistency-based Semi-supervised Evidential Active Learning Framework for Robust Classification of Radiology Images
+[NO] 177/804 | Physics-Informed Prostate MR–US Registration by Biomechanical Fields Prediction Network
+[YES] 178/804 | Two-Way Co-Design: Learnings from the Solid Lines project
+[NO] 179/804 | Framing the conversation on Democracy and Participation along six structural gaps to reach democratic resilience
+[NO] 180/804 | Optimization Model of Investment Benefit for Power Grid Enterprises Based on Improved Genetic Algorithm
+[NO] 181/804 | A Multi-Objective Operational Management Approach for Photovoltaic Charging Stations Based on Reinforcement Learning
+[NO] 182/804 | Prototype Development of an Integrated Distributed Energy-Dissipating Modular Multi-Level Converter Based on 6.5kV IGBT
+[NO] 183/804 | Current Stress Optimization Control of Dual Active Bridge DC-DC Converter Based on Dual Integral Sliding Mode Control
+[NO] 184/804 | Author Index
+[NO] 185/804 | Secure Optimization with Asynchronous Structured Skyline Predicates under Vertical Data Federation
+[NO] 186/804 | Joint Beam Scheduling and Passive Beamforming for IRS-Assisted Hybrid-Field SWIPT
+[NO] 187/804 | An Ultrawideband and Low-Profile Phased Array Design for Satellite-assisted Internet of Things Vehicular Communication
+[NO] 188/804 | Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder
+[NO] 189/804 | Front Cover
+[NO] 190/804 | Call for Papers - IEEE Computer Society
+[NO] 191/804 | A 210-GHz Planar Balanced Third-harmonic Mixer Based on Dual-band Rat-race Coupler
+[NO] 192/804 | New Products
+[NO] 193/804 | UAV-Assisted-IRS-Aided-UE: Analysis of Ergodic Capacity, Outage Probability, and Diversity Order
+[NO] 194/804 | DT-MAEI: A Dual Timescale MARL-Embedded Embodied Intelligence Architecture to Enable AUV Cluster Network-Based Multi-Target Tracking
+[NO] 195/804 | Reinforcement Learning Neural Network Observer-Based Adaptive Optimal Time-Varying Formation Control for Uncertain Multi-agent Systems With External Disturbance
+[NO] 196/804 | Style Backdoor: A Robust Style-Decoupled Clean-Label Backdoor Attack
+[NO] 197/804 | Neighbor-Consistent Transformer for Domain Adaptation in Remote Sensing Scene Classification
+[NO] 198/804 | ZAP: Zoned Architecture and Performant Compiler for Field Programmable Atom Array
+[NO] 199/804 | Field Emission From Polymers Relevant to Anode-Initiated Flashover Development
+[NO] 200/804 | High Efficient and Near-Optimal Binary Computation Offloading Strategy Based on Game Theory and Greedy Optimization
+[NO] 201/804 | Performance of
+                    <i>X</i>
+                    -bar Control Chart Pattern Recognition Scheme with Regulated Monitoring and Ensemble Recognizers
+[NO] 202/804 | Adaptive Structured Proximal Policy Optimization-Based Compensation for PID control of Folding-Wing UAVs under Disturbances
+[NO] 203/804 | Edge-Based Vision-Language Assistive System for the Visually Impaired: A Quantized VLM Approach
+[NO] 204/804 | M2RU: Memristive Minion Recurrent Unit for On-Chip Continual Learning at the Edge
+[NO] 205/804 | NEMESI: 5G Non-invasive EMF Multi-user Exposure Surveillance and Inspection
+[NO] 206/804 | Prediction and Analysis of Total Health Expenditure in China Based on Combination Model
+[NO] 207/804 | Current Sensor Detection and Remedial Strategy for Repeated Faults in Dual Three-Phase PMSMs With Multiple-Branch Current Sampling
+[NO] 208/804 | Risk-Sensitive Stochastic Control for Robust UAV-Assisted Free-Space Quantum Key Distribution under Atmospheric Turbulence
+[NO] 209/804 | SPARE: Asymmetric Proof-of-Work–Based DoS Mitigation for IoT Devices
+[NO] 210/804 | Decoupled Cross-Modal Fusion and Knowledge Injection for Multimodal Sentiment Analysis
+[NO] 211/804 | Multi-Slot Distributed Frequency Control for Power Systems With Heterogeneous Devices
+[NO] 212/804 | Joint Power Transfer and Interference Suppression via Metaheuristics-Driven 1-Bit Phase Control in Intelligent Reflecting Surface-Aided Wireless Systems
+[NO] 213/804 | Collision-Free Coordination of Heterogeneous Multiagent Systems Under Independent DoS Attacks
+[NO] 214/804 | HepaCopilot: A 6G-Enabled Multimodal Vision-Language Agent for Real-Time Hepatocellular Carcinoma Risk Stratification via Contrast-Enhanced Ultrasonography with Chain-of-Thought Clinical Reasoning
+[NO] 215/804 | Smart Parking for Medical Cities via Passenger-Aware Allocation and Fast Grouping–Permutation Heuristics
+[NO] 216/804 | Resource Allocation Optimization in Process Petri Nets Based on Bottleneck Identification
+[NO] 217/804 | SCD-Net: A Semantic-Contour-Disparity Triadic Collaborative Network for 3D Building Reconstruction from Stereo Satellite Imagery
+[NO] 218/804 | Hidden Markov Model Based Shared Autonomy for Grip Strength Regulation in sEMG Driven Robot Hand Control_supp1-3696049.mp4
+[NO] 219/804 | GaussianFusion_AI:Urban 3D Reconstruction and Label-Efficient Segmentation with Gaussian-Based Splatting
+[NO] 220/804 | Hardware-in-the-Loop Testbed for Advanced Distribution Management Systems
+[NO] 221/804 | Insulator Defect Detection Algorithm Based on Optimized YOLOv8-Transformer
+[NO] 222/804 | Interactive Support of Frequency and DC Voltage for Receiving-End Network with Offshore Wind VSC-HVDC Integration
+[NO] 223/804 | AMPGLDA: Predicting LncRNA-Disease Associations Based on Adaptive Meta-Path Generation and Multi-Layer Perceptron
+[NO] 224/804 | Enhancing End-to-End Delay Satisfiability for IEEE 802.1Qav
+[NO] 225/804 | Resettlement Work: Accounting for the Invisible Work of Refugee Community Health Workers
+[NO] 226/804 | Towards Multispecies Participation in More-than-human Worlds
+[YES] 227/804 | PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts
+[NO] 228/804 | PRLBridge: A Legality-Aware Interface between Compilers and LLMs for Secure DNN Obfuscation
+[NO] 229/804 | K-FDE: Kurtosis and Frequency Domain Enhanced Adaptive Feature Learning Framework for Intelligent Fault Diagnosis
+[NO] 230/804 | Near-Field Beam Training Design for Stacked Intelligent Metasurface Assisted Communication Systems
+[NO] 231/804 | Lifecycle-Aware Multi-Temporal InSAR: Synergistic Optical-Radar Monitoring of Evolving Infrastructure
+[NO] 232/804 | Linear Economic MPC With Nonlinear Friction Feedforward for Built-in Direct-Drive Wave Energy Converters
+[NO] 233/804 | Photovoltaic Power Forecasting Method Based on Similar-Day Clustering and Attention-Based Multi-Scale Transformer
+[NO] 234/804 | A Method for Short-Term Wind Power Forecasting Based on Multi-Scenario Segmentation and Error Correction
+[NO] 235/804 | Interference-resistant Radar Reception with Microwave Photonic Time-frequency Matched Signal Selection and Amplification
+[NO] 236/804 | Flexible Floating-Gate Optoelectronic Synaptic Transistor for Neuromorphic Visual Processing
+[NO] 237/804 | Collaborative Charging Optimization for Wireless Rechargeable Sensor Networks via Heterogeneous Mobile Chargers
+[NO] 238/804 | Anti-Interference Coverage Optimization for UWSNs in Time-Varying Underwater Acoustic Environments Based on the DynCov-BiS Algorithm
+[NO] 239/804 | Decentralized Adaptive Delayed Control of Large-Scale Nonlinear Systems with Random Couplings and Biased Measurements
+[NO] 240/804 | Supervised Feature Selection Guided by Granular-Ball Computing: A Two-Stage Geometry-Driven Framework_supp1-3695768.pdf
+[NO] 241/804 | A High-Precision Dual-Domain Signal Denoising and Lightweight Phase Picking Method for Seismic Edge Devices
+[NO] 242/804 | Transient Modulation of the Nucleus Accumbens by Transcranial Temporal Interference Stimulation: An fMRI Study in Healthy Adults
+[NO] 243/804 | Arrayed triaxial force plate system using high-speed line-scan camera and sampling moiré method for jumping spider measurement
+[NO] 244/804 | Bayesian Learning-Based Spectrum Mapping with UAV Path Dynamic Optimization Under Three-dimensional Unknown Environments
+[NO] 245/804 | Reframing Participation: Inclusion and Democracy in Participatory Design
+[NO] 246/804 | Green Synthesis of Multiphase Gd/Gd₂O₃ Nanoparticles Using Hazelnut Husk
+                    <i>(Corylus colurna)</i>
+                    Extract for Biomedical Applications CR-16
+[NO] 247/804 | A Data-Driven Magnetic Field Model for the Halbach Arrays of the Magnetically Levitated Planar Motor with Variable Harmonic Coefficients
+[NO] 248/804 | Inductive Generation of Rotation-Free Electric Fields and Non-Contact Liquid Characterization Using a Vector-Potential Transformer
+[NO] 249/804 | Spatial Encoding Informatical Electromagnetic Sensing for Stress Measurement
+[NO] 250/804 | Bilayer Stator BLDC Motor With Auxiliary Stator Driven by One Electronic Speed Controller for Torque Ripple and Vibration Reduction
+[NO] 251/804 | MMFormer: Macro-Micro Transformer for Small-Sample Classification of Mars Hyperspectral Image
+[NO] 252/804 | A Systolic Random Increment Memory Architecture for Unary Computing
+[NO] 253/804 | Hierarchical PatchMatch Depth Estimation with Double-Layer MST Propagation for Urban 3D Reconstruction from Satellite Imagery
+[NO] 254/804 | Biogeographical Trends of Benthic Habitats in Guam from WorldView-2/3 Observations Using Advanced Deep Learning
+[NO] 255/804 | Distributed Quantum Learning over Near-term Devices: Convergence Analysis and Security Design
+[NO] 256/804 | Analytical Framework for Power System Strength
+[NO] 257/804 | Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors
+[NO] 258/804 | Carbon Intensity Sensitivity Analysis Method for Distribution Networks Based on the ABCD Model
+[NO] 259/804 | Design and Application of a Web-Based Real-Time Management System for Massive Vector Data in Power Grid Engineering Feasibility Study and Design
+[NO] 260/804 | Optimal Dispatch of AA-CAES Considering State-of-Charge Dependency
+[NO] 261/804 | Carbon Pricing, Green Certificates, and Capacity Compensation: Synergistic Effects on Absorption
+[NO] 262/804 | Ambient Wind Impact on Air-Cooling Island Thermal-Flow Characteristics and Resultant Thermal Economy of Adjacent Dual Direct Air-Cooling Units Under Unequal Load
+[NO] 263/804 | Optimization of Low-Carbon Transition Pathways for Power Systems Considering Renewable Energy Output Uncertainty
+[NO] 264/804 | A Field Diagnosis and Repair Case of Ultra-High Voltage Converter Transformer High-Temperature Overheating Fault
+[NO] 265/804 | Research on the Integration of DCS and Test Data Acquisition System in Nuclear Power Plants
+[NO] 266/804 | Expert Representation-Driven LightGBM for Photovoltaic Power Forecasting
+[NO] 267/804 | TMR Anti-Interference Method Based on Spatial Filtering for Multiple Unknown Quantities
+[NO] 268/804 | LPGNet: Learnable Prompt-Guided Network for Low-dose Contrast Computed Tomography Angiography Imaging
+[NO] 269/804 | Optimizing Server Allocation for Multi-Tenant GPU Inference with Dynamic Batching: A Queueing Theoretic Approach
+[NO] 270/804 | Real Mine Data-Driven Multi-Agent Reinforcement Learning for Coordinated Ventilation Fan Operational Scheduling
+[NO] 271/804 | Dual Time-Scale Framework for Joint Optimization of Service Caching and UAV Trajectory based on Self Attention Deep Reinforcement Learning
+[NO] 272/804 | PhishLumos: From a Single URL to Campaign-Level Phishing Mitigation
+[NO] 273/804 | Wheelchair Navigation Assistance via Braille Block Detection with a Single Omnidirectional Camera
+[NO] 274/804 | Ultralow detection limit label-free biosensor based on a microbottle resonator for the detection of human chorionic gonadotropin
+[NO] 275/804 | Model-Reduction-Based Balance and Locomotion Control of Single-Track-Two-Wheeled Robots Under Strong Disturbances
+[NO] 276/804 | Design and Operational Characteristics of a Nuclear Power Unit Coupled with Molten-Salt Thermal Energy Storage
+[NO] 277/804 | A Study on Differentiated Pricing Strategies for Demand-Side Response in the Electricity Sector Based on a Maximum Entropy Deep Reinforcement Learning Algorithm
+[NO] 278/804 | A Novel Pre-Synchronization Control Scheme of Grid-Forming Converters Based on VSM Control
+[NO] 279/804 | Testing Dependency of Weighted Random Graphs
+[NO] 280/804 | A Flux-guiding Type Variable Flux Machine with Multi-layer Arc-shaped Magnetic Barriers
+[NO] 281/804 | Design of Optimal Gain Mask for Phased Array-Fed Offset Reflectors
+[NO] 282/804 | OutDreamer: Video Outpainting with a Diffusion Transformer_supp1-3694129.mp4
+[NO] 283/804 | Interpreting Federated Learning by Aggregating SHAP Explanations_supp1-3696009.pdf
+[NO] 284/804 | Automated Resume Evaluation Using Large Language Models: A Multi-Agent Framework with Fine-Tuning and Prompt Engineering
+[NO] 285/804 | A High-Gain Quadratic DC-DC Converter with Trans-Inverse Property and Low Current Stress
+[NO] 286/804 | DORSAL: Downlink Optimization for Robust Direct-to-Satellite LoRaWAN
+[NO] 287/804 | A Systematic Design Framework for Multiport Wireless Power Transfer Using the Maximum Efficiency of Multiple Input/Multiple Output Approach
+[NO] 288/804 | Get Published in the IEEE Transactions on Privacy
+[NO] 289/804 | IEEE Computer Society Information
+[NO] 290/804 | Unlock the Benefits - IEEE Computer Society Membership
+[YES] 291/804 | T-HAC: Time-Sensitive HLS Trojan Attack for Affecting Controller Timing Signal of Hardware IP Designs
+[NO] 292/804 | Collaboration and Engagement in I&amp;M: Rising Star Judy Amanor-Boadu
+[NO] 293/804 | Front Cover
+[NO] 294/804 | CTransFuse: A Hybrid Transformer-CNN Framework for Precise Meniscus Segmentation and Lesion Identification
+[NO] 295/804 | Decision Behavior of Leading Vehicle Driver With Predictive-Forward-Collision-Warning Considering Group Heterogeneity
+[NO] 296/804 | Transient Thermal Characterization Method for GaN HEMTs With Different Device Architectures
+[NO] 297/804 | When Do Large Language Models (LLMs) Struggle to Count Letters?
+[NO] 298/804 | A2SPM: A Memory Access Acceleration for Neuromorphic Processing with the SPM
+[NO] 299/804 | Queer, Hybrid Participatory Design: Relational Practices and Norms for Coalition Building with Rural, LGBTQ+ Communities
+[NO] 300/804 | REVERSELAB. Reclaiming Space and Relations in Prison through Art and Participation
+[NO] 301/804 | Situated Relational Designing: Re-Discovering Relational Fragments towards Pluriversal Contact Zones by Examining Nordic Mythology
+[NO] 302/804 | Frequency-Selective Adaptive Generalized Orthogonal Matching Pursuit for DME Interference Mitigation in Aeronautical Communications
+[NO] 303/804 | Modeling and Stability Analysis of the ISOP-Type Cascaded Hydrogen Converter
+[NO] 304/804 | Pre- and During-Disaster Co-Optimized Pre-Scheduling Strategy for Distribution Networks
+[NO] 305/804 | Research on Daily Power Generation Prediction of Photovoltaic Power Station Considering Meteorological and Dust Factors
+[NO] 306/804 | Loss Modeling and Parameter Co-Optimization of GaN QR Flyback Converter for High-Frequency and High-Efficiency Applications
+[NO] 307/804 | Adaptive Detection of Early Abnormal States in Inverters via a Mechanism Combining Attention and Transfer Learning
+[NO] 308/804 | Research on Hierarchical Decoupling and Service Permission Control Technology for SCD Files in Smart Substations
+[NO] 309/804 | Site - Selection and Capacity - Planning Method of Soft Open Points Adaptation to Distributed New Energy Access
+[NO] 310/804 | Weakness Analysis of Distribution Network Based on Multi-Source Heterogeneous Data Collaborative Driving
+[NO] 311/804 | Transfer Learning Enhanced Multi-Scale Non-Intrusive Load Monitoring with Dual-Branch Decomposition
+[NO] 312/804 | Coordinated Control of Active Preheating and Intelligent Balancing for Lithium-Ion Battery Packs Under Low-Temperature Conditions
+[NO] 313/804 | MFANet: LiDAR-Camera Extrinsic Calibration via Multi-Features Association with Dual-Branch Cross-Attention
+[NO] 314/804 | High Resolution Optical Displacement and Polar Axis Deviation Angle Detection Method for Superconducting Magnetic Levitation Rotor
+[NO] 315/804 | Coverage Performance Analysis of FAS-enhanced LoRa Wide Area Networks under both Co-SF and Inter-SF Interference
+[NO] 316/804 | OOBA: Object Offset Backdoor Attack for Remote Sensing Object Detection
+[NO] 317/804 | BiasField: Interactive Bias Probing of Machine Learning Datasets
+[NO] 318/804 | BrushEdit: All-In-One Image Inpainting and Editing_supp1-3695011.pdf
+[NO] 319/804 | BEMF-Based PMSM Sensorless Control Using Finite Position Set-PLL Considering Speed Reversal and Computational Burden
+[NO] 320/804 | DSA-NRP: No-Reflow Prediction from Angiographic Perfusion Dynamics in Stroke EVT
+[NO] 321/804 | Fluid Antennas: An Efficient Approach to Mitigating Packet Loss in Broadband Wireless Communication Systems
+[NO] 322/804 | Cascaded Stimulated Raman Soliton Frequency-Shift Amplification Tunable Into the 1.7-μm Spectral Region Based on Erbium-Ytterbium Co-Doped Fiber and Phosphorus-Doped Fiber
+[NO] 323/804 | Quantum-Driven State-Reduction for Reliable UAV Trajectory Optimization in Low-Altitude Networks
+[NO] 324/804 | Psych-Air: Predictive Smog Analytics for Psychotic Disorder Patients’ Risk Assessment in Smart Cities
+[NO] 325/804 | Plasticity-Enhanced Multi-Agent Mixture of Experts for Dynamic Objective Adaptation in UAV-Assisted Emergency Communication Networks
+[NO] 326/804 | Dynamic Resource Scheduling for Time-triggered Flows With Deep Reinforcement Learning Algorithm in TSN-5G Network
+[NO] 327/804 | Metal Integrated Suspended Line Technology: New Paradigm for Low-Loss RF and Millimeter-Wave Components
+[NO] 328/804 | Can LoRA teach? Cross
+                    <i>A</i>
+                    -matrix in Single Space for Low-Rank Knowledge Distillation
+[NO] 329/804 | Understanding the Role of Future Visions as Infrastructure for Sustainable Living
+[NO] 330/804 | Computing Edge
+[NO] 331/804 | Masthead
+[NO] 332/804 | IRS Aided Non-linear Energy Harvesting with Harvester Sensitivity in CRN: A Deep Reinforcement Learning Approach
+[NO] 333/804 | Evaluating the Capability of InSAR-Derived Surface Deformation to Characterize the Spatio-temporal variability of Permafrost Active Layer Thickness in Svalbard
+[NO] 334/804 | Adaptive Inertia of DC-link Voltage Synchronization
+[NO] 335/804 | Table of Contents
+[NO] 336/804 | SDMCC: Sample-wise Debiased Multilevel Contrastive Clustering for Single-cell Gene Expression Data
+[NO] 337/804 | Deadbeat Direct Flux Control: Plug-and-Play Torque Controllers for Electrically Excited Synchronous Motors
+[NO] 338/804 | A Low-Latency Three-Phase ROI Cropping Architecture for Real-Time Single-Object Localization on FPGA
+[NO] 339/804 | High-Frequency Current Transformers in Rotating Machines: A Critical Review
+[NO] 340/804 | Normal-Variation-Aware Cross-Domain Zero-Shot Anomaly Detection via Multi-Prompt Learning with CLIP
+[NO] 341/804 | Robust and Explainable Physics-Informed Transformer-Based Thermal Parameter Identification of Lithium-Ion Battery Systems
+[NO] 342/804 | Superimposed Pilot-Based Adaptive Semantic Communications for Wireless Image Transmission
+[NO] 343/804 | Verifiable Error Bounds for Physics-Informed Neural Network Solutions of Lyapunov and Hamilton–Jacobi–Bellman Equations
+[NO] 344/804 | Capacity Optimization of CSP Plants Considering Nonlinear Temperature-Efficiency Interdependence
+[NO] 345/804 | Research on Evaluation and Optimization of MarketBased Regulation for Charging Resource Clusters Based on Multi-Source Data Fusion
+[NO] 346/804 | Multi-Scenario Optimization and Key Factor Assessment of Renewable Energy Utilization Under High Penetration Levels
+[NO] 347/804 | Sensorless Control of SPMSM with Unknown Flux Linkage Based on Switching from Standard-Type to Nonlinear-Type Flux Observer
+[NO] 348/804 | An Advanced NanocompositeInsulation Framework for High-Voltage Power Equipment
+[NO] 349/804 | The Effects of Relaxing Price Limits on Spot Electricity Markets Under High Renewable Penetration
+[NO] 350/804 | 2026 5th International Conference on Green Energy and Power Systems (ICGEPS)
+[NO] 351/804 | Retention Characteristics of the Synaptic Pass-Transistor Dependent on the Position of the Load Resistor for the Long-Term Plasticity_supp1-3694348.pdf
+[NO] 352/804 | A Spiking Few-Shot Learning Framework for Drone RF Signal Recognition
+[NO] 353/804 | Simplifying Robotic Ultrasound Calibration Via Conic Sections Geometry_supp1-3695989.mp4
+[NO] 354/804 | Multiple Fault Calculation for Distribution Networks with Inverter-Based Distributed Generator Based on Fault Component Network
+[NO] 355/804 | Watermarking for Model Ownership Verification:Invisible at Deployment, Activated by Updates
+[NO] 356/804 | Near Optimal Alphabet-Soundness Tradeoff PCPs
+[NO] 357/804 | Stress-Aware Modeling in UX: Combining Synthetic Physiological Data Features with Personality-Based Labeling
+[NO] 358/804 | The Latens Patronus: Seamless Model Watermarking for Latent Diffusion Model in IoT Environments
+[NO] 359/804 | Branching-Ratio-Based Detection Efficiency Calibration of Transition-Edge Sensors at C-Band Wavelengths
+[NO] 360/804 | Quickest Change Detection for UAV-Based Sensing
+[NO] 361/804 | An Efficient Junction Temperature Prediction Model for Diamond-on-Chip-on-Glass (DoCoG) Packaging Based on Thermal Resistance Network
+[NO] 362/804 | Are Deep Learning Based Hybrid PDE Solvers Reliable? Why Training Paradigms and Update Strategies Matter
+[NO] 363/804 | Multi-Agent Opportunistic Routing for UAV Swarms: A Deployment-Aligned Robust Learning Framework
+[NO] 364/804 | Elastic Cloud Scaling for Small Models: Dynamic Resource Allocation as an Alternative to Training Large LLMs
+[NO] 365/804 | MLDCSS: Energy-Aware Multi-Level Cooperative Spectrum Sensing with Hierarchical Fusion and Non-Coherent MIMO in CR-IoT Networks
+[NO] 366/804 | PAMA: Provable-Secure Anonymous Multi-Factor Authentication with Post-Quantum Security for IoT-enabled E-Healthcare Systems
+[NO] 367/804 | An Improved Beta Burst Extraction for Chip-Based Deep Brain Stimulation with Real-Time Model Updating
+[NO] 368/804 | A Deep Bidirectional LSTM Model Enhanced by Transfer-Learning for the Classification of Peripheral Arterial Blood Pressure Waveforms
+[NO] 369/804 | Feature Matching-Based Extraction of Independent Ice Floe Motion in the Arctic Marginal Ice Zone
+[NO] 370/804 | Voltage Risk Assessment of Power Systems Based on an Electrical Coupling-Aware Temporal Fusion Network Model
+[NO] 371/804 | A Photovoltaic Resource Survey Method Guided by UAV Precision Survey Samples and Trained Across Scale Image Mapping
+[NO] 372/804 | Harmonic Cancellation-Based Virtual DQ Decoupling Control for Totem-Pole Bridgeless PFC with Enhanced Dynamic and Steady-State Performance
+[NO] 373/804 | Designing for Living Together
+[NO] 374/804 | A 0.2–12-GHz Fast-Settling Wideband Frequency Synthesizer With Stage-Switching Frequency Extender and Continuous Compensation PFDCP
+[NO] 375/804 | Table of Contents
+[NO] 376/804 | Impact of Acceleration and Imperfect CSI on Multidimensional Waveforms in Doubly Dispersive Channel
+[NO] 377/804 | IMS Society Awards
+[NO] 378/804 | Regrown-Ohmic-Contacts Enabled GaN HEMTs with Ultra-Low Noise Figures and Superior Power Merits for Wide-Band LNA Applications
+[NO] 379/804 | Tri-Hybrid Combining Design in Segmented Pinching-Antenna MU-MISO Uplinks
+[NO] 380/804 | Convergence of Large Language Models, Internet of Things, and Process Mining: A Systematic Literature Review
+[NO] 381/804 | Theoretical Study and Validation for the High-Gain High-Mode-Purity Double Spiral Vortex Electromagnetic Wave Antenna Array
+[NO] 382/804 | General Revenue Adequacy Conditions for Energy Transport Networks
+[NO] 383/804 | Beam-Switchable Antenna Array Based on Parasitic Unit Boundary for Customer Premises Equipment
+[NO] 384/804 | Diagnosis and Treatment of a Batch-Related Abnormal Gas Generation Fault in Converter Transformers
+[NO] 385/804 | High-Precision Modeling of Key Components in Fuel Cell Hybrid Systems and Research on Multi-Physics Coupling Characteristics
+[NO] 386/804 | Intertemporal Strategies Amid Technological Interaction during Integration of the IoT and Blockchain_supp1-3695080.pdf
+[NO] 387/804 | Net-Zero Carbon Planning for Port Industrial Parks with High-Grade Heat Demand Based on Multi-Objective Optimization
+[NO] 388/804 | MRGE: Enhancing long-short-term interest session recommendation through multivariate relationship graph embedding
+[NO] 389/804 | Rethinking Participatory Design as a Political and Pluralistic Practice. Agonistic Coexistence in Prison.
+[NO] 390/804 | Wisdom in the Loop - Human-Centered AI and African Knowledge Systems in HCI
+[NO] 391/804 | Research on dynamic load and trajectory detection method of maize threshing based on the bionic electronic maize ear
+[NO] 392/804 | CoGFormer: A Context-Gated Spatial Transformer With Temporal-Spatial Gated Graph Convolution for Traffic Flow Forecasting
+[NO] 393/804 | A High-Band Phase Synchronization Approach for Distributed UAV SAR
+[NO] 394/804 | Modeling of multi-service queueing systems with traffic overflow
+[NO] 395/804 | Ultra-compact Ultra-low-loss 1 × 2 Power Splitter for Broadband SiN-LNOI Photonics via DBS Inverse Design
+[NO] 396/804 | Photonics Breakthroughs 2025: Parallel Photonic Machine Learning With a Nonlinear Amplifying Loop Mirror
+[NO] 397/804 | Beyond Sequential Scanning: A Synergistic Mamba Paradigm with Adaptive Receptive Recalibration for Hyperspectral Image Classification
+[NO] 398/804 | Model-Data Co-Driven Detection of False Data Injection Attacks for Two-Stage Volt/Var Control in Distribution Networks
+[NO] 399/804 | An Hybrid Photovoltaic Power Prediction Model Based on VMD-ICPO-LSTM
+[NO] 400/804 | Fuzzy Event-Driven Optimal Quantized Control for USVs under Thruster and Positioning Constraints: An Adaptive Dynamic Programming Method
+[NO] 401/804 | Modality-Guided Feature Alignment and Complementary Enhancement for Infrared-Visible Object Detection
+[NO] 402/804 | Cross-Domain Radar Gesture Generation via Diffusion Models with Transfer Guidance and Physical Priors
+[NO] 403/804 | Difference-Based Recovery for Modulo Sampling: Tightened Bounds and Robustness Guarantees
+[NO] 404/804 | Constellation Selection and Power Control for OFDM-based ISAC: From Theory to Prototype
+[YES] 405/804 | Reentrancy Vulnerability Detection in Smart Contracts Based on Adversarial Examples
+[NO] 406/804 | Trans-MAML: Meta-Learning Enhanced Transformers for Human Activity Recognition in WiFi CSI Sensing
+[NO] 407/804 | A Dual Asynchronous-synchronous Relation Graph Method for Sensor-based Group Activity Recognition
+[NO] 408/804 | Home-Charging Sufficiency for EVs in Hot Desert Climates: A Real-World GPS Case Study from Qatar
+[NO] 409/804 | 3D SLAM and Deep Learning for Real-Time Fire Localization in Ship Engine Rooms
+[NO] 410/804 | Comparative Study Between On- and Off-grid Photovoltaic to Reduce Peak Demand in Residential Houses
+[YES] 411/804 | CASSIS: An LLM-Driven Framework for Sensitive API Identification in Cyber–Physical System Software Repositories
+[NO] 412/804 | Creating a University-based Accessible Makerspace for Use by Local Community Members through Participatory Design Workshops
+[NO] 413/804 | Participants on Participation
+[YES] 414/804 | PCB-QA: A Task-Specific Question Answering Framework for Text-Centric Chip Datasheet Queries in PCB Design
+[NO] 415/804 | RHFormer: A Residential Electricity Load Forecasting Model
+[NO] 416/804 | An Improved Zonotope-Based Method for Flexible Resource Aggregation
+[NO] 417/804 | Fault Analysis and Handing of a Converter Transformer Overheating Gas Production
+[NO] 418/804 | Investigations of magnetic properties of nanoribbon arrays based on Co and Cu
+[NO] 419/804 | A CGAN-LSTM-Based Framework for Time-Varying Non-Stationary Channel Modeling
+[NO] 420/804 | How Far Are We from Generating Missing Modalities with Foundation Models?
+[NO] 421/804 | Simultaneous Sensing Data Acquisition and Sharing in Low-Altitude Wireless Networks: Fundamental Limits and Signaling Design
+[YES] 422/804 | A Universal and Lightweight Automated Design Framework for Multi-Band Power Amplifiers
+[YES] 423/804 | APT: Optimal Tree for Diagnosis Simulation and Various Diagnosis Applications
+[NO] 424/804 | Sentiment Hypergraphs with Hierarchical Reasoning: A Novel Framework for Advanced Aspect-Based Sentiment Analysis
+[NO] 425/804 | Hybrid Grid-Forming Control for Enhanced Active Support and DC Voltage Stability in MMC-HVDC Systems
+[NO] 426/804 | Spectral Diagnostics of Emergence: A Random Matrix Baseline and a Mesoscopic Regime from Competing Scales
+[NO] 427/804 | Analysis and Experiment of Isolated DC-DC Converter Using Multiple Cascaded Chopper Cells with Phase-Shift Application
+[NO] 428/804 | Robust Real-Time Human Activity Recognition via 2D Tensor CNN with Change Point Detection and Confidence-Based Prediction Filtering
+[NO] 429/804 | Machine Learning for Network Optimization: An Empirical Performance Analysis Across Diverse Traffic Scenarios
+[YES] 430/804 | Artificial Intelligence-Driven Design Automation of RF and Millimeter-Wave Circuits and Systems
+[NO] 431/804 | Joint Beamforming and Deployment Optimization for Active STAR-RIS Enabled Covert Communications
+[NO] 432/804 | Enhancing Service Function Chain Performance in SDN/NFV-Enabled Space-Air-Ground Integrated Vehicular Networks: A Three-Sided Stable Matching Approach
+[NO] 433/804 | Making Policy Work: Navigating Organisational Inertia Through Participatory Design
+[NO] 434/804 | Theatre of the Tech-Oppressed: Exploring Algorithmic Injustice Through Participatory Performances
+[NO] 435/804 | SwinLoAttn-DIP: A Hybrid Transformer-Enhanced Deep Image Prior for Microscopic EIT Sensing
+[NO] 436/804 | Simultaneous Temperature and Salinity Sensing via FBS and FWM
+[NO] 437/804 | Development of Columnar Tin-Doped Gallium Oxide Films Using an RF/DC Co-Sputtering Technique of Dual-procedure for Hydrogen Sulfide Sensing Applications
+[NO] 438/804 | Truthful Online Preference Aggregation for LLM Fine-Tuning in Mobile Crowdsourcing
+[NO] 439/804 | Effect of Annealing on the Microstructure and the Magnetostrictive Property of Nanogranular Fe-B-N Alloy Thin Film
+[NO] 440/804 | Progressive Point Cloud Denoising Guided by Unsigned Distance Function
+[NO] 441/804 | Topology-Guided Knowledge Transfer for Multiobjective Multitask Optimization
+[NO] 442/804 | Evolving Robot Morphology with Manipulation Learning Inspired by Human Hand Evolution
+[YES] 443/804 | Fully Automated Schematic and Layout Design of Millimeter-Wave CMOS Power Amplifiers Using Prior Knowledge-Guided Decomposition and Machine Learning-Assisted Optimization
+[NO] 444/804 | Time-Frequency Feature-Guided Progressive Attention DenseNet for Audio Magnetotelluric Noise Detection
+[NO] 445/804 | Personalized Diabetes Care: Discovering Diabetes Mindset Disparities From Metaphorical Cognition
+[NO] 446/804 | Emoji-Free Sarcasm Detection in Code-Mixed Text via Emotion-Polarity Divergence
+[NO] 447/804 | Ultra-Flat Gain Profile With Raman Amplification Employing Combined Coherent and Incoherent Pumps
+[NO] 448/804 | Analysis of Carbon Reduction Strategies for ParksConsidering Dynamic Carbon Emission Factors and Energy Storage Optimization
+[NO] 449/804 | Identification of Electricity Load Fluctuation Characteristics in the Textile and Apparel Industry Based on CatBoost Algorithm Model
+[NO] 450/804 | Hydro-Thermal Optimization of Battery Thermal Management Based on 3D Composite Variable Cross-Section Channels Under Low Pump Power Conditions
+[NO] 451/804 | Air Handling Unit Fault Diagnosis via Bayesian Network Parameter Optimization Under Data-Scarce Conditions
+[NO] 452/804 | A Short-Term Multivariate Load Forecasting Model Based on ILSO-WTC-BILSTM
+[NO] 453/804 | Text-Image Guided Retrieval Network for Triple-modal Images Few-Shot Semantic Segmentation
+[NO] 454/804 | LiDAR Fusion-based Optimized Path Selection for Autonomous Vehicles using the Verification Model
+[NO] 455/804 | Low-cost Parallel Transmission for Dense Indoor Data Collection with LoRaWAN: Time Synchronization and Resource Allocation
+[NO] 456/804 | Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging
+[NO] 457/804 | Model Analysis and Research of Equivalent Capacitance of Multi-segment Induction Coil in Aviation Electromagnetic Measurement System
+[NO] 458/804 | C
+                    <sup>3</sup>
+                    DG: Conditional Domain Generalization for Hyperspectral Imagery Classification with Convergence and Constrained-risk Theories
+[NO] 459/804 | CSEM3DINV: A Scalable 3-D parallel inversion framework for multi-source CSEM data
+[NO] 460/804 | Two-Stage Optimization for Multi-Objective Dynamic Vehicle Routing Problem with Time Windows under Uncertainty_supp1-3696098.pdf
+[NO] 461/804 | LLM-Guided Multiobjective Optimization for Physically-Plausible and Diverse 3D Human Motion Generation
+[NO] 462/804 | DCT: Dimensional Collapse Tiling for Tensor Operators on Attention Accelerators
+[NO] 463/804 | A Robust Synchronization Method for Enhancing Stability of IBR-Dominated Grids
+[NO] 464/804 | Hybrid p-n Junction/Ohmic Gate p-GaN HEMT with Enhanced Threshold Voltage Stability and Large Gate Swing
+[NO] 465/804 | Operationalizing Urgent Computing for Wildland Fire: A Case for Readiness
+[NO] 466/804 | A Study on the Modeling of Energy-Intensive Industrial Loads and Their Control Potential in Production Processes
+[NO] 467/804 | Wind Power Forecasting via MSTL Decomposition and Complexity-Driven Dual-Branch Deep Learning
+[NO] 468/804 | STWFormer: Spatial-Temporal Sparse Transformer with Adaptive Gating for Multi-Location Wind Power Forecasting
+[NO] 469/804 | Physical-Data Dual-Driven Method for Power Scheduling Auxiliary Decision: PDEVR Closed-Loop Framework with Constrained Large Language Model
+[NO] 470/804 | Low-Communication Adaptive Volt/Var Control for PV-Rich Distribution Networks
+[NO] 471/804 | A 6–16 GHz Reflectionless Downconverter Using Fast-Settling Digital-Coarse Feed-Forward AGC
+[NO] 472/804 | PCB-Embedded SiC MOSFET Packaging Using Shield to Suppress Near-Field Magnetic Radiation
+[NO] 473/804 | Optimization Analysis of Core Loss and Rotor Eddy Current Loss in Aircraft Excitation Built-In Hybrid Excitation Brushless Machine
+[NO] 474/804 | DRoPE: Directional Rotary Position Embedding for Efficient Agent Interaction Modeling
+[NO] 475/804 | Correlation-Driven Extended Target Detection in the Frequency Domain: High-Speed Waveform Design
+[NO] 476/804 | Asymmetric Antenna for Mobile Platforms with Common-Mode Current Suppression
+[NO] 477/804 | Multiple Optical Waveguide Tactile Sensor for Differentiating Micro- and Macro-Scale Tangential Displacements
+[NO] 478/804 | Schrödinger Bridges of Averaged Systems
+[NO] 479/804 | Reshaping Wireless Channel using UAV Swarms: A User-Centric Approach with Practical Constraints
+[NO] 480/804 | Distributed Triangulation Filter for Target Motion Estimation via Bearing-Only Measurements_supp1-3695606.mp4
+[NO] 481/804 | A Fusion Algorithm for Ground Roll Suppression Methods based on Adversarial Matching Filtering
+[NO] 482/804 | Seeking Safety From Uncertainty: Probabilistic Vessel Trajectory Prediction With a Flow-Based Generative Model
+[NO] 483/804 | Interpretable Undergraduate Dropout Prediction via Explainable Boosting and Gaussian Hidden Markov Models
+[NO] 484/804 | Risk-Aware Rulebooks for Multi-Objective Trajectory Evaluation under Uncertainty
+[NO] 485/804 | EA-APO: A Universal Proactive Defense Against Facial Manipulation
+[NO] 486/804 | Definitional-Closure-Constrained Multi-Task Retrieval of Leaf LMA, EWT, and FMC From Hyperspectral Spectra
+[NO] 487/804 | Personalized Privacy-preserving Task Allocation in Spatial Crowdsourcing
+[NO] 488/804 | NOVA: A Self-Supervised Graph Framework for Real-Time Anomaly Detection in Internet of Vehicles
+[NO] 489/804 | FASE: FPGA-Assisted Syscall Emulation for Rapid Early-Stage Processor Performance Evaluation
+[NO] 490/804 | Optimization Method for Safety Domain of Electric Vehicle Cluster and Distributed Photovoltaic Collaborative Operation Based on Graph Reinforcement Learning
+[NO] 491/804 | A Rapid Method for Evaluating Power Grid Capacity by Integrating Graph Neural Networks and Deep Reinforcement Learning
+[NO] 492/804 | Research on Dark Fermentation-Driven Biological Hydrogen Production Systems
+[NO] 493/804 | Research on IGBT Open-Circuit Fault Diagnosis for Grid-Connected Photovoltaic Inverters Based on EVR-RF
+[NO] 494/804 | Research on Data Simulation and Energy Analysis Based on Multi-Stage Membrane Separation Process
+[NO] 495/804 | Experimental Study on the Threshold of Loss of Vacuum in an NBI Cryopump Under Liquid-Helium Flow-Loss Conditions
+[NO] 496/804 | Co-Optimization of Capacity Configuration and Operational Scheduling for a Park-Level Integrated Energy System
+[NO] 497/804 | A Subdivision Analytical Model for Accurate Prediction, Rapid Positioning and Degree Evaluation of Irreversible Demagnetization of Permanent Magnets in Surface-Mounted Permanent Magnet Motors
+[NO] 498/804 | A Comprehensive Study on the Evolution of Different Motivations and Architectures of YOLO
+[NO] 499/804 | A Robust Tamper-Resistant and Location-Aware Authentication Protocol for Securing Charging Services in V2G Environments
+[NO] 500/804 | Agentic PD: Rethinking Participatory Design through a Transformative Agency Lens
+[NO] 501/804 | Designing Responsible AI with Indigenous Communities: Towards Participatory AI with ovaHimba and San People in Namibia
+[NO] 502/804 | Infrastructuring and Place
+[NO] 503/804 | Outlier Detection of Electricity Load Anomalies in the Leather Manufacturing Industry Based on the Isolation Forest Algorithm
+[NO] 504/804 | Topology Optimization Design of Pemfc Cathode Flow Field Based on Composite Objective Function
+[NO] 505/804 | Effect of Gradient Distribution of Platinum Content and Perforation Structure on Reaction Transport Processes in the Catalytic Layer
+[NO] 506/804 | Spatio-Temporal Feature Fusion Network with Multi-Head Attention for Electricity Spot Price Forecasting
+[NO] 507/804 | Standardized Commercial Building Cooling Audits for Low-Carbon Power Systems: An ANSI/ASHRAE Standard 211 Framework to Operationalize National Cooling Action Plans
+[NO] 508/804 | Thermoeconomic Study on Low-Carbon Steam System Retrofitting in a Pulp and Paper Mill
+[NO] 509/804 | Fundamental Limit of Discrete Distribution Estimation under Utility-Optimized Local Differential Privacy
+[NO] 510/804 | Decentralizing Land Registry Infrastructure: Consumer-Run Shared Blockchain for Sustainable Agricultural Applications
+[NO] 511/804 | A Hierarchical Deep Reinforcement Learning Framework for Dependency-Aware Task Offloading in Edge Computing
+[NO] 512/804 | Is Geometry Enough? An Evaluation of Landmark-Based Gaze Estimation
+[NO] 513/804 | Analysis and Optimization of Spatially Correlated STAR-RIS Assisted Secure Massive MIMO Systems
+[NO] 514/804 | Multi-AUV Cooperative Path Planning Based on Plasticity Injection TD3 Framework for IoUT Data Collection
+[NO] 515/804 | RDSAN-CDS: An RD Spectrum-Aware Network With Controllable Detection Sensitivity for HFSWR Target Detection
+[NO] 516/804 | Robust Fine-Grained Oriented Ship Detection for Remote Sensing imagery via Controllable Generative Pretraining
+[NO] 517/804 | Accelerated Landweber regularization for vehicle velocity from high-rate GNSS positioning
+[NO] 518/804 | LassoNet-GNN: A Catalyst for Few-Shot Distorted SAR Image Classification
+[NO] 519/804 | Evaluating Large Language Models as Substitutes for Human Affective Ratings in Naturalistic Paradigms
+[NO] 520/804 | ERMoV: Modeling Affective Mental States via Emotion Regulation for Dialogue Emotion Recognition
+[NO] 521/804 | High-Speed GaN Position Sensitive Detector for Visible-Blind Ultraviolet Detection
+[NO] 522/804 | An Adaptive Fusion Network for Breast Tumor Grading Based on Graph Structure Learning
+[NO] 523/804 | Global Fast Control for Finite-Time Consensus in Multi-Linear Motor Systems
+[NO] 524/804 | Multi-Satellite Beam-Hopping Scheduling for Coexisting NGSO Satellite Networks Based on Electromagnetic Map-Driven Interference Avoidance
+[NO] 525/804 | Recollecting with Collectives towards Coexistence: A Theoretical Framework for Participatory Design in Times of Climate Crises
+[NO] 526/804 | Weaving Peace in a World of Conflict: Conversations about Participatory Design
+[NO] 527/804 | Using Design Projects to Understand Youths’ Experiences with AI
+[NO] 528/804 | Camera-based Blood Pressure Monitoring Using Pulse Transit Time from Depolarized Skin Layers
+[NO] 529/804 | BatteryGPT: A Generative Pre-Training Method for Battery State-of-Health and Remaining Useful Life Estimations
+[NO] 530/804 | Interfacial Charge Regulation in β-Ga
+                    <sub>2</sub>
+                    O
+                    <sub>3</sub>
+                    /rGO Extended-Gate Field-Effect Transistors for pH and Theophylline Detection
+[NO] 531/804 | Adaptive Subspace Signal Detection and Performance Analysis in Nonzero-Mean Clutter
+[NO] 532/804 | Unrepeated White Rabbit Time Synchronisation Over a 300 km Optical Fibre Link
+[NO] 533/804 | Fusion of Multi-Source Data for Comprehensive Assessment of Phytoplankton Composition
+[NO] 534/804 | On Improved Modeling for LEO Doppler Spread
+[NO] 535/804 | A Comprehensive Review of Fault Identification, Protection, and Localization Strategies in HVDC Transmission Systems
+[NO] 536/804 | Reinforcement learn-based dialogue policy with LLM-assisted decision distillation
+[NO] 537/804 | Cert-ADD: Certified Adaptive Directional Defense Against Backdoor Attacks in Smart Homes Vision_supp1-3696003.pdf
+[NO] 538/804 | Jointly optimizing global generalization and local personalization via prompt fusion for Heterogeneous Consumer Electronics
+[NO] 539/804 | Synchronous High-Bandwidth Composite Control of Fast–Slow Coordinated Tool Servos for Diamond Turning of Functional Optical Surfaces
+[NO] 540/804 | Enhancing Brain Signal Generation Through A Hybrid Approach Integrating Reinforcement Learning And Diffusion Models
+[NO] 541/804 | A Stiffness-Adaptive Visuo-Tactile Robotic Palpation System for Surface Texture Profiling and Deep Lesion Localization
+[NO] 542/804 | AI’s 10 to Watch
+[NO] 543/804 | Kinematically-Constrained Marching for Optimal Reeds-Shepp Nonholonomic Path Planning on 2D Cartesian Grids_supp1-3695992.mp4
+[NO] 544/804 | Iterative Moveout Correction for Seismic Gather Based on a Random Stacking Model Trace
+[NO] 545/804 | STH-CL: Spatial and Temporal Hypergraph Contrastive Learning for Radar Signal Sorting
+[NO] 546/804 | Mixed Fault Diagnosis of Photovoltaic Array Based on Random Forest-Self-Training Bayesian Optimization Support Vector Machine
+[NO] 547/804 | Key Factors by which Active Distribution Networks Influence Transmission System Transient Stability
+[NO] 548/804 | Optimization of Coal Mill Output Combination for Multi-Load Operation of the Coal-Fired Unit
+[NO] 549/804 | Impedance Modelling and Stability Analysis of Grid-Connected Inverters with Power Loop and Feedforward Control
+[NO] 550/804 | Reliability Evaluation for the 110 kV Station-Level Protection System Based on Markov Model Considering Self-Checking Mechanisms
+[NO] 551/804 | From Control to Co-Evolution: Rethinking Participation in Bio-Inclusive Design
+[NO] 552/804 | Infrastructuring Participatory Scaffolds with People with Profound Intellectual Disabilities in Community Gallery
+[YES] 553/804 | IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection
+[NO] 554/804 | A Data-Driven Safety Risk Identification Method for Grid-Connected Energy Storage Systems
+[NO] 555/804 | Energy Consumption Analysis and Energy Saving Optimization of Air Conditioning System in Constant Temperature Laboratory of Scientific Research
+[NO] 556/804 | An Improved Transient Voltage Stability Assessment Method for the Renewable Energy Plants
+[NO] 557/804 | Memristor PID Algorithm Based on PSO-Optimized BP Neural Network
+[NO] 558/804 | Preface
+[NO] 559/804 | Research on Lithium-Ion Battery Health Estimation Methods Based on SMA-GPR
+[NO] 560/804 | Electricity-Carbon Joint Pricing Guided Coordinated Low-Carbon Operation Strategy for Coupled Vehicle-Road-Grid Systems
+[NO] 561/804 | Design of a Fast Battery Balancer Based on Resonant Switching Capacitors
+[NO] 562/804 | YOLO-IRPower: An Efficient Infrared-Based Power Equipment Detection Algorithm
+[NO] 563/804 | An Informer-Based Decision-Oriented Wind Power Forecasting Method with Two-Stage Training for Electricity Spot Markets
+[NO] 564/804 | Research on Investment Optimization of Rural Distribution Network Under the Background of Electric Vehicles Going to the Countryside
+[NO] 565/804 | StarPicker: A Technique for Selecting Dense Small Targets in AR-based Data Visualization Environments
+[NO] 566/804 | MMA++: Effective Multi-Modal Adaptation for Vision-Language Models
+[NO] 567/804 | Robotic Steerable Sheath for Left Atrial Appendage Occlusion
+[NO] 568/804 | Scalable and Robust Resource Provisioning via Adaptive Task Scheduling for Edge Devices
+[NO] 569/804 | CAF-Net: A Cross-modal Adaptive Fusion Network for GNSS-R Soil Salinity Retrieval
+[NO] 570/804 | Modeling and Analysis of Operating Limits of the Differential Boost Inverter
+[NO] 571/804 | An Improved Sparse-Aware Efficient Bayesian Convolutional Neural Networks via Optimized Weight Sampling and Pruning
+[NO] 572/804 | Hadamard-Transform-Based CAP Modulation
+[NO] 573/804 | Wideband HF Ionospheric Channel Evolution Over Distances: Measurement and Statistical Modeling
+[NO] 574/804 | An Untrimmed Cryogenic Voltage Reference Based on Saturation-to-Linear Transition Achieving 60.3 ppm/K TC and 0.56% Inaccuracy
+[NO] 575/804 | Single Hole Spin Qubit Optimization in SOI Quantum Dots Via $\bm {k}\cdot \bm {p}$ Simulations and Perturbative Analysis
+[NO] 576/804 | Frames of Participation: Design as Enquiry in Exploring Technological Futures of Emergency Care
+[NO] 577/804 | Flexible Electrically Small Yagi-Uda Antenna with Enhanced Bandwidth
+[NO] 578/804 | Multi-Tier UAV Edge Computing Towards Long-Term Energy Stability for Low Altitude Networks
+[NO] 579/804 | Cascade Skip-Connection BiLSTM Autoencoder for CPR Artifact Removal Prior to AED Shock Advisory
+[NO] 580/804 | TS-WAEM: A Two-Stage Waveform-Aware Adaptive Ensemble Method for Magnetic Core Loss Prediction
+[NO] 581/804 | DRL-based Trajectory Planning for UAV-Assisted Communication Systems
+[NO] 582/804 | Data-Driven Machine Learning Analysis of Pulse Compression in Praseodymium-Doped Tapered Photonic Crystal Fiber
+[NO] 583/804 | Shoveling-Induced Slip Prediction for Distributed Electric Wheel Loaders: A Feature-Enhance CNN-BiLSTM Approach
+[NO] 584/804 | The Impact of Different Ionospheric Mapping Functions on Modeling Global Ionospheric Vertical Total Electron Content
+[NO] 585/804 | Hyperbolic Geometry-Guided Unsupervised Domain Adaptive Semantic Segmentation in Remote Sensing
+[NO] 586/804 | FT-ESO Based Fixed-Time Secondary Control for DC Microgrids with Unknown External Disturbances
+[NO] 587/804 | Real-Time 2-D-to-1-D Decomposition of Roesser Models via Sylvester Equation Transformation With Interval-Constrained Balanced Model Reduction
+[NO] 588/804 | Electrical Degradation and Trapped Charge Evolution in SiC MOSFETs Under Power-Cycling Stress
+[NO] 589/804 | A Resilient Edge-Cloud Orchestration Framework for Sustaining Tactical Intelligence Continuity in LLM-Enabled V2X Systems
+[NO] 590/804 | Optimal Synthesis of Reconfigurable Sparse Arrays with Dynamic Range Ratio Constraints
+[NO] 591/804 | CIG-MAE: Cross-Modal Information-Guided Masked Autoencoder for Self-Supervised WiFi Sensing
+[NO] 592/804 | High Sample Utilization Reinforcement Learning Algorithm Based on MMD Distance Symmetric Causal Inference
+[NO] 593/804 | Research on Identification Method of Critical Nodes for Power Grid Support Capability
+[NO] 594/804 | Digesting Östersjön Data
+[NO] 595/804 | Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds
+[NO] 596/804 | DWDMixer: Detail-Aware Wavelet Decomposition and Mixing for Time Series Forecasting in IoT Systems
+[NO] 597/804 | Graph Continual Learning Based Lithium-Ion Battery State of Health Prediction With Longer-Range Patterns Discovering
+[NO] 598/804 | Context-Aware Itinerary Planning in Smart Tourism: IoT Enabled Design and Tourist Profiling
+[NO] 599/804 | Learning Approach to Optimal Grasping Planning Using Vision-Based Tactile Perception
+[NO] 600/804 | Symbolic-in-the-Loop: Leveraging Knowledge Graph Engineering to Ensure High-Assurance Generative Artificial Intelligence Outcomes
+[NO] 601/804 | Special Issue on Quantum Networks: Part II
+[YES] 602/804 | Frequency-Oriented HLS Accelerator Exploration via Congestion-Aware Mapping on Multi-Die FPGA
+[NO] 603/804 | Editorial
+[NO] 604/804 | Robust Domain Modeling of Electric Vehicles and its Optimal Operation Strategy for Energy-Frequency Regulation
+[NO] 605/804 | CEEMDAN and Wavelet Thresholding for HVDC Power Quality Denoising
+[NO] 606/804 | Neuromuscular Control of CT and LCA Muscles in Human Vocal Pitch and Register Regulation: Insights from sEMG Analysis_supp1-3695957.pdf
+[NO] 607/804 | Communication-Efficient Federated Learning via Fractional-Order Gradient Descent With Adaptive Momentum Under Non-IID Data
+[NO] 608/804 | Post-Silicon Deception: Evasive Hardware Trojan Through Adversarial Power Trace
+[NO] 609/804 | A Multi-Phase Multi-Path Hybrid SC Buck Converter with Enhanced DCR-Loss Reduction and Alleviated
+                    <i>I</i>
+                    <sub>CF</sub>
+                    Gathering for 9-48 V-Input PoL Conversions
+[NO] 610/804 | A Novel n⁺/i-well Dot Ge₁₋ₓSnₓ-on-Si Single-Photon Avalanche Photodiode for High-Fill-Factor Room-Temperature Quantum Applications
+[NO] 611/804 | Encountering, Engaging with and Nurturing Relations in PD Processes - An Explorative Approach to Relational Work and Reflexivity
+[NO] 612/804 | Participation and the Troubles with Intelligence
+[NO] 613/804 | Decentralized, Distributed, and Resilient Pathfinding for Dynamic, GPS-Denied Environments Using Visual Common Landmarks
+[NO] 614/804 | Learning Policy-Dependent Traversability for Terrain-Aware Quadruped Navigation
+[NO] 615/804 | A Low-Cost MEMS-Based Vertical Inertial Navigation and Condition Monitoring System for Mineshafts
+[NO] 616/804 | Textless, Tiny, and Private: Hashed n-Grams With LLM-Teacher Distillation and Local Differential Privacy for Mental-Health Screening on Social Media
+[NO] 617/804 | End-to-End Architecture for LLM-Based Business Process Automation: A Low-Code Integration Framework with Performance Benchmarking
+[NO] 618/804 | Overcoming RF Hurdles in 5G/6G Satellite-Terrestrial Integration
+[NO] 619/804 | Knowledge-Guided Deep Reinforcement Learning for Timely State Estimation in Wireless Embodied Networks
+[NO] 620/804 | A Flexible Electrochemical Sensor with Sensitive and Selective Performance for Real-Sample Cholesterol Detection Enabled by PANI/Cu&amp;#x2082;O Nanohybrids_supp1-3694112.docx
+[NO] 621/804 | RC-DOA: DOA Estimation Based on Residual-ConvNeXt
+[NO] 622/804 | Design and Analysis of Phase Conjugation-Based Self-Alignment Beamforming for RIS-Assisted Terahertz SWIPT
+[NO] 623/804 | Distributed Online Convex Optimization with Nonseparable Costs and Constraints
+[NO] 624/804 | Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications
+[NO] 625/804 | Maximize Quantum Network Throughput via EPS Placement and Lightweight Entanglement Routing
+[NO] 626/804 | FGAIM: Identifying Drug-Target Activation and Inhibition Mechanisms via Inductive Graph Neural Networks Based on Fine-Grained Interaction Strategies_supp1-3695928.pdf
+[NO] 627/804 | Improved Nondestructive Ultrasound Molecular Imaging with Lightweight Convolutional Neural Network_supp1-3687142.mp4
+[NO] 628/804 | Aging Characteristics of XLPE Insulation Materials for 500 kV HVDC Cables
+[NO] 629/804 | Research on Anomaly Detection Scheme for Terminal Behaviors in the Power Internet of Things
+[NO] 630/804 | Constant Voltage Output Control Technique for LCCS Topology Wireless Power Transfer Systems Based on Generalized Predictive Control
+[NO] 631/804 | Rebuilding Place, Reframing Identity: Participatory Visual and Environmental Tools for Intercultural and Marginalised Communities
+[NO] 632/804 | Reinforcement Learning-Based Adversarial Scatterer Generation for Attacking SAR Image Target Detectors
+[NO] 633/804 | A Heterogeneous Crowd Agents Collaborative Scheduling Method for Complex Spatiotemporal Environments
+[NO] 634/804 | Discriminative Knowledge Fuzzy Transfer Learning Guided by Resting-state EEG for Cross-subject Emotion Recognition
+[NO] 635/804 | TACOS: A Topology-Aware Cooperative Multiagent Framework for Power-Computing Coscheduling in Data Center Microgrids
+[NO] 636/804 | Stacked Intelligent Metasurface–Assisted Fluid Antenna Systems: Outage Probability
+[NO] 637/804 | Hybrid multiplexing demodulation system based on AWG theory for high-capacity FBG sensing network
+[NO] 638/804 | Signal-Injection-Free Online Identification of Temperature-Dependent Electrical Parameters for SPMSM Drives: An Alternating Dual-Adaline Approach
+[NO] 639/804 | Principled, Model-Free State Estimation: From Constrained Smoothness to Hierarchical Energy
+[NO] 640/804 | Urban Power Grid Load Forecasting and Analysis Based on BO-AM-CNN-KAN and SHAP
+[NO] 641/804 | Table of Contents
+[NO] 642/804 | RF-Sputtered CoFeB Films with Switch-Like Magnetic Response for Wireless Power Transmission in Implantable Devices
+[NO] 643/804 | UAV-Aided Mmwave Massive MIMO Broadcasting With Rotatable Antenna Array
+[NO] 644/804 | Multimodal Mixture-of-Experts for ISAC in Low-Altitude Wireless Networks
+[NO] 645/804 | FS-CrossMamba: Dual-Branch Frequency-Guided Spatial and Spectral-Attention Driven Spectral Cross-Mamba Network for Hyperspectral Image Classification
+[NO] 646/804 | IEEE Quantum Week
+[NO] 647/804 | ISAR Technique for Inland Waterway Surveillance Using Spaceborne Single-Channel SAR Data
+[NO] 648/804 | An Improved Lightweight YOLOv8 Model for Frozen Dumplings to Surface Defect Detection
+[NO] 649/804 | Reflection–Transmission Guided Distorted Born Iterative Method for 1-D Plasma Inverse Profiling
+[NO] 650/804 | Participatory Design for Intergenerational Dialogue: How the Voice® Model Can Foster a Longevity Society in the Italian Context
+[NO] 651/804 | Comparison of Text-Based Inputs for Human-in-the-Loop Feedback in Vision–Language Models
+[NO] 652/804 | Research on Backup Shutdown Design for Modular Multi-Purpose Small Modular Reactor Against Cyberattacks
+[NO] 653/804 | Research on Joint Clearing of Energy and Regulation Markets with Renewable Energy Participation
+[NO] 654/804 | An Approach Towards AC Power Loss Reduction in Additively Manufactured Winding for Electrical Machine
+[NO] 655/804 | Learning From Crowds With Multiple Feature Dynamic Fusion-Based Annotation Generation
+[NO] 656/804 | A Sliced Learning Framework for Online Disturbance Identification in Quadrotor SO(3) Attitude Control
+[NO] 657/804 | Grants for Emerging Technology Activities
+[NO] 658/804 | A Bayesian Game-Theoretic Framework for False Data Injection in Cyber-Physical Systems
+[NO] 659/804 | Correction to “Enhanced UPQC Control Scheme for Power Quality Improvement in Wave Energy Driven PMSG System”
+[NO] 660/804 | A Data-Driven Decision Architecture for Sustainable University Operations: Linking Regression-Based PCE Analytics to SDG-Oriented Improvement Regimes
+[NO] 661/804 | Joint Communication and Computation Scheduling for MEC-enabled AIGC Services: A Game-Theoretic Stochastic Learning Approach
+[NO] 662/804 | MARLTC: A Multi-Agent Reinforcement Learning-based Interference-Aware Transmission Control for LoRaWAN IoT Devices
+[NO] 663/804 | Lightweight Mutual Authentication and Session Key Agreement for UAV Roaming in Multi-Fog Tactical Networks
+[NO] 664/804 | Totoro$^+$: An Adaptive and Scalable Edge Federated Learning System
+[NO] 665/804 | AlN and LGS Surface Acoustic Wave Resonators for Passive Wireless High-Temperature Sensing
+[NO] 666/804 | Dual-Beam Continuous-Scanning SSPP Leaky-Wave Antenna with Synergistic Phase-Reversal Modulation and Broadside Radiation Stabilization
+[NO] 667/804 | TVRN: Invertible Neural Networks for Compression-Aware Temporal Video Rescaling
+[NO] 668/804 | Analysis of Electrical Characteristics of Ice-Shedding Jumping in Transmission Lines
+[NO] 669/804 | Analysis and Handling of an Inter-Turn Short Circuit Fault in a Converter Transformer Winding
+[NO] 670/804 | Dynamic Fault Probability Modeling and Risk Assessment of Source Network Equipment Under Extreme Cold Wave
+[NO] 671/804 | Designing Community Trust through Collective Intergenerational Memory Sharing
+[NO] 672/804 | Research on the Energy-Saving Effect of Active Grille Shutters
+[NO] 673/804 | A Joint Trading and Settlement Framework for Wind-Solar-Thermal-Storage Resources in the Unified National Electricity Market
+[NO] 674/804 | A Hybrid QPSO-LSTM-CEEMDAN-Attention Model for Wind Power Forecasting
+[NO] 675/804 | Deformable 3D Point Cloud Perturbations using Cage-based Deformation for Semantic Consistency
+[NO] 676/804 | A 23-nW, −62-dBm Sensitivity, 920-MHz Temperature-Robust Wake-Up Receiver With Automatic Offset Calibration Technique
+[NO] 677/804 | Orchestrating Generative AI Paradigms with Human-In-The-Loop for 3D Generation_supp1-3695993.pdf
+[NO] 678/804 | Dynamic Hypergraph-Guided Mamba for TLS Point Cloud Foliage Separation
+[NO] 679/804 | Reconfigurable Mode-Division-Multiplexing Coherent Receiver for 2-D Spatial Modes Based on A Photodetector Array
+[NO] 680/804 | Ultrafast and Sensitive NiO/Ga
+                    <sub>2</sub>
+                    O
+                    <sub>3</sub>
+                    Lateral Superjunction Photodetectors for Solar-Blind Ultraviolet Detection
+[NO] 681/804 | Table of Contents
+[NO] 682/804 | Robust Model-Free Predictive Current Control of PMSM Using Improved SMO and Adaptive Gain Identification
+[NO] 683/804 | End-to-End Explainable Sequential Recommendation Based on Multi-Strategy Training and Adaptive Loss Balancing
+[NO] 684/804 | Enhancing Cross-User Generalization in Human Activity Recognition with Adaptive Noise Scheduling and Linear Attention
+[NO] 685/804 | Fully Distance-Guided Refinement Graph Convolutional Networks for Skeleton-Based Human Action Recognition
+[NO] 686/804 | Alternating Subspace Method for Sparse Recovery of Signals_supp1-3695936.pdf
+[NO] 687/804 | Dielectric Breakdown Behavior in Vapor Phase Dielectric Fluids: Understanding Voltage Isolation in Direct Immersion Power Electronics
+[NO] 688/804 | Imagination, Reflexivity and Agency in Institutional Change and Public Policy
+[NO] 689/804 | Multi-scale Guided Cross-stage Refinement SAM2 for Seamless Steel Pipe Internal Surface Defect Detection
+[NO] 690/804 | Deep Rhetoric: A Qarīna-Aware Multi-Task Learning Framework for Hierarchical Analysis of Qur’anic Metaphor
+[NO] 691/804 | GNSS Positioning Aided with Pedestrian Dead Reckoning (PDR) in Urban Areas
+[NO] 692/804 | Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System
+[NO] 693/804 | IDME: Interpretable Drug-Drug Interaction Prediction via Meta-Path Attribute Encoding
+[NO] 694/804 | Decentralized Intelligence for Energy Efficient 6G TN–NTN: A Cooperative Multi-Agent DRL Framework for Active RIS-Aided UAV-NOMA Communications
+[NO] 695/804 | Federated LoRA Fine-Tuning of LLMs with Only Transmitting Matrix A or B
+[NO] 696/804 | Robust Gaussian Process-Based Sliding Mode Predictive Control for Autonomous Underwater Vehicles: A Short-Horizon Approach
+[NO] 697/804 | Multi-Modal Fusion Bearing Fault Diagnosis Based on CNN-GRU and Multi-Head Self-Attention Mechanism
+[NO] 698/804 | Combined Multi-Parameter Diagnosis for Transformer DC Bias Induced by Metro Stray Current
+[NO] 699/804 | Preventive Control of Voltage Instability in High-Renewable Sending-End Systems Under UHVDC Blocking
+[NO] 700/804 | Dynamic Power Supply Capability Evaluation Method of Micro-Grid Based on Risk Perception
+[NO] 701/804 | Source-Storage Dynamic Collaborative Optimization Method for Comprehensive Voltage Regulation in Low-Voltage Distribution Networks
+[NO] 702/804 | Feedforward Phase-Angle Compensation for Transient Stability Enhancement of VSG
+[NO] 703/804 | Cryptanalysis of the DIZY Stream Cipher with Provable Security
+[NO] 704/804 | Threshold Issuance Selective Disclosure Credentials With Equivalence Class Signature_supp1-3696205.pdf
+[NO] 705/804 | Hyperledger Fabric and Ethereum for Emergency Response Vehicular Networks under DDOS Attacks: A Performance Analysis
+[NO] 706/804 | Remote State Estimation over Unreliable Channels with Unreliable Feedback: Strategies and Limits
+[NO] 707/804 | Decentralized and Lightweight Server-Aided Revocable Attribute-Based Encryption for Mobile Cloud Computing
+[NO] 708/804 | Long-Term Trading Risk Management for Intra-Regional Market Operators with Participant Risk Preferences
+[NO] 709/804 | RVDeformer: Sparse Point Cloud-Guided Right Ventricle 3D Reconstruction in Echocardiograms
+[NO] 710/804 | Efficient Microservice Autoscaling through $\mu$Opt
+[NO] 711/804 | Design of the next generation of global carbon monitoring experimental satellite (TanSat-2) for global stocktake
+[NO] 712/804 | Rapid Hotspot Temperature Prediction of Magnetic Couplers in WPT Systems via a Simulation-Based Data-Driven Model
+[NO] 713/804 | Research on New Power System Grid-Connected Energy Storage Control Strategy Based on Adaptive Adjustment
+[NO] 714/804 | Dreaming with MAKOTO: Co-Designing an "Older Adult" Voice Assistant Intervention for Implicit Ageism
+[NO] 715/804 | Knowledge Infrastructuring in the Large-Scale: Sparring Partners and Reflective Spaces in Participatory Design
+[YES] 716/804 | LEO: An Information-theoretic Learning-based Approach for Identifying Out-of-distribution Source Code in Software Systems
+[NO] 717/804 | Frequency-Aware Decision Transformer for Offline Policy Learning in Adaptive Twin Control
+[NO] 718/804 | CIPHERBD: A Backdoor Defense Towards Privacy Preserving Neural Network Training
+[NO] 719/804 | An Unscented Information-Form Finite-Memory Approach for Simultaneous Localization and Calibration with Application to Unmanned Aerial Vehicles
+[NO] 720/804 | CDRL-Det: Causal-Debiased Representation Learning for Robust Rotated SAR Ship Detection
+[NO] 721/804 | Arc Tracking Resistance Tests on Polymeric Insulating Materials Using High Frequency High Voltages – An Approach
+[NO] 722/804 | Fairness-Oriented Transmission Design in PASS-Assisted Backscatter Communication Networks
+[NO] 723/804 | Climate Risk-averse Power System Planning Under Renewable Drought Events
+[NO] 724/804 | Online Stator Resistance Estimation of Low-Power PMSMs Using Data Driven Methods
+[NO] 725/804 | A Dual-Branch Network-Based Method for Unified Diagnosis of IGBT Open-Circuit and Current Sensor Faults in Three-Phase Inverters
+[NO] 726/804 | Automated Design of Countermeasures for ICS Based on Security Standards
+[NO] 727/804 | Dual-Stream of CNN and Transformer feature-based Cross-Attention Model for Multiclass Ocular Surface Squamous Neoplasia (OSSN) Classification
+[NO] 728/804 | A Study on the Reliability Design of Medical Device Software for Hybrid Architectures
+[NO] 729/804 | Multi-view Data Exploration Recipes for Making Sense of Multi-source Industrial Data
+[NO] 730/804 | Impact of Optimal Electric Vehicle Charging Station Placement on Distribution Network Performance: A Comparative Study
+[NO] 731/804 | Indoor and outdoor integrated localization scheme for mobile robot using multi-sensor fusion and graph optimization
+[NO] 732/804 | Indoor Smartphone Positioning Method via a Single Wall Reflection Using a Parametric Speaker
+[NO] 733/804 | Electromechanical Performance of a Soldered Stack of ReBCO Tapes at 77 K
+[NO] 734/804 | Cooperative Optimization Method for Thermal Reserve Capacity Considering Non-Curtailment of Wind and Solar Power
+[NO] 735/804 | State of Health Estimation Based on Multi-Segment Charging Data Fusion
+[NO] 736/804 | Quantitative Assessment of the Flexibility of Load Regulation in Typical Energy-Intensive Industrial Loads Considering Complex Process Constraints
+[NO] 737/804 | Copyright Page
+[NO] 738/804 | Multi-Source Data-Driven Multi-Objective Collaborative Decision-Making Method for Comprehensive Perception of Distribution Networks
+[NO] 739/804 | Design and Implementation of an Intelligent Management and Control System for Substation Monitoring Information Point Tables
+[NO] 740/804 | Research and Application of Digital Twin System for Offshore Terminals of Large-Capacity Floating Wind Power
+[NO] 741/804 | A Multi-lithic Finemet Toroidal Inductor with Soft Iron Powder Insertion for High-Frequency Converters
+[NO] 742/804 | FGO-ABRC: A Factor Graph Optimization Framework for AUV Bathymetric Residuals Calibration Integrating Multi-Source Observations
+[NO] 743/804 | Geometry-Dependent Radiation of Pinching Antennas: Theory, Simulation, and Measurement
+[NO] 744/804 | A Provably Secure Multifactor Authentication and Key Exchange Protocol with Anonymity for Next-Generation IoT
+[NO] 745/804 | What counts - Thinkering with Visual Mapping Toward Relational More than Human Temporality in Participatory Design
+[NO] 746/804 | Hizca, a Critical Video Game and Indigenous Co-creation.
+[NO] 747/804 | Semantic-Driven and NLP-Powered Generation of the Heluo Cultural Landscape for Digital Heritage
+[NO] 748/804 | Drones in the Archipelago: Tensions in Technological Progress for Medical Transportation
+[NO] 749/804 | Generalizable Stochastic Optimizations for UAV-Assisted ISAC Systems: A Hybrid Decision Causal Convformer Framework
+[NO] 750/804 | An Isolated Integrated Battery Charger With Double Active Filter for Electric Vehicle Based on Open-Winding Permanent Magnet Synchronous Motor
+[NO] 751/804 | Seamless Beam Handover for Direct-to-Satellite IoT in Ultra-Dense Multi-Beam LEO Networks
+[NO] 752/804 | Multi-Objective Parameter Optimization of Artificial-Cavern Compressed Air Energy Storage Systems via Two-Person Zero-Sum Game
+[NO] 753/804 | Coordinated Optimization of the Hydropower and the Wind Power Based on the Second-Order Eigen-Sensitivity to Suppress the LFO
+[NO] 754/804 | Research on Short-Term Power Load Forecasting Method Based on Multi-Dimensional Fusion Model
+[NO] 755/804 | Design and Application of Wind-Photovoltaic-Storage Hybrid Operation System for Clean Energy Bases
+[NO] 756/804 | A Post-Quantum Decentralized Threshold Authenticated Key Agreement Scheme for Securing Vehicular Ad-Hoc Networks
+[NO] 757/804 | Fuzzy Game-theoretic Tube Model Predictive Control for Integrated Vehicle Stability System
+[NO] 758/804 | Geometric Correlation-Guided Motion Improvement for Geometric Partitioning Mode in VVC
+[NO] 759/804 | Sub-Nyquist Wideband Spectrum Sensing and DOA Estimation with Sparse Co-Arrays
+[NO] 760/804 | Effective and Efficient Temporal Graph Neural Networks via Polynomial Spectral Sparsification
+[NO] 761/804 | TTT-Dance: A Diffusion Framework Leveraging Test-Time Training and LayerScale for Adaptive Music-Driven Dance Generation_supp1-3695826.pdf
+[NO] 762/804 | A Multiple Half-Pitch-Shift Compensation Method for Robust Fiber Weave Effect Mitigation
+[NO] 763/804 | Transverse Magnetic Coupling Coefficients in Three-Layer Waveguides: Possibilities of Disappearing Gratings
+[NO] 764/804 | A MARL-Based Beam Hopping Framework for Dynamic Overflying LEO Satellite Networks
+[NO] 765/804 | PD-GAN: A Physics-Guided Dual-Domain Network for Fabric Texture Restoration Under Optoelectronic Saturation
+[NO] 766/804 | Fully Automatic Landing Site Selection by a UAV in an Unknown Environment
+[NO] 767/804 | Evaluating Large Language Models for Generating YouTube Programming Tutorial Metadata from Video Transcripts
+[NO] 768/804 | DDialogue: A Collaborative Framework for Cross-Sectoral Dialogue through Data
+[NO] 769/804 | A PINN-Based Modeling and State Estimation Method for Doubly-Fed Wind Turbines
+[NO] 770/804 | Adaptive Voltage Control Strategy for Distributed Energy Storage Based on SOC and Voltage Deviation
+[NO] 771/804 | Flexible Power Sharing in Multi-Three-Phase PMSM via Virtual Current Regulation With Vector Space Decomposition
+[NO] 772/804 | Improving the Reliability of Port Equipment Maintenance Decision Support Via Context-Aware Knowledge Graph Retrieval-Augmented Generation
+[NO] 773/804 | A Thyristor-Switched Pulsed Power System With 78-ns Jitter for a Coaxial Plasma Gun_supp1-3692821.pdf
+[NO] 774/804 | Cross-Modality Self-Distillation for Visible-Infrared Person Re-identification
+[NO] 775/804 | Development and Characterization of KID-Based SPIAKID Instrument
+[NO] 776/804 | Robust RIS Selection for mmWave Communication Systems with Predictive Beamforming Tracking
+[NO] 777/804 | Rotatable Antenna-Enhanced Cell-Free Communication
+[NO] 778/804 | Blank Page
+[NO] 779/804 | Burhan: A Constraint-Based Engineering Framework for Computational Rhetorical Semantics in Classical Arabic
+[NO] 780/804 | An Advanced Persistent Threat Detection Framework Based on Graph Attention Networks with Spectral Feature Refinement
+[NO] 781/804 | Equitable and Inclusive PD for Public Services: Using Shared Reflexivity to Unpack Enablers and Limitations
+[NO] 782/804 | Robust Scheduling Method for a Multi-Energy Microgrid with Hydrogen–Ammonia Coupling
+[NO] 783/804 | Cover Page
+[NO] 784/804 | Study on the Hydrogen Embrittlement Mechanism of Key Metal Materials in Hydrogen Transmission Pipelines
+[NO] 785/804 | Proactive Resilience-Enhancement Strategy for Power Grids Under Icing Operation Scenarios Based on Tracking Pre-Dispatching Trajectory of Flexible Resources
+[NO] 786/804 | Stability Analysis and Computational Modeling of New Energy Integration for Smart Grids
+[NO] 787/804 | Active Power Support and Coordination Control Strategy for Grid-Forming STATCOM Based on Model Predictive Control
+[NO] 788/804 | A Survey on Wearable Inertial Sensing for Indoor Positioning
+[NO] 789/804 | Blockchain-Based Secure and Efficient Federated Learning Scheme for IoMT Consumer Electronics Devices
+[NO] 790/804 | MFDR++: Robust and Efficient Multivariate Time Series Forecasting with Deep Reconstruction
+[NO] 791/804 | Lightweight Multi-Channel Generative Adversarial Network for Synthesizing Brain Perfusion CT Series from Healthy Subjects: Toward Radiation Dose Reduction in Clinical Imaging
+[NO] 792/804 | Quantum-Classical Dual LSTM Optimization for Internet of Intelligent Vehicles
+[NO] 793/804 | A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot
+[NO] 794/804 | A Bitmap-Guided Collision Tree Anti-collision Protocol for Large-Scale RFID Tags Identification
+[NO] 795/804 | Near-Data Compaction for LSM Tree on Rack-scale Disaggregated Storage
+[NO] 796/804 | A Self-Supervised Deep Stochastic Configuration Network with Contrastive Learning and Probabilistic Explanation for Complex Industrial Fault Detection
+[NO] 797/804 | High-Velocity Target Detection and Estimation via Block-Sparse Recovery
+[NO] 798/804 | Tuning Glass-Transition Dynamics and Ion Transport by Fluorination in DBU-Based Protic Ionic Liquids
+[NO] 799/804 | CVGD: Cross-View Guided Disentangler for Multi-View Radar Semantic Segmentation
+[YES] 800/804 | SSTA-X: GPU-Accelerated First-Order Block-Based Statistical Static Timing Analysis
+[NO] 801/804 | Enhancing sea surface current retrieval from Geostationary Ocean Color Imager Observations: Multispectral Optimization and Validation with HF Radar
+[NO] 802/804 | Hierarchical Aggregation of Wind Farm Frequency Support Capability Based on Hybrid Control Strategy
+[NO] 803/804 | IEEE Power &amp; Energy Society Information
+[NO] 804/804 | 3D Single-Tooth Reconstruction via Curriculum Learning and Topology-aware Generation
+筛选完成：共 804 篇；Yes = 16 篇；已保存到 papers/select_paper2026-05-24.json。
+邮件发送成功！
+[2026-05-25 23:59:39] 任务执行成功！
