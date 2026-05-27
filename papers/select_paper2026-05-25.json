@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2026-5-26",
+    "title": "ASIC Design for GenAI Inference",
+    "authors": "N/A",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527877",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "面向生成式AI推理的ASIC设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Prompt Engineering for Competitive Programming: Improving o4-mini's Accuracy on Codeforces Tasks",
+    "authors": "Sunmay Padiyar, Aaroosh Kurchania, Daivya Singh, Mihai Boicu",
+    "publish": "2025 IEEE MIT Undergraduate Research Technology Conference (URTC)",
+    "url": "https://doi.org/10.1109/urtc68753.2025.11533095",
+    "source": "IEEE",
+    "abstract": "Generative AI tools such as OpenAI's o4-mini are increasingly used to solve programming tasks, yet their effectiveness in competitive programming remains underexplored. This study evaluates four prompting techniques—No Prompt, Zero-Shot Chain-of-Thought, Prompt Chaining, and Structured Chain of Thought—on 90 randomly selected Codeforces problems rated 1600–2400. These problems were released after May 31st, 2024, the knowledge cutoff date for o4-mini. Code was submitted to the official Codeforces grader, and accuracy was measured based on the number of problems accepted. Structured Chain-of-Thought achieved the highest accuracy (56.67%, p = 0.0139), showing a statistically significant improvement over No Prompt (44.44%). Prompt Chaining followed closely (55.56%, p = 0.0249) and showed strong potential, though its improvement fell just short of statistical significance over No Prompt. Zero-Shot Chain-of-Thought (42.22%) did not improve from the baseline. These results demonstrate that carefully structured prompts can substantially improve LLM performance on advanced, reasoning-intensive programming tasks.",
+    "title_zh": "针对竞赛编程的提示工程：提升o4-mini在Codeforces任务上的准确性",
+    "abstract_zh": "像OpenAI的o4-mini这样的生成式AI工具正越来越多地被用于解决编程任务，但它们在竞争性编程中的有效性仍未得到充分探索。本研究评估了四种提示策略——无提示、零样本思维链、提示链和结构化思维链——在90道随机选取的Codeforces题目（难度评级1600–2400）上的表现。这些题目发布于2024年5月31日之后，即o4-mini的知识截止日期之后。代码被提交至官方Codeforces评分器，准确性基于被接受的题目数量进行衡量。结构化思维链取得了最高的准确性（56.67%，p = 0.0139），与无提示（44.44%）相比显示出统计显著性的提升。提示链紧随其后（55.56%，p = 0.0249），表现出很强的潜力，尽管其相对于无提示的提升刚好未达到统计显著性。零样本思维链（42.22%）相比基线没有提升。这些结果表明，精心设计的结构化提示可以显著提高大语言模型在高级、需要推理的编程任务上的表现。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "AI-Assisted RFIC Design —State-of-the-Art and Challenges",
+    "authors": "N/A",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527787",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "AI辅助RFIC设计——最新进展与挑战",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Differentiable Sensitivity-Based Skew Scheduling Framework for Timing Optimization",
+    "authors": "Hsin-Tzu Chang, Wen-Hao Liu, Yi-Chen Lu, Anand Rajaram, Iris Hui-Ru Jiang, Haoxing Ren",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527512",
+    "source": "IEEE",
+    "abstract": "As chip design complexity continues to grow, timing closure becomes increasingly challenging. Resolving timing violations is essential for reliable system performance but often demands considerable design effort. Useful-skew optimization is commonly adopted to address these challenges by adjusting clock latencies. However, conventional methods, typically applied after clock tree synthesis (CTS), restrict the solution space, leading to suboptimal timing outcomes. To overcome these limitations, we incorporate differentiable sensitivity analysis into the optimization flow, enabling precise and effective timing adjustments. Our proposed framework uses gradient descent driven by timing sensitivity to refine clock latencies, achieving a 22.2% reduction in worst negative slack (WNS) and a 43.1% reduction in total negative slack (TNS) compared to a commercial baseline. These results confirm that our method delivers significant timing improvements in large-scale integrated circuit designs with minimal runtime overhead.",
+    "title_zh": "可微分基于灵敏度的偏移调度框架，用于时序优化",
+    "abstract_zh": "随着芯片设计复杂度的持续增长，时序收敛变得愈发具有挑战性。解决时序违规对于确保系统性能的可靠性至关重要，但往往需要投入大量的设计工作。通过调整时钟延迟，有用偏差优化被广泛采用以应对这些挑战。然而，传统方法通常在时钟树综合（CTS）之后应用，限制了解决方案空间，导致时序结果次优。为克服这些局限，我们将可微灵敏度分析引入优化流程，实现精确且有效的时序调整。我们提出的框架利用时序灵敏度驱动的梯度下降来优化时钟延迟，与商业基线相比，最差负时序裕量（WNS）降低22.2%，总负时序裕量（TNS）降低43.1%。这些结果证实了我们的方法在大型集成电路设计中能以极小的运行时开销实现显著的时序改进。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Compiler and System Optimizations for Gem5 Simulator",
+    "authors": "Haneul Park, Siddharth Agarwal, Pradyun Narkadamilli, Kiung Jung, Yongjun Park, Ipoom Jeong, Nam Sung Kim",
+    "publish": "2026 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)",
+    "url": "https://doi.org/10.1109/ispass69572.2026.00024",
+    "source": "IEEE",
+    "abstract": "Architectural simulators are indispensable for modern computer architecture research, but they remain notoriously slow due to their event-driven, cycle-level execution model. In this work, we present a set of software- and system-level optimizations to accelerate large-scale design-space exploration with gem5. First, we reduce per-instance simulation time via compiler-level optimization. We demonstrate that although gem5 suffers severe frontend stalls on modern CPUs stemming from its large instruction footprints, naïve Profile-Guided Optimization (PGO) is impractical in this setting because it requires frequent reprofiling and recompilation. To address this, we challenge the conventional reliance on self-profiling and instead construct a universal, performance-driven profile that generalizes across simulation inputs. Second, we improve aggregate simulation throughput by strengthening performance isolation using Sub-NUMA clustering (SNC). Finally, we show that a simple co-scheduling heuristic has great potential for reducing resource stranding and boosting multi-instance efficiency. Together, these techniques improve single simulation speed by 17 % and aggregate throughput by $27 \\%$, making large-scale design-space exploration more practical and efficient.",
+    "title_zh": "针对Gem5模拟器的编译器与系统优化",
+    "abstract_zh": "架构模拟器在现代计算机体系结构研究中不可或缺，但由于其采用事件驱动、周期级执行模型，速度仍然极其缓慢。在本工作中，我们提出了一系列软件和系统级优化方法，以加速基于gem5的大规模设计空间探索。首先，通过编译器级优化减少单实例模拟时间。我们证明，尽管gem5因庞大的指令占用空间而在现代CPU上出现严重的前端停顿，但简单的基于剖析的优化（PGO）在此场景下并不实用，因为它需要频繁重新剖析和重新编译。为此，我们挑战了传统的自剖析依赖，转而构建一种通用的、性能驱动的剖析文件，该文件可跨模拟输入泛化。其次，通过使用子NUMA集群（SNC）增强性能隔离，提高总体模拟吞吐量。最后，我们展示了一种简单的协同调度启发式方法，在减少资源搁浅和提升多实例效率方面具有巨大潜力。综合这些技术，单次模拟速度提升了17%，总体吞吐量提升了27%，使大规模设计空间探索更加实用和高效。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "Coding Agents in the Wild: Failure Modes and Rejection Patterns of AI-Generated Pull Requests",
+    "authors": "Mahd Hindi, Yasir Mahmood, Linda Mohammed, Salah Bouktif, Mohammed Mediani",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3696573",
+    "source": "IEEE",
+    "abstract": "Autonomous coding agents increasingly submit pull requests (PRs) to real software repositories, making it important to evaluate their behavior under actual review, testing, and governance workflows rather than only through synthetic benchmarks. This paper investigates how agent-generated pull request (APR) rejection evolves over time, which visible failure modes most often explain rejected APRs (RAPRs), and how these findings inform more effective coding-agent deployment and design. We follow a three-phase methodology. First, we construct an APR cohort from the AIDev-POP subset of the AIDev dataset, covering 12,433 APRs from 1,495 popular repositories and five coding agents. Second, we develop a socio-technical taxonomy of rejection reasons and validate a large language model (LLM)-based classifier on a manually labeled ground-truth subset of commented RAPRs, achieving 85.5% accuracy in identifying the main bucket reasons of the rejection. Third, we model temporal rejection patterns and conduct stratified analyses across agents, deployment settings, and reviewer types. Observational results show a significant decline in APR rejection odds over time after accounting for differences in change size, documentation and test updates, and agent type. This decline is not limited to a single agent in particular. Empirical results show that documentation co-changes are associated with lower rejection odds, whereas test-touch and patch size provide weaker differentiation. Most RAPRs are silent, with 84.2% closed without inline reviewer feedback. Among commented RAPRs, functional failures are the dominant visible rejection pattern, especially specification mismatch and logic defects. Overall, APR outcomes reflect interactions among agent behavior, repository guardrails, and developer practices. We translate these findings into evidence-informed design principles and advocate reflexive coding agent as a new design pattern that emphasizes context acquisition, local validation, and closer alignment with repository expectations. Our replication package is available at: https://github.com/mahdhindi/coding-agents-wild.",
+    "title_zh": "现实环境中的代码代理：AI生成拉取请求的失败模式与拒绝模式",
+    "abstract_zh": "自主编码代理越来越多地向真实代码仓库提交拉取请求（PR），这使得在真实的审查、测试和治理工作流中评估其行为变得重要，而不仅是通过合成基准测试。本文研究了代理生成的拉取请求（APR）被拒绝的情况如何随时间演变，哪些可见的失败模式最常解释被拒绝的APR（RAPR），以及这些发现如何为更有效的编码代理部署和设计提供信息。我们采用三阶段方法。首先，我们从AIDev数据集的AIDev-POP子集中构建了一个APR队列，涵盖来自1,495个流行仓库和五种编码代理的12,433个APR。其次，我们开发了一个社会技术性的拒绝原因分类法，并在一个手动标注的、带有评论的RAPR真值子集上验证了一个基于大语言模型（LLM）的分类器，在识别拒绝的主要类别原因方面达到了85.5%的准确率。第三，我们对时间上的拒绝模式进行建模，并针对代理、部署设置和评审者类型进行了分层分析。观察结果显示，在考虑了变更规模、文档和测试更新以及代理类型差异后，APR被拒绝的几率随时间显著下降。这种下降并非仅限于特定代理。实证结果表明，文档共变更与较低的拒绝几率相关，而测试变动和补丁大小提供的区分度较弱。大多数RAPR是无声的，84.2%的RAPR在没有内联评审反馈的情况下被关闭。在带评论的RAPR中，功能失败是主要的可见拒绝模式，尤其是规格不匹配和逻辑缺陷。总体而言，APR的结果反映了代理行为、仓库防护措施和开发者实践之间的相互作用。我们将这些发现转化为基于证据的设计原则，并倡导将反身性编码代理作为一种新的设计模式，强调情境获取、局部验证以及与仓库期望更紧密的对齐。我们的可复现包可在以下地址获取：https://github.com/mahdhindi/coding-agents-wild。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Towards More Realistic Natural Language Queries in Text-to-SQL Benchmarks",
+    "authors": "Charlotte Dörschner, Frank Jäkel, Carsten Binnig",
+    "publish": "Proceedings of the Workshop on Human-In-the-Loop Data Analytics",
+    "url": "https://doi.org/10.1145/3814573.3814945",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向文本到SQL基准测试中的更真实自然语言查询",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "Automated Refactoring for Conditional Branching",
+    "authors": "Yang Zhang, Xi Zhang, Chunhao Dong, Chaoshuai Li, Grant Meredith",
+    "publish": "IEEE Transactions on Services Computing",
+    "url": "https://doi.org/10.1109/tsc.2026.3696354",
+    "source": "IEEE",
+    "abstract": "Conditional branching provides a fundamental structure for executing a specific branch based on the value of a boolean expression at run-time. However, repeated or nested conditional branching can lead to increased complexity. Furthermore, fall-through semantics in conditional branching result in uncontrollable jumps. Refactoring conditional branching manually is error-prone, time-consuming, and tedious. There is a critical need to provide automated refactoring support for conditional branching. To this end, this paper presents <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</i>, an automated refactoring approach to eliminate repeated or nested conditional branching. Firstly, <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</i> parses source code into an abstract syntax tree and walks through conditional branching statements. Secondly, it removes redundant fall-through semantics by static program analysis and an automaton. The automaton is constructed from a control flow graph to match patterns of conditional branching. Finally, it converts a conditional branching into a <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">switch</i> expression and removes the fall-through semantics. <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</i> was evaluated on nine real-world projects involving 25,137 conditional branchings. Experimental results show that a total of 1,790 conditional branching constructs are refactored within an average of 18.62 seconds per project. Furthermore, <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</i> reduced the average cyclomatic complexity by 4.41% and removed 1,249 code smells, demonstrating its effectiveness in improving code quality.",
+    "title_zh": "条件分支的自动化重构",
+    "abstract_zh": "条件分支提供了一种基本结构，用于在运行时根据布尔表达式的值执行特定分支。然而，重复或嵌套的条件分支可能导致复杂度增加。此外，条件分支中的“穿透”语义会导致不可控制的跳转。手动重构条件分支容易出错、耗时且繁琐。因此，迫切需要为条件分支提供自动化重构支持。为此，本文提出了<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</italic>，一种自动化重构方法，用于消除重复或嵌套的条件分支。首先，<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</italic>将源代码解析为抽象语法树，并遍历条件分支语句。其次，通过静态程序分析和自动机，它去除了冗余的穿透语义。该自动机基于控制流图构建，用于匹配条件分支的模式。最后，它将条件分支转换为<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">switch</italic>表达式，并移除穿透语义。<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</italic>在九个真实项目（包含25,137个条件分支）上进行了评估。实验结果显示，总共重构了1,790个条件分支结构，每个项目平均耗时18.62秒。此外，<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">ReBrancher</italic>将平均圈复杂度降低了4.41%，并消除了1,249个代码坏味，证明了其在提升代码质量方面的有效性。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Macro Block Optimization Floor Plan and Placement at Advanced 7nm Node Using Synopsys ICC2",
+    "authors": "Nagaraja. V, Praveenkumar Chittipolu, Manjula M, Sp. Lavakishor Reddy, T. Indu, V. Lavanya",
+    "publish": "2026 Fourth International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+    "url": "https://doi.org/10.1109/icaiss68683.2026.11525511",
+    "source": "IEEE",
+    "abstract": "To fulfill the performance requirements of modern integrated circuits, physical design at advanced. Area and Time management is a necessity in. Overcrowding and Energy. The implementation sequence for a. This paper deals with a digital design using Synopsys IC Compiler II (ICC2) on 7 nm CMOS technology. a. The aim of the study is to evaluate how certain tools set up. Limitations in design, optimization methods impact the. The overall quality of results at every level of the place-androute. The first steps in flow are floorplanning and macro placement. the investigation, in which SRAM blocks come into play. The analysis of standards is done through data integration. limiting routing and timing constraints Multiple optimization which is. used in Placement. Placement is executed using various optimization. Techniques for identifying configurations that minimize originals. congestion while keeping time limits. CTS is examined in terms of skew, insertion quiescence, and. Data and power, using both failure and customized algorithms. The routing stage has been fully investigated with some. Focus on diversion gesture, track use, and Traffic. hotspots commonly found in dense 7-nm biases. A sequence of. The way iterative timing check is used, however, is more similar to cell sizing. Buffer addition, subcaste - careful routing. alternatives, and route optimizing. Show how the finding. the tool reacts to colorful sets and responds to them. improves slack, minimizes incremental refinement. routing stabilizes and violations. This document gives. Practical wisdom into the successful functioning of ICC2 for. 7-nanometer Physical Design and Identifies Approaches for gaining balance.",
+    "title_zh": "在先进7纳米节点下使用Synopsys ICC2进行宏模块优化的布局规划与布局",
+    "abstract_zh": "为了满足现代集成电路的性能要求，先进工艺下的物理设计需对面积、时序、拥塞和功耗进行管理。本文探讨了在7纳米CMOS工艺上，使用Synopsys IC Compiler II (ICC2)进行数字设计的实现流程。研究旨在评估特定工具设置、设计限制及优化方法如何影响布局布线各阶段的整体结果质量。流程的初始步骤是布图规划和宏单元布局，其中涉及SRAM模块的处理。通过数据集成进行标准分析，并设置限制性布线和时序约束。在布局阶段，采用多种优化技术来识别能最小化原始拥塞同时满足时序约束的配置。时钟树综合（CTS）环节从偏差、插入延迟、数据与功耗等角度进行评估，同时结合失效分析与定制算法。布线阶段被全面研究，重点关注绕线策略、轨道利用率以及密集7纳米设计中的拥塞热点。通过迭代时序检查（类似单元尺寸优化、缓冲器添加、细致层级布线备选方案及布线优化）的流程，展示了工具如何响应不同设置并改善时序余量、最小化增量优化、稳定布线并消除违例。本文为在7纳米物理设计中成功运用ICC2提供了实践见解，并指出了实现平衡的优化方法。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors",
+    "authors": "Samuel Thomas, James Bornholt",
+    "publish": "Communications of the ACM",
+    "url": "https://doi.org/10.1145/3802600",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "可定制数字信号处理器的向量化编译器的自动生成",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "HLS Driven Obfuscation of DSP Hardware IP Designs using Non-invertible Arbitrary Function and Reconfigurable Intertwined Obfuscation Logic",
+    "authors": "Anirban Sengupta, Nabendu Bhui, Vishal Chourasia, Ayush Kumar Singh",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527771",
+    "source": "IEEE",
+    "abstract": "Digital Signal Processing (DSP) hardware intellectual property (IP) designs are pivotal to the proliferation of consumer electronics (CE) systems such as camera, camcorder, smart watch, smart TVs, IoT etc. Such DSP hardware IPs is typically designed using high level synthesis (HLS) framework. However, with the globalization of integrated circuit/system-on-chip (SoC) design supply chain, emergence of threats such as reverse engineering (RE) has become a matter of grave concern. This paper presents novel HLS-driven functional obfuscation of DSP hardware IP designs using non-invertible arbitrary function and reconfigurable intertwined obfuscation logic. The proposed approach thwarts RE attack by hindering various forms of threats such as key-sensitization attack, removal attack, different versions of SAT attack and ML attack. Results of the proposed approach revealed significantly greater obfuscation strength (causing reduced probability of attacks) than prior approaches.",
+    "title_zh": "采用不可逆任意函数与可重构交织混淆逻辑的HLS驱动DSP硬件IP设计混淆",
+    "abstract_zh": "数字信号处理（DSP）硬件知识产权（IP）设计对于消费电子（CE）系统（如相机、摄像机、智能手表、智能电视、物联网等）的普及至关重要。此类DSP硬件IP通常采用高级综合（HLS）框架进行设计。然而，随着集成电路/片上系统（SoC）设计供应链的全球化，诸如逆向工程（RE）等威胁的出现已成为一个严重问题。本文提出了一种新颖的基于HLS驱动的DSP硬件IP设计功能混淆方法，采用不可逆的任意函数和可重构的交织混淆逻辑。该方法通过阻碍密钥敏感性攻击、移除攻击、不同版本的SAT攻击和机器学习攻击等多种威胁形式，有效抵御逆向工程攻击。实验结果显示，与先前方法相比，该方法具有显著更强的混淆强度（从而降低了攻击的可能性）。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "authors": "Jenna Butler, Brian Houck, Margaret-Anne Storey, Travis Lowdermilk, Steven Clarke, Emerson Murphy-Hill",
+    "publish": "Queue",
+    "url": "https://doi.org/10.1145/3807963",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "软件工程与生成式AI的八大迷思",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Multi-Agent Interaction: Creating Websites with Ease",
+    "authors": "VimalaDevi R, Prathibha A, Lokitha G S, Yashaswini, Srivatsa N, Vishal Kumar Jha",
+    "publish": "2026 4th International Conference on Knowledge Engineering and Communication Systems (ICKECS)",
+    "url": "https://doi.org/10.1109/ickecs70176.2026.11527551",
+    "source": "IEEE",
+    "abstract": "Website development is traditionally a complex and time-consuming process requiring specialized skills across various domains such as design, coding, content management, SEO, and deployment. This paper presents a novel approach to simplify and automate the process through the use of multi agent systems (MAS), where intelligent, autonomous agents collaborate to handle different aspects of website creation. Each agent is specialized—for example, in UI/UX design, backend development, database configuration, or search engine optimization—and works in coordination with others to fulfill user-defined requirements. Leveraging principles of distributed artificial intelligence, these agents communicate, negotiate tasks, and make real-time decisions to generate complete, responsive, and optimized websites with minimal human intervention. The system incorporates natural language interfaces for ease of use, allowing even non-technical users to describe their needs in plain language, which the agents then interpret and act upon. Machine learning techniques may also be embedded to allow agents to learn from past projects, improving their performance and adaptability over time. This collaborative, modular, and fault-tolerant approach significantly reduces development time and errors while increasing scalability and accessibility. A prototype implementation demonstrates the feasibility of this model, showing substantial improvements over traditional methods in terms of speed, quality, and user experience. Overall, this research illustrates how multiagent interaction can revolutionize web development by making it faster, more intelligent, and accessible to a broader range of users, ultimately democratizing the creation of digital platforms across industries.",
+    "title_zh": "多智能体交互：轻松创建网站",
+    "abstract_zh": "传统的网站开发是一个复杂且耗时的过程，需要设计、编程、内容管理、搜索引擎优化（SEO）和部署等多个领域的专业技能。本文提出了一种新颖的方法，通过使用多智能体系统（MAS）来简化和自动化这一过程，其中智能自主代理协同合作，处理网站创建的各个不同方面。每个代理都具备专门能力——例如，专注于UI/UX设计、后端开发、数据库配置或搜索引擎优化——并与其他代理协调工作，以满足用户定义的需求。这些代理利用分布式人工智能的原理进行通信、协商任务并实时做出决策，从而在最少人工干预的情况下生成完整、响应式且经过优化的网站。该系统集成了自然语言接口以方便使用，即使是非技术用户也能用通俗语言描述其需求，代理随后解读并执行这些需求。此外，还可融入机器学习技术，使代理能够从以往项目中学习，从而随时间推移提升其性能和适应性。这种协作式、模块化且具有容错能力的方法显著减少了开发时间和错误，同时提高了可扩展性和可访问性。一个原型实现证明了该模型的可行性，在速度、质量和用户体验方面相较于传统方法展现出显著改进。总体而言，本研究阐明了多智能体交互如何通过使网站开发更快、更智能、更易被更广泛用户所使用，从而彻底变革这一领域，最终推动各行业数字平台的创建走向大众化。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Agentic AI for Chip Design",
+    "authors": "N/A",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527940",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "芯片设计的代理型人工智能",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "FLAIR: A Framework for LLM-Driven Assertion Generation and Incremental Refinement",
+    "authors": "Utkarsh Choudhary, Shivam Shukla, Sneh Saurabh",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527768",
+    "source": "IEEE",
+    "abstract": "Hardware verification using SystemVerilog Assertions (SVAs) is critical in modern design flows, yet translating natural language properties into SVAs demands significant effort and is prone to errors. We present FLAIR—a Framework for LLM-based Assertion generation and Incremental Refinement—that automates this process by integrating Google’s Gemini 2.0 Flash with Cadence JasperGold. FLAIR supports three models: a Base Model for direct generation, a Reactive Model leveraging formal feedback for iterative refinement, and a Proactive Model that systematically enriches prompts through syntactic, semantic, temporal, and sampled-value analysis. Experiments on 14 RTL designs of varying complexity show that the Proactive Model achieves correct-by-construction assertions with 92.2% success rate, substantially reducing designer effort and eliminating manual intervention.",
+    "title_zh": "FLAIR：一种基于大型语言模型的断言生成与增量细化框架",
+    "abstract_zh": "在现代设计流程中，使用SystemVerilog断言（SVA）进行硬件验证至关重要，但将自然语言属性转化为SVA需要大量精力且容易出错。我们提出了FLAIR——一种基于大语言模型（LLM）的断言生成与增量优化框架——通过将Google的Gemini 2.0 Flash与Cadence JasperGold集成来自动化这一过程。FLAIR支持三种模型：直接生成的基模型、利用形式化反馈进行迭代优化的响应模型，以及通过语法、语义、时序和采样值分析系统性地丰富提示的主动模型。在14个不同复杂度的RTL设计上的实验表明，主动模型实现了92.2%的“一次构造即正确”断言成功率，显著减少了设计人员的工作量并消除了人工干预。"
+  },
+  {
+    "date": "2026-5-25",
+    "title": "PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts",
+    "authors": "Vivi Andersson, Sofia Bobadilla, Harald Hobbelhagen, Martin Monperrus",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816704",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PoCo：面向智能合约的代理式概念验证漏洞利用生成",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Artificial Intelligence for Software Engineering: From Probable to Provable",
+    "authors": "Bertrand Meyer",
+    "publish": "Communications of the ACM",
+    "url": "https://doi.org/10.1145/3773295",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向软件工程的人工智能：从概率到可证明",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs",
+    "authors": "Wei Ma, Zhihao Lin, Shangqing Liu, Qiang Hu, Ye Liu, Wenhan Wang, Cen Zhang, Liming Nie, Li Li, Yang Liu, Lingxiao Jiang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3818607",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "探索代码分析：基于LLM的语法与语义零样本洞察",
+    "abstract_zh": "无"
+  }
+]
