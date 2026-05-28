@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-5-26",
+    "title": "ASIC Design for GenAI Inference",
+    "authors": "N/A",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527877",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "用于GenAI推理的ASIC设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-27",
+    "title": "A Retrieval-Augmented Framework for Executable Context-Aware Data Quality Assessment",
+    "authors": "Hadi Fadlallah, Ibrahim Dhaini, Rima Kilany Chamoun",
+    "publish": "2026 6th Middle East and North Africa Communications Conference (MENACOMM)",
+    "url": "https://doi.org/10.1109/menacomm69507.2026.11532924",
+    "source": "IEEE",
+    "abstract": "Context-aware data quality assessment enables the selection of quality checks that are aligned with data usage scenarios. While existing frameworks can model context knowledge and derive context-aware data quality assessment plans, their operationalization into executable validation logic remains largely manual. This paper presents a retrieval-augmented execution framework that bridges this gap by automatically translating validated context-aware assessment plans into executable code. The proposed approach embeds and retrieves dataset context representations, while preserving assessment plans as authoritative knowledge stored in a Neo4j knowledge graph. Retrieved assessment plans are combined with the input dataset context to form a structured augmented prompt that strictly constrains a large language model to act as a translator rather than a reasoning or decision-making component. The model is used solely to generate executable validation logic without introducing new quality dimensions or assumptions. The framework is evaluated using a real radiation wireless sensor dataset collected from a monitoring station. The evaluation demonstrates the feasibility of generating valid and executable Python data quality validation code.",
+    "title_zh": "一种面向可执行上下文感知数据质量评估的检索增强框架",
+    "abstract_zh": "上下文感知的数据质量评估能够选择与数据使用场景相一致的质量检查。虽然现有框架能够建模上下文知识并推导出上下文感知的数据质量评估计划，但将这些计划转化为可执行的验证逻辑在很大程度上仍然是手动完成的。本文提出了一种检索增强的执行框架，通过自动将经过验证的上下文感知评估计划转化为可执行代码，弥合了这一差距。所提出的方法嵌入并检索数据集上下文表示，同时将评估计划作为权威知识保存在Neo4j知识图谱中。检索到的评估计划与输入数据集上下文相结合，形成结构化的增强提示，严格限制大语言模型充当翻译器，而不是推理或决策组件。该模型仅用于生成可执行的验证逻辑，而不引入新的质量维度或假设。使用从监测站收集的真实辐射无线传感器数据集对该框架进行了评估。评估结果表明，生成有效且可执行的Python数据质量验证代码是可行的。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "SPHINX: An Agentic AI System for Automated Scientific Discovery in Computational Biology",
+    "authors": "Aditya Sengupta, Manolis Kellis",
+    "publish": "2025 IEEE MIT Undergraduate Research Technology Conference (URTC)",
+    "url": "https://doi.org/10.1109/urtc68753.2025.11533138",
+    "source": "IEEE",
+    "abstract": "The rapid growth of biomedical data and analysis techniques has created a critical research bottleneck, leading to inefficient discovery workflows. We introduce SPHINX (Scientific Progressive Hypothesis Iteration and Organized Novel In-silico eXperiments), a multi-agent AI system designed to accelerate discovery by automating computational biology. SPHINX integrates specialized agents for literature synthesis, hypothesis generation, data analysis and visualization, and in-silico experimentation within a “Lab-in-the-Loop” framework. Through rigorous case studies in Alzheimer's Disease and immunology, SPHINX replicated findings and performed complex analyses by autonomously reasoning, writing code, and self-correcting errors, demonstrating its end-to-end capability to accelerate biomedical research.",
+    "title_zh": "SPHINX：一种用于计算生物学自动化科学发现的自主AI系统",
+    "abstract_zh": "生物医学数据和分析技术的快速增长造成了关键的研究瓶颈，导致发现工作流程效率低下。我们提出SPHINX（科学渐进式假设迭代与组织化新型计算机模拟实验）——一个多智能体AI系统，旨在通过自动化计算生物学加速科学发现。SPHINX在“实验室在环”框架中整合了文献综合、假设生成、数据分析和可视化以及计算机模拟实验等专业智能体。通过阿尔茨海默病和免疫学领域的严格案例研究，SPHINX自主推理、编写代码并自我纠错，成功复现了研究发现并完成了复杂分析，展现了其端到端加速生物医学研究的潜力。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Prompt Engineering for Competitive Programming: Improving o4-mini's Accuracy on Codeforces Tasks",
+    "authors": "Sunmay Padiyar, Aaroosh Kurchania, Daivya Singh, Mihai Boicu",
+    "publish": "2025 IEEE MIT Undergraduate Research Technology Conference (URTC)",
+    "url": "https://doi.org/10.1109/urtc68753.2025.11533095",
+    "source": "IEEE",
+    "abstract": "Generative AI tools such as OpenAI's o4-mini are increasingly used to solve programming tasks, yet their effectiveness in competitive programming remains underexplored. This study evaluates four prompting techniques—No Prompt, Zero-Shot Chain-of-Thought, Prompt Chaining, and Structured Chain of Thought—on 90 randomly selected Codeforces problems rated 1600–2400. These problems were released after May 31st, 2024, the knowledge cutoff date for o4-mini. Code was submitted to the official Codeforces grader, and accuracy was measured based on the number of problems accepted. Structured Chain-of-Thought achieved the highest accuracy (56.67%, p = 0.0139), showing a statistically significant improvement over No Prompt (44.44%). Prompt Chaining followed closely (55.56%, p = 0.0249) and showed strong potential, though its improvement fell just short of statistical significance over No Prompt. Zero-Shot Chain-of-Thought (42.22%) did not improve from the baseline. These results demonstrate that carefully structured prompts can substantially improve LLM performance on advanced, reasoning-intensive programming tasks.",
+    "title_zh": "针对竞赛编程的提示工程：提升o4-mini在Codeforces任务上的准确性",
+    "abstract_zh": "诸如OpenAI o4-mini之类的生成式AI工具正日益被用于解决编程任务，但其在竞赛编程中的有效性仍未被充分探索。本研究在90道随机选取的Codeforces题目（难度评级1600–2400）上评估了四种提示技术——无提示、零样本思维链、提示链式推理和结构化思维链。这些题目的发布时间均在2024年5月31日之后（即o4-mini的知识截止日期之后）。代码提交至官方Codeforces评测系统，并依据被接受的题目数量来衡量准确率。结构化思维链取得了最高准确率（56.67%，p=0.0139），相比无提示（44.44%）展现出统计学上的显著改进。提示链式推理紧随其后（55.56%，p=0.0249），展现出较强潜力，但其改进相较于无提示略低于统计学显著性。零样本思维链（42.22%）相较于基线没有提升。这些结果表明，精心设计的结构化提示能够显著提升大型语言模型在高级、推理密集型编程任务上的表现。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "AI-Assisted RFIC Design —State-of-the-Art and Challenges",
+    "authors": "N/A",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527787",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "AI辅助的射频集成电路设计——最新进展与挑战",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Differentiable Sensitivity-Based Skew Scheduling Framework for Timing Optimization",
+    "authors": "Hsin-Tzu Chang, Wen-Hao Liu, Yi-Chen Lu, Anand Rajaram, Iris Hui-Ru Jiang, Haoxing Ren",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527512",
+    "source": "IEEE",
+    "abstract": "As chip design complexity continues to grow, timing closure becomes increasingly challenging. Resolving timing violations is essential for reliable system performance but often demands considerable design effort. Useful-skew optimization is commonly adopted to address these challenges by adjusting clock latencies. However, conventional methods, typically applied after clock tree synthesis (CTS), restrict the solution space, leading to suboptimal timing outcomes. To overcome these limitations, we incorporate differentiable sensitivity analysis into the optimization flow, enabling precise and effective timing adjustments. Our proposed framework uses gradient descent driven by timing sensitivity to refine clock latencies, achieving a 22.2% reduction in worst negative slack (WNS) and a 43.1% reduction in total negative slack (TNS) compared to a commercial baseline. These results confirm that our method delivers significant timing improvements in large-scale integrated circuit designs with minimal runtime overhead.",
+    "title_zh": "用于时序优化的可微基于灵敏度偏差调度框架",
+    "abstract_zh": "随着芯片设计复杂度的持续增长，时序收敛变得越来越具有挑战性。解决时序违例对于系统性能的可靠性至关重要，但通常需要大量设计精力。常用的时钟偏移优化通过调整时钟延迟来应对这些挑战。然而，传统方法通常在时钟树综合（CTS）之后应用，限制了解决方案空间，导致次优的时序结果。为克服这些限制，我们将可微灵敏度分析融入优化流程，实现精确有效的时序调整。我们提出的框架利用时序灵敏度驱动的梯度下降来优化时钟延迟，与商业基线相比，最差负时序裕量（WNS）降低了22.2%，总负时序裕量（TNS）降低了43.1%。这些结果证实，我们的方法能够以最小的运行时开销，在大规模集成电路设计中实现显著的时序改进。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Macro Block Optimization Floor Plan and Placement at Advanced 7nm Node Using Synopsys ICC2",
+    "authors": "Nagaraja. V, Praveenkumar Chittipolu, Manjula M, Sp. Lavakishor Reddy, T. Indu, V. Lavanya",
+    "publish": "2026 Fourth International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+    "url": "https://doi.org/10.1109/icaiss68683.2026.11525511",
+    "source": "IEEE",
+    "abstract": "To fulfill the performance requirements of modern integrated circuits, physical design at advanced. Area and Time management is a necessity in. Overcrowding and Energy. The implementation sequence for a. This paper deals with a digital design using Synopsys IC Compiler II (ICC2) on 7 nm CMOS technology. a. The aim of the study is to evaluate how certain tools set up. Limitations in design, optimization methods impact the. The overall quality of results at every level of the place-androute. The first steps in flow are floorplanning and macro placement. the investigation, in which SRAM blocks come into play. The analysis of standards is done through data integration. limiting routing and timing constraints Multiple optimization which is. used in Placement. Placement is executed using various optimization. Techniques for identifying configurations that minimize originals. congestion while keeping time limits. CTS is examined in terms of skew, insertion quiescence, and. Data and power, using both failure and customized algorithms. The routing stage has been fully investigated with some. Focus on diversion gesture, track use, and Traffic. hotspots commonly found in dense 7-nm biases. A sequence of. The way iterative timing check is used, however, is more similar to cell sizing. Buffer addition, subcaste - careful routing. alternatives, and route optimizing. Show how the finding. the tool reacts to colorful sets and responds to them. improves slack, minimizes incremental refinement. routing stabilizes and violations. This document gives. Practical wisdom into the successful functioning of ICC2 for. 7-nanometer Physical Design and Identifies Approaches for gaining balance.",
+    "title_zh": "使用Synopsys ICC2进行先进7nm节点的宏块优化布局规划与放置",
+    "abstract_zh": "为了满足现代集成电路的性能要求，先进工艺下的物理设计必不可少。面积与时间管理、拥塞控制与能耗优化都是设计流程中的关键环节。本文基于Synopsys IC Compiler II (ICC2) 在7纳米CMOS工艺上进行数字设计研究。旨在评估某些工具设置的局限性以及优化方法对布局布线各阶段整体结果质量的影响。设计流程的第一步是布图规划和宏单元布局，其中涉及SRAM模块的分析。通过整合数据，对标准单元进行分析，并施加限制性布线和时序约束。在布局阶段，采用多种优化技术来识别既能最小化原始拥塞又能满足时序限制的配置。时钟树综合(CTS)则从时钟偏斜、插入延迟、数据与功耗等方面进行考察，同时使用故障算法与自定义算法。布线阶段被全面研究，重点包括绕线行为、轨道利用率以及密集7纳米节点中常见的拥塞热点。通过迭代时序检查的方式（类似于单元尺寸调整、缓冲器添加、精细层布线方案及路由优化）来展示工具对不同设置的响应。结果表明，工具能改善时序余量、最小化增量优化过程中的布线违例。本文为在7纳米物理设计中成功运用ICC2提供了实用见解，并识别出实现平衡（面积、时序、功耗等）的方法。"
+  },
+  {
+    "date": "2026-5-27",
+    "title": "Interpretable Cross-Corner Timing Prediction Based on XGBoost-SHAP Solution",
+    "authors": "Keqing Ouyang, Qi Wei, Weiran Gou, Chenfei Wu, GuoHua Zhou",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3816045",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于XGBoost-SHAP的可解释跨拐角时序预测",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "HLS Driven Obfuscation of DSP Hardware IP Designs using Non-invertible Arbitrary Function and Reconfigurable Intertwined Obfuscation Logic",
+    "authors": "Anirban Sengupta, Nabendu Bhui, Vishal Chourasia, Ayush Kumar Singh",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527771",
+    "source": "IEEE",
+    "abstract": "Digital Signal Processing (DSP) hardware intellectual property (IP) designs are pivotal to the proliferation of consumer electronics (CE) systems such as camera, camcorder, smart watch, smart TVs, IoT etc. Such DSP hardware IPs is typically designed using high level synthesis (HLS) framework. However, with the globalization of integrated circuit/system-on-chip (SoC) design supply chain, emergence of threats such as reverse engineering (RE) has become a matter of grave concern. This paper presents novel HLS-driven functional obfuscation of DSP hardware IP designs using non-invertible arbitrary function and reconfigurable intertwined obfuscation logic. The proposed approach thwarts RE attack by hindering various forms of threats such as key-sensitization attack, removal attack, different versions of SAT attack and ML attack. Results of the proposed approach revealed significantly greater obfuscation strength (causing reduced probability of attacks) than prior approaches.",
+    "title_zh": "基于HLS的DSP硬件IP设计混淆：采用不可逆任意函数与可重构交织混淆逻辑",
+    "abstract_zh": "数字信号处理（DSP）硬件知识产权（IP）设计对于消费电子（CE）系统（如相机、摄像机、智能手表、智能电视、物联网等）的普及至关重要。此类DSP硬件IP通常采用高层次综合（HLS）框架进行设计。然而，随着集成电路/系统级芯片（SoC）设计供应链的全球化，逆向工程（RE）等威胁的出现已成为严重问题。本文提出了一种新颖的基于HLS驱动的DSP硬件IP设计功能混淆方法，采用不可逆任意函数和可重构交织混淆逻辑。所提方法通过阻碍密钥敏感化攻击、移除攻击、不同版本的SAT攻击及ML攻击等多种威胁形式，有效抵御逆向工程攻击。实验结果表明，与现有方法相比，该方法在混淆强度（降低攻击概率）上具有显著优势。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors",
+    "authors": "Samuel Thomas, James Bornholt",
+    "publish": "Communications of the ACM",
+    "url": "https://doi.org/10.1145/3802600",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "可定制数字信号处理器的向量化编译器的自动生成",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Agentic AI for Chip Design",
+    "authors": "N/A",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527940",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "面向芯片设计的代理型人工智能",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "authors": "Jenna Butler, Brian Houck, Margaret-Anne Storey, Travis Lowdermilk, Steven Clarke, Emerson Murphy-Hill",
+    "publish": "Queue",
+    "url": "https://doi.org/10.1145/3807963",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "软件工程与生成式AI的八大迷思",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "FLAIR: A Framework for LLM-Driven Assertion Generation and Incremental Refinement",
+    "authors": "Utkarsh Choudhary, Shivam Shukla, Sneh Saurabh",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527768",
+    "source": "IEEE",
+    "abstract": "Hardware verification using SystemVerilog Assertions (SVAs) is critical in modern design flows, yet translating natural language properties into SVAs demands significant effort and is prone to errors. We present FLAIR—a Framework for LLM-based Assertion generation and Incremental Refinement—that automates this process by integrating Google’s Gemini 2.0 Flash with Cadence JasperGold. FLAIR supports three models: a Base Model for direct generation, a Reactive Model leveraging formal feedback for iterative refinement, and a Proactive Model that systematically enriches prompts through syntactic, semantic, temporal, and sampled-value analysis. Experiments on 14 RTL designs of varying complexity show that the Proactive Model achieves correct-by-construction assertions with 92.2% success rate, substantially reducing designer effort and eliminating manual intervention.",
+    "title_zh": "FLAIR：一个由大语言模型驱动的断言生成与增量优化框架",
+    "abstract_zh": "使用SystemVerilog断言（SVA）进行硬件验证在现代设计流程中至关重要，然而将自然语言属性转化为SVA需要大量人力且容易出错。我们提出FLAIR——基于大语言模型的断言生成与增量优化框架——通过整合谷歌Gemini 2.0 Flash与Cadence JasperGold实现该过程的自动化。FLAIR支持三种模型：直接生成的基模型、利用形式化反馈进行迭代优化的反应模型，以及通过语法、语义、时序和采样值分析系统化丰富提示的主动模型。在14个复杂度各异的RTL设计上的实验表明，主动模型实现了92.2%的正确性约束断言生成成功率，显著减少设计人员工作量并消除了人工干预。"
+  },
+  {
+    "date": "2026-5-26",
+    "title": "From Specification to Layout: An AI-driven Automation Design Flow for Analog Circuits",
+    "authors": "Fang-Yi Liu, Hsin-Yi Lee, Tai-Cheng Lee",
+    "publish": "2026 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)",
+    "url": "https://doi.org/10.1109/vlsitsa69131.2026.11527794",
+    "source": "IEEE",
+    "abstract": "An AI-driven design and layout automation methodology is presented and validated on multiple analog circuits in a 28-nm CMOS technology. The flow comprises three main steps: 1) automatic layout dataset generation using DRC/LVS-compliant parameterized cells via Cadence SKILL, guided by circuit knowledge, 2) training a layout-level neural networks (NN) model to predict circuit performance, and 3) implementing a design iteration loop to refine circuit parameters toward target specifications. The effectiveness of the proposed methodology is demonstrated through the layout generation of a ring oscillator, a two-stage op amp, and a ring amplifier based on target specifications. Compared with manual schematic-to-layout design, this simulation-independent approach achieves up to a 150x speedup.",
+    "title_zh": "从规格到版图：一种AI驱动的模拟电路自动化设计流程",
+    "abstract_zh": "提出并验证了一种基于AI的版图设计与布局自动化方法，该方法在28纳米CMOS工艺的多个模拟电路中得到验证。该流程包含三个主要步骤：1）利用Cadence SKILL，在电路知识指导下，自动生成符合DRC/LVS的参数化单元，构建版图数据集；2）训练版图级神经网络模型以预测电路性能；3）实现设计迭代循环，将电路参数优化至目标规格。通过基于目标规格的环形振荡器、两级运算放大器及环形放大器的版图生成，验证了该方法的有效性。与手动原理图到版图的设计相比，这种仿真无关的方法实现了高达150倍的加速。"
+  }
+]
