@@ -1,0 +1,1154 @@
+[
+  {
+    "date": "2026-5-30",
+    "title": "Lightweight Preprocessing Defenses for Robust Deepfake Detection Against Adversarial Perturbations",
+    "authors": "Aoran Zhang, Seonghoon Jeong, Hyunjae Kang, Dan Dongseong Kim",
+    "publish": "Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes",
+    "url": "https://doi.org/10.1145/3803629.3803673",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Reflection-in-the-Loop: An AI-Augmented Visual Environment for Early-Stage Interface Design",
+    "authors": "Francisco Ivanilso Soares Araujo, Simone de Oliveira Santos, Cristina Albuquerque Douberin, Francisco Carlos de Mattos Brito Oliveira",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811449",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "V-RECS: a NL2Vis Recommender for Chart Generation with Explanations, Captioning, and Suggestions",
+    "authors": "Luca Podo, Paola Velardi, Marco Angelini",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811457",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "An Immersive Virtual Reality Interface for Archaeological Reconstruction",
+    "authors": "Luca Palmieri, Omidreza Safaei, Marco Ronchese, Marina Khoroshiltseva, Sebastiano Vascon, Marcello Pelillo",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811509",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Rethinking Artistic Research in the Age of AI: New Frameworks, HCAI Practices, and Challenges",
+    "authors": "Claudio Pomo, Carmelo Ardito, Alessandra Micalizzi, Elisa Poli, Emanuele Lomello",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811491",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Temporal Augmentation for Remote AV Takeover: A Dual-Phase Evaluation of Replay-Buffered Interfaces",
+    "authors": "Gerhard Graf",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811435",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Evaluating AI Assistance in Human-in-the-Loop Scenographic Prop Authoring",
+    "authors": "Giacomo Vallasciani, Pasquale Cascarano, Jacopo Meglioraldi, Daniele Giunchi, Riccardo Bovo, Gustavo Marfia",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811432",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Memorability of Greenhouse Gas Emissions in Virtual Reality: An Evaluation of Enactment and Quiz-Based Gamification",
+    "authors": "Aymeric Ferron, Elpida Bampouni, Yvonne Jansen, Arka Majhi, Juho Hamari, Daniel Fernández Galeote",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811438",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Reconnecting Seniors with Blue Spaces: A Technology-Mediated Immersive Approach",
+    "authors": "Tommaso Pellegrini, Fabio Pittarello, Fabio Pranovi",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811465",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Brainy: a Virtual Pet Encouraging Digital Wellbeing",
+    "authors": "Luca Scibetta, Alberto Monge Roffarello",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Semantic Prompting: Agentic Incremental Narrative Refinement through Spatial Semantic Interaction",
+    "authors": "Xuxin Tang, Ibrahim Tahmid, Eric Krokos, Kirsten Whitley, Xuan Wang, Chris North",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811444",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "From Trust to Agency: Designing Child-Centred AI Interaction",
+    "authors": "Grazia Ragone, Paolo Buono, Judith Good, Rosa Lanzilotti",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811467",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Augmenting Information Access in Cultural Virtual Tours through Automatic Artifact Segmentation",
+    "authors": "Gonçalo Cerveira, Rui Rodrigues, Nuno Correia",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811460",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Virtual augmentation of a simulated scenario for first aid operators training",
+    "authors": "Giacomo Colussi, Giovanni Serena, Federico Fontana, Fabio Buttussi",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811470",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "A Conceptual Framework to Foster Sustainability with Gamified Digital Twins",
+    "authors": "Maryam Samiepour, Davide Guizzardi, Barbara Rita Barricelli, Daniela Fogli",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811514",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Success Criteria for Evaluating Symbiotic AI Systems",
+    "authors": "Miriana Calvano, Antonio Curci, Paloma Díaz, Rosa Lanzilotti, Antonio Piccinno",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811515",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "On Promoting Agency in People with Intellectual Disabilities in Co-Design",
+    "authors": "Marco Mores, Alessandra Melonio, Rosella Gennari",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811513",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "The Industrialization of Messaging Scams in the LLM Era",
+    "authors": "Gilad Gressel, Rahul Pankajakshan, Ling Li, Ivan Franceschini, Krishnashree Achuthan, Yisroel Mirsky",
+    "publish": "Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes",
+    "url": "https://doi.org/10.1145/3803629.3803676",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "MoCoRo: Towards A Modular Robotics Platform for Automated Cocktail Creation",
+    "authors": "Pascal Nowarra, Lukas Mensing, Barbara Huemer, Jonas Rathberger, Samuel Zühlke, Andreas Riegler, Kathrin Probst",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811522",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Detecting Intent in XR for Nonspeaking Autistic Typers",
+    "authors": "Pratishtha, Ahmadreza Nazari, Kenzy Hamed, Lorans Alabood, Vikram Jaswal, Diwakar Krishnamurthy",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811455",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Cyber Resilience in IoT Networks Revisited: Frameworks, Mechanisms, and Future Directions",
+    "authors": "Foroozan Darbandeh, Muhammad Rizwan Asghar, Liqun Chen",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3818682",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Immersive Reachability Planning for the Excavation of Cultural Heritage Objects",
+    "authors": "Alexander Gall, Anja Heim, Laura Longo, Christoph Heinzl",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811471",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3811427",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "PaTGen: Temporal Similarity-Driven Proxy Benchmark Generation Method for Cloud Workloads",
+    "authors": "Haolang Yin, Weiwei Lin, Huikang Huang, Xiaoxuan Luo, Haocheng Zhong, Keqin Li",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3816437",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Introduction to Graph Neural Networks for Machine Learning Engineers",
+    "authors": "James Tanis, Chris Giannella, Adrian Mariano, Daoud Meerzaman",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3816725",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Transforming Natural Language into Knowledge Graph Queries with LinkQ: An Agentic Visual Interface",
+    "authors": "Harry Li, Gabriel Appleby, Kenneth Alperin, Steven Gomez, Ashley Suh",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811441",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Act on the present and peek into the past: A system for Asynchronous Immersive Analytics Collaboration",
+    "authors": "Alejandro Rey López, Diego Navas Sánchez",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811516",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Towards Safe and Comfortable Robotic Touch Interactions: Understanding Physical Interaction Parameters through Participatory Design of Robotic Touch Behaviors",
+    "authors": "Yuhan Hu, Xiyu Fu, Rana Soltani Zarrin",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3816426",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "From 'Nice Try' to 'Nice Throw': Exploring Counterfactual Explanations as Corrective Feedback for Javelin Throwing",
+    "authors": "Lennart Eing, Annika Stippler, Cristina Conati, Stefan Künzell, Elisabeth André, Silvan Mertes",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811437",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Demonstrating Infrastructure-Free Indoor Occupancy Visualization using Passive BLE Sensing",
+    "authors": "Venkata Srikanth Varma Datla, Alba Bisante, Gabriella Trasciatti, Stefano Zeppieri, Emanuele Panizzi",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811507",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "A Visualization and Control Interface for Rhythmic Relations",
+    "authors": "Cagri Erdem, Davide Rocchesso",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Understanding the Potential of Artificial Intelligence to Semi-automatically Generate Realistic 3D Interactive Models of Composite Objects",
+    "authors": "Roberto Cuervo-Rosillo, Telmo Zarraonandía, Paloma Díaz",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811463",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Vision-Driven Design",
+    "authors": "Hiroshi Ishii",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3815059",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "EmoRainbow: How Can Phygital Artefacts Support Emotional Regulation in Disaster Preparedness?",
+    "authors": "Alessandra Melonio, Elena Cicuto, Muhammad Bilal Khan, Maria Vittoria Bellini, Roberto Burro, Daniela Raccanello, Giada Vicentini",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811464",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "An AI Tool for Gender Bias Analysis in News Publications",
+    "authors": "Jorge Garcelán, Teresa Onorati, Carmen Peláez-Moreno, Clara Sainz de Baranda Andújar, Paloma Díaz, Ignacio Aedo",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811473",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Conceptual Alignment through Large Language Models: A Case Study in an Educational Context",
+    "authors": "Simone Ciciliano, Rosella Gennari",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811462",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Wearable Rhythm: An Ambient Wearable for Promoting Awareness of Internal Rhythms",
+    "authors": "Rena Matsuura, Naho Yokoyama, Risa Kimura, Tatsuo Nakajima, Bruce Ferwerda",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811495",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "NeuroHarmonium: An Interactive Neuroadaptive Musical Instrument Using Brain-Computer Interface and Neural Network Learning",
+    "authors": "Tommaso Colafiglio, Mariagrazia De Leo, Claudio Pomo, Tommaso Di Noia, Carmelo Ardito",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811501",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "InvestChat: Exploring Multimodal Interaction via Natural Language, Touch, and Pen in an Investment Dashboard",
+    "authors": "Sarah Lykke Tost, Adson Lucas de Paiva Sales, Henrik Østergaard, Vaishali Dhanoa, Gabriela Molina León",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "DirectionalIllusion: Displaying Different Images Based on Gaze Movement Directions using a High-Speed Projector",
+    "authors": "Ryusuke Miyazaki, Shio Miyafuji, Hideki Koike",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811447",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Investigating the Design and Performance of Letter Chords",
+    "authors": "Cameron Dale Beattie, Yen-Ting Yeh, Andy Cockburn, Carl Gutwin",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811430",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Leveraging Large Language Models for Alt-Text Evaluation in E-Commerce: A Data-Driven Study",
+    "authors": "Nicola Leonardi, Marco Manca, Fabio Paternò",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811431",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Navigating Uncertainty in a Virtual Supermarket: Designing a VR Tool to Promote Autonomy in Autistic Youth",
+    "authors": "Daniel Bermúdez-Chinea, Gianpaolo Alvari, Tommaso Coianiz, María Menédez-Blanco, Stefano Burigat, Fabio Buttussi, Luca Chittaro, Paola Venuti, Antonella De Angeli",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811452",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "SCAPED: Spoken Conversational AI Platform for Experiments on Dialogue",
+    "authors": "Vladislav Maraev, Christine Howes, Catherine Pelachaud",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811508",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Visual Interface Design for Informal Language Acquisition with Machine Translation and LLMs",
+    "authors": "Giada Pantana, Ilaria Torre, Myriam Garcia, Marta Castello",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811478",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "From Motion Data to Meaning: Towards Human-Centered and Interpretable Movement Analysis Interfaces",
+    "authors": "Eleonora Cabai, Maristella Matera, Jonathan Adam Gustafson",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811520",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "TombWriter: Scaffolding Story Archeology through Beat-Level Interaction in Human-AI Co-Writing",
+    "authors": "Hugo Andersson, Niklas Elmqvist",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811443",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Revealing Nature's Heartbeats: A Playful Experience for Teens",
+    "authors": "Ioanna Terzi, Niccolò Pretto, Rosella Gennari",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811498",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Enhancing Pointing Gestures of Non-HMD Users in Asymmetric Collocated Mixed Reality Collaboration",
+    "authors": "Nam-Dang Vo, Van-Vinh Thai, Anthony Tang, Khanh-Duy Le",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811428",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "From Answer to Audio: Visual Traceability for AI-Assisted Meeting Retrieval",
+    "authors": "Takuya Nakata, Masahide Nakamura",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811496",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Designing Advanced Interfaces for Learning and Teaching",
+    "authors": "Audrey Serna, Antonio Bucchiarone, Iza Marfisi-Schottman, Sebastian Simon, Arnaud Prouzeau, David Bertolo, Elise Lavoué, Alina Glushkova",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811486",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "INI-DH 2026: 2nd Workshop on Innovative Interfaces in Digital Healthcare",
+    "authors": "Paola Barra, Andrea Antonio Cantone, Teresa Onorati",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811487",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "CoPDA2026: Exploring the Relationship between EUD, AI-Assisted Development, and Meta-Design",
+    "authors": "Barbara Rita Barricelli, Gerhard Fischer, Daniela Fogli, Anders Mørch, Antonio Piccinno, Stefano Valtolina",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811480",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Cloud-9: A Multimodal Interaction Paradigm for Assisted and Automated Parking Adoption",
+    "authors": "Matteo Valoriani, Marco Ajovalasit, Chiara Aliverti, Adele Calvi, Andrea Febbraro, Emma Forlani, Sara Tibaldo, Marco Trizio, Gustav Moorhouse",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811524",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "When AI Lies with Charts: Misleading Infographics in Text-to-Image Generation",
+    "authors": "Mandy Keck, Andreas Stöckl",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811469",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "LLMs to Support Speech Therapists in Creating Exercises: a Preliminary Study",
+    "authors": "Miriana Calvano, Antonio Curci, Rosa Lanzilotti, Antonio Piccinno, Alfonso Pio Pretorino",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811528",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Evaluating the Feasibility of Superposed QR Code Attacks Using High Refresh Rate Displays",
+    "authors": "Keita Suzuki, Kentaro Fukuchi",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811506",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Voices from the Lagoon",
+    "authors": "Zofia Milczarek, Joy Ciliani",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811527",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Introduction to the Special Issue on Trustworthy Security and Privacy-AI Powered Autonomous Driving",
+    "authors": "Guowen Xu, Hongwei Li, Rongxing Lu",
+    "publish": "ACM Transactions on Autonomous and Adaptive Systems",
+    "url": "https://doi.org/10.1145/3816100",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Beyond Analog Mimicry: Reframing Digital Automotive Dashboards for Awareness-Driven Driving Experience",
+    "authors": "Marco Ajovalasit, Matteo Valoriani, Alessandro Chiarion, Viola Falchi, Dogan Mert Güven, Sabrina Maida, Giovanni Sartorio, Gustav Moorhouse, Marco Trizio",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811461",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Towards Design Guidelines to Support Young Adults' Digital Wellbeing with Large Language Models",
+    "authors": "Giuseppe Arbore, Luigi De Russis",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811525",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Trustworthy Recommender Systems for Multiple Stakeholders",
+    "authors": "Francesco Ricci",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811533",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Navigating the Pattern Maze: A Human-Centered Investigation into Structuring Web Design Patterns",
+    "authors": "Nadzeya Nabok, Kathrin Probst, Mandy Keck",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811446",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Designing Adaptive AI Assistance for Block-Based Modelling: a Wizard of Oz Study with Domain Experts",
+    "authors": "Chiara Mannari, Tommaso Turchi, Manlio Bacco, Alessio Ferrari, Cristina Conati, Alessio Malizia",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811448",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Token Mines: A Defense Against Agents and Large Language Models",
+    "authors": "Anton Pasternak, Tomer Ashkenazy, Itay Arad, Roy Weiss, Yisroel Mirsky",
+    "publish": "Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes",
+    "url": "https://doi.org/10.1145/3803629.3803674",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Visual Diffs: Towards Versioning of Tactons",
+    "authors": "Christopher Chlebowski, Dennis Wittchen, Georg Freitag, Dietrich Kammer",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811511",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "GeoMINDS: a Web-Based Framework to Flexibly Instantiate Multi-Surface Interfaces for Spatial Decision-Making",
+    "authors": "Christian Moll, Johannes Hermen, Valerie Maquil",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811523",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Does Removing Pen Pressure in Cost-Cutting Pen Designs Matter for Handwritten Learning in Education? A Case Study of Geometry Problem Solving",
+    "authors": "Yuki Miyazaki, Sari Kobayashi, Satoshi Nakamura, Akiyuki Kake",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811454",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "CIVICS - Citizen Science Advanced Interfaces: from Sensing to Sensemaking",
+    "authors": "Catia Prandi, Diego Morra, Simone Mora, Alberto Martinetti",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811488",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Time WizARd: Exploring the Use of Augmented Reality for Supporting Multitask Timekeeping in Kitchen Cooking",
+    "authors": "Joseph O'Hagan, Xinuo Zhou, Katharina Margareta Theresa Pöhlmann, Mark McGill",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811474",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Glyphspace: An Integrated Browser-Based Workflow for Glyph-Enriched Dimensionality Reduction",
+    "authors": "Dietrich Kammer, Mandy Keck, Lilia Schneider, Thomas Gründer",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811504",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "DeepSoil: Physics-Guided Learning for High-Resolution Soil Moisture Mapping from Surface to Root-Zone via Multimodal Sensing and Process-Based Modeling",
+    "authors": "Paahuni Khandelwal, Andrei Bachinin, Tanjim Bin Faruk, Everett Lewark, Sangmi Lee Pallickara, Shrideep Pallickara",
+    "publish": "ACM Transactions on Spatial Algorithms and Systems",
+    "url": "https://doi.org/10.1145/3817120",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3803629",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "A Multi-Agent AI System for Human-in-the-Loop Cognitive Walkthrough",
+    "authors": "Alba Bisante, Federica Caruso, Valentino Giona, Stefano Zeppieri, Tania Di Mascio, Emanuele Panizzi",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811500",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Telling Where You Are Without Saying Too Much",
+    "authors": "Gabriella Trasciatti, Alba Bisante, Venkata Srikanth Varma Datla, Nane Harutyunyan, Stefano Zeppieri, Emanuele Panizzi",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811521",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Designing and Building Hybrid Human–AI Systems (SYNERGY 2026)",
+    "authors": "Tommaso Turchi, Alan Dix, Ben Wilson, Matt Roach, Alessio Malizia",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811485",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Can Human Gaze Supervision Improve VLM Robustness to Misleading Data Visualizations?",
+    "authors": "Mir Rayat Imtiaz Hossain, Enamul Hoque, Giuseppe Carenini",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811466",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Advances in Map-based Interfaces and Interactions – MAPII",
+    "authors": "Masood Masoodian, Saturnino Luz",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811483",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Digital Tools for Connecting with Blue Spaces",
+    "authors": "Fabio Pittarello, Fabio Pranovi, Tommaso Pellegrini",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811479",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Using Open-Ended Elicitation to Explore Adults' Virtual-Object Interaction Preferences in AR Headsets",
+    "authors": "Alejandro Delgado, Md Mehedi Hasan Jibon, Hetvi Shah, Fareeza Rahman, Anzhelika Kurnikova, Julia Woodward",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811433",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Always Controlled by What We Control: Rewiring Algorithmic Perception in an Interactive Installation",
+    "authors": "Jeremiah Teipen",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811505",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Evaluation of Advanced Multimodal Interfaces: Towards New Methodologies",
+    "authors": "Niklas Rönnberg, Camilla Forsell",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811481",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "InsightAR: A Tool for Multi-modal Summarization and Interactive Analysis of AR-based Egocentric Task Videos",
+    "authors": "Guande Wu, Dishita Turakhia, Eden Wu, Sonia Castelo Quispe, João Rulff, Erin McGowan, Jianben He, Yawei Wang, Jing Qian, Claudio Silva",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811456",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Training Station: A Learning Ecosystem for an Inclusive AI Workforce",
+    "authors": "Bernhard Schenkenfelder, Ulrich Brandstätter, Catalina Jesús Toro Plaza, Gastón Patricio Márquez Ortega, Lukas Fischer, Martin Hartl, Markus Wurm, Rita Außerlechner, Dominik Laister",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811502",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Geometries of Navigation: A Comparative Study of Transit Map Layouts",
+    "authors": "Jenny Portwich, Elena Stoll, Dietrich Kammer",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811440",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "EmoArc: Interactive Emotion Graph for Human-AI Collaborative Writing",
+    "authors": "Rifat Mehreen Amin, Seyit Baran Özdemir, Sven Mayer, Andreas Butz",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811429",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Beyond Distance Metrics: A Nested Model of Similarity in Visual Art Search",
+    "authors": "Houda Lamqaddam, Quinten Mortier, Ivania Donoso-Guzmán, Koenraad Brosens, Katrien Verbert",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811442",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "BonGO: Reimagining the In-Car Experience through Phygital Interaction and AI-Driven Narrative Co-Creation",
+    "authors": "Marco Ajovalasit, Matteo Valoriani, Kexin Ma, Betül Özlem Yilmaz, Mehmet Aflazi, Aranza Villarreal Alcalá, Beatriz Lara Espinosa, Daniela Pèrez Ardila, Marco Trizio, Gustav Moorhouse",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811510",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Future Horizons in Human–AI Interaction: Joint Perspectives from HCI and AI",
+    "authors": "Elisabeth Andrè, Cristina Conati, Shelly Levy Tzedek, Maristella Matera, Micol Spitale",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811490",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Mathematical Foundations and Deep Learning Models for Deepfake Detection",
+    "authors": "Usha Gopal, Karthikeyan Hitler, Aruna Sankaralingam",
+    "publish": "Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes",
+    "url": "https://doi.org/10.1145/3803629.3803672",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "LentiMorpho: A Lens Array Based Display with Switchable View-Dependent and View-Independent Modes by Varying Liquid Volume",
+    "authors": "Rintaro Akiyama, Kouyou Otsu, Mai Kamihori, Yuichi Itoh, Takafumi Koike",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811459",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Towards Improving the Robustness of Deepfake Audio Detection With Denoising Methods",
+    "authors": "Juncheng Wang, Dan Dongseong Kim",
+    "publish": "Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes",
+    "url": "https://doi.org/10.1145/3803629.3803671",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Volume 9, Issue 2: Social Computing at Scale — Trust, Behavior, and System Design",
+    "authors": "Xiaoming Fu, James Evans",
+    "publish": "ACM Transactions on Social Computing",
+    "url": "https://doi.org/10.1145/3815197",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "The Effect of Idea Elaboration on the Automatic Assessment of Idea Originality",
+    "authors": "Umberto Domanti, Moritz Mock, Sergio Agnoli, Antonella De Angeli",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811453",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "LLM-empowered Shared Cross-Reality to Enhance Communication Skills in Individuals with Neurodevelopmental Disorders",
+    "authors": "Francesco Vona, Giulia Valcamonica, Marco Mores, Giuseppe Anzillotti, Luca Proserpio, Nicolò Gandini, Giuseppe D'Amico, Franca Garzotto",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811458",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Thermal- and Aging-Aware Rowhammer Vulnerability Analysis of Monolithically-Integrated IWO eDRAM for Edge Platforms",
+    "authors": "Eduardo Ortega, Jungyoun Kwak, Shimeng Yu, krishnendu chakrabarty",
+    "publish": "ACM Journal on Emerging Technologies in Computing Systems",
+    "url": "https://doi.org/10.1145/3819813",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Distributed Agency and Multimodal AI Interfaces: Meaning, Human-Centered Implications, and Pathways to Design and Implementation",
+    "authors": "Umberto Domanti, Angela Faiella, Caterina Moruzzi, Chiara Natali, Anna Marie Rezk, Mario Mirabile",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811484",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "A Design Space and Exploration Tool for Visual Interfaces in Recommender Systems",
+    "authors": "Mandy Keck, Lisa-Maria Freller, Thomas Neumayr, Mirjam Augstein",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811451",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Visual Transformation for Reflective Ambient Displays: Comparing Mirror and Frame Representations",
+    "authors": "Naho Yokoyama, Rena Matsuura, Bruce Ferwerda, Risa Kimura, Tatsuo Nakajima",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811519",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "DataForager: Integrating and Visualizing Datasets From the Web Using Large Language Models",
+    "authors": "Alexander Bendeck, Harry Li, Steven Gomez, Ashley Suh",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811434",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "LLM-Augmented Semantic Steering of Text Embedding Projection Spaces",
+    "authors": "Wei Liu, Eric Krokos, Kirsten Whitley, Rebecca Faust, Chris North",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811450",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Representing Intangible Cultural Heritage as Living Artifacts: A First Digital Twin of a Culinary Recipe",
+    "authors": "Gianni Tumedei, Catia Prandi, Augusto Esteves",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811468",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Trust Me, I'm Probably Right: Investigating AI Explanations for Establishing Appropriate Trust",
+    "authors": "Freja Dahl Hartvig, Asta Lundbek Egelund, Niklas Elmqvist",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811445",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "The Venice Lagoon Climate Change Dashboard as a tool for capacity building for local populations",
+    "authors": "Vito Garramone, Francesco Musco",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811530",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "AI and the future of work",
+    "authors": "Felienne Hermans",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811535",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Recognition-based Image Authentication Using Masked Images as a Robust Alternative to PINs",
+    "authors": "Tetsuji Takada",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811518",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Building Explainable User Interfaces",
+    "authors": "Tommaso Turchi, Alan Dix, Ben Wilson, Matt Roach, Alessio Malizia",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811499",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Challenges in Reviewing Research Utilising Maps Visualizations: A Case Study of Cholera",
+    "authors": "Saturnino Luz, Shane Sheehan, Masood Masoodian",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811472",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Gradual Domain Adaptation for Graph Learning",
+    "authors": "Pui Ieng Lei, Ximing Chen, Yijun Sheng, Yanyan Liu, Zhiguo Gong, Qiang Yang",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3815185",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "The BrutARlist: Exploring How and Why Individuals Alter a Known Brutalist Building with Augmented Reality",
+    "authors": "Joseph O'Hagan, Graham Wilson, Thomas Goodge, Diego Drago, Mark McGill",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "FantasIA: Immersive, Child-driven Social Stories in Interactive Smart Spaces",
+    "authors": "Irene Lo Presti, Matteo Lussana, Simona Mastroberardino, Lara Tongiorgi, Matteo Secco, Franca Garzotto",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811526",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Effects of Progress Bar Thickness on Users' Perception of Waiting Time",
+    "authors": "Narumi Sugawara, Takanori Komatsu, Shota Yamanaka",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811512",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Can sonification aid the perception of complex visual networked data? A tool for the interactive exploration of bibliometric data",
+    "authors": "Maurizio Berta, Roberto Bresin, Gaël Dubus",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811439",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "AR Data Ribbon: Break the Frame and Unroll Data in the Air",
+    "authors": "Aymeric Ferron, Leni Yang, Adrien Corn, Yvonne Jansen, Pierre Dragicevic, Martin Hachet",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811497",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Trustable, Reproducible, and Intelligent Information Visualization Systems (TRI-IVIS)",
+    "authors": "Paolo Buono, Philippe Tamla, Thomas Krause, Haithem Afli, Matthias Hemmje",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811489",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Adapting an Ecological Belonging Intervention to an Introductory Computer Science Course",
+    "authors": "Janet Jiang, Jonathan Liu, Shao-Heng Ko, Diana Franklin, Kristin Stephens-Martinez",
+    "publish": "ACM Transactions on Computing Education",
+    "url": "https://doi.org/10.1145/3819078",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Exploring AI-Supported Artistic Practices through Human-Centred AI",
+    "authors": "Carmelo Ardito, Tommaso Colafiglio, Claudio Pomo, Tommaso Di Noia",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811531",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "The Rice-Paper Layer (RPL): Intention Segmentation for Human-AI Co-Creation in Generative AI",
+    "authors": "Helena G. Theodoropoulou, Dimitris Kalles",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811532",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Mixed Reality for Cultural Heritage: Digitizing Takamatsuzuka Kofun and Exploring Its Murals",
+    "authors": "Wenze Song, Takefumi Hayashi",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3819231",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Analyzing Commercial Deepfake Detectors on Real-World Cases",
+    "authors": "Bohyun Moon, Jiwon Kim, Muhammad Shahid Muneer, Simon S Woo",
+    "publish": "Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes",
+    "url": "https://doi.org/10.1145/3803629.3803675",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "User-friendly Design of Distributed Systems: A Visual Interface for Composing Networks of Personal Devices",
+    "authors": "Andrea Pietro Arena, Sofia Marilina Glorioso, Salvatore Sorce",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811477",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Visualizing Parametric Density through Three-dimensional Amplitude Spectrum Slopes in Urban Canyons",
+    "authors": "Mirna Zordan, Jiakun Pei, Zixian Lei, Chan Qiu",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811517",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Beyond Visual Interfaces: Designing Multisensory Experiences",
+    "authors": "Stefania Serafin",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811534",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "poli:bit: a No-Code Toolkit for Creating Phygital Artefacts for Preschools",
+    "authors": "Muhammad Bilal Khan, Alessandra Melonio, Rosella Gennari",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811493",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "VISPEK: a Visual Interactive System for Progressive Ensemble K-Means Clustering",
+    "authors": "Marco Angelini, Graziano Blasilli, Giorgio Cazzetta, Simone Lenti, Alessia Palleschi, Giuseppe Santucci",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811436",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Advanced Visual Interfaces for Cultural Heritage (AVI-CH) 2026",
+    "authors": "Antonio Origlia, Julia Sheidin, Tsvi Kuflik, Niccolò Pretto",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811482",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Remote Grandparents: A Tangible Interactive Experience for Intergenerational Connection at a Distance",
+    "authors": "Kristi Kuusk, Paula Veske-Lepp, Azeem Hamid, Zaur Babayev",
+    "publish": "Proceedings of the 2026 International Conference on Advanced Visual Interfaces",
+    "url": "https://doi.org/10.1145/3811427.3811494",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Evaluating Chinese Large Language Models: The Influence of Persona Assignment on Stereotypes and Safeguards",
+    "authors": "Geng Liu, Li Feng, Carlo Alberto Bono, Songbo Yang, Mengxiao Zhu, Francesco Pierri",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3819074",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
