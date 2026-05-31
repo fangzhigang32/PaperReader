@@ -1,0 +1,1761 @@
+[2026-05-30 22:57:43] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-05-29
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202605290000+TO+202605292359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ResponseError('too many 429 error responses'))
+[ACM] 2026-5-29 | BeamFormer: Transformer-based Beam Management for 6G Networks
+[ACM] 2026-5-29 | Gaze Estimation from Optical Path Length using Neural Network Inversion
+[ACM] 2026-5-29 | Who You Are is How You Look: Implicit User Identification by Comparing Actual Gaze with Personalized Saliency Maps
+[ACM] 2026-5-29 | Cross-Modal Analysis of Typography Effects on Visual Attention based on TVA and Task-Evoked Pupillary Responses (TEPR)
+[ACM] 2026-5-29 | JPEG Column: 109th JPEG Meeting in Nuremberg, Germany
+[ACM] 2026-5-29 | In Memoriam: Richard A. Tapia (1939-2026)
+[IEEE] 2026-5-29 | Ground-Based GNSS-R Oil Spill Experiments: Methodology and Results
+[IEEE] 2026-5-29 | FASENet: A Frequency Aware and Shape Enhanced Deep Network for Mapping Farmland Ditch from High-Resolution Remote Sensing Imagery
+[IEEE] 2026-5-29 | Diffusion Graph Transformer for Learning Controllability Robustness in Large-Scale Networks
+[IEEE] 2026-5-29 | High-Efficiency Laser Wireless Power Transfer System with Automatic Tracking for Smart Grids_supp2-3696300.mp4
+[IEEE] 2026-5-29 | High-Efficiency Laser Wireless Power Transfer System with Automatic Tracking for Smart Grids_supp1-3696300.mp4
+[IEEE] 2026-5-29 | BFRN-IoV: Blockchain and Fog-Enabled Route Navigation for Digital Twin-Based Internet of Vehicles
+[IEEE] 2026-5-29 | Opportunistic RIS-Assisted Transmission Scheduling for Multiuser Wireless Network via Binary Linear Programming
+[IEEE] 2026-5-29 | BIRCH-AE: A Hierarchical Ensemble Framework for Scalable E-Commerce User Segmentation with Autoencoder-Enhanced Feature Learning
+[IEEE] 2026-5-29 | MARTA: Multi-Person Activity Recognition With mmWave Based on Temporal Attention
+[IEEE] 2026-5-29 | Jointly Optimizing Migration and Offloading for Digital Twin-Enabled Internet of Vehicles
+[IEEE] 2026-5-29 | Energy-Efficient Task Allocation for Green Aerial Edge Computing Based on Metaverse Users: A Mean Field Game Approach
+[IEEE] 2026-5-29 | Passivity-Based Tracking Control of a Planetary Rover with Robotic Arm_supp1-3694402.mp4
+[IEEE] 2026-5-29 | Front Cover
+[ACM] 2026-5-29 | Can Multipath TCP Congestion Control do better without adhering to its First Design Principle?
+[ACM] 2026-5-29 | CAP: Detecting Network Device Misconfigurations with Context-Aware Prompting of LLMs
+[ACM] 2026-5-29 | POMACS V10, N2, June 2026 Editorial
+[ACM] 2026-5-30 | Lightweight Preprocessing Defenses for Robust Deepfake Detection Against Adversarial Perturbations
+[IEEE] 2026-5-29 | Optimized Real-Time Current Commutation Method for Concentric Winding Moving-Coil Maglev Planar Motor Based on Improved Active Set Algorithm
+[IEEE] 2026-5-29 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp1-3691061.mp4
+[IEEE] 2026-5-29 | Glaucoma Diagnosis and Progression Prediction Based on Deep Multimodal Fusion and Collaborative Attention Mechanism
+[IEEE] 2026-5-29 | Research on the Diagnosis and Localization Method of Cross-Bonding Cable Defects Based on Three-Phase Differential Frequency Excitation
+[IEEE] 2026-5-29 | A Long-Range Detection Method for Blueberries Based on an Improved YOLOv11n Model
+[IEEE] 2026-5-29 | On Enumerating Feasible Permutations for Rank Modulation Codes in DNA storage via Hyperplane Arrangements
+[IEEE] 2026-5-29 | Optimizing Heat-Assisted Magnetic Recording Plasmonic Structures via Deep Generative Models
+[IEEE] 2026-5-29 | Low-Earth Orbit Satellite Network Analysis with Random LOS and NLOS Channels
+[IEEE] 2026-5-29 | EVDI++: Event-based Video Deblurring and Interpolation via Self-Supervised Learning
+[IEEE] 2026-5-29 | Complementary Grid Forming: Inertia Gathered from Constrained Resources
+[IEEE] 2026-5-29 | Machine Learning-Assisted Electro-Thermal Co-Optimization Framework for PDN in 3-D Integrated Microsystem With Embedded Microchannel Heatsink
+[IEEE] 2026-5-29 | Nonlinear Optimal Control Beyond the Hamilton-Jacobi-Bellman Equation
+[IEEE] 2026-5-29 | Thermal Aging Mechanisms and Dielectric Properties of Epoxy Resin Impregnated Bamboo Paper Composites
+[IEEE] 2026-5-29 | Toughening Epoxy Resin for Low-Temperature Electrical Insulation in High Voltage Equipment
+[IEEE] 2026-5-29 | Efficient and Reliable Index Modulation OTFS Framework for THz-ISAC Systems
+[IEEE] 2026-5-29 | Implementation of a novel CT approach into a micro-PET scanner
+[ACM] 2026-5-29 | As Far as Eye See: Vergence-Pupil Coupling in Near-Far Depth Switching
+[ACM] 2026-5-30 | Reflection-in-the-Loop: An AI-Augmented Visual Environment for Early-Stage Interface Design
+[IEEE] 2026-5-29 | Megatrends
+[IEEE] 2026-5-29 | Space Datacenters
+[IEEE] 2026-5-29 | Auditing the Invisible: Revolutionizing Anomaly Detection in IoT-Enabled Energy Markets
+[IEEE] 2026-5-29 | Space Networks as a Service: A Plug and Play Approach
+[ACM] 2026-5-29 | Temporal Changes in Oculomotor Workload Metrics during the Oral Reading of Character Strings
+[ACM] 2026-5-29 | The Challenges of Eye-Tracking Visualization in Multi-User Collaboration
+[ACM] 2026-5-29 | Constructing Machine Learning Features from Eye Movement Metrics: Feature Engineering Techniques for HCI Research
+[ACM] 2026-5-29 | Expecting the unexpected: Eye-tracking surprisal and entropy in L1 and L2
+[ACM] 2026-5-29 | Gaze-Based Automatic Scrolling for Readers Using Screen Magnification
+[IEEE] 2026-5-29 | Long-horizon prediction of who quits : League of Legends as a case study
+[IEEE] 2026-5-29 | HANeRV: Hierarchically Adaptive Neural Representation for Video Compression
+[IEEE] 2026-5-29 | Robust Single-View Target Identification with Sparse Multi-Angle Polarimetric Data
+[IEEE] 2026-5-29 | IEEE Transactions on Circuits and Systems for Artificial Intelligence Publication Information
+[IEEE] 2026-5-29 | Room-Temperature Mid-Wave Infrared Guided Mode Resonance Photodetectors for Focal Plane Arrays
+[IEEE] 2026-5-29 | Table of Contents
+[IEEE] 2026-5-29 | Efficient DOA Estimation Based on Coprime Array Interpolation With Deep Unfolding Network
+[IEEE] 2026-5-29 | Interactive $360 ^{\circ }$ Object Removal: A Coordinate Querying Approach via Spherical Normal Constraints and Learnable Wavelet Enhancement
+[IEEE] 2026-5-29 | Doppler-Enhanced Angle of Arrival Estimation for Tracking Autonomous Localization of Errant UAVs
+[ACM] 2026-5-29 | Reliable Metal Foreign Object Detection for Mobile Wireless Charging via Harmonic Fingerprinting
+[ACM] 2026-5-29 | WheatScout: A Handheld Analyzer for Pre-Harvest Wheat Protein and Moisture Monitoring
+[IEEE] 2026-5-29 | Detail Study of Loop Magnetic Antennas Operation for Underwater Communication
+[ACM] 2026-5-30 | V-RECS: a NL2Vis Recommender for Chart Generation with Explanations, Captioning, and Suggestions
+[ACM] 2026-5-30 | An Immersive Virtual Reality Interface for Archaeological Reconstruction
+[ACM] 2026-5-30 | Rethinking Artistic Research in the Age of AI: New Frameworks, HCAI Practices, and Challenges
+[ACM] 2026-5-30 | Temporal Augmentation for Remote AV Takeover: A Dual-Phase Evaluation of Replay-Buffered Interfaces
+[ACM] 2026-5-30 | Evaluating AI Assistance in Human-in-the-Loop Scenographic Prop Authoring
+[ACM] 2026-5-30 | Memorability of Greenhouse Gas Emissions in Virtual Reality: An Evaluation of Enactment and Quiz-Based Gamification
+[ACM] 2026-5-29 | Behavioral Markers of Sustained Viewing in VR Museum Exploration: Head Stability, Gaze Dynamics, and Pupillary Response
+[ACM] 2026-5-29 | When Machines Observe Architects
+[ACM] 2026-5-29 | A Low-Power Distance-Based Approach to Gaze Classification in Pervasive Smart-Eyewear Eye Tracking
+[ACM] 2026-5-29 | Cognitive Attention Map: Semantic Tokenization of Source Code via OCR-Based AOI Identification across Performance Levels
+[ACM] 2026-5-29 | GazeVaLM: A Multi-Observer Eye-Tracking Benchmark for Evaluating Clinical Realism in AI-Generated X-Rays
+[ACM] 2026-5-29 | Building Audio-Visual Digital Twins with Smartphones
+[ACM] 2026-5-29 | GeoTwins: Uncovering Hidden Geographic Disparities in Android Apps
+[ACM] 2026-5-29 | Hide-and-Sweep: Detecting Concealed Cameras via LED Illumination Sweeps
+[ACM] 2026-5-29 | AutoRF: Towards an Agentic Framework for Automated RF Hardware Design
+[ACM] 2026-5-29 | Ouroboros: Instilling Motion Awareness in ViTs for Efficient Video Analytics on the Edge
+[IEEE] 2026-5-29 | Modeling of Conjugative- and Phage- Mediated CRISPR-based System against Antimicrobial Resistant Bacteria_supp1-3693402.pdf
+[IEEE] 2026-5-29 | Safety-critical Dynamic Event-triggered Control of Self-organizing USV Swarms with Input Constraints via Reinforcement Learning
+[IEEE] 2026-5-29 | Management of Dissipative and Uncertain Trust in a Digital Twin based Control System for the MASS
+[IEEE] 2026-5-29 | Influence of Heat-Treatment on Magnetic Properties of Melt-Spun Fe-6.5wt.%Si Ribbons
+[IEEE] 2026-5-29 | IEEE Career Center
+[IEEE] 2026-5-29 | A Vertically Polarized Narrow Width High Gain Meander-Line Bidirectional Array Antenna Mounted on Large-Scale Metal Plane
+[IEEE] 2026-5-29 | Zero-Shot Face Authentication in Multi-User Scenarios Using Mmwave Signals
+[IEEE] 2026-5-29 | Wrench-Feasible Workspace Analysis of Mobile Cable-Driven Parallel Robot Considering both Tipping and Rotation Stability
+[IEEE] 2026-5-29 | Using Robotics to Improve Transcatheter Edge-to-Edge Repair of the Mitral Valve
+[IEEE] 2026-5-29 | A Fixed-Frequency Three-Level NPC-Based LCLC Resonant Converter With Inherent CC–CV Charging Capability
+[IEEE] 2026-5-29 | Optimal Design of Electric Machines Based on Pareto-Guided Active Learning Surrogate Model
+[IEEE] 2026-5-29 | IEEE Connects You to a Universe of Information!
+[IEEE] 2026-5-29 | Optimising dry powder inhalers for lung deposition with a DRL CFD coupled framework
+[IEEE] 2026-5-29 | Ultra-Steep-Slope and High-On/Off-Ratio P-Channel SnO Thin-Film Transistors via Monolithic Threshold-Switching Integration
+[IEEE] 2026-5-29 | MGA-CLIP: A Multigranularity Attribution Framework for Cross-Modal Explainability in CLIP
+[ACM] 2026-5-30 | Reconnecting Seniors with Blue Spaces: A Technology-Mediated Immersive Approach
+[ACM] 2026-5-30 | Brainy: a Virtual Pet Encouraging Digital Wellbeing
+[ACM] 2026-5-30 | Semantic Prompting: Agentic Incremental Narrative Refinement through Spatial Semantic Interaction
+[IEEE] 2026-5-29 | The Industrial Revolution of the Intelligence Age
+[IEEE] 2026-5-29 | Understanding Energy Megatrends: Drivers, Pathways, and Required Technologies
+[IEEE] 2026-5-29 | The Open Source Bug Hunter: When Smaller Models Outperform the Giants at Finding Faults
+[ACM] 2026-5-29 | Visual Attention and Cognitive Load in Text Relevance Assessment
+[ACM] 2026-5-29 | Professional Vision in Early Childhood Education: Mobile Eye-Tracking in Educator–Child Interactions
+[ACM] 2026-5-29 | Associations Between Eye-Tracking Dynamics and Cognitive Variability in Functionally Independent Older Adults
+[ACM] 2026-5-29 | GUARDIAN: Gaze User Authentication and Reference Detection for Integrity Analysis on Netflix
+[ACM] 2026-5-29 | Perceiving AI in Motion: A Mixed-Method Eye-Tracking Study of Social Diversity in AI-Based Mobility Systems
+[ACM] 2026-5-29 | Event-based Gaze Estimation via Spatial-Temporal Interaction
+[ACM] 2026-5-29 | Corneal Center Estimation Using Incident Planes Calculated by Polarization
+[ACM] 2026-5-29 | FBLayout: Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs
+[ACM] 2026-5-29 | [Emerging Ideas] Phonotonos: Through-Skin Ultrasonic Blood Flow Sensing Using Smartphones
+[IEEE] 2026-5-29 | Literary Emotions in Motion: A Soft Robotics Installation for Tactile Storytelling
+[IEEE] 2026-5-29 | NSGR: A Tile-Free 360° Video LIVE System With Edge Servers Enhancing Viewport Quality
+[IEEE] 2026-5-29 | Computer Highlights Society Magazines
+[IEEE] 2026-5-29 | Towards Robust Optical–SAR Object Detection under Missing Modalities: A Dynamic Quality-Aware Fusion Framework
+[IEEE] 2026-5-29 | EMF Exposure Application Using Both Cavity Filter and Mode-Matching Component at the 2.45 GHz ISM Band
+[IEEE] 2026-5-29 | Leader-Following Bipartite Consensus of Nonlinear Multiagent Systems With Input Saturation via Impulsive Control
+[IEEE] 2026-5-29 | Free-Position Wireless Power Transfer System for Lightweight Unmanned Aerial Vehicle Based on Multireceiver-Coil Design
+[IEEE] 2026-5-29 | Table of Contents
+[IEEE] 2026-5-29 | Rapeseed Yield Estimation by Assimilating a Novel SAR-Retrieved Canopy Parameter Considering Plant Structure and Regional Characteristics
+[IEEE] 2026-5-29 | A Multidimensional Comparative Survey of Hybrid Cloud-IoT Architectures for Healthcare: Towards a Fog-Mesh Synergistic Framework
+[IEEE] 2026-5-29 | Filtering and Accelerating: A Unified Framework for High-Performance Persistence Estimation_supp1-3695579.pdf
+[IEEE] 2026-5-29 | Event Temporal Upsampling through High Frame Rate Brightness Changes Estimation_supp1-3695939.pdf
+[IEEE] 2026-5-29 | Robust Broadband Shielding Effectiveness Characterization of Small Enclosures Using a Practical Hybrid Measurement Method
+[IEEE] 2026-5-29 | Stroke-based Cyclic Amplifier: Image Super-Resolution at Arbitrary Ultra-Large Scales_supp1-3695560.mp4
+[IEEE] 2026-5-29 | Explainable Causal Forecasting Model for Maximum Usable Frequency in HF Wireless Communications
+[IEEE] 2026-5-29 | On the Illusion of Gender Bias in Face Recognition: Explaining the Fairness Issue Through Non-demographic Attributes
+[ACM] 2026-5-29 | HealthServe: A Public Health-Aware Inference Framework
+[IEEE] 2026-5-29 | Game-Theoretic Optimization of Multiple Interfering Base Stations Deployment
+[ACM] 2026-5-30 | From Trust to Agency: Designing Child-Centred AI Interaction
+[ACM] 2026-5-30 | Augmenting Information Access in Cultural Virtual Tours through Automatic Artifact Segmentation
+[ACM] 2026-5-30 | Virtual augmentation of a simulated scenario for first aid operators training
+[ACM] 2026-5-30 | A Conceptual Framework to Foster Sustainability with Gamified Digital Twins
+[ACM] 2026-5-30 | Success Criteria for Evaluating Symbiotic AI Systems
+[ACM] 2026-5-30 | On Promoting Agency in People with Intellectual Disabilities in Co-Design
+[ACM] 2026-5-30 | The Industrialization of Messaging Scams in the LLM Era
+[ACM] 2026-5-29 | Unsupervised Profiling of L2 Reading from Eye Tracking Data in the MECO-L2 Dataset.
+[ACM] 2026-5-29 | Spontaneous Blink Features Extracted from Video for Multi-Class Classification of Parkinson’s Disease
+[ACM] 2026-5-29 | Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services
+[ACM] 2026-5-29 | TIPS: Thermal Image based Plastics Sorting
+[ACM] 2026-5-29 | KVSwap: Disk-aware KV Cache Offloading for Long-Context On-device Inference
+[ACM] 2026-5-29 | RELL-STC: An Efficient SpMM Extension of Sparse Tensor Core with Re-structured ELLPACK and Gustavson Dataflow
+[ACM] 2026-5-29 | EviDex: Provenance-Weighted Evidence-Path Indexing for Fresh and Auditable Retrieval under Continuous Updates
+[IEEE] 2026-5-29 | A Compact Metallic Cavity-Backed Slot Antenna Subarray for Space-Based ADS-B Reception
+[IEEE] 2026-5-29 | An Open Testbed for the TV 3.0 Application Coding Layer
+[IEEE] 2026-5-29 | Magnetic properties of the iron-based SMCs with Al
+                    <sub>2</sub>
+                    O
+                    <sub>3</sub>
+                    insulation
+[IEEE] 2026-5-29 | Task-tailored Pre-processing: Fair Downstream Supervised Learning_supp1-3697632.pdf
+[IEEE] 2026-5-29 | Robotic Steerable Sheath for Left Atrial Appendage Occlusion_supp1-3689692.pdf
+[IEEE] 2026-5-29 | CoDE-GAN: Consistency Diffusion Evolutionary Algorithm Based Neural Architecture Search for Generative Adversarial Networks
+[IEEE] 2026-5-29 | Visualizing definitional divergence in high-dimensional data by manifold alignment: Application to 3D right ventricular strain computations
+[IEEE] 2026-5-29 | Analysis of Land Subsidence Characteristics According to Reclamation and Construction Periods Using Sentinel-1 Time-Series Interferometry: A Case Study on The West Coast of South Korea
+[IEEE] 2026-5-29 | Toward Reliable and Secure Cloud Services With Fault-Tolerant Searchable Encryption
+[IEEE] 2026-5-29 | A Learning With Errors based Encryption Scheme for Dynamic Controllers that Discloses Residue Signal for Anomaly Detection
+[IEEE] 2026-5-29 | H-SMART: Hierarchical Self-Correcting Multi-Agent Reasoning for Robust Text Rendering
+[IEEE] 2026-5-29 | M
+                    <sup>3</sup>
+                    Detection: Multi-Frame Multi-Level Feature Fusion for Multi-Modal 3-D Object Detection With Camera and 4-D Imaging Radar
+[IEEE] 2026-5-29 | Twining Stems Inspired Soft Actuators with High Aspect Ratio: Design, Characterization, and Application
+[IEEE] 2026-5-29 | Structural-Semantic Topological Graph Matching and Map Alignment in Challenging Indoor Scenes
+[IEEE] 2026-5-29 | Point-Cloud-Assistant Localized Statistical Channel Prediction by Tangent Gaussian Splatting
+[IEEE] 2026-5-29 | Retracting Scientific Papers and Acknowledging Criminal Justice Failures
+[ACM] 2026-5-30 | MoCoRo: Towards A Modular Robotics Platform for Automated Cocktail Creation
+[ACM] 2026-5-30 | Detecting Intent in XR for Nonspeaking Autistic Typers
+[ACM] 2026-5-30 | Cyber Resilience in IoT Networks Revisited: Frameworks, Mechanisms, and Future Directions
+[ACM] 2026-5-29 | It is All About the Experience... My Highlights of QoMEX 2025 in Madrid
+[ACM] 2026-5-29 | Enabling Efficient Vector Processing: A Heterogeneous Vector Architecture with in-SRAM Computing
+[ACM] 2026-5-29 | A Greener Edge: A Framework on Carbon-aware Edge ML System Design
+[ACM] 2026-5-29 | VLMCache: Efficient On-Device Vision-Language Model Inference
+[ACM] 2026-5-29 | Ringmaster: How to juggle high-throughput host OS system calls from TrustZone TEEs
+[ACM] 2026-5-29 | Learning Where to Look: Spatial Prior Acquisition in Autism Spectrum Disorder
+[ACM] 2026-5-29 | MicroDuet: Dual Microscope Eye Tracking and Joint Visual Attention in Microsurgical Training
+[ACM] 2026-5-29 | Evaluating Eye-Tracking Challenges in Gaze-Controlled Musical Applications for Users with Motor Disabilities
+[ACM] 2026-5-29 | Exploratory Integration of EEG Spectral Features and Gaze Variability for Mild Cognitive Impairment Discrimination
+[ACM] 2026-5-29 | Hypernetwork-driven Weight Adaptation for Personalized PSOG Eye-Trackers
+[IEEE] 2026-5-29 | CoDrive-MLF: Empirical Validation of Cooperative Driving via a Multi-Layer V2V Evaluation Framework
+[IEEE] 2026-5-29 | GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection_supp1-3693684.pdf
+[IEEE] 2026-5-29 | Outage Analysis of Uplink Service Coexistence in LEO Satellite Networks With Rate-Splitting Grant-Free Transmission
+[IEEE] 2026-5-29 | A Novel Torque Sharing Function With Asymmetric Cooperative Operation System for Switched Reluctance Motors
+[IEEE] 2026-5-29 | Correcting Sea Surface Wind Model Outputs in the Western Tropical and Southwestern Atlantic Oceans using Scatterometer Data_supp1-3693093.docx
+[IEEE] 2026-5-29 | Table of Contents
+[IEEE] 2026-5-29 | Analysis of Grounding Structure Effects on Automotive Ethernet Using Unshielded Twisted Pair: Experimental and Simulation Study Under Bulk Current Injection Testing
+[IEEE] 2026-5-29 | Development of a novel spherical moderator counter with uniform energy response in 4π space
+[IEEE] 2026-5-29 | IEEE Security and Privacy Subscription
+[IEEE] 2026-5-29 | IEEE Transactions on Computers Call for Paper
+[ACM] 2026-5-29 | Towards Seeing Bones at Radio Frequency
+[ACM] 2026-5-30 | PaTGen: Temporal Similarity-Driven Proxy Benchmark Generation Method for Cloud Workloads
+[IEEE] 2026-5-29 | Hyperbolic Frequency Multicarrier Modulation for Wideband Linear Time-Varying Channels
+[ACM] 2026-5-30 | Proceedings of the 2026 International Conference on Advanced Visual Interfaces
+[ACM] 2026-5-30 | Immersive Reachability Planning for the Excavation of Cultural Heritage Objects
+[ACM] 2026-5-29 | [Emerging Ideas] ConCord: Human-in-the-Loop, Cooperative Robot Exploration
+[ACM] 2026-5-29 | AgentProg: Empowering Long-Horizon GUI Agents with Program-guided Context Management
+[ACM] 2026-5-29 | Proceedings of the 2026 Symposium on Eye Tracking Research and Applications
+[ACM] 2026-5-29 | How Close Can You Go? Minimum Eye-to-Screen Distance for EyeLink 1000 Plus
+[IEEE] 2026-5-29 | Experimental Analysis of Electrical Degradation in Eco-friendly Insulating Oil using a Scaled-down Transformer Internal Structure
+[IEEE] 2026-5-29 | End-to-End Spectrally Driven Colorimetric Calibration Framework for Color Imaging Systems
+[IEEE] 2026-5-29 | Pinching Antenna Systems: Waveguide-Power Loss and Free-Space Path Loss Trade-Off
+[IEEE] 2026-5-29 | Q-Learning-Based Improved Discrete PSO for Multi-Objective Flexible Job-Shop Scheduling with Worker Fatigue and Dual Resources
+[IEEE] 2026-5-29 | Vector-Space Global Collocation Method for Modeling Rod-Driven Parallel Continuum Manipulators
+[IEEE] 2026-5-29 | Modeling and Control for Automated Sewing of Stretchable Fabrics of Different Shapes
+[IEEE] 2026-5-29 | Automatic Current Balancing IPOP LLC Converter: A Full-Bridge Partial Power Processing Approach
+[IEEE] 2026-5-29 | Heuristic Proposal to Design and Assess Pervasiveness in Video Games
+[ACM] 2026-5-29 | Welcome Message from the SIGMM Executives
+[ACM] 2026-5-29 | Analyzing Symbolic Properties for DRL Agents in Systems and Networking
+[IEEE] 2026-5-29 | IEEE Pervasive Computing
+[IEEE] 2026-5-29 | A Sliced Learning Framework for Online Disturbance Identification in Quadrotor SO(3) Attitude Control_supp3-3689054.mp4
+[IEEE] 2026-5-29 | Erratum to “Deep Reinforcement Learning-Based eMBB and URLLC Service Multiplexing in Wireless NOMA Networks”
+[ACM] 2026-5-30 | Introduction to Graph Neural Networks for Machine Learning Engineers
+[ACM] 2026-5-30 | Transforming Natural Language into Knowledge Graph Queries with LinkQ: An Agentic Visual Interface
+[ACM] 2026-5-30 | Act on the present and peek into the past: A system for Asynchronous Immersive Analytics Collaboration
+[ACM] 2026-5-30 | Towards Safe and Comfortable Robotic Touch Interactions: Understanding Physical Interaction Parameters through Participatory Design of Robotic Touch Behaviors
+[ACM] 2026-5-29 | ZA-SLAM: Leveraging Vision-Language Model for Zero-Shot Acoustic SLAM
+[ACM] 2026-5-29 | Rethinking QoE in the Age of AI: From Algorithms to Experience-Based Evaluation
+[ACM] 2026-5-29 | Analysis of Always-Listening Services on Android
+[ACM] 2026-5-29 | An Affordable, Wearable Stereo-Eye-Tracking Platform
+[IEEE] 2026-5-29 | FlashShield: Detecting Flash Loan Attacks in DeFi Using Hypergraph Neural Network
+[IEEE] 2026-5-29 | DSAA-ViT: Density-Guided Split Axial Attention for PAM-4 Eye-Diagram Measurement
+[IEEE] 2026-5-29 | Design of Contactless D-Band MMIC-to-Waveguide Transition Based on Multilayer Waveguide and SiGe Technology
+[IEEE] 2026-5-29 | Descriptor:
+                    <i>Channel State Information for Digital Twin Dataset (CSI-DT)</i>
+[IEEE] 2026-5-29 | Descriptor: WiFi-Granular Activities in Kitchen Dataset (Wi-GRAK)
+[IEEE] 2026-5-29 | Quantum Week
+[IEEE] 2026-5-29 | Descriptor:
+                    <i>Electronic Device Domain Factoid Question-Answering Dataset (ElecDevQA)</i>
+[IEEE] 2026-5-29 | Robotic Steerable Sheath for Left Atrial Appendage Occlusion_supp2-3689692.png
+[IEEE] 2026-5-29 | <i>Listen in: How Radio Changed the Home</i>
+                    —Beaty Rubens (Oxford, U.K.: Bodleian Library Publishers, 2025, 259 pp.)
+[IEEE] 2026-5-29 | Assessing the Robustness of Prithvi Geospatial Foundation Model for Coastal Habitat Mapping under Data Availability and Domain Shift Scenarios
+[IEEE] 2026-5-29 | Efficient CSI-Based Indoor Human Activity Recognition System Optimized for Edge Devices
+[ACM] 2026-5-29 | MATER:
+                    <u>M</u>
+                    utually
+                    <u>A</u>
+                    ware Framework for
+                    <u>T</u>
+                    eleoperated-robot with
+                    <u>E</u>
+                    xtended
+                    <u>R</u>
+                    eality
+[ACM] 2026-5-29 | An Introduction to the Universal Chiplet Interconnect Express (UCIe)
+[ACM] 2026-5-30 | From 'Nice Try' to 'Nice Throw': Exploring Counterfactual Explanations as Corrective Feedback for Javelin Throwing
+[ACM] 2026-5-30 | Demonstrating Infrastructure-Free Indoor Occupancy Visualization using Passive BLE Sensing
+[ACM] 2026-5-29 | Control of Fixation Duration During Visual Search Task Execution
+[ACM] 2026-5-29 | Pinpointing Transmitting LEO Satellites from a Single Passive Array
+[ACM] 2026-5-29 | Introduction to the Special Issue on GeoAI Foundation Models and Their Applications, Part I
+[ACM] 2026-5-29 | Factor-Informed Uncertainty Distillation for Gaze Estimation
+[ACM] 2026-5-29 | Visualization Lenses for Time-Binned AOI Occupancy in Eye-Tracking Analysis
+[IEEE] 2026-5-29 | ARGO+: Achieving Multi-Level Scalable GNN Training on Distributed Multi-Core Platform
+[IEEE] 2026-5-29 | Reliability and Validity of IMU-Derived Kinematic Metrics of a Drinking Task in Stroke Survivors and Healthy Individuals
+[IEEE] 2026-5-29 | Update Your IEEE Profile
+[IEEE] 2026-5-29 | Silicluster v2: A Scalable Open-Source Multi-Project SoC Architecture in Sky130 CMOS Enabling High-Density Modular Integration
+[IEEE] 2026-5-29 | Robust Channel Estimation for Mobile Underwater Edge Nodes: A Mamba-Distilled Sparse Bayesian Learning Framework
+[IEEE] 2026-5-29 | IEEE Transactions on Big Data
+[IEEE] 2026-5-29 | Table of Contents
+[IEEE] 2026-5-29 | A GaN-on-Si Doherty-Like Power Amplifier With Nonimpedance-Inverter Transmission Line for Smart Mobile Handset
+[IEEE] 2026-5-29 | A Bidirectional and Polarization-Independent Meta-Glass with Enhanced Transmission Efficiency for mm-Wave 5G Applications
+[ACM] 2026-5-29 | UniCache: Unifying Prefix Cache Eviction for Heterogeneous LLM Serving Workloads
+[IEEE] 2026-5-29 | Should New Software Engineering Professors Do an Internship?: Before Teaching Software Engineering Standards to Future Software Engineers
+[IEEE] 2026-5-29 | Benefit–Risk Assessment in the Regulation of Pharmaceuticals
+[IEEE] 2026-5-29 | On the Speculative Terminology Surrounding AI
+[ACM] 2026-5-30 | A Visualization and Control Interface for Rhythmic Relations
+[ACM] 2026-5-30 | Understanding the Potential of Artificial Intelligence to Semi-automatically Generate Realistic 3D Interactive Models of Composite Objects
+[ACM] 2026-5-30 | Vision-Driven Design
+[ACM] 2026-5-29 | WISP: Waste- and Interference-Suppressed Distributed Speculative LLM Serving at the Edge via Dynamic Drafting and SLO-Aware Batching
+[IEEE] 2026-5-29 | Simulated-Annealing-Assisted Artificial Hummingbird Algorithm for Efficient Parcel Delivery in Smart City
+[IEEE] 2026-5-29 | VBT-MPC: Vision-Based Tactile MPC for Contour Following
+[IEEE] 2026-5-29 | Stretchable and Bendable Design of Pressure Sensor for Lower-Limb Motion Monitoring
+[IEEE] 2026-5-29 | IEEE Member Discount Program
+[IEEE] 2026-5-29 | IEEE App
+[IEEE] 2026-5-29 | Temperature-Well·Applications Thermo-Optic Signal Degradation in High-Temperature Downhole Fibers: From Spectral Attenuation to Phase Topology
+[IEEE] 2026-5-29 | Insights from Inside: Towards Explainable WiFi Sensing
+[IEEE] 2026-5-29 | Nonlinear Optimal Control for Mismatched Disturbance Rejection and Its Application to AGV
+[IEEE] 2026-5-29 | IEEE Circuits and Systems Society Information
+[IEEE] 2026-5-29 | Advancing No-Reference Point Cloud Quality Assessment via Leveraging Prior Knowledge From Ranking Learning
+[IEEE] 2026-5-29 | Active Amplifier-Based Sensing Metasurface
+[IEEE] 2026-5-29 | Setting the Standard of Excellence in Publications
+[IEEE] 2026-5-29 | Joint Port Selection and Phase Shift Optimization for Fluid Reconfigurable Intelligent Surfaces
+[IEEE] 2026-5-29 | IEEE IT Professionals Call for Articles
+[ACM] 2026-5-29 | On The Use Of Electroencephalography In Query Performance Prediction
+[ACM] 2026-5-29 | [Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI
+[ACM] 2026-5-29 | Predicting Eye-Tracking Metrics in French Texts with Language Models
+[ACM] 2026-5-29 | Gaze behavior in a dual VR head pointing-and-walking task
+[ACM] 2026-5-29 | Towards Enhancing Visual Reasoning through Gaze-Semantic Alignment and Attention Correction
+[ACM] 2026-5-29 | Inducing Global and Focal View in UML Class Diagram Comprehension
+[ACM] 2026-5-29 | View Crew: A Wearable Eye Tracker-Based Viewing Guide for Museum Self-Reflection
+[IEEE] 2026-5-29 | Semi-Persistent Queue-Assisted Carrier Aggregation for Non-GBR Traffic
+[ACM] 2026-5-30 | EmoRainbow: How Can Phygital Artefacts Support Emotional Regulation in Disaster Preparedness?
+[ACM] 2026-5-30 | An AI Tool for Gender Bias Analysis in News Publications
+[ACM] 2026-5-30 | Conceptual Alignment through Large Language Models: A Case Study in an Educational Context
+[ACM] 2026-5-29 | Gaze-informed Object Sequences for Egocentric Action Recognition using Deep Learning
+[ACM] 2026-5-29 | Cultural Accessibility: How Writing Direction and Pictorial Perspective Shape Gaze Dynamics
+[ACM] 2026-5-29 | BIONIC: A Co-Designed Hardware and Runtime for Time-Sensitive Battery-Free IoT
+[ACM] 2026-5-29 | Act Before It’s Too Late: Power-Efficient LLM Inference on Mobile Device
+[ACM] 2026-5-29 | TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References
+[ACM] 2026-5-29 | FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models
+[IEEE] 2026-5-29 | Malware Patching Strategies in Edge Intelligence IoT Systems: A Differential Games Approach With Spiking Neural Networks
+[ACM] 2026-5-29 | ECCentric: An Empirical Analysis of Quantum Error Correction Codes
+[IEEE] 2026-5-29 | Robotic Steerable Sheath for Left Atrial Appendage Occlusion_supp3-3689692.mp4
+[IEEE] 2026-5-29 | ATP-VLA: A Robust Grasping Framework Driven by Temporal Asymmetric Multimodal Fusion and Representation Isomorphism
+[IEEE] 2026-5-29 | Self-Adaptive Differential Evolution for Joint D-RIS Placement and Channel Estimation
+[IEEE] 2026-5-29 | Empirical Evidence of Quantum Kernel Concentration in Few-Shot Keyword Spotting
+[IEEE] 2026-5-29 | Distributed ISAC Resource Allocation for V2V Detection and Tracking
+[IEEE] 2026-5-29 | Introducing IEEE Collabratec
+[IEEE] 2026-5-29 | Locating Accountability and Centering the Margins for Ethical Technology Futures
+[ACM] 2026-5-30 | Wearable Rhythm: An Ambient Wearable for Promoting Awareness of Internal Rhythms
+[IEEE] 2026-5-29 | Agents of Change: Decoding Human Voices in Large Language Models
+[IEEE] 2026-5-29 | Joint Beamforming and UAV Deployment Optimization for ISAC-Enhanced UAV-Assisted VEC
+[ACM] 2026-5-29 | Quality of Multimedia Experience Meets Machine Intelligence
+[ACM] 2026-5-29 | MPEG Column: 153rd MPEG Meeting
+[IEEE] 2026-5-29 | Bio-inspired Optofluidic Molecular Communication with Photothermally Actuated Microrobot Swarms
+[IEEE] 2026-5-29 | Coarse Labels Matter: Revisiting the Role of Coarse-Grained Supervision in Fine-Grained Learning
+[IEEE] 2026-5-29 | Decouple-Then-Synergize: A Self-Paced Collaborative Learning Network for RGB-T Snowy Urban Scene Parsing
+[IEEE] 2026-5-29 | Topology-Guided Knowledge Transfer for Multiobjective Multitask Optimization_supp1-3696355.pdf
+[IEEE] 2026-5-29 | Bandwidth Enhancement of Low-Profile Glass-Based Substrate Integrated Cavity Antenna-in-Package
+[IEEE] 2026-5-29 | MuSL: Multimodal deep learning for generalizable prediction of synthetic lethality from sequence, transcriptomic, and network data
+[IEEE] 2026-5-29 | A Novel Flux-Shunt DC-Saturated Magneto-Controlled Transformer: Structure, Modeling and Implementation
+[IEEE] 2026-5-29 | Impulse Current Test System for High Frequency B-H Magnetic Ring Characterization
+[IEEE] 2026-5-29 | Front Cover
+[IEEE] 2026-5-29 | An analytical formula for stress-dependent anhysteretic behaviour
+[IEEE] 2026-5-29 | Three-Dimensional Decoupled Atomic Norm Minimization for NLoS Target Localization in RIS-Aided FDA-MIMO Radar Systems
+[ACM] 2026-5-29 | Imbalanced Multi-Domain Multi-Modal Learning with Expert Collaboration and Dynamic Fusion Mechanism for Fake News Detection
+[ACM] 2026-5-29 | Non-dyadic Mobile Multi-Robot System Interaction: A Systematic Literature Review
+[ACM] 2026-5-29 | PCREQ: Automated Inference of Compatible Requirements for Python Third-party Library Upgrades
+[ACM] 2026-5-29 | ADL-CLIP: Text-Aligned RF Representation for Continuous ADL Detection in Home Environments
+[ACM] 2026-5-29 | Introduction to the Special Section on USENIX OSDI 2025
+[ACM] 2026-5-29 | Analyzing the Relationship Between Reading Times and Lexical Complexity Prediction in Romanian
+[ACM] 2026-5-29 | A Standardized Comparison of Blink, Wink, and Dwell as Selection Methods for Gaze-based Interaction
+[ACM] 2026-5-29 | Dynamical Time Course Analysis of Real-Time Gaze Metrics
+[IEEE] 2026-5-29 | Partially Parallel Decoding for IRSA Over Fading and Noisy Channels
+[ACM] 2026-5-30 | NeuroHarmonium: An Interactive Neuroadaptive Musical Instrument Using Brain-Computer Interface and Neural Network Learning
+[ACM] 2026-5-30 | InvestChat: Exploring Multimodal Interaction via Natural Language, Touch, and Pen in an Investment Dashboard
+[ACM] 2026-5-30 | DirectionalIllusion: Displaying Different Images Based on Gaze Movement Directions using a High-Speed Projector
+[ACM] 2026-5-30 | Investigating the Design and Performance of Letter Chords
+[ACM] 2026-5-30 | Leveraging Large Language Models for Alt-Text Evaluation in E-Commerce: A Data-Driven Study
+[ACM] 2026-5-29 | Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices
+[ACM] 2026-5-29 | Prediction of Eye Dominance in VR
+[ACM] 2026-5-29 | Social Interaction Graphs for Eye Tracking
+[ACM] 2026-5-29 | Doctoral Consortium application Efficient lightweight Eye tracking algorithms aimed at Embedded solutions for smart eyewear
+[ACM] 2026-5-29 | MPEG Column: 152nd MPEG Meeting
+[IEEE] 2026-5-29 | Paving the Way for Point Cloud Video Representation Learning Using a PDE Model
+[IEEE] 2026-5-29 | A Bayesian Hierarchical Framework for Non-linear and Iterative Transfer Learning of Gaussian Process_supp1-3696225.pdf
+[IEEE] 2026-5-29 | IEEE Membership
+[IEEE] 2026-5-29 | Fast Adaptive Automatic Modulation Classification Under Non-Gaussian Impulsive Noise
+[IEEE] 2026-5-29 | A
+                    <i>Q-V</i>
+                    -Based Stability Criterion for Recurrent Fault Ride-Through in Grid-Following Converters
+[IEEE] 2026-5-29 | DSCAttenEMG: A Lightweight sEMG-Based Hand Gesture Recognition Model Via Depthwise Separable Convolution and Multi-Head Attention
+[IEEE] 2026-5-29 | A Rapid, Model-Based Method for Screening Machine Learning Algorithms for EV Retired Battery Capacity Estimation with Limited Pack-Level Data
+[IEEE] 2026-5-29 | I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling
+[IEEE] 2026-5-29 | Computing Through Time: Post-Industrial Revolution
+[IEEE] 2026-5-29 | Guiding Hyperspectral Tracking: A Cross-Modal Spatial Prompt and Dynamic Semantic Memory Framework
+[ACM] 2026-5-29 | Studying Webcam-based Gaze Estimation and Mouse Coordination for Cognitive Inferences
+[ACM] 2026-5-29 | Identifying Effective Program Comprehension Strategies through Gaze Transitions over Syntactic Elements
+[ACM] 2026-5-29 | GARB: A Gaze-Aware Reading Aid for the Browser
+[ACM] 2026-5-29 | Supporting Gaze Training for Microsurgical Suturing Using Task-Region Highlighting
+[ACM] 2026-5-29 | FOVAL: Subject-Adaptive, Calibration-Free Fixation Depth Estimation
+[ACM] 2026-5-29 | BeamMix: 3D Gaussian Mixture-of-Experts for Element-Space Wireless Channel Modeling
+[IEEE] 2026-5-29 | A V/E-Band Mixer With an Integrated Octave LO Tripler in 0.1-
+                    <i>μ</i>
+                    m GaAs pHEMT Technology
+[IEEE] 2026-5-29 | Multifrequency Hysteresis Compensation and Fuzzy-Adaptive Fast Terminal Sliding Mode for Piezoelectric Nanorobots
+[IEEE] 2026-5-29 | PRAD++: Towards Robust Periapical Radiograph Analysis through Dataset and Model Advancements
+[IEEE] 2026-5-29 | We Want to Hear From You!
+[IEEE] 2026-5-29 | Dynamics-Enhanced Dual-Energy Transition Control of Low-Capacitance Voltage-Doubler LCC Converter Based on High-Precision State-Trajectory Modeling
+[IEEE] 2026-5-29 | Machine Learning Approaches for Event Detection and Credibility Analysis in the Digital Information Environment: A Literature Review
+[IEEE] 2026-5-29 | Structure-Aware Matrix Pencil for Estimating the Number of Damped Complex Exponentials
+[ACM] 2026-5-29 | SemanticDFL: Similarity-Aware Pull-based Personalized Decentralized Federated Learning
+[ACM] 2026-5-30 | Navigating Uncertainty in a Virtual Supermarket: Designing a VR Tool to Promote Autonomy in Autistic Youth
+[ACM] 2026-5-30 | SCAPED: Spoken Conversational AI Platform for Experiments on Dialogue
+[IEEE] 2026-5-29 | Sensing-Assisted Secure Beamforming for RIS-Enabled ISAC With Leakage Suppression
+[IEEE] 2026-5-29 | Adaptive Current Filter Fusion Strategy Based on Indirect Supervised Mechanism in Magnetic Suspension Balances
+[IEEE] 2026-5-29 | AnAdaptive Graph Convolution-based Bi-level Planning Strategy for Urban Fast-Charging Stations in Electricity-Transportation Coupled Networks
+[IEEE] 2026-5-29 | Model Predictive Black Start for Dynamic Formation of DER-Led Microgrids with Inrush Current Impacts
+[IEEE] 2026-5-29 | HAECHI: Behavior-Aware Attacker-Centric Hierarchical Network Threat Detection Framework
+[IEEE] 2026-5-29 | Synergistic Effects of Protons and Heavy Ions Irradiation on Enhanced Dual-Trench SiC MOSFETs
+[IEEE] 2026-5-29 | Holographic imaging optofluidic platform for particles' three-dimensional location and reconstruction with physics-aware strategy
+[IEEE] 2026-5-29 | Reinforcement Learning-Based MPC for CAV Platoon Subject to Random Switching Communication Topologies and Disturbances
+[IEEE] 2026-5-29 | Boundary as Barrier: Boundary-Guided Coherence Refinement for Robust Semantic Segmentation
+[IEEE] 2026-5-29 | U-DiffPlan: Uncertainty-Aware Trajectory Prediction and Planning Via Diffusion for Strategic Autonomous Racing
+[IEEE] 2026-5-29 | Area and Energy Efficient Carry Select Adder utilizing Molecular Memristor
+[IEEE] 2026-5-29 | Trajectory Planning for Continuum Space Manipulators Based on Generalized Jacobian Operator
+[ACM] 2026-5-29 | d-HNSW: A High-performance Vector Search Engine on Disaggregated Memory
+[ACM] 2026-5-29 | Closing the Foveal Gap: Perceptually Grounded Scanpath Comparison with Disc IoU
+[ACM] 2026-5-29 | Eye-Tracking-Controlled Social Gameplay in Virtual Reality for Distance Learners
+[ACM] 2026-5-29 | Toward Always-On PSOG: Wearable Gaze Tracking System via a PPG-Derived Optical Analog Front-End
+[ACM] 2026-5-29 | How do we look at images through polygonal apertures: The PolyCAT Dataset
+[ACM] 2026-5-29 | Blind Spots of Pupillary Metrics and Recommended Reporting Standards
+[ACM] 2026-5-29 | MulDar: Unleashing the Potential of Distributed COTS mmWave Radar by Exploiting Cross-Device Channels
+[ACM] 2026-5-29 | DeformRF: Data-driven Beamforming and Direction Finding with Deformable Antenna Arrays
+[ACM] 2026-5-29 | Fragile Deliveries: Inconsistencies in Android Parcel and Their Security Consequences
+[ACM] 2026-5-29 | Diversified Neural Networks: Defeating Adversarial Attacks via Numerous Orthogonal Variants
+[IEEE] 2026-5-29 | Hope and Generational AI
+[IEEE] 2026-5-29 | Who Gets Left Behind? The Uncomfortable Questions Behind Homecare Innovation
+[ACM] 2026-5-30 | Visual Interface Design for Informal Language Acquisition with Machine Translation and LLMs
+[IEEE] 2026-5-29 | Robust Filtering for Multi-Object Tracking Against Stealthy Measurement-Oriented Adversarial Attacks_supp1-3697369.pdf
+[ACM] 2026-5-29 | ClassShift: Improving Fixation-to-Class Assignment in UML Class Diagrams
+[ACM] 2026-5-29 | Toward Understanding Multimodal Gaze-Enabled Exploratory Data Analysis in Visual Analytics
+[ACM] 2026-5-29 | Uncovering the effect of slippage on wearable eye trackers: a motion capture study
+[ACM] 2026-5-29 | What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metrics
+[ACM] 2026-5-29 | Massively Parallel In-Memory Computing via Frequency Multiplexing in Ferroelectric Capacitive Memory Arrays
+[IEEE] 2026-5-29 | Design Methodology for a
+                    <i>CLLLC</i>
+                    Resonant Dual Active Bridge Converter with Minimized RMS Current and ZVS Operation for Predefined EV Charging Profile
+[ACM] 2026-5-29 | PEMI: Transparent Performance Enhancements for QUIC
+[ACM] 2026-5-29 | cuPTW: Leveraging Idle Compute Units for Massively Parallel GPU Page Table Walks
+[ACM] 2026-5-30 | From Motion Data to Meaning: Towards Human-Centered and Interpretable Movement Analysis Interfaces
+[ACM] 2026-5-30 | TombWriter: Scaffolding Story Archeology through Beat-Level Interaction in Human-AI Co-Writing
+[ACM] 2026-5-30 | Revealing Nature's Heartbeats: A Playful Experience for Teens
+[ACM] 2026-5-29 | Shift-Left Techniques in Electronic Design Automation: A Survey
+[ACM] 2026-5-29 | From ITS to EyeTS: Utilizing Eye Tracking for Context and Proactivity in Intelligent Tutoring Systems
+[ACM] 2026-5-29 | Train the Spire: An ML-Driven Single Player GWAP for Image Annotation
+[ACM] 2026-5-29 | VIVA Stimuli: A Web-Based Platform for Eye Tracking Stimuli
+[ACM] 2026-5-29 | An Empirical Study of Privacy-Utility Trade-offs in Gaze-Based Authentication for Extended Reality
+[ACM] 2026-5-29 | Internal vs. External Attention: Context-Agnostic Classification from Gaze Kinematics
+[ACM] 2026-5-29 | The Linear Session Abstract Machine
+[ACM] 2026-5-29 | SpMAP: Transparent Sparsity for LLMs
+[IEEE] 2026-5-29 | A 4 × 112-GBaud Linear PAM-4 TIA With 65-GHz Bandwidth and 13.2-pA/ Input Noise for 1.6-T Optical Links
+[IEEE] 2026-5-29 | Blank Space: Adaptive Causal Coding for Streaming Communications Over Multi-Hop Networks
+[IEEE] 2026-5-29 | Visual servo tracking control for robot manipulator via Koopman operator-based disturbance observer
+[IEEE] 2026-5-29 | Standards Compliant Cross Layer Coordinated Middleware for Time Sensitive 6G Embedded Education Management Systems
+[IEEE] 2026-5-29 | Personalized Cycle-to-Failure Correction Method for New Electric Vehicle Lithium Batteries Based on Safety State Constraints and Bayesian Hybrid Reasoning
+[IEEE] 2026-5-29 | A Survey of Functional Testing and Validation of Quantum Circuits
+[IEEE] 2026-5-29 | BSTAR Parameter Correction and Improved Orbit Prediction Accuracy for Low-Earth Orbit Space Objects Based on LR-MS-TCN
+[IEEE] 2026-5-29 | A Communication-Centric 6G–LLM Architecture for Scalable Tactical Autonomous Defense Vehicle Networks
+[IEEE] 2026-5-29 | To the Moon and Back: Scaling GPT-5 for the Future of AI
+[IEEE] 2026-5-29 | Collective Care for Ethical Innovation: Applying the “Binder Test” to Home Care Technologies
+[ACM] 2026-5-30 | Enhancing Pointing Gestures of Non-HMD Users in Asymmetric Collocated Mixed Reality Collaboration
+[ACM] 2026-5-30 | From Answer to Audio: Visual Traceability for AI-Assisted Meeting Retrieval
+[ACM] 2026-5-29 | AquaCode: Turning Transaction Platforms into Non-Invasive Liquid Quality Checker
+[ACM] 2026-5-29 | Physical Self-Supervised Learning: IMU Sensing without Manual Labels
+[ACM] 2026-5-29 | TimelyLLM: Time-sensitive LLM Serving System for Physical-I/O Limited Agents
+[ACM] 2026-5-29 | HoloMobile: Photorealistic Avatar on Mobile via Compact Dynamic Gaussians from a Monocular Video
+[ACM] 2026-5-29 | Quantitative Equational Logic
+[IEEE] 2026-5-29 | A Robust Framework based on Embedding Projection Learning for Intelligent Process Monitoring_supp1-3697096.docx
+[IEEE] 2026-5-29 | Machine Learning for Metamaterial Design: Methods, Challenges, and Future Perspectives
+[IEEE] 2026-5-29 | Comparative Insights into NeRF 3D Scalability
+[IEEE] 2026-5-29 | LOPAL: Local Performance-Aware Active Learning from Imperfect Demonstrations
+[IEEE] 2026-5-29 | Wasserstein bounds for non-linear Gaussian filters
+[IEEE] 2026-5-29 | Mosaic Entropy: A Novel Widely-Applicable Measure for Two-Dimensional Irregularity Analysis_supp1-3697682.pdf
+[IEEE] 2026-5-29 | Reliability Test Techniques in Tabu Search Detection for Enhancing BER Performance of Array Reader Bit-Patterned Magnetic Recording Systems
+[IEEE] 2026-5-29 | From Space to Economy: Deep Learning Fusion of Remote Sensing Data for Sub-National GDP Estimation
+[IEEE] 2026-5-29 | Vulnerability Analysis of Multi-Timescale DC Microgrids under False Data Injection Attacks
+[IEEE] 2026-5-29 | Near-Field Radio Simultaneous Localization and Mapping
+[IEEE] 2026-5-29 | Low Harmonic Alternating Convex-Concave Modulation Strategy for Multi-Port Matrix Converter
+[IEEE] 2026-5-29 | Unified Energy Function Tailored to Inverter-Based Resources with PI Controllers for Transient Stability Analysis
+[IEEE] 2026-5-29 | Ethical Synthetic Text Generation for Vulnerable Populations Using Large Language Models: A Comprehensive Survey
+[IEEE] 2026-5-29 | Design and characterization of a dense linear array EMAT based on spatial vertical winding coils for high-resolution imaging
+[ACM] 2026-5-29 | Minos: Systematically Classifying Performance and Power Characteristics of GPU Workloads on HPC Clusters
+[IEEE] 2026-5-29 | Megatrends in Biomedical AI for Health Care From Data Foundations to Clinical Deployment
+[IEEE] 2026-5-29 | The Conversational Exam: A Scalable Assessment Design for the AI Era
+[ACM] 2026-5-30 | Designing Advanced Interfaces for Learning and Teaching
+[ACM] 2026-5-30 | INI-DH 2026: 2nd Workshop on Innovative Interfaces in Digital Healthcare
+[ACM] 2026-5-30 | CoPDA2026: Exploring the Relationship between EUD, AI-Assisted Development, and Meta-Design
+[ACM] 2026-5-30 | Cloud-9: A Multimodal Interaction Paradigm for Assisted and Automated Parking Adoption
+[ACM] 2026-5-30 | When AI Lies with Charts: Misleading Infographics in Text-to-Image Generation
+[ACM] 2026-5-30 | LLMs to Support Speech Therapists in Creating Exercises: a Preliminary Study
+[ACM] 2026-5-30 | Evaluating the Feasibility of Superposed QR Code Attacks Using High Refresh Rate Displays
+[ACM] 2026-5-30 | Voices from the Lagoon
+[ACM] 2026-5-29 | Cyber Threat Intelligence Based Resource Allocation Model for  IoE-Edge
+[ACM] 2026-5-29 | Capacitive Eye Tracking: a First Fully-Embedded Demonstrator
+[ACM] 2026-5-29 | Searching for Eye Movement Correlates of Mental Fatigue When Working with Gaze-Controlled Software Using Low-Cost Eye Trackers
+[ACM] 2026-5-29 | Computational Operationalization Choices for Spatial Data Quality in Screen-Based Eye Tracking
+[ACM] 2026-5-29 | [Emerging Ideas] Towards Practical Metabolic Sensing with Wearable TEGs
+[ACM] 2026-5-29 | [Emerging Ideas] OrbitTransit: Traffic Delivery and Diffusion for Earth Observation via Satellite Mobility
+[ACM] 2026-5-29 | SpecSentry: Micro-power Wideband Spectrum Surveillance for Ephemeral Transmissions
+[ACM] 2026-5-29 | ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference
+[IEEE] 2026-5-29 | 4D Imaging in ISAC Systems: A Framework Based on 5G NR Downlink Signals
+[IEEE] 2026-5-29 | KGDNet: Knowledge-Guided Decoupled Modeling of Heterogeneous Change Mechanisms for Remote Sensing Change Detection
+[IEEE] 2026-5-29 | Enhancing Speed of Piezoelectric Inchworm Actuator by a Monolithic Duple-Step Driving-Clamping Mechanism
+[IEEE] 2026-5-29 | Efficient and Effective Personalized In-Context Learning for On-device Large Model Services
+[IEEE] 2026-5-29 | Practical Lossless Volumetric Medical Image Compression via Tri-plane Context Tree Learning
+[IEEE] 2026-5-29 | An Adaptive PI-Based Current Balancing Control Method for the Unbalanced Three-Phase
+                    <i>LLC</i>
+                    Resonant Converter
+[IEEE] 2026-5-29 | Multi-Stage Optimization of Multi-Truck-Drone Cooperative Emergency Delivery Under Progressive Road Recovery
+[IEEE] 2026-5-29 | Online Max-Min Fairness Guarantee for Request Completion Rates in Collaborative Edge Inference
+[IEEE] 2026-5-29 | Performance Evaluation and Optimization of TiO₂-Based Nano-Modified Natural Ester–Mineral Oil Blends for Transformer Insulation using PCA-Integrated MCDM Techniques
+[ACM] 2026-5-30 | Introduction to the Special Issue on Trustworthy Security and Privacy-AI Powered Autonomous Driving
+[ACM] 2026-5-30 | Beyond Analog Mimicry: Reframing Digital Automotive Dashboards for Awareness-Driven Driving Experience
+[ACM] 2026-5-30 | Towards Design Guidelines to Support Young Adults' Digital Wellbeing with Large Language Models
+[ACM] 2026-5-30 | Trustworthy Recommender Systems for Multiple Stakeholders
+[ACM] 2026-5-30 | Navigating the Pattern Maze: A Human-Centered Investigation into Structuring Web Design Patterns
+[ACM] 2026-5-30 | Designing Adaptive AI Assistance for Block-Based Modelling: a Wizard of Oz Study with Domain Experts
+[ACM] 2026-5-29 | Open-source event-related pupillometry using PupilEXT
+[IEEE] 2026-5-29 | A Systematic Methodology for Deriving Executable Attack Scenarios in Electric Vehicle Charging Infrastructure
+[IEEE] 2026-5-29 | Secure Digital Semantic Communications: Fundamentals, Challenges, and Opportunities
+[IEEE] 2026-5-29 | Wearable Guiding System with Traction-Kinesthetic Feedback for the Visually Impaired
+[IEEE] 2026-5-29 | CodeAct: Codebook-guided Multi-skill Integration for Dynamic Humanoid Whole-body Control
+[IEEE] 2026-5-29 | Improving Generalization in Deepfake Detection with Feature-Space Adversarial Consistency
+[IEEE] 2026-5-29 | High-order Feature-Guided Efficient Semantic Communication System for Point Cloud Transmission
+[IEEE] 2026-5-29 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp2-3691061.mp4
+[IEEE] 2026-5-29 | A Novel Bidirectional DC Solid-State Circuit Breaker With High DC Voltage Utilization Ratio
+[IEEE] 2026-5-29 | Model Predictive Based Distributed MPPT Control for Modular DC–DC Converters in Thermoelectric Generator Systems
+[IEEE] 2026-5-29 | Beyond Correlation: Causal Intervention for Multi-Label Medical Image Diagnosis
+[IEEE] 2026-5-29 | IEEE Technology and Society Magazine Publication Information
+[IEEE] 2026-5-29 | Study and evaluation of optimal placement of applications in mixed environments including quantum computers for environmental adaptation
+[IEEE] 2026-5-29 | Mechanistic Insights into Voltage Maintaining Performance of Dielectric Films: Material Dependence and Field Effects
+[ACM] 2026-5-29 | The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences
+[ACM] 2026-5-29 | Performance Analysis of the Randomized SIEVE/CLOCK Cache Replacement Algorithm
+[ACM] 2026-5-29 | Analyzing C/C++ Library Migrations at the Package-level: Prevalence, Domains, Targets and Rationales across Seven Package Management Tools
+[IEEE] 2026-5-29 | Unveiling the Potential of iMarkers: Invisible Fiducial Markers for Advanced Robotics
+[IEEE] 2026-5-29 | A Practical Framework for Complex Interrupted Sampling Repeater Jamming Parameter Measurement
+[IEEE] 2026-5-29 | Analysis of Magnetic Domain Transition for Magnetostrictive Co-Nb-Zr thin film strips with inclined uniaxial easy-axis
+[IEEE] 2026-5-29 | IEEE Computer Society Call for Papers
+[IEEE] 2026-5-29 | Your AI-Generated Assets May Not Be Yours
+[ACM] 2026-5-30 | Visual Diffs: Towards Versioning of Tactons
+[ACM] 2026-5-30 | GeoMINDS: a Web-Based Framework to Flexibly Instantiate Multi-Surface Interfaces for Spatial Decision-Making
+[ACM] 2026-5-30 | Does Removing Pen Pressure in Cost-Cutting Pen Designs Matter for Handwritten Learning in Education? A Case Study of Geometry Problem Solving
+[ACM] 2026-5-30 | CIVICS - Citizen Science Advanced Interfaces: from Sensing to Sensemaking
+[ACM] 2026-5-30 | Time WizARd: Exploring the Use of Augmented Reality for Supporting Multitask Timekeeping in Kitchen Cooking
+[ACM] 2026-5-30 | Glyphspace: An Integrated Browser-Based Workflow for Glyph-Enriched Dimensionality Reduction
+[ACM] 2026-5-30 | DeepSoil: Physics-Guided Learning for High-Resolution Soil Moisture Mapping from Surface to Root-Zone via Multimodal Sensing and Process-Based Modeling
+[ACM] 2026-5-30 | Token Mines: A Defense Against Agents and Large Language Models
+[ACM] 2026-5-29 | Optimizing the nighttime identity of the city. The search for a sustainable solution for architectural illumination using eye-tracking technology.
+[ACM] 2026-5-29 | PyeLink and SyeLink: Open-source Python tools for low-level EyeLink experiment control and data parsing
+[ACM] 2026-5-29 | MCFW-Gaze: MultiContext Free-Web Gaze Dataset
+[ACM] 2026-5-29 | Investigating Fatigue in a 16-Hour Simulated Workday Using Eye-Tracking in VR
+[IEEE] 2026-5-29 | Self-supervised T2WI-bridged framework for liver segmentation and PDFF prediction from US images
+[IEEE] 2026-5-29 | Quantitative Trust and Behavioral Measurement Tools for Optimizing Human–Robot Interaction
+[IEEE] 2026-5-29 | QDS-SNN: Energy-efficient Quantum Deeply-Supervised Spiking Neural Network Algorithm for Traffic Sign Recognition
+[IEEE] 2026-5-29 | Partial Discharge Pattern Classification in High-Voltage Equipment: A Probabilistic Diagnostic Approach
+[IEEE] 2026-5-29 | DANCE: A Lightweight Dynamic Adapter Network for Real-Time Traffic Accident Anticipation
+[IEEE] 2026-5-29 | Analysis of Brain-Assisted Speech Enhancement Models Incorporating Auditory Attention Decoding
+[IEEE] 2026-5-29 | AdPrST:An Adversarial Graph Deep Learning Pre-clustering Framework for Deciphering Spatiotemporal Structures in Spatially Resolved Transcriptomics_supp1-3697726.pdf
+[IEEE] 2026-5-29 | Digital Twin Channel-Based CSI Prediction: An Environment-Based Subspace Extraction Approach for Achieving Low Overhead and High Robustness
+[IEEE] 2026-5-29 | IEEE Computer Society Information
+[IEEE] 2026-5-29 | A Sliced Learning Framework for Online Disturbance Identification in Quadrotor SO(3) Attitude Control_supp2-3689054.mp4
+[IEEE] 2026-5-29 | Explainable and Conflict-Aware Cell Sleep Control in O-RAN via Monotonic Neural Additive Models
+[IEEE] 2026-5-29 | SF-DynFinGC: Scale-Free Dynamic Graph Construction for Event-Driven Spatio-Temporal Learning in Financial Anomaly Detection
+[IEEE] 2026-5-29 | Tackling the Malicious Gradients in Decentralized Learning by Reversible Differential Privacy and Secure History-Aware Aggregation
+[ACM] 2026-5-30 | A Multi-Agent AI System for Human-in-the-Loop Cognitive Walkthrough
+[ACM] 2026-5-30 | Telling Where You Are Without Saying Too Much
+[ACM] 2026-5-30 | Designing and Building Hybrid Human–AI Systems (SYNERGY 2026)
+[ACM] 2026-5-30 | Can Human Gaze Supervision Improve VLM Robustness to Misleading Data Visualizations?
+[ACM] 2026-5-30 | Advances in Map-based Interfaces and Interactions – MAPII
+[ACM] 2026-5-30 | Digital Tools for Connecting with Blue Spaces
+[ACM] 2026-5-30 | Using Open-Ended Elicitation to Explore Adults' Virtual-Object Interaction Preferences in AR Headsets
+[ACM] 2026-5-30 | Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes
+[IEEE] 2026-5-29 | Event-Triggered Adaptive Enhanced Fast Terminal Sliding Mode Control Based on
+                    <i>K</i>
+                    <sub>∞</sub>
+                    Functions for Quadrotor UAVs
+[IEEE] 2026-5-29 | Zero-Axis Control Based Battery Impedance Identification in Series-end Winding Motor Drives
+[IEEE] 2026-5-29 | Human-in-the-loop Control Framework for Robot-mediated Error Augmentation Training Based on Muscle Synergy Assessment
+[IEEE] 2026-5-29 | Self-supervised Representation Learning for Dynamic Functional Connectivity with Subject-wise and Temporal Contrasts
+[IEEE] 2026-5-29 | Demand-Aware Multi-Area Multi-UAV Empowered Mobile Edge Computing: A Joint Energy and Delay Optimization_supp1-3697839.pdf
+[IEEE] 2026-5-29 | Randomization Mechanism Based on Elliptical Distributions for Location Privacy in Geo-Indistinguishability
+[IEEE] 2026-5-29 | Phenyl-Based Intrinsic Modification for Enhanced Interfacial Reliability of Silicone Gel in High Voltage Power Module Packaging
+[IEEE] 2026-5-29 | IEEE Computing Edge
+[IEEE] 2026-5-29 | IEEE Computer Society Grants for Emerging Technologies
+[IEEE] 2026-5-29 | A Sliced Learning Framework for Online Disturbance Identification in Quadrotor SO(3) Attitude Control_supp1-3689054.pdf
+[IEEE] 2026-5-29 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp3-3691061.mp4
+[IEEE] 2026-5-29 | Grid-Aligned Particle Swarm for Large-Scale Multiobjective Optimization
+[IEEE] 2026-5-29 | Direct Parameter Mapping Optimization Control of LCC Resonant Converter for Distributed Photovoltaics
+[IEEE] 2026-5-29 | Artificial Micro-Doppler Flashes for Aerial Vehicle Identification: Drone Vehicle Identification Number via Blade Coding
+[ACM] 2026-5-29 | Analyzing Visual Attention Patterns During Band Rehearsal with Mobile Eye Tracking
+[ACM] 2026-5-29 | Fixation Sequences as Time Series: A Topological Approach to Dyslexia Detection
+[ACM] 2026-5-29 | Is this it? Benchmarking Scanpath Metrics for Information Display
+[ACM] 2026-5-29 | Accurate 3D Gaze Estimation in a Controlled Environment using Gaze-tracking Glasses and Motion Capture
+[ACM] 2026-5-29 | Are We Ready to Enable Satellite Autonomy Through on Board Image Registration?
+[ACM] 2026-5-29 | Mobile GUI Agents under Real-world Threats: Are We There Yet?
+[ACM] 2026-5-29 | GlucOS: Security, correctness, and simplicity for automated insulin delivery
+[ACM] 2026-5-29 | VQEG Column: Finalization of Recommendation Series P.1204, a Multi-Model Video Quality Evaluation Standard — The New Standards P.1204.1 and P.1204.2
+[ACM] 2026-5-30 | Always Controlled by What We Control: Rewiring Algorithmic Perception in an Interactive Installation
+[ACM] 2026-5-30 | Evaluation of Advanced Multimodal Interfaces: Towards New Methodologies
+[ACM] 2026-5-30 | InsightAR: A Tool for Multi-modal Summarization and Interactive Analysis of AR-based Egocentric Task Videos
+[ACM] 2026-5-30 | Training Station: A Learning Ecosystem for an Inclusive AI Workforce
+[ACM] 2026-5-30 | Geometries of Navigation: A Comparative Study of Transit Map Layouts
+[ACM] 2026-5-30 | EmoArc: Interactive Emotion Graph for Human-AI Collaborative Writing
+[ACM] 2026-5-30 | Beyond Distance Metrics: A Nested Model of Similarity in Visual Art Search
+[ACM] 2026-5-29 | The MediaEval Benchmark Looks Back at a Successful Fifteenth Edition, and Forward to its Sweet Sixteen
+[ACM] 2026-5-29 | DeepNurse: Self-healing Neural Networks for Unknown Domains
+[ACM] 2026-5-29 | BlenDR: Bandwidth-efficient RGB-D Representation and Delivery for Live 3D Video Streaming
+[ACM] 2026-5-29 | Wideband Low-complexity High-speed 5G NR Backscatter
+[ACM] 2026-5-29 | Gaze patterns predict preference and confidence in pairwise AI image evaluation
+[ACM] 2026-5-29 | Synonym Knowledge Graph Enhanced Language Model for Inconsistent Hallucination Detection
+[IEEE] 2026-5-29 | Masthead
+[IEEE] 2026-5-29 | Wildfire Occurrence Prediction via Modular Reuse of Frozen Intermediate Gemma 3-1B Decoder Blocks
+[IEEE] 2026-5-29 | Design and Control of a Multimodal Rotor-Assisted Pendulum-Driven Spherical Robot
+[IEEE] 2026-5-29 | Influence of Epitaxial Layer Thickness on the Holding Voltage Scalability of Bi-directional SCR Devices
+[IEEE] 2026-5-29 | Blank Page
+[IEEE] 2026-5-29 | Cross-Project Flakiness: A Case Study of the OpenStack Ecosystem
+[IEEE] 2026-5-29 | A Low Power Consumption Software PUF Based on Video Coding Hardware for Image Frame Encryption
+[IEEE] 2026-5-29 | Adaptive Measurement Noise for Robust Kalman Filtering in Smart Beehive Telemetry
+[IEEE] 2026-5-29 | LNeRV: Disentangled Latent Representation for Semantic-Aware Video Dynamics Modeling
+[IEEE] 2026-5-29 | Transmission-Line Coupled Reconfigurable Intelligent Surfaces Under Partial Illumination
+[IEEE] 2026-5-29 | A Novel Circularly Polarized Wideband Folded Fresnel Lens Antenna with Out-of-band Suppression
+[IEEE] 2026-5-29 | Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion
+[IEEE] 2026-5-29 | Closed-Form SINR Expression of Precoding Techniques in Cell-Free Massive MIMO over Rician Fading Channels
+[IEEE] 2026-5-29 | Privacy-Preserving Data Completion With Location and Value Obfuscation in Spatial Crowdsourcing
+[IEEE] 2026-5-29 | Depth–Normals Fusion and Photometric Stereo Errors Self-Correction using Joint Optimization
+[ACM] 2026-5-29 | Optimizing Dropout in LLM Training: Performance Comparison of Fusion and Overlap
+[ACM] 2026-5-29 | The Price of Strategic Information: Degree-Based Bounds on Inefficiency in Distributed Learning Games
+[IEEE] 2026-5-29 | Open Source Governance Practices: A Path to Improving Sustainability
+[ACM] 2026-5-30 | BonGO: Reimagining the In-Car Experience through Phygital Interaction and AI-Driven Narrative Co-Creation
+[ACM] 2026-5-29 | Preliminary Eye Tracking Evidence of Visual Search Differences in Cerebral Visual Impairment
+[ACM] 2026-5-29 | Visitor and Kangaroo as a Large-Scale AOI-Structured Yarbus Replication Dataset
+[ACM] 2026-5-29 | Designing Implicit Gaze-Aware Interactions for Scatterplot Analysis
+[ACM] 2026-5-29 | Dual Eye Gaze in Surgical Training: Customizing Mobile Eye Tracking for Narrow Operating FOV
+[ACM] 2026-5-29 | Microwatt Microwave (M²) Oscillator: Going Beyond the Delegation Architecture of Low-power Wireless Communication
+[ACM] 2026-5-29 | Agent-X: Full Pipeline Acceleration of On-device AI Agents
+[ACM] 2026-5-29 | Fine-grained Soundscape Control for Augmented Hearing
+[IEEE] 2026-5-29 | Governed Discrete Integral Sliding Mode Control for Twisted-Coiled Polymer Actuators
+[IEEE] 2026-5-29 | Scatterer Trajectory Association Based on Motion Model for ISAR Image Sequence and Analysis of Influence Factors
+[IEEE] 2026-5-29 | Learning Fine-Grained Urban Mobility Dynamics Through Large Model-Enhanced Multimodal Representations
+[IEEE] 2026-5-29 | On-Device Generalizable Acoustic NLoS Identification via IQ Trajectory Representation
+[IEEE] 2026-5-29 | Table of Contents
+[IEEE] 2026-5-29 | 50 &amp;amp; 25 Years Ago
+[IEEE] 2026-5-29 | Generalizable Link Adaptation for NR Systems Based on Meta Deep Reinforcement Learning
+[IEEE] 2026-5-29 | Emergent Bifurcations in Quantum Circuit Stability from Hidden Parameter Statistics
+[IEEE] 2026-5-29 | Sustainable Recycling of Waste Aramid Paper Enabled by PAR Nanofiber Interlocking for High-Performance Insulation Applications
+[IEEE] 2026-5-29 | Event-Triggered Adaptive Neural Trajectory Tracking Control of Uncrewed Surface Vehicle With Output Constraints and Quantization
+[IEEE] 2026-5-29 | Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization
+[IEEE] 2026-5-29 | Chat-Driven Reconfiguration of Model Predictive Control
+[IEEE] 2026-5-29 | IEEE Journal of Quantum Electronics Publication Information
+[IEEE] 2026-5-29 | IEEE Journal of Quantum Electronics Information for Authors
+[IEEE] 2026-5-29 | Generative AI-enabled energy-efficient CRSNs for Consumer electronics applications in smart healthcare: An IoT Approach
+[IEEE] 2026-5-29 | In-Context Meta-Learning-Based Model Predictive Contouring Control for Unmanned Surface Vehicles
+[IEEE] 2026-5-29 | A Maximum Torque Per Loss Control Strategy for IPMSM Drive System Based on Torque Closed-Loop
+[IEEE] 2026-5-29 | Multi-band, multi-GNSS polarimetric GNSS-R observations from SCOMAG airborne campaign
+[IEEE] 2026-5-29 | Modeling, Analysis, and Control of Active Distribution Networks with Smart Loads
+[IEEE] 2026-5-29 | Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation
+[IEEE] 2026-5-29 | VerTE-MT: A Multi-Task Framework with Entropy-Guided Sampling for Vertebrae Segmentation and Localisation in CT
+[ACM] 2026-5-29 | LPGSim: A Lightweight Parallel GPU Simulator Maximizing Speed with Trustworthy Simulation
+[ACM] 2026-5-30 | Future Horizons in Human–AI Interaction: Joint Perspectives from HCI and AI
+[IEEE] 2026-5-29 | Dimension-Independent Channel Estimation for RIS-Assisted Communications: From Cascaded to Separate
+[IEEE] 2026-5-29 | Enhanced Pilot Design for Collision-Resilient Unsourced Random Access in Massive MIMO
+[ACM] 2026-5-30 | Mathematical Foundations and Deep Learning Models for Deepfake Detection
+[ACM] 2026-5-29 | Rapid Plant Health Monitoring for Leafy Greens through Carbon Dioxide Sensing
+[ACM] 2026-5-29 | Experiencing Creativity in Upper Secondary Level Computer Science in Ireland: the synergistic role of Content, Pedagogy and Assessment
+[ACM] 2026-5-29 | Watching in the Rhythm: The Attentional Microstructure in Aesthetic Image Viewing
+[ACM] 2026-5-29 | Susceptibility to High-Fidelity Misinformation: An Eye-Tracking Analysis
+[ACM] 2026-5-29 | Lightweight Neural Networks for Event-Based 3D Gaze Estimation on Wearable Devices
+[ACM] 2026-5-29 | Finding Workload in the Wild: Recovering Latent Cognitive Dynamics Jointly from Eye Metrics and Driving Telemetry
+[IEEE] 2026-5-29 | Cooperative Drone-Vehicle Mobile Edge Computing for Low-Altitude Inspection
+[IEEE] 2026-5-29 | Finite-Time Stability of Switched Nonlinear Systems With Partially Unstable Modes via Hybrid Switching
+[IEEE] 2026-5-29 | Investigating the Properties of Kilohertz Coaxial Self-Resonant Structures for Inductive Power Transfer
+[IEEE] 2026-5-29 | IEEE Computer Society Membership
+[IEEE] 2026-5-29 | High-Quality Entity Segmentation and Grounding
+[IEEE] 2026-5-29 | UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift
+[IEEE] 2026-5-29 | EvTurb: Event Camera Guided Turbulence Removal_supp1-3697623.pdf
+[IEEE] 2026-5-29 | Optimal Temperature-Constrained Charging of IMC Trolleybuses at Low Speeds and Standstill
+[IEEE] 2026-5-29 | DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model
+[IEEE] 2026-5-29 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp5-3691061.mp4
+[IEEE] 2026-5-29 | A Stiffness-Adaptive Visuo-Tactile Robotic Palpation System for Surface Texture Profiling and Deep Lesion Localization_supp2-3691370.pdf
+[IEEE] 2026-5-29 | An Efficient Optimal Trajectory Planning and Control Framework for Quadruped Robot Jumping Through Constrained Obstacles
+[IEEE] 2026-5-29 | RMAS: Risk Mitigation Agent System, An Autonomous Framework for Real-Time Supply Chain Risk Management
+[IEEE] 2026-5-29 | Ultra-Compact Widely Tunable Dual-Passband Microwave Photonic Bandpass Filter
+[IEEE] 2026-5-29 | Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-View Geo-Localization
+[IEEE] 2026-5-29 | A Novel Online Insulation Diagnosis Scheme for HVDC Cables Based on Resonant Point Trajectory
+[IEEE] 2026-5-29 | Quantification-Enabled Failure Mode Separation for IGBT Module Package Degradation Assessment
+[IEEE] 2026-5-29 | Photovoltaic Scenario Generation via Multimodal Fusion and Local Window Attention
+[IEEE] 2026-5-29 | Cooperative Target Fencing Safety Control for Multiple Autonomous Aerial Vehicles via Nonlinear Model Predictive Control
+[ACM] 2026-5-30 | Volume 9, Issue 2: Social Computing at Scale — Trust, Behavior, and System Design
+[ACM] 2026-5-30 | LentiMorpho: A Lens Array Based Display with Switchable View-Dependent and View-Independent Modes by Varying Liquid Volume
+[ACM] 2026-5-30 | Towards Improving the Robustness of Deepfake Audio Detection With Denoising Methods
+[ACM] 2026-5-29 | ACALSim: A Scalable Parallel Simulation Framework for High-Performance System Design Space Exploration
+[ACM] 2026-5-29 | Magic Gaze: Enabling Seamless Control of IoT Devices Through Eye Tracking
+[ACM] 2026-5-29 | The Need for Real-Time Metrics and Related Research Protocols
+[ACM] 2026-5-29 | Needle in a Haystack: Tracking UAVs from Massive Noise in Real-World 5G-A Base Station Data
+[IEEE] 2026-5-29 | Research on a Machine Learning-Based Method for Identifying the Distribution of Radioactive Source Terms on the Inner and Outer Walls of Metallic Pipelines
+[IEEE] 2026-5-29 | ICCQ
+[IEEE] 2026-5-29 | A Novel Consequent-Pole Variable Flux Machine with Flux Barrier Design
+[IEEE] 2026-5-29 | A Spectral-spatial Adaptive Weighted Method for Shadow Removal in Vegetation Canopy Using Multi-scale UAV-based Hyperspectral Imagery
+[IEEE] 2026-5-29 | Large-Signal Stabilization of On-Board Hybrid Power Supply Systems Supplying Constant Power Load Based on Composite Control
+[IEEE] 2026-5-29 | Novel Left-and-Right Two-Step Discrete ZNN Model for Time-Dependent Nonlinear Optimization With Equality and Inequality Constraints Applied to Robot Manipulator
+[IEEE] 2026-5-29 | Towards SDG 7: A Quantitative Sustainability Framework for Evaluating PV+BES Systems in the Low-Carbon Transition_supp1-3696115.docx
+[IEEE] 2026-5-29 | SURE: A High-Performance, Efficient, and Secure Serverless Framework Based on Unikernels_supp1-3697819.pdf
+[IEEE] 2026-5-29 | Thermo-switchable Broadband Multifunctional Polarized Metamaterial
+[IEEE] 2026-5-29 | Multilevel Control Strategy of Human-Exoskeleton Cooperative Motion via Gait Optimization and Fixed-time Adaptive Techniques
+[IEEE] 2026-5-29 | DNN Obfuscation with Contrastive Learning for Efficient Defense against Side-Channel Attacks_supp1-3697449.pdf
+[IEEE] 2026-5-29 | Particle Trapping and Optical Conveyor Belt Based on a Triple-Core Fiber
+[ACM] 2026-5-30 | The Effect of Idea Elaboration on the Automatic Assessment of Idea Originality
+[ACM] 2026-5-30 | LLM-empowered Shared Cross-Reality to Enhance Communication Skills in Individuals with Neurodevelopmental Disorders
+[ACM] 2026-5-29 | ACM SIGMM Multimodal Reasoning Workshop
+[ACM] 2026-5-29 | A Comparative Audit of Demographic Reporting Practices in Eye Tracking Datasets: Gaps and Biases
+[ACM] 2026-5-29 | From Pixels to Representations: Linking Face Preview Effects to Variational Autoencoder Codes
+[ACM] 2026-5-29 | Preprocessing Eye-Tracking Data for Reading: A Community Survey on Practices, Challenges, and Needs
+[IEEE] 2026-5-29 | Multi-Modal Position Estimation of Autonomous Vehicles using Anomaly Detection and Kalman Filter
+[IEEE] 2026-5-29 | Anonymous and Privacy-Preserving Post-Quantum Key Encapsulation-Based Authentication Scheme for UAV-Assisted Internet of Autonomous Vehicles
+[IEEE] 2026-5-29 | TechRxiv: Share Your Preprint Research with the World!
+[IEEE] 2026-5-29 | Reactive Power Compensation in Medium-Voltage High-Power Current Source Rectifier-Fed Topologies
+[IEEE] 2026-5-29 | Nonsmooth Loop Filter for Phase-Locked Loops: Design, Analysis, and Validation
+[IEEE] 2026-5-29 | Toward FPGA Cloud Security: A Ring Oscillator-free and Low-power Attack Circuit
+[IEEE] 2026-5-29 | Performance Enhancement of an Interleaved Parallel Three-Coupled Inductor Boost Converter
+[IEEE] 2026-5-29 | COSMOS-RV: A Lightweight Single-Issue Speculative Out-of-Order 32-Bit RISC-V Processor with Virtually Indexed Physically Tagged Cache Architecture and FPGA Validation
+[IEEE] 2026-5-29 | EFS-YOLO: A steel surface defect detection model fusing multi-scale edge features and frequency-domain information
+[IEEE] 2026-5-29 | Supervision-Guided Contrastive Learning for Rolling Bearing Fault Diagnosis under Label Scarcity
+[IEEE] 2026-5-29 | How to Tailor Power-Electronic Inertia to the Constraints of its Resource
+[IEEE] 2026-5-29 | IEEE Transactions on Circuits and Systems--II: Express Briefs Publication Information
+[IEEE] 2026-5-29 | Table of Contents
+[IEEE] 2026-5-29 | IEEE Control Systems Society Publication Information
+[ACM] 2026-5-29 | Overview of Open Dataset Sessions and Benchmarking Competitions in 2023–2025 - Part 4 (ACM MMSys 2023, 2024, 2025)
+[ACM] 2026-5-29 | [Emerging Ideas] IoTGen: Towards LLM-diriven IoT Hardware Generation
+[IEEE] 2026-5-29 | The Global Architecture of AI Regulation: Mapping Jurisdictional Fragmentation and Multinational Enterprise Compliance Strategies
+[ACM] 2026-5-30 | Thermal- and Aging-Aware Rowhammer Vulnerability Analysis of Monolithically-Integrated IWO eDRAM for Edge Platforms
+[ACM] 2026-5-29 | Phase-Dependent Scanpath Dynamics in Map-Based Tasks
+[ACM] 2026-5-29 | Gaze Entropy and Gaze Density as Indicators of Cognitive Load in Bilingual Reading: A Webcam-Based Eye Tracking Study
+[ACM] 2026-5-29 | User Study on the Influence of Prior Beliefs on Gaze Behavior in Scatterplots
+[ACM] 2026-5-29 | Analyzing Reading Behavior across Source Code and Stack Overflow for Method and Class Summarization
+[ACM] 2026-5-29 | RF Super Resolution: A Deep Learning Approach to Spatial Enhancement for LoRa
+[ACM] 2026-5-29 | Listen Over the Air: Towards Long-Range Low-Power Backscatter Downlink
+[ACM] 2026-5-29 | Geographical Centralization Resilience in Ethereum's Block-Building Paradigms
+[IEEE] 2026-5-29 | A Lightweight UWB Radar Multi-Person Action Recognition Method
+[IEEE] 2026-5-29 | A Millimeter-Wave Vertically-Polarized End-Fire Antenna With Zero Clearance for Metal-Frame Mobile Terminals
+[IEEE] 2026-5-29 | Robust mmWave Connectivity via Relay-Coordinated Path Control in Industrial Robots
+[IEEE] 2026-5-29 | Collision-Aware Spatially Constrained Kinematic Optimization With Hierarchical Detection for the CMOR Manipulator
+[IEEE] 2026-5-29 | Electric Motors Exposed to Ambient Stresses During Industrial Operations: Partial Discharge Diagnostics
+[IEEE] 2026-5-29 | A Stiffness-Adaptive Visuo-Tactile Robotic Palpation System for Surface Texture Profiling and Deep Lesion Localization_supp1-3691370.mp4
+[IEEE] 2026-5-29 | Compromised Control of DC Microgrids With ZIP Loads and Nonnegligible Line Loss
+[IEEE] 2026-5-29 | Approximate Nonovershooting Zeta-Backstepping Control With its Applications to Quad-Rotors
+[IEEE] 2026-5-29 | Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes
+[IEEE] 2026-5-29 | EFSANet: Explicit Frequency Modeling and Style-Aware Alignment for Hyperspectral—Multispectral Image Fusion
+[IEEE] 2026-5-29 | A Fully-Integrated CMOS Gate Driver for a GaN-Based Half-Bridge in 48V/12V Bidirectional Automotive Power Conversion
+[IEEE] 2026-5-29 | PriRAG: Privacy-Preserving Inference for Retrieval-Augmented Large Language Models
+[IEEE] 2026-5-29 | AL-KalmanNet: Neural Network-Aided Kalman Filtering Based on Active Learning
+[IEEE] 2026-5-29 | Obstacle Avoidance of a Snake Robot by Partial Deformation of Crawler Gait for Overhead and Lateral Constraints
+[IEEE] 2026-5-29 | Residual Rotation Correction Using Tactile Equivariance
+[IEEE] 2026-5-29 | BEOL-Compatible NV-SRAM With Stacked ITO FETs and HfO
+                    <sub>2</sub>
+                    -Based Ferroelectric Capacitors
+[IEEE] 2026-5-29 | Segmented Linear Regression Modeling for Interpretable AC Core Loss Prediction in Magnetic Powder Cores
+[ACM] 2026-5-30 | Distributed Agency and Multimodal AI Interfaces: Meaning, Human-Centered Implications, and Pathways to Design and Implementation
+[ACM] 2026-5-30 | A Design Space and Exploration Tool for Visual Interfaces in Recommender Systems
+[ACM] 2026-5-30 | Visual Transformation for Reflective Ambient Displays: Comparing Mirror and Frame Representations
+[ACM] 2026-5-30 | DataForager: Integrating and Visualizing Datasets From the Web Using Large Language Models
+[IEEE] 2026-5-29 | Distance Measuring under Water with Increased Accuracy and Improved Design
+[ACM] 2026-5-29 | Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data
+[ACM] 2026-5-29 | Night Eyes: A Reproducible Framework for Constellation-Based Corneal Reflection Matching
+[ACM] 2026-5-29 | Enhancing Eye Feature Estimation from Event Data Streams through Adaptive Inference State Space Modeling
+[ACM] 2026-5-29 | Stabilizing FOV Under the Microscope: Towards Eye-Hand Coordination in Motor-Control Tasks
+[IEEE] 2026-5-29 | Automated geometric compliance assessment of barrier-free ramps based on LiDAR data_supp1-3697078.docx
+[IEEE] 2026-5-29 | Verifiable and Privacy-Preserving Multidimensional Range-Aggregate Queries for Spatio-Temporal Data
+[IEEE] 2026-5-29 | Artificial Intelligence and Deep Learning for Antimicrobial Resistance Prediction: A Scoping Review of Architectures and Explainability
+[IEEE] 2026-5-29 | An Optimized FLOD-FDTD Method for Transverse-Magnetic Waves in Lossy Media
+[IEEE] 2026-5-29 | High-Precision Electromagnetic Acoustic Inspection Based on Arc-Focused Phased Array and Phase-Coherent Synthetic Aperture Imaging
+[IEEE] 2026-5-29 | RCodSpace: A Robust Learned Coding Method for Deep Space Visual Transmission_supp1-3695654.pdf
+[IEEE] 2026-5-29 | From Quantum Promise to Quantum Practice
+[IEEE] 2026-5-29 | Energy-Efficient UAV–IRS Coordination in Vehicular Networks Using GNN-Enhanced MADRL
+[IEEE] 2026-5-29 | Sun-Outage-Aware Topology Modeling and Adaptive Routing for Optical Satellite Networks
+[IEEE] 2026-5-29 | Call for Papers---2026 IEEE International Symposium on Technology and Society
+[IEEE] 2026-5-29 | A Three-Degree-of-Freedom Cooperative Optimization Modulation Strategy for Reducing Inductor RMS Current in TS-DAB Converter
+[ACM] 2026-5-29 | Armstrong: A Full-Duplex Backscatter Architecture for the mmWave IoT
+[ACM] 2026-5-29 | MuPose: Breaking the Scalability Barrier of mmWave Multi-User Pose Estimation in the Wild
+[ACM] 2026-5-29 | Reports from ACM Multimedia 2025
+[ACM] 2026-5-29 | A Minimal-Assumption Analysis of Q-Learning with Time-Varying Policies
+[ACM] 2026-5-29 | Horizon: Understanding and Predicting Global Starlink Performance
+[IEEE] 2026-5-29 | InterwovenXR: A Cyber–Physical–Social Testbed System for Robotics, Digital Twins, and Hyperautomation
+[ACM] 2026-5-30 | LLM-Augmented Semantic Steering of Text Embedding Projection Spaces
+[ACM] 2026-5-30 | Representing Intangible Cultural Heritage as Living Artifacts: A First Digital Twin of a Culinary Recipe
+[ACM] 2026-5-30 | Trust Me, I'm Probably Right: Investigating AI Explanations for Establishing Appropriate Trust
+[IEEE] 2026-5-29 | Hierarchical Game-Theoretic Control for Distributed Power Quality Systems Under Capacity Constraints
+[IEEE] 2026-5-29 | [Invited] Integrated Sensing and Communication over Optical Fiber: A Communication-centric Cross-layer View from Long-haul to Short-reach Networks
+[IEEE] 2026-5-29 | Decentralized Adaptive Initial Congestion Window in 5G Using Handshake-Based Flow Classification and Online Learning
+[IEEE] 2026-5-29 | A Modality-Mixing Fusion Network for Accurate Land Use/Land Cover Segmentation
+[IEEE] 2026-5-29 | Identifying Critical Breakpoints and Latency Effects During Remote Backup Driving
+[IEEE] 2026-5-29 | Connection-Constrained Genetic Algorithms for Feasible Multi-Objective Vehicle Powertrain Architecture Optimization
+[IEEE] 2026-5-29 | A Low-Profile Wideband Patch Antenna with Multi-Mode Tuning for 5G Bands(N77/N78/N79)
+[IEEE] 2026-5-29 | Two-Phase Optimization via Dynamic Marginal Gain: An Interval Pre-Scheduling Approach for Space-to-Space Surveillance
+[IEEE] 2026-5-29 | Variable Dual Time Scale Caching Update and Resource Allocation Scheme for UAV-Assisted Edge Networks
+[ACM] 2026-5-29 | A Study of the Capabilities of Building Management System APIs and the Limitations of Their Practical Usage
+[ACM] 2026-5-29 | BladderSense: A Wearable Ultrasound System for Continuous Bladder Monitoring in Real-World Use
+[ACM] 2026-5-29 | Bringing Confidential Computing to Android
+[ACM] 2026-5-29 | JPEG Column: 108th JPEG Meeting in Daejeon, Republic of Korea
+[ACM] 2026-5-29 | A Unified Framework for Online Combinatorial Allocation of Reusable Resources under Endogenous Deterioration
+[ACM] 2026-5-30 | The Venice Lagoon Climate Change Dashboard as a tool for capacity building for local populations
+[ACM] 2026-5-29 | StreamSplit: Continuous Audio Representation Learning via Uncertainty-Guided Adaptive Splitting
+[ACM] 2026-5-29 | MemoLens: Empowering Augmented Reality Glasses with Super Memory
+[ACM] 2026-5-29 | Towards Automated Detection of Comprehension Difficulties in Questionnaire Items: An Eye-Tracking Study on Negated Items
+[ACM] 2026-5-29 | Analysis of Temporal Attention Resource Dynamics during Cognitive Tasks using Oculomotor Metrics
+[ACM] 2026-5-29 | An Anaglyph Add-on for the Pupil Labs Neon – Comparison to Stationary Eye-Tracking Setups for Stereoscopic Presentation using Binocular Rivalry
+[ACM] 2026-5-29 | Image-free approach to gaze estimation based on Laser Feedback Interformetry (LFI)
+[ACM] 2026-5-29 | Learning to Allocate Reusable Resources under Stochastic Rewards and Durations
+[IEEE] 2026-5-29 | 2026Q3 Issue of the IEEE Transactions on Circuits and Systems for Artificial Intelligence
+[IEEE] 2026-5-29 | IEEE Computer Science and Engineering Awards
+[IEEE] 2026-5-29 | AI-Enabled Digital Twin-Driven Handover and Resource Allocation in Multi-LEO Satellite Networks
+[IEEE] 2026-5-29 | UAV-Based Multispectral Object Tracking with Positive-Negative Prompt Mining Network
+[IEEE] 2026-5-29 | Model-Free Predictive Current Control of a Hybrid Excited Axial Flux PM Motor Based on Multiregional Disturbance Observer
+[IEEE] 2026-5-29 | Enhancing Adaptive Video Streaming through Bandwidth Prediction with Deep Reinforcement Learning
+[ACM] 2026-5-29 | AdaSprite: Resource-efficient Online Co-Adaptation for V2I Systems Under Large-scale Data Drifts
+[IEEE] 2026-5-29 | AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals
+[ACM] 2026-5-30 | Building Explainable User Interfaces
+[ACM] 2026-5-30 | Challenges in Reviewing Research Utilising Maps Visualizations: A Case Study of Cholera
+[ACM] 2026-5-30 | Gradual Domain Adaptation for Graph Learning
+[ACM] 2026-5-30 | AI and the future of work
+[ACM] 2026-5-30 | Recognition-based Image Authentication Using Masked Images as a Robust Alternative to PINs
+[IEEE] 2026-5-29 | Packets and Process: What Network Security and Engineering Get Wrong About Each Other
+[ACM] 2026-5-29 | Music Meets Science at ACM Multimedia 2025
+[ACM] 2026-5-29 | Towards Fast and Fully Automatic Drone Mapping
+[ACM] 2026-5-29 | cPMEM: A Design of Byte-Addressable Persistent Memory with Compute Express Link for Data Center Applications
+[ACM] 2026-5-29 | AquaScope: Reliable Underwater Image Transmission on Mobile Devices
+[IEEE] 2026-5-29 | Accuracy of Quantifying Hypotension During Surgery Using Physiological Sensor Data
+[IEEE] 2026-5-29 | Secrecy Rate Maximization for UAV-Assisted ISAC Networks against Mobile Eavesdropper
+[IEEE] 2026-5-29 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp4-3691061.mp4
+[IEEE] 2026-5-29 | SignMoD: Sign Language Video Generation via Mixture of Diffusion
+[IEEE] 2026-5-29 | EMG-Informed Musculoskeletal Modeling for Joint Stiffness Estimation Toward Rehabilitation Robot
+[IEEE] 2026-5-29 | Two-Stage Current Limiting Method for Fault Ride-Through Enhancement of Virtual Synchronous Generator
+[IEEE] 2026-5-29 | Implications of the Reciprocity Theorem for Reconfigurable Intelligent Surfaces
+[IEEE] 2026-5-29 | Multiband Hybrid Metasurface for Enhanced Second-Harmonic Generation via Coupled Gap Surface Plasmon Modes
+[IEEE] 2026-5-29 | Front Cover
+[IEEE] 2026-5-29 | A Heterogeneous Cell-Free Massive MIMO System With mmWave Access Points: Cost Efficiency and Deployment Optimization
+[ACM] 2026-5-30 | Adapting an Ecological Belonging Intervention to an Introductory Computer Science Course
+[ACM] 2026-5-30 | Trustable, Reproducible, and Intelligent Information Visualization Systems (TRI-IVIS)
+[ACM] 2026-5-30 | The BrutARlist: Exploring How and Why Individuals Alter a Known Brutalist Building with Augmented Reality
+[ACM] 2026-5-30 | FantasIA: Immersive, Child-driven Social Stories in Interactive Smart Spaces
+[ACM] 2026-5-30 | Effects of Progress Bar Thickness on Users' Perception of Waiting Time
+[ACM] 2026-5-30 | Can sonification aid the perception of complex visual networked data? A tool for the interactive exploration of bibliometric data
+[ACM] 2026-5-30 | AR Data Ribbon: Break the Frame and Unroll Data in the Air
+[ACM] 2026-5-29 | A Large-Scale Multimodal Dataset and Benchmarks for Human Activity Scene Understanding and Reasoning
+[ACM] 2026-5-29 | WiMirror: Towards 802.11-Compliant RIS Control Using Compressed Beamforming Reports
+[ACM] 2026-5-29 | EyeGestureLogin: Spontaneous Hands‑Free Gaze‑Based Lock Pattern Authentication for Public Displays
+[ACM] 2026-5-29 | Understanding Password Preferences, Memorability, and Security through a Human-Centered Lens
+[ACM] 2026-5-29 | OpenGazeLab: An Interactive Toolkit for Gaze Analysis and Event Detection
+[IEEE] 2026-5-29 | IEEE Society on Social Implications of Technology
+[IEEE] 2026-5-29 | Adaptive Fuzzy Control for Triadic Interaction of Soft Exosuit-assisted Locomotion
+[IEEE] 2026-5-29 | IEEE Control Systems Society Information
+[IEEE] 2026-5-29 | Physics-Guided Self-Supervised Statistical Residual Learning for Sonar Despeckling with Improved Generalization_supp1-3697693.pdf
+[IEEE] 2026-5-29 | Local Semantics Refinement of Adaptive Representations for Robust Noisy Label Learning
+[IEEE] 2026-5-29 | Applying Deep Learning-based Sonar Image Analysis to Exploration of Hydrothermal Activities
+[IEEE] 2026-5-29 | Blockchain-Enhanced PUF Authentication for IoT Devices
+[IEEE] 2026-5-29 | Dualformer: Efficient Feature Extractor for Complex-valued Blind Communication Signal Analysis
+[IEEE] 2026-5-29 | Efficient Serverless Federated Learning with Edge Model Migration on Non-IID Data
+[ACM] 2026-5-29 | Information Design for Prosocial Behavior
+[ACM] 2026-5-29 | Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services
+[ACM] 2026-5-30 | Mixed Reality for Cultural Heritage: Digitizing Takamatsuzuka Kofun and Exploring Its Murals
+[ACM] 2026-5-30 | Exploring AI-Supported Artistic Practices through Human-Centred AI
+[ACM] 2026-5-30 | The Rice-Paper Layer (RPL): Intention Segmentation for Human-AI Co-Creation in Generative AI
+[IEEE] 2026-5-29 | Value Unchained: Four Steps to Turn AI Productivity Into Business Value
+[ACM] 2026-5-30 | Analyzing Commercial Deepfake Detectors on Real-World Cases
+[ACM] 2026-5-29 | Do Expert Gaze Patterns Causally Improve Lap Times in Circuit Driving?
+[ACM] 2026-5-29 | ClearSkies: A Preliminary Study of Gaze-Mapped Scene Segmentation in Training Aircraft Cockpits
+[ACM] 2026-5-29 | Objective Detection of Parafoveal Oculomotor Dysfunction in Parkinson’s Disease Using a Novel Retinal Eye Tracker
+[IEEE] 2026-5-29 | Blind Channel Estimation Using an Image-to-Image Translation Network for OFDM Systems
+[IEEE] 2026-5-29 | An Integrated Approach to Data Protection Risk Assessment in the Maritime Industry: A DPIA-Based Approach
+[IEEE] 2026-5-29 | Uni-RCM: Unified Reference-guided Cross-modal Mapping for Multi-Class Anomaly Detection
+[IEEE] 2026-5-29 | Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents
+[IEEE] 2026-5-29 | Angle Error Correction Method for AFM Flatbed Scanner Based on High Line Density Grating Calibrator_supp1-3697056.docx
+[IEEE] 2026-5-29 | Exploring the soft magnetic properties of various iron-silicon alloys manufactured via SLM
+[IEEE] 2026-5-29 | RDL-free Glass Interposer for Heterogeneous Integration
+[IEEE] 2026-5-29 | Three-Level Parallel PWM-Interleaved SiC Inverter With CMV Mitigation For Aerospace Applications
+[IEEE] 2026-5-29 | From Fragmented Concepts to Structured Insights: A Three-Layer Readiness Taxonomy across Disciplines
+[IEEE] 2026-5-29 | An Isolated Bidirectional DC-DC Converter With Zero Nonactive Power Loss and Reduced Current Stress for Electric Vehicle Applications
+[ACM] 2026-5-29 | Summer School on Multimodal Foundation Models and Generative AI Second Edition
+[ACM] 2026-5-29 | Surface Characterization with mmWave Signals
+[ACM] 2026-5-29 | Lower Bounds for Adaptive Relaxation-Based Algorithms for Single-Source Shortest Paths
+[IEEE] 2026-5-29 | Intentional Technology Use
+[IEEE] 2026-5-29 | More Than Human: The Influence of Nonhuman Romances on Player Choices in Western Role-Playing Games
+[ACM] 2026-5-30 | User-friendly Design of Distributed Systems: A Visual Interface for Composing Networks of Personal Devices
+[ACM] 2026-5-30 | Visualizing Parametric Density through Three-dimensional Amplitude Spectrum Slopes in Urban Canyons
+[ACM] 2026-5-30 | Beyond Visual Interfaces: Designing Multisensory Experiences
+[ACM] 2026-5-30 | poli:bit: a No-Code Toolkit for Creating Phygital Artefacts for Preschools
+[ACM] 2026-5-29 | Predicting User Perception based on Stimuli-Independent Saccade Transitions
+[ACM] 2026-5-29 | Expanding the Range of Pre-Trained Gaze Estimation via Lightweight On-Device Fine-Tuning
+[ACM] 2026-5-29 | Insecurity of Lost/Stolen Phone Reporting Services: Vulnerabilities, Attacks, and Countermeasures
+[ACM] 2026-5-29 | SAIL: Redesigning Collaborative Language Inference with a Single Server-to-Mobile Handoff
+[ACM] 2026-5-29 | Solving Scarce Wireless Signal Dilemma in Model Training using Cross-Modal Learning Leveraging Limited Video Data
+[ACM] 2026-5-29 | Gaze Prediction as Time-Series Forecasting for Virtual Reality Applications: Quantifying Performance Variability and Extreme-Case Errors
+[IEEE] 2026-5-29 | Crowd Counting Network Based on Multi-scale Gated Aggregation and Progressive Refinement
+[IEEE] 2026-5-29 | Robust Low-Tubal-Rank Tensor Sensing via Preconditioned Subgradient Descent
+[IEEE] 2026-5-29 | Radiation Detection Performance of Gamma Rays From Melt- and Solution-Grown Inorganic Perovskite CsPbBr
+                    <sub>3</sub>
+                    Semiconductor Detectors
+[IEEE] 2026-5-29 | Extending the Theory of Super-Regenerative Oscillators for Short-Range Radar Sensors
+[IEEE] 2026-5-29 | IEEE Computer Graphics and Applications
+[IEEE] 2026-5-29 | Magnetic Network Modeling and Analysis of EE Core Based on Vector Magnetic Circuit Theory
+[IEEE] 2026-5-29 | An Improved Reinforcement Learning Approach for Cost Function Optimization in Multiobjective FCS-MPC of PMSM Drives
+[IEEE] 2026-5-29 | Spatial Sensitivity of Magnetoelectric Composite Under Non-Uniform Magnetic Excitation
+[IEEE] 2026-5-29 | Time–Load Joint Optimization for Accelerating Resilient Restoration of Distribution Grids: A Three-Stage Decentralized Human–Robot–Mobile Power Sources Heterogeneous Collaboration Recovery Support System
+[IEEE] 2026-5-29 | The Missing Foundation of Machine Learning Engineering
+[IEEE] 2026-5-29 | Teaching Justice: Reimagining STEM Education for Ethical AI Systems
+[ACM] 2026-5-30 | VISPEK: a Visual Interactive System for Progressive Ensemble K-Means Clustering
+[ACM] 2026-5-30 | Advanced Visual Interfaces for Cultural Heritage (AVI-CH) 2026
+[ACM] 2026-5-30 | Remote Grandparents: A Tangible Interactive Experience for Intergenerational Connection at a Distance
+[ACM] 2026-5-30 | Evaluating Chinese Large Language Models: The Influence of Persona Assignment on Stereotypes and Safeguards
+共写入 841 条记录，保存到 papers/paper2026-05-29.json。
+论文获取成功，文件路径: papers/paper2026-05-29.json
+正在筛选、翻译并发送邮件...
+[NO] 1/841 | BeamFormer: Transformer-based Beam Management for 6G Networks
+[NO] 2/841 | Gaze Estimation from Optical Path Length using Neural Network Inversion
+[NO] 3/841 | Who You Are is How You Look: Implicit User Identification by Comparing Actual Gaze with Personalized Saliency Maps
+[NO] 4/841 | Cross-Modal Analysis of Typography Effects on Visual Attention based on TVA and Task-Evoked Pupillary Responses (TEPR)
+[NO] 5/841 | JPEG Column: 109th JPEG Meeting in Nuremberg, Germany
+[NO] 6/841 | In Memoriam: Richard A. Tapia (1939-2026)
+[NO] 7/841 | Ground-Based GNSS-R Oil Spill Experiments: Methodology and Results
+[NO] 8/841 | FASENet: A Frequency Aware and Shape Enhanced Deep Network for Mapping Farmland Ditch from High-Resolution Remote Sensing Imagery
+[NO] 9/841 | Diffusion Graph Transformer for Learning Controllability Robustness in Large-Scale Networks
+[NO] 10/841 | High-Efficiency Laser Wireless Power Transfer System with Automatic Tracking for Smart Grids_supp2-3696300.mp4
+[NO] 11/841 | High-Efficiency Laser Wireless Power Transfer System with Automatic Tracking for Smart Grids_supp1-3696300.mp4
+[NO] 12/841 | BFRN-IoV: Blockchain and Fog-Enabled Route Navigation for Digital Twin-Based Internet of Vehicles
+[NO] 13/841 | Opportunistic RIS-Assisted Transmission Scheduling for Multiuser Wireless Network via Binary Linear Programming
+[NO] 14/841 | BIRCH-AE: A Hierarchical Ensemble Framework for Scalable E-Commerce User Segmentation with Autoencoder-Enhanced Feature Learning
+[NO] 15/841 | MARTA: Multi-Person Activity Recognition With mmWave Based on Temporal Attention
+[NO] 16/841 | Jointly Optimizing Migration and Offloading for Digital Twin-Enabled Internet of Vehicles
+[NO] 17/841 | Energy-Efficient Task Allocation for Green Aerial Edge Computing Based on Metaverse Users: A Mean Field Game Approach
+[NO] 18/841 | Passivity-Based Tracking Control of a Planetary Rover with Robotic Arm_supp1-3694402.mp4
+[NO] 19/841 | Front Cover
+[NO] 20/841 | Can Multipath TCP Congestion Control do better without adhering to its First Design Principle?
+[YES] 21/841 | CAP: Detecting Network Device Misconfigurations with Context-Aware Prompting of LLMs
+[NO] 22/841 | POMACS V10, N2, June 2026 Editorial
+[NO] 23/841 | Lightweight Preprocessing Defenses for Robust Deepfake Detection Against Adversarial Perturbations
+[NO] 24/841 | Optimized Real-Time Current Commutation Method for Concentric Winding Moving-Coil Maglev Planar Motor Based on Improved Active Set Algorithm
+[NO] 25/841 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp1-3691061.mp4
+[NO] 26/841 | Glaucoma Diagnosis and Progression Prediction Based on Deep Multimodal Fusion and Collaborative Attention Mechanism
+[NO] 27/841 | Research on the Diagnosis and Localization Method of Cross-Bonding Cable Defects Based on Three-Phase Differential Frequency Excitation
+[NO] 28/841 | A Long-Range Detection Method for Blueberries Based on an Improved YOLOv11n Model
+[NO] 29/841 | On Enumerating Feasible Permutations for Rank Modulation Codes in DNA storage via Hyperplane Arrangements
+[NO] 30/841 | Optimizing Heat-Assisted Magnetic Recording Plasmonic Structures via Deep Generative Models
+[NO] 31/841 | Low-Earth Orbit Satellite Network Analysis with Random LOS and NLOS Channels
+[NO] 32/841 | EVDI++: Event-based Video Deblurring and Interpolation via Self-Supervised Learning
+[NO] 33/841 | Complementary Grid Forming: Inertia Gathered from Constrained Resources
+[YES] 34/841 | Machine Learning-Assisted Electro-Thermal Co-Optimization Framework for PDN in 3-D Integrated Microsystem With Embedded Microchannel Heatsink
+[NO] 35/841 | Nonlinear Optimal Control Beyond the Hamilton-Jacobi-Bellman Equation
+[NO] 36/841 | Thermal Aging Mechanisms and Dielectric Properties of Epoxy Resin Impregnated Bamboo Paper Composites
+[NO] 37/841 | Toughening Epoxy Resin for Low-Temperature Electrical Insulation in High Voltage Equipment
+[NO] 38/841 | Efficient and Reliable Index Modulation OTFS Framework for THz-ISAC Systems
+[NO] 39/841 | Implementation of a novel CT approach into a micro-PET scanner
+[NO] 40/841 | As Far as Eye See: Vergence-Pupil Coupling in Near-Far Depth Switching
+[NO] 41/841 | Reflection-in-the-Loop: An AI-Augmented Visual Environment for Early-Stage Interface Design
+[NO] 42/841 | Megatrends
+[NO] 43/841 | Space Datacenters
+[NO] 44/841 | Auditing the Invisible: Revolutionizing Anomaly Detection in IoT-Enabled Energy Markets
+[NO] 45/841 | Space Networks as a Service: A Plug and Play Approach
+[NO] 46/841 | Temporal Changes in Oculomotor Workload Metrics during the Oral Reading of Character Strings
+[NO] 47/841 | The Challenges of Eye-Tracking Visualization in Multi-User Collaboration
+[NO] 48/841 | Constructing Machine Learning Features from Eye Movement Metrics: Feature Engineering Techniques for HCI Research
+[NO] 49/841 | Expecting the unexpected: Eye-tracking surprisal and entropy in L1 and L2
+[NO] 50/841 | Gaze-Based Automatic Scrolling for Readers Using Screen Magnification
+[NO] 51/841 | Long-horizon prediction of who quits : League of Legends as a case study
+[NO] 52/841 | HANeRV: Hierarchically Adaptive Neural Representation for Video Compression
+[NO] 53/841 | Robust Single-View Target Identification with Sparse Multi-Angle Polarimetric Data
+[NO] 54/841 | IEEE Transactions on Circuits and Systems for Artificial Intelligence Publication Information
+[NO] 55/841 | Room-Temperature Mid-Wave Infrared Guided Mode Resonance Photodetectors for Focal Plane Arrays
+[NO] 56/841 | Table of Contents
+[NO] 57/841 | Efficient DOA Estimation Based on Coprime Array Interpolation With Deep Unfolding Network
+[NO] 58/841 | Interactive $360 ^{\circ }$ Object Removal: A Coordinate Querying Approach via Spherical Normal Constraints and Learnable Wavelet Enhancement
+[NO] 59/841 | Doppler-Enhanced Angle of Arrival Estimation for Tracking Autonomous Localization of Errant UAVs
+[NO] 60/841 | Reliable Metal Foreign Object Detection for Mobile Wireless Charging via Harmonic Fingerprinting
+[NO] 61/841 | WheatScout: A Handheld Analyzer for Pre-Harvest Wheat Protein and Moisture Monitoring
+[NO] 62/841 | Detail Study of Loop Magnetic Antennas Operation for Underwater Communication
+[NO] 63/841 | V-RECS: a NL2Vis Recommender for Chart Generation with Explanations, Captioning, and Suggestions
+[NO] 64/841 | An Immersive Virtual Reality Interface for Archaeological Reconstruction
+[NO] 65/841 | Rethinking Artistic Research in the Age of AI: New Frameworks, HCAI Practices, and Challenges
+[NO] 66/841 | Temporal Augmentation for Remote AV Takeover: A Dual-Phase Evaluation of Replay-Buffered Interfaces
+[NO] 67/841 | Evaluating AI Assistance in Human-in-the-Loop Scenographic Prop Authoring
+[NO] 68/841 | Memorability of Greenhouse Gas Emissions in Virtual Reality: An Evaluation of Enactment and Quiz-Based Gamification
+[NO] 69/841 | Behavioral Markers of Sustained Viewing in VR Museum Exploration: Head Stability, Gaze Dynamics, and Pupillary Response
+[NO] 70/841 | When Machines Observe Architects
+[NO] 71/841 | A Low-Power Distance-Based Approach to Gaze Classification in Pervasive Smart-Eyewear Eye Tracking
+[YES] 72/841 | Cognitive Attention Map: Semantic Tokenization of Source Code via OCR-Based AOI Identification across Performance Levels
+[NO] 73/841 | GazeVaLM: A Multi-Observer Eye-Tracking Benchmark for Evaluating Clinical Realism in AI-Generated X-Rays
+[NO] 74/841 | Building Audio-Visual Digital Twins with Smartphones
+[NO] 75/841 | GeoTwins: Uncovering Hidden Geographic Disparities in Android Apps
+[NO] 76/841 | Hide-and-Sweep: Detecting Concealed Cameras via LED Illumination Sweeps
+[YES] 77/841 | AutoRF: Towards an Agentic Framework for Automated RF Hardware Design
+[NO] 78/841 | Ouroboros: Instilling Motion Awareness in ViTs for Efficient Video Analytics on the Edge
+[NO] 79/841 | Modeling of Conjugative- and Phage- Mediated CRISPR-based System against Antimicrobial Resistant Bacteria_supp1-3693402.pdf
+[NO] 80/841 | Safety-critical Dynamic Event-triggered Control of Self-organizing USV Swarms with Input Constraints via Reinforcement Learning
+[NO] 81/841 | Management of Dissipative and Uncertain Trust in a Digital Twin based Control System for the MASS
+[NO] 82/841 | Influence of Heat-Treatment on Magnetic Properties of Melt-Spun Fe-6.5wt.%Si Ribbons
+[NO] 83/841 | IEEE Career Center
+[NO] 84/841 | A Vertically Polarized Narrow Width High Gain Meander-Line Bidirectional Array Antenna Mounted on Large-Scale Metal Plane
+[NO] 85/841 | Zero-Shot Face Authentication in Multi-User Scenarios Using Mmwave Signals
+[NO] 86/841 | Wrench-Feasible Workspace Analysis of Mobile Cable-Driven Parallel Robot Considering both Tipping and Rotation Stability
+[NO] 87/841 | Using Robotics to Improve Transcatheter Edge-to-Edge Repair of the Mitral Valve
+[NO] 88/841 | A Fixed-Frequency Three-Level NPC-Based LCLC Resonant Converter With Inherent CC–CV Charging Capability
+[NO] 89/841 | Optimal Design of Electric Machines Based on Pareto-Guided Active Learning Surrogate Model
+[NO] 90/841 | IEEE Connects You to a Universe of Information!
+[NO] 91/841 | Optimising dry powder inhalers for lung deposition with a DRL CFD coupled framework
+[NO] 92/841 | Ultra-Steep-Slope and High-On/Off-Ratio P-Channel SnO Thin-Film Transistors via Monolithic Threshold-Switching Integration
+[NO] 93/841 | MGA-CLIP: A Multigranularity Attribution Framework for Cross-Modal Explainability in CLIP
+[NO] 94/841 | Reconnecting Seniors with Blue Spaces: A Technology-Mediated Immersive Approach
+[NO] 95/841 | Brainy: a Virtual Pet Encouraging Digital Wellbeing
+[NO] 96/841 | Semantic Prompting: Agentic Incremental Narrative Refinement through Spatial Semantic Interaction
+[NO] 97/841 | The Industrial Revolution of the Intelligence Age
+[NO] 98/841 | Understanding Energy Megatrends: Drivers, Pathways, and Required Technologies
+[YES] 99/841 | The Open Source Bug Hunter: When Smaller Models Outperform the Giants at Finding Faults
+[NO] 100/841 | Visual Attention and Cognitive Load in Text Relevance Assessment
+[NO] 101/841 | Professional Vision in Early Childhood Education: Mobile Eye-Tracking in Educator–Child Interactions
+[NO] 102/841 | Associations Between Eye-Tracking Dynamics and Cognitive Variability in Functionally Independent Older Adults
+[NO] 103/841 | GUARDIAN: Gaze User Authentication and Reference Detection for Integrity Analysis on Netflix
+[NO] 104/841 | Perceiving AI in Motion: A Mixed-Method Eye-Tracking Study of Social Diversity in AI-Based Mobility Systems
+[NO] 105/841 | Event-based Gaze Estimation via Spatial-Temporal Interaction
+[NO] 106/841 | Corneal Center Estimation Using Incident Planes Calculated by Polarization
+[NO] 107/841 | FBLayout: Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs
+[NO] 108/841 | [Emerging Ideas] Phonotonos: Through-Skin Ultrasonic Blood Flow Sensing Using Smartphones
+[NO] 109/841 | Literary Emotions in Motion: A Soft Robotics Installation for Tactile Storytelling
+[NO] 110/841 | NSGR: A Tile-Free 360° Video LIVE System With Edge Servers Enhancing Viewport Quality
+[NO] 111/841 | Computer Highlights Society Magazines
+[NO] 112/841 | Towards Robust Optical–SAR Object Detection under Missing Modalities: A Dynamic Quality-Aware Fusion Framework
+[NO] 113/841 | EMF Exposure Application Using Both Cavity Filter and Mode-Matching Component at the 2.45 GHz ISM Band
+[NO] 114/841 | Leader-Following Bipartite Consensus of Nonlinear Multiagent Systems With Input Saturation via Impulsive Control
+[NO] 115/841 | Free-Position Wireless Power Transfer System for Lightweight Unmanned Aerial Vehicle Based on Multireceiver-Coil Design
+[NO] 116/841 | Table of Contents
+[NO] 117/841 | Rapeseed Yield Estimation by Assimilating a Novel SAR-Retrieved Canopy Parameter Considering Plant Structure and Regional Characteristics
+[NO] 118/841 | A Multidimensional Comparative Survey of Hybrid Cloud-IoT Architectures for Healthcare: Towards a Fog-Mesh Synergistic Framework
+[NO] 119/841 | Filtering and Accelerating: A Unified Framework for High-Performance Persistence Estimation_supp1-3695579.pdf
+[NO] 120/841 | Event Temporal Upsampling through High Frame Rate Brightness Changes Estimation_supp1-3695939.pdf
+[NO] 121/841 | Robust Broadband Shielding Effectiveness Characterization of Small Enclosures Using a Practical Hybrid Measurement Method
+[NO] 122/841 | Stroke-based Cyclic Amplifier: Image Super-Resolution at Arbitrary Ultra-Large Scales_supp1-3695560.mp4
+[NO] 123/841 | Explainable Causal Forecasting Model for Maximum Usable Frequency in HF Wireless Communications
+[NO] 124/841 | On the Illusion of Gender Bias in Face Recognition: Explaining the Fairness Issue Through Non-demographic Attributes
+[NO] 125/841 | HealthServe: A Public Health-Aware Inference Framework
+[NO] 126/841 | Game-Theoretic Optimization of Multiple Interfering Base Stations Deployment
+[NO] 127/841 | From Trust to Agency: Designing Child-Centred AI Interaction
+[NO] 128/841 | Augmenting Information Access in Cultural Virtual Tours through Automatic Artifact Segmentation
+[NO] 129/841 | Virtual augmentation of a simulated scenario for first aid operators training
+[NO] 130/841 | A Conceptual Framework to Foster Sustainability with Gamified Digital Twins
+[NO] 131/841 | Success Criteria for Evaluating Symbiotic AI Systems
+[NO] 132/841 | On Promoting Agency in People with Intellectual Disabilities in Co-Design
+[NO] 133/841 | The Industrialization of Messaging Scams in the LLM Era
+[NO] 134/841 | Unsupervised Profiling of L2 Reading from Eye Tracking Data in the MECO-L2 Dataset.
+[NO] 135/841 | Spontaneous Blink Features Extracted from Video for Multi-Class Classification of Parkinson’s Disease
+[NO] 136/841 | Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services
+[NO] 137/841 | TIPS: Thermal Image based Plastics Sorting
+[NO] 138/841 | KVSwap: Disk-aware KV Cache Offloading for Long-Context On-device Inference
+[NO] 139/841 | RELL-STC: An Efficient SpMM Extension of Sparse Tensor Core with Re-structured ELLPACK and Gustavson Dataflow
+[NO] 140/841 | EviDex: Provenance-Weighted Evidence-Path Indexing for Fresh and Auditable Retrieval under Continuous Updates
+[NO] 141/841 | A Compact Metallic Cavity-Backed Slot Antenna Subarray for Space-Based ADS-B Reception
+[NO] 142/841 | An Open Testbed for the TV 3.0 Application Coding Layer
+[NO] 143/841 | Magnetic properties of the iron-based SMCs with Al
+                    <sub>2</sub>
+                    O
+                    <sub>3</sub>
+                    insulation
+[NO] 144/841 | Task-tailored Pre-processing: Fair Downstream Supervised Learning_supp1-3697632.pdf
+[NO] 145/841 | Robotic Steerable Sheath for Left Atrial Appendage Occlusion_supp1-3689692.pdf
+[NO] 146/841 | CoDE-GAN: Consistency Diffusion Evolutionary Algorithm Based Neural Architecture Search for Generative Adversarial Networks
+[NO] 147/841 | Visualizing definitional divergence in high-dimensional data by manifold alignment: Application to 3D right ventricular strain computations
+[NO] 148/841 | Analysis of Land Subsidence Characteristics According to Reclamation and Construction Periods Using Sentinel-1 Time-Series Interferometry: A Case Study on The West Coast of South Korea
+[NO] 149/841 | Toward Reliable and Secure Cloud Services With Fault-Tolerant Searchable Encryption
+[NO] 150/841 | A Learning With Errors based Encryption Scheme for Dynamic Controllers that Discloses Residue Signal for Anomaly Detection
+[NO] 151/841 | H-SMART: Hierarchical Self-Correcting Multi-Agent Reasoning for Robust Text Rendering
+[NO] 152/841 | M
+                    <sup>3</sup>
+                    Detection: Multi-Frame Multi-Level Feature Fusion for Multi-Modal 3-D Object Detection With Camera and 4-D Imaging Radar
+[NO] 153/841 | Twining Stems Inspired Soft Actuators with High Aspect Ratio: Design, Characterization, and Application
+[NO] 154/841 | Structural-Semantic Topological Graph Matching and Map Alignment in Challenging Indoor Scenes
+[NO] 155/841 | Point-Cloud-Assistant Localized Statistical Channel Prediction by Tangent Gaussian Splatting
+[NO] 156/841 | Retracting Scientific Papers and Acknowledging Criminal Justice Failures
+[NO] 157/841 | MoCoRo: Towards A Modular Robotics Platform for Automated Cocktail Creation
+[NO] 158/841 | Detecting Intent in XR for Nonspeaking Autistic Typers
+[NO] 159/841 | Cyber Resilience in IoT Networks Revisited: Frameworks, Mechanisms, and Future Directions
+[NO] 160/841 | It is All About the Experience... My Highlights of QoMEX 2025 in Madrid
+[NO] 161/841 | Enabling Efficient Vector Processing: A Heterogeneous Vector Architecture with in-SRAM Computing
+[NO] 162/841 | A Greener Edge: A Framework on Carbon-aware Edge ML System Design
+[NO] 163/841 | VLMCache: Efficient On-Device Vision-Language Model Inference
+[NO] 164/841 | Ringmaster: How to juggle high-throughput host OS system calls from TrustZone TEEs
+[NO] 165/841 | Learning Where to Look: Spatial Prior Acquisition in Autism Spectrum Disorder
+[NO] 166/841 | MicroDuet: Dual Microscope Eye Tracking and Joint Visual Attention in Microsurgical Training
+[NO] 167/841 | Evaluating Eye-Tracking Challenges in Gaze-Controlled Musical Applications for Users with Motor Disabilities
+[NO] 168/841 | Exploratory Integration of EEG Spectral Features and Gaze Variability for Mild Cognitive Impairment Discrimination
+[NO] 169/841 | Hypernetwork-driven Weight Adaptation for Personalized PSOG Eye-Trackers
+[NO] 170/841 | CoDrive-MLF: Empirical Validation of Cooperative Driving via a Multi-Layer V2V Evaluation Framework
+[NO] 171/841 | GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection_supp1-3693684.pdf
+[NO] 172/841 | Outage Analysis of Uplink Service Coexistence in LEO Satellite Networks With Rate-Splitting Grant-Free Transmission
+[NO] 173/841 | A Novel Torque Sharing Function With Asymmetric Cooperative Operation System for Switched Reluctance Motors
+[NO] 174/841 | Correcting Sea Surface Wind Model Outputs in the Western Tropical and Southwestern Atlantic Oceans using Scatterometer Data_supp1-3693093.docx
+[NO] 175/841 | Table of Contents
+[NO] 176/841 | Analysis of Grounding Structure Effects on Automotive Ethernet Using Unshielded Twisted Pair: Experimental and Simulation Study Under Bulk Current Injection Testing
+[NO] 177/841 | Development of a novel spherical moderator counter with uniform energy response in 4π space
+[NO] 178/841 | IEEE Security and Privacy Subscription
+[NO] 179/841 | IEEE Transactions on Computers Call for Paper
+[NO] 180/841 | Towards Seeing Bones at Radio Frequency
+[NO] 181/841 | PaTGen: Temporal Similarity-Driven Proxy Benchmark Generation Method for Cloud Workloads
+[NO] 182/841 | Hyperbolic Frequency Multicarrier Modulation for Wideband Linear Time-Varying Channels
+[NO] 183/841 | Proceedings of the 2026 International Conference on Advanced Visual Interfaces
+[NO] 184/841 | Immersive Reachability Planning for the Excavation of Cultural Heritage Objects
+[NO] 185/841 | [Emerging Ideas] ConCord: Human-in-the-Loop, Cooperative Robot Exploration
+[NO] 186/841 | AgentProg: Empowering Long-Horizon GUI Agents with Program-guided Context Management
+[NO] 187/841 | Proceedings of the 2026 Symposium on Eye Tracking Research and Applications
+[NO] 188/841 | How Close Can You Go? Minimum Eye-to-Screen Distance for EyeLink 1000 Plus
+[NO] 189/841 | Experimental Analysis of Electrical Degradation in Eco-friendly Insulating Oil using a Scaled-down Transformer Internal Structure
+[NO] 190/841 | End-to-End Spectrally Driven Colorimetric Calibration Framework for Color Imaging Systems
+[NO] 191/841 | Pinching Antenna Systems: Waveguide-Power Loss and Free-Space Path Loss Trade-Off
+[NO] 192/841 | Q-Learning-Based Improved Discrete PSO for Multi-Objective Flexible Job-Shop Scheduling with Worker Fatigue and Dual Resources
+[NO] 193/841 | Vector-Space Global Collocation Method for Modeling Rod-Driven Parallel Continuum Manipulators
+[NO] 194/841 | Modeling and Control for Automated Sewing of Stretchable Fabrics of Different Shapes
+[NO] 195/841 | Automatic Current Balancing IPOP LLC Converter: A Full-Bridge Partial Power Processing Approach
+[NO] 196/841 | Heuristic Proposal to Design and Assess Pervasiveness in Video Games
+[NO] 197/841 | Welcome Message from the SIGMM Executives
+[NO] 198/841 | Analyzing Symbolic Properties for DRL Agents in Systems and Networking
+[NO] 199/841 | IEEE Pervasive Computing
+[NO] 200/841 | A Sliced Learning Framework for Online Disturbance Identification in Quadrotor SO(3) Attitude Control_supp3-3689054.mp4
+[NO] 201/841 | Erratum to “Deep Reinforcement Learning-Based eMBB and URLLC Service Multiplexing in Wireless NOMA Networks”
+[NO] 202/841 | Introduction to Graph Neural Networks for Machine Learning Engineers
+[NO] 203/841 | Transforming Natural Language into Knowledge Graph Queries with LinkQ: An Agentic Visual Interface
+[NO] 204/841 | Act on the present and peek into the past: A system for Asynchronous Immersive Analytics Collaboration
+[NO] 205/841 | Towards Safe and Comfortable Robotic Touch Interactions: Understanding Physical Interaction Parameters through Participatory Design of Robotic Touch Behaviors
+[NO] 206/841 | ZA-SLAM: Leveraging Vision-Language Model for Zero-Shot Acoustic SLAM
+[NO] 207/841 | Rethinking QoE in the Age of AI: From Algorithms to Experience-Based Evaluation
+[NO] 208/841 | Analysis of Always-Listening Services on Android
+[NO] 209/841 | An Affordable, Wearable Stereo-Eye-Tracking Platform
+[NO] 210/841 | FlashShield: Detecting Flash Loan Attacks in DeFi Using Hypergraph Neural Network
+[NO] 211/841 | DSAA-ViT: Density-Guided Split Axial Attention for PAM-4 Eye-Diagram Measurement
+[NO] 212/841 | Design of Contactless D-Band MMIC-to-Waveguide Transition Based on Multilayer Waveguide and SiGe Technology
+[NO] 213/841 | Descriptor:
+                    <i>Channel State Information for Digital Twin Dataset (CSI-DT)</i>
+[NO] 214/841 | Descriptor: WiFi-Granular Activities in Kitchen Dataset (Wi-GRAK)
+[NO] 215/841 | Quantum Week
+[NO] 216/841 | Descriptor:
+                    <i>Electronic Device Domain Factoid Question-Answering Dataset (ElecDevQA)</i>
+[NO] 217/841 | Robotic Steerable Sheath for Left Atrial Appendage Occlusion_supp2-3689692.png
+[NO] 218/841 | <i>Listen in: How Radio Changed the Home</i>
+                    —Beaty Rubens (Oxford, U.K.: Bodleian Library Publishers, 2025, 259 pp.)
+[NO] 219/841 | Assessing the Robustness of Prithvi Geospatial Foundation Model for Coastal Habitat Mapping under Data Availability and Domain Shift Scenarios
+[NO] 220/841 | Efficient CSI-Based Indoor Human Activity Recognition System Optimized for Edge Devices
+[NO] 221/841 | MATER:
+                    <u>M</u>
+                    utually
+                    <u>A</u>
+                    ware Framework for
+                    <u>T</u>
+                    eleoperated-robot with
+                    <u>E</u>
+                    xtended
+                    <u>R</u>
+                    eality
+[NO] 222/841 | An Introduction to the Universal Chiplet Interconnect Express (UCIe)
+[NO] 223/841 | From 'Nice Try' to 'Nice Throw': Exploring Counterfactual Explanations as Corrective Feedback for Javelin Throwing
+[NO] 224/841 | Demonstrating Infrastructure-Free Indoor Occupancy Visualization using Passive BLE Sensing
+[NO] 225/841 | Control of Fixation Duration During Visual Search Task Execution
+[NO] 226/841 | Pinpointing Transmitting LEO Satellites from a Single Passive Array
+[NO] 227/841 | Introduction to the Special Issue on GeoAI Foundation Models and Their Applications, Part I
+[NO] 228/841 | Factor-Informed Uncertainty Distillation for Gaze Estimation
+[NO] 229/841 | Visualization Lenses for Time-Binned AOI Occupancy in Eye-Tracking Analysis
+[NO] 230/841 | ARGO+: Achieving Multi-Level Scalable GNN Training on Distributed Multi-Core Platform
+[NO] 231/841 | Reliability and Validity of IMU-Derived Kinematic Metrics of a Drinking Task in Stroke Survivors and Healthy Individuals
+[NO] 232/841 | Update Your IEEE Profile
+[YES] 233/841 | Silicluster v2: A Scalable Open-Source Multi-Project SoC Architecture in Sky130 CMOS Enabling High-Density Modular Integration
+[NO] 234/841 | Robust Channel Estimation for Mobile Underwater Edge Nodes: A Mamba-Distilled Sparse Bayesian Learning Framework
+[NO] 235/841 | IEEE Transactions on Big Data
+[NO] 236/841 | Table of Contents
+[NO] 237/841 | A GaN-on-Si Doherty-Like Power Amplifier With Nonimpedance-Inverter Transmission Line for Smart Mobile Handset
+[NO] 238/841 | A Bidirectional and Polarization-Independent Meta-Glass with Enhanced Transmission Efficiency for mm-Wave 5G Applications
+[NO] 239/841 | UniCache: Unifying Prefix Cache Eviction for Heterogeneous LLM Serving Workloads
+[NO] 240/841 | Should New Software Engineering Professors Do an Internship?: Before Teaching Software Engineering Standards to Future Software Engineers
+[NO] 241/841 | Benefit–Risk Assessment in the Regulation of Pharmaceuticals
+[NO] 242/841 | On the Speculative Terminology Surrounding AI
+[NO] 243/841 | A Visualization and Control Interface for Rhythmic Relations
+[NO] 244/841 | Understanding the Potential of Artificial Intelligence to Semi-automatically Generate Realistic 3D Interactive Models of Composite Objects
+[NO] 245/841 | Vision-Driven Design
+[NO] 246/841 | WISP: Waste- and Interference-Suppressed Distributed Speculative LLM Serving at the Edge via Dynamic Drafting and SLO-Aware Batching
+[NO] 247/841 | Simulated-Annealing-Assisted Artificial Hummingbird Algorithm for Efficient Parcel Delivery in Smart City
+[NO] 248/841 | VBT-MPC: Vision-Based Tactile MPC for Contour Following
+[NO] 249/841 | Stretchable and Bendable Design of Pressure Sensor for Lower-Limb Motion Monitoring
+[NO] 250/841 | IEEE Member Discount Program
+[NO] 251/841 | IEEE App
+[NO] 252/841 | Temperature-Well·Applications Thermo-Optic Signal Degradation in High-Temperature Downhole Fibers: From Spectral Attenuation to Phase Topology
+[NO] 253/841 | Insights from Inside: Towards Explainable WiFi Sensing
+[NO] 254/841 | Nonlinear Optimal Control for Mismatched Disturbance Rejection and Its Application to AGV
+[NO] 255/841 | IEEE Circuits and Systems Society Information
+[NO] 256/841 | Advancing No-Reference Point Cloud Quality Assessment via Leveraging Prior Knowledge From Ranking Learning
+[NO] 257/841 | Active Amplifier-Based Sensing Metasurface
+[NO] 258/841 | Setting the Standard of Excellence in Publications
+[NO] 259/841 | Joint Port Selection and Phase Shift Optimization for Fluid Reconfigurable Intelligent Surfaces
+[NO] 260/841 | IEEE IT Professionals Call for Articles
+[NO] 261/841 | On The Use Of Electroencephalography In Query Performance Prediction
+[NO] 262/841 | [Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI
+[NO] 263/841 | Predicting Eye-Tracking Metrics in French Texts with Language Models
+[NO] 264/841 | Gaze behavior in a dual VR head pointing-and-walking task
+[NO] 265/841 | Towards Enhancing Visual Reasoning through Gaze-Semantic Alignment and Attention Correction
+[NO] 266/841 | Inducing Global and Focal View in UML Class Diagram Comprehension
+[NO] 267/841 | View Crew: A Wearable Eye Tracker-Based Viewing Guide for Museum Self-Reflection
+[NO] 268/841 | Semi-Persistent Queue-Assisted Carrier Aggregation for Non-GBR Traffic
+[NO] 269/841 | EmoRainbow: How Can Phygital Artefacts Support Emotional Regulation in Disaster Preparedness?
+[NO] 270/841 | An AI Tool for Gender Bias Analysis in News Publications
+[NO] 271/841 | Conceptual Alignment through Large Language Models: A Case Study in an Educational Context
+[NO] 272/841 | Gaze-informed Object Sequences for Egocentric Action Recognition using Deep Learning
+[NO] 273/841 | Cultural Accessibility: How Writing Direction and Pictorial Perspective Shape Gaze Dynamics
+[NO] 274/841 | BIONIC: A Co-Designed Hardware and Runtime for Time-Sensitive Battery-Free IoT
+[NO] 275/841 | Act Before It’s Too Late: Power-Efficient LLM Inference on Mobile Device
+[NO] 276/841 | TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References
+[NO] 277/841 | FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models
+[NO] 278/841 | Malware Patching Strategies in Edge Intelligence IoT Systems: A Differential Games Approach With Spiking Neural Networks
+[NO] 279/841 | ECCentric: An Empirical Analysis of Quantum Error Correction Codes
+[NO] 280/841 | Robotic Steerable Sheath for Left Atrial Appendage Occlusion_supp3-3689692.mp4
+[NO] 281/841 | ATP-VLA: A Robust Grasping Framework Driven by Temporal Asymmetric Multimodal Fusion and Representation Isomorphism
+[NO] 282/841 | Self-Adaptive Differential Evolution for Joint D-RIS Placement and Channel Estimation
+[NO] 283/841 | Empirical Evidence of Quantum Kernel Concentration in Few-Shot Keyword Spotting
+[NO] 284/841 | Distributed ISAC Resource Allocation for V2V Detection and Tracking
+[NO] 285/841 | Introducing IEEE Collabratec
+[NO] 286/841 | Locating Accountability and Centering the Margins for Ethical Technology Futures
+[NO] 287/841 | Wearable Rhythm: An Ambient Wearable for Promoting Awareness of Internal Rhythms
+[NO] 288/841 | Agents of Change: Decoding Human Voices in Large Language Models
+[NO] 289/841 | Joint Beamforming and UAV Deployment Optimization for ISAC-Enhanced UAV-Assisted VEC
+[NO] 290/841 | Quality of Multimedia Experience Meets Machine Intelligence
+[NO] 291/841 | MPEG Column: 153rd MPEG Meeting
+[NO] 292/841 | Bio-inspired Optofluidic Molecular Communication with Photothermally Actuated Microrobot Swarms
+[NO] 293/841 | Coarse Labels Matter: Revisiting the Role of Coarse-Grained Supervision in Fine-Grained Learning
+[NO] 294/841 | Decouple-Then-Synergize: A Self-Paced Collaborative Learning Network for RGB-T Snowy Urban Scene Parsing
+[NO] 295/841 | Topology-Guided Knowledge Transfer for Multiobjective Multitask Optimization_supp1-3696355.pdf
+[NO] 296/841 | Bandwidth Enhancement of Low-Profile Glass-Based Substrate Integrated Cavity Antenna-in-Package
+[NO] 297/841 | MuSL: Multimodal deep learning for generalizable prediction of synthetic lethality from sequence, transcriptomic, and network data
+[NO] 298/841 | A Novel Flux-Shunt DC-Saturated Magneto-Controlled Transformer: Structure, Modeling and Implementation
+[NO] 299/841 | Impulse Current Test System for High Frequency B-H Magnetic Ring Characterization
+[NO] 300/841 | Front Cover
+[NO] 301/841 | An analytical formula for stress-dependent anhysteretic behaviour
+[NO] 302/841 | Three-Dimensional Decoupled Atomic Norm Minimization for NLoS Target Localization in RIS-Aided FDA-MIMO Radar Systems
+[NO] 303/841 | Imbalanced Multi-Domain Multi-Modal Learning with Expert Collaboration and Dynamic Fusion Mechanism for Fake News Detection
+[NO] 304/841 | Non-dyadic Mobile Multi-Robot System Interaction: A Systematic Literature Review
+[NO] 305/841 | PCREQ: Automated Inference of Compatible Requirements for Python Third-party Library Upgrades
+[NO] 306/841 | ADL-CLIP: Text-Aligned RF Representation for Continuous ADL Detection in Home Environments
+[NO] 307/841 | Introduction to the Special Section on USENIX OSDI 2025
+[NO] 308/841 | Analyzing the Relationship Between Reading Times and Lexical Complexity Prediction in Romanian
+[NO] 309/841 | A Standardized Comparison of Blink, Wink, and Dwell as Selection Methods for Gaze-based Interaction
+[NO] 310/841 | Dynamical Time Course Analysis of Real-Time Gaze Metrics
+[NO] 311/841 | Partially Parallel Decoding for IRSA Over Fading and Noisy Channels
+[NO] 312/841 | NeuroHarmonium: An Interactive Neuroadaptive Musical Instrument Using Brain-Computer Interface and Neural Network Learning
+[NO] 313/841 | InvestChat: Exploring Multimodal Interaction via Natural Language, Touch, and Pen in an Investment Dashboard
+[NO] 314/841 | DirectionalIllusion: Displaying Different Images Based on Gaze Movement Directions using a High-Speed Projector
+[NO] 315/841 | Investigating the Design and Performance of Letter Chords
+[NO] 316/841 | Leveraging Large Language Models for Alt-Text Evaluation in E-Commerce: A Data-Driven Study
+[NO] 317/841 | Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices
+[NO] 318/841 | Prediction of Eye Dominance in VR
+[NO] 319/841 | Social Interaction Graphs for Eye Tracking
+[NO] 320/841 | Doctoral Consortium application Efficient lightweight Eye tracking algorithms aimed at Embedded solutions for smart eyewear
+[NO] 321/841 | MPEG Column: 152nd MPEG Meeting
+[NO] 322/841 | Paving the Way for Point Cloud Video Representation Learning Using a PDE Model
+[NO] 323/841 | A Bayesian Hierarchical Framework for Non-linear and Iterative Transfer Learning of Gaussian Process_supp1-3696225.pdf
+[NO] 324/841 | IEEE Membership
+[NO] 325/841 | Fast Adaptive Automatic Modulation Classification Under Non-Gaussian Impulsive Noise
+[NO] 326/841 | A
+                    <i>Q-V</i>
+                    -Based Stability Criterion for Recurrent Fault Ride-Through in Grid-Following Converters
+[NO] 327/841 | DSCAttenEMG: A Lightweight sEMG-Based Hand Gesture Recognition Model Via Depthwise Separable Convolution and Multi-Head Attention
+[NO] 328/841 | A Rapid, Model-Based Method for Screening Machine Learning Algorithms for EV Retired Battery Capacity Estimation with Limited Pack-Level Data
+[NO] 329/841 | I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling
+[NO] 330/841 | Computing Through Time: Post-Industrial Revolution
+[NO] 331/841 | Guiding Hyperspectral Tracking: A Cross-Modal Spatial Prompt and Dynamic Semantic Memory Framework
+[NO] 332/841 | Studying Webcam-based Gaze Estimation and Mouse Coordination for Cognitive Inferences
+[NO] 333/841 | Identifying Effective Program Comprehension Strategies through Gaze Transitions over Syntactic Elements
+[NO] 334/841 | GARB: A Gaze-Aware Reading Aid for the Browser
+[NO] 335/841 | Supporting Gaze Training for Microsurgical Suturing Using Task-Region Highlighting
+[NO] 336/841 | FOVAL: Subject-Adaptive, Calibration-Free Fixation Depth Estimation
+[NO] 337/841 | BeamMix: 3D Gaussian Mixture-of-Experts for Element-Space Wireless Channel Modeling
+[NO] 338/841 | A V/E-Band Mixer With an Integrated Octave LO Tripler in 0.1-
+                    <i>μ</i>
+                    m GaAs pHEMT Technology
+[NO] 339/841 | Multifrequency Hysteresis Compensation and Fuzzy-Adaptive Fast Terminal Sliding Mode for Piezoelectric Nanorobots
+[NO] 340/841 | PRAD++: Towards Robust Periapical Radiograph Analysis through Dataset and Model Advancements
+[NO] 341/841 | We Want to Hear From You!
+[NO] 342/841 | Dynamics-Enhanced Dual-Energy Transition Control of Low-Capacitance Voltage-Doubler LCC Converter Based on High-Precision State-Trajectory Modeling
+[NO] 343/841 | Machine Learning Approaches for Event Detection and Credibility Analysis in the Digital Information Environment: A Literature Review
+[NO] 344/841 | Structure-Aware Matrix Pencil for Estimating the Number of Damped Complex Exponentials
+[NO] 345/841 | SemanticDFL: Similarity-Aware Pull-based Personalized Decentralized Federated Learning
+[NO] 346/841 | Navigating Uncertainty in a Virtual Supermarket: Designing a VR Tool to Promote Autonomy in Autistic Youth
+[NO] 347/841 | SCAPED: Spoken Conversational AI Platform for Experiments on Dialogue
+[NO] 348/841 | Sensing-Assisted Secure Beamforming for RIS-Enabled ISAC With Leakage Suppression
+[NO] 349/841 | Adaptive Current Filter Fusion Strategy Based on Indirect Supervised Mechanism in Magnetic Suspension Balances
+[NO] 350/841 | AnAdaptive Graph Convolution-based Bi-level Planning Strategy for Urban Fast-Charging Stations in Electricity-Transportation Coupled Networks
+[NO] 351/841 | Model Predictive Black Start for Dynamic Formation of DER-Led Microgrids with Inrush Current Impacts
+[NO] 352/841 | HAECHI: Behavior-Aware Attacker-Centric Hierarchical Network Threat Detection Framework
+[NO] 353/841 | Synergistic Effects of Protons and Heavy Ions Irradiation on Enhanced Dual-Trench SiC MOSFETs
+[NO] 354/841 | Holographic imaging optofluidic platform for particles' three-dimensional location and reconstruction with physics-aware strategy
+[NO] 355/841 | Reinforcement Learning-Based MPC for CAV Platoon Subject to Random Switching Communication Topologies and Disturbances
+[NO] 356/841 | Boundary as Barrier: Boundary-Guided Coherence Refinement for Robust Semantic Segmentation
+[NO] 357/841 | U-DiffPlan: Uncertainty-Aware Trajectory Prediction and Planning Via Diffusion for Strategic Autonomous Racing
+[NO] 358/841 | Area and Energy Efficient Carry Select Adder utilizing Molecular Memristor
+[NO] 359/841 | Trajectory Planning for Continuum Space Manipulators Based on Generalized Jacobian Operator
+[NO] 360/841 | d-HNSW: A High-performance Vector Search Engine on Disaggregated Memory
+[NO] 361/841 | Closing the Foveal Gap: Perceptually Grounded Scanpath Comparison with Disc IoU
+[NO] 362/841 | Eye-Tracking-Controlled Social Gameplay in Virtual Reality for Distance Learners
+[NO] 363/841 | Toward Always-On PSOG: Wearable Gaze Tracking System via a PPG-Derived Optical Analog Front-End
+[NO] 364/841 | How do we look at images through polygonal apertures: The PolyCAT Dataset
+[NO] 365/841 | Blind Spots of Pupillary Metrics and Recommended Reporting Standards
+[NO] 366/841 | MulDar: Unleashing the Potential of Distributed COTS mmWave Radar by Exploiting Cross-Device Channels
+[NO] 367/841 | DeformRF: Data-driven Beamforming and Direction Finding with Deformable Antenna Arrays
+[NO] 368/841 | Fragile Deliveries: Inconsistencies in Android Parcel and Their Security Consequences
+[NO] 369/841 | Diversified Neural Networks: Defeating Adversarial Attacks via Numerous Orthogonal Variants
+[NO] 370/841 | Hope and Generational AI
+[NO] 371/841 | Who Gets Left Behind? The Uncomfortable Questions Behind Homecare Innovation
+[NO] 372/841 | Visual Interface Design for Informal Language Acquisition with Machine Translation and LLMs
+[NO] 373/841 | Robust Filtering for Multi-Object Tracking Against Stealthy Measurement-Oriented Adversarial Attacks_supp1-3697369.pdf
+[NO] 374/841 | ClassShift: Improving Fixation-to-Class Assignment in UML Class Diagrams
+[NO] 375/841 | Toward Understanding Multimodal Gaze-Enabled Exploratory Data Analysis in Visual Analytics
+[NO] 376/841 | Uncovering the effect of slippage on wearable eye trackers: a motion capture study
+[NO] 377/841 | What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metrics
+[NO] 378/841 | Massively Parallel In-Memory Computing via Frequency Multiplexing in Ferroelectric Capacitive Memory Arrays
+[NO] 379/841 | Design Methodology for a
+                    <i>CLLLC</i>
+                    Resonant Dual Active Bridge Converter with Minimized RMS Current and ZVS Operation for Predefined EV Charging Profile
+[NO] 380/841 | PEMI: Transparent Performance Enhancements for QUIC
+[NO] 381/841 | cuPTW: Leveraging Idle Compute Units for Massively Parallel GPU Page Table Walks
+[NO] 382/841 | From Motion Data to Meaning: Towards Human-Centered and Interpretable Movement Analysis Interfaces
+[NO] 383/841 | TombWriter: Scaffolding Story Archeology through Beat-Level Interaction in Human-AI Co-Writing
+[NO] 384/841 | Revealing Nature's Heartbeats: A Playful Experience for Teens
+[YES] 385/841 | Shift-Left Techniques in Electronic Design Automation: A Survey
+[NO] 386/841 | From ITS to EyeTS: Utilizing Eye Tracking for Context and Proactivity in Intelligent Tutoring Systems
+[NO] 387/841 | Train the Spire: An ML-Driven Single Player GWAP for Image Annotation
+[NO] 388/841 | VIVA Stimuli: A Web-Based Platform for Eye Tracking Stimuli
+[NO] 389/841 | An Empirical Study of Privacy-Utility Trade-offs in Gaze-Based Authentication for Extended Reality
+[NO] 390/841 | Internal vs. External Attention: Context-Agnostic Classification from Gaze Kinematics
+[NO] 391/841 | The Linear Session Abstract Machine
+[NO] 392/841 | SpMAP: Transparent Sparsity for LLMs
+[NO] 393/841 | A 4 × 112-GBaud Linear PAM-4 TIA With 65-GHz Bandwidth and 13.2-pA/ Input Noise for 1.6-T Optical Links
+[NO] 394/841 | Blank Space: Adaptive Causal Coding for Streaming Communications Over Multi-Hop Networks
+[NO] 395/841 | Visual servo tracking control for robot manipulator via Koopman operator-based disturbance observer
+[NO] 396/841 | Standards Compliant Cross Layer Coordinated Middleware for Time Sensitive 6G Embedded Education Management Systems
+[NO] 397/841 | Personalized Cycle-to-Failure Correction Method for New Electric Vehicle Lithium Batteries Based on Safety State Constraints and Bayesian Hybrid Reasoning
+[NO] 398/841 | A Survey of Functional Testing and Validation of Quantum Circuits
+[NO] 399/841 | BSTAR Parameter Correction and Improved Orbit Prediction Accuracy for Low-Earth Orbit Space Objects Based on LR-MS-TCN
+[NO] 400/841 | A Communication-Centric 6G–LLM Architecture for Scalable Tactical Autonomous Defense Vehicle Networks
+[NO] 401/841 | To the Moon and Back: Scaling GPT-5 for the Future of AI
+[NO] 402/841 | Collective Care for Ethical Innovation: Applying the “Binder Test” to Home Care Technologies
+[NO] 403/841 | Enhancing Pointing Gestures of Non-HMD Users in Asymmetric Collocated Mixed Reality Collaboration
+[NO] 404/841 | From Answer to Audio: Visual Traceability for AI-Assisted Meeting Retrieval
+[NO] 405/841 | AquaCode: Turning Transaction Platforms into Non-Invasive Liquid Quality Checker
+[NO] 406/841 | Physical Self-Supervised Learning: IMU Sensing without Manual Labels
+[NO] 407/841 | TimelyLLM: Time-sensitive LLM Serving System for Physical-I/O Limited Agents
+[NO] 408/841 | HoloMobile: Photorealistic Avatar on Mobile via Compact Dynamic Gaussians from a Monocular Video
+[NO] 409/841 | Quantitative Equational Logic
+[NO] 410/841 | A Robust Framework based on Embedding Projection Learning for Intelligent Process Monitoring_supp1-3697096.docx
+[NO] 411/841 | Machine Learning for Metamaterial Design: Methods, Challenges, and Future Perspectives
+[NO] 412/841 | Comparative Insights into NeRF 3D Scalability
+[NO] 413/841 | LOPAL: Local Performance-Aware Active Learning from Imperfect Demonstrations
+[NO] 414/841 | Wasserstein bounds for non-linear Gaussian filters
+[NO] 415/841 | Mosaic Entropy: A Novel Widely-Applicable Measure for Two-Dimensional Irregularity Analysis_supp1-3697682.pdf
+[NO] 416/841 | Reliability Test Techniques in Tabu Search Detection for Enhancing BER Performance of Array Reader Bit-Patterned Magnetic Recording Systems
+[NO] 417/841 | From Space to Economy: Deep Learning Fusion of Remote Sensing Data for Sub-National GDP Estimation
+[NO] 418/841 | Vulnerability Analysis of Multi-Timescale DC Microgrids under False Data Injection Attacks
+[NO] 419/841 | Near-Field Radio Simultaneous Localization and Mapping
+[NO] 420/841 | Low Harmonic Alternating Convex-Concave Modulation Strategy for Multi-Port Matrix Converter
+[NO] 421/841 | Unified Energy Function Tailored to Inverter-Based Resources with PI Controllers for Transient Stability Analysis
+[NO] 422/841 | Ethical Synthetic Text Generation for Vulnerable Populations Using Large Language Models: A Comprehensive Survey
+[NO] 423/841 | Design and characterization of a dense linear array EMAT based on spatial vertical winding coils for high-resolution imaging
+[NO] 424/841 | Minos: Systematically Classifying Performance and Power Characteristics of GPU Workloads on HPC Clusters
+[NO] 425/841 | Megatrends in Biomedical AI for Health Care From Data Foundations to Clinical Deployment
+[NO] 426/841 | The Conversational Exam: A Scalable Assessment Design for the AI Era
+[NO] 427/841 | Designing Advanced Interfaces for Learning and Teaching
+[NO] 428/841 | INI-DH 2026: 2nd Workshop on Innovative Interfaces in Digital Healthcare
+[NO] 429/841 | CoPDA2026: Exploring the Relationship between EUD, AI-Assisted Development, and Meta-Design
+[NO] 430/841 | Cloud-9: A Multimodal Interaction Paradigm for Assisted and Automated Parking Adoption
+[NO] 431/841 | When AI Lies with Charts: Misleading Infographics in Text-to-Image Generation
+[NO] 432/841 | LLMs to Support Speech Therapists in Creating Exercises: a Preliminary Study
+[NO] 433/841 | Evaluating the Feasibility of Superposed QR Code Attacks Using High Refresh Rate Displays
+[NO] 434/841 | Voices from the Lagoon
+[NO] 435/841 | Cyber Threat Intelligence Based Resource Allocation Model for  IoE-Edge
+[NO] 436/841 | Capacitive Eye Tracking: a First Fully-Embedded Demonstrator
+[NO] 437/841 | Searching for Eye Movement Correlates of Mental Fatigue When Working with Gaze-Controlled Software Using Low-Cost Eye Trackers
+[NO] 438/841 | Computational Operationalization Choices for Spatial Data Quality in Screen-Based Eye Tracking
+[NO] 439/841 | [Emerging Ideas] Towards Practical Metabolic Sensing with Wearable TEGs
+[NO] 440/841 | [Emerging Ideas] OrbitTransit: Traffic Delivery and Diffusion for Earth Observation via Satellite Mobility
+[NO] 441/841 | SpecSentry: Micro-power Wideband Spectrum Surveillance for Ephemeral Transmissions
+[NO] 442/841 | ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference
+[NO] 443/841 | 4D Imaging in ISAC Systems: A Framework Based on 5G NR Downlink Signals
+[NO] 444/841 | KGDNet: Knowledge-Guided Decoupled Modeling of Heterogeneous Change Mechanisms for Remote Sensing Change Detection
+[NO] 445/841 | Enhancing Speed of Piezoelectric Inchworm Actuator by a Monolithic Duple-Step Driving-Clamping Mechanism
+[NO] 446/841 | Efficient and Effective Personalized In-Context Learning for On-device Large Model Services
+[NO] 447/841 | Practical Lossless Volumetric Medical Image Compression via Tri-plane Context Tree Learning
+[NO] 448/841 | An Adaptive PI-Based Current Balancing Control Method for the Unbalanced Three-Phase
+                    <i>LLC</i>
+                    Resonant Converter
+[NO] 449/841 | Multi-Stage Optimization of Multi-Truck-Drone Cooperative Emergency Delivery Under Progressive Road Recovery
+[NO] 450/841 | Online Max-Min Fairness Guarantee for Request Completion Rates in Collaborative Edge Inference
+[NO] 451/841 | Performance Evaluation and Optimization of TiO₂-Based Nano-Modified Natural Ester–Mineral Oil Blends for Transformer Insulation using PCA-Integrated MCDM Techniques
+[NO] 452/841 | Introduction to the Special Issue on Trustworthy Security and Privacy-AI Powered Autonomous Driving
+[NO] 453/841 | Beyond Analog Mimicry: Reframing Digital Automotive Dashboards for Awareness-Driven Driving Experience
+[NO] 454/841 | Towards Design Guidelines to Support Young Adults' Digital Wellbeing with Large Language Models
+[NO] 455/841 | Trustworthy Recommender Systems for Multiple Stakeholders
+[NO] 456/841 | Navigating the Pattern Maze: A Human-Centered Investigation into Structuring Web Design Patterns
+[NO] 457/841 | Designing Adaptive AI Assistance for Block-Based Modelling: a Wizard of Oz Study with Domain Experts
+[NO] 458/841 | Open-source event-related pupillometry using PupilEXT
+[NO] 459/841 | A Systematic Methodology for Deriving Executable Attack Scenarios in Electric Vehicle Charging Infrastructure
+[NO] 460/841 | Secure Digital Semantic Communications: Fundamentals, Challenges, and Opportunities
+[NO] 461/841 | Wearable Guiding System with Traction-Kinesthetic Feedback for the Visually Impaired
+[NO] 462/841 | CodeAct: Codebook-guided Multi-skill Integration for Dynamic Humanoid Whole-body Control
+[NO] 463/841 | Improving Generalization in Deepfake Detection with Feature-Space Adversarial Consistency
+[NO] 464/841 | High-order Feature-Guided Efficient Semantic Communication System for Point Cloud Transmission
+[NO] 465/841 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp2-3691061.mp4
+[NO] 466/841 | A Novel Bidirectional DC Solid-State Circuit Breaker With High DC Voltage Utilization Ratio
+[NO] 467/841 | Model Predictive Based Distributed MPPT Control for Modular DC–DC Converters in Thermoelectric Generator Systems
+[NO] 468/841 | Beyond Correlation: Causal Intervention for Multi-Label Medical Image Diagnosis
+[NO] 469/841 | IEEE Technology and Society Magazine Publication Information
+[NO] 470/841 | Study and evaluation of optimal placement of applications in mixed environments including quantum computers for environmental adaptation
+[NO] 471/841 | Mechanistic Insights into Voltage Maintaining Performance of Dielectric Films: Material Dependence and Field Effects
+[NO] 472/841 | The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences
+[NO] 473/841 | Performance Analysis of the Randomized SIEVE/CLOCK Cache Replacement Algorithm
+[NO] 474/841 | Analyzing C/C++ Library Migrations at the Package-level: Prevalence, Domains, Targets and Rationales across Seven Package Management Tools
+[NO] 475/841 | Unveiling the Potential of iMarkers: Invisible Fiducial Markers for Advanced Robotics
+[NO] 476/841 | A Practical Framework for Complex Interrupted Sampling Repeater Jamming Parameter Measurement
+[NO] 477/841 | Analysis of Magnetic Domain Transition for Magnetostrictive Co-Nb-Zr thin film strips with inclined uniaxial easy-axis
+[NO] 478/841 | IEEE Computer Society Call for Papers
+[NO] 479/841 | Your AI-Generated Assets May Not Be Yours
+[NO] 480/841 | Visual Diffs: Towards Versioning of Tactons
+[NO] 481/841 | GeoMINDS: a Web-Based Framework to Flexibly Instantiate Multi-Surface Interfaces for Spatial Decision-Making
+[NO] 482/841 | Does Removing Pen Pressure in Cost-Cutting Pen Designs Matter for Handwritten Learning in Education? A Case Study of Geometry Problem Solving
+[NO] 483/841 | CIVICS - Citizen Science Advanced Interfaces: from Sensing to Sensemaking
+[NO] 484/841 | Time WizARd: Exploring the Use of Augmented Reality for Supporting Multitask Timekeeping in Kitchen Cooking
+[NO] 485/841 | Glyphspace: An Integrated Browser-Based Workflow for Glyph-Enriched Dimensionality Reduction
+[NO] 486/841 | DeepSoil: Physics-Guided Learning for High-Resolution Soil Moisture Mapping from Surface to Root-Zone via Multimodal Sensing and Process-Based Modeling
+[NO] 487/841 | Token Mines: A Defense Against Agents and Large Language Models
+[NO] 488/841 | Optimizing the nighttime identity of the city. The search for a sustainable solution for architectural illumination using eye-tracking technology.
+[NO] 489/841 | PyeLink and SyeLink: Open-source Python tools for low-level EyeLink experiment control and data parsing
+[NO] 490/841 | MCFW-Gaze: MultiContext Free-Web Gaze Dataset
+[NO] 491/841 | Investigating Fatigue in a 16-Hour Simulated Workday Using Eye-Tracking in VR
+[NO] 492/841 | Self-supervised T2WI-bridged framework for liver segmentation and PDFF prediction from US images
+[NO] 493/841 | Quantitative Trust and Behavioral Measurement Tools for Optimizing Human–Robot Interaction
+[NO] 494/841 | QDS-SNN: Energy-efficient Quantum Deeply-Supervised Spiking Neural Network Algorithm for Traffic Sign Recognition
+[NO] 495/841 | Partial Discharge Pattern Classification in High-Voltage Equipment: A Probabilistic Diagnostic Approach
+[NO] 496/841 | DANCE: A Lightweight Dynamic Adapter Network for Real-Time Traffic Accident Anticipation
+[NO] 497/841 | Analysis of Brain-Assisted Speech Enhancement Models Incorporating Auditory Attention Decoding
+[NO] 498/841 | AdPrST:An Adversarial Graph Deep Learning Pre-clustering Framework for Deciphering Spatiotemporal Structures in Spatially Resolved Transcriptomics_supp1-3697726.pdf
+[NO] 499/841 | Digital Twin Channel-Based CSI Prediction: An Environment-Based Subspace Extraction Approach for Achieving Low Overhead and High Robustness
+[NO] 500/841 | IEEE Computer Society Information
+[NO] 501/841 | A Sliced Learning Framework for Online Disturbance Identification in Quadrotor SO(3) Attitude Control_supp2-3689054.mp4
+[NO] 502/841 | Explainable and Conflict-Aware Cell Sleep Control in O-RAN via Monotonic Neural Additive Models
+[NO] 503/841 | SF-DynFinGC: Scale-Free Dynamic Graph Construction for Event-Driven Spatio-Temporal Learning in Financial Anomaly Detection
+[NO] 504/841 | Tackling the Malicious Gradients in Decentralized Learning by Reversible Differential Privacy and Secure History-Aware Aggregation
+[NO] 505/841 | A Multi-Agent AI System for Human-in-the-Loop Cognitive Walkthrough
+[NO] 506/841 | Telling Where You Are Without Saying Too Much
+[NO] 507/841 | Designing and Building Hybrid Human–AI Systems (SYNERGY 2026)
+[NO] 508/841 | Can Human Gaze Supervision Improve VLM Robustness to Misleading Data Visualizations?
+[NO] 509/841 | Advances in Map-based Interfaces and Interactions – MAPII
+[NO] 510/841 | Digital Tools for Connecting with Blue Spaces
+[NO] 511/841 | Using Open-Ended Elicitation to Explore Adults' Virtual-Object Interaction Preferences in AR Headsets
+[NO] 512/841 | Proceedings of the 5th ACM Workshop on security implications of Deepfakes and Cheapfakes
+[NO] 513/841 | Event-Triggered Adaptive Enhanced Fast Terminal Sliding Mode Control Based on
+                    <i>K</i>
+                    <sub>∞</sub>
+                    Functions for Quadrotor UAVs
+[NO] 514/841 | Zero-Axis Control Based Battery Impedance Identification in Series-end Winding Motor Drives
+[NO] 515/841 | Human-in-the-loop Control Framework for Robot-mediated Error Augmentation Training Based on Muscle Synergy Assessment
+[NO] 516/841 | Self-supervised Representation Learning for Dynamic Functional Connectivity with Subject-wise and Temporal Contrasts
+[NO] 517/841 | Demand-Aware Multi-Area Multi-UAV Empowered Mobile Edge Computing: A Joint Energy and Delay Optimization_supp1-3697839.pdf
+[NO] 518/841 | Randomization Mechanism Based on Elliptical Distributions for Location Privacy in Geo-Indistinguishability
+[NO] 519/841 | Phenyl-Based Intrinsic Modification for Enhanced Interfacial Reliability of Silicone Gel in High Voltage Power Module Packaging
+[NO] 520/841 | IEEE Computing Edge
+[NO] 521/841 | IEEE Computer Society Grants for Emerging Technologies
+[NO] 522/841 | A Sliced Learning Framework for Online Disturbance Identification in Quadrotor SO(3) Attitude Control_supp1-3689054.pdf
+[NO] 523/841 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp3-3691061.mp4
+[NO] 524/841 | Grid-Aligned Particle Swarm for Large-Scale Multiobjective Optimization
+[NO] 525/841 | Direct Parameter Mapping Optimization Control of LCC Resonant Converter for Distributed Photovoltaics
+[NO] 526/841 | Artificial Micro-Doppler Flashes for Aerial Vehicle Identification: Drone Vehicle Identification Number via Blade Coding
+[NO] 527/841 | Analyzing Visual Attention Patterns During Band Rehearsal with Mobile Eye Tracking
+[NO] 528/841 | Fixation Sequences as Time Series: A Topological Approach to Dyslexia Detection
+[NO] 529/841 | Is this it? Benchmarking Scanpath Metrics for Information Display
+[NO] 530/841 | Accurate 3D Gaze Estimation in a Controlled Environment using Gaze-tracking Glasses and Motion Capture
+[NO] 531/841 | Are We Ready to Enable Satellite Autonomy Through on Board Image Registration?
+[NO] 532/841 | Mobile GUI Agents under Real-world Threats: Are We There Yet?
+[NO] 533/841 | GlucOS: Security, correctness, and simplicity for automated insulin delivery
+[NO] 534/841 | VQEG Column: Finalization of Recommendation Series P.1204, a Multi-Model Video Quality Evaluation Standard — The New Standards P.1204.1 and P.1204.2
+[NO] 535/841 | Always Controlled by What We Control: Rewiring Algorithmic Perception in an Interactive Installation
+[NO] 536/841 | Evaluation of Advanced Multimodal Interfaces: Towards New Methodologies
+[NO] 537/841 | InsightAR: A Tool for Multi-modal Summarization and Interactive Analysis of AR-based Egocentric Task Videos
+[NO] 538/841 | Training Station: A Learning Ecosystem for an Inclusive AI Workforce
+[NO] 539/841 | Geometries of Navigation: A Comparative Study of Transit Map Layouts
+[NO] 540/841 | EmoArc: Interactive Emotion Graph for Human-AI Collaborative Writing
+[NO] 541/841 | Beyond Distance Metrics: A Nested Model of Similarity in Visual Art Search
+[NO] 542/841 | The MediaEval Benchmark Looks Back at a Successful Fifteenth Edition, and Forward to its Sweet Sixteen
+[NO] 543/841 | DeepNurse: Self-healing Neural Networks for Unknown Domains
+[NO] 544/841 | BlenDR: Bandwidth-efficient RGB-D Representation and Delivery for Live 3D Video Streaming
+[NO] 545/841 | Wideband Low-complexity High-speed 5G NR Backscatter
+[NO] 546/841 | Gaze patterns predict preference and confidence in pairwise AI image evaluation
+[NO] 547/841 | Synonym Knowledge Graph Enhanced Language Model for Inconsistent Hallucination Detection
+[NO] 548/841 | Masthead
+[NO] 549/841 | Wildfire Occurrence Prediction via Modular Reuse of Frozen Intermediate Gemma 3-1B Decoder Blocks
+[NO] 550/841 | Design and Control of a Multimodal Rotor-Assisted Pendulum-Driven Spherical Robot
+[NO] 551/841 | Influence of Epitaxial Layer Thickness on the Holding Voltage Scalability of Bi-directional SCR Devices
+[NO] 552/841 | Blank Page
+[NO] 553/841 | Cross-Project Flakiness: A Case Study of the OpenStack Ecosystem
+[NO] 554/841 | A Low Power Consumption Software PUF Based on Video Coding Hardware for Image Frame Encryption
+[NO] 555/841 | Adaptive Measurement Noise for Robust Kalman Filtering in Smart Beehive Telemetry
+[NO] 556/841 | LNeRV: Disentangled Latent Representation for Semantic-Aware Video Dynamics Modeling
+[NO] 557/841 | Transmission-Line Coupled Reconfigurable Intelligent Surfaces Under Partial Illumination
+[NO] 558/841 | A Novel Circularly Polarized Wideband Folded Fresnel Lens Antenna with Out-of-band Suppression
+[NO] 559/841 | Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion
+[NO] 560/841 | Closed-Form SINR Expression of Precoding Techniques in Cell-Free Massive MIMO over Rician Fading Channels
+[NO] 561/841 | Privacy-Preserving Data Completion With Location and Value Obfuscation in Spatial Crowdsourcing
+[NO] 562/841 | Depth–Normals Fusion and Photometric Stereo Errors Self-Correction using Joint Optimization
+[NO] 563/841 | Optimizing Dropout in LLM Training: Performance Comparison of Fusion and Overlap
+[NO] 564/841 | The Price of Strategic Information: Degree-Based Bounds on Inefficiency in Distributed Learning Games
+[NO] 565/841 | Open Source Governance Practices: A Path to Improving Sustainability
+[NO] 566/841 | BonGO: Reimagining the In-Car Experience through Phygital Interaction and AI-Driven Narrative Co-Creation
+[NO] 567/841 | Preliminary Eye Tracking Evidence of Visual Search Differences in Cerebral Visual Impairment
+[NO] 568/841 | Visitor and Kangaroo as a Large-Scale AOI-Structured Yarbus Replication Dataset
+[NO] 569/841 | Designing Implicit Gaze-Aware Interactions for Scatterplot Analysis
+[NO] 570/841 | Dual Eye Gaze in Surgical Training: Customizing Mobile Eye Tracking for Narrow Operating FOV
+[NO] 571/841 | Microwatt Microwave (M²) Oscillator: Going Beyond the Delegation Architecture of Low-power Wireless Communication
+[NO] 572/841 | Agent-X: Full Pipeline Acceleration of On-device AI Agents
+[NO] 573/841 | Fine-grained Soundscape Control for Augmented Hearing
+[NO] 574/841 | Governed Discrete Integral Sliding Mode Control for Twisted-Coiled Polymer Actuators
+[NO] 575/841 | Scatterer Trajectory Association Based on Motion Model for ISAR Image Sequence and Analysis of Influence Factors
+[NO] 576/841 | Learning Fine-Grained Urban Mobility Dynamics Through Large Model-Enhanced Multimodal Representations
+[NO] 577/841 | On-Device Generalizable Acoustic NLoS Identification via IQ Trajectory Representation
+[NO] 578/841 | Table of Contents
+[NO] 579/841 | 50 &amp;amp; 25 Years Ago
+[NO] 580/841 | Generalizable Link Adaptation for NR Systems Based on Meta Deep Reinforcement Learning
+[NO] 581/841 | Emergent Bifurcations in Quantum Circuit Stability from Hidden Parameter Statistics
+[NO] 582/841 | Sustainable Recycling of Waste Aramid Paper Enabled by PAR Nanofiber Interlocking for High-Performance Insulation Applications
+[NO] 583/841 | Event-Triggered Adaptive Neural Trajectory Tracking Control of Uncrewed Surface Vehicle With Output Constraints and Quantization
+[NO] 584/841 | Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization
+[NO] 585/841 | Chat-Driven Reconfiguration of Model Predictive Control
+[NO] 586/841 | IEEE Journal of Quantum Electronics Publication Information
+[NO] 587/841 | IEEE Journal of Quantum Electronics Information for Authors
+[NO] 588/841 | Generative AI-enabled energy-efficient CRSNs for Consumer electronics applications in smart healthcare: An IoT Approach
+[NO] 589/841 | In-Context Meta-Learning-Based Model Predictive Contouring Control for Unmanned Surface Vehicles
+[NO] 590/841 | A Maximum Torque Per Loss Control Strategy for IPMSM Drive System Based on Torque Closed-Loop
+[NO] 591/841 | Multi-band, multi-GNSS polarimetric GNSS-R observations from SCOMAG airborne campaign
+[NO] 592/841 | Modeling, Analysis, and Control of Active Distribution Networks with Smart Loads
+[NO] 593/841 | Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation
+[NO] 594/841 | VerTE-MT: A Multi-Task Framework with Entropy-Guided Sampling for Vertebrae Segmentation and Localisation in CT
+[YES] 595/841 | LPGSim: A Lightweight Parallel GPU Simulator Maximizing Speed with Trustworthy Simulation
+[NO] 596/841 | Future Horizons in Human–AI Interaction: Joint Perspectives from HCI and AI
+[NO] 597/841 | Dimension-Independent Channel Estimation for RIS-Assisted Communications: From Cascaded to Separate
+[NO] 598/841 | Enhanced Pilot Design for Collision-Resilient Unsourced Random Access in Massive MIMO
+[NO] 599/841 | Mathematical Foundations and Deep Learning Models for Deepfake Detection
+[NO] 600/841 | Rapid Plant Health Monitoring for Leafy Greens through Carbon Dioxide Sensing
+[NO] 601/841 | Experiencing Creativity in Upper Secondary Level Computer Science in Ireland: the synergistic role of Content, Pedagogy and Assessment
+[NO] 602/841 | Watching in the Rhythm: The Attentional Microstructure in Aesthetic Image Viewing
+[NO] 603/841 | Susceptibility to High-Fidelity Misinformation: An Eye-Tracking Analysis
+[NO] 604/841 | Lightweight Neural Networks for Event-Based 3D Gaze Estimation on Wearable Devices
+[NO] 605/841 | Finding Workload in the Wild: Recovering Latent Cognitive Dynamics Jointly from Eye Metrics and Driving Telemetry
+[NO] 606/841 | Cooperative Drone-Vehicle Mobile Edge Computing for Low-Altitude Inspection
+[NO] 607/841 | Finite-Time Stability of Switched Nonlinear Systems With Partially Unstable Modes via Hybrid Switching
+[NO] 608/841 | Investigating the Properties of Kilohertz Coaxial Self-Resonant Structures for Inductive Power Transfer
+[NO] 609/841 | IEEE Computer Society Membership
+[NO] 610/841 | High-Quality Entity Segmentation and Grounding
+[NO] 611/841 | UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift
+[NO] 612/841 | EvTurb: Event Camera Guided Turbulence Removal_supp1-3697623.pdf
+[NO] 613/841 | Optimal Temperature-Constrained Charging of IMC Trolleybuses at Low Speeds and Standstill
+[NO] 614/841 | DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model
+[NO] 615/841 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp5-3691061.mp4
+[NO] 616/841 | A Stiffness-Adaptive Visuo-Tactile Robotic Palpation System for Surface Texture Profiling and Deep Lesion Localization_supp2-3691370.pdf
+[NO] 617/841 | An Efficient Optimal Trajectory Planning and Control Framework for Quadruped Robot Jumping Through Constrained Obstacles
+[NO] 618/841 | RMAS: Risk Mitigation Agent System, An Autonomous Framework for Real-Time Supply Chain Risk Management
+[NO] 619/841 | Ultra-Compact Widely Tunable Dual-Passband Microwave Photonic Bandpass Filter
+[NO] 620/841 | Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-View Geo-Localization
+[NO] 621/841 | A Novel Online Insulation Diagnosis Scheme for HVDC Cables Based on Resonant Point Trajectory
+[NO] 622/841 | Quantification-Enabled Failure Mode Separation for IGBT Module Package Degradation Assessment
+[NO] 623/841 | Photovoltaic Scenario Generation via Multimodal Fusion and Local Window Attention
+[NO] 624/841 | Cooperative Target Fencing Safety Control for Multiple Autonomous Aerial Vehicles via Nonlinear Model Predictive Control
+[NO] 625/841 | Volume 9, Issue 2: Social Computing at Scale — Trust, Behavior, and System Design
+[NO] 626/841 | LentiMorpho: A Lens Array Based Display with Switchable View-Dependent and View-Independent Modes by Varying Liquid Volume
+[NO] 627/841 | Towards Improving the Robustness of Deepfake Audio Detection With Denoising Methods
+[YES] 628/841 | ACALSim: A Scalable Parallel Simulation Framework for High-Performance System Design Space Exploration
+[NO] 629/841 | Magic Gaze: Enabling Seamless Control of IoT Devices Through Eye Tracking
+[NO] 630/841 | The Need for Real-Time Metrics and Related Research Protocols
+[NO] 631/841 | Needle in a Haystack: Tracking UAVs from Massive Noise in Real-World 5G-A Base Station Data
+[NO] 632/841 | Research on a Machine Learning-Based Method for Identifying the Distribution of Radioactive Source Terms on the Inner and Outer Walls of Metallic Pipelines
+[YES] 633/841 | ICCQ
+[NO] 634/841 | A Novel Consequent-Pole Variable Flux Machine with Flux Barrier Design
+[NO] 635/841 | A Spectral-spatial Adaptive Weighted Method for Shadow Removal in Vegetation Canopy Using Multi-scale UAV-based Hyperspectral Imagery
+[NO] 636/841 | Large-Signal Stabilization of On-Board Hybrid Power Supply Systems Supplying Constant Power Load Based on Composite Control
+[NO] 637/841 | Novel Left-and-Right Two-Step Discrete ZNN Model for Time-Dependent Nonlinear Optimization With Equality and Inequality Constraints Applied to Robot Manipulator
+[NO] 638/841 | Towards SDG 7: A Quantitative Sustainability Framework for Evaluating PV+BES Systems in the Low-Carbon Transition_supp1-3696115.docx
+[NO] 639/841 | SURE: A High-Performance, Efficient, and Secure Serverless Framework Based on Unikernels_supp1-3697819.pdf
+[NO] 640/841 | Thermo-switchable Broadband Multifunctional Polarized Metamaterial
+[NO] 641/841 | Multilevel Control Strategy of Human-Exoskeleton Cooperative Motion via Gait Optimization and Fixed-time Adaptive Techniques
+[NO] 642/841 | DNN Obfuscation with Contrastive Learning for Efficient Defense against Side-Channel Attacks_supp1-3697449.pdf
+[NO] 643/841 | Particle Trapping and Optical Conveyor Belt Based on a Triple-Core Fiber
+[NO] 644/841 | The Effect of Idea Elaboration on the Automatic Assessment of Idea Originality
+[NO] 645/841 | LLM-empowered Shared Cross-Reality to Enhance Communication Skills in Individuals with Neurodevelopmental Disorders
+[NO] 646/841 | ACM SIGMM Multimodal Reasoning Workshop
+[NO] 647/841 | A Comparative Audit of Demographic Reporting Practices in Eye Tracking Datasets: Gaps and Biases
+[NO] 648/841 | From Pixels to Representations: Linking Face Preview Effects to Variational Autoencoder Codes
+[NO] 649/841 | Preprocessing Eye-Tracking Data for Reading: A Community Survey on Practices, Challenges, and Needs
+[NO] 650/841 | Multi-Modal Position Estimation of Autonomous Vehicles using Anomaly Detection and Kalman Filter
+[NO] 651/841 | Anonymous and Privacy-Preserving Post-Quantum Key Encapsulation-Based Authentication Scheme for UAV-Assisted Internet of Autonomous Vehicles
+[NO] 652/841 | TechRxiv: Share Your Preprint Research with the World!
+[NO] 653/841 | Reactive Power Compensation in Medium-Voltage High-Power Current Source Rectifier-Fed Topologies
+[NO] 654/841 | Nonsmooth Loop Filter for Phase-Locked Loops: Design, Analysis, and Validation
+[NO] 655/841 | Toward FPGA Cloud Security: A Ring Oscillator-free and Low-power Attack Circuit
+[NO] 656/841 | Performance Enhancement of an Interleaved Parallel Three-Coupled Inductor Boost Converter
+[NO] 657/841 | COSMOS-RV: A Lightweight Single-Issue Speculative Out-of-Order 32-Bit RISC-V Processor with Virtually Indexed Physically Tagged Cache Architecture and FPGA Validation
+[NO] 658/841 | EFS-YOLO: A steel surface defect detection model fusing multi-scale edge features and frequency-domain information
+[NO] 659/841 | Supervision-Guided Contrastive Learning for Rolling Bearing Fault Diagnosis under Label Scarcity
+[NO] 660/841 | How to Tailor Power-Electronic Inertia to the Constraints of its Resource
+[NO] 661/841 | IEEE Transactions on Circuits and Systems--II: Express Briefs Publication Information
+[NO] 662/841 | Table of Contents
+[NO] 663/841 | IEEE Control Systems Society Publication Information
+[NO] 664/841 | Overview of Open Dataset Sessions and Benchmarking Competitions in 2023–2025 - Part 4 (ACM MMSys 2023, 2024, 2025)
+[YES] 665/841 | [Emerging Ideas] IoTGen: Towards LLM-diriven IoT Hardware Generation
+[NO] 666/841 | The Global Architecture of AI Regulation: Mapping Jurisdictional Fragmentation and Multinational Enterprise Compliance Strategies
+[YES] 667/841 | Thermal- and Aging-Aware Rowhammer Vulnerability Analysis of Monolithically-Integrated IWO eDRAM for Edge Platforms
+[NO] 668/841 | Phase-Dependent Scanpath Dynamics in Map-Based Tasks
+[NO] 669/841 | Gaze Entropy and Gaze Density as Indicators of Cognitive Load in Bilingual Reading: A Webcam-Based Eye Tracking Study
+[NO] 670/841 | User Study on the Influence of Prior Beliefs on Gaze Behavior in Scatterplots
+[YES] 671/841 | Analyzing Reading Behavior across Source Code and Stack Overflow for Method and Class Summarization
+[NO] 672/841 | RF Super Resolution: A Deep Learning Approach to Spatial Enhancement for LoRa
+[NO] 673/841 | Listen Over the Air: Towards Long-Range Low-Power Backscatter Downlink
+[NO] 674/841 | Geographical Centralization Resilience in Ethereum's Block-Building Paradigms
+[NO] 675/841 | A Lightweight UWB Radar Multi-Person Action Recognition Method
+[NO] 676/841 | A Millimeter-Wave Vertically-Polarized End-Fire Antenna With Zero Clearance for Metal-Frame Mobile Terminals
+[NO] 677/841 | Robust mmWave Connectivity via Relay-Coordinated Path Control in Industrial Robots
+[NO] 678/841 | Collision-Aware Spatially Constrained Kinematic Optimization With Hierarchical Detection for the CMOR Manipulator
+[NO] 679/841 | Electric Motors Exposed to Ambient Stresses During Industrial Operations: Partial Discharge Diagnostics
+[NO] 680/841 | A Stiffness-Adaptive Visuo-Tactile Robotic Palpation System for Surface Texture Profiling and Deep Lesion Localization_supp1-3691370.mp4
+[NO] 681/841 | Compromised Control of DC Microgrids With ZIP Loads and Nonnegligible Line Loss
+[NO] 682/841 | Approximate Nonovershooting Zeta-Backstepping Control With its Applications to Quad-Rotors
+[NO] 683/841 | Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes
+[NO] 684/841 | EFSANet: Explicit Frequency Modeling and Style-Aware Alignment for Hyperspectral—Multispectral Image Fusion
+[NO] 685/841 | A Fully-Integrated CMOS Gate Driver for a GaN-Based Half-Bridge in 48V/12V Bidirectional Automotive Power Conversion
+[NO] 686/841 | PriRAG: Privacy-Preserving Inference for Retrieval-Augmented Large Language Models
+[NO] 687/841 | AL-KalmanNet: Neural Network-Aided Kalman Filtering Based on Active Learning
+[NO] 688/841 | Obstacle Avoidance of a Snake Robot by Partial Deformation of Crawler Gait for Overhead and Lateral Constraints
+[NO] 689/841 | Residual Rotation Correction Using Tactile Equivariance
+[NO] 690/841 | BEOL-Compatible NV-SRAM With Stacked ITO FETs and HfO
+                    <sub>2</sub>
+                    -Based Ferroelectric Capacitors
+[NO] 691/841 | Segmented Linear Regression Modeling for Interpretable AC Core Loss Prediction in Magnetic Powder Cores
+[NO] 692/841 | Distributed Agency and Multimodal AI Interfaces: Meaning, Human-Centered Implications, and Pathways to Design and Implementation
+[NO] 693/841 | A Design Space and Exploration Tool for Visual Interfaces in Recommender Systems
+[NO] 694/841 | Visual Transformation for Reflective Ambient Displays: Comparing Mirror and Frame Representations
+[NO] 695/841 | DataForager: Integrating and Visualizing Datasets From the Web Using Large Language Models
+[NO] 696/841 | Distance Measuring under Water with Increased Accuracy and Improved Design
+[NO] 697/841 | Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data
+[NO] 698/841 | Night Eyes: A Reproducible Framework for Constellation-Based Corneal Reflection Matching
+[NO] 699/841 | Enhancing Eye Feature Estimation from Event Data Streams through Adaptive Inference State Space Modeling
+[NO] 700/841 | Stabilizing FOV Under the Microscope: Towards Eye-Hand Coordination in Motor-Control Tasks
+[NO] 701/841 | Automated geometric compliance assessment of barrier-free ramps based on LiDAR data_supp1-3697078.docx
+[NO] 702/841 | Verifiable and Privacy-Preserving Multidimensional Range-Aggregate Queries for Spatio-Temporal Data
+[NO] 703/841 | Artificial Intelligence and Deep Learning for Antimicrobial Resistance Prediction: A Scoping Review of Architectures and Explainability
+[NO] 704/841 | An Optimized FLOD-FDTD Method for Transverse-Magnetic Waves in Lossy Media
+[NO] 705/841 | High-Precision Electromagnetic Acoustic Inspection Based on Arc-Focused Phased Array and Phase-Coherent Synthetic Aperture Imaging
+[NO] 706/841 | RCodSpace: A Robust Learned Coding Method for Deep Space Visual Transmission_supp1-3695654.pdf
+[NO] 707/841 | From Quantum Promise to Quantum Practice
+[NO] 708/841 | Energy-Efficient UAV–IRS Coordination in Vehicular Networks Using GNN-Enhanced MADRL
+[NO] 709/841 | Sun-Outage-Aware Topology Modeling and Adaptive Routing for Optical Satellite Networks
+[NO] 710/841 | Call for Papers---2026 IEEE International Symposium on Technology and Society
+[NO] 711/841 | A Three-Degree-of-Freedom Cooperative Optimization Modulation Strategy for Reducing Inductor RMS Current in TS-DAB Converter
+[NO] 712/841 | Armstrong: A Full-Duplex Backscatter Architecture for the mmWave IoT
+[NO] 713/841 | MuPose: Breaking the Scalability Barrier of mmWave Multi-User Pose Estimation in the Wild
+[NO] 714/841 | Reports from ACM Multimedia 2025
+[NO] 715/841 | A Minimal-Assumption Analysis of Q-Learning with Time-Varying Policies
+[NO] 716/841 | Horizon: Understanding and Predicting Global Starlink Performance
+[NO] 717/841 | InterwovenXR: A Cyber–Physical–Social Testbed System for Robotics, Digital Twins, and Hyperautomation
+[NO] 718/841 | LLM-Augmented Semantic Steering of Text Embedding Projection Spaces
+[NO] 719/841 | Representing Intangible Cultural Heritage as Living Artifacts: A First Digital Twin of a Culinary Recipe
+[NO] 720/841 | Trust Me, I'm Probably Right: Investigating AI Explanations for Establishing Appropriate Trust
+[NO] 721/841 | Hierarchical Game-Theoretic Control for Distributed Power Quality Systems Under Capacity Constraints
+[NO] 722/841 | [Invited] Integrated Sensing and Communication over Optical Fiber: A Communication-centric Cross-layer View from Long-haul to Short-reach Networks
+[NO] 723/841 | Decentralized Adaptive Initial Congestion Window in 5G Using Handshake-Based Flow Classification and Online Learning
+[NO] 724/841 | A Modality-Mixing Fusion Network for Accurate Land Use/Land Cover Segmentation
+[NO] 725/841 | Identifying Critical Breakpoints and Latency Effects During Remote Backup Driving
+[NO] 726/841 | Connection-Constrained Genetic Algorithms for Feasible Multi-Objective Vehicle Powertrain Architecture Optimization
+[NO] 727/841 | A Low-Profile Wideband Patch Antenna with Multi-Mode Tuning for 5G Bands(N77/N78/N79)
+[NO] 728/841 | Two-Phase Optimization via Dynamic Marginal Gain: An Interval Pre-Scheduling Approach for Space-to-Space Surveillance
+[NO] 729/841 | Variable Dual Time Scale Caching Update and Resource Allocation Scheme for UAV-Assisted Edge Networks
+[NO] 730/841 | A Study of the Capabilities of Building Management System APIs and the Limitations of Their Practical Usage
+[NO] 731/841 | BladderSense: A Wearable Ultrasound System for Continuous Bladder Monitoring in Real-World Use
+[NO] 732/841 | Bringing Confidential Computing to Android
+[NO] 733/841 | JPEG Column: 108th JPEG Meeting in Daejeon, Republic of Korea
+[NO] 734/841 | A Unified Framework for Online Combinatorial Allocation of Reusable Resources under Endogenous Deterioration
+[NO] 735/841 | The Venice Lagoon Climate Change Dashboard as a tool for capacity building for local populations
+[NO] 736/841 | StreamSplit: Continuous Audio Representation Learning via Uncertainty-Guided Adaptive Splitting
+[NO] 737/841 | MemoLens: Empowering Augmented Reality Glasses with Super Memory
+[NO] 738/841 | Towards Automated Detection of Comprehension Difficulties in Questionnaire Items: An Eye-Tracking Study on Negated Items
+[NO] 739/841 | Analysis of Temporal Attention Resource Dynamics during Cognitive Tasks using Oculomotor Metrics
+[NO] 740/841 | An Anaglyph Add-on for the Pupil Labs Neon – Comparison to Stationary Eye-Tracking Setups for Stereoscopic Presentation using Binocular Rivalry
+[NO] 741/841 | Image-free approach to gaze estimation based on Laser Feedback Interformetry (LFI)
+[NO] 742/841 | Learning to Allocate Reusable Resources under Stochastic Rewards and Durations
+[NO] 743/841 | 2026Q3 Issue of the IEEE Transactions on Circuits and Systems for Artificial Intelligence
+[NO] 744/841 | IEEE Computer Science and Engineering Awards
+[NO] 745/841 | AI-Enabled Digital Twin-Driven Handover and Resource Allocation in Multi-LEO Satellite Networks
+[NO] 746/841 | UAV-Based Multispectral Object Tracking with Positive-Negative Prompt Mining Network
+[NO] 747/841 | Model-Free Predictive Current Control of a Hybrid Excited Axial Flux PM Motor Based on Multiregional Disturbance Observer
+[NO] 748/841 | Enhancing Adaptive Video Streaming through Bandwidth Prediction with Deep Reinforcement Learning
+[NO] 749/841 | AdaSprite: Resource-efficient Online Co-Adaptation for V2I Systems Under Large-scale Data Drifts
+[NO] 750/841 | AE-IPP: Adversarial Example Enabled Identity Privacy Preserving with MmWave Signals
+[NO] 751/841 | Building Explainable User Interfaces
+[NO] 752/841 | Challenges in Reviewing Research Utilising Maps Visualizations: A Case Study of Cholera
+[NO] 753/841 | Gradual Domain Adaptation for Graph Learning
+[NO] 754/841 | AI and the future of work
+[NO] 755/841 | Recognition-based Image Authentication Using Masked Images as a Robust Alternative to PINs
+[NO] 756/841 | Packets and Process: What Network Security and Engineering Get Wrong About Each Other
+[NO] 757/841 | Music Meets Science at ACM Multimedia 2025
+[NO] 758/841 | Towards Fast and Fully Automatic Drone Mapping
+[NO] 759/841 | cPMEM: A Design of Byte-Addressable Persistent Memory with Compute Express Link for Data Center Applications
+[NO] 760/841 | AquaScope: Reliable Underwater Image Transmission on Mobile Devices
+[NO] 761/841 | Accuracy of Quantifying Hypotension During Surgery Using Physiological Sensor Data
+[NO] 762/841 | Secrecy Rate Maximization for UAV-Assisted ISAC Networks against Mobile Eavesdropper
+[NO] 763/841 | Nezha-FX: A Morphing HAUV Designed Based on Balanced Cross-Domain Performance Optimization_supp4-3691061.mp4
+[NO] 764/841 | SignMoD: Sign Language Video Generation via Mixture of Diffusion
+[NO] 765/841 | EMG-Informed Musculoskeletal Modeling for Joint Stiffness Estimation Toward Rehabilitation Robot
+[NO] 766/841 | Two-Stage Current Limiting Method for Fault Ride-Through Enhancement of Virtual Synchronous Generator
+[NO] 767/841 | Implications of the Reciprocity Theorem for Reconfigurable Intelligent Surfaces
+[NO] 768/841 | Multiband Hybrid Metasurface for Enhanced Second-Harmonic Generation via Coupled Gap Surface Plasmon Modes
+[NO] 769/841 | Front Cover
+[NO] 770/841 | A Heterogeneous Cell-Free Massive MIMO System With mmWave Access Points: Cost Efficiency and Deployment Optimization
+[NO] 771/841 | Adapting an Ecological Belonging Intervention to an Introductory Computer Science Course
+[NO] 772/841 | Trustable, Reproducible, and Intelligent Information Visualization Systems (TRI-IVIS)
+[NO] 773/841 | The BrutARlist: Exploring How and Why Individuals Alter a Known Brutalist Building with Augmented Reality
+[NO] 774/841 | FantasIA: Immersive, Child-driven Social Stories in Interactive Smart Spaces
+[NO] 775/841 | Effects of Progress Bar Thickness on Users' Perception of Waiting Time
+[NO] 776/841 | Can sonification aid the perception of complex visual networked data? A tool for the interactive exploration of bibliometric data
+[NO] 777/841 | AR Data Ribbon: Break the Frame and Unroll Data in the Air
+[NO] 778/841 | A Large-Scale Multimodal Dataset and Benchmarks for Human Activity Scene Understanding and Reasoning
+[NO] 779/841 | WiMirror: Towards 802.11-Compliant RIS Control Using Compressed Beamforming Reports
+[NO] 780/841 | EyeGestureLogin: Spontaneous Hands‑Free Gaze‑Based Lock Pattern Authentication for Public Displays
+[NO] 781/841 | Understanding Password Preferences, Memorability, and Security through a Human-Centered Lens
+[NO] 782/841 | OpenGazeLab: An Interactive Toolkit for Gaze Analysis and Event Detection
+[NO] 783/841 | IEEE Society on Social Implications of Technology
+[NO] 784/841 | Adaptive Fuzzy Control for Triadic Interaction of Soft Exosuit-assisted Locomotion
+[NO] 785/841 | IEEE Control Systems Society Information
+[NO] 786/841 | Physics-Guided Self-Supervised Statistical Residual Learning for Sonar Despeckling with Improved Generalization_supp1-3697693.pdf
+[NO] 787/841 | Local Semantics Refinement of Adaptive Representations for Robust Noisy Label Learning
+[NO] 788/841 | Applying Deep Learning-based Sonar Image Analysis to Exploration of Hydrothermal Activities
+[NO] 789/841 | Blockchain-Enhanced PUF Authentication for IoT Devices
+[NO] 790/841 | Dualformer: Efficient Feature Extractor for Complex-valued Blind Communication Signal Analysis
+[NO] 791/841 | Efficient Serverless Federated Learning with Edge Model Migration on Non-IID Data
+[NO] 792/841 | Information Design for Prosocial Behavior
+[NO] 793/841 | Assessing Resilience in Authoritative DNS Infrastructure Supporting Government Services
+[NO] 794/841 | Mixed Reality for Cultural Heritage: Digitizing Takamatsuzuka Kofun and Exploring Its Murals
+[NO] 795/841 | Exploring AI-Supported Artistic Practices through Human-Centred AI
+[NO] 796/841 | The Rice-Paper Layer (RPL): Intention Segmentation for Human-AI Co-Creation in Generative AI
+[NO] 797/841 | Value Unchained: Four Steps to Turn AI Productivity Into Business Value
+[NO] 798/841 | Analyzing Commercial Deepfake Detectors on Real-World Cases
+[NO] 799/841 | Do Expert Gaze Patterns Causally Improve Lap Times in Circuit Driving?
+[NO] 800/841 | ClearSkies: A Preliminary Study of Gaze-Mapped Scene Segmentation in Training Aircraft Cockpits
+[NO] 801/841 | Objective Detection of Parafoveal Oculomotor Dysfunction in Parkinson’s Disease Using a Novel Retinal Eye Tracker
+[NO] 802/841 | Blind Channel Estimation Using an Image-to-Image Translation Network for OFDM Systems
+[NO] 803/841 | An Integrated Approach to Data Protection Risk Assessment in the Maritime Industry: A DPIA-Based Approach
+[NO] 804/841 | Uni-RCM: Unified Reference-guided Cross-modal Mapping for Multi-Class Anomaly Detection
+[NO] 805/841 | Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents
+[NO] 806/841 | Angle Error Correction Method for AFM Flatbed Scanner Based on High Line Density Grating Calibrator_supp1-3697056.docx
+[NO] 807/841 | Exploring the soft magnetic properties of various iron-silicon alloys manufactured via SLM
+[NO] 808/841 | RDL-free Glass Interposer for Heterogeneous Integration
+[NO] 809/841 | Three-Level Parallel PWM-Interleaved SiC Inverter With CMV Mitigation For Aerospace Applications
+[NO] 810/841 | From Fragmented Concepts to Structured Insights: A Three-Layer Readiness Taxonomy across Disciplines
+[NO] 811/841 | An Isolated Bidirectional DC-DC Converter With Zero Nonactive Power Loss and Reduced Current Stress for Electric Vehicle Applications
+[NO] 812/841 | Summer School on Multimodal Foundation Models and Generative AI Second Edition
+[NO] 813/841 | Surface Characterization with mmWave Signals
+[NO] 814/841 | Lower Bounds for Adaptive Relaxation-Based Algorithms for Single-Source Shortest Paths
+[NO] 815/841 | Intentional Technology Use
+[NO] 816/841 | More Than Human: The Influence of Nonhuman Romances on Player Choices in Western Role-Playing Games
+[NO] 817/841 | User-friendly Design of Distributed Systems: A Visual Interface for Composing Networks of Personal Devices
+[NO] 818/841 | Visualizing Parametric Density through Three-dimensional Amplitude Spectrum Slopes in Urban Canyons
+[NO] 819/841 | Beyond Visual Interfaces: Designing Multisensory Experiences
+[NO] 820/841 | poli:bit: a No-Code Toolkit for Creating Phygital Artefacts for Preschools
+[NO] 821/841 | Predicting User Perception based on Stimuli-Independent Saccade Transitions
+[NO] 822/841 | Expanding the Range of Pre-Trained Gaze Estimation via Lightweight On-Device Fine-Tuning
+[NO] 823/841 | Insecurity of Lost/Stolen Phone Reporting Services: Vulnerabilities, Attacks, and Countermeasures
+[NO] 824/841 | SAIL: Redesigning Collaborative Language Inference with a Single Server-to-Mobile Handoff
+[NO] 825/841 | Solving Scarce Wireless Signal Dilemma in Model Training using Cross-Modal Learning Leveraging Limited Video Data
+[NO] 826/841 | Gaze Prediction as Time-Series Forecasting for Virtual Reality Applications: Quantifying Performance Variability and Extreme-Case Errors
+[NO] 827/841 | Crowd Counting Network Based on Multi-scale Gated Aggregation and Progressive Refinement
+[NO] 828/841 | Robust Low-Tubal-Rank Tensor Sensing via Preconditioned Subgradient Descent
+[NO] 829/841 | Radiation Detection Performance of Gamma Rays From Melt- and Solution-Grown Inorganic Perovskite CsPbBr
+                    <sub>3</sub>
+                    Semiconductor Detectors
+[NO] 830/841 | Extending the Theory of Super-Regenerative Oscillators for Short-Range Radar Sensors
+[NO] 831/841 | IEEE Computer Graphics and Applications
+[NO] 832/841 | Magnetic Network Modeling and Analysis of EE Core Based on Vector Magnetic Circuit Theory
+[NO] 833/841 | An Improved Reinforcement Learning Approach for Cost Function Optimization in Multiobjective FCS-MPC of PMSM Drives
+[NO] 834/841 | Spatial Sensitivity of Magnetoelectric Composite Under Non-Uniform Magnetic Excitation
+[NO] 835/841 | Time–Load Joint Optimization for Accelerating Resilient Restoration of Distribution Grids: A Three-Stage Decentralized Human–Robot–Mobile Power Sources Heterogeneous Collaboration Recovery Support System
+[NO] 836/841 | The Missing Foundation of Machine Learning Engineering
+[NO] 837/841 | Teaching Justice: Reimagining STEM Education for Ethical AI Systems
+[NO] 838/841 | VISPEK: a Visual Interactive System for Progressive Ensemble K-Means Clustering
+[NO] 839/841 | Advanced Visual Interfaces for Cultural Heritage (AVI-CH) 2026
+[NO] 840/841 | Remote Grandparents: A Tangible Interactive Experience for Intergenerational Connection at a Distance
+[NO] 841/841 | Evaluating Chinese Large Language Models: The Influence of Persona Assignment on Stereotypes and Safeguards
+筛选完成：共 841 篇；Yes = 13 篇；已保存到 papers/select_paper2026-05-29.json。
+邮件发送成功！
+[2026-05-31 00:10:45] 任务执行成功！

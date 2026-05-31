@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2026-5-29",
+    "title": "CAP: Detecting Network Device Misconfigurations with Context-Aware Prompting of LLMs",
+    "authors": "Xi Jiang, Aaron Gember-Jacobson, Nick Feamster",
+    "publish": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+    "url": "https://doi.org/10.1145/3805631",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CAP：利用上下文感知提示的大语言模型检测网络设备错误配置",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "Machine Learning-Assisted Electro-Thermal Co-Optimization Framework for PDN in 3-D Integrated Microsystem With Embedded Microchannel Heatsink",
+    "authors": "Cheng-Yi Feng, Min Tang, Da-Wei Wang, Peng Zhang, Jun Liu, Lingling Sun, Wen-Sheng Zhao",
+    "publish": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "url": "https://doi.org/10.1109/tcsi.2026.3696509",
+    "source": "IEEE",
+    "abstract": "This paper presents a machine-learning-assisted software framework for circuit and system-level electro-thermal co-design of three-dimensional integrated circuits. The framework targets power delivery networks (PDNs) with embedded TSV microchannel structures and unifies equivalent circuit modeling, surrogate-based performance prediction, and intelligent optimization into a design automation workflow. To enable fast power integrity evaluation, a physics-based matrix equivalent circuit formulation is developed to extract the frequency dependent RLGC parameters of densely coupled TSV arrays under coolant perturbation. The proposed model achieves approximately 90% runtime reduction over full-wave electromagnetic simulation while keeping the impedance error within 6.6%. For large scale PDN synthesis, a Transformer-Pointer reinforcement learning solver trained with proximal policy optimization is introduced for decoupling capacitor placement in high-dimensional combinatorial spaces, reducing the PDN impedance by 20%. For thermal design space exploration, a tri-model hybrid semi-supervised surrogate is integrated with NSGA-II to accelerate the multi-objective thermal integrity optimization process by predicting thermal performance indices. The proposed framework provides a scalable software methodology for integrated modeling, analysis, and optimization of advanced 3D power delivery and thermal management systems.",
+    "title_zh": "机器学习辅助的带有嵌入式微通道散热器的三维集成微系统供电网络电热协同优化框架",
+    "abstract_zh": "本文提出了一种机器学习辅助的软件框架，用于三维集成电路的电路与系统级电热协同设计。该框架以嵌入TSV微通道结构的供电网络（PDN）为目标，将等效电路建模、基于代理模型的性能预测和智能优化统一集成到设计自动化流程中。为了实现快速电源完整性评估，开发了一种基于物理的矩阵等效电路公式，用于提取冷却液扰动下密集耦合TSV阵列的频率相关RLGC参数。所提模型在全波电磁仿真基础上实现了约90%的运行时间缩减，同时将阻抗误差控制在6.6%以内。针对大规模PDN综合，引入了一种基于近端策略优化训练的Transformer-指针强化学习求解器，用于高维组合空间中的去耦电容布局，将PDN阻抗降低了20%。对于热设计空间探索，将三模型混合半监督代理模型与NSGA-II集成，通过预测热性能指标加速多目标热完整性优化过程。所提框架为先进三维供电与热管理系统的集成建模、分析与优化提供了一种可扩展的软件方法论。"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "Cognitive Attention Map: Semantic Tokenization of Source Code via OCR-Based AOI Identification across Performance Levels",
+    "authors": "Wudao Yang, Mohammad Asaduzzaman Rasel, Seng Yue Wong, Unaizah Obaidellah",
+    "publish": "Proceedings of the 2026 Symposium on Eye Tracking Research and Applications",
+    "url": "https://doi.org/10.1145/3797246.3806014",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "认知注意力图：基于OCR的AOI识别跨性能水平实现源代码语义标记化",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "AutoRF: Towards an Agentic Framework for Automated RF Hardware Design",
+    "authors": "Ruichun Ma, Lili Qiu, Wenjun Hu, Jiazhao Wang, Yiwen Song, Hao Pan",
+    "publish": "Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services",
+    "url": "https://doi.org/10.1145/3745756.3809204",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AutoRF：迈向自动化射频硬件设计的自主框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "The Open Source Bug Hunter: When Smaller Models Outperform the Giants at Finding Faults",
+    "authors": "Antonio Mastropaolo",
+    "publish": "Computer",
+    "url": "https://doi.org/10.1109/mc.2026.3682055",
+    "source": "IEEE",
+    "abstract": "“FlexFL: Flexible and Effective Fault Localization With Open-Source Large Language Models,” featured in IEEE Transactions on Software Engineering, discusses a two-stage fault localization framework and its implications for reproducibility and accessible artificial intelligence-assisted debugging.",
+    "title_zh": "开源漏洞猎手：小模型如何在找漏洞上胜过巨头",
+    "abstract_zh": "FlexFL：利用开源大语言模型进行灵活有效的故障定位，发表于《IEEE软件工程汇刊》，讨论了一个两阶段故障定位框架及其对可复现性和可访问的人工智能辅助调试的意义。"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "Silicluster v2: A Scalable Open-Source Multi-Project SoC Architecture in Sky130 CMOS Enabling High-Density Modular Integration",
+    "authors": "Uriel Jaramillo-Toral, Susana Ortega-Cisneros, Héctor Emmanuel Muñoz-Zapata, Iraam Antonio López-Salas",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3698053",
+    "source": "IEEE",
+    "abstract": "The increasing availability of open-source electronic design automation (EDA) tools and publicly accessible process design kits (PDKs) has expanded access to integrated circuit (IC) development; however, scalable system-level integration frameworks capable of supporting heterogeneous digital, analog, and mixed-signal systems remain limited. This paper presents Silicluster Version 2 (Silicluster v2), a hierarchical and scalable multi-project system-on-chip (SoC) architecture implemented in 130 nm complementary metal-oxide-semiconductor (CMOS) technology using a fully open-source register-transfer-level (RTL) to Graphic Data System II (GDSII) layout design flow. The proposed architecture enables the structured integration of up to 256 independent digital, analog, and mixed-signal modules within a single chip while preserving modular isolation, reusability, and routing efficiency. In contrast to its previous digital-focused implementation, Silicluster v2 incorporates infrastructure supporting transistor-level analog layout, parasitic-aware mixed-domain co-simulation using Simulation Program with Integrated Circuit Emphasis (SPICE), and integration of synthesized standard-cell netlists alongside custom transistor-level blocks. A hierarchical multiplexed interconnection scheme and centralized clock-distribution strategy mitigate fanout, congestion, and timing-closure challenges inherent to high-density modular integration. The complete system is validated through design rule checking (DRC), layout-versus-schematic (LVS) verification, parasitic extraction, and static timing analysis (STA) at 10 MHz, targeting 1.8V digital operation and 3.3V analog operation. The results demonstrate the feasibility of constructing complex heterogeneous integrated circuits using exclusively open-source methodologies, establishing Silicluster v2 as a validated reference architecture for collaborative silicon integration and scalable multi-project chip development.",
+    "title_zh": "Silicluster v2：基于Sky130 CMOS工艺的可扩展开源多项目SoC架构，实现高密度模块化集成",
+    "abstract_zh": "随着开源电子设计自动化（EDA）工具和公开可用的工艺设计套件（PDK）日益普及，集成电路（IC）开发的准入门槛已显著降低；然而，能够支持异构数字、模拟及混合信号系统的可扩展系统级集成框架仍然有限。本文介绍了Silicluster第二版（Silicluster v2），这是一种层次化、可扩展的多项目片上系统（SoC）架构，采用130纳米互补金属氧化物半导体（CMOS）工艺，并基于完全开源的寄存器传输级（RTL）到图形数据系统II（GDSII）布局设计流程实现。该架构能够在单个芯片内实现多达256个独立数字、模拟及混合信号模块的结构化集成，同时保持模块隔离性、可重用性和布线效率。与先前专注于数字领域的实现相比，Silicluster v2引入了支持晶体管级模拟版图的基础设施、基于集成电路仿真程序（SPICE）的寄生感知混合域协同仿真，以及综合标准单元网表与定制晶体管级模块的集成。层次化复用互连方案和集中式时钟分配策略缓解了高密度模块化集成中固有的扇出、拥塞和时序收敛挑战。完整系统通过设计规则检查（DRC）、版图与原理图一致性检查（LVS）、寄生参数提取以及在10 MHz频率下的静态时序分析（STA）进行验证，目标数字工作电压为1.8V，模拟工作电压为3.3V。结果表明，仅使用开源方法论构建复杂异构集成电路是可行的，从而将Silicluster v2确立为一种经过验证的参考架构，用于协作式硅集成和可扩展的多项目芯片开发。"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "Shift-Left Techniques in Electronic Design Automation: A Survey",
+    "authors": "Xinyue Wu, Zixuan Li, Fan Hu, Ting Lin, Runxi Wang, Xiaotian Zhao, Xinfei Guo",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3819588",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "电子设计自动化中的左移技术：综述",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "LPGSim: A Lightweight Parallel GPU Simulator Maximizing Speed with Trustworthy Simulation",
+    "authors": "Hyunwoo Nam, Jay Hwan Lee, Yeonsoo Kim, Mengzhao Zhang, Jeonggeun Kim, Bernd Burgstaller",
+    "publish": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+    "url": "https://doi.org/10.1145/3805642",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "LPGSim：一种以可信模拟实现速度最大化的轻量级并行GPU模拟器",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "ACALSim: A Scalable Parallel Simulation Framework for High-Performance System Design Space Exploration",
+    "authors": "Wei-Fen Lin, Jen-Chien Chang, Yen-Po Chen, Zi-Yi Tai, Yu-Chen Chang, Chia-Pao Chiang, Yu-Yang Lee, Yu-Jie Wang",
+    "publish": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+    "url": "https://doi.org/10.1145/3805626",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ACALSim: 一种用于高性能系统设计空间探索的可扩展并行仿真框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "ICCQ",
+    "authors": "N/A",
+    "publish": "Computer",
+    "url": "https://doi.org/10.1109/mc.2026.3690179",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "ICCQ",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "[Emerging Ideas] IoTGen: Towards LLM-diriven IoT Hardware Generation",
+    "authors": "Qinpei Luo, Ruichun Ma, Xinyu Zhang, Lili Qiu",
+    "publish": "Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services",
+    "url": "https://doi.org/10.1145/3745756.3809239",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "[新兴思路] IoTGen: 面向LLM驱动的物联网硬件生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-5-30",
+    "title": "Thermal- and Aging-Aware Rowhammer Vulnerability Analysis of Monolithically-Integrated IWO eDRAM for Edge Platforms",
+    "authors": "Eduardo Ortega, Jungyoun Kwak, Shimeng Yu, krishnendu chakrabarty",
+    "publish": "ACM Journal on Emerging Technologies in Computing Systems",
+    "url": "https://doi.org/10.1145/3819813",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向边缘平台单片集成IWO eDRAM的热感知与老化感知Rowhammer漏洞分析",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-5-29",
+    "title": "Analyzing Reading Behavior across Source Code and Stack Overflow for Method and Class Summarization",
+    "authors": "Alaa Ismail, Zachary Kozak, Bonita Sharif",
+    "publish": "Proceedings of the 2026 Symposium on Eye Tracking Research and Applications",
+    "url": "https://doi.org/10.1145/3797246.3806013",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "分析跨源代码和Stack Overflow的阅读行为以进行方法和类摘要生成",
+    "abstract_zh": "无"
+  }
+]
