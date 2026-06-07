@@ -1,0 +1,452 @@
+[
+  {
+    "date": "2026-6-6",
+    "title": "A Two-Stage Multi-modal Fusion Framework for Robust Key-point Detection of Wisdom Teeth with Panoramic Radiographs",
+    "authors": "Ruizhi Wang, Jiefu Zhang, Haihua Xu, Qing Li, Shenghan Zhou",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801856",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Smart Hydroponic Control Framework Based on Generative AI and Machine Learning for pH and Nutrient Optimization",
+    "authors": "Smriti Yadav, Garima Mittal, Naveen Kumar Gupta",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801864",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Research on Mammographic Mass Classification Based on Improved Stacking Algorithm",
+    "authors": "Yujian Wu, Weigang Wang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Practice and Development of Large Language Model in Command and Control",
+    "authors": "Taofeng Shi, Yunjie Zhang, Yingying Xie, Guoqiang Han, Yan Wang, Caikun Zhang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811547",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Cooperative Grasping and Collision Avoidance Planning for Mobile Manipulators in Dynamic Environments",
+    "authors": "Zixuan Zhang",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Toward Schema-Based BI for Cleanroom Experimental Metadata: Organization, Visualization, and a Beta-Stage Case Study",
+    "authors": "Phyo Thandar Thant, Takashi Endo, Masaharu Munetomo, Yasutaka Matsuo",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801867",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "F-800: Agentic Fuzzing Termination via Function Clustering: Toward Smarter Early Stopping",
+    "authors": "Wenzhang Yang, Liang Ding, Yinxing Xue, Lijun Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817058",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "LLM-Assisted Knowledge Graph Construction and Dual-Layer Reasoning for Defect Repair Planning: A Neo4j-Based Demo",
+    "authors": "Jutao Guo, Jingtao Chen, Yiping Shen, Dunbing Tang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811550",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Design and Trajectory Planning of the Manipulator for Pipeline Inspection Robots",
+    "authors": "Yusheng Huang",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808876",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Polishing slurry chemical formulation design driven by large language models",
+    "authors": "Yujie Yang, Qi Huang, Yedi Li, Lei Zhu, Tingjun Wu, Yiying Wang",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808880",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Multi-Level Cache Architectures for FPGA Accelerators: A Comparative Study of Graph Processing and CNN Inference Optimization",
+    "authors": "Zetao Feng, Jihao Li",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801861",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "A Robotics-Enhanced Digital Twin Framework for Automated and Resilient Cross-Border E-Commerce Logistics",
+    "authors": "Zezhao Li, Jiahui Liang, Rongfeng Ye, Hanwen Liang, Yaqi Mai, Weilan Liang",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808879",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Mental Health State Classification Model A Hybrid Approach Using VADER, BERT, BiLSTM, and CRF",
+    "authors": "Christian Kent Cabilan Abay-abay, Thristan Jay Escasinas Nakila, Christine Flores Peña",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801865",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "An Automated and Scalable CNN-Based Framework for APB Error Diagnosis in SoC Designs",
+    "authors": "Ihsiang Wang, Jenwei Shih, Chengyang Tsai, Tzu-Wei Huang, Yucheng Lin, Ming-Yi Lin",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801840",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Guideline-grounded Retrieval-augmented Generation for Ophthalmic Clinical Decision Support",
+    "authors": "Shuying Chen, Sen Cui, Zhong Cao",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811871",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Debate to Extract: Enhancing Event Relation Extraction through Collaborative Debate and Agent Optimization",
+    "authors": "Yong Guan, Shaoru Guo, Lei Hou, Juanzi Li",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3819825",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Process Sequence Augmentation Based on User Event Logs by Integrating Transformer and LSTM",
+    "authors": "Wenru Xu, Yuti Liu, Dongjin Yu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3813750",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Generative Disentanglement for Robust Estimation of Time-Dependent Treatment Effects",
+    "authors": "Kangyang Luo, Xin Wang, Shengfei Lyu, Huanhuan Chen",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801851",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Real-Time Healthcare Data Ingestion and Processing: A Multi-Agent Architecture for ML-Driven Patient Outcome Prediction",
+    "authors": "Rakesh Ramakrishna Pai, Bishwajeet Pandey, S N Prasad",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801855",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Data complement: Utilizing Realistic Wildlife Images Generated by Different Models as Training Data to Enhance the Performance of ViT and ConvNeXt Models for Wildlife Monitoring",
+    "authors": "Tianyang Zhang, Yuanzhuo Shen, Zehao Jiang, Zeyuan Zhang, Yao Xiao",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801859",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "The Challenge and Consideration for Informed Consent in Robotic and Intelligent Surgery",
+    "authors": "Zhenzhen Li, Li Chen, Qiansu Yang",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808874",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Create Classification model to Detect Glioma Meningioma Pituitary Malignant Cell Based on Artificial Intelligent",
+    "authors": "Nashwan J. Hussein, Amar A. Mahawish, Ammar A. Al-Hamadani",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801854",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Edge-Cloud Collaborative Semantic Image Compression and Generative Reconstruction for Low-Bandwidth Transmission",
+    "authors": "Xinyu Zuo, Yang Yang, Lei Wang, Chunyu Fan, Jiapeng Gan, Han Jiang, Jingjie Gao, Chenyang Wang, Weijia Feng",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3812685",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Modeling and Forecasting Genre Popularity in Spotify Music Through Audio Feature Analysis Using XGBoost and ARIMA Time Series Forecasting",
+    "authors": "Fabiola C. Villanueva, Jonaz Juan II C. Sayson, Christine D. Bandalan",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801844",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Color-Aware Re-Ranking for Fashion Image Retrieval",
+    "authors": "Enis Teper, İlayda Kara, Yusuf Hüseyin Şahin",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Urban Biometrics in Motion: A Longitudinal Sensor Fusion Framework for Quantifying Traffic-Induced Stress in Micromobility Environments",
+    "authors": "Syed Tahir Ali Shah, José P. Santos, Antonio B. Pereira, Gabriel Constantinescu, José M. Fernandes",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801849",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Abstract Syntax Tree for Programming Language Understanding and Representation",
+    "authors": "Weisong Sun, Chunrong Fang, Yun Miao, Mengzhe Yuan, Zhenpeng Chen, Yuchen Chen, Quanjun Zhang, An Guo, Xiang Chen, Zhenyu Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3813801",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Hard Disk Failure Prediction Under Small-Sample Conditions Using LSTM-Based Autoencoder",
+    "authors": "Jingwei Yi",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801847",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3808871",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "CMEF-DSD: Collaborative Multi-Expert Forecasting with Differentiable Scale Decomposition",
+    "authors": "Cheng Wang, Sufei Fan, Haiyan Shi, Baocai Guo",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811552",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Issue-Oriented Agent-Based Framework for Automated Review Comment Generation",
+    "authors": "Shuochuan Li, Dong Wang, Patanamon Thongtanunam, Zan Wang, Jiuqiao Yu, Junjie Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817606",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Evaluation of Sliding-Mode Position Controllers on Multi-Axis Machine Tools with Compliant Mechanics",
+    "authors": "Haijia Xu, Claudius Horsch, Christoph Hinze, Alexander Verl",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Light Fields Lossless Compression via Video Codecs",
+    "authors": "Bruno Carpentieri",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801863",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3801839",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Review on the Development of UAV Cluster Intelligent Cooperative Control",
+    "authors": "Guoqiang Han, Yingying Xie, Yunjie Zhang, Caikun Zhang, Yan Wang, Taofeng Shi",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Fusion Embedding for Pose-Guided Person Image Synthesis with Diffusion Model",
+    "authors": "Donghwan Lee, Kirok Kim, Jisu Lee, Kyungha Min, Wooju Kim",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3820046",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Enhancing the Reliability of Sunspot Number Prediction Intervals Using MC Dropout and Isotropic Regression",
+    "authors": "Zhi Huang, Rui Chen",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801841",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Evaluating the Use of LLMs for Documentation to Code Traceability",
+    "authors": "Ebube Alor, SayedHassan Khatoonabadi, Emad Shihab",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3819820",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Design, Simulation, and Fabrication of a L-Shaped Folded-Beam MEMS Accelerometer for High-Temperature Applications",
+    "authors": "Xiaomai Wang, Yu Zhang, Haiqiang Jia, Jie Liu",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808875",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Text-to-SQL Agent: An Iterative Question Rewriting Framework Based on Reinforcement Learning",
+    "authors": "Sixuan Wang, Yongjun Zhong, Dongjin Yu, Donghai Li, Chenming Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811548",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3811238",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "ST-OVTrack: Spatio-Temporal Enhanced Open-Vocabulary Tracking for Traffic Surveillance",
+    "authors": "Yupu Zhang",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Past Forward: The Forgotten History of Hershey's Electric Railway in Cuba: In 1916, the Chocolate Magnate Built the Railroad to Keep its Sugar Moving",
+    "authors": "Allison Marsh",
+    "publish": "IEEE Spectrum",
+    "url": "https://doi.org/10.1109/mspec.2026.11551867",
+    "source": "IEEE",
+    "abstract": "Why does a chocolatier build a railroad? For Milton S. Hershey, it was a logical response to a sugar shortage brought on by World War I. The Hershey Chocolate Co. was by then a chocolate-making powerhouse, having refined the automation and mass production of its products, including the eponymous Hershey's Milk Chocolate Bar and the bite-size Hershey's Kiss. To satisfy its many customers, the company needed a steady supply of sugar. Plus, it wanted a way to circumvent the American Sugar Refining Co., also known as the Sugar Trust, which had a virtual monopoly on sugar processing in the United States."
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Explainable Deep NeuroDiagnostics: Interpretable AI for Alzheimer's Disease Classification",
+    "authors": "Harsh Vardhan Mishra, Karunya Bhat, Vipin Venugopal, Ramyashree Ramyashree, Raghavendra S, Anoop B N",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801866",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "From Player Tracking Data to Impact Quantification: An XGBoost Framework for Playoff BPM Estimation",
+    "authors": "Xiaoyang Su, Yanming Li, Yiheng Chen, Xiangyu Huang",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801860",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Application and Implementation of Adaptive Railway Signaling Technology",
+    "authors": "Cuiying Yi",
+    "publish": "Proceedings of the 2026 International Symposium on Robotics, Automation, and Mechatronics",
+    "url": "https://doi.org/10.1145/3808871.3808877",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "An Enhanced Approach for Early Prediction of Data Anomalies in IoT",
+    "authors": "Dina ElMenshawy",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801848",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Multi-Relation Temporal Graph Neural Networks for EquityVolatility Forecasting",
+    "authors": "Zhaozheng Liu, Diqing Li",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811551",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Interpretable Multispectral Deep Learning for Non-Destructive Fruit Quality Monitoring in Agriculture 5.0",
+    "authors": "Peicyuan Su, Ho-feng Peng, Chengen Wu, Shenghsien Hsieh, Mingyi Lin",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801857",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "FedMBRL: Federated Memory Bank Reinforcement Learning for Multi-Agent Edge Caching in Industrial IoT",
+    "authors": "Yi Tian, Wentao Wang, Rui Lan, Zhihao Wang, Jia Guo, Chenyang Wang, Weijia Feng",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3812684",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

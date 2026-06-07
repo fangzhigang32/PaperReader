@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-6-6",
+    "title": "F-800: Agentic Fuzzing Termination via Function Clustering: Toward Smarter Early Stopping",
+    "authors": "Wenzhang Yang, Liang Ding, Yinxing Xue, Lijun Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817058",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "F-800: 通过函数聚类实现的代理性模糊测试终止：迈向更智能的早停",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "LLM-Assisted Knowledge Graph Construction and Dual-Layer Reasoning for Defect Repair Planning: A Neo4j-Based Demo",
+    "authors": "Jutao Guo, Jingtao Chen, Yiping Shen, Dunbing Tang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811550",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向缺陷修复规划的LLM辅助知识图谱构建与双层推理：基于Neo4j的演示",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "An Automated and Scalable CNN-Based Framework for APB Error Diagnosis in SoC Designs",
+    "authors": "Ihsiang Wang, Jenwei Shih, Chengyang Tsai, Tzu-Wei Huang, Yucheng Lin, Ming-Yi Lin",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801840",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一种自动化且可扩展的基于CNN的框架，用于SoC设计中的APB错误诊断",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Abstract Syntax Tree for Programming Language Understanding and Representation",
+    "authors": "Weisong Sun, Chunrong Fang, Yun Miao, Mengzhe Yuan, Zhenpeng Chen, Yuchen Chen, Quanjun Zhang, An Guo, Xiang Chen, Zhenyu Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3813801",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "用于编程语言理解与表示的抽象语法树",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Issue-Oriented Agent-Based Framework for Automated Review Comment Generation",
+    "authors": "Shuochuan Li, Dong Wang, Patanamon Thongtanunam, Zan Wang, Jiuqiao Yu, Junjie Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817606",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向问题的基于智能体的自动化审阅评论生成框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Text-to-SQL Agent: An Iterative Question Rewriting Framework Based on Reinforcement Learning",
+    "authors": "Sixuan Wang, Yongjun Zhong, Dongjin Yu, Donghai Li, Chenming Wu",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811548",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "文本到SQL智能体：基于强化学习的迭代式问题改写框架",
+    "abstract_zh": "无"
+  }
+]
