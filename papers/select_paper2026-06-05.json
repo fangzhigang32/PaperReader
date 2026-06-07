@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2026-6-5",
+    "title": "Proactive Approaches to Vulnerability Assessment and Mitigation",
+    "authors": "Ethan Albrechjt, Dan Howard, Diego Vallejo, Graham Hewison, Tauheed Khan Mohd",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542304",
+    "source": "IEEE",
+    "abstract": "As technology becomes more relied on in daily operations, the risks associated with software vulnerabilities such as data breaches, system failures, and financial losses have grown significantly. Traditional tools for detecting vulnerabilities, such as static and dynamic analysis, are quickly becoming inadequate due to the rapid pace of software development and the growing complexity of applications. This paper investigates new methods for identifying and categorizing vulnerabilities, focusing on the potential of machine learning and artificial intelligence to improve detection. These technologies can analyze large volumes of data and uncover patterns that might otherwise go unnoticed, helping to predict future vulnerabilities. In addition, our research highlights the challenges in patch management, highlighting the importance of automation in reducing human error and speeding up the deployment of patches. By exploring innovative tools and developing efficient workflows for vulnerability discovery and patching, this research aims to provide organizations with more effective strategies for minimizing security risks. The goal is to improve vulnerability management and help organizations better protect their systems from cyber threats.",
+    "title_zh": "主动式漏洞评估与缓解方法",
+    "abstract_zh": "随着技术在日常生活中被越来越依赖，数据泄露、系统故障和财务损失等与软件漏洞相关的风险显著增加。传统的漏洞检测工具（如静态和动态分析）因软件开发速度的加快和应用程序复杂性的增长而迅速变得不足。本文研究了识别和分类漏洞的新方法，重点关注机器学习和人工智能在提升检测能力方面的潜力。这些技术能够分析大量数据，发现可能被忽视的模式，从而帮助预测未来的漏洞。此外，我们的研究强调了补丁管理中的挑战，指出自动化在减少人为错误和加速补丁部署方面的重要性。通过探索创新工具并开发高效的漏洞发现和补丁工作流程，本研究旨在为组织提供更有效的策略，以最小化安全风险。目标是改进漏洞管理，帮助组织更好地保护其系统免受网络威胁。"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "F-800: Agentic Fuzzing Termination via Function Clustering: Toward Smarter Early Stopping",
+    "authors": "Wenzhang Yang, Liang Ding, Yinxing Xue, Lijun Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817058",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "F-800：通过函数聚类实现代理式模糊测试终止：迈向更智能的提前停止",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "A Comparative Study of Attention-Based Transformer and Deep CNN Architectures for Lithography Hotspot Detection in Advanced Process Nodes",
+    "authors": "Krishnananda Shet, Manjunath Subramanyam, R. Manjunatha, S Ganesh, Mahesh Koti, Kumar N. Krishna Murthy",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3700846",
+    "source": "IEEE",
+    "abstract": "As VLSI technology continuously expands, especially below the 10-nm node, lithography-related process variations have become a major issue in semiconductor manufacturing. Consequently, traditional physics-based verification methods are becoming less practical for full-chip analysis, mainly due to their heavy computational demands and timing constraints. We explore the deep learning techniques for lithography hotspot detection in this work. Two architectures are examined: a Deep Convolutional Neural Network (CNN) and a lightweight Vision Transformer (ViT). Both models were trained and tested on the same dataset of layout clips. The input data is represented using a four-channel lithography-aware format that includes both intensity and gradient details to better capture the layout characteristics. The results of the experiment shows that theCNNhas an accuracy of 97.7%. TheVision Transformer gets a lower accuracy than CNN, but needs only 27,809 trainable parameters which makes it considerably more lightweight. Its self-attention mechanism allows it to learn long-range spatial relationships between layout features. CNNs tend to focus on local feature extraction while Transformer-based models are better suited for pulling in broader spatial context from the layout. As advanced process nodes increasingly exhibit non-local printing effects driven by optical proximity and complex process interactions, models capable of capturing distant feature relationships become particularly valuable. The compact size, scalability, and contextual reasoning capability of Transformer-based approaches indicate strong potential for deployment in next-generation Electronic Design Automation workflows focused on Design for Manufacturability optimization.",
+    "title_zh": "基于注意力的Transformer与深度CNN架构在先进工艺节点光刻热点检测中的比较研究",
+    "abstract_zh": "随着VLSI技术不断演进，尤其是进入10纳米以下节点后，光刻相关的工艺变化已成为半导体制造中的主要问题。因此，传统的基于物理的验证方法在全芯片分析中逐渐失去实用性，这主要源于其巨大的计算需求和时间限制。本研究探索了用于光刻热点检测的深度学习技术。我们考察了两种架构：深度卷积神经网络（CNN）和轻量级视觉Transformer（ViT）。两种模型均在同一版图片段数据集上进行训练和测试。输入数据采用四通道光刻感知格式表示，包含强度信息和梯度细节，以更好地捕获版图特征。实验结果表明，CNN的准确率达到97.7%。视觉Transformer的准确率低于CNN，但仅需27,809个可训练参数，因此显著更轻量。其自注意力机制使其能够学习版图特征之间的长程空间关系。CNN倾向于关注局部特征提取，而基于Transformer的模型更擅长从版图中获取更广泛的上下文信息。由于先进工艺节点中，由光学邻近效应和复杂工艺相互作用驱动的非局部打印效应日益显著，能够捕获远距离特征关系的模型变得尤为重要。Transformer方法的小尺寸、可扩展性及上下文推理能力，表明其在以可制造性设计优化为目标的下一代电子设计自动化工作流中具有强大的部署潜力。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "SecureHLSMem: Synthesizable Memory Safety for High-Level Synthesis of Accelerators",
+    "authors": "Md Mahfuzul Haque Gazi, M Shifat Hossain, Arif Hussain, Sumit Kumar Jha, Md Rubel Ahmed",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542298",
+    "source": "IEEE",
+    "abstract": "High-Level Synthesis (HLS) compiles C/C++ kernels into RTL for FPGA and SoC accelerators, but unsafe C/C++ memory semantics, such as out-of-bounds accesses, null dereferences, and overflowed indices, can be synthesized into hardware without any runtime exception mechanism. These violations cause silent data corruption, invalid control-state transitions, or unsafe memory-mapped transactions during FPGA execution. This paper presents SecureHLSMem, an end-to-end memorysafety framework for HLS that combines (i) lightweight compiletime hazard detection, (ii) a synthesizable bounds-checking unit (BCU) that enforces spatial safety at runtime, and (iii) a dynamic sanitization mode that records violations for diagnosis in simulation and on FPGAs. Across representative DSP and ML kernels with seeded vulnerabilities, SecureHLSMem detects all injected hazards and prevents silent corruption, incurring only <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{2 - 4 \\%}$</tex> LUT overhead on average with no observed frequency degradation.",
+    "title_zh": "SecureHLSMem: 面向加速器高层次综合的可综合内存安全性",
+    "abstract_zh": "高综合（HLS）将C/C++内核编译为FPGA和SoC加速器的RTL，但C/C++不安全的存储器语义（如越界访问、空指针解引用、索引溢出）可能被合成为硬件，且不带有任何运行时异常机制。这些违规行为会在FPGA执行期间导致数据静默损坏、控制状态转换异常或非安全内存映射事务。本文提出SecureHLSMem——一种针对HLS的端到端内存安全框架，该框架结合了（i）轻量级编译时危险检测、（ii）可综合的边界检查单元（BCU，在运行时强制空间安全性）、以及（iii）一种动态净化模式，可在仿真和FPGA上记录违规行为用于诊断。在包含植入漏洞的代表性DSP和ML内核上，SecureHLSMem检测到所有注入的危险并阻止静默损坏，平均仅引入<tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{2 - 4 \\%}$</tex>的LUT开销，且未观察到频率退化。"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "LLM-Assisted Knowledge Graph Construction and Dual-Layer Reasoning for Defect Repair Planning: A Neo4j-Based Demo",
+    "authors": "Jutao Guo, Jingtao Chen, Yiping Shen, Dunbing Tang",
+    "publish": "Proceedings of the 2026 International Conference on Artificial Intelligence and Agents",
+    "url": "https://doi.org/10.1145/3811238.3811550",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "LLM辅助的知识图谱构建与双层推理在缺陷修复规划中的应用：基于Neo4j的演示",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "An Automated and Scalable CNN-Based Framework for APB Error Diagnosis in SoC Designs",
+    "authors": "Ihsiang Wang, Jenwei Shih, Chengyang Tsai, Tzu-Wei Huang, Yucheng Lin, Ming-Yi Lin",
+    "publish": "Proceedings of the 2026 12th International Conference on Computing and Data Engineering",
+    "url": "https://doi.org/10.1145/3801839.3801840",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一种自动化可扩展的基于CNN的SoC设计中APB错误诊断框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "Unsupervised Module Boundary Identification in FPGA Netlists Using Structural Graph Hashing",
+    "authors": "Aparajithan Nathamuni-Venkatesan, Ranga Vemuri, John M. Emmert",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542383",
+    "source": "IEEE",
+    "abstract": "FPGA reverse engineering enables intellectual property theft, hardware trojan insertion, and vulnerability analysis by reconstructing high-level designs from synthesized netlists. Existing approaches struggle with optimization-induced structural transformations that obscure module boundaries. We present an unsupervised algorithm that reconstructs RTL module boundaries from primitive-level FPGA netlists using structural finger-printing via Weisfeiler-Leman graph hashing, locality-sensitive hashing for candidate generation, and DBSCAN clustering. Our approach targets datapath-intensive designs with repeated computational modules (DSP, arithmetic, signal processing cores). Evaluation across six OpenCores DSP designs and 24 design-optimization combinations demonstrates 97.3% mean module family identification accuracy under hierarchy-preserved synthesis for forward-dataflow architectures (cascade filters, CORDIC, transform circuits). CORDIC designs maintain 99.7-100% accuracy with minimal variation (0.0% std dev) across synthesis optimization levels, while transform circuits achieve 88.5-96.7%. Under realistic default synthesis configuration, CORDIC designs maintain 97.7-100% accuracy, transform circuits achieve 79.980.4%, cascade filters 89%, and feedback systems 31%, revealing which computational patterns survive aggressive synthesis-induced structural transformation. The work provides insights for IP protection and enables architectural reconnaissance for security analysis.",
+    "title_zh": "基于结构图哈希的FPGA网表无监督模块边界识别",
+    "abstract_zh": "FPGA逆向工程通过从综合网表中重建高层次设计，可实现知识产权窃取、硬件木马植入和漏洞分析。现有方法难以应对由优化引起的结构变换，这些变换模糊了模块边界。我们提出一种无监督算法，利用Weisfeiler-Leman图哈希的结构指纹提取、局部敏感哈希的候选生成以及DBSCAN聚类，从基元级FPGA网表中重建RTL模块边界。该方法针对具有重复计算模块（DSP、算术、信号处理核心）的数据路径密集型设计。对六个OpenCores DSP设计及24种设计-优化组合的评估表明，在保持层次结构的综合条件下，针对前向数据流架构（级联滤波器、CORDIC、变换电路），模块家族识别平均准确率达97.3%。CORDIC设计在不同综合优化级别下保持99.7-100%的准确率（标准差为0.0%），而变换电路达到88.5-96.7%。在默认综合配置下，CORDIC设计保持97.7-100%准确率，变换电路达79.9-80.4%，级联滤波器为89%，反馈系统为31%，揭示了哪些计算模式能够在激进的综合诱导结构变换中存活。该工作为知识产权保护提供了见解，并支持安全分析中的架构侦察。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "A Voltage-Controlled Current Source Approach for Transient Electrothermal Analysis of IC Interconnects Under ESD Pulses",
+    "authors": "Jiale Yuan, Yan Shao, Wenjie Wei, Mingjie Zhang",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3700802",
+    "source": "IEEE",
+    "abstract": "The integrated circuit (IC) industry has significantly improved chip performance by continuously reducing the feature sizes, but miniaturization has introduced heat dissipation challenges, especially for the interconnects. By leveraging the similarity between electric and thermal fields, thermal circuits models can be used to estimate the heat transfer of interconnects. Although conventional thermal circuit models of interconnects include vertical heat transfer, they typically neglected horizontal heat transfer. This paper proposes a fast method based on thermal circuits for estimating the transient temperature response of interconnects under electrostatic discharge (ESD) pulses. The proposed model incorporates both left and right heat dissipation paths, providing closer alignment with physical reality. The model employs electrothermal coupling through voltage-controlled current sources, eliminating the need for iterative algorithms. Both constant temperature boundary and convection boundary are included in the model. Finally, the accuracy of the proposed model is validated through LTspice and finite element method. The results demonstrate that the proposed model achieves significant computational time savings while maintaining modelling accuracy. The proposed model achieves a maximum error of 8.5% and minimum error of 1.5%, respectively, while reducing computation time by approximately 98% compared to conventional methods.",
+    "title_zh": "一种用于ESD脉冲下IC互连瞬态电热分析的电压控制电流源方法",
+    "abstract_zh": "集成电路（IC）行业通过不断缩小特征尺寸显著提升了芯片性能，但微型化也带来了散热挑战，尤其体现在互连线上。利用电场与热场的相似性，热电路模型可用于估算互连线的传热。尽管传统的互连线热电路模型包含了垂直传热，但通常忽略了水平传热。本文提出一种基于热电路的快速方法，用于估算互连线在静电放电（ESD）脉冲下的瞬态温度响应。所提出的模型同时纳入了左右两侧的散热路径，从而更贴合物理实际。该模型通过电压控制电流源实现电热耦合，无需迭代算法。模型中同时包含了恒温边界和对流边界。最后，通过LTspice和有限元方法验证了所提模型的准确性。结果表明，所提模型在保持建模精度的同时，显著节省了计算时间。与常规方法相比，所提模型的最大误差为8.5%，最小误差为1.5%，同时计算时间减少约98%。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "LLM-Powered Text-to-SQL Generation and Data Visualization",
+    "authors": "Ganesh Rohan N, Ratnakar Pandey, Shinu Abhi",
+    "publish": "2026 International Conference on Artificial Intelligence and Data Engineering (AIDE)",
+    "url": "https://doi.org/10.1109/aide69088.2026.11544926",
+    "source": "IEEE",
+    "abstract": "The generation of SQL code from natural language for complex data warehouses places a heavy bottleneck, with existing automated NL2SQL approaches usually lacking the explainability to establish trust. This contribution presents an end-to-end approach to address these dual challenges of accuracy and explainability. The approach leverages a Graph-based Retrieval Augmented Generation (Graph RAG) architecture for semantically-driven SQL generation, a Generative AI module to offer code lineage visualization for trust, and Pandas AI for merged analysis of ad-hoc data. Experimental verification proves query correctness up to 91% and minimizes generation time from hours to seconds. By de-differentiating high-accuracy query generation and native transparency, this research makes data access democratic so that non-technical users can trustably interact with enterprise data.",
+    "title_zh": "基于大语言模型的文本转SQL生成与数据可视化",
+    "abstract_zh": "从自然语言为复杂数据仓库生成SQL代码面临重大瓶颈，现有的自动化NL2SQL方法通常缺乏可解释性以建立信任。本文提出了一种端到端的方法，以应对准确性和可解释性这两大挑战。该方法利用基于图的检索增强生成（Graph RAG）架构进行语义驱动的SQL生成，通过生成式AI模块提供代码血缘可视化以增强信任，并借助Pandas AI实现对临时数据的合并分析。实验验证表明，查询正确率高达91%，生成时间从数小时缩短至数秒。通过消除高精度查询生成与原生透明度之间的差异，本研究使数据访问更加民主化，让非技术用户能够可信地与企业数据进行交互。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "Attention Is All You Need [From the Editor]",
+    "authors": "Anuradha Annaswamy",
+    "publish": "IEEE Control Systems",
+    "url": "https://doi.org/10.1109/mcs.2026.3677901",
+    "source": "IEEE",
+    "abstract": null,
+    "title_zh": "注意力就是一切【编者按】",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "Knowledge Graph-Driven Automated Generation of SystemVerilog Assertions from Design Specifications",
+    "authors": "Niraj Prasad Bhatta, Ranga Vemuri",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542349",
+    "source": "IEEE",
+    "abstract": "The increasing complexity of modern hardware protocols needs scalable and reliable formal verification methodologies. Writing SystemVerilog Assertions (SVAs) manually from hardware design specifications is time-consuming, error-prone, and hard to extend across diverse protocol specifications. This paper presents an automated, end-to-end framework for generating formal assertions directly from hardware specification documents. The proposed approach extracts behavioral information from multiple specification modalities, including natural-language text, tables, formulas, and figures, and organizes the extracted semantics into a structured representation. A protocol-level knowledge graph is constructed to capture relationships among signals, states, and events, which is then used to guide assertion generation through anchor identification and behavioral path extraction. Natural-language assertions are synthesized from graph-derived behavioral paths, filtered for protocol relevance, and translated into SystemVerilog Assertions. To improve practical applicability, the framework utilizes a high-quality assertion synthesis stage with bounded temporal constraints and security-aware conditions. An RTL-aware repair stage aligns generated assertions with implementation-level signals using constrained large language model assistance, ensuring compatibility with real RTL designs. The resulting assertions are formally verified using Cadence JasperGold on UART and I2C designs. Our proposed framework produces verification-ready, non-trivial assertions while maintaining protocol independence and full automation. This work provides a scalable and specification-driven flow that bridges the gap between informal design specifications and formal RTL verification.",
+    "title_zh": "知识图谱驱动的从设计规范自动生成SystemVerilog断言",
+    "abstract_zh": "现代硬件协议的日益复杂性需要可扩展且可靠的形式化验证方法。从硬件设计规范中手动编写SystemVerilog断言（SVA）既耗时又易出错，且难以在多种协议规范间扩展。本文提出了一种全自动端到端框架，可直接从硬件规范文档中生成形式化断言。所提出的方法从多种规范形式（包括自然语言文本、表格、公式和图形）中提取行为信息，并将提取的语义组织成结构化表示。通过构建协议级知识图谱来捕获信号、状态和事件之间的关系，进而利用锚点识别和行为路径提取来指导断言生成。从图谱衍生的行为路径合成自然语言断言，经过协议相关性过滤，并翻译成SystemVerilog断言。为提升实际应用性，该框架采用具有有界时序约束和安全感知条件的高质量断言合成阶段。借助受约束的大语言模型辅助，通过RTL感知修复阶段使生成的断言与实现级信号对齐，确保与真实RTL设计的兼容性。最终使用Cadence JasperGold在UART和I2C设计上对生成的断言进行形式化验证。我们的框架可产生可直接用于验证的非平凡断言，同时保持协议无关性和完全自动化。这项工作提供了一种可扩展且规范驱动的流程，弥合了非正式设计规范与形式化RTL验证之间的鸿沟。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "SAPH-Kyber: Stage-Aware Pipeline Hardening for CRYSTALS-Kyber NTT Against Transient Faults",
+    "authors": "Mani Rupak Gurram, Mani Deepak Gurram, Toya Acharya, Akshay Raghavendra Kulkarni",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542429",
+    "source": "IEEE",
+    "abstract": "As lattice-based cryptography transitions into global standards, the physical security of hardware implementations like CRYSTALS-Kyber against side-channel vulnerabilities has become a critical research priority. This paper presents a comprehensive temporal sensitivity analysis of a Kyber Number Theoretic Transform (NTT) hardware core under transient fault conditions. Utilizing a custom-built Verilog simulation framework, we perform an automated sensitivity sweep by injecting single-cycle glitches into the arithmetic pipeline across all seven NTT stages. Our results reveal a significant Error Diffusion Gradient: faults in the initial pipeline stages (<tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$0-2$</tex>) result in global polynomial corruption, affecting all 256 coefficients, whereas latestage faults remain localized to as few as two coefficients. We characterize the predictable mathematical leakage resulting from these faults (e.g., error magnitudes of 34 and 67) and demonstrate their exploitability for secret key recovery via Differential Fault Analysis (DFA). Based on these findings, we propose a Selective Pipeline Hardening strategy that concentrates hardware protection such as parity-based error detection on high-diffusion temporal windows (Stages 0-3). This targeted approach provides robust security with a significant reduction in area and power overhead compared to traditional full-core redundancy, offering a scalable methodology for securing post-quantum processors in resource-constrained FPGA and ASIC environments.",
+    "title_zh": "SAPH-Kyber：针对瞬态故障的CRYSTALS-Kyber NTT阶段感知流水线加固",
+    "abstract_zh": "随着基于格的密码学逐步成为全球标准，硬件实现（如CRYSTALS-Kyber）在抵御侧信道漏洞方面的物理安全性已成为关键研究重点。本文针对Kyber数论变换（NTT）硬件核心在瞬态故障条件下的时间敏感性进行了全面分析。利用自建的Verilog仿真框架，我们通过在全部七个NTT阶段向算术流水线中注入单周期毛刺，执行自动化敏感性扫描。研究结果揭示了一个显著的误差扩散梯度：初始流水线阶段（<tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$0-2$</tex>）的故障会导致全局多项式损坏，影响全部256个系数；而后期阶段的故障仅局限在少至两个系数范围内。我们刻画了这些故障导致的可预测数学泄漏（例如误差幅度为34和67），并展示了如何通过差分故障分析（DFA）利用这些泄漏恢复密钥。基于这些发现，我们提出了一种选择性流水线加固策略，将基于奇偶校验的纠错等硬件防护集中部署在高扩散性的时间窗口（阶段0-3）。与传统全核冗余方法相比，这种针对性方法能以显著降低的面积和功耗开销提供稳健安全性，为资源受限的FPGA和ASIC环境中的后量子处理器安全性提供可扩展方案。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "Hardware Trojan Detection Through Electro-Optical Frequency Mapping Combined with Test Patterns",
+    "authors": "Mohammad Farhan, Haoting Shen",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542568",
+    "source": "IEEE",
+    "abstract": "Due to the high cost of establishing and maintaining semiconductor manufacturing plants, today, most integrated circuit (IC) chip designers rely on fabless operations and offshore fabrication from third-party foundries, which introduces the risk of hardware Trojan insertion during manufacturing. Existing invasive imaging technique is efficacious but damages the tested chip, while the non-invasive detection based on electrical testing and/or side-channel analyses have challenges with stealthy hardware Trojans. In this paper, we propose a non-invasive hardware Trojan detection technique that is designed to capture the gate-level difference between the original layout design and the fabricated IC chip by combining electrical testing and electrooptical frequency mapping to track the optical behavior of logic gates during switching, with coverage up to 100% within a reasonable time frame. A comparison will be performed between the original design and the fabricated chip to detect the suspicious modifications, where no “golden chip” is required.",
+    "title_zh": "通过电光频率映射结合测试模式的硬件木马检测",
+    "abstract_zh": "由于建立和维护半导体制造工厂成本高昂，如今大多数集成电路（IC）芯片设计者依赖无晶圆厂运营模式，并将制造环节外包给第三方代工厂，这引入了在制造过程中植入硬件木马的风险。现有的侵入式成像技术虽然有效，但会损坏待测芯片；而基于电学测试和/或侧信道分析的非侵入式检测方法在应对隐蔽性强的硬件木马时面临挑战。本文提出一种非侵入式硬件木马检测技术，通过结合电学测试与电光频率映射，追踪逻辑门在开关过程中的光学行为，从而捕捉原始版图设计与制造后IC芯片之间的门级差异，可在合理时间范围内实现100%的覆盖率。该技术将对原始设计芯片与制造后芯片进行对比以检测可疑改动，且无需“黄金芯片”作为参考。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "Adaptive Power-Timing Co-Optimization for CRYSTALS-Dilithium",
+    "authors": "Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya",
+    "publish": "IEEE Embedded Systems Letters",
+    "url": "https://doi.org/10.1109/les.2026.3700676",
+    "source": "IEEE",
+    "abstract": "Post-quantum cryptography (PQC) demands FPGA accelerators that are both high-performance and energy-efficient for deployment in embedded, IoT, and edge devices. CRYSTALS-Dilithium, the NIST-standardized digital signature scheme, is computationally intensive and incurs significant power costs in hardware. This work presents a quadratic penalty–based optimization methodology that balances power reduction with timing closure while minimizing design exploration overhead. By embedding regression-guided prediction into the synthesis flow, the method provides adaptive constraint selection and reduces the need for exhaustive iterations. Clock periods in the range of 3–21 ns were systematically explored, and experiments on Artix-7, Kintex UltraScale+, and Zynq UltraScale+ FPGAs demonstrate up to 28% dynamic power savings while maintaining positive slack. The proposed approach is lightweight, scalable, and device-agnostic, enabling practical and energy-efficient FPGA deployment of PQC in resource-constrained environments.",
+    "title_zh": "面向CRYSTALS-Dilithium的自适应功耗-时序协同优化",
+    "abstract_zh": "后量子密码学（PQC）要求FPGA加速器具备高性能和低能耗，以便部署在嵌入式、物联网和边缘设备中。作为NIST标准化的数字签名方案，CRYSTALS-Dilithium计算密集且硬件功耗较高。本文提出一种基于二次惩罚的优化方法，在降低功耗与满足时序收敛之间取得平衡，同时最小化设计探索开销。通过将回归引导预测嵌入综合流程，该方法实现了自适应约束选择并减少了对穷举迭代的依赖。系统探索了3–21 ns范围的时钟周期，并在Artix-7、Kintex UltraScale+和Zynq UltraScale+ FPGA上实验，结果表明在保持正时序余量的前提下，动态功耗节省可达28%。该方案轻量级、可扩展且设备无关，能够在资源受限环境中实现PQC的实用化和高能效FPGA部署。"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Abstract Syntax Tree for Programming Language Understanding and Representation",
+    "authors": "Weisong Sun, Chunrong Fang, Yun Miao, Mengzhe Yuan, Zhenpeng Chen, Yuchen Chen, Quanjun Zhang, An Guo, Xiang Chen, Zhenyu Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3813801",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "编程语言理解与表示的抽象语法树",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "Agentic Code Review: A Multi-Agent Framework with Meta-Cognitive Reflection and Human-in-the-Loop Alignment",
+    "authors": "Abdullah Saleem, Zubair Adnan, Siddique Ahmad Ryan, Akhtar Jamil, Alaa Ali Hameed, Georgia Fargetta",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542535",
+    "source": "IEEE",
+    "abstract": "Automated code review remains a persistent challenge in software engineering. Traditional static analysis tools depend on rigid pattern matching and produce excessive false positives, while large language model (LLM)-based approaches frequently hallucinate findings that reference nonexistent code. This paper presents a multi-agent framework that addresses both limitations through orchestrated specialization and adversarial self-verification. The proposed system deploys four agents via LangGraph: a security specialist that combines Bandit static analysis with LLM-based contextual reasoning, a retrievalaugmented performance optimizer that grounds suggestions in historical pull request data, a meta-cognitive critic that validates all findings against the original source code to filter hallucinations, and a lead architect that synthesizes only verified results. A human-in-the-loop checkpoint ensures that critical decisions remain under expert oversight before final synthesis. Evaluation on deliberately vulnerable Python code samples demonstrates that the critic agent reduces false positives by 40 % relative to a single-agent baseline, improves line-number accuracy from 67 % to <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{9 2 \\%}$</tex>, and lowers the hallucination rate from <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{3 2 \\%}$</tex> to <tex xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{1 8 \\%}$</tex>. An ablation study confirms that the meta-cognitive verification layer contributes most significantly to these gains. These results indicate that adversarial self-verification within multi-agent architectures can meaningfully improve the reliability of LLMdriven code analysis for high-stakes software review tasks.",
+    "title_zh": "智能体代码审查：一种具有元认知反思和人在回路对齐的多智能体框架",
+    "abstract_zh": "自动化代码审查一直是软件工程中的持续挑战。传统静态分析工具依赖僵化的模式匹配，会产生大量误报，而基于大语言模型的方法则频繁出现幻觉，引用不存在的代码。本文提出了一种多智能体框架，通过专业化编排和对抗性自我验证来同时解决这两类问题。该框架通过LangGraph部署了四个智能体：一个安全专家，结合Bandit静态分析与基于LLM的上下文推理；一个检索增强的性能优化器，将建议锚定在历史拉取请求数据中；一个元认知评审者，对照原始源代码验证所有发现以过滤幻觉；以及一个首席架构师，仅综合经过验证的结果。人工参与的关键检查点确保最终综合前，关键决策仍处于专家监督之下。在故意含有漏洞的Python代码样本上的评估表明，与单智能体基线相比，评审者智能体将误报减少了40%，行号准确率从67%提升至92%，幻觉率从32%降至18%。消融实验证实，元认知验证层对这些改进贡献最大。这些结果表明，多智能体架构中的对抗性自我验证能够显著提高由LLM驱动的代码分析在高风险软件审查任务中的可靠性。"
+  },
+  {
+    "date": "2026-6-6",
+    "title": "Issue-Oriented Agent-Based Framework for Automated Review Comment Generation",
+    "authors": "Shuochuan Li, Dong Wang, Patanamon Thongtanunam, Zan Wang, Jiuqiao Yu, Junjie Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3817606",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向问题的基于智能体的自动审查评论生成框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "PickyRTL: A Static Analysis Tool for Detecting Hardware CWEs at Register-Transfer Level",
+    "authors": "John Parks, Logan Reichling, Boyang Wang",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542290",
+    "source": "IEEE",
+    "abstract": "Hardware vulnerabilities pose significant security risks in modern systems. If they remain undetected, attackers can exploit them to steal sensitive data or modify critical system configurations. However, tools to automatically detect hardware vulnerabilities in Register-Transfer Level code at pre-silicon stage remain limited in their coverage of specific hardware Common Weakness Enumerations (CWEs). This paper introduces PickyRTL, a static analysis tool that automatically detects hardware CWEs in RTL code. Our algorithm first parses RTL code into an Abstract Syntax Tree and then traverses the tree to identify CWE-specific structural and semantic vulnerabilities. Our current tool support the detection of four specific CWEs (CWE-1233, CWE-226, CWE-1245, and CWE-1431), which are associated with critical vulnerabilities in Finite State Machines, security-sensitive controls, cryptographic results, and reuse of sensitive data. We evaluate PickyRTL on our dataset, which contains 39 Verilog and SystemVerilog files containing injected vulnerabilities across the targeted CWEs. Our evaluation results demonstrate that PickyRTL achieves 85.5 % precision and 73.8 % recall over the four CWEs we examine.",
+    "title_zh": "PickyRTL：一种在寄存器传输级检测硬件CWE的静态分析工具",
+    "abstract_zh": "硬件漏洞给现代系统带来了重大的安全风险。如果这些漏洞未被发现，攻击者便可能利用它们窃取敏感数据或修改关键系统配置。然而，在芯片设计前阶段，能够自动检测寄存器传输级代码中硬件漏洞的工具，在覆盖特定硬件通用弱点枚举（CWE）方面仍然有限。本文介绍了PickyRTL，一种能够自动检测RTL代码中硬件CWE的静态分析工具。我们的算法首先将RTL代码解析为抽象语法树，然后遍历该树以识别特定于CWE的结构性和语义漏洞。当前工具支持检测四种特定的CWE（CWE-1233、CWE-226、CWE-1245和CWE-1431），这些弱点与有限状态机中的关键漏洞、安全敏感控制、加密结果及敏感数据重用相关。我们在包含39个Verilog和SystemVerilog文件的数据集上对PickyRTL进行了评估，这些文件中注入了针对目标CWE的漏洞。评估结果表明，PickyRTL在我们检测的四种CWE上实现了85.5%的精确率和73.8%的召回率。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "LLM-Assisted Side-Channel Leakage Analysis of AES Power Traces",
+    "authors": "Sufian Al Majmaie, Niraj Prasad Bhatta, Fathi Amsaad",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542358",
+    "source": "IEEE",
+    "abstract": "Side-channel attacks exploit physical leakages such as power consumption to recover secret information from cryptographic hardware. Among the most effective techniques, Correlation Power Analysis (CPA) can identify key-dependent leakage by correlating measured traces with predicted leakage models. In this work, we present an LLM-assisted framework for side-channel leakage analysis of AES power traces. The proposed approach first performs CPA on the CHES CTF dataset to localize the temporal region of key-dependent leakage using a Hamming-weight-based leakage model. After identifying the leakage point, statistical features of the leakage region are extracted, including correlation peak, mean power, variance, and standard deviation. These results are then provided to a Large Language Model (LLM) to generate high-level security interpretation, explain likely cryptographic operations responsible for leakage, and suggest practical countermeasures. Experimental analysis demonstrates that the framework can detect meaningful leakage regions in AES traces and automate the interpretation process for security reporting. This work highlights the potential of combining traditional statistical side-channel techniques with LLM-based reasoning for automated hardware security assessment.",
+    "title_zh": "大语言模型辅助的AES功率轨迹侧信道泄漏分析",
+    "abstract_zh": "侧信道攻击利用功耗等物理泄漏信息来恢复密码硬件中的秘密信息。在众多高效技术中，相关功耗分析（CPA）能够通过将测量到的功耗轨迹与预测泄漏模型进行相关性分析，识别与密钥相关的泄漏点。本文提出了一种基于大语言模型（LLM）的辅助框架，用于对AES功耗轨迹进行侧信道泄漏分析。该方法首先在CHES CTF数据集上执行CPA，利用基于汉明权重的泄漏模型定位与密钥相关的泄漏时间区域。在识别泄漏点后，提取泄漏区域的统计特征，包括相关性峰值、平均功耗、方差和标准差。随后将这些结果输入大语言模型（LLM），由其生成高层次的安全解释，说明可能导致泄漏的密码操作，并提出实用的防护措施。实验分析表明，该框架能够检测AES轨迹中的有效泄漏区域，并自动化生成安全报告中的解读过程。这项工作凸显了将传统统计侧信道技术与基于大语言模型的推理相结合，在自动化硬件安全评估中的潜力。"
+  },
+  {
+    "date": "2026-6-5",
+    "title": "AI-Augmented Debugging: Using LLMs and Execution Traces to Explain and Fix Software Failures",
+    "authors": "Vishnupriya S Devarajulu",
+    "publish": "2026 IEEE 2nd International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+    "url": "https://doi.org/10.1109/satc69565.2026.11542318",
+    "source": "IEEE",
+    "abstract": "Fault localization and debugging are major bottlenecks in the current software development that requires massive developer time and resources. Conventional methods of debugging require the use of manual inspection of execution logs and stack traces, which leads to long detectability and higher cognitive load. The current paper outlines a new framework that combines large language models with the analysis of execution traces and symbolic executing methods to automatically detect, analyze, and provide solutions to the failures in software. The system processes logs, stack traces, and source code to generate probable root cause locations, natural language explanations, and fix recommendations. A Comprehensive evaluation using realworld crash datasets demonstrates that this approach achieves superior fault localization accuracy while reducing mean time to resolution by over 41.2 % compared to conventional debugging tools.",
+    "title_zh": "AI增强调试：使用大语言模型和执行轨迹解释并修复软件故障",
+    "abstract_zh": "故障定位与调试是当前软件开发中的主要瓶颈，需要耗费大量开发人员的时间和资源。传统的调试方法依赖人工检查执行日志和堆栈跟踪，导致检测周期长且认知负荷高。本文提出了一种新框架，将大型语言模型与执行轨迹分析及符号执行方法相结合，以自动检测、分析并提供软件故障的解决方案。该系统通过处理日志、堆栈跟踪和源代码，生成可能的根本原因位置、自然语言解释及修复建议。使用真实崩溃数据集的综合评估表明，与传统调试工具相比，该方法在提升故障定位精度的同时，将平均解决时间降低了41.2%以上。"
+  }
+]
