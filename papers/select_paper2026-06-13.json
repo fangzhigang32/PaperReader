@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2026-6-13",
+    "title": "RepoGuard: Harmonising Security and Functional Correctness in LLM-Guided Repository-Level Code Generation",
+    "authors": "Cassiano Darif Zago, Fábio Lúcio Lopes de Mendonça, Georges D. Amvame Nze, João José Costa Gondim, Robson De Oliveira Albuquerque, Jorge Osvaldo A. Lima Torres",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803376",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "RepoGuard：在LLM引导的仓库级代码生成中协调安全性与功能正确性",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "AI Agent Case Study Generating High-Level Test Cases from Requirements",
+    "authors": "Satoshi Masuda, Tomohiro Takeda, Toshiharu Kato",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803296",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AI代理案例研究：从需求生成高级测试用例",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Directed or Undirected: Investigating Fuzzing Strategies in a CI/CD Setup — RCR Report",
+    "authors": "Madonna Huang, Caroline Lemieux",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816115",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "定向还是非定向：在CI/CD环境中探究模糊测试策略——RCR报告",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Role of Software Engineering Knowledge in Shaping Effective AI-Driven Development",
+    "authors": "Taeghyun Kang, Hyungbae Park, Sunae Shin",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803317",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "软件工程知识在塑造有效AI驱动开发中的作用",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Examination of Cognitive Monitoring and Error Detection Processes during Collaborative Software Testing: A Pilot Study",
+    "authors": "Navruza Tulkunova, Dinara Murtazina, Mariia Snigireva, Alexander Tormasov, Evgeniy Zuev",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803350",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "协作软件测试中认知监控与错误检测过程的考察：一项初步研究",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "One More Prompt: LLM Coding is a Game You Can’t Quite Put Down - A Provocation",
+    "authors": "Russell Beale",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809412",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "再一个提示词：LLM编程是一场让人欲罢不能的游戏——一种挑衅",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Introduction to the Special Issue on Machine Learning for CAD, Part II",
+    "authors": "Yibo Lin, Siddharth Garg, Hussam Amrouch, Callie Hao",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3811425",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "机器学习在计算机辅助设计中的应用特刊引言（第二部分）",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "In Code They Think; In Proof We Trust",
+    "authors": "Erik Meijer",
+    "publish": "Queue",
+    "url": "https://doi.org/10.1145/3806226",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "代码之中，他们思考；证明之上，我们信任。",
+    "abstract_zh": "无"
+  }
+]

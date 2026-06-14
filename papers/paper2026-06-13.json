@@ -1,0 +1,2360 @@
+[
+  {
+    "date": "2026-6-13",
+    "title": "AI, Sensemaking, and Decision-Making in Crisis Contexts",
+    "authors": "Joel Fredericks, Callum Parker, Soojeong Yoo, Tram Thi Minh Tran, Kyoungwon Seo, Kaisa Väänänen, Graham Dove, Elizabeth F Churchill",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808013",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "How Older Adults Enact Values Through Technology",
+    "authors": "Hugo Simão",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807992",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "NomadicPerch: More-Than-Human Co-Design of a Shared Perch",
+    "authors": "Nanyi Jiang, Cindy Hsin-Liu Kao, Malte F Jung",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808031",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Human Experience in AI-Mediated Worlds",
+    "authors": "Aileen Ng",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807983",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "Unified Detection of Synthetic and Manipulated Images via Dual-Stream Artifact Fusion",
+    "authors": "Thinh-Phat Vo, Dang-Khoa Mai, Minh-Triet Tran, Trong-Le Do",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3812660",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A Processual Model of Artifact-Mediated Controversy in Public Speculative Design",
+    "authors": "Jaemin Lee, Jina Hong, Seohyun Ma, Hyo-Jin Kang, Yeoreum Lee",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809450",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Matter of Making: Designing Embodied Interaction Tools for Visual Creation with Generative AI",
+    "authors": "Omar Martinez Gasca, Lukas Desmond Elias Van Campenhout",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809455",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Wolfborn: Silent Emotional Catharsis and Empathy via Pseudo-Vocalized Embodiment",
+    "authors": "Xingyu Zhou, He Zhang, Yu Han, Haichen Gao, Xinyi Fu, Shengdong Zhao",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808033",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "From Guided Tours to BYOD Self-Guides in Living Heritage: A Service Design Framework and Longitudinal Field Deployment",
+    "authors": "Ting Han Daniel Chen",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809464",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "When Acceptance Doesn’t Travel: Measurement (Non-)Invariance in Acceptance Models of AI Assistants for Privacy Management",
+    "authors": "Meihe Xu, Johanna Gunawan, Mengying Zhang",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809465",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Reinforcement Learning-Based Clustered Multi-Application Charging Optimization for Underwater Wireless Sensor Networks",
+    "authors": "Mustafa Al-Hamadani, Salwa Abougamila, Mohammed Elmorsy, Arshdeep Singh",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803347",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Cluster-wise Analysis of 3D Gaussian Splatting Point Clouds Using Spherical Harmonics and Attribute Features",
+    "authors": "Motofumi T. Suzuki",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803305",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Performance Estimation of IPFS-based Distributed Storage Using Idle Computing Resources and Secret Sharing",
+    "authors": "Masayuki Higashino, Takuya Akashi, Takao Kawamura",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803342",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Physio-Digital Twin for Human-Centered IoT Mobility: A Proof-of-Concept Implementation on the E-Bike Platform",
+    "authors": "Syed Tahir Ali Shah, José Paulo Oliveira Santos, Gabriel Constantinescu, José Maria Amaral Fernandes, Antonio Manuel de Bastos Pereira",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803295",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Personal 3D Printing without Visual Dependency in the Generative AI Era: Opportunities and Challenges",
+    "authors": "Zhaohan (Chester) Pan, Dangqing Liu, Chaojie Lin, Haoxuan (Olivia) Shen, Zhewei Wei, Bolin Zhang, Zhuojian Jiang, Guangrong Shen, Shuyi Tang",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809447",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Fovy: Spatializing the \"Work-to-Learn\" Ecology through Interactive Skill Topologies",
+    "authors": "Ching Wei Chen, Shin-Yun Kuo, Zi hui Tan, Yu Kuang Chu, Chieh-Ying Chiang",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810892",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Empathy Illusion: Behavioral Contingency and the Feeling of Being Understood in AI-Responsive Spaces",
+    "authors": "Youpeng Yan",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809418",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Can Robots Be Azatoi?: Designing Calculatedly Cute Social Robot Behaviors through Cross-Cultural Participatory Visualization",
+    "authors": "Crea Asahi, Ryo Ohara, Sotaro Yokoi, Chi-Lan Yang, Takuji Narumi, Hideaki Kuzuoka",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808677",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Analysis and Optimization of Leakage Magnetic Field Shielding for Wireless Charging of Electronic Gadgets",
+    "authors": "Munenori Tsushima, Riku Okaku, Yuuki Kudo, Atsushi Kurokawa",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803311",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Artificial Intelligence (AI) Adoption in Higher Education: A New Perspective, AI Adoption Concern, and Influences of AI Characteristics",
+    "authors": "Nan Wang",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803298",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Virtual Ambidextrous Hand Control: An Interaction Framework for Amplified Bimanual Coordination in Virtual Reality",
+    "authors": "Olli Pekka Tiilikainen, Shimmila Keyur Sorathia, Markku Tukiainen",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809436",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Sensing Wishlists: A Prospective Design Approach to the Making of Fashion Consumption Technologies",
+    "authors": "Carmem Saito",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807994",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Yuno: Augmenting Human Memory in Social Contexts Through Real-Time Face Recognition and Contextual Recall",
+    "authors": "Robin Sutter, Benjamin Stieger, Yannik Holenstein, Yu Sun, Florian Mathis",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808029",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Geometry-Driven Triangulation and Differentiable Semantic Gaussian Refinement for 3D Grape Bunch Model Reconstruction in the Field",
+    "authors": "Yan San Woo, Kabin Yok-In, Prawit Buayai, Hiromitsu Nishizaki, Latifah Munirah Kamarudin, Xiaoyang Mao",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803356",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "All-Weather Image Restoration with MobileViT and Multi-Scale FiLM Modulation",
+    "authors": "Thai La, Linh Tao, Nguyen Canh Van Ha, Dai Watanabe",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803335",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "RoomAuth: Learned Ultrasonic Room Identity for Context-Aware Authentication",
+    "authors": "Hasan Al-Qudah, Abdul Serwadda",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803369",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Optimal Control Policy for Dynamic Thread Pool Sizing in Time-Constrained Batch Workloads",
+    "authors": "Yasir Mehmood",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803340",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "RepoGuard: Harmonising Security and Functional Correctness in LLM-Guided Repository-Level Code Generation",
+    "authors": "Cassiano Darif Zago, Fábio Lúcio Lopes de Mendonça, Georges D. Amvame Nze, João José Costa Gondim, Robson De Oliveira Albuquerque, Jorge Osvaldo A. Lima Torres",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803376",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Picnic: Playful Music-Making with Everyday Objects and Machine Learning",
+    "authors": "Lucía Montesinos, Anders Sundnes Løvlie",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808034",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Splash into Bubbles: Designing Somatic Immersion for Sleep Onset through Progressive Sensory Fading",
+    "authors": "Chan Qiu, Yong Zhao, Mirna Zordan",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808039",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing Multimodal XR Systems for Enhancing Remote Social Connectedness and   Emotional Well-Being in Older Adults",
+    "authors": "Dezijian Zhou",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807984",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Chasing Play Potentials in Place for Innovative Mobile Crowdsensing",
+    "authors": "Shelby Hagemann, Jared Duval, Ferran Altarriba Bertran, Elena Márquez Segura, Morgan Vigil-Hayes",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808015",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Humanoid and Socially Assistive Robots in Mental Health Care: A PRISMA Guided Systematic Review of Therapeutic and Emotional Outcomes (2021C2025)",
+    "authors": "Ayesha Noshin, Varshini Bhavanam, Arshia Khan",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803352",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Comparative Analysis of Machine Learning Models for Detecting Stego Image: A Steganalysis Approach",
+    "authors": "Mardhatillah Shevy Ananti, Wiboonsak Watthayu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803329",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "An Explainable Feature-Embedded ML &amp; DL Pipeline for Breast Cancer Classification with XAI (SHAP and LIME)",
+    "authors": "Md. Nasir Uddin, Al-Amain, Nusrat Jahan, Rajon Bardhan, Shifat Ahmed, Md. Shohel Babu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803366",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Efficient Video-to-Audio Generation via Multiple Foundation Models Mapper",
+    "authors": "Gehui Chen, Guan'an Wang, Xiaowen Huang, Jitao Sang",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3820048",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "Automated In-the-Wild Data Collection for Continual AI Generated Image Detection",
+    "authors": "Thanasis Pantsios, Dimitrios Karageorgiou, Christos Koutlis, George Karantaidis, Olga Papadopoulou, Symeon Papadopoulos",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3812662",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Cosmogenic Relation: From Interaction to World-Conditioning",
+    "authors": "Josh Andres, Anneysha Sarkar, Chris Danta",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809444",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Sufi Poetry and Introspection with Generative Verse",
+    "authors": "Sandjar Kozubaev, Noura Howell",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809448",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Pixellated Identity: A Child-Centered Frictional Encounter with GenAI",
+    "authors": "Irene Zanardi, Shana Dedò, Diletta Micol Tobia",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810891",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Beyond Interfaces: the Future of Edible Interactions",
+    "authors": "Hongyue Wang, Jialin Deng, Yuchen Zheng, Ziqi Fang, Charles Spence, Ferran Altarriba Bertran, Koya Narumi, Lei Gao, Weijen Chen, Lining Yao, Mako Miyatake, Marianna Obrist, Homei Miyashita, Chi Thanh Vi, Oussama Metatla, Florian 'Floyd' Mueller",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807999",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Interactive Rehab Carpet: A Dual-Sensing Modular Floor for Gamified Pediatric Rehabilitation",
+    "authors": "Keming Zhang, Ziyang Kan, Haoxiang You, Ziyi Zhu, Martijn ten Bhömer, Qinglei Bu, Jie Sun, Qingqing Hui",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809408",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Human-Centered AI for Expressive Arts Therapy: Designing for Mental Well-Being and Creativity",
+    "authors": "Yucheng Jin, Pengcheng An, Wanling Cai, Jingyi Yang, Li Chen, Kayley Moylan, Kevin Doherty, Gavin Doherty, Jiangtao Gong",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808017",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "CALICE: Continuous bitrate control with Adapted LIC modEl",
+    "authors": "Gabriele Spadaro, Alberto Presta, Jhony H. Giraldo, Attilio Fiandrotti, Marco Grangetto, Enzo Tartaglione",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3820658",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Healthcare information collection from evacuation shelters during disasters using NAMI—narrow area communication system",
+    "authors": "Tadashi Ogino",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803319",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Evaluation of Apparel Feature Reproduction in Text-to-Image Generation for Clothing Design Assistance",
+    "authors": "Yuka Furuta, Soichiro Yokoyama, Tomohisa Yamashita, Hidenori Kawamura",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803301",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Toward EEG-Based Characterization of Cognitive Coordination in Collaborative Software Implementation: A Pilot Study",
+    "authors": "Navruza Tulkunova, Aliia Bogapova, Mariia Snigireva, Alexander Tormasov, Evgeniy Zuev",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803327",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "Navigating the Challenges of AI-Generated Image Detection in the Wild: What Truly Matters?",
+    "authors": "Despina Konstantinidou, Dimitrios Karageorgiou, Christos Koutlis, Olga Papadopoulou, Emmanouil Schinas, Symeon Papadopoulos",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3812665",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "DiaryContainer: Designing Slowness and Minimal Presence in Reflective Journaling",
+    "authors": "Yu-Hsiang Cheng, Yu-Ting Cheng",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809424",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Heartbeats in Motion: Co-Designing Wearables for Healthy Ageing",
+    "authors": "Tien-Ying Lu",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807982",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "From Voting to Veto: GenAI Placemaking under Accountability",
+    "authors": "Shuzi Yin, Bingjie Gao, Wenjing Deng, Jiachen Du, Haipeng Mi",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809479",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Sentence to Scent: A Computational Pipeline Transforming NLP into Scent Sequence",
+    "authors": "Awu Chen, Cyan D'Anjou, Jiaying Ma, Tawab Safi, Edward Chen, Jane Yoo, Tomoki Shima, Paul Pu Liang, Hiroshi Ishii",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808021",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Structured Interpretation Differences in Immersive Artworks",
+    "authors": "Jiangmeiling Xu, Yi Zhao, Clare Cooper, Luke Hespanhol",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809466",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "EchoMemo: A Proactive AI Digital Persona Device",
+    "authors": "Xin Yu Wang, Yi Ping Tsou, Tsai Cheng Jiue, Chenwei Chiang",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808018",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Let's Get Talking: A Conversational Card Game to Engage Men in Infertility Dialogue",
+    "authors": "Cynthia Le, Isha Dushyant Chury, Eesha Gupta, Nuti V Mody, Andrew Petersen",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810899",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Body Through Time: A process of one's Inner Healing",
+    "authors": "Dominika Micaela Crasto, Saloni Kathuria, Ana Nišević, Liz-Anne Vargas Schmaal",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810898",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "You and Your Teacher Identity: Strengthening teacher identity to elevate teaching presence in online classrooms",
+    "authors": "Deborah M. Gray, Jeremy Bond",
+    "publish": "eLearn",
+    "url": "https://doi.org/10.1145/3820651.3712612",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3803291",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Case for Repeatable, Open, and Expert-Grounded Hallucination Benchmarks in Large Language Models",
+    "authors": "Justin D Norman, Michael U Rivera, D. Alex Hughes",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803328",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Ebbinghaus Forgetting Curve and Large Language Model Memory Management: A Cognitive Science-Driven Long-Context Enhancement Framework Design and Prospects",
+    "authors": "Linxuan Jiang, Yuyang Cheng",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803294",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Using Extraction and Evaluation of Explanations for Drug-Repurposing on Knowledge Graphs",
+    "authors": "Kara Schatz, Jon-Michael Beasley, Cleber Melo-Filho, Alexander Tropsha, Rada Chirkova",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3820155",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "Detecting Audio-Text Decontextualization through Entailment and Semantic Analysis",
+    "authors": "Milica Gerhardt, Luca Cuccovillo, Patrick Aichroth",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3812666",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Margin: A Set of Lightweight Robots for Intervening in Child Dark Phobia via Embodied Interaction in Darkness",
+    "authors": "Yuhan Duan, Yuxi Han, Jiayu Liu, Ran Yan, Jingyu Wu, Xipei Ren",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808040",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Turn on the Flashlight: Revealing a Full Picture of Modified Tricycles in Food   Streets",
+    "authors": "Ziyi Yan, Xiaomiao Zhou, Lisha Zhu, Yazhi Zheng, Wanlin Zhang",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808683",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Becoming a Tree: Digital-Avatar VR Body Scan for the Menopausal Transition",
+    "authors": "Ziqun Hua, Peiyue Lin, Di Lin, Xinyue Zhao",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808684",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "RecallMe: Designing a Rotary Phone Artifact for Immersive Reflection with the Past Self",
+    "authors": "Momo Hanawa, Yoshio Ishiguro",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808036",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing Sound Interactions in Spaces",
+    "authors": "Umberto Monchiero",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807988",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "When Drawing Is Not Enough: Exploring Spontaneous Speech with Sketch for Intent Alignment in Multimodal LLMs",
+    "authors": "Weiyan Shi, Dorien Herremans, Kenny Tsu Wei Choo",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809463",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Whispering Interface: Intuition as a Resonance Space Between Human and World – A Speculative Critique of Contemporary Interface Paradigms",
+    "authors": "Lisa Narewski, Katja Becker",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809452",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "Hidden in Plain Sight: Occlusion Edge Blur as a Perceptual Blind Spot in Multimodal LLMs",
+    "authors": "Jessica Herrington, Ben Swift",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3812661",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "High Awareness, Persistent Vulnerability: Youth Cybersecurity Risk Perception and Behavior",
+    "authors": "Arnel R. Rosano, Kleint B. Ancuna, Conses Dianne P. Fajartin, Florabel Grace F. Caspillo, Mideth Abisado, Eric Blancaflor",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803370",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Beyond Recognition: A Hybrid Semantic-Vision Framework for Intent-Aware Gesture Recognition on Pepper in Dementia Care",
+    "authors": "Hiba Harrari, Arshia Khan",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803324",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Trust Deviation Metrics (TDM) for AI-Driven Cloud Orchestration",
+    "authors": "Vaishnavi Gudur, Charit Upadhyay, Shalini Sudarsan, Raju Dandigam, Advait Patel, Sudhakar Tiwari",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803293",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Intelligent Detection and Response System for Attacks on Unmanned Aerial Vehicles Based on Hybrid AI Models",
+    "authors": "Miroslav Stefanov, Stoyan Denchev, Kristyan Stefanov, Boyan Jekov, Laxima Niure Kandel",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803361",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A Proposal of a Two-Part Lead Sentence Generation Method for Manuals Using Large Language Models",
+    "authors": "Ryosuke Kamimae, Soichiro Yokoyama, Tomohisa Yamashita, Hidenori Kawamura, Isao Nagata",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803353",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Reimagining Digital Grievance Redressal Systems for Better Participatory Governance In India",
+    "authors": "Vidula Srivatsa, Anoushka Pednekar, Srividhya S, Nikshitha Senthil",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810897",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Dream Brush: Generative Painting with Chinese Calligraphy",
+    "authors": "Chuanqi Sun, Yuhan Wang, Quincy Kuang, Hiroshi Ishii",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808682",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "AttentionGo: Designing Tangible Neurofeedback Tools for Children with ADHD through a Holistic Well-being Lens",
+    "authors": "An Bella Chen, James R Wallace, Leah Zhang-Kennedy",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809411",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "\"Like a shadow\": Deconstructing How Anti-TFSV Activists in South Korea Fill Data Stewardship Gaps through Emotional Labor",
+    "authors": "Seora Park, Hyesoo Park, Austin L. Toombs",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809430",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents",
+    "authors": "Kellie Yu Hui Sim, Pin Sym Foong, Darryl Lim, John-Henry Lim, Kenny Tsu Wei Choo",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809435",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "AID: Lightweight Disassembly via Learning-Superset-Learning-Recursive Algorithm",
+    "authors": "Yuchen Zhou, Hao Wang, Zeyu Gao, Chao Zhang, Xi Xiao",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3820777",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "AR-FedKD: A Robust Federated Knowledge Distillation Framework with Performance-Aware Adaptive Differential Privacy",
+    "authors": "Xingzhe Dong, Guoyu Du, Dongyu Wang",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803307",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Global and Local Attention Fusion Transformer for Robust Human Pose Estimation",
+    "authors": "Dibora Ashenafi Asfaw, Mitiku Bekele, Bereket Bekele, Wondimagegn Munto",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803310",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Fine-Tuning Effects of Low-Cost Object Detection Models for SNS Plush Toy Detection",
+    "authors": "Reiya Sato, Maho Funada, Yoshitaka Sakurai",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803332",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Adaptive Risk Classification in Microservice Architectures: A GMM-Based Approach with Historical Data Normalization",
+    "authors": "Tingshuo Miao, Shaafi Asif Imtiza, Eunjee Song",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803325",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A Survey of Threats and Defense Mechanisms in the Control Plane of Polymorphic Smart Network",
+    "authors": "Xinqi Li, Xiarun Chen, Xinyue Jiang, Weiping Wen, Huiping Sun, Chengjie Liu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803297",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Advancing Arabic Reverse Dictionary Systems: A Transformer-Based Approach with Novel Dataset Construction",
+    "authors": "Serry Sibaee, Samar Ahmed, Abdullah Alharbi, Omer Nacar, Adel Ammar, Yasser Alhabashi, Wadii Boulila",
+    "publish": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "url": "https://doi.org/10.1145/3820657",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Multispecies Response-ability in More-than-human Design Practice: Fabulation with Tides",
+    "authors": "Jiwei Zhou, Raphael Kim, Iohanna Nicenboim, Anton Poikolainen Rosén, Fernanda Soares da Costa, Netta Ofer, Serena Pollastri, Heidi Biggs, Doenja Oogjes, Bahareh Barati",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808016",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework",
+    "authors": "Chao Zhang, Yuhao Wang, Derong Xu, Haoxin Zhang, Yuanjie Lyu, Yuhao Chen, Shuochen Liu, Tong Xu, Xiangyu Zhao, Yan Gao, Yao Hu, Enhong Chen",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3818621",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Metaverse-Enabled Collaborative Platforms for Palm Oil Industry Stakeholders: A Review of Interdisciplinary Innovation and Challenges",
+    "authors": "Loso Judijanto, Sri Nurhayati",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803337",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Potato Late Blight Disease Segmentation Based on Salient Object Detection",
+    "authors": "Yueqi Liu, Jingtao Li, Hao Cheng, Guisong Li, Yanli Yang, Xia Liu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803338",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3810988",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Tangible Co-Ideation: Designing Embodied Prompting for Creative Thinking with Large Language Models",
+    "authors": "Yuqing Lucy Li, Quincy Kuang, Paul-Peter Arslan, Yuhan Wang",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810894",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Exploring a Multimodal Chatbot as a Facilitator in Therapeutic Art Activity",
+    "authors": "Le Lin, Zihao Zhu, Rainbow Tin Hung Ho, Jing Liao, Yuhan Luo",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809425",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Supporting Speculative Design Thinking through User Journey Mapping Tools",
+    "authors": "Kimberly Do, Nan Aye Mote Mote, Xin Li, Yun Yi Park, Derek Curry",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809478",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "EH-ZigBeeNet: An Energy-Harvesting ZigBee IoT Network Dataset to Develop Intelligent Energy-Aware Routing Protocols",
+    "authors": "Kainat Bibi, Faizan Hamayat, Rutaba Azmat, Rana Fayyaz Ahmad",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803363",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A Training-Free Approach to Long-Tail Object Detection for Autonomous Driving",
+    "authors": "Yu-Chen Lin, Quoc-Thang Phan, Wen-Hui Chen",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803339",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "An Accuracy Compensation Method for Lightweight Pose Estimation",
+    "authors": "Akihiro Mizuki, Qiu Chen",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803326",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "AI Agent Case Study Generating High-Level Test Cases from Requirements",
+    "authors": "Satoshi Masuda, Tomohiro Takeda, Toshiharu Kato",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803296",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions",
+    "authors": "Siddharth Agarwal, Maria Rodriguez, Rajkumar Buyya",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3821534",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing Attribution: Technical Disclosure in AI-Mediated Art",
+    "authors": "Justyna Starostka, Leo Vitasovic, Anders Sundnes Løvlie, Sami Sebastian Brandt",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809458",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Power of \"Being Seen\": Exploring the Practice of Livestreaming Study Processes Among ADHD Users",
+    "authors": "Jing Liu, Runze Cai, Aoshuang Zhang, Shengdong Zhao",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809457",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "From Shuffle Cards to Puppets: Reimagining the Jungle Book as a Tangible Narrative",
+    "authors": "Daniel Echeverri",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3819177",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Metaphors as Scaffolds: Spatial, Relational, and Embodied Thinking for Youth Usable Privacy Design",
+    "authors": "JaeWon Kim, Alexis Hiniker",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809449",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing Transparent AI-Mediated Language Support for Intergenerational Family Communication",
+    "authors": "Sora Kang, Youjin Hwang, Joonhwan Lee",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809413",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Unkillable Deathbot",
+    "authors": "Thomas Keller, Mirella Moser, Christian Scherer",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809414",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Competitive Memory Editing: A Nash Bargaining Approach to MEMIT Interference Prediction",
+    "authors": "Manoj Krishna Mohan, Atmadeep Sen",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803357",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Towards Online Collaborative Teaching of Software Engineering for Safety Critical Systems",
+    "authors": "Emanuel S Grant, Elizabeth R Stokke",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803344",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Directed or Undirected: Investigating Fuzzing Strategies in a CI/CD Setup — RCR Report",
+    "authors": "Madonna Huang, Caroline Lemieux",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816115",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Empowering Engagement: Designing for Sustainable and Playful Community Crowdsensing",
+    "authors": "Shelby Hagemann",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807993",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Role of Software Engineering Knowledge in Shaping Effective AI-Driven Development",
+    "authors": "Taeghyun Kang, Hyungbae Park, Sunae Shin",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803317",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Why Privacy-by-Design (PbD) is Underspecified for Divination Generative AI (GenAI)?",
+    "authors": "Shijing He, Yaxiong Lei, Tingting Su",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809417",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Comforting an Emotion-Mirroring Robot: Externalized Self-Soothing via Role-Reversal Touch Interaction",
+    "authors": "Jihoon Kim, Hyemin Kim, Donghyun Nam, Dokshin Lim, Kyung Yun Choi",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809461",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "How Demographics and Popup Warnings Influence the Spread of Misinformation",
+    "authors": "Hollis J. Greenberg",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803341",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Machine Learning in Botnet Intrusion Detection for IoT Botnets: A Literature Review in Context of the Evaluation",
+    "authors": "Jan Schröder, Amelie Schmidt-Colberg, Sebastian Breu, Jochen Schiller",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803381",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Artificial Intelligence in Tax Administration: A Review of Implementation Strategies, Challenges, and Performance Outcomes",
+    "authors": "Loso Judijanto, Sri Nurhayati",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803330",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Atmospheric Spine: Reconnecting Indoor Dwellers to Local Climate through Sensory Augmentation",
+    "authors": "Yuanpeng Nie, Xiaolan Wang, Xiaoying Bie, Yuxin Mo",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809445",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Featured schools integrate digital technology VR--Looking at the learning of teachers and students' ecological courses DIY self-directed and self-acted",
+    "authors": "Shing-Wei Wei, Ken-Zen Chen, Tzu-Hua Wang",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803362",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Improving PID Control with Bayesian Optimization for Adversarially Robust Federated Learning",
+    "authors": "Adrian Pena, Sergei Chuprov, Raman Zatsarenko, Leon Reznik",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803377",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Survey on the Development of Key Technologies in Computational Power Identification Network",
+    "authors": "Yangkai Zhou, Xiarun Chen, Zhongbo Wang, Weiping Wen",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803372",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "DualFocusNet: Dual-Stream Spatio-Temporal Transformer for Generalizable Deepfake Detection",
+    "authors": "Bachir Kaddar, Joan Serra Sagristà, Victor Sanchez, Marco Raoul Marini, Federico Fontana",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3820378",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Stories and Artifacts: Exploring Narrative and Material Practices in Design   Research",
+    "authors": "Eldy S. Lazaro Vasquez, Gabrielle Benabdallah, Doenja Oogjes, Samuelle Bourgault, Sylvia Janicki, Heidi Biggs, Mirela Alistar, Kristina Andersen",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808006",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "When Minimal Data Meets Diverse Creativity: How \"Artist Logico Live\" Explores Participatory Design of AI as Relational Infrastructure for Creative Communities",
+    "authors": "Mengyao Guo, Chunhui Sun, Zhijun Pan, Wei En Sui, Xinxin Xiu, Yadan Liu",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808025",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Adversarial Attacks and Defense in CNNs for Medical X-Ray Classification",
+    "authors": "Praneetha Bhattu, Govardhan Reddy Narala, Niharika Pavuluri, Sai Nithil Gopu, Pu Tian, Yalong Wu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803367",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Self-Regulated Learning in Higher Education",
+    "authors": "Paula Marcelle",
+    "publish": "eLearn",
+    "url": "https://doi.org/10.1145/3820651.3712616",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "PiscineMobil: A Design Probe for Interspecies Agency Reversal",
+    "authors": "Yiran Ma, Wenxiao Zhu, Yiying Wang, Shuhan Wang, Martijn ten Bhömer, Rodolfo Cossovich, Aven-Le Zhou",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3816028",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "MotiFit: Empowering Culturally Authentic Exergaming Experiences through   Embodied Interactions with Traditional Chinese Motif",
+    "authors": "Tianrui Rao, Yuhan Duan, Jingru Pan, Xiaoqing Sun, Xipei Ren",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808676",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Chory Cloth Bot: A Robotic Social Dance Game for Children with Cerebral Palsy",
+    "authors": "Priyanka Balasubramaniyam, Casey Lee Hunt, Brad Gallagher",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808028",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "HEROCS: An On-Device Mobile Computer Vision System for Hazard Detection in Household Environments",
+    "authors": "Jayci Gabriel F. Acuña, Zyle Adam Doctolero, Riggs Harvey D. Ybañez, Aurora Cristina A. Manseras",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803379",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Fragmented Spatial Realities: Urban AR and the Fracture of Public Space",
+    "authors": "Sze Wing Chan",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809443",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Security Noir: Critical Designs for Security &amp; Privacy",
+    "authors": "Didem Demirag, Leah Zhang-Kennedy, Jeremy Clark",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809446",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "SymbioSip: Human-Plant Symbiosis through a Bidirectional Hydration System",
+    "authors": "Hong Luo, Kenath Perera, Maria F. Montoya, Rusula Oshadha Pathirana, Pankaja Balasooriya, Rakesh Patibanda, Don Samitha Elvitigala, Phoebe O. Toups Dugas, Florian Mueller",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808024",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Beyond the Perfect Assistant: Provoking Learning with Flawed AI Partners",
+    "authors": "Vaisiya Balakrishnan, Ler Koon Kway, Advika Harvande Sandeep, Eva Faith Jie Ting Wong, Ong Chin Ann, Owen Noel Newton Fernando",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809428",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Fostering Emotional Perspective-Taking: An Exploration of Affective Face-Tracking Interactions in the VR Narrative Rekindle",
+    "authors": "Hector Fan, Casper Harteveld, Mark Sivak",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808681",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Learning to Predict Delivery Delays: An Analytical Study of Machine Learning and Oversampling Strategies",
+    "authors": "Noelle Hartman, Shailik Sarkar, Abdulaziz Alhamadani",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803322",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Two-Path Hybrid Gating for Machine Learning-Augmented FaaS Scheduling on the Edge-Cloud Continuum",
+    "authors": "Sienna S. Lee, Jaden J. Lee, Hanku Lee",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803373",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "AI Teammates for Conflict Support: A Taxonomy Refined through Design Fiction in Germany and Japan",
+    "authors": "Yingting Chen, Julia Seitz, An My Binh Nguyen, Shuyi Cheng",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809459",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "SaferRave – Designing for Reflection and Awareness in Digital Harm Reduction",
+    "authors": "Sina Krumhard, Fabio Luca Haussener, Lukas Huber",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810893",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Containing What We Feel: A Tangible Service System for Emotional Regulation",
+    "authors": "Yanru Qian",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809423",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "My Digital Twin Walks the City",
+    "authors": "Leticia Izquierdo Garcia, Miguel Ureña-Pliego, Adrian Mora-Carrero, Kent Larson",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809415",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "UnCert-AIn: Making Clinical AI Uncertainty Explicit through a Design Card Set",
+    "authors": "Ning Fang, Jon Pluyter, Lin-Lin Chen, Mathias Funk",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809462",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Moving and Crafting Data Together: Critical and Feminist Perspectives on Technologies for Movement through Movement",
+    "authors": "Alejandra Gómez Ortega, Alice Haynes, Laia Turmo Vidal, Beatrice Vincenzi, Irene Kaklopoulou, José Manuel Vega-Cebrián, Samuel Huron, Armağan Karahanoğlu",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808014",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "From Avoidance to Coexistence: Design Interventions for Secondhand Smoke Exposure in Public Social Spaces",
+    "authors": "Ting-Shan Pan, Yoshiyuki Shimizu, Xinle Zhong, Hsi-Yun Chen, Soumer Singh Karki",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810888",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "EduReview: An AI–assisted Risk Aware Design Critique System for K–12 Products",
+    "authors": "Qianyu Liang",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809477",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Embodied Vulnerability in Design Research: Methods, Ethics, and Care",
+    "authors": "Bhakti Moghe, Maarten Houben, Laia Turmo Vidal, Anupriya Tuli, Daniel Tetteroo, Kristina Höök",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808010",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Sorting of Many Sorts: Avenues Toward Formalizing Approaches for Multi-Modal Artifacts in Participatory Design and Research",
+    "authors": "F. Ria Khan, Hana Chung, Soyoun Jang, MinYoung Yoo, Angela D. R. Smith, Samuel Barnett, Alesandra Baca-Vázquez, Jay Bolter, Gabriela Marcu, Kentaro Toyama",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808001",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Beyond Interaction toward Cooperation and Commoning",
+    "authors": "Priyanka Verma, Aarjav Chauhan, Jared Lee Katzman, Hongjin Lin, Dawn Walker, Anton Fedosov, Nathan Schneider, Maurizio Teli, Samar Sabie",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808009",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Nutworth: Designing a Context-Aware Spending Companion to Promote Value-Aligned Financial Decisions",
+    "authors": "Yee Kit Chan, Evelynn Chen, Joanna Ni, Grace Malinger, Minjung Park, Geoff Kaufman",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809420",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "EchoField: A Transformable Sonic Palette for Collective and Embodied Listening",
+    "authors": "Luen Ying (Alice) Chan, William H Bares, Jordan Wirfs-Brock",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808680",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Examination of Cognitive Monitoring and Error Detection Processes during Collaborative Software Testing: A Pilot Study",
+    "authors": "Navruza Tulkunova, Dinara Murtazina, Mariia Snigireva, Alexander Tormasov, Evgeniy Zuev",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803350",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Mathematical Validation and Security Analysis of an Educational E-Commerce Web Application",
+    "authors": "Akashdeep Bhardwaj, Shawon Rahman",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803349",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Micro-Experience Bingo: Rethinking How Experience is Captured in HCI",
+    "authors": "Katja Thoring, Roland M. Mueller, Martin Steinert",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809427",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Resonant Data: Designing to Count the Missing and the Dead in Defense of Life",
+    "authors": "Tania Villalobos Lujan",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807989",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing Feast-ness Under Constraint: A Tofu Texture Continuum with Expectation Scaffolds",
+    "authors": "Wei Wu, Binyan Xu, Yujie Wang, Casper Harteveld",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809432",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Research on User Focus of Hyper-Casual Games Based on Difficulty Adjustment Theory",
+    "authors": "ZiChu Yang, JiaLong Yin, Yue Pan, BoWen Sun",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803306",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Improving the Accuracy of NIDS Using a Network Simulator to Prevent Lateral Movement",
+    "authors": "Jun'ichiro Hara, Koichi Mouri, Masami Yoshida, Eiji Takimoto",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803336",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "An Explainable Clustering Framework for Post-Tropical Cyclone Impact Profiling in the Philippines: A Comparative Analysis of Optimized Algorithms",
+    "authors": "Danyssa B. Tamayo, Rodney Lei D. Estrada, Charles Angelo C. Racho, Michaela Angela E. Cailing, Mark Rhey Anthony D. De Luna, Eliseo Q. Ramirez",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803346",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "ACO-RTCov: An Ant Colony Optimization Framework for Real-Time Covariance Detection in 6G-Enabled IoT Networks",
+    "authors": "Ryan Alturki, Fazlullah Khan, A B M Mehedi Hasan, Bandar Alshawi, Yar Muhammad",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803368",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A Schema-Driven Data Governance System for Multi-Source Heterogeneous Data in Micro-Frontend Architectures",
+    "authors": "Yu Wenqi, Li Beibei, Fu Lijun",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803299",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Let’s Talk About Privacy: Privacy Negotiation in Intimate Partnerships",
+    "authors": "Sima Amirkhani, Jenny Berkholz, Dave Randall, Mahla Alizadeh, Gunnar Stevens, Douglas Zytko",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809426",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Exploring Techno-Spirituality through Artistic Research",
+    "authors": "Xiaran Song",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807980",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Crafting Generative AI as Material: Small Data and Model Crafting for Artist-Centred AI Art Tools",
+    "authors": "Ahmed M. Abuzuraiq",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807986",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Demonstrating Punch at Your Desk: A Playful, Boxing-Inspired Companion for Workplace Wellbeing",
+    "authors": "Kenath Perera, Hong Luo, Florian ‘Floyd’ Mueller, Don Samitha Elvitigala",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808037",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing Youth Social Media through Problem Space Attunement",
+    "authors": "JaeWon Kim",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807979",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "On the Computability of Measures of Regular Sets of Infinite Trees",
+    "authors": "Damian Niwiński, Paweł Parys, Michał Skrzypczak",
+    "publish": "Journal of the ACM",
+    "url": "https://doi.org/10.1145/3819061",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Japanese Hate Speech Detection using Finetuning with RAG-based LLM-labeled data",
+    "authors": "Taisei Kajiwara, Yoshitaka Sakurai",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803345",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A Multi-Stream Recognition and Translation Approach for Isolated Thai Sign Language",
+    "authors": "Jirapong Chalotonpised, Wen-Hui Chen",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803315",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Distance of Elements in Reordering Tasks",
+    "authors": "Amma Kazuo",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803314",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Feeling the Score: An Initial Study of Vibrotactile Sight-Reading",
+    "authors": "Stijn Driessens, Kathrin Probst",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809409",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Morph-UX: Real-time Shape Transformation as Visceral Conversations",
+    "authors": "Vanessa Georges, François Courtemanche, Marc Fredette, Philippe Doyon-Poulin",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808020",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Melomove: Self Paced, Movement-Music Tangible Interaction for Older Adults in Public Outdoor Space",
+    "authors": "Fatima Badmos, Emma Murphy, Peterson Jean, Paula Kelly, Damon Berry",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809473",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "PeraNETS: Peranakan-Inspired Architectural Tiles as Modular Interfaces",
+    "authors": "Mijin Choi, Jiayi Zhang, Xinchang Liu, Irmandy Wicaksono",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808022",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Meet the AI Moment: Using Afrofuturism and Technowomanism Together as Technological Practice",
+    "authors": "Brooke Bosley, Shamika Klassen, Christina Harrington, Isis Asare, Felipe Almeida, Hope Idaewor-Bless, Mandeep Chahal, Yasmin Salih",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808007",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "\\(M^{3}QuestionIng\\) : Multi-modal Multi-span Medical Question Answering",
+    "authors": "Anisha Saha, Vaibhav Rathore, Abhisek Tiwari, Akash Ghosh, Sai Ruthvik Edara, Sriparna Saha",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3820162",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "No Stakeholder Left Behind: Regret-Aware Re-ranking for Two-Sided Fair Recommendation",
+    "authors": "Xiaopeng Ye, Chen Xu, Jun Xu, Xuyang Xie, Gang Wang, Zhenhua Dong",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3820899",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "One More Prompt: LLM Coding is a Game You Can’t Quite Put Down - A Provocation",
+    "authors": "Russell Beale",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809412",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Towards Understanding the Design of Bidirectional Interactions for Enriching   the Human-Plant Relationship",
+    "authors": "Hong Luo",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807981",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Being Stone: Designing Nonhuman Embodiment in VR",
+    "authors": "Jiahe Li, Hao Zhu, Yian Tang, Martijn ten Bhömer, Aven-Le Zhou",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808023",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "BookChat: Research on an Experiential Reading System Enabling Interaction with Stories based on LLM",
+    "authors": "Mizuki Yoshida, Sho Ooi",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803318",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Learning Robust Representations for Malicious Content Detection via Contrastive Sampling and Uncertainty Estimation",
+    "authors": "Elias Hossain, Umesh Biswas, Sai Phani Parsa, Charan Gudla",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803308",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "An RSSI Indoor 3D Localization Technique Using Adaptive Low-rank Approximation-aided Two-stage CNN",
+    "authors": "Reiya Muraguchi, Yasuhiro Takano, Hsuan-Jung Su, Yoshiaki Shiraishi, Shigeki Hagihara",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803323",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "SpatialPrompt: XR-Based Spatial Intent Expression as Executable Constraints for AI Generative 3D Design",
+    "authors": "Yichen Andy Yu, Wanru Li, Qiaoran Wang, Jymon Ross, Gavin Johnson, Mandy Lui, Qiao Jin",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "AI as Social Catalyst: Exploring AI’s Impact on Human Social Connection",
+    "authors": "Karla Bransky, Michelle Adiwangsa, Nattapat Boonprakong, Sandy Ma, Anne Ozdowska, Fernando Marmolejo-Ramos, Renwen Zhang, Josh Andres",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808003",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Cache Capsules: A Tangible System for Intentional Communication and Local Storage",
+    "authors": "Ben Kalb, Michael C Kowalski",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809472",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Development of an Algorithm for Terrain Type Classification Using Inertial Sensor Data",
+    "authors": "Vitor Gomes, José Paulo Santos",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803351",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Hierarchical Hierarchical Cross-Modal Attention for PPC Prediction",
+    "authors": "Weikang Wang, Lijun Fu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803302",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Detection of Integrity Attacks in Cloud-Based Cyber-Physical Systems (CBCPS) Using Long Short-Term Memory (LSTM) Models",
+    "authors": "Mohammad Arafatur Rahman, Imran Jahid Khan, Fan Wu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803303",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Framework For Building Software Systems For Seamless AI Integration",
+    "authors": "Rahul R. Sharma, Hari Rangarajan",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803334",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A survey of Consciousness Detection for VR-Based Blood Donation Promotion",
+    "authors": "Diana Baidoo, Joy Li, Maria Valero, Lin Li, Afekwo Mary Ukuku, Robert Keyser",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803374",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Patchwork Knowledge: Documenting Material Learning in Human-Computer Interaction",
+    "authors": "Karen Anne Cochrane, Fiona Bell, Georgia Loewen, Eldy S. Lazaro Vasquez, Phillip Gough, Ali Mazalek",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808012",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Multimodal XR Cards: Co-Designing Remote Social Experiences for Older Adults",
+    "authors": "Dezijian Zhou, Anastasia Globa",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808026",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "From Authoritarian Nature to Copy‑Paste Urbanism: Solarpunk Spectacles across Singapore and Brisbane",
+    "authors": "Marcus Foth, Rosa-Isabella Arba, Glenda Amayo Caldwell",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809454",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Nurture Robotic Things: Speculating Future of Human Robot Interaction through Creative Designs with Everyday Objects",
+    "authors": "Yanheng Li, Xiaoqing Sun, Mingyang Xu, Zhen Yin, Xipei Ren, RAY LC",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808000",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Probes, Not Pipelines: Towards Construction-Aware Textile Taxonomies",
+    "authors": "Sheetal Agrawal, Fiona Fan, Eva de Laat, Martijn ten Bhömer, Joy Ko",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809438",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Urban Interfaces as Technopolitical Devices.",
+    "authors": "Alessandro Lodovini",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807991",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Forest Resonance: Sonic–Haptic Interactions Toward In-Situ Engagement with Subtle More-than-Human Life",
+    "authors": "Youyang Hu, Yating Dai, Shin Chen, Yumi Nishihara, Junji Watanabe, Yasue Kishino, Yasuaki Kakehi",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808685",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Generative AI as a Speculative Mediator in More-Than-Human Design: An Exploratory Study",
+    "authors": "Aung Pyae",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809480",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Carrier Bag Narratives for More-than-Human Care: Rethinking Design, Maintenance, and Worldmaking in HCI",
+    "authors": "Burcu Nimet Dumlu, Hamed Seiied Alavi, Sarah Barns, Berk Göksenin Tan, Joseph Lindley, Takatoshi Yoshida, Kouta Minamizawa",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807998",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Planar-Constrained 3D Instance Segmentation of Rock Discontinuities",
+    "authors": "Guanghao Wang, Zhenhao Gu, Lijun Fu, Duan Jian",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803316",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "RCDN: Real-Centered Detection Network for Robust Face Forgery Identification",
+    "authors": "Wyatt McCurdy, Xin Zhang, Yuqi Song, Min Gao",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803320",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A Dual-Optimized Framework for AI-Driven Data Generation and Secure Internet of Vehicles Network Integration",
+    "authors": "Ryan Alturki, Fazlullah Khan, Geng Sun, Bandar Alshawi, Ateeq ur Rehman",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803312",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Articulate That Object Part (ATOP): 3D Part Articulation from Text and via Motion Personalization",
+    "authors": "Aditya Vora, Sauradip Nag, Kai Wang, Hao Zhang",
+    "publish": "ACM Transactions on Graphics",
+    "url": "https://doi.org/10.1145/3820375",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "FSTNet: Feature Selection Transformer Network for Low-Light Image Enhancement",
+    "authors": "Baoshan Liu, Yuanyao Lu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803348",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "WebAssembly Performance Assessment on Resource Constrained Edge",
+    "authors": "Alexander Leccese, Nicholas Yameen, Ling Wu",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803343",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Reintroducing the Affected Hand in Desktop Work: Pad-and-Gripper Input for Asymmetric Bimanual Interaction",
+    "authors": "Aadya Singh, Harpreet Sareen",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809474",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A Method for Co-Designing XR Applications with AI Agents",
+    "authors": "Arthur Caetano",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807997",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Embodied Consent Interfaces: A Design Probe for Privacy Decision-Making in Virtual Reality",
+    "authors": "Viktorija Paneva, Yilin Ma, Florian Alt",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809471",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "When Memes Manipulate: Multimodal Tools of Disinformation",
+    "authors": "Dimitar Dimitrov",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3816241",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing Cultural Resilience as Practice: Participatory Design for Immigrant Heritage",
+    "authors": "Qinqing Fu, Shichao Zhao, Jo Barnes, Lise Jaillant, Kamarin Merritt",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809433",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing for Dissensus: Arts-Based Methods for Generative Friction in Design",
+    "authors": "Maria Murray, Marguerite Barry, Brett A. Halperin, Helen O'Keefe, Jared Duval, Morgan Vigil-Hayes, Sarah Rüller, Shelby Hagemann, Frederick Van Amstel, Angelika Strohmayer, Nadia Pantidi, Sarah Robinson",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808004",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Calories as Computation: Moving from Perceptible to Palpable Environmental Costs of Generative AI through a Design Fiction Workshop",
+    "authors": "Yu-Hsiang Cheng, Tzu Yen Hsu, Long-Syn Lin, Tuan Hao Wu, Peng-Kai Hung, Yu-Ting Cheng",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809434",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "CarryOn: Reimagining Carrier Access &amp; Use for Urban Shoppers",
+    "authors": "Junyu Wei, Justin Lim, Carson Brown, Luis D'Introno, Larissa Guenther",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810889",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Structural Interaction: Shifting the Focus of User Interface Design",
+    "authors": "Vincent Cavez, Kashif Imteyaz, Anne-Flore Cabouat",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Electro-Guo: Edible Electrotactile Displays for Programmable Gastronomy",
+    "authors": "Luke Franzke, Lin Hsin-Yi",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809467",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3802974",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Value-Based Pricing of LLMs: A three dimensions Framework for Input, Model, and Output Costs",
+    "authors": "Ioannis Patias, Boris Robev",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803360",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Efficient Human Action Recognition with Mixed-Precision V-JEPA on Embedded Devices",
+    "authors": "Colby Wirth, Xin Zhang, Yuqi Song, Brian Dina",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803358",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Attention-Gated Residual U-Net for Accelerated Topology Optimization",
+    "authors": "Tuan Anh Dao, Hiroshi Hasegawa",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803331",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Whose Innovation? Whose Heritage?: Postcolonial Tensions and Meta-Research Agendas about Chinese Intangible Cultural Heritage Research in HCI",
+    "authors": "Aaron Pengyu Zhu",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809451",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "From Home to Housing: Designing Smart Home Care Ecologies",
+    "authors": "Renxuan Liu, Yiying Wu, Sophia Maalsen, Li Zhang, Heather Horst, Zixuan Wang, Melisa Duque, Pengcheng An, Dezijian Zhou",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808005",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Design Directions for Calibrating Pulse Oximetry to Skin Color",
+    "authors": "Niklas Kline Lange Frost, Laurens Boer",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809456",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "CheckerVision: Grid-Based Interleaving of Concurrent 3D Environments in VR",
+    "authors": "Kevin Linne, Amir Hossein Ebrahimi, Jan Gugenheimer, Martin Weigel",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809440",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Towards Evaluating Student Agency in AI‑Mediated Learning",
+    "authors": "Zaki Pauzi, Vidminas Vizgirda, Leslye Denisse Dias Duran, Manolis Mavrikis",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809419",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Practical Algorithms for Minimal Interlocking Systems: Formalizing Geometric Logic into Spatial Structures",
+    "authors": "Sohyun Jin",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807996",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "When Does Smartwatch Use Feel Good (or Annoying)? Mapping Feature–Context–Emotion Profiles in Daily Life",
+    "authors": "Frensen Salim",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809407",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Demonstration of MiXR: Harvesting and Recomposing Geometry from Real-World Objects for In-Situ 3D Design",
+    "authors": "Faraz Faruqi, Demircan Tas, Arthur Caetano, Niccolo G Meniconi, Oğuz Arslan, Misha Sra, Ruofei Du, Stefanie Mueller, Mustafa Doga Dogan",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808035",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Socio-Technical Fiction and Legal Exegesis: Exploring the AI Act in the Near Future of Agentic AI",
+    "authors": "Mahan Mehrvarz, Marie-Therese Sekwenz, Dave Murray-Rust, Ben Wagner",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809460",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Player Selection and Classification in Sports using Machine Learning Approaches",
+    "authors": "Kayanna A. Morgan, Emanuel S. Grant, Eunjin Kim",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803300",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Choose Your Own Perspective: Designing Role-Based Agency in Heritage Learning",
+    "authors": "Jeffrey T. K. Valino Koh, Aditi Krishna Neti, Na Yeon Ko, Cardejah Zulkifli, Ho Hung Yi",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809416",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Visions and Practices of Emerging and Current Climate Technologies from the Pacific Northwest Environmental and Climate Justice Movement",
+    "authors": "Amelia Lee Dogan",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807995",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "SlimeUI: Exploring Non-Newtonian Fluid as a Deformable Interface for Digital Musical Expression",
+    "authors": "Yuan-Shao Wu, Ya-Chieh Chang, Chun-Cheng Hsu",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808030",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "\"I'm Not Able to Be There for You\": Emotional Labour, Responsibility, and AI in Peer Support",
+    "authors": "Kellie Yu Hui Sim, Kenny Tsu Wei Choo",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809470",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Decaying Interfaces: Embracing Material Temporality through SlimeUI",
+    "authors": "Yuan-Shao Wu, Ya-Chieh Chang, Chun-Cheng Hsu",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809453",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Introduction to the Special Issue on Machine Learning for CAD, Part II",
+    "authors": "Yibo Lin, Siddharth Garg, Hussam Amrouch, Callie Hao",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3811425",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Frustration as Design Friction: How People with Mild Cognitive Impairment Adapt, Resist, and Redesign Systems",
+    "authors": "Anya Bouzida, Michele Murakami, Laurel Riek",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3820492",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Enhancing the Accuracy of Nikkei 225 Forecasting Via LLM-Based Filtering of Noisy Social Media Data",
+    "authors": "Sora Kojima, Yoshitaka Sakurai",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803359",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "How AI-Based Regeneration Reshapes Multimedia Forensics",
+    "authors": "Hannes Mareen",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3812664",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Listen to the Plant: Exploring the Design of Plant Care as an Auditory Interface to Promote Caregiving Behavior",
+    "authors": "Hong Luo, Pankaja Balasooriya, Rusula Oshadha Pathirana, Hongyue Wang, Don Samitha Elvitigala, Florian ‘Floyd’ Mueller",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809437",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designed Away: Human Agency in the Age of Frictionless, AI-Mediated Knowledge",
+    "authors": "Katrin Wutzke, Katja Becker",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809469",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Ambient Foam Augmentation for Japanese Tea Ceremony with Electrolysis Bubbles",
+    "authors": "Shun Iwatake, Ayaka Ishii, Masahiro Nara, Shio Miyafuji",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809442",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "When Chairs Speak: Interpreting Postural Cues as Social Signals in Hybrid Work",
+    "authors": "Tzu-Hui Wu, Lu Liu, Sebastian Cmentowski, Jun Hu, Regina Bernhaupt",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809422",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Designing Spatial Interfaces",
+    "authors": "Johannes Pointner",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3807985",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Adaptive Indexing for Schema-Less Temporal Databases Using Hierarchical Similarity Measurement",
+    "authors": "Arun Reungsilpkolkarn, Ankarn Sangmanee, Chonnawee Phiphatkul",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803321",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Performance Assessment of MQTT Communication over 4G Networks for Connected E-Bike Systems",
+    "authors": "Adriano Figueiredo, Tiago Gândara, José Paulo Santos",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803375",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Reframing Bite Block Removal Decisions as an Interaction Design Problem under Uncertainty",
+    "authors": "Miki Inoue, Tatsuya Hayasaka, Jun Ogawa",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809441",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Breatho: Real-Time Respiratory Guidance System for Amateur Runners",
+    "authors": "Yuheng Tao, Xialu Chen, Huayi Liu",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810896",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "butterfl.ai: An Exhibit Leveraging Interactive Visualisation to Build Intuition of AI’s Environmental and Productivity Impacts",
+    "authors": "Joshua Rommel Vargas",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808678",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Movement and Training Technologies (MoTTs): Minimalist Smartwatch-based Wearables to Support Physical Rehabilitation and Training Activities",
+    "authors": "José Manuel Vega-Cebrián, Elena Márquez Segura, Ana Tajadura-Jiménez",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808027",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "Generative Deepfake Videos in the Foundation-Model Era: A Timeline of Eroding Trust in Visual Evidence",
+    "authors": "Shaina Raza, Jessee Ho, Mahveen Raza, Christos Emmanouilidis",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3812659",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Modeling and Monitoring InSAR Time-Series Deformation in Hangzhou Bay via an SE-Attention Temporal Convolutional Residual Transformer",
+    "authors": "Jincheng Peng, Weidong Hu, Zhen yu Guo, Bashir Zubair, Guoyue Chen, Ming Zhou",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803365",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "In Code They Think; In Proof We Trust",
+    "authors": "Erik Meijer",
+    "publish": "Queue",
+    "url": "https://doi.org/10.1145/3806226",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "A multi-tier explainable AI architecture for the prediction of cardiovascular diseases",
+    "authors": "Obinna Johnbosco Awoke, Amenze Azuka Osunde, Ibrahim Musa Muhammed, Samuel Gbenga Faluyi",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803309",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Extraction of Road Surface Condition Changes Using Vision-Language Models for Snow Removal Dispatch Decision Support",
+    "authors": "Riku Kamada, Soichiro Yokoyama, Tomohisa Yamashita, Hidenori Kawamura",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803292",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Should Machines Get to Judge? Rethinking the Design of AI-Mediated Assessment in Education",
+    "authors": "Zaki Pauzi, Manolis Mavrikis",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809410",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Entanglements and Unintended Consequences of Automated Vehicles: An Instance-based Discussion for Generative Uncertainty",
+    "authors": "Rutger Verstegen, Ruolin Gao, Haoyu Dong, Pavlo Bazilinskyy, Marieke Martens",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809468",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-14",
+    "title": "RoPe-DW: Robust and Perceptual Dual Watermarking for Secure AI-Generated Multimedia Content",
+    "authors": "Jie Hu, Shicheng Fang, Wenzheng Liu, Menghan Liang, Cheng Fu, Xiaofeng Wang, Qianqian Xing, Xiaoyong Tang, Tan Deng, Ronghui Cao",
+    "publish": "Proceedings of the 5th ACM International Workshop on Multimedia AI against Disinformation",
+    "url": "https://doi.org/10.1145/3810988.3812658",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Refined Non-Local Blocks for Precise Segmentation of Diplococci in Microscopy Imagery",
+    "authors": "Aleksei Samarin, Egor Kotenko, Aleksei Toropov, Artem Nazarenko, Alexander Savelev, Aleksandra Dozortseva, Anastasia Mamaeva, Alexander Motyko, Elena Mikhailova, Valentin Malykh",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803354",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Relating Otherwise: Pluriversal Pathways for Reworlding More-than-Human Design",
+    "authors": "Sylvia Janicki, Heidi Biggs, Soonho Kwon, Kristina Mah, Cayla Key, Yu-Ting Cheng, Catherine Wieczorek, Moeiini Reilly, Josiah Hester, Shaowen Bardzell",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3808002",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "MuseMeal: Supporting Healthy Cooking through Embodied Conversational Interaction and Wearable Projection",
+    "authors": "Xinquan Zhu, Venus Tan, Xinuo Zhou, Yingqi Wu, Rachel Julianna Wong",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3810895",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Beyond Moving Appendages: Breathing Together as Bodily Sympathy in a Relational, Soma-Informed Human–Robot Encounter",
+    "authors": "Yicheng Xu, Kristina Mah, Marius Hoggenmüller, Yaron Meron, Joanne Martin, Yidan Cao, Yi Zhao, Lanxin Li, Wendy Qi Zhang, Lian Loke",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809421",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Exploring a Hybrid Wearable and Computer-Vision Approach for At-Home Carpal Tunnel Rehabilitation",
+    "authors": "Jasmine Yun Jie Ong, Aluna Everitt",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809431",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "University Websites Going West: Algorithmic Gentrification and the Identity Tax on Interface Design Evaluation",
+    "authors": "Wenhao Chen",
+    "publish": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+    "url": "https://doi.org/10.1145/3802974.3809439",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
