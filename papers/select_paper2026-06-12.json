@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2026-6-12",
+    "title": "Researching the Efficiency of Source Code Defect Prediction Using a Modified XGBoost Algorithm",
+    "authors": "Timur Fatkhulin, Yuri Leokhin, Svetlana Dymkova",
+    "publish": "2026 Wave Electronics and its Application in Information and Telecommunication Systems (WECONF)",
+    "url": "https://doi.org/10.1109/weconf69969.2026.11553780",
+    "source": "IEEE",
+    "abstract": "This paper presents an analysis of modifications to the XGBoost machine learning algorithm. The aim of the study is to improve the efficiency of source code defect prediction using a modified version of the XGBoost algorithm. The relevance of the study is due to the need for timely defect prediction in source code, which allows both enterprise equipment and various critical infrastructure to function in the required mode. It is important to note that in the conditions of the modern information society, the correct functioning of computing systems and network equipment is an integral component. Taking this into account, predicting defects in program code is extremely important. During the study, experiments were conducted to train XGBoost models using the modifications considered. The experimental results were analyzed, and a conclusion was made on the most suitable method of modifying the algorithm for solving the problem of predicting defects in source code. The object of the study is defects in program code. The subject of the study are metrics for assessing the quality of error prediction in source code.",
+    "title_zh": "基于改进XGBoost算法的源代码缺陷预测效率研究",
+    "abstract_zh": "本文对XGBoost机器学习算法的改进进行了分析。研究旨在通过使用改进版的XGBoost算法提高源代码缺陷预测的效率。该研究的现实意义在于，对源代码进行及时的缺陷预测，能够确保企业设备及各类关键基础设施按所需模式运行。值得强调的是，在现代信息社会条件下，计算系统和网络设备的正确运行是不可或缺的组成部分。鉴于此，对程序代码中的缺陷进行预测极为重要。研究过程中，利用所考虑的改进方法训练XGBoost模型，并开展了相关实验。实验结果表明，对于源代码缺陷预测问题，存在一种最为合适的算法改进方案。本研究的研究对象为程序代码中的缺陷，研究主题为评估源代码错误预测质量的度量指标。"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "RepoGuard: Harmonising Security and Functional Correctness in LLM-Guided Repository-Level Code Generation",
+    "authors": "Cassiano Darif Zago, Fábio Lúcio Lopes de Mendonça, Georges D. Amvame Nze, João José Costa Gondim, Robson De Oliveira Albuquerque, Jorge Osvaldo A. Lima Torres",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803376",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "RepoGuard：协调LLM引导的仓库级代码生成中的安全性与功能正确性",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "An LLM-Based Agent Framework for Intelligent Power Module Design",
+    "authors": "Ruiting Ke, Jianfeng Tao, Xiaojian Ding, Chengliang Liu",
+    "publish": "2026 12th International Conference on Electrical Engineering, Control and Robotics (EECR)",
+    "url": "https://doi.org/10.1109/eecr69522.2026.11548842",
+    "source": "IEEE",
+    "abstract": "This paper proposes a large language model (LLM)driven agent for power module design. Unlike conventional automation pipelines, it employs a standardized tool interface contract (description-schema-function) to encapsulate modeling, simulation, optimization, and validity checking into a callable tool pool. This enables the LLM to select and orchestrate tools at runtime based on intent captured from dialogue and intermediate feedback. Most tools in this pool are specialized for power module design tasks, such as topology is encoded with a directed adjacency matrix for geometric modeling, and check tools flag die overlaps and boundary violations. For robust execution, constraints are handled in two layers: (i) hard constraints are enforced within tool functions or immutable deterministic chains; (ii) instance-dependent constraints are evaluated by validity checking tools or via log parsing, with results fed back to the LLM. An agent-in-the-loop chip placement optimization task validates the agent's effectiveness, and the implementation is released as open source at https://github.com/henkuailederen/Agent-power-module-design.",
+    "title_zh": "基于大型语言模型的智能电源模块设计智能体框架",
+    "abstract_zh": "本文提出了一种由大语言模型驱动的智能体，用于功率模块设计。与传统的自动化流程不同，该方法采用标准化的工具接口契约（描述-模式-函数），将建模、仿真、优化和有效性检查封装到可调用的工具池中。这使得大语言模型能够基于从对话和中间反馈中捕获的意图，在运行时选择和编排工具。该工具池中的大多数工具专门用于功率模块设计任务，例如通过有向邻接矩阵对拓扑进行编码以进行几何建模，而检查工具则用于标记芯片重叠和边界违规。为确保稳健运行，约束条件通过两层处理：（i）硬约束在工具函数或不可变确定性链中强制执行；（ii）实例相关约束通过有效性检查工具或日志解析进行评估，并将结果反馈给大语言模型。通过一项人在回路中的芯片布局优化任务验证了该智能体的有效性，相关实现已在 https://github.com/henkuailederen/Agent-power-module-design 开源发布。"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "ActRef: Enhancing the Understanding of Python Code Refactoring with Action-Based Analysis",
+    "authors": "Siqi Wang, Xing Hu, Xinyu Wang, Xin Xia",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816040",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ActRef：通过基于动作的分析增强对Python代码重构的理解",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "Software Systems Design-Stage Sustainability Evaluation using Flow-Diagram-based Metrics",
+    "authors": "Nivya Shree P, Gokila S",
+    "publish": "2026 7th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)",
+    "url": "https://doi.org/10.1109/icicv68925.2026.11554770",
+    "source": "IEEE",
+    "abstract": "Software systems are becoming an increasingly larger part of the world due to their energy consumption, and studies show that sustainability is an afterthought when implementing software, making it difficult to redesign. Efforts at the design level such as complicated control flows, repeated validation logic, deep nesting and multiple checkpoints can cause various problems for the sustainability of software. The goal of this research work is to propose a model for analyzing the sustainability of software before it is coded using conventional software engineering processes by applying metrics to flow diagrams to create a Design Sustainability Score (DSS) at the design level. The DSS was determined using three separate CRUD-based applications: Note Management (Note), Student Management (Student) and Address Book Management (Address). The results indicated that the proposed GreenStream Design had a higher DSS than the original design.",
+    "title_zh": "基于流程图的软件系统设计阶段可持续性评估",
+    "abstract_zh": "由于软件系统的能耗问题，它们在全球范围内的占比日益增长。研究表明，可持续性在软件开发过程中往往被忽视，导致后期难以重新设计。诸如复杂的控制流、重复的验证逻辑、深度嵌套以及多重检查点等设计层面的问题，会对软件可持续性造成诸多不利影响。本研究旨在提出一种模型，通过将度量指标应用于流程图，在设计层面为软件生成一个“设计可持续性得分”（DSS），从而在采用传统软件工程流程编码之前分析其可持续性。DSS 基于三个独立的 CRUD 应用进行评测：笔记管理（Note）、学生管理（Student）和通讯录管理（Address）。结果表明，所提出的“GreenStream 设计”比原始设计具有更高的 DSS。"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "Automatic generation method of large model code based on associated AST revision",
+    "authors": "Yubo Wei, Xiaodong Du, Jianfei Cao, Jiyang Yu",
+    "publish": "2025 IEEE 11th International Conference on Control Science and Systems Engineering (ICCSSE)",
+    "url": "https://doi.org/10.1109/iccsse67426.2025.11552573",
+    "source": "IEEE",
+    "abstract": "With AI’s rapid development, large-model-based automatic code generation has great potential in software development, but existing methods lack functional correctness, code quality and maintainability. This paper proposes a large-model automatic code generation method based on Association Syntax Tree (AST) revision to improve overall performance. It combines NLP and AST structural information to revise large-model-generated code, optimizing grammatical structure, logical clarity and maintainability. Specifically, it uses a pre-trained model to generate initial code from natural language, identifies code problems via semantic association analysis between code and natural language, then revises code with AST structure to ensure correctness and clarity. It further enhances code performance through algorithm selection optimization, automatic code optimization, etc. Experiments on Human Eval, MBPP, APPS, DS-1000 and a custom dataset, using indicators like Pass@k, code complexity and execution efficiency, show this method outperforms existing ones in correctness, quality and maintainability while keeping high efficiency, providing a reliable solution for automatic code generation.",
+    "title_zh": "基于关联AST修订的大型模型代码自动生成方法",
+    "abstract_zh": "随着人工智能的快速发展，基于大模型的自动代码生成在软件开发中展现出巨大潜力，但现有方法在功能正确性、代码质量和可维护性方面存在不足。本文提出一种基于关联语法树（AST）修正的大模型自动代码生成方法，以提升整体性能。该方法结合自然语言处理（NLP）和AST结构信息，对大模型生成的代码进行修正，优化其语法结构、逻辑清晰度和可维护性。具体而言，首先利用预训练模型从自然语言生成初始代码，然后通过代码与自然语言之间的语义关联分析识别代码问题，接着借助AST结构对代码进行修正，确保其正确性和清晰度。此外，通过算法选择优化、自动代码优化等手段进一步提升代码性能。在Human Eval、MBPP、APPS、DS-1000以及自定义数据集上的实验，采用Pass@k、代码复杂度和执行效率等指标，结果表明该方法在正确性、质量和可维护性方面均优于现有方法，同时保持高效率，为自动代码生成提供了可靠的解决方案。"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "Evaluation of the Quality of VLSI Component Placement Using the linear Segment Metric",
+    "authors": "Vladislav I. Danilchenko, Nikolay D. Posrednikov",
+    "publish": "2026 8th International Conference on Information Technologies in Engineering Education (Inforino)",
+    "url": "https://doi.org/10.1109/inforino68543.2026.11556875",
+    "source": "IEEE",
+    "abstract": "This study addresses the NP-hard problem of VLSI block placement under technological and physical constraints through the formulation of a multi-objective optimization framework incorporating a comprehensive set of design metrics. In addition to conventional geometric measures—total wirelength, placement density, area utilization, and crossing index—a novel topological metric based on linear segment count is introduced. This metric facilitates not only the minimization of interconnect length but also the structural regularization of routing geometry, thereby improving signal integrity, reducing parasitic effects, and enhancing energy efficiency. To solve the formulated problem, modified bio-inspired heuristics are proposed: a genetic algorithm enhanced with a hybrid evolutionary strategy integrating Lamarckian local adaptation and De Vries stochastic mutations, and an improved stem-cell behavior model incorporating mechanisms for crossing minimization and density-aware placement refinement. A dedicated software framework was developed to conduct simulation-based experiments. The efficacy of the proposed algorithms and the informativeness of the metrics were evaluated using statistical analysis, including correlation studies and Pareto-optimality assessment. The experimental results demonstrate significant improvements in key design parameters such as power dissipation, thermal profile, and routability. Based on the findings, methodological guidelines are provided for integrating advanced topological metrics into contemporary VLSI CAD/EDA design flows, thereby contributing to enhanced design quality, manufacturability, and parametric yield. This work is situated within the domains of physical design automation, computational intelligence in electronic design, and multi-criteria engineering optimization.",
+    "title_zh": "基于线性段度量的VLSI元件布局质量评估",
+    "abstract_zh": "本研究针对技术及物理约束下的VLSI模块布局这一NP难问题，通过构建包含综合设计指标的多目标优化框架展开探讨。除传统几何指标（总互连线长、布局密度、面积利用率及交叉指数）外，引入基于线段计数的新型拓扑度量方法。该指标不仅能最小化互连线长，还可实现布线几何结构的规则化，从而改善信号完整性、降低寄生效应并提升能效。为求解该问题，提出了改进的仿生启发式算法：一种融合拉马克局部适应与德弗里斯随机突变的混合进化策略增强型遗传算法，以及一种集成交叉最小化与密度感知布局优化的改进干细胞行为模型。开发了专用软件框架进行仿真实验。通过包含相关性分析与帕累托最优评估的统计方法，验证了所提算法的有效性及指标的参考价值。实验结果表明，在功耗分布、热分布及可布线等关键设计参数上取得了显著改善。基于研究发现，为将先进拓扑指标融入现代VLSI CAD/EDA设计流程提供了方法学指导，从而提升设计质量、可制造性及参数良品率。本工作隶属物理设计自动化、电子设计计算智能及多准则工程优化领域。"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "SecRL-Prune: Structured Reinforcement Learning–Based Pruning of CodeLLMs for Preserving Adversarial Code Mutation",
+    "authors": "Parsa Memarzadehsaghezi, Pooria Madani, Khalil El-Khatib",
+    "publish": "Proceedings of the Sixteenth ACM Conference on Data and Application Security and Privacy",
+    "url": "https://doi.org/10.1145/3800506.3803508",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "SecRL-Prune：基于结构化强化学习的代码大语言模型剪枝以保持对抗性代码变异",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "Can Language Models Go Beyond Coding? Assessing the Capability of Language Models to Build Real-World Systems",
+    "authors": "Chenyu Zhao, Shenglin Zhang, Zeshun Huang, Weilin Jin, Yongqian Sun, Dan Pei, Chaoyun Zhang, Qingwei Lin, Chetan Bansal, Saravan Rajmohan, Minghua Ma",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816153",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "语言模型能否超越编程？评估语言模型构建现实世界系统的能力",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "A Large Language Model Framework for Automatic PLC Control Logic Generation from Natural Language",
+    "authors": "Surya B, Ram K Shivany",
+    "publish": "2026 7th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)",
+    "url": "https://doi.org/10.1109/icicv68925.2026.11554806",
+    "source": "IEEE",
+    "abstract": "The use of IEC 61131-3 programming languages to implement programmable logic controller (PLC) control logic is commonly used in industrial automation systems. Traditional PLC programming however, involves specialized skills and high levels of manual programming and may result in higher development time and possible errors in programming. This research project offers a proposal of AutoCode AI, an intelligent system that will produce IEC 61131-3 compliant control logic based on natural language specifications. It has a refined LLaMA-3.1-8B language model, structural prompt engineering, syntax verification, safety verification, and simulation-based testing modules. Experimental analysis reveals that the suggested framework attains 96.8 % accuracy in generation of control logic when it comes to low complexity tasks, 95.2 % control logic generation when it comes to tasks of medium complexity, and 91.6 % on highly complex industrial control situations. The system also saves on 63.8 % of the time spent in developing PLC whilst achieving a safety verification accuracy of 97.5 %. These findings suggest that the effectiveness and the reliability of AI-based automation programming are highly effective and efficient in the development process as opposed to conventional programming. The paper concludes that the AutoCode AI can be a helpful intelligent assistant in programming the industrial PLC. The future will be based on the inclusion of digital twin environments, the extension of multi-language PLC support, and the reinforcement learning to optimize the adaptive control logic.",
+    "title_zh": "一种从自然语言自动生成PLC控制逻辑的大语言模型框架",
+    "abstract_zh": "在工业自动化系统中，采用IEC 61131-3编程语言实现可编程逻辑控制器（PLC）控制逻辑已十分普遍。然而，传统PLC编程需要专业技能和大量手动编程，可能导致开发周期较长且易出现编程错误。本研究项目提出了一种名为AutoCode AI的智能系统，该系统能够基于自然语言规范生成符合IEC 61131-3标准的控制逻辑。该系统包含精炼的LLaMA-3.1-8B语言模型、结构化提示工程、语法验证、安全性验证及基于仿真的测试模块。实验分析表明，所提出的框架在低复杂度任务中控制逻辑生成准确率达96.8%，中等复杂度任务中达95.2%，高复杂度工业控制场景中达91.6%。同时，该系统节省了63.8%的PLC开发时间，安全性验证准确率达97.5%。这些结果表明，基于AI的自动化编程在开发过程中相比传统编程具有显著的高效性和可靠性。论文总结指出，AutoCode AI可作为工业PLC编程中有效的智能辅助工具。未来研究方向包括集成数字孪生环境、扩展多语言PLC支持，以及通过强化学习优化自适应控制逻辑。"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "AI Agent Case Study Generating High-Level Test Cases from Requirements",
+    "authors": "Satoshi Masuda, Tomohiro Takeda, Toshiharu Kato",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803296",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AI智能体案例研究：从需求生成高层次测试用例",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "Directed or Undirected: Investigating Fuzzing Strategies in a CI/CD Setup — RCR Report",
+    "authors": "Madonna Huang, Caroline Lemieux",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816115",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "有向还是无向：在CI/CD环境中探究模糊测试策略——RCR报告",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "Analysis and Optimization of ESD-induced Soft Failure in a Microcontroller Unit",
+    "authors": "Jiabei Pan, Ling Zhang, Yipeng Chen, Er-Ping Li, Shurong Dong",
+    "publish": "IEEE Transactions on Electromagnetic Compatibility",
+    "url": "https://doi.org/10.1109/temc.2026.3695921",
+    "source": "IEEE",
+    "abstract": "The continuous scaling of complementary metal oxide semiconductor process technology has necessitated a reduction in operating voltages, thereby diminishing the noise margins of chips. Consequently, the ground bounce induced by electrostatic discharge events is more likely to cause critical power supply fluctuations, leading to soft failures in the chip. To rapidly identify design vulnerabilities, this article developed a power supply noise simulation model and integrated it into the full microcontroller unit (MCU) performance simulation flow to predict noise levels and guide design modifications. A power supply noise measurement method that requires no additional circuitry is further proposed to monitor key signals associated with soft failures on the MCU. Through improvements in down-bond packaging and a redesign of the low-dropout regulator and phase-locked loop circuits, the chip’s soft failure level is enhanced by a factor of more than 10 without increasing die area or degrading chip performance.",
+    "title_zh": "微控制器单元中ESD引起的软失效分析与优化",
+    "abstract_zh": "互补金属氧化物半导体工艺技术的持续微缩使得芯片的工作电压不断降低，从而减小了噪声容限。因此，静电放电事件引起的地弹更易导致关键的电源电压波动，引发芯片的软失效。为了快速识别设计中的薄弱环节，本文开发了电源噪声仿真模型，并将其集成到完整的微控制器单元（MCU）性能仿真流程中，以预测噪声水平并指导设计修改。进一步提出了一种无需额外电路的电源噪声测量方法，用于监测MCU上与软失效相关的关键信号。通过改进下键合封装以及重新设计低压差稳压器和锁相环电路，芯片的软失效等级提升了10倍以上，且未增加芯片面积或降低芯片性能。"
+  },
+  {
+    "date": "2026-6-13",
+    "title": "The Role of Software Engineering Knowledge in Shaping Effective AI-Driven Development",
+    "authors": "Taeghyun Kang, Hyungbae Park, Sunae Shin",
+    "publish": "Proceedings of the 2026 9th International Conference on Information and Computer Technologies",
+    "url": "https://doi.org/10.1145/3803291.3803317",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "软件工程知识在塑造有效的人工智能驱动开发中的作用",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "Demystifying LLM API Misuses: A Lifecycle-Based Empirical Study on Real-World Android Apps",
+    "authors": "Jinghang Wen, Qingchuan Zhao",
+    "publish": "Proceedings of the Sixteenth ACM Conference on Data and Application Security and Privacy",
+    "url": "https://doi.org/10.1145/3800506.3803496",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "解密LLM API误用：基于生命周期的真实世界Android应用实证研究",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "A Modular HRL Agent for Automated Pentesting with Specialized Policies: A Maritime use case",
+    "authors": "Marc-Antoine Faillon, Julien Francq, Nora Boulahia-Cuppens, Frédéric Cuppens, Reda Yaich",
+    "publish": "Proceedings of the Sixteenth ACM Conference on Data and Application Security and Privacy",
+    "url": "https://doi.org/10.1145/3800506.3803510",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一种用于自动化渗透测试的模块化HRL代理与专门化策略：海事用例",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-12",
+    "title": "A Reality Check on SBOM-based Vulnerability Management: An Empirical Study and A Path Forward",
+    "authors": "Li Zhou, Marc Dacier, Charalambos Konstantinou",
+    "publish": "Proceedings of the Sixteenth ACM Conference on Data and Application Security and Privacy",
+    "url": "https://doi.org/10.1145/3800506.3803490",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于SBOM的漏洞管理的现实检验：一项实证研究与前进之路",
+    "abstract_zh": "无"
+  }
+]
