@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2026-6-19",
+    "title": "Hardware-Aware Model Design and Training of Silicon-based Analog Neural Networks",
+    "authors": "Giulio Filippeschi, Mirko Brazzini, Cristhopher Mosquera, Marco Lanuzza, Alessandro Catania, Sebastiano Strangio, Giuseppe Iannaccone",
+    "publish": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems",
+    "url": "https://doi.org/10.1109/jetcas.2026.3705439",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "硅基模拟神经网络的硬件感知模型设计与训练",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "Assessing and Improving Prompting Large Language Models for Software Vulnerability Analysis",
+    "authors": "Yu Nong, Guangbei Yi, Mohammed Aldeen, Long Cheng, Hongxin Hu, Haipeng Cai",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3821416",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "评估和改进针对软件漏洞分析的大型语言模型提示方法",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "External Data Extraction Attacks against Retrieval-Augmented Large Language Models_supp1-3705326.pdf",
+    "authors": "Yiming Li",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tifs.2026.3705326/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "针对检索增强型大语言模型的外部数据提取攻击_补充材料1-3705326.pdf",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "PseudoBridge: Pseudo Code as the Bridge for Better Semantic and Logic Alignment in Code Retrieval",
+    "authors": "Yixuan Li, Xinyi Liu, Weidong Yang, Ben Fei, Shuhao Li, Mingjie Zhou, Lipeng Ma",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3821535",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PseudoBridge: 以伪代码为桥梁实现代码检索中更好的语义与逻辑对齐",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "Energy Profiling of Pruned LLMs During Python Code Generation",
+    "authors": "Pranav Reddy Danda, Xue Li",
+    "publish": "Proceedings of the 16th ACM International Green and Sustainable Computing Conference",
+    "url": "https://doi.org/10.1145/3797248.3815410",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "剪枝后的大语言模型在Python代码生成过程中的能耗分析",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "Double-Blind Cleanser: Blindly Unlearning Backdoors Without Clean Data_supp1-3705336.pdf",
+    "authors": "Jian Wang",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tifs.2026.3705336/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "双盲清洁器：在无干净数据情况下盲解除后门_supp1-3705336.pdf",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "DDPOPlace: Reinforcement-Learned Diffusion Placement with Intermediate Rewards",
+    "authors": "Junqi Chen, Haotian Wang, Yan Ding, Kenli Li, Zheng Xiao",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3705695",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DDPOPlace：具有中间奖励的强化学习扩散放置",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "Retrieval-Augmented Unit Test Suggestion Generation",
+    "authors": "Hongyan Li, Weifeng Sun, Meng Yan",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3821423",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "检索增强的单元测试建议生成",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "FedLLM4HW: Carbon-Aware Federated Triage of Hardware Weaknesses in LLM-Generated Verilog Code",
+    "authors": "Parsa Mirfasihi, Arthur Kim, Hariharan Ramesh, Josh Dean, Melika Akbarsharifi, Roxana Akbarsharifi, John Martin Encinas, Pratik Satam, Jyotikrishna Dass, Rozhin Yasaei, Soheil Salehi",
+    "publish": "Proceedings of the 16th ACM International Green and Sustainable Computing Conference",
+    "url": "https://doi.org/10.1145/3797248.3816055",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "FedLLM4HW：LLM生成Verilog代码中硬件弱点的碳感知联邦分类",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "You Don’t Know Jack About Formal Verification",
+    "authors": "Fernanda Graciolli, Nada Amin",
+    "publish": "Queue",
+    "url": "https://doi.org/10.1145/3819084",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "你对形式化验证一窍不通",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-19",
+    "title": "Accelerated Modeling of Parasitic Effect and Electromigration-Aware Reliability Evaluation for Interconnects in RRAM-Based Crossbar Array",
+    "authors": "Wenbo Wang, Siwei Tan, Yizhang Liu, Hao Xie, Lunyao Wang, Yinshui Xia, Wenchao Chen",
+    "publish": "IEEE Transactions on Electron Devices",
+    "url": "https://doi.org/10.1109/ted.2026.3703390",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "RRAM交叉阵列互连的寄生效应加速建模及电迁移感知可靠性评估",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-20",
+    "title": "When Tools Overlook Domain Knowledge: An Empirical Study of Refactoring in Scientific Software",
+    "authors": "Rohith Pudari, Ahmed Musa Awon, Neil Ernst, Shurui Zhou",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3821432",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当工具忽视领域知识时：科学软件中重构的实证研究",
+    "abstract_zh": "无"
+  }
+]
