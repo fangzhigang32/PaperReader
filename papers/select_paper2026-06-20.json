@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-6-20",
+    "title": "When Tools Overlook Domain Knowledge: An Empirical Study of Refactoring in Scientific Software",
+    "authors": "Rohith Pudari, Ahmed Musa Awon, Neil Ernst, Shurui Zhou",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3821432",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当工具忽视领域知识：科学软件中重构的实证研究",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-20",
+    "title": "Effort-aware ROC Curves: a Comprehensive Approach to the Evaluation of Software Defect Prediction Models",
+    "authors": "Luigi Lavazza, Sandro Morasca, Gabriele Rotoloni",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3821214",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "工作量感知的ROC曲线：软件缺陷预测模型评估的综合方法",
+    "abstract_zh": "无"
+  }
+]
