@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2026-6-22",
+    "title": "Software Defect Prediction Using Static Code Metrics: a Machine Learning Perspective",
+    "authors": "Almas Begum, Hemalatha D",
+    "publish": "2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+    "url": "https://doi.org/10.1109/icssas68835.2026.11559438",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于静态代码度量的软件缺陷预测：机器学习视角",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Analog Design Experiments With AI—Part 2 [The Analog Mind]",
+    "authors": "Behzad Razavi",
+    "publish": "IEEE Solid-State Circuits Magazine",
+    "url": "https://doi.org/10.1109/mssc.2026.3686589",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "利用AI进行模拟设计实验——第二部分【模拟思维】",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Artificial Intelligence Meets Circuits: Does it have potential in circuit analysis?",
+    "authors": "Jacob Byers, Adam Corazza, Prasad Gudem, Ram Bala, Mani Vaidyanathan",
+    "publish": "IEEE Solid-State Circuits Magazine",
+    "url": "https://doi.org/10.1109/mssc.2026.3670746",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "人工智能遇上电路：它在电路分析中有潜力吗？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Artificial Intelligence for RFIC Design: Early Advancements, Opportunities, and Challenges: From discovering nonintuitive design spaces to accelerated RFIC designs",
+    "authors": "Kaushik Sengupta, Jonathan Zhou, Juho Park, Emir Ali Karahan, Jiajun Tang, Sherif Ghozzy, Muhamed Allam",
+    "publish": "IEEE Solid-State Circuits Magazine",
+    "url": "https://doi.org/10.1109/mssc.2026.3680917",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于RFIC设计的人工智能：早期进展、机遇与挑战：从发现非直觉设计空间到加速RFIC设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "A Modular and User-Friendly Web Vulnerability Scanner with Integrated Security Awareness",
+    "authors": "Sara Khalid Al Balushi, Aparna Agarwal",
+    "publish": "2026 International Conference on Sustainable Engineering and Digital Innovation (ICSEDI)",
+    "url": "https://doi.org/10.1109/icsedi66420.2026.11568281",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "模块化、用户友好的Web漏洞扫描器，集成安全意识",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "MaID-Agent: A Hybrid Masqueraded Intrusion Detection System Enhanced by Agent",
+    "authors": "Abhishek Chaudhary, Seongkwang Kim, Sunoh Choi",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3705409",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "MaID-Agent：一种通过Agent增强的混合式伪装入侵检测系统",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Study on Multi-Corner Standard Cell Delay Prediction Based on Machine Learning",
+    "authors": "Jianyang Wang, Jingtian Liu",
+    "publish": "2026 5th International Conference on Electronics, Integrated Circuits and Communication Technology (EICCT)",
+    "url": "https://doi.org/10.1109/eicct69950.2026.11564804",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于机器学习的多角标准单元延迟预测研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "EvoSpeak: Large Language Models for Interpretable Genetic Programming-Evolved Heuristics_supp1-3705492.pdf",
+    "authors": "Meng Xu",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tevc.2026.3705492/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "EvoSpeak：大型语言模型用于可解释的遗传编程进化启发式算法_补充材料1-3705492.pdf",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Behavioral Modeling of a 12-bit 2.5-bit/stage Pipelined ADC Based on Cadence Virtuoso",
+    "authors": "Junxiang Jia, Jincheng Li",
+    "publish": "2026 5th International Conference on Electronics, Integrated Circuits and Communication Technology (EICCT)",
+    "url": "https://doi.org/10.1109/eicct69950.2026.11564185",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于Cadence Virtuoso的12位2.5位/级流水线模数转换器的行为建模",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Speculative Execution Attack Mitigation Mechanism for XuanTie C910 Based on Dynamic Instruction Delay",
+    "authors": "Yujie Chen, Yao Liu",
+    "publish": "2026 5th International Conference on Electronics, Integrated Circuits and Communication Technology (EICCT)",
+    "url": "https://doi.org/10.1109/eicct69950.2026.11564834",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于动态指令延迟的玄铁C910推测执行攻击缓解机制",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Low-power on-chip interaction mechanisms for edge devices",
+    "authors": "Anping He, Yihua Lu, Tong Fu, Jun Ma",
+    "publish": "2026 5th International Conference on Electronics, Integrated Circuits and Communication Technology (EICCT)",
+    "url": "https://doi.org/10.1109/eicct69950.2026.11564806",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向边缘设备的低功耗片上交互机制",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "SQL-MCP: An AI-Powered Multi-LLM Framework for Autonomous Oracle Database Object Debugging Using GPT-4 and Claude",
+    "authors": "Mohankrishna Kothapalli, Dharanidhar Vuppu",
+    "publish": "2026 IEEE World AI IoT Congress (AIIoT)",
+    "url": "https://doi.org/10.1109/aiiot68874.2026.11569528",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SQL-MCP：一种基于AI的多大语言模型框架，利用GPT-4和Claude实现Oracle数据库对象的自主调试",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Design and Implementation of an Efficient UVM-Based Verification Framework for a PCIe Endpoint Module",
+    "authors": "Shiyi Cao, Jincheng Li",
+    "publish": "2026 5th International Conference on Electronics, Integrated Circuits and Communication Technology (EICCT)",
+    "url": "https://doi.org/10.1109/eicct69950.2026.11564572",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于UVM的高效PCIe端点模块验证框架的设计与实现",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "The Full-process Design and Implementation of an ASIC for an MCDF Chip",
+    "authors": "Zanjie Sun, Hongliang Fan, Xiaoping Xu, Feiyu Ma, Ming Liu",
+    "publish": "2026 5th International Conference on Electronics, Integrated Circuits and Communication Technology (EICCT)",
+    "url": "https://doi.org/10.1109/eicct69950.2026.11564742",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "MCDF芯片专用集成电路的全流程设计与实现",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Design of Single-Cell SRAM and 8×8 SRAM on Virtuoso Cadence",
+    "authors": "Happila T, Anbarasan G, Gouthamraj D, Kamesh R, Thameezudeen T",
+    "publish": "2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+    "url": "https://doi.org/10.1109/icssas68835.2026.11559317",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "在Virtuoso Cadence上的单单元SRAM与8×8 SRAM设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "CEDA Currents [IEEE News]",
+    "authors": "David Tadros",
+    "publish": "IEEE Solid-State Circuits Magazine",
+    "url": "https://doi.org/10.1109/mssc.2026.3690389",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CEDA动态 [IEEE新闻]",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Lightweight Modeling of Integrated Circuits Based on IIFE Feature Engineering and XGBoost",
+    "authors": "Yangliu Gao",
+    "publish": "2026 5th International Conference on Electronics, Integrated Circuits and Communication Technology (EICCT)",
+    "url": "https://doi.org/10.1109/eicct69950.2026.11564243",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于IIFE特征工程与XGBoost的集成电路轻量化建模",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "An Intelligent Detection System for Digital Chips Based on Embedded Logic Control",
+    "authors": "Jiaqi Shi, Fengming Zhang, Zhipeng Wang",
+    "publish": "2026 5th International Conference on Electronics, Integrated Circuits and Communication Technology (EICCT)",
+    "url": "https://doi.org/10.1109/eicct69950.2026.11564623",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于嵌入式逻辑控制的数字芯片智能检测系统",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-22",
+    "title": "Reliability-Aware Design Automation for Multi-Mode Low-Frequency Wideband Piezoelectric MEMS Energy Harvesters",
+    "authors": "Aylar Abouzarkhanifard, Hamidreza Ehsani Chimeh, Mohammad Al Janaideh, Lihong Zhang",
+    "publish": "Journal of Microelectromechanical Systems",
+    "url": "https://doi.org/10.1109/jmems.2026.3700950",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "多模式低频宽带压电MEMS能量采集器的可靠性感知设计自动化",
+    "abstract_zh": "None"
+  }
+]
