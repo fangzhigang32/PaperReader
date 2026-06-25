@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-6-23",
+    "title": "DRPplace: Reinforcement Learning-Based Hierarchical Geometric Placement with Polygon-Aware Whitespace Management",
+    "authors": "De-Ming Wang, Tao Wang, Sheng-Zhi Shen, Yu-He Wang, Chao-Xing Zhou, Zhi-Wei Li, Xu Zhang",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3706634",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DRPplace: 基于强化学习的层次化几何布局与多边形感知空白空间管理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-24",
+    "title": "Binary Code Similarity Detection Based on Semantically Enhanced Abstract Syntax Trees and Attention Mechanisms",
+    "authors": "Zhou Zhou, Tiejun Wu, Ya Zhang",
+    "publish": "2026 38th Chinese Control and Decision Conference (CCDC)",
+    "url": "https://doi.org/10.1109/ccdc69976.2026.11560131",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于语义增强的抽象语法树和注意力机制的二进制代码相似性检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-23",
+    "title": "ATLAS: From Access conTrol Language to ACSL Specifications",
+    "authors": "Julien Signoles, Khaoula Boukir, Amine Nasri",
+    "publish": "Proceedings of the 25th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences",
+    "url": "https://doi.org/10.1145/3814885.3816415",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ATLAS：从访问控制语言到ACSL规范",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-24",
+    "title": "A Ring Oscillator with Extended Tuning Range",
+    "authors": "Duofei Pei, Haiou Li, Weilin Xu",
+    "publish": "2025 7th International Conference on Circuits and Systems (ICCS)",
+    "url": "https://doi.org/10.1109/iccs66653.2025.11569652",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "具有扩展调谐范围的环形振荡器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-23",
+    "title": "Integrating Expert Knowledge into Logical Programs via LLMs",
+    "authors": "Franciszek Górski, Oskar Wysocki, Marco Valentino, Andre Freitas, Andrzej Czyżewski",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3706430",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过大语言模型将专家知识整合到逻辑程序中",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-23",
+    "title": "Android Malware Detection Using Random Forest and Neural Networks with Static and Dynamic Features",
+    "authors": "Nisreen I. Abo Dabowsa, Addelsalam M. Maatuk, Tawfig M. Abdelaziz",
+    "publish": "2026 International Symposium of Systems, Advanced Technologies and Knowledge (ISSATK)",
+    "url": "https://doi.org/10.1109/issatk69667.2026.11566940",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用随机森林和神经网络基于静态与动态特征的Android恶意软件检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-23",
+    "title": "Proceedings of the 25th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3814885",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "第25届ACM SIGPLAN国际生成式编程：概念与经验会议论文集",
+    "abstract_zh": "无"
+  }
+]
