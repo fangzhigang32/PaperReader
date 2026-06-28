@@ -1,0 +1,893 @@
+[
+  {
+    "date": "2026-6-27",
+    "title": "Inducing Neutral Affective States in HCI Experiment Participants",
+    "authors": "Ioannis Lykouras, Ioulia Simou, Andreas Komninos",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3815997",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Data Protection Vulnerabilities Assessment for Cross-Organizational Consistency Checking in TEE",
+    "authors": "Derui Zhu, Sebastian Bergemann, Mohammad Sadeghi, Colin Atkinson, Alexander Pretschner",
+    "publish": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "url": "https://doi.org/10.1145/3786146.3788645",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Advancing DEVS Model Definition via Conceptual Modeling",
+    "authors": "Maria Julia Blas, Silvio Gonnet",
+    "publish": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "url": "https://doi.org/10.1145/3786146.3788644",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A Persona-Augmented Multi-Agent System for Varied Narrative Generation",
+    "authors": "Andrea Sillano, Giuseppe Arbore, Luigi De Russis",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3810931",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "D3OF: DRL-Driven Dual-Layer Dynamic Obfuscation Framework for FPGAs",
+    "authors": "Fei Cao, Weiping Yao, Chaobing Wang",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801816",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "How Much Energy Is Wasted in LLM operations? Evidence from Kernel-Level DVFS",
+    "authors": "Jeffrey Spaan, Kuan-Hsun Chen, Ana-Lucia Varbanescu",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801822",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A Portable GPU Kernel Performance Modeling Method Based on LLVM IR Dynamic Feature Prediction",
+    "authors": "Qiang Wang, Hao Zheng, Yiru Liu, Fan Yang, Jiachen Liu, Chaojun Deng, Ziheng Wang, Xiaoshe Dong",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801808",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Threads or Vectors? Evaluating SPMD and Vector Accelerators for Resource Constrained RISC-V Architectures",
+    "authors": "Amirhossein Kiamarzi, Samuele Colmi, Yvan Tortorella, Angelo Garofalo, Davide Rossi, Giuseppe Tagliavini",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801835",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Engineering Cross-Compatible Personalization for Interactive AI-Driven Services",
+    "authors": "Florian Müller, Andrii Matviienko, Alessandro Bozzon, Carmen Santoro, Larbi Abdenebaoui, Andrea Lavazza, Andreas Komninos, Nicolas Sklavos",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3822520",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A Language-driven Approach for Generating Simulation Scenarios of Self-Adaptive Systems in Minecraft",
+    "authors": "Luis Benevides, Matheus Chagas, Paulo Henrique Maia",
+    "publish": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "url": "https://doi.org/10.1145/3786146.3788642",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "RaDIA: Visual Analytics for Systematic Sample Association in Nuclear Weapon Test Verification Workflows",
+    "authors": "Kris Luyten, Stian Verherstraeten, Christophe Gueibe, Gustavo Alberto Rovelo Ruiz",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3810929",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A Gray Literature Study on Fairness Requirements in AI-enabled Software Engineering",
+    "authors": "Thanh Nguyen, Chaima Boufaied, Ronnie de Souza Santos",
+    "publish": "Proceedings of the 2nd International Workshop on Requirements engineering for AI-powered SoftwarE",
+    "url": "https://doi.org/10.1145/3786174.3788351",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "FlIP: Flow-Based Instruction Processing for Out-of-Order Scheduling in GPGPUs",
+    "authors": "Munawira Kotyad, Yashvardhan Rathore, Ganesh Sai Shanmukhi, Virendra Singh",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801823",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "µPoly Tutorial: Using the First Microgesture Toolkit",
+    "authors": "Adrien Chaffangeon Caillet, Aurélien Conil, Alix Goguey, Laurence Nigay",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3810938",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Row-wise Inter-Phase Pipelining for Hardware-Efficient GCN Acceleration",
+    "authors": "Shi Chen, Junsheng Chang, Yang Guo, Li Shen",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801817",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Implications of Supporting Compressed Instructions in Area-Optimized Bit-Serial RISC-V Cores",
+    "authors": "Meinhard Kissich, Daniel Traussnig, Marcel Baunach",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801810",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Robust Quantum Communication for Space Systems Through an Heterogeneous RISC-V based FPGA/SoC Platform",
+    "authors": "Giorgio Cora, Arash Amini Bardpareh, Gonzalo Miguel Joaquin Fernandez Lobo, Corrado De Sio, Sarah Azimi, Andrea Stanco, Luca Sterpone",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801825",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A QSP Matrix Multiplication Method for Phase Factor Recovery",
+    "authors": "Zheng Zhang, Minzhong Luo",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801833",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "The Influence of Environmental Odors on Student Programmers During Code Comprehension and Code Writing",
+    "authors": "Zachary Karas, Danielle Page, Maya Maciel-Seidman, Zohreh Sharafi, Yu Huang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3822406",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: Measuring What Matters: Advancing Green Computing Through the Green Work Efficiency (GWE) Metric",
+    "authors": "Mirna Elbestar, Mariam Dawoud, Soumaia Al Ayyat, Sara Singergy, Sherif G. Aly",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805611",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Network Folding for Resource-Efficient Implementation of Stream-Dataflow Deep Neural Network Inference on FPGAs",
+    "authors": "Van-Quan Pham, Adrien Prost-Boucle, Olivier Muller, Frédéric Pétrot",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801837",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Designing and Engineering Gesture User Interfaces",
+    "authors": "Jean Vanderdonckt",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3810939",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Designing beyond human perspectives: Applying BACT framework into practice",
+    "authors": "Theodora Chamaidi, Athina Bosta, Modestos Stavrakis",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3810937",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Non-Euclidean Portals in VR: A Demo of Seamless Room-Scale Navigation Beyond Physical Boundaries",
+    "authors": "Alkinoos Alyssandrakis, Damianos Dumi Sigalas, Kostantinos Moustakas",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3815998",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Real-World Traceability Patterns for Generative AI Systems: With Insights from the Safa Dataset",
+    "authors": "Katherine R. Dearstyne, Alberto Daniel Rodriguez, Jane Cleland-Huang",
+    "publish": "Proceedings of the 2nd International Workshop on Requirements engineering for AI-powered SoftwarE",
+    "url": "https://doi.org/10.1145/3786174.3788354",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Accuracy-Performance-Resources Trade-Offs in RISC-V Microarchitectures for Genetic Programming",
+    "authors": "Paul Allaire, Mickaël Dardaillon, Thibaut Marty, Alfonso Rodriguez, Andres Otero, Karol Desnos",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801818",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: Toward Energy-Efficient Approximate Computing for Mixture-of-Experts Based CNN Inference",
+    "authors": "Job van wee, Yawar Rasheed, G.A. Gillani",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805610",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis",
+    "authors": "Radu Nicolae, Dante Niewenhuis, Sacheendra Talluri, Alexandru Iosup",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806065",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Efficient and Accurate Graph Classification with Hyperdimensional Computing on FPGA",
+    "authors": "Jebacyril Arockiaraj, Dhruv Parikh, Viktor Prasanna",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801824",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Simulating MPI Collectives on Tofino Smart Switches in SimGrid",
+    "authors": "Ahmad Moh'd Saleh A. Belbeisi, Majid Salimi Beni, Thomas Erbesdobler, Ehab Saleh, Matthew Tovey, Amir Raoofy, Josef Weidendorfer",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801809",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "AME-PIM: Can Memory be Your Next Tensor Accelerator?",
+    "authors": "Emanuele Venieri, Simone Manoni, Alberto Florian, Jaehyun Park, Kyomin Sohn, Andrea Bartolini",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806067",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Hardware-Constrained Online Coordination for Hybrid CXL-RDMA Disaggregated Memory",
+    "authors": "Yue Ma, Ying Jing, Peng He, Fangming Liu, Sheng Zhang",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801831",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Async/await is an Effective Paradigm for Event Management of User Interfaces",
+    "authors": "Donatien Grolaux, Thanh-Diane Nguyen, Jean Vanderdonckt",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3810928",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "wdCP: Windowed Incremental Checkpointing for Efficient and Bounded LLM Recovery",
+    "authors": "Wendi Cheng, Xiao Zhang, Xiaonan Zhao, Xiaoling Shu, Jinjiang Wang, Shujie Han",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806069",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "The Adaptive Turn in User Interfaces",
+    "authors": "Luis A. Leiva",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3816240",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Towards a Generative AI-Driven Environment for the Specification and Evaluation of IoT Software Systems Requirements",
+    "authors": "Sabrina Rocha de Souza, Káthia Marçal de Oliveira, Claudio Miceli de Farias, Guilherme Horta Travassos",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3810930",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "eHenna: A Topology-Centered Taxonomy of Geometry-Defined Finger Input on Skin and Glove Conductive Interfaces",
+    "authors": "Nuwan T Attygalle",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3817087",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Streamlining Repository Tasks with Effective Snippet Retrieval",
+    "authors": "Tangzhi Xu, Cong Li, Zhaogui Xu, Yanyan Jiang, Yuan Yao, Xiaorui Zhu, Feng Xu, Peng Di, Chang Xu, Zhendong Su",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3821433",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: Enabling Fine-Grain DVFS for Multi-Kernel GPU Workloads",
+    "authors": "Jeffrey Spaan, Kuan-Hsun Chen, Ana-Lucia Varbanescu",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805613",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "AExec: Asynchronous Multi-accelerator Execution and Management Mechanism",
+    "authors": "Xiaokun Pei, Zhuolun Jiang, Mingyu Chen, Songyue Wang, Tianyue Lu",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801807",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+    "authors": "Giovanni B. Esposito, Francesco Antici, Daniele Cesarini, Andrea Bartolini",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806064",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: A Reliable Multi-FPGA RISC-V Based Cluster for Space AI Inference",
+    "authors": "Giorgio Cora, Morgana Duni, Corrado De Sio, Sarah Azimi, Luca Sterpone",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805604",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: AI Act Sandboxes: A Safety-by-Co-Design Framework",
+    "authors": "Nadia Spatari",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805606",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A Framework Supporting Context-Awareness for Transitional Cross-Reality Applications",
+    "authors": "Sarah Claudia Krings, Enes Yigitbas, Stefan Sauer",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3816478",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "ReelPeel: Inquiry under Algorithmic Feeds via Hold-to-Enter In-Feed Evidence Inspection",
+    "authors": "Alison Durst, Kai Jannsen, Jonas Nils Boerschmann, Johannes Moritz, Rijak Singh Malhotra, Julia von Sommoggy, Jana Rueter, Katharina Sieferle, Saber Zerhoudi, Eva Maria Bitzer",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3815999",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A Software Architecture for Real-Time Digital Twins in Machining",
+    "authors": "Shengjian Chen, Jingxi Zhang, Oliver Jud, Lars Klingel, Alexander Verl, Andreas Wortmann, Samed Ajdinović",
+    "publish": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "url": "https://doi.org/10.1145/3786146.3788640",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: Reinforcement Learning-based QoS-aware Online Scheduling for Multi-Tenant DNN Inference on Heterogeneous Accelerators",
+    "authors": "Francesco Giulio Blanco, Enrico Russo, Maurizio Palesi, Davide Patti",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805614",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Strata: Proactive Page Placement in Hybrid Memory Systems",
+    "authors": "Upasna, Venkata Kalyan Tavva",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3807573",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3807968",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "On the Efficacy of PyTorch for High-Performance Computing: A Case Study in Computational Physics",
+    "authors": "Beau Johnston, Niteya Shah, Wu-chun Feng",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801838",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Architecturally Aligned Trustworthy AI: Substrate and System Design Strategies for Next Generation AI",
+    "authors": "Eren Kurshan",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3802805",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: TinyLLM: Evaluation and Optimization of Small Language Models for Agentic Tasks on Edge Devices",
+    "authors": "Mohd Ariful Haque, Fahad Rahman, Kishor Datta Gupta, Khalil Shujaee, Roy George",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805608",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Designing Fatigue-Aware VR Interfaces via Biomechanical Models",
+    "authors": "Harshitha Voleti, Charalambos Poullis",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3816097",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Gesture Interaction: From 2D Multi-stroke to 3D Dynamic Gestures with Contact-Based and Contactless Devices",
+    "authors": "Nuwan T Attygalle, Joanna Galloway, Nacera Latreche, Nathan Magrofuoco, Paolo Roselli, Alaa Sahraoui, Arthur Sluÿters, Nicolas Szelagowski, Jean Vanderdonckt, Guillaume Van Issum, Donatien Grolaux, Thanh-Diane Nguyen",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3816001",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A System-Level Performance Analysis of On-Device Learning on an Ultra-Low-Power Edge System",
+    "authors": "Manuele Rusci, Mohamed Amine Hamdi, Daniele Jahier Pagliari, Francesco Conti, Alessio Burrello",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806371",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "From Usability Heuristics to Human–AI Interaction: A Comparative Analysis of 30-Years of Design Guidelines",
+    "authors": "Nikolaos Avouris, Christos Sintoris",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3817088",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Mapping Gestures Performed with Tangible Cubes to System Commands",
+    "authors": "Nacera Latreche, Bert Schiettecatte",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3815996",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: Hardware Acceleration for Graph Neural Networks",
+    "authors": "Cory Davis, Patrick Stockton, Eugene B. John, Jeeho Ryoo, Ebod Shojaei",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805612",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Quantum Walks for Collision-Based Information Set Decoding",
+    "authors": "Simone Perriello, Alessandro Barenghi, Gerardo Pelosi",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801826",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "BlockKD3A: A Web3-Native Framework for Decentralized Collaborative AI and User-Generated Model Assets",
+    "authors": "Ziang Zhou, Hongjian Shi, Ruhui Ma, Yuhan Qiu, Qiwei Yu, Shiquan Wang, Zhongle Qu, Haibing Guan",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3822600",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Topology and Reliability Aware Qubit Mapping for Quantum Core Systems",
+    "authors": "Rajeswari Suance P S, Akansh Khandelwal, Surankan De, Satyajit Das, John Jose, Maurizio Palesi",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801820",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786146",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Fourth Workshop on Engineering Interactive Systems Embedding AI Technologies",
+    "authors": "José Creissac Campos, Camille Fayollas, Kris Luyten, Philippe Palanque, Emanuele Panizzi, Max Pascher, Fabio Paternò, Lucio Davide Spano",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3822519",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "SABRE: A Compression-Aware BF16 Accelerator for Neuromorphic Attention",
+    "authors": "Kunal Kishore, Manish Nagaraju, Anshul Raghavendra Katti, Nandan Venkataramana Bhat, Pramod Udupa, Shikha Tripathi, Sudarshan TSB",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801814",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "An Open-Source Distributed Simulation Framework for RISC-V Systems incorporating Vector and Cryptographic Extensions",
+    "authors": "Nikolaos Tampouratzis, Ioannis Papaefstathiou",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801811",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "SMX: A RISC-V ISA Extension for Scale-Adaptive Quantized Softmax",
+    "authors": "Luca Donato, Tommaso Spagnolo, Cristina Silvano",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801836",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Ada-Store: An Adaptive Load-aware Hybrid Storage Architecture for Bursty Workloads",
+    "authors": "Luyang Ni, Jiexiong Xu, Yiquan Chen, Yijing Wang, Wenzhi Chen",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801819",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "EnsembleHealer: Autonomous Recovery from Model Poisoning in Decentralized Federated Learning",
+    "authors": "Srinija Ramichetty, Mahmoud Abumandour, Alaa R. Alameldeen, Guru Venkataramani",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801832",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Evaluating Real-Time Adaptive Interfaces through EEG-derived and Self-reported Mental Workload Indicators",
+    "authors": "Saravanakumar Duraisamy, Nuwan T Attygalle, Parvin Emami, Jean Vanderdonckt, Luis A. Leiva",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3810932",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Engineering Socially-Interactive AI",
+    "authors": "Elisabeth André",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3816801",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Parameter-Efficient and Imbalance-Aware Fine-Tuning for Rhetorical Role Classification in Legal Judgments",
+    "authors": "Pavithra Neelamegam, S. Jaya Nirmala",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806066",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Compact Thermal and Power Models for Manycore Multichiplet Architectures: A Case Study on Intel Sapphire Rapids Processor",
+    "authors": "Antonio del Vecchio, Giacomo Madella, Roberto Diversi, Andrea Bartolini",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801828",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "LLM-Driven Optimization for High-Level Synthesis",
+    "authors": "Max Ramstad, Nicolas Bohm Agostini, Antonino Tumeo",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806068",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "LSFAF: A Layer-Sharing and FPGA-Accelerated Framework for Fast Collaborative Inference in Edge Scenarios",
+    "authors": "Bin Zheng, Yujie Peng, Zhenkai Sun, Jianxin Wang, Jin Wang",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801830",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "HMix : An Efficient Hardware Accelerator for Quantized MLP-Mixer Inference",
+    "authors": "Dhananjay Rao Thallikar Shyam, Shashank Nag, Lizy K. John",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801834",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: A Chip-level Monitoring Framework for Enhancing PCIe Observability",
+    "authors": "Haobin Zheng",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805605",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Class Model Generation from Requirements using Large Language Models",
+    "authors": "Jackson Nguyen, Rui En Koe, Fanyu Wang, Chetan Arora, Alessio Ferrari",
+    "publish": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "url": "https://doi.org/10.1145/3786146.3788643",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "StAccato: Reducing the Performance Penalty of Randomness",
+    "authors": "Ranganath Selagamsetty, Joshua San Miguel, Mikko Lipasti",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801821",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: Security and Cost Trade-offs of Side-Channel Countermeasures for AES Software on RISC-V SoCs",
+    "authors": "Abolfazl Sajadi, Nusa Zidaric, Todor Stefanov, Nele Mentens",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805609",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: Bypassing Blocking Instructions to enable Out-Of-Order Execution in GPGPUs",
+    "authors": "Munawira Kotyad, Ganesh Sai Shanmukhi, Yashvardhan Rathore, Virendra Singh",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805607",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Empowering AI-Powered Industrial Design Software: Introducing Constraint Satisfaction Problem for Requirement Alignment",
+    "authors": "Haoyu Zheng, Lance Zhao, Zhe Li",
+    "publish": "Proceedings of the 2nd International Workshop on Requirements engineering for AI-powered SoftwarE",
+    "url": "https://doi.org/10.1145/3786174.3788353",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A Comprehensive Survey of Deep Learning for Entity Resolution",
+    "authors": "Dimitrios Karapiperis, Christos Tjortjis, Vassilios Verykios",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3828660",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Predictive Models of Typing Performance in Novel Keyboards",
+    "authors": "Ioulia Simou, Andreas Komninos",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3816000",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Outside the Box in the Age of AI",
+    "authors": "Margaret Burnett",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3816807",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: Towards a RISC-V-based SmartNIC Architecture on FPGA",
+    "authors": "Kun Qin, Aswathy N. Sankaranarayanan, Taiki Okano, Martin Schulz, Carsten Trinitis",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805615",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Guiding End Users Towards Software Reuse: An Evaluation of Automated Assistance in Block-Based Programming",
+    "authors": "Anne-Marie Rommerdahl, Jeremy Alexander Ramírez Galeotti, Dimitrios Dafnis, Nasifa Akter, Anahide Silahli, Thiago Rocha Silva",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3816098",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "From Interaction Logs to Reliable Features: Recording, Processing, and Slicing User Interaction Data for Machine Learning",
+    "authors": "Patrick Harms",
+    "publish": "Companion Proceedings of the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "url": "https://doi.org/10.1145/3807968.3812203",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Reengineering of Simulation-based Digital Twin Toolchains for Automated Vehicles to Mitigate Technical Debt: A Case Study",
+    "authors": "Dennis Eller, Niklas Först, Ralf Stemmer, Tjark Koopmann, Alexander Weinert, Philipp M. Fischer, Kim Grüttner, Andreas Gerndt, Michael Felderer",
+    "publish": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "url": "https://doi.org/10.1145/3786146.3788641",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "A 8.4 TFLOPS@16b/4.3W General-Purpose Programmable Accelerated Cluster for AI-Native RAN",
+    "authors": "Marco Bertuletti, Yichao Zhang, Alessandro Vanelli-Coralli, Luca Benini",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801815",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Proceedings of the 2nd International Workshop on Requirements engineering for AI-powered SoftwarE",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786174",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3801487",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "LightSerial: Accelerating In-Process Isolation via Implicit Dependency Exposure",
+    "authors": "Yue Jin, Yibin Xu, Han Wang, Tianyue Lu, Mingyu Chen",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801829",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Bridging the gap between software and hardware",
+    "authors": "Lana Josipović",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3802806",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "MKA: Memory-Keyed Attention for Efficient Long-Context Reasoning",
+    "authors": "Dong Liu, Yanxuan Yu, Ben Lengerich, Ying Nian Wu",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801812",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Similarity-Aware Function Pre-Loading for Serverless Inference",
+    "authors": "Jichang Dong, Bao Li, Yusong Tan",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801827",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning",
+    "authors": "Bo Hou, Xin Tan, Kai Zheng, Fang Liu, Yinghao Zhu, Li Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3822177",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "NoCWalk: In-Network Page Walks for Efficient Pointer-Chasing Workloads on Multicores",
+    "authors": "Yuan Yao, Shiming Li, Rashid Aligholipour, Stefanos Kaxiras",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801813",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "PrudentCaster: A Tunable Broadcast Gossip Framework for Mobile Edge Synchronization",
+    "authors": "Yunna Cui, Liwei Shen, Mingming Hu, Boxiong Zhang, Tieying Li",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806372",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Using Distinct LLMs to Generate an Initial Software Functional Requirements List in Multiple Interactions",
+    "authors": "Hayala Curto, Laura Semini, Humberto T. Marques-Neto",
+    "publish": "Proceedings of the 2nd International Workshop on Requirements engineering for AI-powered SoftwarE",
+    "url": "https://doi.org/10.1145/3786174.3788352",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

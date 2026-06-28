@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-6-27",
+    "title": "Real-World Traceability Patterns for Generative AI Systems: With Insights from the Safa Dataset",
+    "authors": "Katherine R. Dearstyne, Alberto Daniel Rodriguez, Jane Cleland-Huang",
+    "publish": "Proceedings of the 2nd International Workshop on Requirements engineering for AI-powered SoftwarE",
+    "url": "https://doi.org/10.1145/3786174.3788354",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "生成式AI系统的现实世界可追溯性模式：基于Safa数据集的洞见",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "An Open-Source Distributed Simulation Framework for RISC-V Systems incorporating Vector and Cryptographic Extensions",
+    "authors": "Nikolaos Tampouratzis, Ioannis Papaefstathiou",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801811",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "针对集成向量和加密扩展的RISC-V系统的开源分布式仿真框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "LLM-Driven Optimization for High-Level Synthesis",
+    "authors": "Max Ramstad, Nicolas Bohm Agostini, Antonino Tumeo",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806068",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大语言模型驱动的高层次综合优化",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "POSTER: A Chip-level Monitoring Framework for Enhancing PCIe Observability",
+    "authors": "Haobin Zheng",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3805605",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "海报：一种用于增强PCIe可观测性的芯片级监控框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Class Model Generation from Requirements using Large Language Models",
+    "authors": "Jackson Nguyen, Rui En Koe, Fanyu Wang, Chetan Arora, Alessio Ferrari",
+    "publish": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "url": "https://doi.org/10.1145/3786146.3788643",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大语言模型的需求类模型生成",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning",
+    "authors": "Bo Hou, Xin Tan, Kai Zheng, Fang Liu, Yinghao Zhu, Li Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3822177",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于显式和隐式依赖推理的大语言模型驱动提交拆解协作模型",
+    "abstract_zh": "无"
+  }
+]
