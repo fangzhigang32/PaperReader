@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2026-6-26",
+    "title": "VFDelta: A Framework for Detecting Silent Vulnerability Fixes by Enhancing Code Change Learning",
+    "authors": "Xu Yang, Shaowei Wang, Jiayuan Zhou, Xing Hu",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3821413",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "VFDelta: 一个通过增强代码变更学习来检测静默漏洞修复的框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Row-wise Inter-Phase Pipelining for Hardware-Efficient GCN Acceleration",
+    "authors": "Shi Chen, Junsheng Chang, Yang Guo, Li Shen",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801817",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向硬件高效GCN加速的行级阶段间流水线",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Extracting Conditional Expressions as Local Variables: Frequency, Motivation, and Automated Recommendation",
+    "authors": "Bridget Nyirongo, Yanjie Jiang, Yuxia Zhang, Hui Liu",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3700827",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "将条件表达式提取为局部变量：频率、动机与自动化推荐",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "LLM-based Intelligent Agents for Cybersecurity: A Tutorial and Survey of Automated Vulnerability Discovery",
+    "authors": "Robel Addis, Kiran Porter, Jayden Ryan, Micah Stull, Shengjie Xu, Paul Wagner, Robert Honomichl, Steven Forsyth",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3707573",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型的网络安全智能代理：自动化漏洞发现的教程与综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Model Checking Probabilistic Operator Precedence Automata",
+    "authors": "Francesco Pontiggia, Ezio Bartocci, Michele Chiari",
+    "publish": "ACM Transactions on Computational Logic",
+    "url": "https://doi.org/10.1145/3822593",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "模型检测概率运算符优先级自动机",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Agentic Much? Adoption of Coding Agents on GitHub",
+    "authors": "Romain Robbes, Théo Matricon, Thomas Degueule, Andre Hora, Stefano Zacchiroli",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3822180",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "代理化十足？GitHub 上编程代理的采用",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Learning-Based SRAM Read Access Yield Estimation with Timing-Space Decomposition and Failure Boundary Modeling",
+    "authors": "Donggyun Ha, Giseok Kim, Doyoon Lim, Hohyun Chae, Seungjae Yei, Hanwool Jeong",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3707449",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于学习的SRAM读取访问良率估计，采用时序-空间分解和故障边界建模",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "An Open-Source Distributed Simulation Framework for RISC-V Systems incorporating Vector and Cryptographic Extensions",
+    "authors": "Nikolaos Tampouratzis, Ioannis Papaefstathiou",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3801811",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一个集成向量和加密扩展的RISC-V系统开源分布式仿真框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Boosting DBMS Test Coverage via LLM-Driven SQL Generation",
+    "authors": "Eslam Abdelkarim, Carsten Binnig, Anupam Sanghi",
+    "publish": "Proceedings of the 2026 11th International Workshop on Testing Database Systems",
+    "url": "https://doi.org/10.1145/3810991.3811637",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过LLM驱动的SQL生成提升数据库管理系统测试覆盖率",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "LENA: Llama-based Embeddings of Neutralized Assembly for Cross-compiler/optimization Binary Code Similarity Detection_supp1-3705321.pdf",
+    "authors": "Benjamin C. M. Fung",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tse.2026.3705321/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "LENA：基于Llama的中性化汇编嵌入用于跨编译器/优化二进制代码相似性检测_补充材料1-3705321.pdf",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "LLM-Driven Optimization for High-Level Synthesis",
+    "authors": "Max Ramstad, Nicolas Bohm Agostini, Antonino Tumeo",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3806068",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大型语言模型驱动的高层次综合优化",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Exploring Sustainability in Scientific Software through Code Quality &amp; Test Coverage Metrics",
+    "authors": "Sheikh Md. Mushfiqur Rahman, Gregory Watson, Nasir U. Eisty",
+    "publish": "Proceedings of the Platform for Advanced Scientific Computing Conference",
+    "url": "https://doi.org/10.1145/3815572.3815756",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过代码质量和测试覆盖率指标探索科学软件的可持续性",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Class Model Generation from Requirements using Large Language Models",
+    "authors": "Jackson Nguyen, Rui En Koe, Fanyu Wang, Chetan Arora, Alessio Ferrari",
+    "publish": "Proceedings of the 8th Workshop on Modeling and Simulation of Software-Intensive Systems",
+    "url": "https://doi.org/10.1145/3786146.3788643",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用大型语言模型从需求生成类模型",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Can Large Language Models Reason About Complex Execution Paths? An Empirical Study on Python",
+    "authors": "Wenhan Wang, Kaibo Liu, Zeyu Sun, An Ran Chen, Ge Li, Gang Huang, Lei Ma",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3822511",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "大语言模型能否推理复杂执行路径？基于Python的实证研究",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "DIRT: Database-Integrated Random Testing",
+    "authors": "Alperen Keles, Ethan Chou, Harrison Goldstein, Leonidas Lampropoulos",
+    "publish": "Proceedings of the 2026 11th International Workshop on Testing Database Systems",
+    "url": "https://doi.org/10.1145/3810991.3811632",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "DIRT: 数据库集成的随机测试",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Multi-Artifact Analysis of Self-Admitted Technical Debt in Scientific Software",
+    "authors": "Eric Melin, Nasir Eisty, Gregory Watson, Addi Malviya-Thakur",
+    "publish": "Proceedings of the Platform for Advanced Scientific Computing Conference",
+    "url": "https://doi.org/10.1145/3815572.3815759",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "科学软件中自认技术债务的多工件分析",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "CypherCoT: Execution-Aware Chain-of-Thought for Text-to-Cypher",
+    "authors": "Ziyi Ma, Xinming Ma, Jianhua Wang, Yang Huang, Liang Yang",
+    "publish": "IEEE Transactions on Computational Social Systems",
+    "url": "https://doi.org/10.1109/tcss.2026.3705033",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CypherCoT：面向文本到Cypher的执行感知思维链",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-27",
+    "title": "Bridging the gap between software and hardware",
+    "authors": "Lana Josipović",
+    "publish": "Proceedings of the 23rd ACM International Conference on Computing Frontiers",
+    "url": "https://doi.org/10.1145/3801487.3802806",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "弥合软件与硬件之间的鸿沟",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "CelloAI: Leveraging Large Language Models for HPC Software Development in High Energy Physics",
+    "authors": "Mohammad Atif, Kriti Chopra, Ozgur Kilic, Tianle Wang, Zhihua Dong, Charles Leggett, Meifeng Lin, Paolo Calafiura, Salman Habib",
+    "publish": "Proceedings of the Platform for Advanced Scientific Computing Conference",
+    "url": "https://doi.org/10.1145/3815572.3815751",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CelloAI：利用大型语言模型进行高能物理中的高性能计算软件开发",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-26",
+    "title": "Characterizing the Usefulness of Code Review Comments in Scientific Software for Software Quality and Scientific Rigor",
+    "authors": "Sharif Ahmed, Nasir U. Eisty",
+    "publish": "Proceedings of the Platform for Advanced Scientific Computing Conference",
+    "url": "https://doi.org/10.1145/3815572.3815763",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "描述科学软件中代码审查评论对软件质量和科学严谨性的有用性",
+    "abstract_zh": "无"
+  }
+]
