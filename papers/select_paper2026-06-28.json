@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2026-6-29",
+    "title": "Prompting Matters: Evaluating Strategies for LLM-based Vulnerability Detection",
+    "authors": "Siyao Xu, Kun Sun, Yan Li, Shufeng Tan, Kai Zhang, Yuze Chen, Caiyan Nong, Mingyang Sun, Guozhu Meng",
+    "publish": "2026 6th International Symposium on Computer Technology and Information Science (ISCTIS)",
+    "url": "https://doi.org/10.1109/isctis70043.2026.11572319",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "提示策略至关重要：评估基于大语言模型的漏洞检测策略",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Analyzing the Impact of Generative AI Assistants Use in Undergraduate Programming Courses",
+    "authors": "Jana Amer, Nada Ibrahim, Mervat Abu-Elkheir",
+    "publish": "2026 IEEE Global Engineering Education Conference (EDUCON)",
+    "url": "https://doi.org/10.1109/educon67543.2026.11574431",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "生成式AI助手在本科编程课程中的使用影响深远且具有双面性。正面影响包括：提高学习效率，快速提供代码示例和调试建议；降低入门门槛，帮助初学者克服语法障碍；促进高阶思维，让学生更专注于算法设计和问题解决。负面影响则包括：过度依赖可能导致学生缺乏基本编程能力；容易产生抄袭和学术不端问题；削弱调试和错误处理技能的培养；以及因AI生成代码的不透明性而影响对底层原理的理解。因此，教育者需制定合理的使用策略，如限制AI在核心练习中的使用、强调批判性评估AI输出、以及将AI作为辅助工具而非替代品。",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "MPulse: A Programmable and Autonomic Fault Detection System via Hierarchical Liveness Exchange",
+    "authors": "Di Wang, Haifeng Zhou, Zhengyan Zhou, Jiayu Luo, Xinyue Jiang, Xun Zhou, Yufei Ye",
+    "publish": "IEEE INFOCOM 2026 - IEEE Conference on Computer Communications",
+    "url": "https://doi.org/10.1109/infocom59046.2026.11571720",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "MPulse：一种通过层次化活跃性交换实现的可编程自主故障检测系统",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "JUNID: Empowering Static Analysis with Asymptotically Optimal Intersection with Incomplete Sentences",
+    "authors": "Eric Alata, Pierre-François Gimenez",
+    "publish": "2026 IEEE Symposium on Security and Privacy Workshops (SPW)",
+    "url": "https://doi.org/10.1109/spw72489.2026.00006",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "JUNID: 使用不完整句子的渐近最优交集赋能静态分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Zer0n-Bench: A Provenance-Aware Vulnerability Dataset for Studying Label Reliability",
+    "authors": "Harshil Parmar, Pushti Vyas, Prayers Khristi, Priyank Panchal",
+    "publish": "2026 IEEE Symposium on Security and Privacy Workshops (SPW)",
+    "url": "https://doi.org/10.1109/spw72489.2026.00048",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Zer0n-Bench：一个用于研究标签可靠性的来源感知漏洞数据集",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Modified Nodal Analysis-Based Simulation of Current and Voltage Measurement Circuits",
+    "authors": "Kadir Mert Devekaya, Ali Bekir Yıldız",
+    "publish": "2026 IEEE 16th Symposium on Computer Applications &amp;amp; Industrial Electronics (ISCAIE)",
+    "url": "https://doi.org/10.1109/iscaie68866.2026.11576314",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于改进节点法的电流与电压测量电路仿真",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Enhancing a Digital IC Design Course Through HDL-Design Specific Self-Assessment Techniques",
+    "authors": "Viktor Weinelt, Dominic Korner, Klaus Hofmann",
+    "publish": "2026 IEEE Global Engineering Education Conference (EDUCON)",
+    "url": "https://doi.org/10.1109/educon67543.2026.11574471",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过针对HDL设计的自我评估技术增强数字集成电路设计课程",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Using Generative AI in Software Design Education",
+    "authors": "Victoria Jackson, Susannah Liu, Andre van der Hoek",
+    "publish": "Proceedings of the 3rd International Workshop on Designing Software",
+    "url": "https://doi.org/10.1145/3786152.3788589",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "生成式人工智能在软件设计教育中的应用",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Token Mismanagement Risks in Multi-Agent Systems: Security Implications for A2A-based Industrial AI Collaboration",
+    "authors": "So-Hyun Park, Seo-Yi Kim, Yeon-Ju Han, Chae-Yeon Park, Chae-Won Song, Il-Gu Lee",
+    "publish": "IEEE INFOCOM 2026 - IEEE Conference on Computer Communications",
+    "url": "https://doi.org/10.1109/infocom59046.2026.11571677",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "多智能体系统中的令牌管理风险：基于A2A的工业AI协作的安全影响",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Work-in-Progress: LOGIA—A Proposal for a Learning Framework Supported by Generative AI for Logical Reasoning in Programming",
+    "authors": "Rodrigo Guevara, Mónica Villavicencio, David Benavides",
+    "publish": "2026 IEEE Global Engineering Education Conference (EDUCON)",
+    "url": "https://doi.org/10.1109/educon67543.2026.11574488",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "进行中的工作：LOGIA——一个由生成式人工智能支持的编程逻辑推理学习框架提案",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Improving LLM-assisted code generation through the use of architectural documents and implementation plans.",
+    "authors": "Humberto Cervantes, Rick Kazman, Yuanfang Cai",
+    "publish": "Proceedings of the 3rd International Workshop on Designing Software",
+    "url": "https://doi.org/10.1145/3786152.3788588",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过使用架构文档和实施计划来改进LLM辅助的代码生成。",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Dual-layer Graph Retrieval-Augmented Large Language Models for Terraform Code Generation",
+    "authors": "Dengyong Yu",
+    "publish": "2026 6th International Symposium on Computer Technology and Information Science (ISCTIS)",
+    "url": "https://doi.org/10.1109/isctis70043.2026.11572212",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "双层图检索增强大型语言模型用于Terraform代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "AI-Code Feedback, an AI-Based companion for Enhancing Introductory Programming Education",
+    "authors": "Emre Çoban, Raquel Hijón-Neira",
+    "publish": "2026 IEEE Global Engineering Education Conference (EDUCON)",
+    "url": "https://doi.org/10.1109/educon67543.2026.11574260",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AI-Code反馈：一款基于AI的伙伴，用于提升编程入门教育",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Empirical Measurement of Deployability Limits in Source-Dependent Static Smart-Contract Screening",
+    "authors": "Tianze Han",
+    "publish": "2026 6th International Symposium on Computer Technology and Information Science (ISCTIS)",
+    "url": "https://doi.org/10.1109/isctis70043.2026.11572277",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于源的静态智能合约筛查中可部署性限制的实证测量",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Evaluating LLMs Reliability for Coding Adversarial Machine Learning Research Papers",
+    "authors": "Madhav Khanal, Jasser Jasser, Mina Basirat",
+    "publish": "2026 IEEE Symposium on Security and Privacy Workshops (SPW)",
+    "url": "https://doi.org/10.1109/spw72489.2026.00035",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "评估LLMs在编写对抗性机器学习研究论文时的可靠性",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "TRACESEC: Trace-Aware Neuro-Symbolic Vulnerability Reasoning for Software Supply-Chain Security",
+    "authors": "Prateek Jalan, Nayan Goel, Nurmyrat Amanmadov, Oyegoke Oyebode",
+    "publish": "2026 International Conference on Modern Computing, Networking and Applications (MCNA)",
+    "url": "https://doi.org/10.1109/mcna69896.2026.11574373",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "TRACESEC: 面向软件供应链安全的迹感知神经符号漏洞推理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "An Approach to Predictive Software Threat Modeling Using Public Vulnerability Data",
+    "authors": "Onyeka Ezenwoye, Gokila Dorai",
+    "publish": "2026 IEEE Symposium on Security and Privacy Workshops (SPW)",
+    "url": "https://doi.org/10.1109/spw72489.2026.00045",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种使用公开漏洞数据的预测性软件威胁建模方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "An Efficient Clustered Register Allocation Algorithm for VLIW DSP Processors",
+    "authors": "Xiang Cui, Sheng Xu, Rui Jia, Longdi Li, Ze Hong, Haotian Han",
+    "publish": "2026 6th International Symposium on Computer Technology and Information Science (ISCTIS)",
+    "url": "https://doi.org/10.1109/isctis70043.2026.11572180",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种面向VLIW DSP处理器的高效聚类寄存器分配算法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "Integrating Generative AI into Programming Education: The VibeCoding Model",
+    "authors": "Dina Belay, Tahmina Rafat, Abigail Copiaco",
+    "publish": "2026 IEEE Global Engineering Education Conference (EDUCON)",
+    "url": "https://doi.org/10.1109/educon67543.2026.11574085",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "将生成式人工智能融入编程教育：VibeCoding模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-6-29",
+    "title": "LLM-Driven End-to-End Compliance Strategy: From Natural Language Specifications to Executable Rules",
+    "authors": "Chenxu Liu, Zhiyu Wang, Dunwei Fu, Hong Lei",
+    "publish": "2026 6th International Symposium on Computer Technology and Information Science (ISCTIS)",
+    "url": "https://doi.org/10.1109/isctis70043.2026.11572659",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "大语言模型驱动的端到端合规策略：从自然语言规范到可执行规则",
+    "abstract_zh": "None"
+  }
+]
