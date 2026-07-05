@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2026-7-3",
+    "title": "Microwave Monolithic Digital Step Attenuator Sections Layout Synthesis Based on Evolutionary Algorithms",
+    "authors": "Andrei Salnikov, Dmitry Bilevich, Vladislav Stepanov",
+    "publish": "2026 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)",
+    "url": "https://doi.org/10.1109/usbereit70063.2026.11580457",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于进化算法的微波单片数字步进衰减器单元布局综合",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Proceedings of the 14th International Workshop on Genetic Improvement",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786162",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "第14届国际遗传改进研讨会论文集",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Applying Genetic Improvement Techniques for Automated Program Repair of Transpiled Code",
+    "authors": "Prasham Jadhwani, Carol Hanna, William B. Langdon, Justyna Petke",
+    "publish": "Proceedings of the 14th International Workshop on Genetic Improvement",
+    "url": "https://doi.org/10.1145/3786162.3793234",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "对转译代码应用遗传改进技术进行自动程序修复",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "The Gas Burn Identity: Early Detection of Gas-Intensive Functions and Patterns in Smart Contracts",
+    "authors": "Ermanno Francesco Sannini, Andrea Di Sorbo, Corrado Visaggio, Gerardo Canfora",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788569",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "Gas消耗识别：智能合约中高Gas消耗函数与模式的早期检测",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Not All Synthetic Vulnerabilities Are What You Need for Training Deep Vulnerability Detectors",
+    "authors": "Heng Yong, Zhong Li, Minxue Pan, Tian Zhang, Jianhua Zhao, Xuandong Li",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3709977",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "并非所有合成漏洞都适合用于训练深度漏洞检测器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Building Better Research Software (Are you sure?): Why Technical Refactoring Does Not Lead To Software Quality",
+    "authors": "Adam Byrne, Daniel Kennedy, Mark Langtry, Art Oliathain, Dominick Stephens, Birgit Penzenstadler, Colin C. Venter",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788364",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "构建更好的研究软件（你确定吗？）：为什么技术重构不会带来软件质量",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Hardware Network Traffic Filter Verification Method",
+    "authors": "Egor Kuznetsov, Valery Slizkoy, Danila Lisovsky",
+    "publish": "2026 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)",
+    "url": "https://doi.org/10.1109/usbereit70063.2026.11580764",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "硬件网络流量过滤器验证方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Multimodal Transformer-Based Malware Classification Using Binary Visualization and Opcode Sequences",
+    "authors": "Mohammad. Alshoulie, Abid Mehmood",
+    "publish": "2026 International Wireless Communications and Mobile Computing (IWCMC)",
+    "url": "https://doi.org/10.1109/iwcmc69287.2026.11579816",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于Transformer的多模态恶意软件分类，利用二进制可视化和操作码序列",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Analysis of Low-Frequency Noise Mechanisms in MOSFETs Using TCAD Modeling",
+    "authors": "Danil S. Krasnokutskiy, Nikolay A. Shelepin",
+    "publish": "2026 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)",
+    "url": "https://doi.org/10.1109/usbereit70063.2026.11580647",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于TCAD建模的MOSFET低频噪声机理分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Precision or Peril: A PoC of Python Code Quality from Quantized Large Language Models",
+    "authors": "Eric Louis Melin, Adam Torek, Nasir Eisty, Casey Kennington",
+    "publish": "Proceedings of the 1st International Workshop on AI for Software Quality Evaluation - Judgment, Metrics, Benchmarks, and Beyond",
+    "url": "https://doi.org/10.1145/3786175.3788343",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "精确还是危险：量化大型语言模型中Python代码质量的概念验证",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Go With the Flow: Improving the Precision of Static Data Flow Analysis with Context-Sensitive Sinks",
+    "authors": "Marc Miltenberger, Steven Arzt, Tim Lange",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3828165",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "顺流而行：利用上下文敏感汇点提高静态数据流分析的精度",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "FP-Predictor – False Positive Prediction for Static Analysis Reports",
+    "authors": "Tom Ohlmer, Michael Schlichtig, Eric Bodden",
+    "publish": "Proceedings of the IEEE/ACM 2nd International Workshop on Advancing Static Analysis for Researchers and Industry Practitioners in Software Engineering",
+    "url": "https://doi.org/10.1145/3786173.3788355",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "FP-Predictor – 针对静态分析报告的假阳性预测器",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "SVAN: Static Analysis System for SystemVerilog Hardware Descriptions",
+    "authors": "Yan Churkin, Ruben Buchatskiy, Arman Yeghiazaryan, Andrey Vyazovtsev, Alexander Kamkin, Artem Kotsynyak",
+    "publish": "2026 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)",
+    "url": "https://doi.org/10.1109/usbereit70063.2026.11580446",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SVAN：针对SystemVerilog硬件描述的静态分析系统",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Reliable SOC LLM Agent with Workflow Generation",
+    "authors": "Shohei Mitani, Siddharth Yadav, Shinichiro Matsuo, Eric Burger",
+    "publish": "Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+    "url": "https://doi.org/10.1145/3786156.3788577",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "可靠的SOC大语言模型代理（具备工作流生成功能）",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Optimization of Single Photon Avalanche Diode Design using Surrogate-Reinforcement Learning",
+    "authors": "Kazi Mohammad Mamun, Nezih Pala, Mst Shamim Ara Shawkat",
+    "publish": "IEEE Photonics Journal",
+    "url": "https://doi.org/10.1109/jphot.2026.3710044",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于代理强化学习的单光子雪崩二极管设计优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "Augmenting SPICE Behavioral Models for Simulating Emerging Concepts The Force Extraction IGBT",
+    "authors": "Victor-Eduard Albei, Alexandru-Gabriel Enache",
+    "publish": "2026 Advanced Topics on Measurement and Simulation (ATOMS)",
+    "url": "https://doi.org/10.1109/atoms69836.2026.11583561",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "增强用于模拟新兴概念的SPICE行为模型——力提取IGBT",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-3",
+    "title": "ISFET model development in Sentaurus Device",
+    "authors": "Anton Krasyukov",
+    "publish": "2026 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)",
+    "url": "https://doi.org/10.1109/usbereit70063.2026.11580549",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Sentaurus Device中的ISFET模型开发",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "BreachT5: Ensembling CodeT5+ Models for Multi-Label Vulnerability Detection in Smart Contracts",
+    "authors": "Gregorio Dalia, Tat Luat Nguyen, Andrea Di Sorbo, Corrado Visaggio, Annibale Panichella",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788570",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "BreachT5: 集成CodeT5+模型实现智能合约多标签漏洞检测",
+    "abstract_zh": "无"
+  }
+]
