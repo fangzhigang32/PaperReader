@@ -1,0 +1,1604 @@
+[
+  {
+    "date": "2026-7-4",
+    "title": "Opportunities and Challenges for Data Quality in the Era of Quantum Computing",
+    "authors": "Sven Groppe, Valter Uotila, Jinghua Groppe",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811834",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Characterizing the Set of Information Systems of a Brazilian State Court as a System-of-Systems",
+    "authors": "Edison Andrade Martins Morais, Rodrigo Pereira dos Santos, Eliomar Araújo de Lima, Valdemar Vicente Graciano Neto",
+    "publish": "Proceedings of the 14th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems",
+    "url": "https://doi.org/10.1145/3786163.3788450",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "ObsAct: a Programming Model for Opportunistic IoT Applications using the Mobile-Hub",
+    "authors": "Felipe Oliveira Carvalho, Vitor Pinheiro de Almeida, Markus Endler, Francisco José da Silva e Silva",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788482",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "JunoBench: A Benchmark Dataset of Crashes in Python Machine Learning Jupyter Notebooks",
+    "authors": "Yiran Wang, José Antonio Hernández López, Ulf Nilsson, Dániel Varró",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814934",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Digital Twins for Science and Industry",
+    "authors": "Barton Fiske, Tomasz Bednarz, Elizabeth Baron, Andrea Townsend-Nicholson, Dan Isaacs, Jeff Adie",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3816012",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Graphics In Medicine: From the Dev Floor to the Operating Room 2",
+    "authors": "Enoch Omale, Anthony Le, Jacob Alford, Sina Soltanzadeh Zarandi, Brian Lien, Kotaro Tsutsumi, Kevin Seals, James Hu",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3816017",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Creating Wireless Sensor Network Target Tracking Strategy and Data Fusion Based on Blockchain Technology Integration",
+    "authors": "Sung-Jung Hsiao, Wen-Tsai Sung",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796146",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "An IoT-Based Smart Bedside Information System with Hybrid Encryption for Healthcare Applications",
+    "authors": "Hung-Ming Chen, Shu-Ping Lu, Yung-Feng Lu",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796148",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Blockchain Reputation Oracles: An MCP-Based Study",
+    "authors": "Antonio Pierro, Andy Amoordon",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788568",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "The Previs Battleground: Precision Planning vs Creative Freedom",
+    "authors": "Megha Davalath, Todd Jansen, Adam Holmes, Karl Herbst, Jon Teer, Dave Clayton, Kyle Winkelman",
+    "publish": "Proceedings of the 2025 Special Interest Group on Computer Graphics and Interactive Techniques Conference Panels",
+    "url": "https://doi.org/10.1145/3799819.3812475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Deterministic vs. LLM-Controlled Orchestration for COBOL-to-Python Modernization",
+    "authors": "Naing Oo Lwin, Rajesh Kumar",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814891",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Towards an Intelligent Platform for Supporting Quality Assessment in Blockchain Systems",
+    "authors": "Raphael Saraiva, Allysson Allex Araújo, Ronnie de Souza Santos, Pamella Soares, Jerffeson Souza",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788566",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Proof of Success and Reward Distribution Protocol for Multi-bridge Architecture in Cross-chain Communication",
+    "authors": "Damilare Peter Oyinloye, Mohd Sameen Chishti, Jingyue Li",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788567",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "The Gas Burn Identity: Early Detection of Gas-Intensive Functions and Patterns in Smart Contracts",
+    "authors": "Ermanno Francesco Sannini, Andrea Di Sorbo, Corrado Visaggio, Gerardo Canfora",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788569",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786157",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Aided Design Approach for Creating Sticker LINE Cartoon Characters by Stable Diffusion Model",
+    "authors": "Krisna Pintong, Thitirat Siriborvornratanakul",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796155",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "BLISS: A Visual Modeling Notation for Engineering Energy-Harvesting IoT Systems",
+    "authors": "João Pedro Coutinho, Adriano Francisco Branco, Markus Endler",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788485",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the 2025 Special Interest Group on Computer Graphics and Interactive Techniques Conference Panels",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3799819",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture the Flag Challenges",
+    "authors": "Ali Al-Kaswan, Maksim Plotnikov, Maxim Hájek, Roland Vízner, Arie van Deursen, Maliheh Izadi",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814926",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Executable but Unlearnable: Designing Code That Resists LLM-Based Learning",
+    "authors": "Viraaji Mothukuri, Reza M. Parizi",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814896",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Software Engineering for Renewable Energy Research",
+    "authors": "Yvonne Dittrich, Kaushik Das, Rujie Zhu",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788365",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Evolving Competencies in Blockchain Engineering: A Longitudinal Replication Study",
+    "authors": "Mohamad Kassab, Rabeya Zahan Mily, Valdemar Graciano Neto",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788563",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786156",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Wearable Shader-ball (Invited Talk)",
+    "authors": "Takahito Tejima, André Mazzone",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820034",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Advancing Virtual Production: Technical Innovations and Collaborative Pipelines for Film, TV &amp; Live Events",
+    "authors": "Callum Macmillan, Markus Hoell",
+    "publish": "Proceedings of the 2025 Special Interest Group on Computer Graphics and Interactive Techniques Conference Panels",
+    "url": "https://doi.org/10.1145/3799819.3812477",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Application of Technology Readiness Level to Research Software",
+    "authors": "Tobias Schlauch, Carina Haupt",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788367",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "AgenticFlict: A Large-Scale Dataset of Merge Conflicts in AI Coding Agent Pull Requests on GitHub",
+    "authors": "Daniel Ogenrwot, John Businge",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814923",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Neural-Symbolic Multi-objective Optimization for Performance-Aware ORM Database Design",
+    "authors": "Sasan Azizian, Ayoub Hazrati, Artin Azizian, Elham Rastegari, Hamid Bagheri, Juan Cui",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814921",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "How Robustly Do LLMs Understand Execution Semantics?",
+    "authors": "Claudio Spiess, Prem Devanbu, Earl T. Barr",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814919",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Automated Ontology Construction: An AI Framework for Research Software Engineering",
+    "authors": "Siamak Farshidi, Kwabena Ebo Bennin, Bedir Tekinerdogan",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788361",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Building Better Research Software (Are you sure?): Why Technical Refactoring Does Not Lead To Software Quality",
+    "authors": "Adam Byrne, Daniel Kennedy, Mark Langtry, Art Oliathain, Dominick Stephens, Birgit Penzenstadler, Colin C. Venter",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788364",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Preliminary Usability Experimentation of a Pattern-Driven Middleware for IoT Data Processing in Research Environments",
+    "authors": "Zongo Meyo, Gabriel C. Ullmann, Oriol Gavalda",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788479",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Enabling Digital Twins in Built Environments with Object-Oriented Models",
+    "authors": "Peter Yefi, Reiner Braun, Philipp Regel, Ramanunni Parakkal Menon, Ursula Eicker",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788478",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Generative AI-Based Defense Against Deepfakes in Intelligent Audio Systems",
+    "authors": "Hung-Jr Shiu",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796142",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "QuSim-Join: Provably Optimal Quadratic Speedup in Set Similarity Joins via Quantum Amplitude Estimation",
+    "authors": "Prateek P Kulkarni, Aakarsh Alam",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811832",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Lightweight Deep Learning for Automated Stroke Detection in Non-Contrast CT Imaging",
+    "authors": "Kantapat Kwansomkid, Kharittha Jangsamsi, Sanan Srakaew",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796158",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Automating the Handoff: From Hardcoded QC Scripts to a Multi-Agent Architecture for Layout- to-Animation Reviews",
+    "authors": "Cole Pearsall, Alaina Hardie, Mo Sakr, Jonasz Bigda",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820032",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Towards a Graphics-Silicon Gymnasium to Shape the Future of Micro-Embodied AI",
+    "authors": "Christopher Torng",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3820873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Accountable Agents in Software Engineering: An Analysis of Terms of Service and a Research Roadmap",
+    "authors": "Christoph Treude",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814889",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Zombie Agents: Detecting Semantic Livelock in Long-Horizon Autonomous Software",
+    "authors": "Simarjot Khanna",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814895",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "VeriTrans: Fine-Tuned LLM-Assisted NL→PL Translation via a Deterministic Neuro-symbolic Pipeline",
+    "authors": "Xuan Liu, Dheeraj Kodakandla, Kushagra Srivastva, Mahfuza Farooque",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814906",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Quantum Index Advisors: Beyond Configuration Selection?",
+    "authors": "Manish Kesarwani, Jayant R. Haritsa",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811838",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "An Adversarial-Attack Approach to Assess Bias in Text-to-Image Models",
+    "authors": "Keya Gangadharan, Nathalia Nascimento, Paulo Alencar, Myron David Peixoto, Audrey Vasconcelos, Davy Baia, Baldoino Fonseca",
+    "publish": "Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+    "url": "https://doi.org/10.1145/3786156.3788575",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Predicting Benefits from Event Logs using Generative AI",
+    "authors": "Poohridate Arpasat, Wichian Premchaiswadi",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796152",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Fixpad++: Automated Bug Fix Verification using LLM Agents",
+    "authors": "Mustafa Özkan İr, Mehmet Dedeler, Anıl Koyuncu, Eray Tüzün",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814915",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Artifact Readiness Gates with Saturation Stop Rules and Host-Parity Admissibility for FM Release Evaluation",
+    "authors": "Yanick Kanyiki",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814901",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Accessing Web3 Onboarding and Trust via Vipps",
+    "authors": "Surya Bahadur Kathayat, Magnus Svendsen, Brage Hagemann Brataas",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788565",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Challenge: What Does Context Mean for Research Software?",
+    "authors": "Jan Bernoth, Michael Goedicke",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788362",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Evaluating ML Methods for Classifying RSE Personas on GitHub",
+    "authors": "Felicity Louise Anderson, Julien Olivier Sindt, Neil Philippe Chue Hong",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788359",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Construction of Precision Agriculture for Tea Plantation Using Green Energy Mechanism",
+    "authors": "Wen-Tsai Sung, Indra Griha Tofik Isa, Sung-Jung Hsiao",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796139",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Study of International Standards for Safe and Responsible AI for the Brazilian National Council of Justice",
+    "authors": "Ramon Campos, Bruno Mortari, Roberto Rodrigues, Patrick Letouzé",
+    "publish": "Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+    "url": "https://doi.org/10.1145/3786156.3788576",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Reliable SOC LLM Agent with Workflow Generation",
+    "authors": "Shohei Mitani, Siddharth Yadav, Shinichiro Matsuo, Eric Burger",
+    "publish": "Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+    "url": "https://doi.org/10.1145/3786156.3788577",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Automating Gold Market: An N8N LINE Chatbot Approach",
+    "authors": "Nathaporn Utakrit, Wichayaphan Traithipthomrongchoke, Pariyakorn Kanlayavinai, Phacharapheuek Anurak, Tharit Panyaruean",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796153",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "SecMutBench: Evaluating LLM-Generated Security Tests via Mutation-Based Vulnerability Detection",
+    "authors": "Mariam ALMutairi, Chang-Tien Lu",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814933",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Reverse Engineering and Control-Aware Security Analysis of the ArduPilot UAV Framework",
+    "authors": "Yasaswini Konapalli, Lotfi ben Othmane, Cihan Tunc, Feras Benchellal, Likhita Mudagere Shivaraj",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788489",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786172",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Previs to Final Pixels: Rethinking feature animation production in real-time",
+    "authors": "Olivier Pinol, Francois Tarlier, Maxime Robinot, Vincent Callede",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820025",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Quantum Hypergraph Partitioning",
+    "authors": "Yiran Li, Y. Batuhan Yilmaz, Michael Silver, Zachary Vernec, Hans-Arno Jacobsen",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811836",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "A Dataset of Agentic AI Coding Tool Configurations",
+    "authors": "Matthias Galster, Seyedmoein Mohsenimofidi, Levi Böhme, Jai Lal Lulla, Muhammad Auwal Abubakar, Christoph Treude, Sebastian Baltes",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814922",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Quantum Machine Learning: Bridging Quantum Computing &amp; Machine Learning",
+    "authors": "Wei Zhang, Tianming Liu, Yingfeng Wang, Xiang Li, James Hendler, Thilanka Munasinghe, Jennifer Wei",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3816014",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Trusted Execution Environments in Systems-of-Systems: A Systematic Mapping Study",
+    "authors": "Talles Netto Barros, Rafael Z. Frantz, Tomás Cerny, Italo Santos, Mohamad Kassab, Valdemar V. Graciano Neto",
+    "publish": "Proceedings of the 14th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems",
+    "url": "https://doi.org/10.1145/3786163.3788452",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Toolbox to Understand the Physics of Quantum Data Management",
+    "authors": "Wolfgang Mauerer, Manuel Schönberger",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811835",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "KPop Chibi Face",
+    "authors": "Armin Bruderlin, Joshua Beveridge, Irene Hernandez",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820030",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Kubernetes Misconfigurations in the Wild: Taxonomy, Evolution, and Automated Repair with Large Language Models",
+    "authors": "Mostafa Anouar Ghorab, Ahmad Abdellatif, Mohamed Aymen Saied",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814908",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "LINE Health Today: An n8n Automation Workflow for Accessible Public Health Communication",
+    "authors": "Nathaporn Utakrit, Sanguansak Sanpen, Techaphat Kamonlawan, Atsawaphat Srikhampha",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796147",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "End-to-End Building Model Generation and Validation with CITYdata and MetamEnTh",
+    "authors": "Sikandar Ejaz, Peter Yefi, Ursula Eicker, Oriol Gavalda",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788487",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "SOSecure: The Wisdom of the Crowd for Safer AI-Generated Code",
+    "authors": "Manisha Mukherjee, Vincent Josua Hellendoorn",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814903",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Towards Holistic IoT Systems Profiling: Integrating Energy Consumption with Performance Metrics using SPECTRA",
+    "authors": "Rushin Dipak Makwana",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788486",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Designing AI-Powered Healthcare Applications with No-Code Tools: A Usability Study Using Design Sprint Methodology",
+    "authors": "Nathaporn Utakrit, Tongpool Heeptaisong, Sarun Konsomboon, Surisak Tivacharoenroj, Ratchatapon Palahan, Sitanan Kansorn",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796150",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Mitigating Diversity Decline in Low-Resource Text Generation: A Rewrite-and-Select Framework with Training-Time Optimization",
+    "authors": "Leyang Lan, Jiyi Li, Fumiyo Fukumoto, Renjie Zhou",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796134",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Anonymous-by-Construction: An LLM-Driven Framework for Privacy-Preserving Text",
+    "authors": "Federico Albanese, Pablo Ronco, Nicolás D'Ippolito",
+    "publish": "Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+    "url": "https://doi.org/10.1145/3786156.3788578",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Retrospective Simulation of LLM-Guided Smart Contract Policies Using Real IoT Energy Data",
+    "authors": "Azmat Ullah, Antonio Pierro",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788564",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "AgentTelemetry: A Fault Detection Benchmark and Toolkit for LLM Agent Observability",
+    "authors": "Krishna Chaitanya Balusu",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814931",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "REBench: A Procedural, Fair-by-Construction Benchmark for LLMs on Stripped-Binary Types and Names",
+    "authors": "Jun Yeon Won, Xin Jin, Shiqing Ma, Zhiqiang Lin",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814935",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Collaborator or Assistant? How AI Coding Agents Partition Work across Pull Request Lifecycles",
+    "authors": "Young Jo Chung, Safwat Hassan",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814893",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Experiments in Gaussian Splatting for VFX Scene Reconstruction",
+    "authors": "Chen Wu, Yin Song, Gg Heitmann, Peter Hillman, Ibrahim Gabr, Kimball Thurston, Josh Passenger, Viral Shah, Kian Ho",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820028",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3799885",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Transforming legacy Research Software into Free Software: Early impressions from Participant Observation",
+    "authors": "Júlia Calixto, Giovanna Uchoa, Alexandre Abdo, Paulo Meirelles",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788373",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Managing Reproducibility Debt in Scientific Software: A Practical Framework",
+    "authors": "Zara Hassan, Christoph Treude, Graham Williams, Michael Norrish, Alex Potanin",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788369",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3811628",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Enhancing Air Pollution Awareness in Bangkok: A Mobile HCI Approach Integrating Real-Time Alerts and Gamification",
+    "authors": "Tongpool Heeptaisong, Nathaporn Utakrit, Vivien Therese Basco Villalobos, Piyapat Pholchan, Pongpisut Somsagun, Sonam Norbu",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796138",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Mobile-ARTiFACT: An Augmented Reality Learning Platform for Cultural Heritage Digitization and Education",
+    "authors": "Mary Yzabel P. Olavides, Hazel A. Trapero",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796157",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Philos: A DSRM Method for improving Interoperability in Systems-of-Information-Systems through API Semantic Analysis",
+    "authors": "Marcos Borges, Lincoln Rocha, Paulo Henrique Maia",
+    "publish": "Proceedings of the 14th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems",
+    "url": "https://doi.org/10.1145/3786163.3788454",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Intelligent integration of data on software ecosystem platforms to support data-intensive applications",
+    "authors": "Pedro Assis, Luiz Fernando Santos, Regina Braga, José Maria David, Victor Stroele, Valdemar Vicente Graciano Neto, Wagner Arbex",
+    "publish": "Proceedings of the 14th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems",
+    "url": "https://doi.org/10.1145/3786163.3788449",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "When Code Meets Things: The FLOSS Side of IoT Systems",
+    "authors": "Igor Muzetti Pereira, Tiago Garcia de Senna Carneiro, Eduardo Figueiredo",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788483",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "BreachT5: Ensembling CodeT5+ Models for Multi-Label Vulnerability Detection in Smart Contracts",
+    "authors": "Gregorio Dalia, Tat Luat Nguyen, Andrea Di Sorbo, Corrado Visaggio, Annibale Panichella",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788570",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "SWE-Bench+: Enhanced LLM Coding Benchmark",
+    "authors": "Haoran Xue, Reem Aleithan, Nafid Enan, Gias Uddin, Song Wang",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814924",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Smart Set Assembly",
+    "authors": "Matt Lathrop, Raymond McCord, Abdullah Nasir, Abby Wysopal",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820031",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "An Agentic LLM Framework for Inventory Replenishment Planning in E-Commerce SMEs",
+    "authors": "Pathitta Timtong, Warut Pannakkong",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796140",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Connecting Probabilistic Databases to Quantum Computing and Tensor Networks via Graphical Models",
+    "authors": "Valter Uotila",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811831",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "From Assistance to Agency: Rethinking Autonomy and Control in CI/CD Pipelines",
+    "authors": "Marcus Emmanuel Barnes, Taher A. Ghaleb, Safwat Hassan",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814897",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "VISOR: A Vision-Language Model-Based Test Oracle for Testing Robots",
+    "authors": "Prasun Saurabh, Pablo Valle, Aitor Arrieta, Shaukat Ali, Paolo Arcaini",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814910",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Co-located Tests, Better AI Code: How Test Syntax Structure Affects Foundation Model Code Generation",
+    "authors": "Éric Jacopin",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814912",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Detecting Unsoundness in Neural Network Verifiers via Concrete–Abstract Consistency",
+    "authors": "Kaijie Liu, Yulei Sui",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814900",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Adding Workflow to a Workbench for Digital Geosystems for a more agile Research Software Engineering approach",
+    "authors": "Alex Lüpges, Bernhard Rumpe, Jan von Harten, Florian Wellman, Marzieh Baes, Mauro Cacace, Denise Degen, Magdalena Scheck-Wenderoth, Jan Niederau, Tobias Rolf, Nora Koltzer",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788357",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "CTRL-G: Controllable Generative Graphics for Games",
+    "authors": "Josef Spjut, Arnav Jhala",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3816015",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the Digital Production Symposium",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3819990",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "From Brief to Scene: Agentic AI for Asset Production at Ubisoft",
+    "authors": "Cyrus Rahgoshay, Nicolas Gaffiero, Patrick Sauvageau, Maxim Parisee, Jaeeun Cho, Alessandro Bernardi",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820033",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "The Energy Consumption Graph: A Model-Based Architecture for IIoT-based Industrial Energy Auditing",
+    "authors": "Liya Elizabeth Koshy, Stanley Yung-Ping Chien, Jie Chen, Da-Chun Wu",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788481",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Using Mutation-Analysis to Examine an LLM's Ability to Summarize Code",
+    "authors": "Lara Khatib, Michael Pu, Bogdan Vasilescu, Meiyappan Nagappan",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814892",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Metamorphic Testing of Research Software with GeoMetaMorph",
+    "authors": "Sebastian Müller",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788372",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Conceptual Model of Systems-of-Systems for Wildfire Response: Insights from a Rapid Review Applied to the Cerrado Biome",
+    "authors": "Ana Clara Araújo Gomes da Silva, Gilmar Teixeira Júnior, Carlos Eduardo de Barros Paes, Eliomar Araújo de Lima, Valdemar Vicente Graciano Neto",
+    "publish": "Proceedings of the 14th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems",
+    "url": "https://doi.org/10.1145/3786163.3788451",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Evolving Research Software: an Experience Report",
+    "authors": "Matias Ignacio Gonzalez, Nicolas Paez",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788370",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "QUALITY ASSURANCE STATION FOR BARCODE VERIFICATION UTILIZING IMAGE PROCESSING TECHNOLOGY",
+    "authors": "Nathakorn Sawangwong, Chanchanok Charoenrak, Warinthorn Kiadtikornthaweeyot Evans, Chirattikan Srisook",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796156",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Optimizing Human-AI Collaboration in Portfolio Management: A Performance and Trust Analysis of Hybrid Advisory Systems",
+    "authors": "Tongpool Heeptaisong, Nathaporn Utakrit, Archavit Junthing, Karma Yoezer, Tammarong Pakittiwet, Soe Htet, Naing Lin Aung",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796141",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Algorithms for Solving the Traveling Salesman Problem Based on Randomly Distributed Data",
+    "authors": "Boris Melnikov, Pavel Oganesyan, Bowen Liu",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796137",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Forensic Blind Spots in Ephemeral Cloud VMs: Evaluating Amazon Inspector and Detective with Memory Forensics",
+    "authors": "Neeti Dhital, Youki Kadobayashi, Yuzo Taenaka",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796144",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Beyond Translation Accuracy: Addressing False Failures in LLM-Based Code Translation",
+    "authors": "Fazle Rabbi, Soumit Kanti Saha, Jinqiu Yang",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814890",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786159",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Multilevel Edge-Disjoint Fiber-Tree Planning and Spectrum Assignment for Filterless Optical Networks",
+    "authors": "Der-Rong Din",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796145",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Leveraging IoT and Blockchain to Reduce Food Waste: A Case Study",
+    "authors": "Azmat Ullah, Lodovica Marchesi, Gianni Fenu",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788571",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Kora: A Physics-Based Fire Pipeline and Toolset",
+    "authors": "Alexey Stomakhin, John Edholm, Murali Ramachari, Aleksandr Isakov, Zahra Forootaninia, Marcus Schoo, Nicholas Illingworth, Joe Letteri",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820026",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation",
+    "authors": "Yeheng Chen, Chaoxiang Xie, Yuling Shi, Wenhao Zeng, Yongpan Wang, Hongyu Zhang, Xiaodong Gu",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814925",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Towards AI as a Collaborative Partner: A Taxonomy of AI Agent Behavior in Software Engineering",
+    "authors": "Tao Dong, Sherry Shi, Harini Sampath, Andrew Macvean",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814913",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Towards Migrating Neural Network Implementations",
+    "authors": "Nadia Daoudi, Iván Alfonso, Jordi Cabot",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814917",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "SSR: A Swapping-Sweeping-and-Rewriting Optimizer for Quantum Circuit Transformation",
+    "authors": "Yunqi Huang, Xiangzhen Zhou, Fanxu Meng, Pengcheng Zhu, Yu Luo, Zhenlong Du",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3828549",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Squid: USD Material Authoring At Scale",
+    "authors": "Eric Vezinet",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820027",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "UNIX V4 and the Utah Teapot",
+    "authors": "Thalia Archibald",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3816010",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Testing AIware Systems: A Software Engineering Survey",
+    "authors": "Karla Gonzalez, Mariam El Mezouar",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814894",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "CrossCommitVuln-Bench: A Dataset of Multi-commit Python Vulnerabilities Invisible to Per-Commit Static Analysis",
+    "authors": "Arunabh Majumdar",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814928",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "RustBuildEq: A Benchmark for Binary Equivalence under Build Variability",
+    "authors": "Elliott Wen, Chenye Ni, Valerio Terragni, Jens Dietrich",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814930",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Examining Transparency Requirements for AI-Based Chatbots and Websites",
+    "authors": "Juha Vesala, Sampsa Rauti, Sammani Rajapaksha, Kalle Hjerppe, Timi Heino",
+    "publish": "Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+    "url": "https://doi.org/10.1145/3786156.3788574",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Leveraging Machine Learning Models to Predict Road Crash Severity Based on Environmental Factors",
+    "authors": "Muhammad Fadhirul Anuar Mohd Azami, Md Yushalify Misro, Rizati Hamidun",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796132",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Quantum Annealing for Multiobjective Query Optimization",
+    "authors": "Immanuel Trummer",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811837",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Hybrid AHP-TOPSIS Approach for Selecting Message Brokers in IoT Applications",
+    "authors": "Mahdi Turki, Ghizlane El Boussaidi, Imen Benzarti, Ikram Darif, Hafedh Mili",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788480",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "The Perpetual Pipeline – 50 Years of Symbiosis in Computer Graphics",
+    "authors": "Barbara Ford Grant, Kim Davidson, Rob Bredow, Paul Debevec, Natalya Tatarchuk, Douglas Roble",
+    "publish": "Proceedings of the 2025 Special Interest Group on Computer Graphics and Interactive Techniques Conference Panels",
+    "url": "https://doi.org/10.1145/3799819.3812476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Configuring Agentic AI Coding Tools: An Exploratory Study",
+    "authors": "Matthias Galster, Seyedmoein Mohsenimofidi, Jai Lal Lulla, Muhammad Auwal Abubakar, Christoph Treude, Sebastian Baltes",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814887",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Is Artificial Intelligence an Elixir to the Software Engineering Community? An Empirical Study among Managers",
+    "authors": "Xin Zhao, Brian Vu, Sitesh Pattanaik",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814907",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "When Code Authors Are Agents: A Large-Scale Study of Human–Agent Collaboration in Pull Requests",
+    "authors": "Anthonia Oluchukwu Njoku, Zohreh Sharafi, Foutse Khomh",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814909",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Open Source Software Ecosystem for Cloud Observability: An Overview and Trends",
+    "authors": "Gabriel Silva Fontes, Vasilios Andrikopoulos, Elisa Yumi Nakagawa",
+    "publish": "Proceedings of the 14th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems",
+    "url": "https://doi.org/10.1145/3786163.3788453",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "From Robotic to IoT Systems: Exploring the Reuse of a Robotic Orchestration DSL in the IoT domain",
+    "authors": "Felipe Xavier, Loek Cleophas, Michel Chaudron",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models",
+    "authors": "Yalin Liu, Kosay Jabre, Rui Abreu, Zachariah J. Carmichael, Vijayaraghavan Murali, Akshay Patel, Jun Ge, Weiyan Sun, Cong Zhang, Audris Mockus, David Khavari, Peter C. Rigby, Nachiappan Nagappan",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814916",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Understanding the Impact of Research Software Engineers on Scientific Software Development: A Mixed-Methods Study",
+    "authors": "Thomas Bock, Will Sutherland, Curtis Atkisson, Anissa Tanweer, James D. Herbsleb, Bogdan Vasilescu",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788360",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3796130",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Operationalizing Ethics for AI Agents: How Developers Encode Values into Repository Context Files",
+    "authors": "Christoph Treude, Sebastian Baltes, Marc Cheong",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814899",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "When AI Coding Assistants Leak Training Data: A Study of LLM Memorization in Code Generation",
+    "authors": "Xiaoyu Cheng, Kundi Yao, Pengyu Nie, Weiyi Shang",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814902",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Bootstrapping IoT Provisioning with PoMA",
+    "authors": "Federico Balaguer, Juan Lucas Gutierrez",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Dronevision, Holodecks, and Spatial Computing Using Flying Light Specks",
+    "authors": "Shahram Ghandeharizadeh",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3816016",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Write Once, Read ALWAYS",
+    "authors": "Mark C. Marino",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3816011",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Auditing Who Appears to Belong: A Large-Scale Empirical Study of Bias in Deployed Text-to-Image Systems for Software Engineering",
+    "authors": "Mohamad Kassab",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814918",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Evaluating the Adoption of AI-Driven No-Code Platforms Using the Technology Acceptance Model (TAM) in Achieving Sustainable Development Goals: The SafeDrive Mobile Application",
+    "authors": "Tongpool Heeptaisong, Nathaporn Utakrit, Tanatuch Terasunthornwat, Althea Mariz Subong Lindugan, Satayu Saengchan, Manam Sut Jat Aung, Nattapong Ngamwiliaipan",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796149",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "CRITICAL INFRASTRUCTURE SECURITY EXPLORATION AND MITIGATION FROM POSSIBLE THREATS: A CASE STUDY OF CONTROL ROOM",
+    "authors": "Nathaporn Utakrit, Tongpool Heeptaisong, Thanapond Buadeang, Trin Chansuwan, Patchara Sumalanurak, Ukrit Sanitjai, Natlicha Boongthong",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796143",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Visual Block Programming Environment for Home Assistant: A Progress Report",
+    "authors": "Mi-Hyeon Seo, Hyeon-Ah Moon, Kwanghoon Choi, Seungchan Park, Byeong-Mo Chang",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788488",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "The Shared Language of Crowds: A Crowd sourced Approach to Mapping Research Software Engineering and Software Engineering Research Terminology",
+    "authors": "Timo Kehrer, Robert Haines, Guido Juckeland, Shurui Zhou, David E. Bernholdt",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788358",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Debian: A sustainable ecosystem for the distribution and use of Research Software",
+    "authors": "Joenio Marques da Costa, Christina von Flach",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788368",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Finding RSEs: Challenges in Recruiting Research Software Engineers for Research",
+    "authors": "Minhyuk Ko, Shawal Khalid, Chris Brown",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788374",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Quantum-Optimized Spatial Permutations: Minimizing Submatrix Rank for Block-Low-Rank Space-Filling Curves",
+    "authors": "Amr Magdy, Yunhan Chang, Sameh Abdulah",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811833",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "TriORM: Workload-Aware Neural-Symbolic Multi-objective Optimization for ORM Mapping Design",
+    "authors": "Sasan Azizian, Ayoub Hazrati, Artin Azizian, Elham Rastegari",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814920",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Wink: Recovering from Misbehaviors in Coding Agents",
+    "authors": "Rahul Nanda, Chandra Maddila, Smriti Jha, Euna Mehnaz Khan, Matteo Paltenghi, Satish Chandra",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814911",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Scalable Hybrid Quantum-Classical Optimization for the Traveling Salesman Problem",
+    "authors": "Ziyue Wang, Zhiwei Ye, Gongsheng Yuan, Mengying Zhu, Jiaye Li, Guanjie Cheng, Ling Qian",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811829",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "From Correctness to Consistency: Redefining Reliability for the Agentware Era",
+    "authors": "Xue Qin, Maurício Gruppi",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814904",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "An Empirical Study of Reasoning Steps in Thinking Code LLMs",
+    "authors": "Haoran Xue, Gias Uddin, Song Wang",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814905",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Foundations for Multi-Logic Modelling and Supervision of Cyber–Physical IoT Agents",
+    "authors": "Burak Karaduman, Moharram Challenger",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788484",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Algorithmic Discrimination in Healthcare: A Scoping Study",
+    "authors": "Iqra Jawaid, Lucas Rodrigues Valença, Ayah Metwali, Joanna Lin, Zahra Abbasi, Roberto Souza, Mariana Bento, Ronnie de Souza Santos",
+    "publish": "Proceedings of the 2026 International Workshop on Responsible AI Engineering",
+    "url": "https://doi.org/10.1145/3786156.3788579",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Real-Time Mobile System for Ground-Based Cloud Classification Using Lightweight Models",
+    "authors": "Yurui Dai, Jieying Shen, Jiying Liu",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3799739",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Quality and Security Signals in AI-Generated Python Refactoring Pull Requests",
+    "authors": "Mohamed Almukhtar, Anwar Ghammam, Hua Ming",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814886",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Authorship, Bias, and Collaboration: Navigating AI Integration in Creative Industries",
+    "authors": "Chutisant Kerdvibulvech",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796151",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "An Explainable Machine Learning Framework for Risk Factor Analysis in Healthcare: A Case Study on Breast Cancer",
+    "authors": "Napat Sukthong",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796135",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Proceedings of the 14th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786163",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Beyond Vendor Lock-In: Hybrid EVM-based Event-Driven Architecture for Cross-Organization Collaboration",
+    "authors": "Samanta Karmaker, Sampad Sikder, Md Ariful Islam",
+    "publish": "Proceedings of the 8th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "url": "https://doi.org/10.1145/3786157.3788572",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "SecVulEval: Context-Aware Benchmarking of LLMs for Vulnerability Detection",
+    "authors": "Md Basim Uddin Ahmed, Nima Shiri Harzevili, Jiho Shin, Hung Viet Pham, Song Wang",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814932",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Rule-based approach for finding the maximum set of shortest vertex-independent paths",
+    "authors": "Boris Melnikov, Yulia Terentyeva",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796136",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Can LLMs Really Reason about Code? Studying How Well LLMs Understand the Relation between Input, Code, and Output",
+    "authors": "Norman Becker, Tural Mammadov, Andreas Zeller",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814888",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "TOGBench: A Developer-Written Multi-variant Dataset and Benchmark Suite for Test Oracle Generation",
+    "authors": "Tasfia Tasnim, Matthew B. Dwyer, Soneya Binta Hossain",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814927",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Testing Research Software using International Standards and Practices",
+    "authors": "Satoshi Masuda, Jon Hagar, Tomohiro Takeda, Toshiharu Kato",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788371",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Towards moving target defense for IoT malware detection",
+    "authors": "Ita Ryan, Luke Kurlandski, Nate Mathews",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788477",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Enhancing Understandability and Transparency of Research Software: Tracing Research to Code",
+    "authors": "Adrian Bajraktari, Andreas Vogelsang",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788363",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "From Front-End to Final Frames: Building a 2D/3D Hybrid Back-End Pipeline for Feature Animation at Scale",
+    "authors": "Vijoy Gaddipati, Karyn Buczek Monschein, Andrew Titcomb",
+    "publish": "Proceedings of the Digital Production Symposium",
+    "url": "https://doi.org/10.1145/3819990.3820029",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "WiRCA: Categorizing Research Software Code Based on its Purpose",
+    "authors": "Constantin Buschhaus, Alexander Hellwig, Bernhard Rumpe",
+    "publish": "Proceedings of the 2026 1st International Workshop on Software Engineering and Research Software",
+    "url": "https://doi.org/10.1145/3786172.3788366",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Form and Function: A Hands-On Workshop on Computationally Designing and Fabricating Barrier-Grid Animations",
+    "authors": "Ticha Sethapakdi, Maxine Perroni-Scharf",
+    "publish": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Frontiers",
+    "url": "https://doi.org/10.1145/3799885.3816013",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Framework Design and Application of AI Agent Ecosystems for SMEs",
+    "authors": "Anirut Suebsing",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796154",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3805760",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "From Code Review to Spec-Driven Contracts: A Vision for Auditable AIWare Systems",
+    "authors": "Mohammad Hamdaqa, Moataz Chouchen",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814898",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Cross-Organizational Data Governance for Industrial Digital Twins Using Blockchain and IPFS",
+    "authors": "Jules Martial Yin-belta Mbara, Fehmi Jaafar, Pierre-Martin Tardif",
+    "publish": "Proceedings of the 8th International Workshop on Software Engineering Research and Practices for the IoT",
+    "url": "https://doi.org/10.1145/3786159.3788474",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "A Hybrid Forecasting Approach using Holt-Winters Forecasting Technique and Monte Carlo Simulation with a Neural Network for High-Variance Data",
+    "authors": "Maneerat Mueanpet, Wuttinan Nunkaew",
+    "publish": "Proceedings of the 2026 8th Asia Pacific Information Technology Conference",
+    "url": "https://doi.org/10.1145/3796130.3796133",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-4",
+    "title": "Leveraging Quantum Annealing for Materialized View Selection",
+    "authors": "Immanuel Trummer",
+    "publish": "Proceedings of the 3rd workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications",
+    "url": "https://doi.org/10.1145/3811628.3811830",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "Understanding Conversational Patterns in Multi-agent Programming: A Case Study on Fibonacci Game Development",
+    "authors": "Srijita Basu, Viktor Kjellberg, Simin Sun, Bengt Haraldsson, Md. Abu Ahammed Babu, Wilhelm Meding, Farnaz Fotrousi, Miroslaw Staron",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814914",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-5",
+    "title": "HEJ-Robust: A Robustness Benchmark for LLM-Based Automated Program Repair",
+    "authors": "Fazle Rabbi, Jinqiu Yang",
+    "publish": "Proceedings of the 3rd ACM International Conference on AI-Powered Software",
+    "url": "https://doi.org/10.1145/3805760.3814929",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
