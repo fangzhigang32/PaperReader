@@ -1,0 +1,352 @@
+[2026-07-12 22:49:06] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-07-11
+正在获取论文...
+[ACM] 2026-7-11 | SIVF: GPU-Resident IVF Index for Streaming Vector Analytics
+[ACM] 2026-7-11 | POLAR-PIC: A Holistic Framework for Matrixized PIC with Co-Designed Compute, Layout, and Communication
+[ACM] 2026-7-11 | What’s in a Benchmark? The Case of SWE-Bench in Automated Program Repair
+[ACM] 2026-7-11 | Group versus Individual Review Requests: Tradeoffs in Speed and Quality at Mozilla Firefox
+[ACM] 2026-7-11 | GICC: A High-Performance Runtime for GPU-Initiated Communication and Coordination in Modern HPC Systems
+[ACM] 2026-7-11 | Omnia: Efficient RAG Serving through Speculative Scheduling
+[ACM] 2026-7-11 | Scalable Quantum Circuit Simulation via Circuit Cutting and FPGA Acceleration
+[ACM] 2026-7-11 | CARBS: Compiler Autotuning via Randomized Biased Search
+[ACM] 2026-7-11 | Modernizing VPIC-Kokkos I/O: From Legacy Binary Output to Adaptive HDF5 Workflows
+[ACM] 2026-7-11 | Lustre Query: Periodic Offline Metadata Monitoring from MDT Backups
+[ACM] 2026-7-11 | ATLAS: Efficient Out-of-Core Inference for Billion-Scale Graph Neural Networks
+[ACM] 2026-7-11 | SAGA: State-Aware Graph Analytics for Combinatorial Optimization on Dynamic Graphs
+[ACM] 2026-7-11 | DPIO: A Unified I/O Architecture for Heterogeneous CPU and DPU NVMeoF
+[ACM] 2026-7-11 | Vision Language Model-based Testing of Industrial Autonomous Mobile Robots
+[ACM] 2026-7-11 | CASCADE: LLM-powered JavaScript Deobfuscator at Google
+[ACM] 2026-7-11 | OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies
+[ACM] 2026-7-11 | RovoDev Code Reviewer: A Large-Scale Online Evaluation of LLM-based Code Review Automation at Atlassian
+[ACM] 2026-7-11 | Empirical Evaluation of PDF Parsing and Chunking for Financial Question Answering with RAG
+[ACM] 2026-7-11 | Inkly: A Data-Informed and Context-Aware System for HPC Job Execution
+[ACM] 2026-7-11 | GLANCED-IO: Taming I/O Optimization for Deep Learning at Scale
+[ACM] 2026-7-11 | Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices
+[ACM] 2026-7-11 | AI Where It Matters: Where, Why, and How Developers Want AI Support in Daily Work
+[ACM] 2026-7-11 | SYCL++: A Unified Programming Framework for Heterogeneous Supercomputers at Scale
+[ACM] 2026-7-11 | Full-Core Fluid-Structure-Interaction Simulation of Nuclear Reactor on CPU+GPU Hybrid Clusters
+[ACM] 2026-7-11 | Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing
+[ACM] 2026-7-11 | Enabling High-Utilization and Low-Contention FaaS: A Request-Level Resource Provisioning Approach
+[ACM] 2026-7-11 | Accelerating Block Low-Rank Foundation Model Inference on Memory-Constrained GPUs
+[ACM] 2026-7-11 | Utilizing LLMs for Industrial Process Automation: A Case Study on Modifying RAPID Programs
+[ACM] 2026-7-11 | ViTAL: LLM-Powered Taint Analysis for GUI Field Visualization Auditing in Android
+[ACM] 2026-7-11 | Cremes: Cost-Efficient and Reliable Microservice Execution on Spot Instances
+[ACM] 2026-7-11 | Performance Evaluation of Approximate Nearest Neighbor Search on NVIDIA BlueField-3 DPU
+[ACM] 2026-7-11 | Endeavor: Efficient PairHMM for Detection of DNA Variants in Genome-Scale Datasets
+[ACM] 2026-7-11 | Deterministic and Efficient Low Rank Approximation on GPUs
+[ACM] 2026-7-11 | TypeJinja: Static Type Checking of Jinja Templates at dbt Labs
+[ACM] 2026-7-11 | Enabling Black-box RPC-API Testing with Multi-Agent Reinforcement Learning and LLMs: An Industry Case Study
+[ACM] 2026-7-11 | TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback
+[ACM] 2026-7-11 | SRAP: Sender-side Receiver-Aware Port Selection for Deterministic Flow-to-Core Mapping in Hash-Based Flow Steering
+[ACM] 2026-7-11 | Automated Bug Frame Retrieval from Gameplay Videos Using Multimodal Large Language Models
+[ACM] 2026-7-11 | Technical Credit: Industry Views on Benefits and Barriers
+[ACM] 2026-7-11 | From Rules to LLM-Enhanced Templates: A Hybrid ALPG Code Generation System
+[ACM] 2026-7-11 | CAST: Automated Resilience Testing for Production Cloud Service Systems
+[ACM] 2026-7-11 | Delta Debugging for LLM-integrated Systems
+[ACM] 2026-7-11 | An Ontology-Based Approach to Security Risk Identification for Container Deployments in OT Contexts
+[ACM] 2026-7-11 | Thermal-Aware Scheduling for DNN Inference on 3D Logic-to-DRAM Process-Near-Memory Architecture
+[ACM] 2026-7-11 | Distributed Scheduling for Modular Quantum Computing in Cloud
+[ACM] 2026-7-11 | Scheduling Optimization of Distributed LLM Inference
+[ACM] 2026-7-11 | When RDMA Goes Long-Haul: Characterization, Modeling, and Verbs-Level Emulation with Implications for Federated Learning
+[ACM] 2026-7-11 | CXLMemSim: Practical Performance Simulation and Characterization of CXL 3.0 Memory Systems
+[ACM] 2026-7-11 | NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding
+[ACM] 2026-7-11 | Deploying SafeKAN for Anomaly Detection in Safety-Critical Satellite Operations: An Industry-Guided Study
+[ACM] 2026-7-11 | Principles and Practices of Large-Scale Code Analysis at Ant Group: A Data- and Logic-Oriented Approach
+[ACM] 2026-7-11 | Green Software Engineering in Practice: Quantifying the Impact of Carbon Reduction Strategies in Enterprise Software
+[ACM] 2026-7-11 | What's DAT? Three Case Studies of Measuring Software Development Productivity at Meta With Diff Authoring Time
+[ACM] 2026-7-11 | PKAS: Predictive KVCache-Aware Scheduling for Faster LLM and Transformer Inferences
+[ACM] 2026-7-11 | Toward Low-Latency and Memory-Efficient Deployment of Irregular Sparse Deep Learning Workloads
+[ACM] 2026-7-11 | ResiHP: Taming LLM Training Failures with Dynamic Hybrid Parallelism
+[ACM] 2026-7-11 | Evaluating QAOA and Quantum Annealing for Minimum Vertex Cover on NISQ Devices
+[ACM] 2026-7-11 | Performance Analysis of Conveyors: Memory Dominates?
+[ACM] 2026-7-11 | MagmaScope: Identifying Root-Cause Changes for Emergency Incident in Large-Scale Cloud Infrastructure
+[ACM] 2026-7-11 | Finding the Needle in the Crash Stack: Industrial-Scale Crash Root Cause Localization with AutoCrashFL
+[ACM] 2026-7-11 | Beyond the Commit: Developer Perspectives on Productivity with AI Coding Assistants
+[ACM] 2026-7-11 | Find My Code Twin: Improving SNIPPET SEARCH Performance Using LLMs in Practice
+[ACM] 2026-7-11 | Stabilizing Grover Search via Density-Aware Phase Control
+[ACM] 2026-7-11 | Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies
+[ACM] 2026-7-11 | PowerQuant: Architecture-Agnostic GPU Power Estimation via Quantile Regression
+[ACM] 2026-7-11 | A New Era for the Open Science Data Federation: The Pelican Platform
+[ACM] 2026-7-11 | I/O Optimisation at the Compiler Level: IOOpt
+[ACM] 2026-7-11 | FAME: A Framework for Accelerating Independent Multi-Agent Reinforcement Learning on Heterogeneous Platforms
+[ACM] 2026-7-11 | Hardware-based Kernel-Bypass Exceptions to Accelerate Floating Point Tracing and Virtualization
+[ACM] 2026-7-11 | HapCheck: DSL-Based Static Bug Detection Framework for OpenHarmony
+[ACM] 2026-7-11 | Enterprise-Scale COBOL-to-Java Translation: LLMs Augmented with Program Analysis
+[ACM] 2026-7-11 | A Lock-Free Work-Stealing Algorithm for Bulk Operations
+[ACM] 2026-7-11 | Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry
+[ACM] 2026-7-11 | Learning from Change: Predictive Models for Incident Prevention in a Regulated IT Environment
+[ACM] 2026-7-11 | PerfScout: An Adaptive Workload Generator in Software Performance Testing
+[ACM] 2026-7-11 | When LLMs Listen to Experts: Accurate Failure Diagnosis in Operating Systems
+[ACM] 2026-7-11 | Motivating Regime-Aware User-Profiles for Runtime Prediction in Large-Scale HPC Systems
+[ACM] 2026-7-11 | TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition
+[ACM] 2026-7-11 | Metis: Agentic Knowledge Synthesis for Explainable I/O Performance in HPC Systems
+[ACM] 2026-7-11 | HAT-MPI: Hierarchical Auto Tuning of MPI Inter-Node Communication on InfiniBand Clusters
+[ACM] 2026-7-11 | A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States
+[ACM] 2026-7-11 | Hamster: A Large-Scale Study and Characterization of Developer-Written Tests
+[ACM] 2026-7-11 | Structural Parallelism in Quantum Programs
+[ACM] 2026-7-11 | Towards Transparent Checkpointing with AI-driven Code Generation
+[ACM] 2026-7-11 | Resource-Aware Online Tuning for Heterogeneous Federated Learning
+[ACM] 2026-7-11 | Flux Fiction: Hopping Toward Storage Graph Scheduling With El Capitan’s Rabbits
+[ACM] 2026-7-11 | XTrace: A Non-Invasive Dynamic Tracing Framework for Android Applications in Production
+[ACM] 2026-7-11 | Robust I/O Characterization of Machine Learning Workloads Across Performance Analysis Tools
+[ACM] 2026-7-11 | Decay Driven Multi Objective Optimization for HPC nodes
+[ACM] 2026-7-11 | Dynamo-MoE: Accelerating Sparse Large Model Inference with Dynamic Parallelization
+[ACM] 2026-7-11 | Developer Needs and Feasible Features for AI Assistants in IDEs
+[ACM] 2026-7-11 | Building an Open AIBOM Standard in the Wild: An Experience Report on Extending the SPDX SBOM (ISO/IEC 5962:2021) for AI Supply Chains
+[ACM] 2026-7-11 | Agentic Taxation Optimization via LLM SMT-Constraint Reasoning
+[ACM] 2026-7-11 | WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp
+[ACM] 2026-7-11 | BCCE: Block-Centric GPU Co-Design for Real-Time Range-Top-K Query at Scale
+[ACM] 2026-7-11 | UniEP: Unified Expert-Parallel MegaKernel MoE for LLM Training
+[ACM] 2026-7-11 | CoDL: A Framework for Studying Cross-Component Interference in Deep Learning Training Pipelines
+[ACM] 2026-7-11 | Scalability Bottlenecks in Quantum-Resilient Distributed Ledgers: A Comparative Analysis of Post-Quantum Blockchain Implementations
+[ACM] 2026-7-11 | The Energy Cost of Post-Quantum Transition: Benchmarking PQC Algorithms on Commodity Hardware
+[ACM] 2026-7-11 | Intelligent Triage: Interpretable Incident Triage Workflow using LLM Extracted Triage Reasoning
+[ACM] 2026-7-11 | "Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System
+[ACM] 2026-7-11 | XBIDetective: Leveraging Vision Language Models for Identifying Cross-Browser Visual Inconsistencies
+[ACM] 2026-7-11 | Deriving and Validating Requirements Engineering Principles for Large-Scale Agile Development: An Industrial Longitudinal Study
+[ACM] 2026-7-11 | Momentum-Buffered Local SGD for Zero-Payload Drift Correction in Federated Learning
+[ACM] 2026-7-11 | Expressibility, Noise, and Error Mitigation in VQE Ansatz Selection
+[ACM] 2026-7-11 | Robust Ensemble Log Anomaly Detection for High-performance Parallel and Distributed Computing Systems
+[ACM] 2026-7-11 | Foiegras: Source Code Based Software Composition Analysis For C/C++ Applications
+[ACM] 2026-7-11 | Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair
+[ACM] 2026-7-11 | Fixing Security Vulnerabilities with Agentic AI in OSS-Fuzz
+[ACM] 2026-7-11 | torch_cufft: Extending PyTorch FFT Capacity with Multi-GPU and Descriptor-Resident cuFFTXt Execution
+[ACM] 2026-7-11 | Quantum Bit-Parallel Swap Matching
+[ACM] 2026-7-11 | Extracting Quantum-Ready Cores in Discrete Tomography
+[ACM] 2026-7-11 | NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding
+[ACM] 2026-7-11 | Opportunities and Barriers for AI-Supported Quality Planning in the Automotive Domain: An Interview Survey at Volkswagen
+[ACM] 2026-7-11 | Scaling Mobile Chaos Testing with AI-Driven Test Execution
+[ACM] 2026-7-11 | Spec2Control: Automating PLC/DCS Control-Logic Engineering from Natural Language Requirements with LLMs - A Multi-Plant Evaluation
+[ACM] 2026-7-11 | Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice
+[ACM] 2026-7-11 | Odin: Harnessing Rendering Visibility to Break Global Barriers in Distributed Point-Based Neural Rendering
+[ACM] 2026-7-11 | Quantum LCS in Practice: Circuits, Optimizations, and Evaluation
+[ACM] 2026-7-11 | OPAL: On-demand Progressive Accelerated Scientific Lossy Compression
+[ACM] 2026-7-11 | On the Flakiness of LLM-Generated Tests for Industrial and Open-Source Database Management Systems
+[ACM] 2026-7-11 | STAR: Decode-Phase Rescheduling for LLM Inference
+[ACM] 2026-7-11 | MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints
+[ACM] 2026-7-11 | PCICF: A Pedestrian Crossing Identification and Classification Framework
+[ACM] 2026-7-11 | LLM-Based Automated Diagnosis Of Integration Test Failures At Google
+[ACM] 2026-7-11 | Green LLM Techniques in Action: How Effective Are Existing Techniques for Improving the Energy Efficiency of LLM-Based Applications in Industry?
+[ACM] 2026-7-11 | DiTango: Cost-Effective Parallel Diffusion Generation with Selective Attention State Reuse
+[ACM] 2026-7-11 | Analysis of I/O Subsystem Utilization on the Theta Supercomputer
+[ACM] 2026-7-11 | Accelerating high-accuracy runtime estimation in adaptive sample selection for parallel scalability analysis with reiforcement learning
+[ACM] 2026-7-11 | QProR: An Efficient Framework for Quantity-of-Interest Based Progressive Retrieval with Guaranteed Error Control
+[ACM] 2026-7-11 | Building an LLM Gateway as an RSE: Patterns, Pitfalls, and a Case Study from Public Health Data Discovery
+[ACM] 2026-7-11 | Pome: Parallelizing I/Os and Computations for Efficient LSM-tree-based Data Storage
+[ACM] 2026-7-11 | R-Log: Incentivizing Log Analysis Capability in LLMs via Reasoning-based Reinforcement Learning
+[ACM] 2026-7-11 | Eliminating Python Overhead in Predictive Neural Compression: A Native C++/LibTorch Implementation of TEZip
+[ACM] 2026-7-11 | Efficient Tracking of Communities on Evolving Graphs with Leiden Algorithm
+[ACM] 2026-7-11 | FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration
+[ACM] 2026-7-11 | ExCC: External Memory Connected Components on Large Graphs
+[ACM] 2026-7-11 | Krysha: Cost-Efficient Resource Orchestration for Geo-Distributed Serverless Microservices
+[ACM] 2026-7-11 | Scaling Attention Beyond GPUs for LLM Inference
+[ACM] 2026-7-11 | Merkle-Tree Weight Snapshot Deduplication for Provenance-Aware Auditing of Neural Network Training
+[ACM] 2026-7-11 | A High-Performance Persistent Transactional Memory System via Cooperative Concurrency Control
+[ACM] 2026-7-11 | Bridging Information Theory and Practice for Scientific Lossy Compression
+[ACM] 2026-7-11 | νMG-LPA and νBM-LPA: Memory Efficient GPU-based Label Propagation Algorithms (LPA) for Community Detection
+[ACM] 2026-7-11 | JANUS: Resilient and Adaptive Data Transmission for Enabling Timely and Efficient Cross-Facility Scientific Workflows
+[ACM] 2026-7-11 | TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training
+[ACM] 2026-7-11 | Graph Acceleration Techniques for Sparse Transformers
+[ACM] 2026-7-11 | Achieving 86% Peak GPU Throughput for Distributed QR Factorization
+[ACM] 2026-7-11 | Less Effort, More Productivity: Lessons Learned from Developing Millions of Lines of Code with Large Language Model
+[ACM] 2026-7-11 | An Enterprise Marketplace for Unified Access to Multi-Cloud and Enterprise Products in a Large Banking Infrastructure
+[ACM] 2026-7-11 | DSL or Code? Evaluating the Quality of LLM-Generated Algebraic Specifications: A Case Study in Optimization at Kinaxis
+[ACM] 2026-7-11 | Product Manager Practices for Delegating Work to Generative AI: “Accountability must not be delegated to non-human actors”
+[ACM] 2026-7-11 | UnPII: Unlearning Personally Identifiable Information with Quantifiable Exposure Risk
+[ACM] 2026-7-11 | Bridging Code and Graphic: A Cross-Mode Framework for Large-Scale Network Scenario Construction
+[ACM] 2026-7-11 | Automated Software Test Generation at Industry Scale Using a Multi-Agent Architecture and Workflow Integration
+[ACM] 2026-7-11 | Correctness isn’t Efficiency: Runtime Memory Divergence in LLM-Generated Code
+[ACM] 2026-7-11 | Group-TopK: Optimizing Distributed Training on Edge Devices via Communication Compression
+[ACM] 2026-7-11 | AutoOracle: High-Quality C++ Test Oracle Generation via Data Quality-Driven and Filtering-Enabled LLMs
+[ACM] 2026-7-11 | Addressing Test Flakiness: Practical Approaches in a Database-Reliant Industrial System
+[ACM] 2026-7-11 | EvoC2Rust: A Skeleton-guided Framework for Project-Level C-to-Rust Translation
+[ACM] 2026-7-11 | The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason
+[ACM] 2026-7-11 | “Still in the Loop”: Coping with Technostress in DevOps Teams and the Impact of GenAI
+[ACM] 2026-7-11 | Challenges in Scaling R-tree Spatial Search on Processing-In-Memory
+[ACM] 2026-7-11 | Delta-Based Rare Pattern Discovery with Quantum Speedup
+[ACM] 2026-7-11 | Enabling Floating Point Virtualization With Tiny Numbers
+[ACM] 2026-7-11 | Smart Paste: Automatically Fixing Copy/Paste for Google Developers
+[ACM] 2026-7-11 | PerFrame: Monitoring GUI Loading Performance in Mobile Apps via Semantic Distinguish
+[ACM] 2026-7-11 | Understanding Task Enjoyment in Software Development: A Mixed-Methods Study on Practitioners From Poland and Brazil
+[ACM] 2026-7-11 | What Does Explainable AI Mean in Practice? Evaluative Requirements from a Longitudinal Clinical Case Study
+[ACM] 2026-7-11 | Developers’ Experience with Generative AI - First Insights from an Empirical Mixed-Methods Field Study
+[ACM] 2026-7-11 | Fault Tolerance of Accelerated Asynchronous Fixed-Point Iterations on Flexible Computing Infrastructure
+[ACM] 2026-7-11 | Vibe Coding in Practice: Motivations, Challenges, and a Future Outlook – a Grey Literature Review
+共写入 171 条记录，保存到 papers/paper2026-07-11.json。
+论文获取成功，文件路径: papers/paper2026-07-11.json
+正在筛选、翻译并发送邮件...
+[NO] 1/171 | SIVF: GPU-Resident IVF Index for Streaming Vector Analytics
+[NO] 2/171 | POLAR-PIC: A Holistic Framework for Matrixized PIC with Co-Designed Compute, Layout, and Communication
+[YES] 3/171 | What’s in a Benchmark? The Case of SWE-Bench in Automated Program Repair
+[YES] 4/171 | Group versus Individual Review Requests: Tradeoffs in Speed and Quality at Mozilla Firefox
+[NO] 5/171 | GICC: A High-Performance Runtime for GPU-Initiated Communication and Coordination in Modern HPC Systems
+[NO] 6/171 | Omnia: Efficient RAG Serving through Speculative Scheduling
+[NO] 7/171 | Scalable Quantum Circuit Simulation via Circuit Cutting and FPGA Acceleration
+[NO] 8/171 | CARBS: Compiler Autotuning via Randomized Biased Search
+[NO] 9/171 | Modernizing VPIC-Kokkos I/O: From Legacy Binary Output to Adaptive HDF5 Workflows
+[NO] 10/171 | Lustre Query: Periodic Offline Metadata Monitoring from MDT Backups
+[NO] 11/171 | ATLAS: Efficient Out-of-Core Inference for Billion-Scale Graph Neural Networks
+[NO] 12/171 | SAGA: State-Aware Graph Analytics for Combinatorial Optimization on Dynamic Graphs
+[NO] 13/171 | DPIO: A Unified I/O Architecture for Heterogeneous CPU and DPU NVMeoF
+[NO] 14/171 | Vision Language Model-based Testing of Industrial Autonomous Mobile Robots
+[YES] 15/171 | CASCADE: LLM-powered JavaScript Deobfuscator at Google
+[NO] 16/171 | OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies
+[YES] 17/171 | RovoDev Code Reviewer: A Large-Scale Online Evaluation of LLM-based Code Review Automation at Atlassian
+[NO] 18/171 | Empirical Evaluation of PDF Parsing and Chunking for Financial Question Answering with RAG
+[NO] 19/171 | Inkly: A Data-Informed and Context-Aware System for HPC Job Execution
+[NO] 20/171 | GLANCED-IO: Taming I/O Optimization for Deep Learning at Scale
+[NO] 21/171 | Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices
+[YES] 22/171 | AI Where It Matters: Where, Why, and How Developers Want AI Support in Daily Work
+[NO] 23/171 | SYCL++: A Unified Programming Framework for Heterogeneous Supercomputers at Scale
+[NO] 24/171 | Full-Core Fluid-Structure-Interaction Simulation of Nuclear Reactor on CPU+GPU Hybrid Clusters
+[NO] 25/171 | Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing
+[NO] 26/171 | Enabling High-Utilization and Low-Contention FaaS: A Request-Level Resource Provisioning Approach
+[NO] 27/171 | Accelerating Block Low-Rank Foundation Model Inference on Memory-Constrained GPUs
+[YES] 28/171 | Utilizing LLMs for Industrial Process Automation: A Case Study on Modifying RAPID Programs
+[YES] 29/171 | ViTAL: LLM-Powered Taint Analysis for GUI Field Visualization Auditing in Android
+[NO] 30/171 | Cremes: Cost-Efficient and Reliable Microservice Execution on Spot Instances
+[NO] 31/171 | Performance Evaluation of Approximate Nearest Neighbor Search on NVIDIA BlueField-3 DPU
+[NO] 32/171 | Endeavor: Efficient PairHMM for Detection of DNA Variants in Genome-Scale Datasets
+[NO] 33/171 | Deterministic and Efficient Low Rank Approximation on GPUs
+[YES] 34/171 | TypeJinja: Static Type Checking of Jinja Templates at dbt Labs
+[YES] 35/171 | Enabling Black-box RPC-API Testing with Multi-Agent Reinforcement Learning and LLMs: An Industry Case Study
+[YES] 36/171 | TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback
+[NO] 37/171 | SRAP: Sender-side Receiver-Aware Port Selection for Deterministic Flow-to-Core Mapping in Hash-Based Flow Steering
+[YES] 38/171 | Automated Bug Frame Retrieval from Gameplay Videos Using Multimodal Large Language Models
+[NO] 39/171 | Technical Credit: Industry Views on Benefits and Barriers
+[YES] 40/171 | From Rules to LLM-Enhanced Templates: A Hybrid ALPG Code Generation System
+[NO] 41/171 | CAST: Automated Resilience Testing for Production Cloud Service Systems
+[YES] 42/171 | Delta Debugging for LLM-integrated Systems
+[NO] 43/171 | An Ontology-Based Approach to Security Risk Identification for Container Deployments in OT Contexts
+[NO] 44/171 | Thermal-Aware Scheduling for DNN Inference on 3D Logic-to-DRAM Process-Near-Memory Architecture
+[NO] 45/171 | Distributed Scheduling for Modular Quantum Computing in Cloud
+[NO] 46/171 | Scheduling Optimization of Distributed LLM Inference
+[NO] 47/171 | When RDMA Goes Long-Haul: Characterization, Modeling, and Verbs-Level Emulation with Implications for Federated Learning
+[NO] 48/171 | CXLMemSim: Practical Performance Simulation and Characterization of CXL 3.0 Memory Systems
+[NO] 49/171 | NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding
+[NO] 50/171 | Deploying SafeKAN for Anomaly Detection in Safety-Critical Satellite Operations: An Industry-Guided Study
+[YES] 51/171 | Principles and Practices of Large-Scale Code Analysis at Ant Group: A Data- and Logic-Oriented Approach
+[NO] 52/171 | Green Software Engineering in Practice: Quantifying the Impact of Carbon Reduction Strategies in Enterprise Software
+[NO] 53/171 | What's DAT? Three Case Studies of Measuring Software Development Productivity at Meta With Diff Authoring Time
+[NO] 54/171 | PKAS: Predictive KVCache-Aware Scheduling for Faster LLM and Transformer Inferences
+[NO] 55/171 | Toward Low-Latency and Memory-Efficient Deployment of Irregular Sparse Deep Learning Workloads
+[NO] 56/171 | ResiHP: Taming LLM Training Failures with Dynamic Hybrid Parallelism
+[NO] 57/171 | Evaluating QAOA and Quantum Annealing for Minimum Vertex Cover on NISQ Devices
+[NO] 58/171 | Performance Analysis of Conveyors: Memory Dominates?
+[NO] 59/171 | MagmaScope: Identifying Root-Cause Changes for Emergency Incident in Large-Scale Cloud Infrastructure
+[YES] 60/171 | Finding the Needle in the Crash Stack: Industrial-Scale Crash Root Cause Localization with AutoCrashFL
+[YES] 61/171 | Beyond the Commit: Developer Perspectives on Productivity with AI Coding Assistants
+[YES] 62/171 | Find My Code Twin: Improving SNIPPET SEARCH Performance Using LLMs in Practice
+[NO] 63/171 | Stabilizing Grover Search via Density-Aware Phase Control
+[NO] 64/171 | Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies
+[YES] 65/171 | PowerQuant: Architecture-Agnostic GPU Power Estimation via Quantile Regression
+[NO] 66/171 | A New Era for the Open Science Data Federation: The Pelican Platform
+[NO] 67/171 | I/O Optimisation at the Compiler Level: IOOpt
+[NO] 68/171 | FAME: A Framework for Accelerating Independent Multi-Agent Reinforcement Learning on Heterogeneous Platforms
+[NO] 69/171 | Hardware-based Kernel-Bypass Exceptions to Accelerate Floating Point Tracing and Virtualization
+[YES] 70/171 | HapCheck: DSL-Based Static Bug Detection Framework for OpenHarmony
+[YES] 71/171 | Enterprise-Scale COBOL-to-Java Translation: LLMs Augmented with Program Analysis
+[NO] 72/171 | A Lock-Free Work-Stealing Algorithm for Bulk Operations
+[YES] 73/171 | Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry
+[NO] 74/171 | Learning from Change: Predictive Models for Incident Prevention in a Regulated IT Environment
+[NO] 75/171 | PerfScout: An Adaptive Workload Generator in Software Performance Testing
+[YES] 76/171 | When LLMs Listen to Experts: Accurate Failure Diagnosis in Operating Systems
+[NO] 77/171 | Motivating Regime-Aware User-Profiles for Runtime Prediction in Large-Scale HPC Systems
+[NO] 78/171 | TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition
+[NO] 79/171 | Metis: Agentic Knowledge Synthesis for Explainable I/O Performance in HPC Systems
+[NO] 80/171 | HAT-MPI: Hierarchical Auto Tuning of MPI Inter-Node Communication on InfiniBand Clusters
+[NO] 81/171 | A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States
+[YES] 82/171 | Hamster: A Large-Scale Study and Characterization of Developer-Written Tests
+[NO] 83/171 | Structural Parallelism in Quantum Programs
+[YES] 84/171 | Towards Transparent Checkpointing with AI-driven Code Generation
+[NO] 85/171 | Resource-Aware Online Tuning for Heterogeneous Federated Learning
+[NO] 86/171 | Flux Fiction: Hopping Toward Storage Graph Scheduling With El Capitan’s Rabbits
+[NO] 87/171 | XTrace: A Non-Invasive Dynamic Tracing Framework for Android Applications in Production
+[NO] 88/171 | Robust I/O Characterization of Machine Learning Workloads Across Performance Analysis Tools
+[NO] 89/171 | Decay Driven Multi Objective Optimization for HPC nodes
+[NO] 90/171 | Dynamo-MoE: Accelerating Sparse Large Model Inference with Dynamic Parallelization
+[YES] 91/171 | Developer Needs and Feasible Features for AI Assistants in IDEs
+[NO] 92/171 | Building an Open AIBOM Standard in the Wild: An Experience Report on Extending the SPDX SBOM (ISO/IEC 5962:2021) for AI Supply Chains
+[NO] 93/171 | Agentic Taxation Optimization via LLM SMT-Constraint Reasoning
+[YES] 94/171 | WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp
+[NO] 95/171 | BCCE: Block-Centric GPU Co-Design for Real-Time Range-Top-K Query at Scale
+[NO] 96/171 | UniEP: Unified Expert-Parallel MegaKernel MoE for LLM Training
+[NO] 97/171 | CoDL: A Framework for Studying Cross-Component Interference in Deep Learning Training Pipelines
+[NO] 98/171 | Scalability Bottlenecks in Quantum-Resilient Distributed Ledgers: A Comparative Analysis of Post-Quantum Blockchain Implementations
+[NO] 99/171 | The Energy Cost of Post-Quantum Transition: Benchmarking PQC Algorithms on Commodity Hardware
+[NO] 100/171 | Intelligent Triage: Interpretable Incident Triage Workflow using LLM Extracted Triage Reasoning
+[NO] 101/171 | "Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System
+[NO] 102/171 | XBIDetective: Leveraging Vision Language Models for Identifying Cross-Browser Visual Inconsistencies
+[NO] 103/171 | Deriving and Validating Requirements Engineering Principles for Large-Scale Agile Development: An Industrial Longitudinal Study
+[NO] 104/171 | Momentum-Buffered Local SGD for Zero-Payload Drift Correction in Federated Learning
+[NO] 105/171 | Expressibility, Noise, and Error Mitigation in VQE Ansatz Selection
+[NO] 106/171 | Robust Ensemble Log Anomaly Detection for High-performance Parallel and Distributed Computing Systems
+[YES] 107/171 | Foiegras: Source Code Based Software Composition Analysis For C/C++ Applications
+[YES] 108/171 | Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair
+[YES] 109/171 | Fixing Security Vulnerabilities with Agentic AI in OSS-Fuzz
+[NO] 110/171 | torch_cufft: Extending PyTorch FFT Capacity with Multi-GPU and Descriptor-Resident cuFFTXt Execution
+[NO] 111/171 | Quantum Bit-Parallel Swap Matching
+[NO] 112/171 | Extracting Quantum-Ready Cores in Discrete Tomography
+[NO] 113/171 | NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding
+[NO] 114/171 | Opportunities and Barriers for AI-Supported Quality Planning in the Automotive Domain: An Interview Survey at Volkswagen
+[NO] 115/171 | Scaling Mobile Chaos Testing with AI-Driven Test Execution
+[YES] 116/171 | Spec2Control: Automating PLC/DCS Control-Logic Engineering from Natural Language Requirements with LLMs - A Multi-Plant Evaluation
+[YES] 117/171 | Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice
+[NO] 118/171 | Odin: Harnessing Rendering Visibility to Break Global Barriers in Distributed Point-Based Neural Rendering
+[NO] 119/171 | Quantum LCS in Practice: Circuits, Optimizations, and Evaluation
+[NO] 120/171 | OPAL: On-demand Progressive Accelerated Scientific Lossy Compression
+[YES] 121/171 | On the Flakiness of LLM-Generated Tests for Industrial and Open-Source Database Management Systems
+[NO] 122/171 | STAR: Decode-Phase Rescheduling for LLM Inference
+[NO] 123/171 | MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints
+[NO] 124/171 | PCICF: A Pedestrian Crossing Identification and Classification Framework
+[YES] 125/171 | LLM-Based Automated Diagnosis Of Integration Test Failures At Google
+[NO] 126/171 | Green LLM Techniques in Action: How Effective Are Existing Techniques for Improving the Energy Efficiency of LLM-Based Applications in Industry?
+[NO] 127/171 | DiTango: Cost-Effective Parallel Diffusion Generation with Selective Attention State Reuse
+[NO] 128/171 | Analysis of I/O Subsystem Utilization on the Theta Supercomputer
+[NO] 129/171 | Accelerating high-accuracy runtime estimation in adaptive sample selection for parallel scalability analysis with reiforcement learning
+[NO] 130/171 | QProR: An Efficient Framework for Quantity-of-Interest Based Progressive Retrieval with Guaranteed Error Control
+[NO] 131/171 | Building an LLM Gateway as an RSE: Patterns, Pitfalls, and a Case Study from Public Health Data Discovery
+[NO] 132/171 | Pome: Parallelizing I/Os and Computations for Efficient LSM-tree-based Data Storage
+[NO] 133/171 | R-Log: Incentivizing Log Analysis Capability in LLMs via Reasoning-based Reinforcement Learning
+[NO] 134/171 | Eliminating Python Overhead in Predictive Neural Compression: A Native C++/LibTorch Implementation of TEZip
+[NO] 135/171 | Efficient Tracking of Communities on Evolving Graphs with Leiden Algorithm
+[NO] 136/171 | FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration
+[NO] 137/171 | ExCC: External Memory Connected Components on Large Graphs
+[NO] 138/171 | Krysha: Cost-Efficient Resource Orchestration for Geo-Distributed Serverless Microservices
+[NO] 139/171 | Scaling Attention Beyond GPUs for LLM Inference
+[NO] 140/171 | Merkle-Tree Weight Snapshot Deduplication for Provenance-Aware Auditing of Neural Network Training
+[NO] 141/171 | A High-Performance Persistent Transactional Memory System via Cooperative Concurrency Control
+[NO] 142/171 | Bridging Information Theory and Practice for Scientific Lossy Compression
+[NO] 143/171 | νMG-LPA and νBM-LPA: Memory Efficient GPU-based Label Propagation Algorithms (LPA) for Community Detection
+[NO] 144/171 | JANUS: Resilient and Adaptive Data Transmission for Enabling Timely and Efficient Cross-Facility Scientific Workflows
+[NO] 145/171 | TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training
+[NO] 146/171 | Graph Acceleration Techniques for Sparse Transformers
+[NO] 147/171 | Achieving 86% Peak GPU Throughput for Distributed QR Factorization
+[YES] 148/171 | Less Effort, More Productivity: Lessons Learned from Developing Millions of Lines of Code with Large Language Model
+[NO] 149/171 | An Enterprise Marketplace for Unified Access to Multi-Cloud and Enterprise Products in a Large Banking Infrastructure
+[YES] 150/171 | DSL or Code? Evaluating the Quality of LLM-Generated Algebraic Specifications: A Case Study in Optimization at Kinaxis
+[NO] 151/171 | Product Manager Practices for Delegating Work to Generative AI: “Accountability must not be delegated to non-human actors”
+[NO] 152/171 | UnPII: Unlearning Personally Identifiable Information with Quantifiable Exposure Risk
+[NO] 153/171 | Bridging Code and Graphic: A Cross-Mode Framework for Large-Scale Network Scenario Construction
+[YES] 154/171 | Automated Software Test Generation at Industry Scale Using a Multi-Agent Architecture and Workflow Integration
+[YES] 155/171 | Correctness isn’t Efficiency: Runtime Memory Divergence in LLM-Generated Code
+[NO] 156/171 | Group-TopK: Optimizing Distributed Training on Edge Devices via Communication Compression
+[YES] 157/171 | AutoOracle: High-Quality C++ Test Oracle Generation via Data Quality-Driven and Filtering-Enabled LLMs
+[NO] 158/171 | Addressing Test Flakiness: Practical Approaches in a Database-Reliant Industrial System
+[YES] 159/171 | EvoC2Rust: A Skeleton-guided Framework for Project-Level C-to-Rust Translation
+[YES] 160/171 | The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason
+[NO] 161/171 | “Still in the Loop”: Coping with Technostress in DevOps Teams and the Impact of GenAI
+[NO] 162/171 | Challenges in Scaling R-tree Spatial Search on Processing-In-Memory
+[NO] 163/171 | Delta-Based Rare Pattern Discovery with Quantum Speedup
+[NO] 164/171 | Enabling Floating Point Virtualization With Tiny Numbers
+[YES] 165/171 | Smart Paste: Automatically Fixing Copy/Paste for Google Developers
+[NO] 166/171 | PerFrame: Monitoring GUI Loading Performance in Mobile Apps via Semantic Distinguish
+[NO] 167/171 | Understanding Task Enjoyment in Software Development: A Mixed-Methods Study on Practitioners From Poland and Brazil
+[NO] 168/171 | What Does Explainable AI Mean in Practice? Evaluative Requirements from a Longitudinal Clinical Case Study
+[YES] 169/171 | Developers’ Experience with Generative AI - First Insights from an Empirical Mixed-Methods Field Study
+[NO] 170/171 | Fault Tolerance of Accelerated Asynchronous Fixed-Point Iterations on Flexible Computing Infrastructure
+[YES] 171/171 | Vibe Coding in Practice: Motivations, Challenges, and a Future Outlook – a Grey Literature Review
+筛选完成：共 171 篇；Yes = 43 篇；已保存到 papers/select_paper2026-07-11.json。
+邮件发送成功！
+[2026-07-12 23:10:33] 任务执行成功！

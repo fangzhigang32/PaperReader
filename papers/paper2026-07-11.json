@@ -1,0 +1,1541 @@
+[
+  {
+    "date": "2026-7-11",
+    "title": "SIVF: GPU-Resident IVF Index for Streaming Vector Analytics",
+    "authors": "Dongfang Zhao",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807575",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "POLAR-PIC: A Holistic Framework for Matrixized PIC with Co-Designed Compute, Layout, and Communication",
+    "authors": "Yizhuo Rao, Xingjian Cui, Shangzhi Pang, Jiabin Xie, Guangnan Feng, Ziyan Zhang, Jinhui Wei, Languang Gao, Zhenyu Wang, Zhiguang Chen, Yutong Lu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807574",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "What’s in a Benchmark? The Case of SWE-Bench in Automated Program Repair",
+    "authors": "Matias Martinez, Xavier Franch",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786904",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Group versus Individual Review Requests: Tradeoffs in Speed and Quality at Mozilla Firefox",
+    "authors": "Matej Kučera, Marco Castelluccio, Daniel Feitosa, Ayushi Rastogi",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786888",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "GICC: A High-Performance Runtime for GPU-Initiated Communication and Coordination in Modern HPC Systems",
+    "authors": "Baodi Shan, Mauricio Araya-Polo, Barbara Chapman",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807576",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Omnia: Efficient RAG Serving through Speculative Scheduling",
+    "authors": "Rongtian Fu, Shigang Li, Youxuan Xu, Tong Wu, Zhi Ma, Jinliang Shi",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807814",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Scalable Quantum Circuit Simulation via Circuit Cutting and FPGA Acceleration",
+    "authors": "Xiaokun Yang, Xinpeng Li, Jeremy W Turner, Cameron D Disomma, Yunhe Feng, Xuechen Zhang, Vipin Chaudhary, Shuai Xu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816155",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "CARBS: Compiler Autotuning via Randomized Biased Search",
+    "authors": "Wei Li, Bin Gao, Weng-Fai Wong",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807592",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Modernizing VPIC-Kokkos I/O: From Legacy Binary Output to Adaptive HDF5 Workflows",
+    "authors": "Connor Browne, Nigel Tan, Scott Luedtke, Michela Taufer, Brian Albright",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818782",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Lustre Query: Periodic Offline Metadata Monitoring from MDT Backups",
+    "authors": "Sohei Koyama, Osamu Tatebe",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816126",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "ATLAS: Efficient Out-of-Core Inference for Billion-Scale Graph Neural Networks",
+    "authors": "Pranjal Naman, Yogesh Simmhan",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807597",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "SAGA: State-Aware Graph Analytics for Combinatorial Optimization on Dynamic Graphs",
+    "authors": "Rohit Prajapati, Prajjwal Nijhara, Dip Sankar Banerjee",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807595",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "DPIO: A Unified I/O Architecture for Heterogeneous CPU and DPU NVMeoF",
+    "authors": "Wenhao Gu, Xuchao Xie, Yujuan Tan, Dezun Dong",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818783",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Vision Language Model-based Testing of Industrial Autonomous Mobile Robots",
+    "authors": "Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786920",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "CASCADE: LLM-powered JavaScript Deobfuscator at Google",
+    "authors": "Shan Jiang, Pranoy Kovuri, David Tao, Zhixun Tan",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies",
+    "authors": "Peng Di, Faqiang Chen, Xiao Bai, Hongjun Yang, Qingfeng Li, Ganglin Wei, Jian Mou, Feng Shi, Keting Chen, Peng Tang, Zhitao Shen, Zheng Li, Wenhui Shi, Junwei Guo, Hang Yu",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786864",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "RovoDev Code Reviewer: A Large-Scale Online Evaluation of LLM-based Code Review Automation at Atlassian",
+    "authors": "Kla Tantithamthavorn, Yaotian Zou, Andy Wong, Michael Gupta, Zhe Wang, Mike Buller, Ryan Jiang, Matthew Watson, Minwoo Jeong, Kun Chen, Ming Wu",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786851",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Empirical Evaluation of PDF Parsing and Chunking for Financial Question Answering with RAG",
+    "authors": "Omar El Bachyr, Yewei Song, Saad Ezzini, Jacques Klein, Tegawendé F. Bissyandé, Anas Zilali, Ulrick Ble, Anne Goujon",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786911",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Inkly: A Data-Informed and Context-Aware System for HPC Job Execution",
+    "authors": "Ryan Vargas, Andrew Tupper, AbdElRahman ElSaid, Damir Pulatov",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818789",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "GLANCED-IO: Taming I/O Optimization for Deep Learning at Scale",
+    "authors": "Ray A. O. Sinurat, William Nixon, Philip Carns, Huihuo Zheng, Sandeep Madireddy, Sam Foreman, Troy Arcomano, Robert Ross, Haryadi S. Gunawi, Hariharan Devarajan",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807588",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices",
+    "authors": "Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, Chiming Duan, Minghua He, Mengxi Jia, Ying Li",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786853",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "AI Where It Matters: Where, Why, and How Developers Want AI Support in Daily Work",
+    "authors": "Rudrajit Choudhuri, Carmen Badea, Christian Bird, Jenna L. Butler, Robert DeLine, Brian Houck",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786885",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "SYCL++: A Unified Programming Framework for Heterogeneous Supercomputers at Scale",
+    "authors": "Zitao Shen, Yuyang Jin, Kinman Lei, Zixuan Ma, Wenqiang Wang, Yinuo Wang, Wenhao Zhou, Zhenchuan Chen, Di Wei, Qi Zhang, Fei Wang, Ying Liu, Lin Gan, Jidong Zhai",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807812",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Full-Core Fluid-Structure-Interaction Simulation of Nuclear Reactor on CPU+GPU Hybrid Clusters",
+    "authors": "Xue Miao, Jue Wang, Qida Lin, Shufei Zhang, Rongqiang Cao, Chunbao Zhou, Ningming Nie, He Bai, Yangang Wang",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807600",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3806645",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Enabling High-Utilization and Low-Contention FaaS: A Request-Level Resource Provisioning Approach",
+    "authors": "Runfu Li, Zishu Yu, Yifan Wang, Xiaohui Peng, Ninghui Sun, Zhiwei Xu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807810",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Accelerating Block Low-Rank Foundation Model Inference on Memory-Constrained GPUs",
+    "authors": "Pierre Abillama, Changwoo Lee, Juechu Dong, David Blaauw, Dennis Sylvester, Hun-Seok Kim",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807580",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Utilizing LLMs for Industrial Process Automation: A Case Study on Modifying RAPID Programs",
+    "authors": "Salim Fares, Steffen Herbold",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786869",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "ViTAL: LLM-Powered Taint Analysis for GUI Field Visualization Auditing in Android",
+    "authors": "Liuyang Jiang, Shenghan Liu, Qiuping Yi, Hongliang Liang, Xiangxing Qian, Qingyun Kong, Yixiu Chen, XiaoQiang Fan, LiangXu Zou",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786912",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Cremes: Cost-Efficient and Reliable Microservice Execution on Spot Instances",
+    "authors": "Liao Chen, Chenyu Lin, Junlin Chen, Shutian Luo, Huanle Xu, ChengZhong Xu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807817",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Performance Evaluation of Approximate Nearest Neighbor Search on NVIDIA BlueField-3 DPU",
+    "authors": "Sophia Bhoria, Nathan Tibbetts, Arjun Kirubakaran, Alima Subedi, Satish Puri",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818794",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Endeavor: Efficient PairHMM for Detection of DNA Variants in Genome-Scale Datasets",
+    "authors": "Miguel Graça, Aleksandar Ilic",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807593",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Deterministic and Efficient Low Rank Approximation on GPUs",
+    "authors": "Lu Shi, Weijie Shen, Ruiyi Zhan, Dajun Huang, Weiwei Xu, Shaoshuai Zhang",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820064",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "TypeJinja: Static Type Checking of Jinja Templates at dbt Labs",
+    "authors": "Cheng Ding, Zhong Xu, Michael Y. Levin, Wolfram Schulte, Milos Gligoric",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786905",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Enabling Black-box RPC-API Testing with Multi-Agent Reinforcement Learning and LLMs: An Industry Case Study",
+    "authors": "Xiaoqing Sun, Zhou Shao, Xiaonan Shi, Shiliang Xiao, Chao Ma, Xiaobo Xue, Jianyuan Lu, Shize Zhang, Enge Song, Song Yang, Xing Li, Chongrong Fang, Chunrong Fang, Biao Lyu, Shunmin Zhu",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786855",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback",
+    "authors": "Prithwish Jana, Sam Davidson, Bhavana Bhasker, Andrey Kan, Anoop Deoras, Laurent Callot",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786898",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "SRAP: Sender-side Receiver-Aware Port Selection for Deterministic Flow-to-Core Mapping in Hash-Based Flow Steering",
+    "authors": "Shingo Hattori, Osamu Tatebe",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820062",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Automated Bug Frame Retrieval from Gameplay Videos Using Multimodal Large Language Models",
+    "authors": "Wentao Lu, Alexander Senchenko, Abram Hindle, Cor-Paul Bezemer",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786865",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Technical Credit: Industry Views on Benefits and Barriers",
+    "authors": "Alessio Bucaioni, Ian Gorton, Patrizio Pelliccione",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786862",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "From Rules to LLM-Enhanced Templates: A Hybrid ALPG Code Generation System",
+    "authors": "Sanghyeok Park, Sungjae Hwang, Simon S. Woo",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786902",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "CAST: Automated Resilience Testing for Production Cloud Service Systems",
+    "authors": "Zhuangbin Chen, Zhiling Deng, Kaiming Zhang, Yang Liu, Cheng Cui, Jinfeng Zhong, Zibin Zheng",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786867",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Delta Debugging for LLM-integrated Systems",
+    "authors": "Hao-Nan Zhu, Muhammad Numair Mansur, Martin Schäf, Zeya Chen, Tancrède Lepoint, Willem Visser",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786854",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "An Ontology-Based Approach to Security Risk Identification for Container Deployments in OT Contexts",
+    "authors": "Yannick Landeck, Dian Balta, Martin Wimmer, Christian Knierim",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786875",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Thermal-Aware Scheduling for DNN Inference on 3D Logic-to-DRAM Process-Near-Memory Architecture",
+    "authors": "Shiji Ke, Conghui Li, Mengke Ge, Song Chen, Yi Kang",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820075",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Distributed Scheduling for Modular Quantum Computing in Cloud",
+    "authors": "Vinooth Rao Kulkarni, Vipin Chaudhary",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820071",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Scheduling Optimization of Distributed LLM Inference",
+    "authors": "Biyao Zhang, Weicong Chen, Vipin Chaudhary",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818787",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "When RDMA Goes Long-Haul: Characterization, Modeling, and Verbs-Level Emulation with Implications for Federated Learning",
+    "authors": "Yuke Li, Zhonghao Chen, Xiaoyi Lu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807582",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "CXLMemSim: Practical Performance Simulation and Characterization of CXL 3.0 Memory Systems",
+    "authors": "Yiwei Yang, Shri Vishakh Devanand, Brian Zhao, Yusheng Zheng, Pooneh Safayenikoo, Tanvir Ahmed Khan, Andi Quinn",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820069",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding",
+    "authors": "Jiamin Wang",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818785",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Deploying SafeKAN for Anomaly Detection in Safety-Critical Satellite Operations: An Industry-Guided Study",
+    "authors": "Alberto Petrucci, Francesco Basciani, Franco Raimondi, Patrizio Pelliccione",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786861",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Principles and Practices of Large-Scale Code Analysis at Ant Group: A Data- and Logic-Oriented Approach",
+    "authors": "Xiaoheng Xie, Gang Fan, Xiaojun Lin, Ang Zhou, Shijie Li, Xunjin Zheng, Yinan Liang, Yu Zhang, Na Yu, Haokun Li, Xinyu Chen, Yingzhuang Chen, Yi Zhen, Dejun Dong, Xianjin Fu, Jinzhou Su, Fuxiong Pan, Pengshuai Luo, Youzheng Feng, Ruoxiang Hu, Hanyang Guo, Jing Fan, Xiao Xiao, Peng Di",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786907",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Green Software Engineering in Practice: Quantifying the Impact of Carbon Reduction Strategies in Enterprise Software",
+    "authors": "Rutger Kool, Michiel Overeem, Ivano Malavolta",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786850",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "What's DAT? Three Case Studies of Measuring Software Development Productivity at Meta With Diff Authoring Time",
+    "authors": "Moritz Beller, Amanda Park, Karim Nakad, Akshay Patel, Sarita Mohanty, Ford Garberson, Henri Verroken, Andrew Kennedy, Ian G. Malone, Vaishali Garg, Pavel Avgustinov",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786901",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "PKAS: Predictive KVCache-Aware Scheduling for Faster LLM and Transformer Inferences",
+    "authors": "Jie Ye, Avinash Maurya, Krishna Teja Chitty-Venkata, Bogdan Nicolae, Anthony Kougkas, Xian-He Sun",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807819",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Toward Low-Latency and Memory-Efficient Deployment of Irregular Sparse Deep Learning Workloads",
+    "authors": "Changxin Li",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818793",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "ResiHP: Taming LLM Training Failures with Dynamic Hybrid Parallelism",
+    "authors": "Tenghui Ma, Jihu Guo, Wei Gao, Sitian Lu, Zhisheng Ye, Hanjing Wang, Dahua Lin",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807815",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Evaluating QAOA and Quantum Annealing for Minimum Vertex Cover on NISQ Devices",
+    "authors": "Simone Faro, Gabriele Messina, Damiano Muzzicato, Caterina Viola",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816158",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Performance Analysis of Conveyors: Memory Dominates?",
+    "authors": "Shubhendra Pal Singhal, Aaron Welch, Oscar Hernandez, Steve Poole, Akihiro Hayashi, Vivek Sarkar",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816120",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "MagmaScope: Identifying Root-Cause Changes for Emergency Incident in Large-Scale Cloud Infrastructure",
+    "authors": "Zongyang Li, Ning Wang, Jiliang Liu, Yaping Zhang, Feifan Tong, Zhaoxing Chen, Chan Li, Ming Liu, Xiang Zhang, Yifan Wu, Tong Jia, Ying Li",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786903",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Finding the Needle in the Crash Stack: Industrial-Scale Crash Root Cause Localization with AutoCrashFL",
+    "authors": "Sungmin Kang, Sumi Yun, Jingun Hong, Shin Yoo, Gabin An",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786874",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Beyond the Commit: Developer Perspectives on Productivity with AI Coding Assistants",
+    "authors": "Valerie Chen, Jasmyn He, Behnjamin Williams, Jason Valentino, Ameet Talwalkar",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786848",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Find My Code Twin: Improving SNIPPET SEARCH Performance Using LLMs in Practice",
+    "authors": "Seokjun Ko, Eunbi Jang, Dahyeon Choi, Daeha Ryu, Jinyoung Park, Chang-Seo Park",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786881",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Stabilizing Grover Search via Density-Aware Phase Control",
+    "authors": "Simone Faro, Gianmarco La Rosa, Arianna Pavone",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816163",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
+    "authors": "Atkia Mahila, Avinash Maurya, M. Mustafa Rafique, Bogdan Nicolae",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816237",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "PowerQuant: Architecture-Agnostic GPU Power Estimation via Quantile Regression",
+    "authors": "Aditya Challa, Tanish Desai, Gargi Alavani Prabhu, Snehanshu Saha, Santonu Sarkar",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807591",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "A New Era for the Open Science Data Federation: The Pelican Platform",
+    "authors": "Fabio Andrijauskas, Frank Würthwein",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3819569",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "I/O Optimisation at the Compiler Level: IOOpt",
+    "authors": "Adrian Jackson",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816125",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "FAME: A Framework for Accelerating Independent Multi-Agent Reinforcement Learning on Heterogeneous Platforms",
+    "authors": "Samuel Wiggins, Nikunj Gupta, Grace Zgheib, Mahesh A. Iyer, Viktor Prasanna",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807599",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Hardware-based Kernel-Bypass Exceptions to Accelerate Floating Point Tracing and Virtualization",
+    "authors": "Karl Hallsby, Liam Strand, Peter Dinda",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820063",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "HapCheck: DSL-Based Static Bug Detection Framework for OpenHarmony",
+    "authors": "Xitong Zhong, Chang Liu, Runlin Liu, Zifu Xu, Zhengyao Liu, Juqi Zhou, Gang Fan, Mingyi Zhou, Xiang Gao, Li Li",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786895",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Enterprise-Scale COBOL-to-Java Translation: LLMs Augmented with Program Analysis",
+    "authors": "Venkatesan T. Chakaravarthy, Anamitra Roy Choudhury, Dinesh Garg, Vini Kanvar, Shivmaran S. Pandian, Aditya Raghuvanshi, Yogish Sabharwal, Amith Singhee",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786915",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "A Lock-Free Work-Stealing Algorithm for Bulk Operations",
+    "authors": "Raja Sai Nandhan Kataru, Danial Davarnia, Ali Jannesari",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816121",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry",
+    "authors": "Xueying Du, Jiayi Feng, Yi Zou, Wei Xu, Jie Ma, Wei Zhang, Sisi Liu, Xin Peng, Yiling Lou",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786910",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Learning from Change: Predictive Models for Incident Prevention in a Regulated IT Environment",
+    "authors": "Eileen Kapel, Jan Lennartz, Luis Cruz, Diomidis Spinellis, Arie van Deursen",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786876",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "PerfScout: An Adaptive Workload Generator in Software Performance Testing",
+    "authors": "Yongqian Sun, Qingliang Zhang, Xiao Xiong, Mengyao Li, Yimin Zuo, Shenglin Zhang, Xidao Wen, Wenwei Gu, Huandong Zhuang, Bowen Deng, Ruiyuan Wan, Dan Pei",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786893",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "When LLMs Listen to Experts: Accurate Failure Diagnosis in Operating Systems",
+    "authors": "Yongxin Zhao, Shenglin Zhang, Yuxin Sun, Wenwei Gu, Yongqian Sun, Luping Wang, Li Shi, Cheng Huang, Guodong Yang, Liping Zhang, Dan Pei",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786852",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Motivating Regime-Aware User-Profiles for Runtime Prediction in Large-Scale HPC Systems",
+    "authors": "Austin Yunker, Raj Kettimuthu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820074",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition",
+    "authors": "Zhuoxun Yang, Ruoyu Li, Amit Subrahmanya, Vishwas Rao, Sheng Di, Robert Underwood, Longtao Zhang, Jinyang Liu, Franck Cappello, Kai Zhao",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807811",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Metis: Agentic Knowledge Synthesis for Explainable I/O Performance in HPC Systems",
+    "authors": "Karim Youssef, Sarah Neuwirth, Neeraj Rajesh, Hariharan Devarajan",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816129",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "HAT-MPI: Hierarchical Auto Tuning of MPI Inter-Node Communication on InfiniBand Clusters",
+    "authors": "Sungjae Lee, Sam Tilford, Dhabaleswar K. Panda",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816737",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States",
+    "authors": "Daran Sun, Bowen Kan, Haoquan Long, Hairui Zhao, Haoxu Li, Yicheng Liu, Pengyu Zhou, Ankang Feng, Wenjing Huang, Yida Gu, Zhenyu Li, Honghui Shang, Yunquan Zhang, Dingwen Tao, Ninghui Sun, Guangming Tan",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807583",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Hamster: A Large-Scale Study and Characterization of Developer-Written Tests",
+    "authors": "Rangeet Pan, Tyler Stennett, Raju Pavuluri, Nate Levin, Alessandro Orso, Saurabh Sinha",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786857",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Structural Parallelism in Quantum Programs",
+    "authors": "Simone Faro, Francesco Pio Marino, Gabriele Messina",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816162",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Towards Transparent Checkpointing with AI-driven Code Generation",
+    "authors": "Hai Duc Nguyen, Tekin Bicer, Kyle Chard, Ian Foster, Bogdan Nicolae",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816239",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Resource-Aware Online Tuning for Heterogeneous Federated Learning",
+    "authors": "Abdullah Al Asif, Fan Zhou, J. Pablo Munoz, Ali Jannesari",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820066",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Flux Fiction: Hopping Toward Storage Graph Scheduling With El Capitan’s Rabbits",
+    "authors": "W. Jay Ashworth, Ian Lumsden, Jim Garlick, Mark Grondona, Olga Pearce, Stephanie Brink, Daniel Milroy, Tapasya Patki, Tom Scogland, Michela Taufer",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818788",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "XTrace: A Non-Invasive Dynamic Tracing Framework for Android Applications in Production",
+    "authors": "Qi Hu, JiangChao Liu, Lin Zhang, Edward Jiang, Xin Yu",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786916",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Robust I/O Characterization of Machine Learning Workloads Across Performance Analysis Tools",
+    "authors": "Zoya Masih, Radita Liem, Julian Kunkel",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816123",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Decay Driven Multi Objective Optimization for HPC nodes",
+    "authors": "Akhilesh Raj, Swann Perarnau, Aniruddha Gokhale",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818780",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Dynamo-MoE: Accelerating Sparse Large Model Inference with Dynamic Parallelization",
+    "authors": "Jiahao Chen, Shigang Li, Rongtian Fu, Tong Wu, Zhi Ma, Jingkun Dong",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807820",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Developer Needs and Feasible Features for AI Assistants in IDEs",
+    "authors": "Agnia Sergeyuk, Ekaterina Koshchenko, Ilya Zakharov, Timofey Bryksin, Maliheh Izadi",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786883",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Building an Open AIBOM Standard in the Wild: An Experience Report on Extending the SPDX SBOM (ISO/IEC 5962:2021) for AI Supply Chains",
+    "authors": "Gopi Krishnan Rajbahadur, Keheliya Gallaba, Elyas Rashno, Arthit Suriyawongkul, Karen Bennet, Kate Stewart, Ahmed E. Hassan",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786921",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Agentic Taxation Optimization via LLM SMT-Constraint Reasoning",
+    "authors": "Ting-Chien Hwang, Fang Yu, Jie-Hong Roland Jiang",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786917",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp",
+    "authors": "Ke Mao, Timotej Kapus, Cons T Åhs, Matteo Marescotti, Daniel Ip, Ákos Hajdu, Sopot Cela, Aparup Banerjee",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786877",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "BCCE: Block-Centric GPU Co-Design for Real-Time Range-Top-K Query at Scale",
+    "authors": "Chengying Huan, Ziheng Meng, Zhengyi Yang, Yongchao Liu, Jie Zhang, Qing Wang, Jing Wang, Shaonan Ma, Zhibin Wang, Mingxing Zhang, Rong Gu, Baokun Wang, Guihai Chen, Chen Tian",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807585",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "UniEP: Unified Expert-Parallel MegaKernel MoE for LLM Training",
+    "authors": "Size Zheng, Xuegui Zheng, Li-Wen Chang, Jidong Zhai",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807818",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "CoDL: A Framework for Studying Cross-Component Interference in Deep Learning Training Pipelines",
+    "authors": "Druva Dhakshinamoorthy, Ray A. O. Sinurat, Nikoli Dryden, Arnab K. Paul, Hariharan Devarajan",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816128",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Scalability Bottlenecks in Quantum-Resilient Distributed Ledgers: A Comparative Analysis of Post-Quantum Blockchain Implementations",
+    "authors": "Tyler Earl Judd, Krish Jindal, Suleyman Uludag",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816164",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "The Energy Cost of Post-Quantum Transition: Benchmarking PQC Algorithms on Commodity Hardware",
+    "authors": "Krish Jindal, Tyler Judd, Suleyman Uludag",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816159",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Intelligent Triage: Interpretable Incident Triage Workflow using LLM Extracted Triage Reasoning",
+    "authors": "Jianing Liu, Hao Ren, Yu Kang, Minghua Ma, Fangkai Yang, Yong Xu, Xin Gao, Meng Zhang, Hongbin Wang, Xuedong Gao, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang, Qi Zhang, Chetan Bansal, Yangfan Zhou",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786887",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "\"Where is My Troubleshooting Procedure?\": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System",
+    "authors": "Maria Teresa Rossi, Leonardo Mariani, Oliviero Riganelli, Giuseppe Filomento, Danilo Giannone, Paolo Gavazzo",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786890",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "XBIDetective: Leveraging Vision Language Models for Identifying Cross-Browser Visual Inconsistencies",
+    "authors": "Balreet Grewal, James Graham, Jeff Muizelaar, Jan Odvárko, Suhaib Mujahid, Marco Castelluccio, Cor-Paul Bezemer",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786892",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Deriving and Validating Requirements Engineering Principles for Large-Scale Agile Development: An Industrial Longitudinal Study",
+    "authors": "Hina Saeeda, Mijin Kim, Eric Knauss, Jesper Thyssen, Jesper Ørting, Jesper Lysemose Korsgaard, Niels Jørgen Strøm",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786906",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Momentum-Buffered Local SGD for Zero-Payload Drift Correction in Federated Learning",
+    "authors": "Aizierjiang Aiersilan",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816238",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Expressibility, Noise, and Error Mitigation in VQE Ansatz Selection",
+    "authors": "Peter Annis, Abe Kassem, Evan Coleman",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816157",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Robust Ensemble Log Anomaly Detection for High-performance Parallel and Distributed Computing Systems",
+    "authors": "Qinxuan Shi, Zhanglong Yang, Sicong Shao",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820067",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Foiegras: Source Code Based Software Composition Analysis For C/C++ Applications",
+    "authors": "Georgios Gousios, Philip Hamer, Camilla Odlund, Leandro Melo, Joseph Hejderup, Sridhara Muniraju, Thomas Durieux",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Abstain and Validate: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair",
+    "authors": "José Cambronero, Michele Tufano, Sherry Shi, Renyao Wei, Grant Uy, Runxiang Cheng, Chin-Jung Liu, Shiying Pan, Satish Chandra, Pat Rondon",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786858",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Fixing Security Vulnerabilities with Agentic AI in OSS-Fuzz",
+    "authors": "Yuntong Zhang, Jiawei Wang, Dominic Berzin, Martin Mirchev, Abhik Roychoudhury",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786880",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "torch_cufft: Extending PyTorch FFT Capacity with Multi-GPU and Descriptor-Resident cuFFTXt Execution",
+    "authors": "Yash Malhotra, Sanmukh Kuppannagari",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818791",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Quantum Bit-Parallel Swap Matching",
+    "authors": "Simone Faro, Francesco Pio Marino, Arianna Pavone, Simone Spina, Caterina Viola",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816165",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Extracting Quantum-Ready Cores in Discrete Tomography",
+    "authors": "Simone Faro, Arianna Pavone, Cesare Valenti",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816156",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "NCCLZ: Compression-Enabled GPU Collectives with Decoupled Quantization and Entropy Coding",
+    "authors": "Jiamin Wang, Zhijing Ye, Xiaodong Yu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820073",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Opportunities and Barriers for AI-Supported Quality Planning in the Automotive Domain: An Interview Survey at Volkswagen",
+    "authors": "Henrik Waschke, Jacob Krüger, Thomas Leich",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786909",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Scaling Mobile Chaos Testing with AI-Driven Test Execution",
+    "authors": "Juan Marcano, Ashish Samant, Kai Song, Lingchao Chen, Kaelan Mikowicz, Tim Smyth, Mengdie Zhang, Ali Zamani, Arturo Bravo Rovirosa, Sowjanya Puligadda, Srikanth Prodduturi, Mayank Bansal",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786900",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Spec2Control: Automating PLC/DCS Control-Logic Engineering from Natural Language Requirements with LLMs - A Multi-Plant Evaluation",
+    "authors": "Heiko Koziolek, Thilo Braun, Virendra Ashiwal, Sofia Linsbauer, Marthe Ahlgreen Hansen, Karoline Grotterud",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786897",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786583",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Odin: Harnessing Rendering Visibility to Break Global Barriers in Distributed Point-Based Neural Rendering",
+    "authors": "Zhenxiang Ma, Zeyu He, Yuanzhen Zhou, Zhenyu Yang, Yuchang Zhang, Miao Tao, Rong Fu, Jidong Zhai, Hengjie Li",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820072",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Quantum LCS in Practice: Circuits, Optimizations, and Evaluation",
+    "authors": "Riccardo Cantone, Giuseppe Falci, Simone Faro, Luigi Giannelli, Arianna Pavone, Damiano Trovato, Caterina Viola",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816161",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "OPAL: On-demand Progressive Accelerated Scientific Lossy Compression",
+    "authors": "Longtao Zhang, Ruoyu Li, Zhuoxun Yang, Robert Underwood, Sheng Di, Daoce Wang, Jinyang Liu, Jiajun Huang, Franck Cappello, Kai Zhao",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807577",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "On the Flakiness of LLM-Generated Tests for Industrial and Open-Source Database Management Systems",
+    "authors": "Alexander Berndt, Thomas Bach, Rainer Gemulla, Marcus Kessel, Sebastian Baltes",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786919",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "STAR: Decode-Phase Rescheduling for LLM Inference",
+    "authors": "Zhibin Wang, Zetao Hong, Xue Li, Zibo Wang, Shipeng Li, Qingkai Meng, Qing Wang, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807813",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints",
+    "authors": "Yichao Yuan, Lin Ma, Nishil Talati",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807594",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "PCICF: A Pedestrian Crossing Identification and Classification Framework",
+    "authors": "Junyi Gu, Beatriz Cabrero-Daniel, Ali Nouri, Lydia Armini, Christian Berger",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786871",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "LLM-Based Automated Diagnosis Of Integration Test Failures At Google",
+    "authors": "Celal Ziftci, Ray Liu, Spencer Greene, Livio Dalloro",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786863",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Green LLM Techniques in Action: How Effective Are Existing Techniques for Improving the Energy Efficiency of LLM-Based Applications in Industry?",
+    "authors": "Pelin Rabia Kuran, Rumbidzai Chitakunye, Vincenzo Stoico, Ilja Heitlager, Justus Bogner",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786896",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "DiTango: Cost-Effective Parallel Diffusion Generation with Selective Attention State Reuse",
+    "authors": "Yuyang Chen, Runxin Zhong, Zan Zong, Hengjie Li, Yuyang Jin, Jidong Zhai",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807581",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Analysis of I/O Subsystem Utilization on the Theta Supercomputer",
+    "authors": "Hari Teja Jajula, Purushotham V Bangalore",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816124",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Accelerating high-accuracy runtime estimation in adaptive sample selection for parallel scalability analysis with reiforcement learning",
+    "authors": "Pedro Rici, Elisa Gabriela Lucena, Samuel Xavier-de-Souza",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816122",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "QProR: An Efficient Framework for Quantity-of-Interest Based Progressive Retrieval with Guaranteed Error Control",
+    "authors": "Wenbo Li, Qian Gong, Xuan Wu, Jieyang Chen, Qing Liu, Xubin He, Norbert Podhorszki, Scott Klasky, Xin Liang",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807579",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Building an LLM Gateway as an RSE: Patterns, Pitfalls, and a Case Study from Public Health Data Discovery",
+    "authors": "Pengyin Shan, Marynia Kolak",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3819570",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Pome: Parallelizing I/Os and Computations for Efficient LSM-tree-based Data Storage",
+    "authors": "Yanpeng Hu, Li Zhu, Lei Jia, Chundong Wang",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807603",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "R-Log: Incentivizing Log Analysis Capability in LLMs via Reasoning-based Reinforcement Learning",
+    "authors": "Yilun Liu, Ziang Chen, Song Xu, Minggui He, Shimin Tao, Weibin Meng, Yuming Xie, Tao Han, Chunguang Zhao, Jingzhou Du, Daimeng Wei, Shenglin Zhang, Yongqian Sun",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786913",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Eliminating Python Overhead in Predictive Neural Compression: A Native C++/LibTorch Implementation of TEZip",
+    "authors": "Mina Yousef, Amarjit Singh, Kento Sato",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816127",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Efficient Tracking of Communities on Evolving Graphs with Leiden Algorithm",
+    "authors": "Subhajit Sahu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807601",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "FluxZK: Scalable and Efficient Zero-Knowledge Proof Computation via GPU Acceleration",
+    "authors": "Xinwei Qiang, Liukun Yu, Xiyu Wang, Zhengyi Li, Shixuan Sun, Jingwen Leng, Chen Chen, Jiaping Gui, Zhenzhe Zheng, Jin Dong, Minyi Guo",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820068",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "ExCC: External Memory Connected Components on Large Graphs",
+    "authors": "Prajjwal Nijhara, Dip Sankar Banerjee",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818784",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Krysha: Cost-Efficient Resource Orchestration for Geo-Distributed Serverless Microservices",
+    "authors": "Yuqiu Zhang, Hans-Arno Jacobsen",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807589",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Scaling Attention Beyond GPUs for LLM Inference",
+    "authors": "Weishu Deng, Yujie Yang, Peiran Du, Lingfeng Xiang, Zhen Lin, Chen Zhong, Faraz Ahmed, Lianjie Cao, Puneet Sharma, Song Jiang, Hui Lu, Jia Rao",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807596",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Merkle-Tree Weight Snapshot Deduplication for Provenance-Aware Auditing of Neural Network Training",
+    "authors": "Kin Wai Ng, Francesco Antici, Nigel Tan, Befikir Bogale, Caleb Han, Florence Tama, Osamu Miyashita, Bogdan Nicolae, Michela Taufer",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807587",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "A High-Performance Persistent Transactional Memory System via Cooperative Concurrency Control",
+    "authors": "Hao Hu, Xinrui Zheng, Yizou Chen, Xiangyu Zou, Erci Xu, Hongpeng Wang, Wen Xia",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807586",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Bridging Information Theory and Practice for Scientific Lossy Compression",
+    "authors": "Sujata Sinha, Sheng Di, Vishwas Rao, Robert Underwood, David Lenz, Zizhe Jian, Zhuoxun Yang, Kai Zhao, Lingjia Liu, Franck Cappello",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3815106",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "νMG-LPA and νBM-LPA: Memory Efficient GPU-based Label Propagation Algorithms (LPA) for Community Detection",
+    "authors": "Subhajit Sahu",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807602",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "JANUS: Resilient and Adaptive Data Transmission for Enabling Timely and Efficient Cross-Facility Scientific Workflows",
+    "authors": "Vladislav Esaulov, Jieyang Chen, Norbert Podhorszki, Fred Suter, Scott Klasky, Anu G. Bourgeois, Lipeng Wan",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807590",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training",
+    "authors": "Man Liu, Xingchen Liu, Xingjian Tian, Bing Lu, Shengkai Lyu, Shengquan Yin, Wenjing Huang, Zheng Wei, Hairui Zhao, Guangming Tan, Dingwen Tao",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807584",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Graph Acceleration Techniques for Sparse Transformers",
+    "authors": "Nathaniel Tomczak",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818790",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Achieving 86% Peak GPU Throughput for Distributed QR Factorization",
+    "authors": "Ruiyi Zhan",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818781",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Less Effort, More Productivity: Lessons Learned from Developing Millions of Lines of Code with Large Language Model",
+    "authors": "Yu Duan, Daiyang Zhang, Zhiping Jiang, Zhuoyu Xie, Yiming Liu, Yueshen Xu, Rui Li, Di Cui",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "An Enterprise Marketplace for Unified Access to Multi-Cloud and Enterprise Products in a Large Banking Infrastructure",
+    "authors": "Richard Casetta, Thomas Brisbout, Jean-François Tur, Mariam Barry, Julien Veybel, Jean-Michel Garcia, Nils Gesbert, Pierre Geneves",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786914",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "DSL or Code? Evaluating the Quality of LLM-Generated Algebraic Specifications: A Case Study in Optimization at Kinaxis",
+    "authors": "Negin Ayoughi, David Dewar, Shiva Nejati, Mehrdad Sabetzadeh",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786879",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Product Manager Practices for Delegating Work to Generative AI: “Accountability must not be delegated to non-human actors”",
+    "authors": "Mara Ulloa, Jenna L. Butler, Sankeerti Haniyur, Courtney Miller, Barrett Amos, Advait Sarkar, Margaret-Anne Storey",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786849",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "UnPII: Unlearning Personally Identifiable Information with Quantifiable Exposure Risk",
+    "authors": "Intae Jeon, Yujeong Kwon, Hyungjoon Koo",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786860",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Bridging Code and Graphic: A Cross-Mode Framework for Large-Scale Network Scenario Construction",
+    "authors": "Tao Liu, Zhao Liu, Ning Hu, Jingrun Liu, Binxing Fang, Qing Liao",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786894",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Automated Software Test Generation at Industry Scale Using a Multi-Agent Architecture and Workflow Integration",
+    "authors": "Matas Rastenis, Ben Chou, Shauvik Roy Choudhary, René Just",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786918",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Correctness isn’t Efficiency: Runtime Memory Divergence in LLM-Generated Code",
+    "authors": "Prateek Kumar Rajput, Yewei Song, Abdoul Aziz Bonkoungou, Iyiola E. Olatunji, Abdoul Kader Kabore, Jacques Klein, Tegawendé F. Bissyandé",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786908",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Group-TopK: Optimizing Distributed Training on Edge Devices via Communication Compression",
+    "authors": "Yifan Wang, Xiaohui Peng, Haohao Ma, Hui Sun, Deke Guo, Boyu Diao",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3820070",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "AutoOracle: High-Quality C++ Test Oracle Generation via Data Quality-Driven and Filtering-Enabled LLMs",
+    "authors": "Cong Li, Jong-In Jang, Yuqi Zhang, Nakwon Lee, Bin Wang, Yinghua Zhang, Chanwook Kim, Jia Zhang, HyunSeok Kim, Xing He, Kangho Roh, Seongjun Ahn",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Addressing Test Flakiness: Practical Approaches in a Database-Reliant Industrial System",
+    "authors": "George Vegelien, Carolin Brandt, Bas Graaf, Arie van Deursen",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786891",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "EvoC2Rust: A Skeleton-guided Framework for Project-Level C-to-Rust Translation",
+    "authors": "Chaofan Wang, Tingrui Yu, Beijun Shen, Jie Wang, Dong Chen, Wenrui Zhang, Yuling Shi, Chen Xie, Xiaodong Gu",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786856",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "The SWE-Bench Illusion: When State-of-the-Art LLMs Remember Instead of Reason",
+    "authors": "Shanchao Liang, Spandan Garg, Roshanak Zilouchian Moghaddam",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786882",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "“Still in the Loop”: Coping with Technostress in DevOps Teams and the Impact of GenAI",
+    "authors": "Dharneeka Jeyam, Anna Wiedemann, Gerhard Schwabe, Kadircan Güney",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786899",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Challenges in Scaling R-tree Spatial Search on Processing-In-Memory",
+    "authors": "Tasmia Jannat, Michael Gowanlock, Satish Puri",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3818792",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Delta-Based Rare Pattern Discovery with Quantum Speedup",
+    "authors": "Simone Faro, Farida Farsian, Francesco Pio Marino, Gabriele Messina, Francesco Schillirò, Eva Sciacca, Fabio Vitello",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816160",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Enabling Floating Point Virtualization With Tiny Numbers",
+    "authors": "Kevin Hayes, Peter Dinda",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3807578",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Smart Paste: Automatically Fixing Copy/Paste for Google Developers",
+    "authors": "Vincent Nguyen, Guilherme Herzog, José Cambronero, Marcus Revaj, Aditya Kini, Alexander Frömmgen, Maxim Tabachnyk",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786859",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "PerFrame: Monitoring GUI Loading Performance in Mobile Apps via Semantic Distinguish",
+    "authors": "Jianing Liu, Shiyu Guo, Yongxiang Hu, Yu Zhang, Hailiang Jin, Juxing Yuan, Yangfan Zhou, Xin Wang",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786886",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Understanding Task Enjoyment in Software Development: A Mixed-Methods Study on Practitioners From Poland and Brazil",
+    "authors": "Klara Borowa, Bartłomiej Rasztabiga, Hubert Soroka, Maciej Tymoftyjewicz, Rodrigo Rebouças de Almeida",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786884",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "What Does Explainable AI Mean in Practice? Evaluative Requirements from a Longitudinal Clinical Case Study",
+    "authors": "Tor Sporsem, Stine Rasdal Finserås, Lars Adde, Inga Strümke",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786889",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Developers’ Experience with Generative AI - First Insights from an Empirical Mixed-Methods Field Study",
+    "authors": "Charlotte Brandebusemeyer, Tobias Schimmer, Bert Arnrich",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786870",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Fault Tolerance of Accelerated Asynchronous Fixed-Point Iterations on Flexible Computing Infrastructure",
+    "authors": "Evan Coleman, Masha Sosonkina",
+    "publish": "Proceedings of the 35th International Symposium on High-Performance Parallel and Distributed Computing",
+    "url": "https://doi.org/10.1145/3806645.3816236",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-11",
+    "title": "Vibe Coding in Practice: Motivations, Challenges, and a Future Outlook – a Grey Literature Review",
+    "authors": "Ahmed Fawzy, Amjed Tahir, Kelly Blincoe",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice",
+    "url": "https://doi.org/10.1145/3786583.3786866",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
