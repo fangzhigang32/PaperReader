@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2026-7-13",
+    "title": "Single-Stage Graph-Based Floorplan Generation",
+    "authors": "Yusuke Takeuchi, Qi An, Atsushi Yamashita",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3712766",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于图的单阶段平面图生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "High-Level Synthesis Based DDR4 Memory Controller with Refresh-Aware Optimization for FPGA Systems",
+    "authors": "R Abinav, S N Harini, Alif Muhammed Khan H S, Abhishek Narayan Tripathi, Vikas Vijayvargiya",
+    "publish": "2026 International Conference on Next Generation Electronics (NELEX)",
+    "url": "https://doi.org/10.1109/nelex69209.2026.11590593",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于高层次综合的面向FPGA系统的刷新感知优化DDR4内存控制器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "On the Role and Impact of GenAI Tools in Software Engineering Education",
+    "authors": "Qiaolin Qin, Ronnie de Souza Santos, Rodrigo Spinola",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering",
+    "url": "https://doi.org/10.1145/3786580.3786965",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "论生成式AI工具在软件工程教育中的作用与影响",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Automating Vulnerability Assessment Using a Machine Learning Framework for CVSS Scoring",
+    "authors": "Novruz Amirov, Nahid Aliyev, Emil Huseynov, Şerif Bahtiyar",
+    "publish": "2026 IEEE International Black Seas Conference on Communications and Networking (BlackSeaCom)",
+    "url": "https://doi.org/10.1109/blackseacom69760.2026.11598324",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用机器学习框架自动化漏洞评估以进行CVSS评分",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "DOTA: Intelligent Debugging with\n                    <u>D</u>\n                    elta\n                    <u>o</u>\n                    f\n                    <u>T</u>\n                    houghts\n                    <u>A</u>\n                    gents",
+    "authors": "Rui Yang, Rajiv Gupta, Qian Zhang, Ashish Kundu",
+    "publish": "ACM SIGOPS Operating Systems Review",
+    "url": "https://doi.org/10.1145/3830422.3830424",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "DOTA：使用思维增量代理进行智能调试",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Formal verification of PKMv3 Protocol using ProVerif",
+    "authors": "Sohaib Hamioud, Noureddine Seddari, Abdelouahid Derhab, Eleonora Bottani, Piera Centobelli",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3712810",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用ProVerif对PKMv3协议的形式化验证",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Implementation of the SIMON Lightweight Cipher Hardware Accelerator on RISC V",
+    "authors": "Jaydeep Mahato, V Nithish Kumar, Vikas Vijayvargiya",
+    "publish": "2026 International Conference on Next Generation Electronics (NELEX)",
+    "url": "https://doi.org/10.1109/nelex69209.2026.11590279",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于RISC V的SIMON轻量级密码硬件加速器的实现",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Enhancing Debugging Skills With AI-Powered Assistance: A Real-Time Tool for Debugging Support",
+    "authors": "Elizaveta Artser, Daniil Karol, Anna Potriasaeva, Aleksei Rostovskii, Katsiaryna Dzialets, Ekaterina Koshchenko, Xiaotian Su, April Yi Wang, Anastasiia Birillo",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering",
+    "url": "https://doi.org/10.1145/3786580.3786976",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "借助AI驱动辅助提升调试技能：一个实时调试支持工具",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "VTR-LLM: Multi-Agent LLM Framework for Automated Debugging of FPGA CAD Flows",
+    "authors": "Mohamed A. Elgammal, Jamie Wu, Lynne Liu, Taehoon Kim, Vaughn Betz",
+    "publish": "ACM Transactions on Reconfigurable Technology and Systems",
+    "url": "https://doi.org/10.1145/3829373",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "VTR-LLM：用于FPGA CAD流程自动调试的多智能体大语言模型框架",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "AI-Driven Software Development: A New Course Concept and Assessment Model for the Era of Large Language Models",
+    "authors": "Benedikt Fein, Gordon Fraser, Steffen Herbold",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering",
+    "url": "https://doi.org/10.1145/3786580.3786962",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AI驱动的软件开发：面向大语言模型时代的新课程概念与评估模型",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "A CNN-Based Technique to Assist Layout-to-Generator Conversion for Analog Circuits",
+    "authors": "Sungyu Jeong, Minsu Kim, Byungsub Kim",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3830471",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于CNN的辅助模拟电路版图到生成器转换技术",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Channel-Aware Behavioral Power Modeling of CMOS OOK Transceivers for Wireless Network-on-Chip Systems",
+    "authors": "Mohammad Shahmoradi, Ahmet Yelboğa, Eduard Alarcón, Korkut Kaan Tokgöz, Sergi Abadal",
+    "publish": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "url": "https://doi.org/10.1109/tcsi.2026.3709114",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "针对无线片上网络系统的CMOS OOK收发器信道感知行为功率建模",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "ASIC Design Flow Optimization Using Jenkins CI/CD with ML-Based Constraint Generation",
+    "authors": "M Varsha, M Srikar, M Madhushankara, H Muralikrishna, H V Sreepathy, Ribu Mathew",
+    "publish": "2026 International Conference on Next Generation Electronics (NELEX)",
+    "url": "https://doi.org/10.1109/nelex69209.2026.11590260",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "ASIC设计流程优化：使用Jenkins CI/CD与基于机器学习的约束生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Explainable AI-Driven Metrics for Transparent Software Quality Prediction",
+    "authors": "Abdulaziz Attaallah, Khalil Al Sulbi",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3712592",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "可解释AI驱动的透明软件质量预测指标",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Security Aware Machine Learning for PQC Hardware Design",
+    "authors": "G Prabakaran, Parameswaran Ramesh, N Vidhya, Sanjeetha Gowthaman, P T V Bhuvaneswari, J Bino",
+    "publish": "2026 International Conference on Next Generation Electronics (NELEX)",
+    "url": "https://doi.org/10.1109/nelex69209.2026.11590040",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向PQC硬件设计的安全感知机器学习",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "A Multi-Stage Adversarial Framework for Compact and Effective Jailbreaking of Large Language Models",
+    "authors": "Wenxiao Liu, Zhiquan Liu, Chong Xu, Chaozhuo Li, Jingjing Guo, Jianfeng Ma, Feiran Huang",
+    "publish": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "https://doi.org/10.1109/tdsc.2026.3712350",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种面向大型语言模型紧凑高效越狱的多阶段对抗框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3786580",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "IEEE/ACM第48届国际软件工程会议论文集",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Beyond the Prompt: How Novices Engage with AI During Code Summarization",
+    "authors": "Suad Mohamed, Abdullah Parvin, Najma Ismail, Kimberly Amaya, Esteban Parra, Michael Oliver",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering",
+    "url": "https://doi.org/10.1145/3786580.3786961",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "超越提示：新手在代码摘要过程中如何与AI互动",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "Heuristic Static RTL Analysis for Pre-Silicon Design Quality Assurance: A Zero-Dependency Python-Based Approach",
+    "authors": "S Pranesh, S Yashwanth Prasad, Hazel Elsa Thomas, N. Kalaiselvan",
+    "publish": "2026 International Conference on Next Generation Electronics (NELEX)",
+    "url": "https://doi.org/10.1109/nelex69209.2026.11590789",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于预硅设计质量保证的启发式静态RTL分析：一种零依赖的基于Python的方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "BBOPlace-Bench: Benchmarking Black-Box Optimization for Chip Placement",
+    "authors": "Ke Xue, Ruo-Tong Chen, Rong-Xi Tan, Xi Lin, Yunqi Shi, Siyuan Xu, Mingxuan Yuan, Chao Qian",
+    "publish": "IEEE Transactions on Evolutionary Computation",
+    "url": "https://doi.org/10.1109/tevc.2026.3712410",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "BBOPlace-Bench：芯片布局黑盒优化基准测试",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-13",
+    "title": "AI-Assisted Code Review as a Scaffold for Code Quality and Self-Regulated Learning: An Experience Report",
+    "authors": "Eduardo Oliveira, Michael Fu, Patanamon Thongtanunam, Sonsoles López-Pernas, Mohammed Saqr",
+    "publish": "Proceedings of the IEEE/ACM 48th International Conference on Software Engineering",
+    "url": "https://doi.org/10.1145/3786580.3786956",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AI辅助代码审查作为代码质量和自我调节学习的脚手架：一份经验报告",
+    "abstract_zh": "无"
+  }
+]
