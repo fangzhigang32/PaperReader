@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-7-18",
+    "title": "Measure Twice, Locate Once: Mitigating Hallucinations in LLM-based Agents for Repository-Scale Fault Localization",
+    "authors": "Feiyue Chen, Guowei Yang, Cheryl Lee, Zhanming Jie, Yuqi Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3831589",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "量两次，定一次：缓解基于LLM的代理在仓库级故障定位中的幻觉",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-18",
+    "title": "Cohort: Multiple Coverage Guided Greybox Fuzzing",
+    "authors": "Xu Chen, Zhe Pan, Ruomin Fang, He Wang, Wenhao Cui, Liwei Chen, Gang Shi, Chun Yang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3830404",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "群体：多覆盖引导的灰盒模糊测试",
+    "abstract_zh": "无"
+  }
+]
