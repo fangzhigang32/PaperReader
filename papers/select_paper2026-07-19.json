@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2026-7-20",
+    "title": "Accelerating Large Language Models: A Hardware Perspective",
+    "authors": "S. V. Viraktamath, Chandana S Mirajkar, Shashank Kavali",
+    "publish": "2025 IEEE Conference on Engineering Informatics (ICEI)",
+    "url": "https://doi.org/10.1109/icei68356.2025.11603726",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "加速大型语言模型：硬件视角",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Intelligent Detection Plan Generation via Integrated Imitation and Reinforcement Learning",
+    "authors": "Shuyu Guo, Jiangtao Lv, Xinlong Tao",
+    "publish": "2026 2nd International Conference on Artificial Intelligence and Digital Ethics (ICAIDE)",
+    "url": "https://doi.org/10.1109/icaide69370.2026.11604507",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于集成模仿与强化学习的智能检测方案生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "TiCo-Route: A Timing-Congestion Co-Optimization Global Routing Framework",
+    "authors": "Hongxi Wu, Xingquan Li, Bei Yu, Wenxing Zhu",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3715075",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "TiCo-Route：一种时序-拥塞协同优化的全局布线框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead",
+    "authors": "Chengjie Lu, Pablo Valle, Jiahui Wu, Erblin Isaku, Hassan Sartaj, Aitor Arrieta, Shaukat Ali",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3830403",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "信息物理系统软件工程的基础模型：未来之路",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "A Comprehensive Survey of Generative AI: Applications and Future Directions Across Domains",
+    "authors": "Amir Javadpour, Forough Ja’fari, Tarik Taleb, Chafika Benzaïd",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3715238",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "生成式人工智能全面综述：跨领域的应用与未来方向",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Software Self-Extension with SelfEvolve: an Agentic Architecture for Runtime Code Generation",
+    "authors": "Md Asif Iqbal Fahim, Oluwadamilola Adebayo, Alessio Ferrari",
+    "publish": "Proceedings of the 21st International Conference on Software Engineering for Adaptive and Self-Managing Systems",
+    "url": "https://doi.org/10.1145/3788550.3794870",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "软件自我扩展与SelfEvolve：一种用于运行时代码生成的智能体架构",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Harnessing Coding Agents for Migration",
+    "authors": "Andrei Homescu, Nicole LeGare, Stuart Pernsteiner, Mike Dodds, Per Larsen",
+    "publish": "IEEE Security &amp; Privacy",
+    "url": "https://doi.org/10.1109/msec.2026.3710913",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "利用编码代理进行迁移",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Runtime Self-Optimization Through Knowledge-Driven Design Space Reduction",
+    "authors": "Luca Brodo, Giuseppe Scalora, Stefan Henkler",
+    "publish": "Proceedings of the 21st International Conference on Software Engineering for Adaptive and Self-Managing Systems",
+    "url": "https://doi.org/10.1145/3788550.3794861",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过知识驱动的设计空间缩减实现运行时自我优化",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "A Simulation Study of Static Noise Margin and Read Static Noise Margin in 6T-SRAM Cell With TSMC Advanced Technology Nodes",
+    "authors": "Bohong Yang",
+    "publish": "2026 International Conference on Electrical, Control and Information Technology (ECITech)",
+    "url": "https://doi.org/10.1109/ecitech69277.2026.11601856",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "采用台积电先进工艺节点的6T-SRAM单元中静态噪声容限和读取静态噪声容限的仿真研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Analog Circuit Representation Learning Informed by Kirchhoff’s Current Law",
+    "authors": "Yapeng Li, Peng Xu, Mingzhen Li, Tsung-Yi Ho, Bei Yu, Tinghuan Chen",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3715070",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于基尔霍夫电流定律的模拟电路表示学习",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Detecting Confusion Comments with LLMs",
+    "authors": "Wejden Hammami, Marouene Chaieb, Houda Korbi, Hassine Kooli, Moataz Chouchen",
+    "publish": "2026 Intelligence in Business and Industry (IBI)",
+    "url": "https://doi.org/10.1109/ibi68858.2026.11604063",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "利用大语言模型检测困惑评论",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Meta-heuristic Adaptive Exploration Strategy Through Routing Optimization",
+    "authors": "Ahd Mostafa, Amr Hegazy, Fathy Metwally, Mohamed Wael, Yousef Elbrolosy, Ziad Abdelrahman, Abdelrahman Y. Altaher, Omar M. Shehata",
+    "publish": "2026 ICEENG International Conference for Innovations in Power and Control Systems (IPCS)",
+    "url": "https://doi.org/10.1109/ipcs69631.2026.11604330",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过路由优化的元启发式自适应探索策略",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "DeepChatAFL: Research on Protocol Fuzz Testing Method Assisted by Large Models",
+    "authors": "Ziyan Xiao, Kechang Qian, Dapeng Xiong, Yu Wang, Huang Yan",
+    "publish": "2026 2nd International Conference on Communication, Remote Sensing and Information Technology (CRSIT)",
+    "url": "https://doi.org/10.1109/crsit69981.2026.11605347",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DeepChatAFL: 大模型辅助的协议模糊测试方法研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "MA-PTC: Task-Aware Meta-Learning for Few-Shot Hardware Trojan Detection",
+    "authors": "Senjie Zhang, Xuming Liu, Shan Zhou, Jinbo Wang",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3715072",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "MA-PTC：任务感知元学习用于少样本硬件木马检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-20",
+    "title": "Research on Security Vulnerability Patterns of Code Generated by Large Language Models",
+    "authors": "Juan Wang, Yadong Zhou, Di Guo, Xueli Jia, Shuqin Li, Dong Xu, Haiping Zhang",
+    "publish": "2026 IEEE 3rd International Conference on Electronics, Communications and Intelligent Science (ECIS)",
+    "url": "https://doi.org/10.1109/ecis69634.2026.11604380",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "大型语言模型生成的代码的安全漏洞模式研究",
+    "abstract_zh": "None"
+  }
+]
