@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2026-7-24",
+    "title": "Physics Information Neural Network-based High-Fidelity Thermal Modeling of Through Silicon Via",
+    "authors": "Jiaming Su, Yunqi Yang, Dongdong Chen, Di Li, Yi Liu, Yintang Yang",
+    "publish": "IEEE Transactions on Components, Packaging and Manufacturing Technology",
+    "url": "https://doi.org/10.1109/tcpmt.2026.3716978",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于物理信息神经网络的硅通孔高保真热建模",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Code Reuse Detection Model for Semantic Similarity Comparison",
+    "authors": "Xi Guo, Wang Pan",
+    "publish": "2024 International Conference on Quantum Information and Quantum Computing (QIQC)",
+    "url": "https://doi.org/10.1109/qiqc63873.2024.00022",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于语义相似度比较的代码复用检测模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Impact of Refactoring Architectural Smells on Quality, Security, and Performance Metrics",
+    "authors": "Francesca Arcelli Fontana, Mattia Milanese, Francesco Refolli, Catia Trubiani",
+    "publish": "2026 IEEE 23rd International Conference on Software Architecture (ICSA)",
+    "url": "https://doi.org/10.1109/icsa66085.2026.00027",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "重构架构坏味对质量、安全性和性能指标的影响",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Neural Coding as Software Engineering Augmentation, Not Abdication",
+    "authors": "Somdip Dey",
+    "publish": "Communications of the ACM",
+    "url": "https://doi.org/10.1145/3779310",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "神经编码：软件工程的增强，而非放弃",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "CIAO - Code In Architecture Out - Automated Software Architecture Documentation with Large Language Models",
+    "authors": "Marco De Luca, Tiziano Santilli, Domenico Amalfitano, Anna Rita Fasolino, Patrizio Pelliccione",
+    "publish": "2026 IEEE 23rd International Conference on Software Architecture (ICSA)",
+    "url": "https://doi.org/10.1109/icsa66085.2026.00026",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CIAO - 从代码到架构：基于大语言模型的自动软件架构文档生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Design and System Level Validation of a Truth Table Synthesized 18 Transistor Full Adder for Binary Accumulation Application",
+    "authors": "Yatham Srinivas, Orus Lalitha, Avireni Srinivasulu, Bhargav Appasani, Cristian Ravariu",
+    "publish": "2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "url": "https://doi.org/10.1109/ecai69016.2026.11613780",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于二进制累加应用的真值表综合18晶体管全加器的设计与系统级验证",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "LLM-based Automated Architecture View Generation: Where Are We Now?",
+    "authors": "Miryala Sathvika, Rudra Dhar, Karthik Vaidhyanathan",
+    "publish": "2026 IEEE 23rd International Conference on Software Architecture (ICSA)",
+    "url": "https://doi.org/10.1109/icsa66085.2026.00031",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型的自动化架构视图生成：我们目前处于何处？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "OptiCode: An AI-Powered Intelligent Code Analysis Platform for Enhancing Computer Science Education",
+    "authors": "Haritha Himansha, Thilina Sandamal, Sanjeevi Chandrasiri, Navinda Viraj, Ashani Hettiarachchi, Lokesha Weerasinghe",
+    "publish": "2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "url": "https://doi.org/10.1109/ecai69016.2026.11613809",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "OptiCode：一个基于AI的智能代码分析平台，旨在增强计算机科学教育",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Evaluating Large Language Models for Detecting Architectural Decision Violations",
+    "authors": "Ruoyu Su, Alexander Bakhtin, Noman Ahmad, Matteo Esposito, Valentina Lenarduzzi, Davide Taibi",
+    "publish": "2026 IEEE 23rd International Conference on Software Architecture (ICSA)",
+    "url": "https://doi.org/10.1109/icsa66085.2026.00007",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "评估大语言模型在检测架构决策违例方面的表现",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Progress-Guided Test Generation for C-to-Rust Transpilation: Effectiveness and Limitations",
+    "authors": "Jingyuan Chen, Amit Levy",
+    "publish": "IEEE Security &amp; Privacy",
+    "url": "https://doi.org/10.1109/msec.2026.3710378",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向C到Rust转译的进度引导测试生成：有效性与局限性",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Efficient Coverage Area Prediction via Weight-Sharing 1D Residual U-Net with SE-Blocks",
+    "authors": "Uğur Erbaş, Tahir Bekiryazici, Gürkan Aydemir, Mehmet Barış Tabakcioğlu",
+    "publish": "2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "url": "https://doi.org/10.1109/ecai69016.2026.11613772",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过权重共享一维残差U-Net与SE模块的高效覆盖区域预测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Structured Knowledge for Complex Domains: A Generative AI Pipeline for Software-Defined Vehicle Application Development",
+    "authors": "Xiangwei Cheng, Ioanna Karagianni, Dominik Morar, Dirk Slama",
+    "publish": "2026 International Conference on Smart Mobility (SM)",
+    "url": "https://doi.org/10.1109/sm69703.2026.11614146",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "复杂领域的结构化知识：面向软件定义车辆应用开发的生成式AI流水线",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Comparison of Human and Artificial Intelligence-Assisted Code Review: An Exploratory Case Study on Efficiency, Accuracy, and Practical Impact",
+    "authors": "Ovidiu Constantin Novac, Cornelia-Mihaela Novac, Larisa-Maria Borlea, Laura Christiana Simionescu Dobrescu, Adrian-Alexandru Tulbure, Radu Sebesan",
+    "publish": "2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "url": "https://doi.org/10.1109/ecai69016.2026.11613769",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "人类与人工智能辅助代码审查的比较：关于效率、准确性和实际影响的探索性案例研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "LLMs for Architectural Refactoring: An Exploratory Study on Monoliths to Microservices",
+    "authors": "Aneesh Sambu, Roberta Capuano, Eoan O’Dea, Karthik Vaidhyanathan, Henry Muccini",
+    "publish": "2026 IEEE 23rd International Conference on Software Architecture (ICSA)",
+    "url": "https://doi.org/10.1109/icsa66085.2026.00033",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向架构重构的大型语言模型：从单体到微服务的探索性研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Text-to-SQL via Model Context Protocol: Structured Context Orchestration for Reliable Database Query Generation",
+    "authors": "Guocang Yang, Victor Junqiu Wei, Yinggang Ling, Tao Zhang",
+    "publish": "IEEE Transactions on Knowledge and Data Engineering",
+    "url": "https://doi.org/10.1109/tkde.2026.3716724",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过模型上下文协议的文本转SQL：结构化上下文编排实现可靠的数据库查询生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Architecture in the Cradle: Early Warning of Architectural Decay with ArchGuard",
+    "authors": "Haoyu Liu, Dominik Fuchß, Sophie Corallo, Maximilian Hummel, Jan Keim, Tobias Hey",
+    "publish": "2026 IEEE 23rd International Conference on Software Architecture (ICSA)",
+    "url": "https://doi.org/10.1109/icsa66085.2026.00011",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "摇篮中的架构：使用ArchGuard的架构腐化早期预警",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "GBC: GameScript Generation Using BERT Classification : Enhancing Interactive Narratives with LLM",
+    "authors": "Jiahua Zhang",
+    "publish": "2024 International Conference on Quantum Information and Quantum Computing (QIQC)",
+    "url": "https://doi.org/10.1109/qiqc63873.2024.00033",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "GBC：基于BERT分类的游戏脚本生成——利用LLM增强交互式叙事",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "ZeroGuard: A Multi-Agent Zero-Trust Framework for Autonomous IaC Security Remediation",
+    "authors": "Harish Apuri, Shikher Goel, Madhan Mohan Reddy Chinthala, Charani Yepuri",
+    "publish": "2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "url": "https://doi.org/10.1109/ecai69016.2026.11613725",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "ZeroGuard：面向自主IaC安全修复的多智能体零信任框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Vibe Coding: A New Paradigm in Software Development Assisted by Artificial Intelligence",
+    "authors": "Mihnea Neferu, Constantin Viorel Marian, Dan Alexandru Mitrea",
+    "publish": "2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "url": "https://doi.org/10.1109/ecai69016.2026.11613779",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Vibe Coding：人工智能辅助软件开发的新范式",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Can AI Agents Generate Microservices? How Far are We?",
+    "authors": "Bassam Adnan, Matteo Esposito, Davide Taibi, Karthik Vaidhyanathan",
+    "publish": "2026 IEEE 23rd International Conference on Software Architecture (ICSA)",
+    "url": "https://doi.org/10.1109/icsa66085.2026.00008",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AI代理能否生成微服务？我们进展如何？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-24",
+    "title": "Efficient Repair of Confidentiality Violations in Software Architectures",
+    "authors": "Nils Niehues, Benjamin Arp, Robert Heinrich",
+    "publish": "2026 IEEE 23rd International Conference on Software Architecture (ICSA)",
+    "url": "https://doi.org/10.1109/icsa66085.2026.00013",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "软件架构中机密性违规的高效修复",
+    "abstract_zh": "None"
+  }
+]
