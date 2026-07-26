@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-7-25",
+    "title": "Optimal Lattice Boltzmann Closures through Multi-Agent Reinforcement Learning",
+    "authors": "Paul Fischer, Sebastian Kaltenbach, Sergey Litvinov, Sauro Succi, Petros Koumoutsakos",
+    "publish": "ACM Transactions on AI for Science",
+    "url": "https://doi.org/10.1145/3822504",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "The Challenge of Multi-Organ Crosstalk Research",
+    "authors": "Jan Pennekamp, Johannes Lohmöller, Zhuojun Wu, Kjong-Van Lehmann, Holger Hoos, Joachim Jankowski, Leif Kobbelt, Klaus Wehrle, Michael T. Schaub",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3833379",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "Knowledge Discovery from Urban Trajectory Data: A Survey",
+    "authors": "Isadora Cardoso P. Silva, Lailla Bine, Joao B Borges, Aline Carneiro Viana, Heitor S Ramos, Antonio Loureiro",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3833869",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "Tile-Level Multipath Content-aware Live Video Streaming",
+    "authors": "Shubham Chaudhary, Aruba Sood, Navneet Mishra, Keshav Gambhir, Arani Bhattacharya, Mukulika Maity",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3833392",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "A Survey of Graph Transformers: Architectures, Theories and Applications",
+    "authors": "Chaohao Yuan, Kangfei Zhao, Ercan Kuruoglu, Liang Wang, Tingyang Xu, Wenbing Huang, Deli Zhao, Hong Cheng, Yu Rong",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3834764",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "Causal-Invariant Cross-Domain Out-of-Distribution Recommendation",
+    "authors": "Jiajie Zhu, Yan Wang, Feng Zhu, Pengfei Ding, Hongyang Liu, Zhu Sun",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3831677",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "HiDiNet: High-Dimensional Interpretive Network for Modeling Aging Health and Survival",
+    "authors": "Hannah Guan, Aashish Dhanani, Yu Zhang",
+    "publish": "Digital Government: Research and Practice",
+    "url": "https://doi.org/10.1145/3833874",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum",
+    "authors": "Xiaohan Zhang, Kan Liu, Yangle Liu, Fengze Li, Jieming Ma, Yue Li",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3833413",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "Compositional Security Enforcement of Timed Properties for Cyber Physical Systems",
+    "authors": "Ayush Anand, Loïc Guizouarn, Thierry Jéron, Srinivas Pinisetty, Ocan Sankur",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3834562",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "D\n                    <sup>3</sup>\n                    MBR: Dual-Level Diffusion Denoiser with Preference Guidance for Multi-Behavior Recommendation",
+    "authors": "Yangtao Zhou, Xiangming Li, Jianan Li, Jialong Han, Hua Chu, Yutang Liu, Qingshan Li",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3831676",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-7-25",
+    "title": "Multi-Level Semantic-Guided Framework for Cloth-Changing Person Re-Identification",
+    "authors": "Shijuan Huang, Hefei Ling, Zongyi Li, Xu Li, Yuxuan Shi",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3831251",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

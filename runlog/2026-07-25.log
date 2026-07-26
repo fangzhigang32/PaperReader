@@ -1,0 +1,36 @@
+[2026-07-26 22:58:41] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-07-25
+正在获取论文...
+[ACM] 2026-7-25 | Optimal Lattice Boltzmann Closures through Multi-Agent Reinforcement Learning
+[ACM] 2026-7-25 | The Challenge of Multi-Organ Crosstalk Research
+[ACM] 2026-7-25 | Knowledge Discovery from Urban Trajectory Data: A Survey
+[ACM] 2026-7-25 | Tile-Level Multipath Content-aware Live Video Streaming
+[ACM] 2026-7-25 | A Survey of Graph Transformers: Architectures, Theories and Applications
+[ACM] 2026-7-25 | Causal-Invariant Cross-Domain Out-of-Distribution Recommendation
+[ACM] 2026-7-25 | HiDiNet: High-Dimensional Interpretive Network for Modeling Aging Health and Survival
+[ACM] 2026-7-25 | EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum
+[ACM] 2026-7-25 | Compositional Security Enforcement of Timed Properties for Cyber Physical Systems
+[ACM] 2026-7-25 | D
+                    <sup>3</sup>
+                    MBR: Dual-Level Diffusion Denoiser with Preference Guidance for Multi-Behavior Recommendation
+[ACM] 2026-7-25 | Multi-Level Semantic-Guided Framework for Cloth-Changing Person Re-Identification
+共写入 11 条记录，保存到 papers/paper2026-07-25.json。
+论文获取成功，文件路径: papers/paper2026-07-25.json
+正在筛选、翻译并发送邮件...
+[NO] 1/11 | Optimal Lattice Boltzmann Closures through Multi-Agent Reinforcement Learning
+[NO] 2/11 | The Challenge of Multi-Organ Crosstalk Research
+[NO] 3/11 | Knowledge Discovery from Urban Trajectory Data: A Survey
+[NO] 4/11 | Tile-Level Multipath Content-aware Live Video Streaming
+[NO] 5/11 | A Survey of Graph Transformers: Architectures, Theories and Applications
+[NO] 6/11 | Causal-Invariant Cross-Domain Out-of-Distribution Recommendation
+[NO] 7/11 | HiDiNet: High-Dimensional Interpretive Network for Modeling Aging Health and Survival
+[NO] 8/11 | EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum
+[NO] 9/11 | Compositional Security Enforcement of Timed Properties for Cyber Physical Systems
+[NO] 10/11 | D
+                    <sup>3</sup>
+                    MBR: Dual-Level Diffusion Denoiser with Preference Guidance for Multi-Behavior Recommendation
+[NO] 11/11 | Multi-Level Semantic-Guided Framework for Cloth-Changing Person Re-Identification
+筛选完成：共 11 篇；Yes = 0 篇；已保存到 papers/select_paper2026-07-25.json。
+邮件发送成功！
+[2026-07-26 23:00:02] 任务执行成功！
