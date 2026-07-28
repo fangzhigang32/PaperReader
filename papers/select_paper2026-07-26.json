@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2026-7-27",
+    "title": "Leveraging Large Language Model Agents for Autonomous Software Testing and Intelligent Automation",
+    "authors": "Rama Krishna Reddy Arumalla",
+    "publish": "2026 5th International Conference on Computer Networks, Big Data and IoT (ICCBI)",
+    "url": "https://doi.org/10.1109/iccbi68589.2026.11619891",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "利用大型语言模型智能体进行自主软件测试与智能自动化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "Software Defect Prediction Model Based on XGBoost with Recursive Feature Elimination",
+    "authors": "Runfeng Guo, Yu Li, Jiaqi Chen, Yutian Zeng, Yuxuan Li, Jiasui Huang",
+    "publish": "2026 International Conference on Computer Intelligence and Software Engineering (CICSE)",
+    "url": "https://doi.org/10.1109/cicse70286.2026.11620648",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于递归特征消除的XGBoost软件缺陷预测模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "Lightweight Large Model Adaptation Edge Terminal Malicious Code Real-time Detection and Dynamic Defense System",
+    "authors": "Deqiang Wu",
+    "publish": "2026 International Conference on Computer Intelligence and Software Engineering (CICSE)",
+    "url": "https://doi.org/10.1109/cicse70286.2026.11621012",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "轻量级大模型适配边缘终端恶意代码实时检测与动态防御系统",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "RefactorCoderQA: Benchmarking LLMs for Multi-Domain Coding Question Solutions in Cloud and Edge Deployment",
+    "authors": "Shadikur Rahman, Aroosa Hameed, Gautam Srivastava, Syed Muhammad Danish",
+    "publish": "IEEE Transactions on Services Computing",
+    "url": "https://doi.org/10.1109/tsc.2026.3717248",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "RefactorCoderQA: 面向云端与边缘部署的多领域编程问题解决方案的大语言模型基准测试",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "LGLP: A Timing Constraint-Aware Logic-Guided Library Pruning Framework for Efficient Exploration of the Synthesis Pareto Frontier",
+    "authors": "Bo Wu, Yuxuan Qin, Hao Zhang, Lin Li, Weifeng He",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3717177",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "LGLP: 一种时序约束感知的逻辑引导库剪枝框架，用于高效探索综合帕累托前沿",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "Research on Construction Method of Evaluation Dataset for Civil Aircraft Onboard Software Large Language Models",
+    "authors": "Shuqin Yan, Yijiu Zou, Jinghua Sun, Yige Zhao, Rongtai Yang, Kexi Huang",
+    "publish": "Proceedings of the 2026 5th International Conference on Networks, Communications and Information Technology",
+    "url": "https://doi.org/10.1145/3821162.3821178",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "民用飞机机载软件大语言模型评估数据集构建方法研究",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "A Data-Efficient and Multiobjective Framework for Stitching via Optimization in PCB Layouts",
+    "authors": "Haifeng Hu, Xinglong Wu, Flavia Grassi, Sergio A. Pignari",
+    "publish": "IEEE Transactions on Electromagnetic Compatibility",
+    "url": "https://doi.org/10.1109/temc.2026.3711690",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种数据高效的多目标框架，用于PCB布局中的优化缝合",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "AI-Driven Code Quality Assessment Model and Implementation for Complex Power Grid Software Systems",
+    "authors": "Wenlong Zhang",
+    "publish": "2026 International Conference on Computer Intelligence and Software Engineering (CICSE)",
+    "url": "https://doi.org/10.1109/cicse70286.2026.11621056",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "人工智能驱动的复杂电网软件系统代码质量评估模型及实现",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "DeckerPlus: Whole Program Attack Surface Reduction via Compiler Analysis  and Transformations",
+    "authors": "Alexandra Hussar, Sharjeel Khan, Christopher Porter, Santosh Pande",
+    "publish": "ACM Transactions on Privacy and Security",
+    "url": "https://doi.org/10.1145/3833877",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "DeckerPlus: 通过编译器分析和变换实现全程序攻击面缩减",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "Automated Sizing of Cascode Compensated Amplifiers via Adaptive Genetic Algorithms",
+    "authors": "Guilherme Faias, João Balancho, Rui Tavares",
+    "publish": "2026 10th International Young Engineers Forum on Electrical and Computer Engineering (YEF-ECE)",
+    "url": "https://doi.org/10.1109/yef-ece70590.2026.11614631",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "采用自适应遗传算法的共源共栅补偿放大器自动尺寸设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "Compact Model of Filament-Free Bulk RRAM",
+    "authors": "Yucheng Zhou, Yue Zhou, Ashwani Kumar, Fengyi Sun, Yu-Hwa Lo, Ertugrul Cubukcu, Duygu Kuzum",
+    "publish": "IEEE Transactions on Electron Devices",
+    "url": "https://doi.org/10.1109/ted.2026.3714752",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "无细丝体RRAM紧凑模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "LibTimer: Addressing Library Evolution in Pre-Routing Timing Prediction via Continuous Library Representation",
+    "authors": "Yuhao Ji, Jiaxi Jiang, Siting Liu, Yifan Shi, Yuntao Lu, Peng Xu, Xinyun Zhang, Ziyi Wang, Yibo Lin, Bei Yu",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3717175",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "LibTimer: 通过连续库表示应对预布线时序预测中的库演化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "Research on Key Technologies for Power Grid Operation Process Modeling and Automated Execution Based on Low-Code Platforms",
+    "authors": "Jing Wu",
+    "publish": "2026 International Conference on Computer Intelligence and Software Engineering (CICSE)",
+    "url": "https://doi.org/10.1109/cicse70286.2026.11620995",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于低代码平台的电网运行过程建模与自动化执行关键技术研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "Bridging Semiconductor Technology and Deep Learning Models: From Architectures to Domain-Specific Challenges",
+    "authors": "Man Luo, Yang Zhou, Wenbo Jiao, Yi Ma, Jintong Xu, Chenhui Yu",
+    "publish": "IEEE Journal of the Electron Devices Society",
+    "url": "https://doi.org/10.1109/jeds.2026.3717559",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "桥接半导体技术与深度学习模型：从架构到领域特定挑战",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "CAP: Detecting Network Device Misconfigurations with Context-Aware Prompting of LLMs",
+    "authors": "Xi Jiang, Aaron Gember-Jacobson, Nick Feamster",
+    "publish": "ACM SIGMETRICS Performance Evaluation Review",
+    "url": "https://doi.org/10.1145/3820171.3806917",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CAP：基于上下文感知提示的大语言模型检测网络设备配置错误",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "MATT: Cycle-Aware Parallel Regression Testing for Model-Generated Embedded Software",
+    "authors": "Dehao Lu, Yidan Ding, Linghui Wang, Yaxin Pan, Supeng Wu",
+    "publish": "Proceedings of the 2026 5th International Conference on Networks, Communications and Information Technology",
+    "url": "https://doi.org/10.1145/3821162.3821168",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "MATT：面向模型生成嵌入式软件的周期感知并行回归测试",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-7-27",
+    "title": "Automated Detection of Injection Attacks in Web Applications using Deep Learning Models",
+    "authors": "Kaushik Jangiti",
+    "publish": "2026 5th International Conference on Computer Networks, Big Data and IoT (ICCBI)",
+    "url": "https://doi.org/10.1109/iccbi68589.2026.11619852",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用深度学习模型的Web应用注入攻击自动检测",
+    "abstract_zh": "None"
+  }
+]
