@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-8-1",
+    "title": "PMO Checker: A Framework for Protecting Persistent Memory Objects Against Security Attacks",
+    "authors": "Naveed Ul Mustafa, Xipeng Shen, Yan Solihin",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3836763",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PMO Checker：一个保护持久内存对象免受安全攻击的框架",
+    "abstract_zh": "无"
+  }
+]
