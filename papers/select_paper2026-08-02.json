@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2026-8-3",
+    "title": "Evolution of the SWEBOK Guide and LLM-Empowered Software Security Engineering",
+    "authors": "Hironori Washizaki",
+    "publish": "2026 12th International Symposium on System Security, Safety, and Reliability (ISSSR)",
+    "url": "https://doi.org/10.1109/isssr69973.2026.00010",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SWEBOK指南的演进与大语言模型赋能的软件安全工程",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "The Impact of Fault Interference on Prediction-Based Fault Localization in Multi-Bug Programs",
+    "authors": "Tian Pan, Yihao Li, Pan Liu, Wenqian Shan, Haiyang Wang",
+    "publish": "2026 12th International Symposium on System Security, Safety, and Reliability (ISSSR)",
+    "url": "https://doi.org/10.1109/isssr69973.2026.00022",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "故障干扰对多缺陷程序中基于预测的故障定位的影响",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "LLM-Based Code Documentation Generation and Multi-Judge Evaluation",
+    "authors": "Ikbel Ghrab, Mohamed Dhieb, Ismail Khenissi, Ines Abdeljaoued-Tej",
+    "publish": "2025 IEEE International Conference on Advanced Healthcare Systems (ICAHS)",
+    "url": "https://doi.org/10.1109/icahs66950.2025.11553031",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于LLM的代码文档生成与多裁判评估",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Understanding and Detecting Android R8 Compiler Bugs",
+    "authors": "Zifan Xie, Ming Wen, Shiyu Qiu, Maolin Sun, Hai Jin",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3837762",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "理解与检测 Android R8 编译器缺陷",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Fully Automated, Scalable and Robust Generation of Testbenches for Simulation and Optimization of Amplifier Circuits",
+    "authors": "Markus Leibl, Filipe Azevedo, Helmut Graeb, Ricardo Martins",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3719421",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "全自动、可扩展且稳健的放大器电路仿真与优化测试平台生成方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Linguistic Pattern–Enriched Transformers for Prompt Injection Detection in LLM Systems",
+    "authors": "Carmen De Maio, Sabrina Senatore, Hao Fei",
+    "publish": "2026 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)",
+    "url": "https://doi.org/10.1109/fuzz69877.2026.11626451",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于大语言模型系统中提示词注入检测的语言模式增强Transformer",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "UPDFuzz: A UEFI Protocol Directed Fuzzer based on High-fidelity Environment Reconstruction",
+    "authors": "Yilin Zhou, Kai Liu, Xiuzhang Yang, Sangsha Fang, Jianming Fu, Guojun Peng",
+    "publish": "IEEE Internet of Things Journal",
+    "url": "https://doi.org/10.1109/jiot.2026.3719687",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "UPDFuzz：一种基于高保真环境重构的UEFI协议定向模糊测试工具",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "An Empirical Study of Kotlin-Java Cross-Dependency Issues and Their Detection",
+    "authors": "Qiong Feng, Xiaotian Ma, Jiayi Sheng, Huan Ji, Peng Liang",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3719845",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Kotlin与Java跨依赖问题的实证研究及其检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Artificial Cybercrime: an Analysis of How Cybercriminals Are Exploiting Modern Generative Ai Models to Create and Carry Out Cybercrime",
+    "authors": "Peyton Bubert, Chih-Wei Hsu, W. Eric Wong, Zizhao Chen",
+    "publish": "2026 12th International Symposium on System Security, Safety, and Reliability (ISSSR)",
+    "url": "https://doi.org/10.1109/isssr69973.2026.00017",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "人工智能网络犯罪：分析网络罪犯如何利用现代生成式人工智能模型创建并实施网络犯罪",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "VIB4Vul: An Adaptive Denoising Framework for Smart Contract Vulnerability Detection Based on Variational Information Bottleneck",
+    "authors": "Zibin Zheng, Ruize Ye, Lei Xiao, Xiyue Zhou, Yijie Cai",
+    "publish": "2026 12th International Symposium on System Security, Safety, and Reliability (ISSSR)",
+    "url": "https://doi.org/10.1109/isssr69973.2026.00016",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "VIB4Vul：基于变分信息瓶颈的智能合约漏洞检测自适应去噪框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Understanding Prompt Quality and Its Relation to LLM-based Code Generation",
+    "authors": "Antonio Della Porta, Stefano Lambiase, Valeria Pontillo, Joao F. Ferreira, Akond A. Rahman, Chaiyong Ragkhitwetsagul, Fabio Palomba",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3719766",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "理解提示词质量及其与基于大语言模型的代码生成的关系",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Keynote III ISSSR 2026: AI-Enhanced Safety Critical Software Development",
+    "authors": "Chunming Hu",
+    "publish": "2026 12th International Symposium on System Security, Safety, and Reliability (ISSSR)",
+    "url": "https://doi.org/10.1109/isssr69973.2026.00012",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "主题演讲三 ISSSR 2026：AI增强的安全关键软件开发",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Coverage-Free LLM-based Fault Localisation via Semantic Reasoning over Historical Bug Reports",
+    "authors": "Jaehoon Song, Jeongju Sohn",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3719447",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于历史缺陷报告语义推理的无覆盖大语言模型故障定位方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Pattern-Occupancy PCB Routing Joint Optimization of Thermal Management and Crosstalk Mitigation",
+    "authors": "Hyun-Ho Bae, Jong-Moon Chung",
+    "publish": "IEEE Transactions on Consumer Electronics",
+    "url": "https://doi.org/10.1109/tce.2026.3719339",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Pattern-Occupancy PCB布线中热管理与串扰抑制的联合优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Architecture-Aware Multi-Scale Modeling with Self- and Cross-Attention for Dynamic IR Drop Analysis",
+    "authors": "Xianjing Zhu, Shikai Guo, Sihang Zhang, Wenjun Tang, Feng Min, Furui Zhan, Qian Ma, Ning Wang, Hui Li, He Jiang",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3837865",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "架构感知的多尺度建模与自注意力和交叉注意力结合的动态IR压降分析",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Detection of HLS-based Hardware Trojans using Logistic Regression Binary-Classifier",
+    "authors": "Anirban Sengupta, Nabendu Bhui, Vipin Verma",
+    "publish": "IEEE Embedded Systems Letters",
+    "url": "https://doi.org/10.1109/les.2026.3719415",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于逻辑回归二分类器的HLS硬件木马检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "A Survey of Intelligent Testing Technologies for Aerospace Applications",
+    "authors": "Tianzhe Qi, Yiwen Wang",
+    "publish": "2026 12th International Symposium on System Security, Safety, and Reliability (ISSSR)",
+    "url": "https://doi.org/10.1109/isssr69973.2026.00021",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "航空航天应用智能测试技术综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Formal Verification of Quantum Arithmetic Circuits in Maude",
+    "authors": "Naoto Sato, Tsubasa Takagi",
+    "publish": "2026 12th International Symposium on System Security, Safety, and Reliability (ISSSR)",
+    "url": "https://doi.org/10.1109/isssr69973.2026.00019",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Maude中量子算术电路的形式化验证",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "AutoFIR: An Automated Framework for Resource-Efficient EEG FIR Filtering on FPGAs",
+    "authors": "Hui Liu, Hengxu Li, Hongli Wang, Lin Sun, Ziyang Ma, Lin Zhang, Hongdang Zheng, Chao Chen",
+    "publish": "IEEE Transactions on Biomedical Circuits and Systems",
+    "url": "https://doi.org/10.1109/tbcas.2026.3719430",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AutoFIR：一种面向FPGA的资源高效型脑电信号FIR滤波自动化框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Computing Education When Writing Code Is No Longer the Challenge",
+    "authors": "Ibrahim Albluwi, Dennis Bouvier, Claus Brabrand, Michelle Craig, Rodrigo Duran, Christopher Hundhausen, Colleen Lewis, Kevin Lin, Andrew Luxton-Reilly, Leo Porter, Karen Reid, David Smith, Claudia Szabo, Titus Winters, Daniel Zingaro",
+    "publish": "Communications of the ACM",
+    "url": "https://doi.org/10.1145/3808702",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当编写代码不再是挑战时的计算教育",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-3",
+    "title": "Using Ontologies for Testing",
+    "authors": "Franz Wotawa",
+    "publish": "2026 12th International Symposium on System Security, Safety, and Reliability (ISSSR)",
+    "url": "https://doi.org/10.1109/isssr69973.2026.00011",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用本体进行测试",
+    "abstract_zh": "None"
+  }
+]
