@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-8-7",
+    "title": "A Hybrid Machine Learning Approach for Scalable VLSI Testing",
+    "authors": "Mamatha Kancharla, KNiranjan Reddy, RadhaKrishna Karne, B RaviKumar, L Suneel",
+    "publish": "2026 IEEE Global Symposium on Emerging and Communication Technologies (GSEACT)",
+    "url": "https://doi.org/10.1109/gseact68539.2026.11620178",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种面向可扩展VLSI测试的混合机器学习方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-7",
+    "title": "Standard Conformant Prompting (SCP): A Reproducible Framework for Compiler-Ready PLC Code Generation with Large Language Models : From Post-Hoc Verification to Standard-Driven Code Synthesis in Industrial Automation",
+    "authors": "Ketut Adnyana, Andreas Schwung",
+    "publish": "2026 12th International Conference on Control, Decision and Information Technologies (CoDIT)",
+    "url": "https://doi.org/10.1109/codit70676.2026.11630913",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "标准合规提示（SCP）：一种利用大语言模型生成编译器就绪型PLC代码的可复现框架——从工业自动化中的事后验证到标准驱动式代码综合",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-7",
+    "title": "Towards Quantum Program Bug Datasets and Benchmarking",
+    "authors": "Tingting Li, Jiongchi Yu, Zhikang Fan, Junqing Wang, Yao Zhai, Shenglong Zhang, Yu Peng, Yuhan Chen, Junyu Chen, Fanqi Kong, Zhaoxuan Li, Xiaofei Yue, Ziming Zhao, Jianwei Yin",
+    "publish": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+    "url": "https://doi.org/10.1145/3770855.3817560",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向量子程序缺陷数据集与基准测试",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "An Approach for Testing of Embedded Interconnects that Bypasses the Interconnect Isolation Logic",
+    "authors": "Irith Pomeranz",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3839241",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一种绕过互连隔离逻辑的嵌入式互连测试方法",
+    "abstract_zh": "The input is not empty; \"None\" should be translated into Chinese. The translation is:\n无"
+  },
+  {
+    "date": "2026-8-7",
+    "title": "Advanced Artificial Intelligence Techniques for Automated Identification of Anomalous Events in Log Data",
+    "authors": "Pavan Kumar Adapala, Baseera A",
+    "publish": "2026 IEEE Global Symposium on Emerging and Communication Technologies (GSEACT)",
+    "url": "https://doi.org/10.1109/gseact68539.2026.11620079",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "高级人工智能技术在日志数据中自动识别异常事件的应用",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-7",
+    "title": "M-GRAD: Fusing Heterogeneous Logs into AI-Driven Graphs for Anomaly Detection and IP Risk Analysis",
+    "authors": "Çağatay Ateş, Ilgın Şafak, Fatih Alagöz, Emin Anarım",
+    "publish": "2026 12th International Conference on Control, Decision and Information Technologies (CoDIT)",
+    "url": "https://doi.org/10.1109/codit70676.2026.11631058",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "M-GRAD：将异构日志融合为AI驱动的图，用于异常检测与IP风险分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-7",
+    "title": "CryptoAnalystBench: Failures in Multi-Tool Long-Form LLM Analysis",
+    "authors": "Anushri Eswaran, Oleg Golev, Darshan Tank, Sidhant Rahi, Himanshu Tyagi",
+    "publish": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+    "url": "https://doi.org/10.1145/3770855.3817585",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CryptoAnalystBench：多工具长文本大语言模型分析中的失败",
+    "abstract_zh": "没有"
+  },
+  {
+    "date": "2026-8-7",
+    "title": "Assessing the Quality of Control Software Style Guides Used by Machine and Plant Manufacturers",
+    "authors": "Luis Steuter, Birgit Vogel-Heuser, Dominik Hujo-Lauer, Lucas Romier",
+    "publish": "2026 12th International Conference on Control, Decision and Information Technologies (CoDIT)",
+    "url": "https://doi.org/10.1109/codit70676.2026.11630855",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "评估机器和设备制造商使用的控制软件风格指南的质量",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-7",
+    "title": "CCISOLVER: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency_supp1-3689089.pdf",
+    "authors": "Yichen Li",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tse.2026.3689089/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CCISOLVER：方法级代码-注释不一致性的端到端检测与修复_supp1-3689089.pdf",
+    "abstract_zh": "None"
+  }
+]
