@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-8-8",
+    "title": "An Approach for Testing of Embedded Interconnects that Bypasses the Interconnect Isolation Logic",
+    "authors": "Irith Pomeranz",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3839241",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一种绕过互连隔离逻辑的嵌入式互连测试方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Faster Random Walk-based Capacitance Extraction with Generalized Antithetic Sampling",
+    "authors": "Periklis Liaskovitis, Marios Visvardis, Efthymios Efstathiou",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3815186",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "采用广义对偶采样的更快随机游走电容提取",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Selecting and Combining Large Language Models in Scalable Code Clone Detection",
+    "authors": "Muslim Chochlov, Gul Aftab Ahmed, James Vincent Patten, Abdul Razzaq, Yuanhua Han, Guoxian Lu, David Gregg, Jim Buckley",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3838728",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "可扩展代码克隆检测中的大型语言模型选择与组合",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "SynaSpace: Behavior-Driven Configuration Optimization of Test Generators for Logic Synthesis Testing",
+    "authors": "Peiyu Zou, Xiaochen Li, Yijia Meng, Yonggong Ren, Ruijie Tian, Fukun Chen, He Jiang",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3834781",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "SynaSpace：面向逻辑综合测试的测试生成器行为驱动配置优化",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Power Switch Network Optimization Using Machine Learning for Inrush Current and Wakeup Latency Prediction",
+    "authors": "Vikram Gopalakrishnan, Vidya Chhabria",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3816255",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用机器学习进行浪涌电流与唤醒延迟预测的电源开关网络优化",
+    "abstract_zh": "没有"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Bug Localization for RTL designs Based on Multi-Features Deep Learning",
+    "authors": "Menglin Yang, Jian Hu",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3837868",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于多特征深度学习的RTL设计缺陷定位",
+    "abstract_zh": "无"
+  }
+]

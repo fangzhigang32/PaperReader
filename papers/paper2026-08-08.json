@@ -1,0 +1,281 @@
+[
+  {
+    "date": "2026-8-8",
+    "title": "A Neural Frame Streaming Framework with a Simultaneous Prior for End-cloud Collaborative Rendering",
+    "authors": "Hangming Fan, Yazhen Yuan, Yongyu Ding, Yuwen Chen, Hujun Bao, Yuchi Huo, Rui Wang",
+    "publish": "ACM Transactions on Graphics",
+    "url": "https://doi.org/10.1145/3832308",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "High-arity PAC learning via exchangeability",
+    "authors": "Leonardo Coregliano, Maryanthe Malliaris",
+    "publish": "Journal of the ACM",
+    "url": "https://doi.org/10.1145/3838723",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "An Approach for Testing of Embedded Interconnects that Bypasses the Interconnect Isolation Logic",
+    "authors": "Irith Pomeranz",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3839241",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Detection and Characterization of Coordinated Online Behavior: A Survey",
+    "authors": "Lorenzo Mannocci, Michele Mazza, Anna Monreale, Maurizio Tesconi, Stefano Cresci",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3839225",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Large Language Models and Social Media Information Integrity: Opportunities, Challenges, and Research Directions",
+    "authors": "Junjie Xiong, Zhengyuan Jiang, Xiaoran Xu, Chi Zhang, Changjia Zhu, Ning Wang, Mingkui Wei, Zhuo Lu, Yao Liu, Lingyao Li",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3839233",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Treewidth Inapproximability and Tight ETH Lower Bound",
+    "authors": "Édouard Bonnet",
+    "publish": "Journal of the ACM",
+    "url": "https://doi.org/10.1145/3833387",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "QCutSim: Accelerating Quantum Circuit Cutting Simulation on Consumer-Grade Classical Systems",
+    "authors": "Po-Hsuan Huang, Chun-Yen Tai, Chia-Heng Tu, Shih-Hao Hung",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3833423",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "UniRec: Unified Space Learning for Generalizable Sequential Recommendation",
+    "authors": "jiarui yang, Junmei Feng, Yihan Zhang, Zhaoqiang Xia",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3838801",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Quantum matrix arithmetics with Hamiltonian evolution",
+    "authors": "Christopher Kang, Yuan Su",
+    "publish": "ACM Transactions on Quantum Computing",
+    "url": "https://doi.org/10.1145/3816436",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "TCSE: Time-aware Causal Disentanglement with Semantic Knowledge Enhancement for Personalized Mobile Application Recommendation",
+    "authors": "Qibo Li, Shiyu He, Yuqi Zhao, Nanxi Chen, Jian Wang, Yutao Ma",
+    "publish": "ACM Transactions on the Web",
+    "url": "https://doi.org/10.1145/3838705",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "SKYLIGHT: A  Scalable Hundred-Channel 3D Photonic In-Memory Tensor Core Architecture for Real-time AI Inference",
+    "authors": "Meng Zhang, Ziang Yin, Nicholas Gangi, Alexander Chen, Brett Bamfo, Tianle Xu, Jiaqi Gu, Rena Huang",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3831711",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "ConZone+: Practical Zoned Flash Storage Emulation for Consumer Devices",
+    "authors": "Dingcui Yu, Zonghuan Yan, Jialin Liu, Yumiao Zhao, Yanyun Wang, Haodong Xia, Xinghui Duan, Yina Lv, Liang Shi",
+    "publish": "ACM Transactions on Storage",
+    "url": "https://doi.org/10.1145/3816702",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Race, Intersectionality and Hidden Necessary Labour in Computing Education",
+    "authors": "Pratim Sengupta, Apoorve Chokshi",
+    "publish": "ACM Transactions on Computing Education",
+    "url": "https://doi.org/10.1145/3839229",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Beyond Benchmarks: Toward Reliable, Equitable, and Epistemically Honest AI for Digital Health",
+    "authors": "Leo Anthony Celi, Jessilyn Dunn, Fei Wang, Mengling Feng",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3833880",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Zoned Namespace is a Double-edged Sword: Rethinking the Impact of the ZNS Interface on File System Scalability",
+    "authors": "Haichuan Hu, Jintong Zhang, Miaosong Zhang, Yekang Zhan, Nan Zhang, Jianxi Chen, Dan Feng",
+    "publish": "ACM Transactions on Storage",
+    "url": "https://doi.org/10.1145/3816706",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "A Real-Time Single Image Haze Removal Accelerator for Increasingly Automated Vehicles",
+    "authors": "Yifu Zhu, Yanjie Tan, Feiteng Nie, Zhaoyang Huang, Huailiang Tan",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3837759",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "SAI: Virtualizing Shared Memory of GPU for AI workload acceleration",
+    "authors": "Hanqing Li, Tiejun Li, Sheng Ma, JianMing Zhang, Yuhan Tang, Siqing Fu, Jixuan Tang, LiZhou Wu",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3819826",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Introduction to the ARC 2025 Journal Track",
+    "authors": "Roberto Giorgi, Mirjana Stojilović",
+    "publish": "ACM Transactions on Reconfigurable Technology and Systems",
+    "url": "https://doi.org/10.1145/3839105",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Retention-Based Energy-Efficient  and High-Core-Utilization Scheduling for Arbitrary-Deadline DAGs",
+    "authors": "Xiangzhen Xiao, Weijie Wang, Weichen Liu, Wanli Chang",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3820764",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "CELLServe: An SLO-Aware and Cost Efficient LLMs Serving System for Serverless Computing Environments",
+    "authors": "Zejian Wang, Nan Lin, Zinuo Cai, Rongbo Ma, Ruhui Ma, Haibing Guan, Rajkumar Buyya",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3830086",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Faster Random Walk-based Capacitance Extraction with Generalized Antithetic Sampling",
+    "authors": "Periklis Liaskovitis, Marios Visvardis, Efthymios Efstathiou",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3815186",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Selecting and Combining Large Language Models in Scalable Code Clone Detection",
+    "authors": "Muslim Chochlov, Gul Aftab Ahmed, James Vincent Patten, Abdul Razzaq, Yuanhua Han, Guoxian Lu, David Gregg, Jim Buckley",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3838728",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "<i>HearT</i>\n                    : Enabling Acoustic Sensing of Ingested-Liquid Temperature via Hydrodynamic Vibration Modeling",
+    "authors": "Shaojie Yan, Feiyu Han, Dawei Yan, Yanfei Zhang, Panlong Yang, Yubo Yan",
+    "publish": "ACM Transactions on Sensor Networks",
+    "url": "https://doi.org/10.1145/3822599",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "SynaSpace: Behavior-Driven Configuration Optimization of Test Generators for Logic Synthesis Testing",
+    "authors": "Peiyu Zou, Xiaochen Li, Yijia Meng, Yonggong Ren, Ruijie Tian, Fukun Chen, He Jiang",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3834781",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Xtream: A Production-Level VM Cross-Cloud Disk Migration System with Stripe-Oriented Prefetching",
+    "authors": "Tianlei Xiong, Yuchi Chen, Jiasen Li, Yun Wang, Yao Shen, Yi Yang, Yue Le, Zhengwei Qi",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3833424",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Revisiting Data Updates in Erasure-Coded Storage Clusters",
+    "authors": "Hai Zhou, Dan Feng",
+    "publish": "ACM Transactions on Storage",
+    "url": "https://doi.org/10.1145/3820773",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Power Switch Network Optimization Using Machine Learning for Inrush Current and Wakeup Latency Prediction",
+    "authors": "Vikram Gopalakrishnan, Vidya Chhabria",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3816255",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "GUMPIM: Unitary and Malleable Memory for Processing-in-Memory with Guaranteed PIM Pages",
+    "authors": "Yilong Zhao, Fangxin Liu, Yiwei Hu, Zongwu Wang, Mingyu Gao, Onur Mutlu, He Xian, Hanlin Dong, Naifeng Jing, Xiaoyao Liang, Haibing Guan, Qiang Xu, Chixiao Chen, Shuxue Quan, Tao Yang, Li Jiang",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3833426",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "FNO-Speed: Accelerate Fourier Neural Operators Training for Solving PDEs",
+    "authors": "Tao Song, Ying Ouyang, Xiangyu Meng, Jianxin Li, Fuyin Xia, Xun Wang",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3838188",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "Bug Localization for RTL designs Based on Multi-Features Deep Learning",
+    "authors": "Menglin Yang, Jian Hu",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3837868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-8",
+    "title": "DIRECT: Deep Reinforcement Learning for Tourist Route Generation",
+    "authors": "Genivika Mann, Rajjat Dadwal, Elena Demidova",
+    "publish": "ACM Transactions on Spatial Algorithms and Systems",
+    "url": "https://doi.org/10.1145/3839237",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

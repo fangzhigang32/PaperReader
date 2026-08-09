@@ -1,0 +1,74 @@
+[2026-08-09 22:30:44] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-08-08
+正在获取论文...
+[ACM] 2026-8-8 | A Neural Frame Streaming Framework with a Simultaneous Prior for End-cloud Collaborative Rendering
+[ACM] 2026-8-8 | High-arity PAC learning via exchangeability
+[ACM] 2026-8-8 | An Approach for Testing of Embedded Interconnects that Bypasses the Interconnect Isolation Logic
+[ACM] 2026-8-8 | Detection and Characterization of Coordinated Online Behavior: A Survey
+[ACM] 2026-8-8 | Large Language Models and Social Media Information Integrity: Opportunities, Challenges, and Research Directions
+[ACM] 2026-8-8 | Treewidth Inapproximability and Tight ETH Lower Bound
+[ACM] 2026-8-8 | QCutSim: Accelerating Quantum Circuit Cutting Simulation on Consumer-Grade Classical Systems
+[ACM] 2026-8-8 | UniRec: Unified Space Learning for Generalizable Sequential Recommendation
+[ACM] 2026-8-8 | Quantum matrix arithmetics with Hamiltonian evolution
+[ACM] 2026-8-8 | TCSE: Time-aware Causal Disentanglement with Semantic Knowledge Enhancement for Personalized Mobile Application Recommendation
+[ACM] 2026-8-8 | SKYLIGHT: A  Scalable Hundred-Channel 3D Photonic In-Memory Tensor Core Architecture for Real-time AI Inference
+[ACM] 2026-8-8 | ConZone+: Practical Zoned Flash Storage Emulation for Consumer Devices
+[ACM] 2026-8-8 | Race, Intersectionality and Hidden Necessary Labour in Computing Education
+[ACM] 2026-8-8 | Beyond Benchmarks: Toward Reliable, Equitable, and Epistemically Honest AI for Digital Health
+[ACM] 2026-8-8 | Zoned Namespace is a Double-edged Sword: Rethinking the Impact of the ZNS Interface on File System Scalability
+[ACM] 2026-8-8 | A Real-Time Single Image Haze Removal Accelerator for Increasingly Automated Vehicles
+[ACM] 2026-8-8 | SAI: Virtualizing Shared Memory of GPU for AI workload acceleration
+[ACM] 2026-8-8 | Introduction to the ARC 2025 Journal Track
+[ACM] 2026-8-8 | Retention-Based Energy-Efficient  and High-Core-Utilization Scheduling for Arbitrary-Deadline DAGs
+[ACM] 2026-8-8 | CELLServe: An SLO-Aware and Cost Efficient LLMs Serving System for Serverless Computing Environments
+[ACM] 2026-8-8 | Faster Random Walk-based Capacitance Extraction with Generalized Antithetic Sampling
+[ACM] 2026-8-8 | Selecting and Combining Large Language Models in Scalable Code Clone Detection
+[ACM] 2026-8-8 | <i>HearT</i>
+                    : Enabling Acoustic Sensing of Ingested-Liquid Temperature via Hydrodynamic Vibration Modeling
+[ACM] 2026-8-8 | SynaSpace: Behavior-Driven Configuration Optimization of Test Generators for Logic Synthesis Testing
+[ACM] 2026-8-8 | Xtream: A Production-Level VM Cross-Cloud Disk Migration System with Stripe-Oriented Prefetching
+[ACM] 2026-8-8 | Revisiting Data Updates in Erasure-Coded Storage Clusters
+[ACM] 2026-8-8 | Power Switch Network Optimization Using Machine Learning for Inrush Current and Wakeup Latency Prediction
+[ACM] 2026-8-8 | GUMPIM: Unitary and Malleable Memory for Processing-in-Memory with Guaranteed PIM Pages
+[ACM] 2026-8-8 | FNO-Speed: Accelerate Fourier Neural Operators Training for Solving PDEs
+[ACM] 2026-8-8 | Bug Localization for RTL designs Based on Multi-Features Deep Learning
+[ACM] 2026-8-8 | DIRECT: Deep Reinforcement Learning for Tourist Route Generation
+共写入 31 条记录，保存到 papers/paper2026-08-08.json。
+论文获取成功，文件路径: papers/paper2026-08-08.json
+正在筛选、翻译并发送邮件...
+[NO] 1/31 | A Neural Frame Streaming Framework with a Simultaneous Prior for End-cloud Collaborative Rendering
+[NO] 2/31 | High-arity PAC learning via exchangeability
+[YES] 3/31 | An Approach for Testing of Embedded Interconnects that Bypasses the Interconnect Isolation Logic
+[NO] 4/31 | Detection and Characterization of Coordinated Online Behavior: A Survey
+[NO] 5/31 | Large Language Models and Social Media Information Integrity: Opportunities, Challenges, and Research Directions
+[NO] 6/31 | Treewidth Inapproximability and Tight ETH Lower Bound
+[NO] 7/31 | QCutSim: Accelerating Quantum Circuit Cutting Simulation on Consumer-Grade Classical Systems
+[NO] 8/31 | UniRec: Unified Space Learning for Generalizable Sequential Recommendation
+[NO] 9/31 | Quantum matrix arithmetics with Hamiltonian evolution
+[NO] 10/31 | TCSE: Time-aware Causal Disentanglement with Semantic Knowledge Enhancement for Personalized Mobile Application Recommendation
+[NO] 11/31 | SKYLIGHT: A  Scalable Hundred-Channel 3D Photonic In-Memory Tensor Core Architecture for Real-time AI Inference
+[NO] 12/31 | ConZone+: Practical Zoned Flash Storage Emulation for Consumer Devices
+[NO] 13/31 | Race, Intersectionality and Hidden Necessary Labour in Computing Education
+[NO] 14/31 | Beyond Benchmarks: Toward Reliable, Equitable, and Epistemically Honest AI for Digital Health
+[NO] 15/31 | Zoned Namespace is a Double-edged Sword: Rethinking the Impact of the ZNS Interface on File System Scalability
+[NO] 16/31 | A Real-Time Single Image Haze Removal Accelerator for Increasingly Automated Vehicles
+[NO] 17/31 | SAI: Virtualizing Shared Memory of GPU for AI workload acceleration
+[NO] 18/31 | Introduction to the ARC 2025 Journal Track
+[NO] 19/31 | Retention-Based Energy-Efficient  and High-Core-Utilization Scheduling for Arbitrary-Deadline DAGs
+[NO] 20/31 | CELLServe: An SLO-Aware and Cost Efficient LLMs Serving System for Serverless Computing Environments
+[YES] 21/31 | Faster Random Walk-based Capacitance Extraction with Generalized Antithetic Sampling
+[YES] 22/31 | Selecting and Combining Large Language Models in Scalable Code Clone Detection
+[NO] 23/31 | <i>HearT</i>
+                    : Enabling Acoustic Sensing of Ingested-Liquid Temperature via Hydrodynamic Vibration Modeling
+[YES] 24/31 | SynaSpace: Behavior-Driven Configuration Optimization of Test Generators for Logic Synthesis Testing
+[NO] 25/31 | Xtream: A Production-Level VM Cross-Cloud Disk Migration System with Stripe-Oriented Prefetching
+[NO] 26/31 | Revisiting Data Updates in Erasure-Coded Storage Clusters
+[YES] 27/31 | Power Switch Network Optimization Using Machine Learning for Inrush Current and Wakeup Latency Prediction
+[NO] 28/31 | GUMPIM: Unitary and Malleable Memory for Processing-in-Memory with Guaranteed PIM Pages
+[NO] 29/31 | FNO-Speed: Accelerate Fourier Neural Operators Training for Solving PDEs
+[YES] 30/31 | Bug Localization for RTL designs Based on Multi-Features Deep Learning
+[NO] 31/31 | DIRECT: Deep Reinforcement Learning for Tourist Route Generation
+筛选完成：共 31 篇；Yes = 6 篇；已保存到 papers/select_paper2026-08-08.json。
+邮件发送成功！
+[2026-08-09 22:34:52] 任务执行成功！
