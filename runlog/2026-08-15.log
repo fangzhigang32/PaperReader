@@ -1,0 +1,24 @@
+[2026-08-16 22:20:15] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-08-15
+正在获取论文...
+[ACM] 2026-8-15 | Gauge Equivariant Capsule Networks
+[ACM] 2026-8-15 | MEDEA: A Design-Time Multi-Objective Manager for Energy-Efficient DNN Inference on Heterogeneous Ultra-Low Power Platforms
+[ACM] 2026-8-15 | UVirtio: Enabling Ubiquitous Resource Sharing for RISC-V Industrial Edge Devices
+[ACM] 2026-8-15 | Diffusion Models in Recommendation Systems: A Survey
+[ACM] 2026-8-15 | A Tutorial on Gaussian Process Learning-based Model Predictive Control
+[ACM] 2026-8-15 | Towards a Model of Design Tensions for Creating an Accessible Makerspace in the Caribbean
+[ACM] 2026-8-15 | New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms
+共写入 7 条记录，保存到 papers/paper2026-08-15.json。
+论文获取成功，文件路径: papers/paper2026-08-15.json
+正在筛选、翻译并发送邮件...
+[NO] 1/7 | Gauge Equivariant Capsule Networks
+[NO] 2/7 | MEDEA: A Design-Time Multi-Objective Manager for Energy-Efficient DNN Inference on Heterogeneous Ultra-Low Power Platforms
+[NO] 3/7 | UVirtio: Enabling Ubiquitous Resource Sharing for RISC-V Industrial Edge Devices
+[NO] 4/7 | Diffusion Models in Recommendation Systems: A Survey
+[NO] 5/7 | A Tutorial on Gaussian Process Learning-based Model Predictive Control
+[NO] 6/7 | Towards a Model of Design Tensions for Creating an Accessible Makerspace in the Caribbean
+[NO] 7/7 | New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms
+筛选完成：共 7 篇；Yes = 0 篇；已保存到 papers/select_paper2026-08-15.json。
+邮件发送成功！
+[2026-08-16 22:21:09] 任务执行成功！

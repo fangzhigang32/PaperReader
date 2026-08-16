@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-8-15",
+    "title": "Gauge Equivariant Capsule Networks",
+    "authors": "Lisha Wang, Wenrui Dai, Junni Zou, Ziyang Zheng, Shaohui Li, Chenglin Li, Hongkai Xiong",
+    "publish": "ACM Transactions on Graphics",
+    "url": "https://doi.org/10.1145/3840283",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-15",
+    "title": "MEDEA: A Design-Time Multi-Objective Manager for Energy-Efficient DNN Inference on Heterogeneous Ultra-Low Power Platforms",
+    "authors": "Hossein Taji, Jose Miranda, Miguel Peon Quiros, David Atienza",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3841170",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-15",
+    "title": "UVirtio: Enabling Ubiquitous Resource Sharing for RISC-V Industrial Edge Devices",
+    "authors": "Muliang Shou, Yufan Jiang, Tianlei Xiong, Chenggang Wu, Wenda Tang, Jie Wu, Zhengwei Qi",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3841475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-15",
+    "title": "Diffusion Models in Recommendation Systems: A Survey",
+    "authors": "Ting-Ruen Wei, Yi Fang",
+    "publish": "ACM Transactions on Recommender Systems",
+    "url": "https://doi.org/10.1145/3841169",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-15",
+    "title": "A Tutorial on Gaussian Process Learning-based Model Predictive Control",
+    "authors": "Jie Wang, Youmin Zhang",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3841464",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-15",
+    "title": "Towards a Model of Design Tensions for Creating an Accessible Makerspace in the Caribbean",
+    "authors": "Foad Hamidi, Marjory Pineda, Ravi Kuber, Patti Ordóñez",
+    "publish": "ACM Journal on Computing and Sustainable Societies",
+    "url": "https://doi.org/10.1145/3841181",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-15",
+    "title": "New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms",
+    "authors": "Trever Schirmer, Aris Wiegand, Lucca di Benedetto, Linus Gustafsson, Natalie Carl, Tobias Pfandzelter, David Bermbach",
+    "publish": "ACM Transactions on Internet Technology",
+    "url": "https://doi.org/10.1145/3841482",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
