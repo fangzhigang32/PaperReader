@@ -8,7 +8,7 @@
     "source": "arXiv",
     "abstract": "Testing embedded software in modern vehicles is challenging due to system complexity, decentralized architectures, and strict safety and performance constraints. In this work, we present an end-to-end, deployment-aware testing pipeline for IoT-based automotive applications. The pipeline combines requirement-driven test and code generation with large language model (LLM) and vision-language model (VLM) assistance, and human-in-the-loop curation to reduce manual effort and improve consistency. Using Eclipse openDuT, it supports flexible, distributed deployment across geographically separated cyber-physical and IoT infrastructures, optimizing for node availability and cross-organizational coordination. For validation, we conduct a case study using a Child Presence Detection System (CPDS), achieving full functional requirement coverage across all 9 requirements and 100% Gherkin generation accuracy on the controlled requirement set. Distributed test execution across geographically separated ECUs via Eclipse openDuT confirms the pipeline's applicability to OEM--supplier testing workflows.",
     "title_zh": "面向基于物联网的汽车应用的完全自动化部署感知测试流水线",
-    "abstract_zh": "现代汽车的嵌入式软件测试极具挑战性，这主要归因于系统复杂性、去中心化架构以及严格的安全与性能约束。在本研究中，我们提出了一种面向物联网汽车应用的端到端、部署感知的测试流水线。该流水线将需求驱动的测试与代码生成、大语言模型（LLM）与视觉语言模型（VLM）辅助，以及人工介入审核相结合，旨在减少人工工作量并提高一致性。借助 Eclipse openDuT，该流水线支持在地理位置分散的信息物理系统与物联网基础设施之间进行灵活、分布式的部署，并针对节点可用性与跨组织协调进行了优化。为进行验证，我们以儿童存在检测系统（CPDS）为例开展了案例研究，实现了对全部 9 项功能需求的完整覆盖，且在受控需求集上的 Gherkin 生成准确率达到 100%。通过 Eclipse openDuT 在地理位置分散的电子控制单元（ECU）间进行的分布式测试执行，进一步证实了该流水线适用于主机厂与供应商之间的测试工作流。"
+    "abstract_zh": "由于系统复杂度高、架构分布式化以及严格的安全与性能约束，现代汽车嵌入式软件的测试极具挑战性。本文提出了一种面向物联网汽车应用的端到端、部署感知型测试流水线。该流水线融合了需求驱动的测试与代码生成、大语言模型（LLM）与视觉语言模型（VLM）辅助，以及人在回路的人工审核机制，旨在降低人工成本并提升一致性。依托 Eclipse openDuT，该方案支持在跨地域的信息物理系统与物联网基础设施之间进行灵活、分布式的部署，以优化节点可用性与跨组织协调效率。为验证其有效性，我们以儿童存在检测系统（CPDS）为例开展案例研究，实现了对全部 9 项功能需求的完整覆盖，并在受控需求集上达到 100% 的 Gherkin 生成准确率。通过 Eclipse openDuT 在跨地域电子控制单元（ECU）间执行的分布式测试，进一步证实了该流水线在主机厂-供应商测试工作流中的适用性。"
   },
   {
     "date": "2026-08-20",
@@ -18,19 +18,8 @@
     "url": "https://arxiv.org/abs/2608.19680v1",
     "source": "arXiv",
     "abstract": "Smart contract vulnerability detection with Large Language Models (LLMs) faces three causally linked challenges. First, new vulnerability categories demand parameter-efficient adaptation, since full retraining is prohibitive for sequentially arriving tasks. Second, training per-task adapters on a shared backbone causes catastrophic forgetting of previously learned vulnerabilities. Third, the resulting multiplicity of adapters must be consolidated into a single model, since task identity is unknown at inference time. Each challenge arises directly from the solution to its predecessor, making an integrated framework essential. We propose a three-stage pipeline in which each stage addresses one challenge and feeds into the next. The adaptation stage uses Frequency-Aware Low-Rank Adaptation (FA-LoRA), which performs adaptation in the Fourier domain with per-frequency importance gates, requiring only 0.4% trainable parameters while outperforming standard LoRA and QLoRA. The continual learning stage applies Forget-Aware Replay (FAR), which uses these frequency gates to estimate per-sample forgetting risk via loss dynamics and prioritizes vulnerable knowledge for rehearsal, achieving an average Micro-F1 of 0.8022 across sequential tasks. The deployment stage employs Anchor-Protected Progressive Merging (APPM), which exploits the asymmetric generalization produced by FAR training to identify the strongest-generalizing adapter as an anchor and consolidates all adapters into a single model via anchor-protected weighted merging with frequency-domain gate competition. APPM achieves a Micro-F1 of 0.8085, within 2.7% of the independent per-task upper bound, at a merge cost of 156 ms and no additional runtime memory. Experiments on DIVE confirm the framework effectively addresses all three challenges for evolving blockchain ecosystems.",
-    "title_zh": "基于大语言模型的频率感知持续学习智能合约漏洞检测方法",
-    "abstract_zh": "基于大语言模型（LLM）的智能合约漏洞检测面临三个因果关联的挑战。首先，新型漏洞类别需要参数高效的适配方法，因为对于顺序到达的任务而言，全量重新训练的代价过于高昂。其次，在共享骨干网络上为各任务分别训练适配器会导致对先前所学漏洞知识的灾难性遗忘。第三，由此产生的多个适配器必须被整合为单一模型，因为在推理阶段任务的标识是未知的。每个挑战都直接源于对其前序问题的解决方案，这使得构建一个统一的集成框架至关重要。为此，我们提出了一种三阶段流水线，每个阶段针对一项挑战展开，并衔接至下一阶段。适配阶段采用频率感知低秩自适应（FA-LoRA），该方法在傅里叶域执行适配操作，并引入逐频率重要性门控机制，仅需0.4%的可训练参数，同时性能优于标准LoRA与QLoRA。持续学习阶段应用遗忘感知重放（FAR），该机制利用上述频率门控，通过分析损失动态变化来估算每个样本的遗忘风险，并优先对漏洞相关知识进行重放训练，在连续任务上取得了平均0.8022的Micro-F1分数。部署阶段采用锚点保护渐进式融合（APPM），该策略利用FAR训练所产生的非对称泛化特性，将泛化能力最强的适配器选定为锚点，并通过引入频域门控竞争的锚点保护加权融合算法，将所有适配器整合为单一模型。APPM实现了0.8085的Micro-F1分数，与独立单任务上限的差距在2.7%以内，且融合耗时仅156毫秒，无需额外的运行时内存开销。在DIVE数据集上的实验证实，该框架能够有效应对不断演进的区块链生态系统所面临的上述全部挑战。"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "TESTNAV: Pareto-Guided Search for Compositional Robustness Testing",
-    "authors": "Arooj Arif, Tobias Hartung, Elena Botoeva, Alexandros Koliousis",
-    "publish": "arXiv",
-    "url": "https://arxiv.org/abs/2608.19882v1",
-    "source": "arXiv",
-    "abstract": "Deep learning models remain vulnerable to real-world input perturbations, especially when multiple corruptions co-occur in the same input (e.g., brightness shifts and motion blur). Compositional testing reveals these interaction effects but introduces two challenges: combinatorial growth of the perturbation space as dimensions and severity levels increase, and uneven diagnostic value-many combinations yield unrealistically degraded inputs with limited practical relevance. We present TESTNAV, 1 a Pareto-guided robustness testing framework for efficiently exploring discrete, compositional perturbation spaces when only a limited number of perturbation configurations can be evaluated. TESTNAV prioritises severe yet realistic failures by formulating robustness testing as bi-objective optimisation: maximise performance degradation while preserving input fidelity measured by modality-specific metrics (e.g., SSIM and KID for vision; chrF and BERT-F1 for language and code). It uses NSGA-II to approximate the bi-objective Pareto front. Across four benchmarks spanning vision, natural language, and code generation, TESTNAV recovers Pareto fronts up to 2.15x faster than search-based baselines, using 35.8%-89.3% of the discrete perturbation space defined by four perturbation dimensions with six levels each.",
-    "title_zh": "TESTNAV：面向组合鲁棒性测试的帕累托引导搜索",
-    "abstract_zh": "深度学习模型在面对真实世界的输入扰动时依然脆弱，尤其是在多种扰动在同一输入中共现时（例如亮度变化与运动模糊）。组合测试能够揭示这些交互效应，但也带来了两大挑战：随着维度数量和严重程度等级的增加，扰动空间呈组合式增长；以及诊断价值分布不均——许多组合会导致输入出现不切实际的过度退化，实际参考价值有限。为此，我们提出了 TESTNAV，一种帕累托引导的鲁棒性测试框架。在仅能评估有限数量扰动配置的前提下，该框架能够高效探索离散的、组合式的扰动空间。TESTNAV 将鲁棒性测试建模为双目标优化问题，以优先发现严重但符合实际的失效模式：在最大化模型性能下降的同时，利用模态特定指标（如视觉领域的 SSIM 和 KID，语言与代码领域的 chrF 和 BERT-F1）来保持输入保真度。该框架采用 NSGA-II 算法来逼近该双目标帕累托前沿。在涵盖视觉、自然语言处理和代码生成的四个基准测试中，TESTNAV 恢复帕累托前沿的速度比基于搜索的基线方法最高快 2.15 倍，且仅使用了由四个扰动维度（每维度设六个等级）所构成的离散扰动空间的 35.8% 至 89.3%。"
+    "title_zh": "基于大语言模型的频率感知持续学习智能合约漏洞检测（若作为正式论文标题，中文习惯常于末尾补充“方法”二字，即：`基于大语言模型的频率感知持续学习智能合约漏洞检测方法`）",
+    "abstract_zh": "基于大语言模型（LLM）的智能合约漏洞检测面临三个因果关联的挑战。首先，新的漏洞类别需要参数高效的适配方法，因为对于顺序到达的任务而言，全量重新训练的代价过于高昂。其次，在共享骨干网络上为每个任务训练适配器会导致对先前所学漏洞的灾难性遗忘。第三，由此产生的多个适配器必须被整合为一个单一模型，因为在推理阶段无法获知具体的任务身份。每一项挑战都直接源于对其前序问题的解决方案，这使得构建一个集成框架变得至关重要。为此，我们提出了一种三阶段流水线架构，各阶段分别针对一项挑战展开工作并依次衔接。适配阶段采用频率感知低秩自适应（FA-LoRA），该方法在傅里叶域中进行适配，并引入逐频率重要性门控机制，仅需0.4%的可训练参数，性能即优于标准LoRA与QLoRA。持续学习阶段应用遗忘感知重放（FAR）技术，利用上述频率门控通过损失动态变化来估算每个样本的遗忘风险，并优先对漏洞知识进行重放训练，在连续任务上取得了平均0.8022的Micro-F1分数。部署阶段采用锚点保护渐进式融合（APPM）方法，利用FAR训练所产生的非对称泛化特性，将泛化能力最强的适配器选定为锚点，并通过带有频域门控竞争的锚点保护加权融合，将所有适配器整合为单一模型。APPM达到了0.8085的Micro-F1分数，仅低于独立单任务上限2.7%，且融合耗时仅为156毫秒，无需额外的运行时内存开销。在DIVE数据集上的实验证实，该框架能够有效应对不断演进的区块链生态系统中的全部三项挑战。"
   },
   {
     "date": "2026-08-20",
@@ -40,8 +29,8 @@
     "url": "https://arxiv.org/abs/2608.19799v1",
     "source": "arXiv",
     "abstract": "Software increasingly functions as part of the scientific instrument itself, making failures in scientific code capable of compromising not only program behavior but also the evidence underlying scientific conclusions. Yet existing evaluations of coding agents largely emphasize aggregate task success, providing limited insight into why agents fail when repairing scientific software. We introduce \\textbf{SWE-bench Science}, a repository-level benchmark for scientific software engineering comprising 119 tasks from 98 GitHub repositories across 20 scientific domains. Each task is organized into one of three paradigms: Issue-driven, Expert-exploratory, and Engineering-integration. Even the best-performing agent, \\textbf{Claude Code with Opus-5 (max), achieves a pass@1 below 50\\%}, highlighting the substantial challenges posed by scientific software engineering. We identify four recurring failure mechanisms: deficits in scientific knowledge or abstraction, misguided exploration or surface-level repair, incomplete repair coverage or system integration, and failures to generalize scientific knowledge beyond observed cases in our analysis. We further conduct a paired ablation that removes explicit scientific guidance while preserving the repository and executable engineering context. The results show that scientific knowledge is not uniformly beneficial: well-grounded information can constrain repair and improve average performance and token efficiency, whereas poorly aligned guidance can induce anchoring and does not necessarily improve exact repair success. Together, SWE-bench Science provides a broad testbed for studying both the capabilities and failure mechanisms of coding agents in scientific software engineering.",
-    "title_zh": "SWE-bench 科学版：编程智能体能否解决科学领域的工程任务？",
-    "abstract_zh": "软件日益成为科学仪器本身的一部分，这使得科学代码中的故障不仅会破坏程序行为，还可能危及科学结论所依赖的证据。然而，现有对编码智能体的评估大多侧重于综合任务成功率，难以深入揭示智能体在修复科学软件时为何会失败。我们推出了 \\textbf{SWE-bench Science}，这是一个面向科学软件工程的代码库级基准测试，涵盖来自20个科学领域、98个GitHub仓库的119项任务。每项任务被划分为三种范式之一：问题驱动型（Issue-driven）、专家探索型（Expert-exploratory）和工程集成型（Engineering-integration）。即使表现最佳的智能体 \\textbf{Claude Code with Opus-5 (max)}，其 pass@1 仍低于 50%，凸显了科学软件工程面临的严峻挑战。我们的分析识别出四种反复出现的失败机制：科学知识或抽象能力不足、探索方向偏差或仅做表层修复、修复覆盖不全或系统集成失败，以及无法将科学知识泛化至已观察案例之外。此外，我们开展了一项配对消融实验，在保留代码库与可执行工程上下文的同时移除了显式科学指导。结果表明，科学知识的作用并非一成不变：扎实可靠的信息能够约束修复过程，提升平均性能与 Token 效率；而对齐不佳的指导则可能引发锚定效应，且未必能提高精确修复的成功率。总体而言，SWE-bench Science 为研究编码智能体在科学软件工程中的能力边界与失败机制提供了一个广泛的测试平台。"
+    "title_zh": "SWE-bench Science：编程智能体能否解决科学领域的工程任务？",
+    "abstract_zh": "软件日益成为科学仪器本身的一部分，这使得科学代码中的故障不仅会破坏程序行为，还会危及支撑科学结论的证据基础。然而，现有的编程智能体评估大多侧重于整体任务成功率，对于智能体在修复科学软件时为何失败缺乏深入洞察。为此，我们推出了 **SWE-bench Science**，这是一个面向科学软件工程的仓库级基准测试，涵盖来自20个科学领域、98个GitHub仓库的119项任务。每项任务均归属于三种范式之一：问题驱动型（Issue-driven）、专家探索型（Expert-exploratory）与工程集成型（Engineering-integration）。即使表现最佳的智能体 **Claude Code with Opus-5 (max)**，其 pass@1 也低于 50%，这凸显了科学软件工程所面临的严峻挑战。我们的分析识别出四种反复出现的失败机制：科学知识或抽象能力欠缺、探索路径偏差或仅做表层修复、修复覆盖不全或系统集成失败，以及无法将科学知识泛化至观测案例之外。此外，我们还进行了一项配对消融实验，在保留代码库与可执行工程上下文的同时移除显式科学指导。结果表明，科学知识并非总是有益：扎实的信息能够约束修复过程并提升平均性能与Token效率，而对齐不佳的指导则可能引发锚定效应，且未必能提高精确修复的成功率。综上所述，SWE-bench Science 为研究编程智能体在科学软件工程中的能力与失败机制提供了一个广阔的测试平台。"
   },
   {
     "date": "2026-08-20",
@@ -51,8 +40,30 @@
     "url": "https://arxiv.org/abs/2608.20318v1",
     "source": "arXiv",
     "abstract": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective or update rule improves the compute\\mbox{-}capability exchange rate for every subsequent run, including the one that produces the next agent. Whether RSI is feasible therefore turns on whether an agent can design training algorithms. No benchmark isolates that ability: existing suites are won by collecting data or by tuning hyperparameters, and none tells a change to how a run is executed apart from a change to how the model learns. We present AI4AI\\mbox{-}Bench, 10 frozen research repositories spanning 10 training algorithm families. In each task, an agent has 4 hours on one B300 to rewrite the training algorithm; its code is then rerun from scratch for up to 12 hours and scored by a fixed evaluator hidden from the agent, against the repository's original algorithm under the same procedure. Because the 10 metrics are incommensurable, every task is mapped onto one scale on which $0$ is an uninformative model, $0.1$ is the algorithm the repository ships, and $1.0$ is the task optimum. Across 29 configurations of 6 systems on all 10 tasks the mean score is $0.166$, and the best system reaches $0.250$: even the strongest closes under a fifth of the distance between the algorithm that was already there and the optimum. The submissions show where that distance went: most never change how the model learns at all, and the minority that do average $0.226$ against $0.126$ for the rest. More reasoning effort mostly buys the willingness to go there, taking that minority from $8\\%$ of submissions to $64\\%$ and the mean score from $0.094$ to $0.196$. We release the task suite, the evaluators and every scored submission, so that the measurement can be repeated as these systems change.",
-    "title_zh": "AI4AI-Bench：面向递归自我改进算法设计的大语言模型智能体基准测试",
-    "abstract_zh": "递归自我改进（Recursive Self-Improvement, RSI）探讨的是，人工智能系统是否能够优化其自身的生成流程，从而使下一代系统能够继承这一改进。该过程即为训练算法：更优的目标函数或更新规则能够提升每一次后续运行中的“算力-能力”转化效率，其中包括用于生成下一代智能体的那一次运行。因此，RSI 的可行性最终取决于智能体是否具备设计训练算法的能力。目前尚无基准测试能够单独评估这一能力：现有评测集通常依赖数据收集或超参数调优即可取得高分，且没有任何一项能够明确区分“运行执行方式的改变”与“模型学习机制的改变”。为此，我们推出了 AI4AI-Bench 基准，包含 10 个经过冻结处理的研究代码库，涵盖 10 类不同的训练算法。在每项任务中，智能体将使用单台 B300 设备运行 4 小时以重写训练算法；随后，其生成的代码将从头开始重新运行最长 12 小时，并由一个智能体不可见的固定评估器进行打分，评估标准与该代码库原始算法在相同流程下的表现进行对比。由于这 10 项指标彼此不可通约，我们将每项任务的得分统一映射至同一量纲：其中 $0$ 代表无信息量的模型，$0.1$ 代表代码库随附的原始算法，而 $1.0$ 则代表该任务的最优理论上限。在 6 个系统于全部 10 项任务上的 29 种配置中，平均得分为 $0.166$，最高分仅为 $0.250$：即便是表现最强的系统，也仅填补了原始算法与理论最优值之间差距的五分之一不到。这些提交结果揭示了差距的来源：绝大多数方案根本未触及模型学习机制的改变；而真正做出改变的少数方案平均得分为 $0.226$，远高于其余方案的 $0.126$。增加推理投入主要提升了智能体尝试修改学习机制的意愿，使得此类方案的比例从 $8\\%$ 跃升至 $64\\%$，平均得分也从 $0.094$ 提升至 $0.196$。我们公开了任务套件、评估器以及所有带分数的提交记录，以便随着相关系统的演进，后续研究能够持续复现并验证这一评测结果。"
+    "title_zh": "AI4AI-Bench：面向递归自我改进的大语言模型智能体算法设计基准测试",
+    "abstract_zh": "递归自我改进（RSI）探讨的是：一个AI系统能否改进生成AI系统的过程，从而使下一个系统能够继承这一改进。该过程即为训练算法：更优的目标函数或更新规则能够提升每次后续运行的“算力-能力”转换率，包括用于生成下一个智能体的那一次运行。因此，RSI是否可行，关键在于智能体是否能够设计训练算法。目前没有任何基准测试能单独剥离出这种能力：现有评测套件往往通过收集数据或调整超参数即可获胜，且它们均无法区分“运行执行方式的改变”与“模型学习机制的改变”。为此，我们推出AI4AI-Bench，包含10个冻结的研究代码库，涵盖10类训练算法。在每个任务中，智能体拥有一块B300显卡和4小时的时间来重写训练算法；随后，其代码将从头重新运行最多12小时，并由一个对智能体隐藏的固定评估器进行评分，评估时与该代码库原始算法在相同流程下的表现进行对比。由于这10项指标彼此不可通约，每个任务都被映射到一个统一的量纲上：其中$0$代表无信息模型，$0.1$代表代码库自带的原始算法，$1.0$代表该任务的最优水平。在6个系统在全部10个任务上的29种配置中，平均得分为$0.166$，最佳系统达到$0.250$：即便是最强的系统，也仅完成了从现有算法到最优水平之间不到五分之一的距离。提交结果揭示了这段差距的成因：大多数方案从未改变模型的学习方式，而少数真正做出改变的方案平均得分为$0.226$，其余未改变的仅为$0.126$。更多的推理投入主要换来的是尝试改进的意愿，使这类方案的比例从占提交的$8\\%$提升至$64\\%$，平均得分也从$0.094$提高到$0.196$。我们公开了任务套件、评估器以及所有带分数的提交结果，以便随着这些系统的演进，相关测量得以重复验证。"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation",
+    "authors": "Zhijun Gao, Jing Chen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.20195v1",
+    "source": "arXiv",
+    "abstract": "Technical documentation is written for human developers, but an increasing share of software changes is now authored by autonomous coding agents. Which documents they consult, when, and what follows remain unknown. We conduct a behaviour-grounded study of agent-documentation interaction across two public datasets: 557 agentic coding sessions from SWE-chat, yielding 94,813 development events including 3,033 documentation interactions; and 33,097 agentic pull requests from AIDev, with 690,260 classified file-level change records. Four findings challenge current documentation practice. First, agents' documentation work is dominated by agent-facing artefacts: instruction files and working notes account for 60.5% of all documentation interactions, versus 10.6% for classical technical documentation and 1.3% for API references. Second, the link between consultation and code editing is unresolved: the adjacent transition probability is 0.002 and the unadjusted three-event lift 1.05, whereas a stage-adjusted model places it above unity (OR 1.33 [1.09, 1.62]); documentation creation is elevated unadjusted (lift 1.67) but its adjusted interval includes unity. Third, no explicit documentation-based validation sequence was observed, and consultation is associated with less immediate testing (lift 0.23, cluster CI 0.08-0.45; adjusted OR 0.39 [0.25, 0.60]). Fourth, consultation is self-initiated (70.2%) far more often than failure-driven (7.5%), and documentation trails code: among multi-commit pull requests changing both, code is touched first 4.7x more often. From these traces we derive a descriptive model of agent-documentation interaction as a two-lobed cycle rather than a linear journey, and show that two widely assumed properties of \"agent-friendly\" documentation - actionability and verifiability - lack consistent behavioural support. We release our pipeline, coding scheme, and event-level data.",
+    "title_zh": "从智能体行为到智能体友好型文档：编程智能体如何发现、阅读与编写技术文档的实证研究",
+    "abstract_zh": "技术文档原本是为人类开发者编写的，但如今越来越多的软件变更是由自主编码智能体生成的。它们会查阅哪些文档、何时查阅以及后续行为如何，目前仍不清楚。我们基于两个公开数据集开展了一项关于智能体与文档交互的行为实证研究：一是来自 SWE-chat 的 557 个智能体编码会话，共产生 94,813 个开发事件（含 3,033 次文档交互）；二是来自 AIDev 的 33,097 个智能体拉取请求（Pull Requests），包含 690,260 条分类后的文件级变更记录。四项发现对当前的文档实践提出了挑战。首先，智能体的文档工作主要由面向智能体的工件主导：说明文件和工作笔记占所有文档交互的 60.5%，而传统技术文档和 API 参考文档分别仅占 10.6% 和 1.3%。其次，文档查阅与代码编辑之间的关联尚未明确：相邻转移概率仅为 0.002，未调整的三事件提升值为 1.05；而经阶段调整后的模型显示其大于 1（优势比 OR=1.33 [1.09, 1.62]）；文档创建的未调整提升值为 1.67，但其调整后置信区间包含 1。第三，未观察到明确的基于文档的验证序列，且文档查阅与更少的即时测试相关（提升值 0.23，聚类置信区间 0.08-0.45；调整后优势比 OR=0.39 [0.25, 0.60]）。第四，文档查阅多为自主发起（70.2%），远多于由失败驱动（7.5%），且文档往往滞后于代码：在同时修改两者的多提交拉取请求中，代码被优先修改的次数是文档的 4.7 倍。基于这些轨迹数据，我们构建了一个描述性模型，将智能体与文档的交互视为一种“双叶循环”而非线性流程，并表明“对智能体友好”的文档所普遍假设的两个特性——可操作性与可验证性——缺乏一致的行为学支持。我们将开源本研究的处理流水线、编码方案及事件级数据。"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "TESTNAV: Pareto-Guided Search for Compositional Robustness Testing",
+    "authors": "Arooj Arif, Tobias Hartung, Elena Botoeva, Alexandros Koliousis",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.19882v1",
+    "source": "arXiv",
+    "abstract": "Deep learning models remain vulnerable to real-world input perturbations, especially when multiple corruptions co-occur in the same input (e.g., brightness shifts and motion blur). Compositional testing reveals these interaction effects but introduces two challenges: combinatorial growth of the perturbation space as dimensions and severity levels increase, and uneven diagnostic value-many combinations yield unrealistically degraded inputs with limited practical relevance. We present TESTNAV, 1 a Pareto-guided robustness testing framework for efficiently exploring discrete, compositional perturbation spaces when only a limited number of perturbation configurations can be evaluated. TESTNAV prioritises severe yet realistic failures by formulating robustness testing as bi-objective optimisation: maximise performance degradation while preserving input fidelity measured by modality-specific metrics (e.g., SSIM and KID for vision; chrF and BERT-F1 for language and code). It uses NSGA-II to approximate the bi-objective Pareto front. Across four benchmarks spanning vision, natural language, and code generation, TESTNAV recovers Pareto fronts up to 2.15x faster than search-based baselines, using 35.8%-89.3% of the discrete perturbation space defined by four perturbation dimensions with six levels each.",
+    "title_zh": "TESTNAV：用于组合鲁棒性测试的帕累托引导搜索",
+    "abstract_zh": "深度学习模型在面对真实世界的输入扰动时依然脆弱，尤其是在同一输入中同时发生多种扰动（如亮度变化与运动模糊）的情况下。组合测试能够揭示这些交互效应，但同时也带来了两大挑战：一是随着维度数量和严重程度等级的增加，扰动空间呈组合爆炸式增长；二是诊断价值分布不均——许多组合会导致输入出现不符合实际的严重退化，实际参考价值有限。为此，我们提出了 TESTNAV，这是一种基于帕累托优化的鲁棒性测试框架。当仅能评估有限数量的扰动配置时，该框架能够高效地探索离散的组合扰动空间。TESTNAV 将鲁棒性测试建模为双目标优化问题，旨在优先定位“严重但贴近真实”的失效模式：在最大化模型性能下降的同时，尽可能保留输入保真度（通过模态特定指标进行衡量，例如视觉领域的 SSIM 和 KID，语言与代码领域的 chrF 和 BERT-F1）。该框架采用 NSGA-II 算法来逼近该双目标帕累托前沿。在涵盖视觉、自然语言处理和代码生成的四个基准测试中，TESTNAV 收敛至帕累托前沿的速度比基于搜索的基线方法最高快 2.15 倍，且仅需评估由 4 个扰动维度（各含 6 个等级）所构成的离散扰动空间的 35.8% 至 89.3%。"
   },
   {
     "date": "2026-08-20",
@@ -62,8 +73,8 @@
     "url": "https://arxiv.org/abs/2608.20167v1",
     "source": "arXiv",
     "abstract": "Open-source libraries play an important role in software development by providing reusable features that expedite the development process. As libraries evolve, they release new versions that add features, fix bugs, or apply security patches. In this process, they may break the contract established with their clients by introducing breaking changes (BCs) that alter the runtime behavior and break client applications. Client-side test suites often fail to detect these BCs because of limited library coverage that does not exercise all library methods used in the client's codebase. We propose BreakGuard, an approach that generates a test suite to detect breaking changes in clients. BreakGuard statically extracts every client method (focal method) that invokes the target library method (call site), then generates tests per focal method. A test detects a BC if it passes on the pre-breaking version and fails on the breaking version. We evaluate our approach on 89 real-world breaking changes from the BUMP dataset, using 3 LLMs (GPT4o, Qwen3-coder-480B, GPT-OSS-120B) and three context levels: minimal, method, and class. Using the best-performing configuration, BreakGuard detects 30.3% of breaking changes (27 of 89) at a mean cost of roughly $0.90 USD per detected breaking change. We successfully detected BCs from different library categories (e.g., JSON libraries, logging, parsing), but we find LLM-generated tests to be more reliable for detecting crash-type breaking changes as opposed to behavioural BCs.",
-    "title_zh": "BreakGuard：利用大语言模型生成测试检测依赖破坏性变更\n\n（注：学术论文标题中的 “Towards” 在中文语境下通常根据行文习惯意译为“利用/基于/面向”，若需严格对应字面可译为 `BreakGuard：迈向利用大语言模型生成测试检测依赖破坏性变更`，两者均符合软件工程领域学术规范。）",
-    "abstract_zh": "开源库在软件开发中扮演着重要角色，通过提供可复用的功能组件，有效加快了开发进程。随着库的不断演进，其新版本会持续引入新功能、修复缺陷或打安全补丁。在此过程中，库可能会因引入破坏性变更（Breaking Changes, BCs）而违背与调用方之间既定的契约。这些变更会改变程序的运行时行为，从而导致客户端应用失效。由于客户端测试套件对库的覆盖范围有限，未能充分调用客户端代码中所使用的所有库方法，因此往往难以检测出这些破坏性变更。为此，我们提出了 BreakGuard，一种旨在自动生成测试套件以检测客户端应用中破坏性变更的方法。BreakGuard 首先静态提取所有调用目标库方法的客户端方法（即“焦点方法”），随后针对每个焦点方法自动生成对应的测试用例。若某测试用例在变更前的旧版本上运行通过，而在引入变更的新版本上运行失败，则判定该用例成功检测到了破坏性变更。我们在 BUMP 数据集包含的 89 个真实世界破坏性变更案例上对所提方法进行了评估。实验采用了三种大语言模型（GPT-4o、Qwen3-coder-480B、GPT-OSS-120B），并设置了三种上下文信息层级：最小（minimal）、方法级（method）和类级（class）。在性能最优的配置下，BreakGuard 能够检出 30.3%（27/89）的破坏性变更，平均每成功检测一个变更的成本约为 0.90 美元。实验表明，该方法能有效检测来自不同类别库（如 JSON 处理、日志记录、语法解析等）的破坏性变更；但我们也发现，相较于行为型变更，大语言模型生成的测试用例在检测导致程序崩溃的破坏性变更时更为可靠。"
+    "title_zh": "BreakGuard：基于大语言模型生成测试的依赖破坏性变更检测",
+    "abstract_zh": "开源库在软件开发中扮演着重要角色，通过提供可复用的功能组件，有效加快了开发进程。随着库的不断演进，其新版本通常会引入新功能、修复缺陷或打安全补丁。在此过程中，它们可能会因引入破坏性变更（Breaking Changes, BCs）而破坏与客户端既定的契约。这些变更会改变程序的运行时行为，从而导致客户端应用程序失效。由于客户端测试套件的库覆盖率有限，未能充分覆盖客户端代码中所调用的所有库方法，因此往往难以检测出这些破坏性变更。为此，我们提出了 BreakGuard，这是一种用于生成测试套件以检测客户端中破坏性变更的方法。BreakGuard 首先静态提取所有调用目标库方法的客户端方法（即“焦点方法”），随后针对每个焦点方法自动生成对应的测试用例。若某项测试在变更前版本上通过，但在引入变更的版本上失败，则判定该测试成功检测到了破坏性变更。我们在 BUMP 数据集包含的 89 个真实世界破坏性变更案例上对该方法进行了评估。实验使用了三种大语言模型（GPT-4o、Qwen3-coder-480B、GPT-OSS-120B），并设置了三种上下文信息层级：最小化（minimal）、方法级（method）和类级（class）。在性能最优的配置下，BreakGuard 成功检测出 30.3%（27/89）的破坏性变更，平均每检测出一个变更的成本约为 0.90 美元。实验表明，该方法能有效检测来自不同类别库（如 JSON 处理、日志记录、语法解析等）的破坏性变更；但我们也发现，相较于行为型变更，大语言模型生成的测试用例在检测导致程序崩溃的破坏性变更时更为可靠。"
   },
   {
     "date": "2026-08-20",
@@ -73,19 +84,8 @@
     "url": "https://arxiv.org/abs/2608.19626v1",
     "source": "arXiv",
     "abstract": "Execution feedback is often treated as a self-verifying signal for improving LLM-generated tests. However, when generated inputs are executed on a single accepted program and its outputs are used as ground truth, invalid or underspecified inputs can create spurious fault detections and apparent evolutionary gains. We audit this failure mode in feedback-driven test generation using 142 development tasks, 114 locked external tasks, and 138 held-out tasks, with two code models, three seeds, and fault-cross-fitted real submissions. On external inputs for which three accepted implementations agree, generated outputs match the panel on only 27.79% and 50.12% of cases. A single-reference oracle inflates the measured gain from evolution by 9.46-14.85 percentage points; after auditing, equal-budget independent resampling outperforms mutation-based evolution by 6.01-18.83 points. We further compare a genuine three-round feedback loop with a density-matched placebo. External Real-Placebo differences are +0.13 and -0.50 points, while held-out differences are +1.99 and +0.28 points and do not provide robust evidence of fine-grained feedback benefit. A blinded semantic audit by two software engineering doctoral students classifies 94.41% of panel-disconfirmed inputs as invalid but 3.60% as valid, showing that panel disagreement is informative but not semantic proof. We propose an audit-and-placebo protocol that separates verifier artifacts, interaction scaffolding, and grounded feedback credit in evaluations of self-evolving test generators.",
-    "title_zh": "预言机问题下大语言模型测试生成中反馈驱动演化的审计与分解",
-    "abstract_zh": "执行反馈通常被视为改进大语言模型（LLM）生成测试的自验证信号。然而，当生成的输入在单个通过的程序上执行，且其输出被用作基准事实时，无效或未充分定义的输入会引发虚假的故障检测与表观的进化增益。我们基于142个开发任务、114个锁定外部任务和138个预留任务，结合两个代码模型、三个随机种子及跨故障拟合的真实提交，对反馈驱动测试生成中的这一失效模式开展了审计。针对三个通过实现达成一致的外部输入，生成输出仅在27.79%和50.12%的案例中与评审组结论一致。单一参考预言机使测得的进化增益虚高9.46至14.85个百分点；经审计校正后，等预算独立重采样较基于变异的进化方法领先6.01至18.83分。我们进一步将真实的三轮反馈回路与密度匹配的安慰剂对照组进行对比。外部任务的真实与安慰剂差异分别为+0.13和-0.50分，预留任务的差异为+1.99和+0.28分，均未能为细粒度反馈的收益提供稳健证据。两名软件工程博士生的盲态语义审计将94.41%被评审组否决的输入判定为无效，但仍有3.60%被判为有效，表明评审分歧虽具信息价值，却非语义层面的确证。为此，我们提出一种“审计-安慰剂”协议，旨在评估自进化测试生成器时，将验证器伪影、交互脚手架与实质性反馈贡献予以剥离。"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "Automated Estimation of MBIST Area and Test Time in Heterogeneous Memory IPs via Stacked Ensemble Framework",
-    "authors": "Chee Jin Teoh, Ab Al-Hadi Ab Rahman, Johnny Kee Hui Wong, Premkumar A/L Kesavan Prabagaran, Muhammad Nadzir Marsono, Nuzhat Khan",
-    "publish": "arXiv",
-    "url": "https://arxiv.org/abs/2608.19705v1",
-    "source": "arXiv",
-    "abstract": "Embedded memories occupy a large portion of modern System-on-Chip (SoC) designs, especially in high-performance applications such as artificial intelligence and edge computing. Memory Built-In Self-Test (MBIST) is commonly used to ensure memory reliability, but it introduces additional area and test time overhead. Accurate early estimation of these overheads is important during design planning, yet conventional methods rely on full Register Transfer Level (RTL) synthesis and test pattern generation, which are slow and resource-intensive. This study proposes a supervised learning framework that predicts MBIST area and test time directly from RTL-level design parameters without synthesis. A dataset of 4,470 samples for area and 624 for test time was generated using Synopsys Design Compiler and MINT, an Intel-enhanced MBIST tool. Input features include memory count, word width, address depth, port configuration, and clock domains. For area prediction, the features are processed through polynomial expansion, log transformation, and scaling, followed by a stacked ensemble model using XGBoost, LightGBM, and a Neural Network with Gradient Boosting as the meta-learner. For test time, XGBoost and LightGBM are combined using Ridge Regression, with hyperparameters tuned through a 100-trial Optuna search. The models achieved 90.68% accuracy for area and 96.80% for test time within a +/-10% margin, improving over baseline methods by 8.53% and 48.80% respectively. The results show that this approach enables faster estimation of MBIST costs and supports more efficient design decisions in memory IP development.",
-    "title_zh": "基于堆叠集成框架的异构内存IP中MBIST面积与测试时间的自动估算",
-    "abstract_zh": "嵌入式存储器在现代片上系统（SoC）设计中占据了相当大的比重，尤其在人工智能和边缘计算等高性能应用中更为突出。存储器内置自测试（MBIST）常用于保障存储器的可靠性，但也会带来额外的面积与测试时间开销。在设计规划阶段对这些开销进行准确的早期预估至关重要，然而传统方法依赖于完整的寄存器传输级（RTL）综合与测试向量生成，过程缓慢且资源消耗大。为此，本研究提出了一种监督学习框架，能够直接基于RTL级设计参数预测MBIST的面积与测试时间，而无需进行综合。研究利用Synopsys Design Compiler以及英特尔优化版MBIST工具MINT，构建了包含4,470个面积样本和624个测试时间样本的数据集。输入特征涵盖存储器数量、字宽、地址深度、端口配置及时钟域。针对面积预测，首先对特征进行多项式展开、对数变换与数据缩放处理，随后采用XGBoost、LightGBM以及以梯度提升树为元学习器的神经网络构建堆叠集成模型。针对测试时间预测，则采用岭回归将XGBoost与LightGBM进行融合，并通过100次Optuna搜索完成超参数调优。实验结果表明，该模型在误差控制在±10%以内的条件下，面积预测准确率达90.68%，测试时间预测准确率达96.80%，较基线方法分别提升了8.53%和48.80%。研究结果证实，该方法可显著加快MBIST开销的预估速度，从而为存储器IP的开发提供更高效的设计决策支持。"
+    "title_zh": "测试预言机问题下大语言模型测试生成中反馈驱动演化的审计与分解",
+    "abstract_zh": "执行反馈常被视作一种自验证信号，用于优化大语言模型（LLM）生成的测试用例。然而，若将生成的输入在单一通过程序上执行，并将其输出作为标准答案，那么无效或定义不充分的输入会导致虚假的错误检测以及看似显著的进化提升。为审计反馈驱动测试生成中的这一失效模式，我们采用了142个开发任务、114个锁定外部任务及138个预留任务，并基于两种代码模型、三个随机种子以及经过故障交叉拟合的真实提交记录展开评估。针对三个通过实现均达成一致的外部输入，模型生成的输出仅在与人工评审组一致的案例中分别占27.79%和50.12%。单一参考预言机会使测得的进化增益虚高9.46至14.85个百分点；经审计校正后，等预算独立重采样方法的性能比基于突变的方法高出6.01至18.83个百分点。此外，我们将真实的三轮反馈回路与密度匹配的安慰剂对照进行了对比。外部任务中“真实反馈”与“安慰剂”的差异分别为+0.13和-0.50分，而预留任务的差异为+1.99和+0.28分，这些结果并未为细粒度反馈带来的实际收益提供强有力的证据。由两名软件工程博士生执行的盲审语义分析显示，人工评审组未予认可的输入中有94.41%被判定为无效，另有3.60%被判定为有效。这表明评审组的分歧虽具参考价值，但并不能作为语义层面的确凿证据。为此，我们提出了一套“审计-对照”协议，旨在评估自演化测试生成器时，有效剥离验证器伪影、交互结构干扰与实质性反馈收益。"
   },
   {
     "date": "2026-08-20",
@@ -96,7 +96,18 @@
     "source": "arXiv",
     "abstract": "Data analyses are usually designed to identify some property of the population from which the data are drawn, generalizing beyond the specific data sample. For this reason, data analyses are often designed to produce a low generalization error, so that the result of an analysis on sample data does not differ too much from the result one would achieve over the entire population. An adaptive data analysis can be seen as a process composed of multiple queries interrogating some data, where the choice of which query to run next may rely on the results of previous queries. The generalization error of each individual query can be controlled using well-established statistical techniques. However, when queries are arbitrarily composed, errors can propagate through the chain of queries and lead to high generalization error. To address this issue, several techniques guarantee bounds not only on single queries but also on composed analyses. The choice of technique often depends on the chain of queries that an adaptive data analysis can generate. In this work, we consider adaptive data analyses implemented as while-like programs and design a program analysis to help identify which technique to use to control their generalization errors. More specifically, we formalize the intuitive notion of adaptivity as a quantitative property of programs. Based on this definition, we design a program analysis for soundly approximating this quantity. The analysis represents the data analysis as a weighted dependency graph, where weights upper-bound how often variables can be reached, and uses a path-search strategy to upper-bound adaptivity. We implement our program analysis and show that it can analyze several concrete data analyses with different adaptivity structures.",
     "title_zh": "面向自适应数据分析的程序分析",
-    "abstract_zh": "数据分析通常旨在识别数据所属总体的某些属性，从而超越具体样本进行统计推断。因此，数据分析往往被设计为产生较低的泛化误差，以确保基于样本的分析结果与在全量总体上进行分析所得的结果不会存在显著差异。自适应数据分析可被视为一个由多次数据查询组成的过程，其中下一次执行何种查询的选择可能依赖于先前查询的结果。利用成熟的统计技术，可以控制每个独立查询的泛化误差。然而，当查询被任意组合时，误差会在查询链中累积传播，从而导致较高的泛化误差。为解决这一问题，现有多种技术不仅能保证单个查询的误差界限，也能保证组合分析的误差界限。具体技术的选择通常取决于自适应数据分析所生成的查询链结构。在本研究中，我们以类 `while` 程序形式实现的自适应数据分析为对象，设计了一种程序分析方法，以帮助确定应采用何种技术来控制其泛化误差。更具体而言，我们将直观的“自适应性”概念形式化为程序的定量属性。基于该定义，我们设计了一种程序分析方法，用于安全地近似该定量值。该方法将数据分析建模为加权依赖图，图中的权重为变量可达频率设定上界，并结合路径搜索策略为自适应程度提供上界。我们实现了该程序分析方法，结果表明它能够分析具有不同自适应结构的多个具体数据分析案例。"
+    "abstract_zh": "数据分析通常旨在识别数据所属总体的某些属性，从而超越特定数据样本进行推广。因此，数据分析的设计目标通常是获得较低的泛化误差，以确保基于样本的分析结果与在全总体上进行分析的结果不会相差太大。自适应数据分析可被视为一个由多次查询组成的过程，这些查询针对特定数据进行；其中，下一次执行哪个查询可能依赖于先前查询的结果。利用成熟的统计技术可以控制每个单独查询的泛化误差。然而，当查询被任意组合时，误差会在查询链中传播，从而导致较高的泛化误差。为解决这一问题，现有技术不仅能为单个查询提供误差界限，也能为组合分析提供误差界限。具体选择哪种技术，通常取决于自适应数据分析所能生成的查询链。在本研究中，我们将以类 while 程序形式实现的自适应数据分析作为研究对象，并设计了一种程序分析方法，以帮助确定应采用何种技术来控制其泛化误差。更具体地说，我们将直观的“自适应性”概念形式化为程序的定量属性。基于该定义，我们设计了一种程序分析方法，用于安全地近似该数值。该方法将数据分析表示为加权依赖图，图中权重为变量可达频率提供上界，并利用路径搜索策略为自适应程度提供上界。我们实现了该程序分析方法，并表明它能够分析具有不同自适应结构的多个具体数据分析实例。"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Automated Estimation of MBIST Area and Test Time in Heterogeneous Memory IPs via Stacked Ensemble Framework",
+    "authors": "Chee Jin Teoh, Ab Al-Hadi Ab Rahman, Johnny Kee Hui Wong, Premkumar A/L Kesavan Prabagaran, Muhammad Nadzir Marsono, Nuzhat Khan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.19705v1",
+    "source": "arXiv",
+    "abstract": "Embedded memories occupy a large portion of modern System-on-Chip (SoC) designs, especially in high-performance applications such as artificial intelligence and edge computing. Memory Built-In Self-Test (MBIST) is commonly used to ensure memory reliability, but it introduces additional area and test time overhead. Accurate early estimation of these overheads is important during design planning, yet conventional methods rely on full Register Transfer Level (RTL) synthesis and test pattern generation, which are slow and resource-intensive. This study proposes a supervised learning framework that predicts MBIST area and test time directly from RTL-level design parameters without synthesis. A dataset of 4,470 samples for area and 624 for test time was generated using Synopsys Design Compiler and MINT, an Intel-enhanced MBIST tool. Input features include memory count, word width, address depth, port configuration, and clock domains. For area prediction, the features are processed through polynomial expansion, log transformation, and scaling, followed by a stacked ensemble model using XGBoost, LightGBM, and a Neural Network with Gradient Boosting as the meta-learner. For test time, XGBoost and LightGBM are combined using Ridge Regression, with hyperparameters tuned through a 100-trial Optuna search. The models achieved 90.68% accuracy for area and 96.80% for test time within a +/-10% margin, improving over baseline methods by 8.53% and 48.80% respectively. The results show that this approach enables faster estimation of MBIST costs and supports more efficient design decisions in memory IP development.",
+    "title_zh": "基于堆叠集成框架的异构内存IP的MBIST面积与测试时间自动估算",
+    "abstract_zh": "嵌入式存储器在现代片上系统（SoC）设计中占据了相当大的比重，尤其在人工智能和边缘计算等高性能应用中更为突出。存储器内置自测试（MBIST）常用于保障存储单元的可靠性，但会引入额外的面积与测试时间开销。在设计规划阶段对这些开销进行准确的早期预估至关重要，然而传统方法依赖于完整的寄存器传输级（RTL）综合与测试向量生成，过程缓慢且资源消耗大。为此，本研究提出了一种监督学习框架，能够直接基于RTL级设计参数预测MBIST的面积与测试时间，而无需进行综合。研究利用Synopsys Design Compiler以及英特尔优化的MBIST工具MINT，构建了包含4,470个面积样本和624个测试时间样本的数据集。输入特征涵盖存储器数量、字长、地址深度、端口配置及时钟域。针对面积预测，特征首先经过多项式展开、对数变换与缩放处理，随后采用堆叠集成模型，其中基学习器为XGBoost和LightGBM，元学习器为基于梯度提升的神经网络。针对测试时间预测，则采用岭回归将XGBoost与LightGBM进行融合，并通过100次Optuna搜索完成超参数调优。实验结果表明，该模型在±10%的误差容限内，面积预测准确率达90.68%，测试时间预测准确率达96.80%，较基线方法分别提升了8.53%和48.80%。研究结果证实，该方法可显著加快MBIST开销的预估速度，从而为存储器IP的开发提供更高效的设计决策支持。"
   },
   {
     "date": "2026-08-20",
@@ -106,30 +117,19 @@
     "url": "https://arxiv.org/abs/2608.19653v1",
     "source": "arXiv",
     "abstract": "Autonomous agents for machine learning experimentation must navigate heterogeneous repositories, repair training pipelines, and evaluate candidate improvements under realistic compute constraints. Existing benchmarks only partially capture these conditions. We introduce DeltaML-Bench, a benchmark comprising 48 tasks sourced from research papers that require agents to improve published baselines within imperfect, open-source repositories. We evaluate GPT-5 and Claude Sonnet 4 with a standard Modular agent and a search-based ARG scaffolding. In the 4 x 6h allocation, ARG raises GPT-5's per-run success rate from 9.4% to 33.9%; in the 2 x 12h allocation, GPT-5 ARG reaches 49.0%. Modular configurations exhibit specification gaming rates as high as 47.9%, while no gaming is observed in the evaluated ARG configurations. These results indicate that scaffolding design and integrity checks are important considerations when deploying agents for autonomous ML experimentation.",
-    "title_zh": "DeltaML-Bench：面向真实世界研究代码库的机器学习智能体评估",
-    "abstract_zh": "用于机器学习实验的自主智能体必须能够在异构代码库中进行导航，修复训练流水线，并在真实的计算资源约束下评估候选改进方案。现有基准测试仅能部分反映这些实际条件。我们提出DeltaML-Bench，这是一个包含48个任务的基准测试集，任务均源自研究论文，要求智能体在存在缺陷的开源代码库中改进已发表的基线模型。我们采用标准的模块化智能体与基于搜索的ARG脚手架，对GPT-5和Claude Sonnet 4进行了评估。在4次×6小时的算力分配中，ARG将GPT-5的单次运行成功率从9.4%提升至33.9%；在2次×12小时的分配中，GPT-5结合ARG的成功率达到49.0%。模块化配置表现出高达47.9%的指标投机率，而在所评估的ARG配置中未观察到此类投机行为。这些结果表明，在部署用于自主机器学习实验的智能体时，脚手架设计与完整性检查是重要的考量因素。"
+    "title_zh": "DeltaML-Bench：在真实研究代码库上评估机器学习智能体",
+    "abstract_zh": "用于机器学习实验的自主智能体必须能够处理异构代码库、修复训练流水线，并在实际计算资源约束下评估候选改进方案。现有基准测试仅能部分反映这些条件。我们推出 DeltaML-Bench，这是一个包含48个任务的基准测试集，任务均源自研究论文，要求智能体在存在缺陷的开源代码库中改进已发表的基线模型。我们使用标准的 Modular 智能体和基于搜索的 ARG 脚手架，对 GPT-5 和 Claude Sonnet 4 进行了评估。在 4×6小时 的算力分配中，ARG 将 GPT-5 的单次运行成功率从 9.4% 提升至 33.9%；在 2×12小时 的分配中，GPT-5 配合 ARG 的成功率达到 49.0%。Modular 配置出现了高达 47.9% 的规则利用（钻空子）现象，而在所评估的 ARG 配置中均未观察到此类情况。这些结果表明，在部署用于自主机器学习实验的智能体时，脚手架设计与完整性检查是重要的考量因素。"
   },
   {
     "date": "2026-08-20",
-    "title": "Repo0: Design-Driven Zero-to-All Code Generation",
-    "authors": "Silin Chen, Haoyi Teng, Xiaodong Gu, Yuling Shi, Jiale Huang, Yongpan Wang, Hongyu Zhang, Haibing Guan",
+    "title": "ChatGPT Solves All Tested Qiskit Homework Assignments",
+    "authors": "Alexei Kaltchenko, Gurnivaj Tiwana",
     "publish": "arXiv",
-    "url": "https://arxiv.org/abs/2608.19854v1",
+    "url": "https://arxiv.org/abs/2608.19707v1",
     "source": "arXiv",
-    "abstract": "Large language model agents have made substantial progress in code generation, yet most existing systems assume a predefined repository architecture. This assumption does not hold in zero-to-all code generation, where an agent must construct an entire software project directly from natural-language requirements while maintaining a modular repository architecture throughout development. We present Repo0, a continuous structural evolution framework for zero-to-all code generation. Repo0 maintains an explicit architectural state instantiated as a Dual-Directed-Acyclic-Graph (Dual-DAG), consisting of a requirement-level DAG, a component-level DAG, and their alignment relation. Starting from natural-language requirements, it iteratively evolves component boundaries through structural actions guided by modularity metrics until structural convergence, after which the converged architecture guides test-driven development code generation. We evaluate Repo0 on six real-world repositories from RepoCraft using GPT-5 mini and DeepSeek V3.2. Repo0 achieves the highest Functionality Coverage and Pass Rate across all settings. Compared with RPG, the strongest repository-planning baseline, Repo0 improves Functionality Coverage by up to 20.08 percentage points and Pass Rate by up to 29.74 percentage points. Ablation and structural-evolution analyses further demonstrate the importance of the Dual-DAG architectural state, modularity-guided structural evolution, and explicit structural convergence.",
-    "title_zh": "Repo0：设计驱动的从零到全代码生成",
-    "abstract_zh": "大语言模型智能体在代码生成领域已取得显著进展，但大多数现有系统均预设了固定的代码库架构。这一假设在“从零到全”（zero-to-all）的代码生成任务中并不成立。在该任务中，智能体必须直接基于自然语言需求构建完整的软件项目，并在整个开发过程中始终保持代码库的模块化架构。为此，我们提出了 Repo0，一种面向“从零到全”代码生成的连续结构演化框架。Repo0 维护一个显式的架构状态，该状态以双有向无环图（Dual-DAG）的形式实例化，包含需求级 DAG、组件级 DAG 以及二者之间的对齐关系。系统从自然语言需求出发，通过受模块化指标指导的结构操作迭代地演化组件边界，直至达到结构收敛；随后，收敛后的架构将指导基于测试驱动开发（TDD）的代码生成。我们在 RepoCraft 数据集的六个真实代码库上，结合 GPT-5 mini 与 DeepSeek V3.2 对 Repo0 进行了评估。结果表明，Repo0 在所有实验设置下均取得了最高的功能覆盖率与通过率。相较于最强的代码库规划基线方法 RPG，Repo0 的功能覆盖率最高提升了 20.08 个百分点，通过率最高提升了 29.74 个百分点。消融实验与结构演化分析进一步验证了双有向无环图（Dual-DAG）架构状态、模块化引导的结构演化机制以及显式结构收敛策略的重要性。"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation",
-    "authors": "Xue Jiang, Tianyu Zhang, Lingwei Wu, Ziyu Wang, Ge Li, Yuan Sui, Hao Zhu, Wenpin Jiao, Zhi Jin, Yihong Dong",
-    "publish": "arXiv",
-    "url": "https://arxiv.org/abs/2608.19784v1",
-    "source": "arXiv",
-    "abstract": "LLM agents have achieved strong performance on general software engineering tasks, yet struggle with domain-specific code generation. We identify the root cause as the agent's lack of tacit knowledge, including domain-specific business rules, interface contracts, and operational conventions that developers internalize through practice but never document. This knowledge is deeply buried beneath the domain code, dispersed across code entities and their dependency relations, and invisible to the agent that lacks it. These properties make tacit knowledge inherently difficult to retrieve or learn. In this work, we propose PRAXIS, a framework that enables agents to systematically extract, represent, and reuse tacit knowledge for domain code generation. PRAXIS acquires tacit knowledge by simulating human development workflows within the target codebase, distills it into structured units organized on the code dependency graph, and proactively surfaces it to the agent at the point of code interaction. Extensive experiments demonstrate that PRAXIS outperforms state-of-the-art agents equipped with powerful agentic search capabilities, as well as experience-based and skill-based methods. The approach integrates seamlessly into various agent frameworks and LLMs with consistent performance improvements, and supports continual evolution with performance steadily scaling as practice accumulates.",
-    "title_zh": "PRAXIS：基于图锚定隐性知识的领域代码生成",
-    "abstract_zh": "大语言模型（LLM）智能体在通用软件工程任务中已取得显著成效，但在领域特定代码生成方面仍面临挑战。我们认为其根本原因在于智能体缺乏隐性知识，即开发者通过实践内化却从未文档化的领域特定业务规则、接口契约与操作惯例。此类知识深埋于领域代码底层，分散于各个代码实体及其依赖关系之中，对于缺乏该知识的智能体而言完全不可见。这些特性使得隐性知识在本质上难以检索或学习。在此项工作中，我们提出了PRAXIS框架，使智能体能够系统地提取、表征并复用隐性知识，以应用于领域代码生成。PRAXIS通过在目标代码库中模拟人类开发工作流来获取隐性知识，将其提炼为组织在代码依赖图上的结构化单元，并在代码交互时主动将其呈现给智能体。大量实验表明，PRAXIS的性能优于配备强大智能体搜索能力的最新智能体，以及基于经验和基于技能的方法。该方法可无缝集成至各类智能体框架与大语言模型中，带来一致的性能提升，并支持持续演进；随着实践经验的积累，其性能亦能稳步增长。"
+    "abstract": "Generative AI creates an assessment challenge in quantum software education: a student can provide a homework notebook to ChatGPT and request a completed submission. This study examined whether introductory Qiskit homework could remain autogradable while requiring students to run, review, and discuss results rather than banning AI. Three packages were tested: seeded basis-state circuits with bit flips and customized measurement mappings; Quantum Fourier Transform followed by inverse-transform recovery; and seeded Deutsch-Jozsa with customized oracle masks. The designs used personalization, simulator execution, JSON submissions, hidden references, circuit metrics, reflections, and optional IBM Quantum execution. For each package, one student-visible instance was tested in 50 separate ChatGPT sessions, yielding 150 sessions overall. Every final artifact was executed and passed its grader. Nine sessions were fully archived; none required operator code changes or correction of quantum logic. Under the study's operational definition, each tested instance had zero observed ChatGPT-resiliency. Seeds changed parameters rather than task structure, expected results remained derivable from visible assignment logic, scaffolding exposed key solution steps, and hidden grading verified output consistency without establishing independent authorship or understanding. Because one instance was repeated for each package, the results do not establish solvability for every seed or possible Qiskit assessment. The tested personalized, execution-oriented take-home designs therefore did not prevent successful completion under a minimally engaged-student workflow. Correct artifacts should be complemented by direct assessment through supervised modification, oral defense, prediction, and transfer tasks.",
+    "title_zh": "ChatGPT 成功解答了所有已测试的 Qiskit 课后作业",
+    "abstract_zh": "生成式AI在量子软件教育中带来了评估挑战：学生只需将作业笔记本提供给ChatGPT，即可要求其生成完整的提交内容。本研究探讨了入门级Qiskit作业能否在要求学生亲自运行、审查和讨论结果的前提下保持可自动评分，而非直接禁止使用AI。研究测试了三个模块：带有比特翻转和自定义测量映射的种子化基态电路；量子傅里叶变换及其逆变换恢复；以及带有自定义预言机掩码的种子化Deutsch-Jozsa算法。这些设计采用了个性化设置、模拟器执行、JSON格式提交、隐藏参考值、电路指标、反思环节以及可选的IBM量子平台执行功能。针对每个模块，选取一个对学生可见的实例，分别在50个独立的ChatGPT会话中进行测试，共计150个会话。所有最终生成的代码均成功执行并通过自动评分器。其中9个会话被完整归档；没有任何案例需要修改算子代码或纠正量子逻辑错误。根据本研究的操作性定义，每个测试实例均未表现出对ChatGPT的抵御性。原因在于：随机种子仅改变了参数而未改变任务结构，预期结果仍可从可见的作业逻辑中推导得出，教学支架暴露了关键解题步骤，而隐藏式评分仅验证了输出的一致性，却未能确认学生的独立创作能力或真实理解水平。由于每个模块仅重复测试了一个实例，因此该结果并不能证明所有种子或所有可能的Qiskit考核都具备可解性。因此，在参与度最低的学生工作流程下，所测试的个性化、以执行为导向的课后自主作业设计并未能阻止学生成功完成作业。仅凭生成正确的作业成果是不够的，还应通过监督下的代码修改、口头答辩、预测与迁移任务等方式进行直接评估作为补充。"
   },
   {
     "date": "2026-08-20",
@@ -140,7 +140,7 @@
     "source": "arXiv",
     "abstract": "Sequential agent search accumulates changes from its current champion but discards alternative branches; independent proposals preserve breadth but restart from the root. Loreley instead retains complete repository states in a Quality-Diversity (QD) archive and samples them as parents or supplies them as context for later edits. Candidates are Git commits produced in isolated worktrees and judged by a project-supplied evaluator. We compare configured Loreley QD, sequential champion editing, and independent root proposals in a matched Zstandard experiment: seven paired blocks and 48 physical candidate jobs per policy and block (1,008 total), with root-only initialization and each policy's native concurrency. Validation selected a winner at each budget checkpoint; an agent-hidden holdout measured the fixed candidate. At 48 jobs, QD was 0.135% below Sequential Champion (95% BCa interval for the paired effect: -0.556% to +0.161%) and 0.320% above Independent Root (-0.082% to +0.686%). Neither contrast established a QD advantage; Sequential had the highest observed 48-job mean and median. Archive retention and later sampling did occur. Four of seven final QD winners had a non-incumbent state in their primary-parent ancestry under a retrospective one-incumbent rule applied only to the observed QD stream. Including inspiration edges raised the count to six, without showing that supplied context caused an edit. Three earlier capability campaigns produced generation-4, multi-file improvements in two Python libraries and a separate Zstandard revision. Loreley engaged the intended stepping-stone mechanism, but the controlled experiment did not show an endpoint benefit at 48 jobs.",
     "title_zh": "Loreley：基于质量-多样性搜索的代码库级程序演化",
-    "abstract_zh": "顺序智能体搜索会累积来自当前“冠军”（最优解）的变更，但会丢弃其他分支；而独立提议虽能保持搜索广度，却需每次都从根目录重新开始。相比之下，Loreley 将完整的仓库状态保存在质量-多样性（QD）档案库中，并将其采样为父节点，或作为后续编辑的上下文提供。候选方案均为在隔离工作树中生成的 Git 提交，并由项目方提供的评估器进行评判。我们在一个匹配的 Zstandard 实验中对比了配置好的 Loreley QD、顺序冠军编辑以及独立根提议：实验包含七个配对区块，每个策略与区块组合各有 48 个实际候选任务（共计 1,008 个），采用仅从根目录初始化的方式，并遵循各策略的原生并发设置。验证阶段在每个预算检查点选出一名优胜者；另设一个对智能体隐藏的保留测试集用于评估固定候选方案。在 48 个任务时，QD 的表现较顺序冠军低 0.135%（配对效应的 95% BCa 置信区间为 -0.556% 至 +0.161%），较独立根高 0.320%（-0.082% 至 +0.686%）。这两组对比均未证实 QD 具有优势；顺序方法的观测均值与中位数在 48 个任务时均为最高。档案的保留与后续采样确实得以实现。在仅应用于观测 QD 流的事后单最优规则下，七位最终 QD 优胜者中有四位在其主父代祖先中存在非当前最优状态。若计入启发边，该数量升至六位，但这并未证明所提供的上下文直接导致了某次代码编辑。前三次能力探索活动分别在两个 Python 库和一个独立的 Zstandard 版本中实现了第四代、多文件的改进。Loreley 确实触发了预期的垫脚石机制，但该受控实验在 48 个任务时并未显示出最终的性能提升。"
+    "abstract_zh": "顺序代理搜索会累积来自其当前最优解（champion）的修改，但会丢弃其他分支；独立提议则保留了搜索广度，但每次均需从根目录重新开始。相比之下，Loreley 将完整的仓库状态保存在质量-多样性（QD）存档中，并将其采样为父节点，或作为后续编辑的上下文提供。候选方案均为在隔离工作树中生成的 Git 提交，并由项目提供的评估器进行评判。我们在一个配对的 Zstandard 实验中对比了配置好的 Loreley QD、顺序冠军编辑与独立根提议：实验包含七个配对区块，每种策略与区块组合各有 48 个物理候选任务（共计 1,008 个），采用仅从根目录初始化的方式，并运行各策略的原生并发度。验证阶段在每个预算检查点选出一名优胜者；另设一个对智能体隐藏的保留集用于测量固定候选方案的表现。在 48 个任务时，QD 的表现较顺序冠军低 0.135%（配对效应的 95% BCa 置信区间为 -0.556% 至 +0.161%），较独立根高 0.320%（-0.082% 至 +0.686%）。两组对比均未证实 QD 具有优势；顺序策略在 48 个任务时的观测均值与中位数最高。存档保留与后续采样确实发生。在仅应用于观测 QD 流的后溯“单一 incumbent”规则下，七位最终 QD 优胜者中有四位在其主父节点祖先链中呈现非 incumbent 状态。若计入启发边，该数量升至六位，但这并未证明所提供的上下文直接导致了某次编辑。前三次能力探索活动分别在两个 Python 库和一个独立的 Zstandard 版本中实现了第四代、多文件的改进。Loreley 确实触发了预期的垫脚石机制，但该受控实验在 48 个任务时并未显示出最终性能收益。"
   },
   {
     "date": "2026-08-20",
@@ -150,8 +150,30 @@
     "url": "https://arxiv.org/abs/2608.19674v1",
     "source": "arXiv",
     "abstract": "Computing has been an astonishing success - but the accumulated technical debt exposes us all to huge costs in business and societal risk. For 75 years, we've built systems to prose specifications with test-and-debug development. That works well enough for industry to thrive, but it's an expensive and ineffective feedback loop, and leaves everyone relying on shaky foundations. Now, AI-enabled engineering is amplifying the success by reducing coding costs, but also amplifies the risks, by rapidly increasing technical debt, and by automating detection of the vulnerabilities therein. How can we do better? Research has long pursued mathematical proof of correctness, which, unlike testing, can cover all cases. This too has advanced massively, but it remains hard to apply, both technically and because of a deep-seated cultural disconnect. Instead, we argue for a pragmatic approach to flexible combinations of testing, *specification*, and proof, that provides more effective feedback loops for both AI and human development. Most simply, one can incrementally co-develop executable-as-test-oracle partial specifications alongside conventional prose descriptions, code, and tests. This clarifies design and makes testing much more discriminating. Developers can and should do it today. Or, even better, one can use specifications that support the full gamut of testing, property-based testing, symbolic execution, and proof. This enables a range of intertwined feedback loops, again both for AI and humans, from cheap testing to more expensive proof. However, making it really practical needs *semantics infrastructure*: specifications and tooling for the main programming languages and other abstractions, which we now more-or-less know how to build, but which is not yet in place. We call the community to arms to create and deploy it - to enable a future built on firmer ground.",
-    "title_zh": "逃离流沙：奋起抗争的号召",
-    "abstract_zh": "计算领域取得了令人瞩目的成就，但日益累积的技术债务却让我们所有人都暴露在巨大的商业成本与社会风险之中。过去75年间，我们一直采用“测试-调试”的开发模式，依据自然语言规格说明来构建系统。这种模式足以支撑行业的蓬勃发展，但它构成了一个昂贵且低效的反馈循环，使整个行业都建立在摇摇欲坠的基础之上。如今，AI赋能的软件工程在降低编码成本的同时进一步放大了这一成功；但与此同时，它也通过迅速加剧技术债务、并自动化地检测其中的漏洞，放大了潜在风险。我们怎样才能做得更好？学术界早已致力于通过数学证明来确保程序的正确性，与测试不同，这种方法能够穷尽所有情况。尽管该领域已取得长足进展，但由于技术门槛以及根深蒂固的认知与文化隔阂，其实际应用依然困难重重。因此，我们主张采取一种务实的路径：灵活融合测试、*形式化规范*与数学证明，从而为AI与人工协同开发构建更高效的反馈循环。最简捷的做法是，在编写传统文字说明、代码和测试用例的同时，逐步协同开发“可作为测试预言机的可执行部分规范”。此举不仅能厘清系统设计，还能大幅提升测试的甄别能力。开发者完全可以在当下就开始实践这一方法。更进一步而言，若能采用能够全面支撑常规测试、基于属性的测试、符号执行及形式化证明的规范体系，效果将更为理想。这将打通一系列相互交织的反馈闭环，同样惠及AI与人类开发者，实现从低成本测试到高成本证明的梯度验证。然而，要让这一理念真正落地，亟需构建*语义基础设施*——即面向主流编程语言及其他抽象层级的规范定义与配套工具链。我们目前已基本掌握其构建方法，但相关生态尚未成型。我们呼吁业界同仁奋起行动，研发并部署这一基础设施，从而为软件工程的未来奠定更加坚实的基石。"
+    "title_zh": "《挣脱流沙：奋起一呼》（若偏重实际动员语境，也可译为《逃离流沙：行动号召》）",
+    "abstract_zh": "计算技术取得了惊人的成功——但积累的技术债务使我们所有人都面临着巨大的商业成本与社会风险。在过去的75年里，我们一直采用“测试-调试”的开发模式，依据文本式规范来构建系统。这种模式足以让产业蓬勃发展，但它是一种昂贵且低效的反馈循环，也让所有人依赖于脆弱的基础。如今，AI赋能的工程实践通过降低编码成本放大了这一成功，但也通过迅速增加技术债务以及自动化检测其中的漏洞，放大了相关风险。我们该如何做得更好？长期以来，研究界一直在追求正确性的数学证明，与测试不同，它能够覆盖所有情况。尽管该领域已取得巨大进展，但由于技术上的挑战以及根深蒂固的理念脱节，其实际应用仍然困难重重。相反，我们主张采取一种务实的方法，灵活组合测试、*规范*与证明，从而为AI和人类开发提供更有效的反馈循环。最简单的方法是，在传统的文本描述、代码和测试之外，逐步协同开发可作为测试预言机的可执行部分规范。这能够明确设计意图，并使测试具有更强的判别力。开发者今天就可以并且应该这样做。或者，更进一步，可以使用支持全套测试手段（包括常规测试、基于属性的测试、符号执行和形式化证明）的规范。这将实现一系列相互交织的反馈循环，同样适用于AI与人类，涵盖从低成本测试到高成本证明的各个层面。然而，要使其真正具备实用性，需要建立*语义基础设施*：即针对主流编程语言及其他抽象层级的规范与工具链。我们现在大体上知道如何构建它，但它尚未到位。我们号召业界同仁行动起来，创建并部署这一基础设施——以奠定一个更加坚实的未来。"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+    "authors": "Silin Chen, Haoyi Teng, Xiaodong Gu, Yuling Shi, Jiale Huang, Yongpan Wang, Hongyu Zhang, Haibing Guan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.19854v1",
+    "source": "arXiv",
+    "abstract": "Large language model agents have made substantial progress in code generation, yet most existing systems assume a predefined repository architecture. This assumption does not hold in zero-to-all code generation, where an agent must construct an entire software project directly from natural-language requirements while maintaining a modular repository architecture throughout development. We present Repo0, a continuous structural evolution framework for zero-to-all code generation. Repo0 maintains an explicit architectural state instantiated as a Dual-Directed-Acyclic-Graph (Dual-DAG), consisting of a requirement-level DAG, a component-level DAG, and their alignment relation. Starting from natural-language requirements, it iteratively evolves component boundaries through structural actions guided by modularity metrics until structural convergence, after which the converged architecture guides test-driven development code generation. We evaluate Repo0 on six real-world repositories from RepoCraft using GPT-5 mini and DeepSeek V3.2. Repo0 achieves the highest Functionality Coverage and Pass Rate across all settings. Compared with RPG, the strongest repository-planning baseline, Repo0 improves Functionality Coverage by up to 20.08 percentage points and Pass Rate by up to 29.74 percentage points. Ablation and structural-evolution analyses further demonstrate the importance of the Dual-DAG architectural state, modularity-guided structural evolution, and explicit structural convergence.",
+    "title_zh": "Repo0：设计驱动的从零到全代码生成",
+    "abstract_zh": "大语言模型智能体在代码生成领域已取得显著进展，但大多数现有系统均假设存在预定义的仓库架构。这一假设在“从零到全”（zero-to-all）的代码生成场景中并不成立，因为在此类任务中，智能体必须直接根据自然语言需求构建完整的软件项目，并在整个开发过程中维持模块化的仓库架构。为此，我们提出了 Repo0，一种面向从零到全代码生成的连续结构演化框架。Repo0 维护一个显式的架构状态，该状态被实例化为双有向无环图（Dual-DAG），由需求级 DAG、组件级 DAG 以及二者之间的对齐关系构成。从自然语言需求出发，该方法通过受模块化度量指标指导的结构操作迭代演化组件边界，直至实现结构收敛；随后，收敛后的架构将指导基于测试驱动开发（TDD）的代码生成。我们在 RepoCraft 数据集的六个真实仓库上，结合 GPT-5 mini 与 DeepSeek V3.2 对 Repo0 进行了评估。在所有实验设置下，Repo0 均取得了最高的功能覆盖率与通过率。与目前最强的仓库规划基线方法 RPG 相比，Repo0 的功能覆盖率最高提升 20.08 个百分点，通过率最高提升 29.74 个百分点。消融实验与结构演化分析进一步验证了双 DAG 架构状态、模块化引导的结构演化以及显式结构收敛机制的重要性。"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation",
+    "authors": "Xue Jiang, Tianyu Zhang, Lingwei Wu, Ziyu Wang, Ge Li, Yuan Sui, Hao Zhu, Wenpin Jiao, Zhi Jin, Yihong Dong",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.19784v1",
+    "source": "arXiv",
+    "abstract": "LLM agents have achieved strong performance on general software engineering tasks, yet struggle with domain-specific code generation. We identify the root cause as the agent's lack of tacit knowledge, including domain-specific business rules, interface contracts, and operational conventions that developers internalize through practice but never document. This knowledge is deeply buried beneath the domain code, dispersed across code entities and their dependency relations, and invisible to the agent that lacks it. These properties make tacit knowledge inherently difficult to retrieve or learn. In this work, we propose PRAXIS, a framework that enables agents to systematically extract, represent, and reuse tacit knowledge for domain code generation. PRAXIS acquires tacit knowledge by simulating human development workflows within the target codebase, distills it into structured units organized on the code dependency graph, and proactively surfaces it to the agent at the point of code interaction. Extensive experiments demonstrate that PRAXIS outperforms state-of-the-art agents equipped with powerful agentic search capabilities, as well as experience-based and skill-based methods. The approach integrates seamlessly into various agent frameworks and LLMs with consistent performance improvements, and supports continual evolution with performance steadily scaling as practice accumulates.",
+    "title_zh": "PRAXIS：面向领域代码生成的图基隐性知识",
+    "abstract_zh": "大语言模型（LLM）智能体在通用软件工程任务上已展现出卓越性能，但在领域特定代码生成方面仍存在不足。我们认为，其根本原因在于智能体缺乏隐性知识，即开发者通过实践内化却从未形成文档的领域业务规则、接口契约与操作惯例。此类知识深埋于领域代码底层，分散于各代码实体及其依赖关系之中，对缺乏该知识的智能体而言不可见。这些特性使得隐性知识天然难以被检索或学习。为此，本文提出PRAXIS框架，使智能体能够系统性地提取、表示并复用隐性知识，以赋能领域代码生成。PRAXIS通过在目标代码库中模拟人类开发工作流来捕获隐性知识，将其提炼为构建于代码依赖图之上的结构化单元，并在代码交互的关键节点主动将其呈现给智能体。广泛实验表明，PRAXIS的性能优于配备强大智能体搜索能力的最新智能体，也超越了基于经验与基于技能的方法。该方法可无缝集成至多种智能体框架与大语言模型中，带来稳定的性能增益，并支持持续演进：随着实践经验的不断积累，其性能可实现稳步提升。"
   },
   {
     "date": "2026-8-20",
@@ -161,7 +183,7 @@
     "url": "https://doi.org/10.1109/compsac69091.2026.00056",
     "source": "IEEE",
     "abstract": "",
-    "title_zh": "TraceStructRepair：用于上下文受限自动程序修复的有效诊断表示",
+    "title_zh": "TraceStructRepair：面向上下文受限场景的自动程序修复有效诊断表示",
     "abstract_zh": "None"
   },
   {
@@ -176,6 +198,28 @@
     "abstract_zh": "None"
   },
   {
+    "date": "2026-8-21",
+    "title": "NeuralCM-QA: An Automatic Quality-Assurance Framework for ML-Based MOSFET Compact Models",
+    "authors": "Hongwei Yao, Jianing Zhang, Tianyi Xu, Yang Shen, Bingyi Ye, Xiaojin Li, Yabin Sun, Yuhang Zhang",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3725509",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "NeuralCM-QA：一种面向基于机器学习的MOSFET紧凑模型的自动质量保证框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-20",
+    "title": "Balancing Accuracy and Cost: An Adaptive Hybrid Framework for Feature Selection in Software Defect Prediction",
+    "authors": "Xuanyan Li, Dongcheng Li",
+    "publish": "2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",
+    "url": "https://doi.org/10.1109/compsac69091.2026.00072",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "平衡准确率与成本：软件缺陷预测中特征选择的自适应混合框架",
+    "abstract_zh": "None"
+  },
+  {
     "date": "2026-8-20",
     "title": "Exploring LLM-generated hints for students’ Error Recovery in programming",
     "authors": "Bibeg Limbu, Kaimao Sheng, Mona Münstermann, Yasin Esiri, Falk Howar, Nils Köbis, Markus Pauly, Nikol Rummel, Irene-Angelica Chounta",
@@ -183,8 +227,8 @@
     "url": "https://doi.org/10.1145/3820253.3831405",
     "source": "ACM",
     "abstract": "None",
-    "title_zh": "探索大语言模型生成的提示在编程学生错误恢复中的作用",
-    "abstract_zh": "无"
+    "title_zh": "探索大语言模型生成的提示在编程学生错误恢复中的作用\n\n（注：若作为学术论文标题，中文习惯常优化为《探索大语言模型生成的提示在编程错误恢复中的应用》或《探究LLM生成的提示对编程学习者错误恢复的辅助作用》）",
+    "abstract_zh": "None"
   },
   {
     "date": "2026-8-20",
@@ -206,7 +250,7 @@
     "source": "ACM",
     "abstract": "None",
     "title_zh": "HeLEx：面向空间弹性粗粒度可重构阵列的异构布局探索器",
-    "abstract_zh": "无（或“没有”）"
+    "abstract_zh": "无 / 没有"
   },
   {
     "date": "2026-8-20",
@@ -216,7 +260,7 @@
     "url": "https://doi.org/10.1109/compsac69091.2026.00075",
     "source": "IEEE",
     "abstract": "",
-    "title_zh": "面向软件分析与验证的多语言解析流水线",
+    "title_zh": "面向软件分析与验证的多语言解析器流水线",
     "abstract_zh": "None"
   },
   {
@@ -227,7 +271,7 @@
     "url": "https://doi.org/10.1109/compsac69091.2026.00285",
     "source": "IEEE",
     "abstract": "",
-    "title_zh": "迈向可靠的LLM代码生成：针对模糊需求的自适应路由框架",
+    "title_zh": "迈向可靠的LLM代码生成：面向模糊需求的自适应路由框架",
     "abstract_zh": "None"
   },
   {
@@ -239,6 +283,17 @@
     "source": "IEEE",
     "abstract": "",
     "title_zh": "PR感知的自动化单元测试生成：挑战与机遇",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-21",
+    "title": "A Frequency-Aware Area Estimator for Baseband Auto-Generators",
+    "authors": "Xiayu Ding, Yunwei Mao, You You, Chuan Zhang",
+    "publish": "2026 7th Information Communication Technologies Conference (ICTC)",
+    "url": "https://doi.org/10.1109/ictc70246.2026.11650284",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向基带自动生成器的频率感知面积估算器",
     "abstract_zh": "None"
   },
   {
@@ -304,128 +359,7 @@
     "url": "https://doi.org/10.1109/compsac69091.2026.00380",
     "source": "IEEE",
     "abstract": "",
-    "title_zh": "SHADOW：用于基于CWE的漏洞自动分类的幻觉感知大语言模型智能体",
+    "title_zh": "SHADOW：用于自动化基于CWE的漏洞分类的幻觉感知大语言模型智能体",
     "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "AutoEDA: Enabling EDA Flow Automation through Microservice-Based LLM Agents",
-    "authors": "Yiyi Lu, Hoi Ian Au, Junyao Zhang, Jingyu Pan, Guanglei Zhou, Yiting Wang, Jingwei Sun, Ang Li, Jianyi Zhang, Hai Li, Yiran Chen",
-    "publish": "ACM Transactions on Design Automation of Electronic Systems",
-    "url": "https://doi.org/10.1145/3842675",
-    "source": "ACM",
-    "abstract": "None",
-    "title_zh": "AutoEDA：基于微服务大语言模型智能体的EDA流程自动化",
-    "abstract_zh": "无"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "Measuring the Reasoning Boundaries of Large Language Models for Implicit Security Invariants in Code: A Controlled Empirical Study",
-    "authors": "Ruofei Wang, Honglin Zhuang, Huayang Cao, Siqi Chen",
-    "publish": "2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",
-    "url": "https://doi.org/10.1109/compsac69091.2026.00467",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "衡量大语言模型对代码中隐式安全不变量的推理边界：一项受控实证研究",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "A Preliminary Study on How AI Coding Agents Describe Refactoring Activities",
-    "authors": "Aymen Masmoudi, Belhassen Khefacha, Andrew Haralambous, Eman Abdullah AlOmar, Mohamed Wiem Mkaouer",
-    "publish": "2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",
-    "url": "https://doi.org/10.1109/compsac69091.2026.00078",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "AI编程智能体如何描述重构活动的初步研究",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "Beyond Test Presence: Assessing the Quality and Robustness of Agent-Generated Tests in Open-Source Projects",
-    "authors": "Preet Jhanglani, Zeel Kaushal Desai, Vidhi Kansara, Eman Abdullah AlOmar",
-    "publish": "2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",
-    "url": "https://doi.org/10.1109/compsac69091.2026.00059",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "超越测试存在：评估开源项目中智能体生成测试的质量与鲁棒性",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "When AI Joins the Team: Understanding Human-Agent Collaboration in Pull Requests",
-    "authors": "Miguel Romero-Arjona, Saman Barakat, Alberto Martin-Lopez, Ana B. Sánchez, Gabriele Bavota, Sergio Segura",
-    "publish": "2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",
-    "url": "https://doi.org/10.1109/compsac69091.2026.00313",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "《当AI加入团队：理解拉取请求中的人机协作》",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "CrossRPL: Propagation-Aware Detection and Function-Level Localisation of Cross-Contract Vulnerabilities in Ethereum Smart Contracts",
-    "authors": "Rexford Nii Ayitey Sosu, Jinfu Chen, Edward Kwadwo Boahen, Saihua Cai, Wenjie Gu",
-    "publish": "2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",
-    "url": "https://doi.org/10.1109/compsac69091.2026.00484",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "CrossRPL：以太坊智能合约中跨合约漏洞的传播感知检测与函数级定位",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "HGARena: Budgeted Test-Driven Multi-Agent Repository Issue Resolution with Heterogeneous Graph-Augmented Retrieval",
-    "authors": "Yuchen Cao, Jacky Wai Keung, Yifei Wang, Yicheng Sun, Zhenyu Mao",
-    "publish": "2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",
-    "url": "https://doi.org/10.1109/compsac69091.2026.00062",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "HGARena：基于异构图增强检索的预算约束测试驱动多智能体代码库问题修复",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "R2Code: A Self-Reflective LLM Framework for Requirements-to-Code Traceability",
-    "authors": "Yifei Wang, Jacky Keung, Xiaoxue Ma, Zhenyu Mao, Kehui Chen, Yishu Li",
-    "publish": "2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",
-    "url": "https://doi.org/10.1109/compsac69091.2026.00057",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "R2Code：面向需求到代码可追溯性的自反思大语言模型框架",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "ASFuzz: Detecting Linux Kernel Asynchronous Concurrency Bugs via\n                    <i>Asynchronous Shadow Fuzzing</i>",
-    "authors": "Jianzhou Zhao, Yangyang Geng, Jingyi Wang, Yuqi Chen, Haowen Chen, Yunfeng Wang, Qiang Wei",
-    "publish": "IEEE Transactions on Information Forensics and Security",
-    "url": "https://doi.org/10.1109/tifs.2026.3725562",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "ASFuzz：基于异步影子模糊测试检测 Linux 内核异步并发缺陷",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "Effective Fuzzing within CI/CD Pipelines",
-    "authors": "Arindam Sharma, Cristian Cadar, Jonathan Metzman",
-    "publish": "ACM Transactions on Software Engineering and Methodology",
-    "url": "https://doi.org/10.1145/3841630",
-    "source": "ACM",
-    "abstract": "None",
-    "title_zh": "CI/CD 流水线中的高效模糊测试",
-    "abstract_zh": "无"
-  },
-  {
-    "date": "2026-8-20",
-    "title": "Does Great Power Come with Great Explainability? Comparing Explanation Strategies for Automated Program Diagnosis",
-    "authors": "Christopher Klaus Lazik, Martin Eberlein, Aaron Ziglowski, Christopher Katins, Thomas Kosch",
-    "publish": "Proceedings of Mensch und Computer 2026",
-    "url": "https://doi.org/10.1145/3820253.3831404",
-    "source": "ACM",
-    "abstract": "None",
-    "title_zh": "“能力越大，可解释性越强吗？”——自动化程序诊断中解释策略的比较研究",
-    "abstract_zh": "无"
   }
 ]
