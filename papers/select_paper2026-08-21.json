@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-8-21",
+    "title": "NeuralCM-QA: An Automatic Quality-Assurance Framework for ML-Based MOSFET Compact Models",
+    "authors": "Hongwei Yao, Jianing Zhang, Tianyi Xu, Yang Shen, Bingyi Ye, Xiaojin Li, Yabin Sun, Yuhang Zhang",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3725509",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "NeuralCM-QA：面向基于机器学习的MOSFET紧凑模型的自动质量保证框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-21",
+    "title": "A Cyclic Vernier Time-to-Digital Converter With Tunable Time Amplification for Endpoint Clock-to-Data Interval Measurement in FPGAs",
+    "authors": "Songxuan He, Wangyong Chen, Runsheng Liu, Linlin Cai",
+    "publish": "IEEE Transactions on Instrumentation and Measurement",
+    "url": "https://doi.org/10.1109/tim.2026.3726212",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种用于FPGA端点时钟-数据间隔测量的可调时间放大循环游标时间数字转换器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "Turning Parser Errors into Suggestions for REPL-Driven DSLs (Functional Pearl)",
+    "authors": "Matthías Páll Gissurarson, Elisabet Lobo-Vesga, Alejandro Russo",
+    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
+    "url": "https://doi.org/10.1145/3830439.3831275",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "将解析错误转化为 REPL 驱动型 DSL 的纠错提示（函数式珍珠）",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-21",
+    "title": "A Frequency-Aware Area Estimator for Baseband Auto-Generators",
+    "authors": "Xiayu Ding, Yunwei Mao, You You, Chuan Zhang",
+    "publish": "2026 7th Information Communication Technologies Conference (ICTC)",
+    "url": "https://doi.org/10.1109/ictc70246.2026.11650284",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向基带自动生成器的频率感知面积估算器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-21",
+    "title": "An FPGA-Based Design of the Extended Logistic Map for Chaos-Driven Security Systems",
+    "authors": "K. J. Jegadish Kumar, K Bharathi",
+    "publish": "2026 9th International Conference on Circuit, Power &amp; Computing Technologies (ICCPCT)",
+    "url": "https://doi.org/10.1109/iccpct70290.2026.11654866",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向混沌驱动安全系统的扩展Logistic映射FPGA设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-21",
+    "title": "Mitigating Transferable Identifier Backdoors in Code Models via Structural Canonicalization",
+    "authors": "Yu Zhang, Huanwei Wang, Rui Lou",
+    "publish": "2026 IEEE 5th International Conference on Information Technology, Big Data and Artificial Intelligence (ICIBA)",
+    "url": "https://doi.org/10.1109/iciba68339.2026.11651814",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过结构规范化缓解代码模型中的可迁移标识符后门",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-21",
+    "title": "Research on the Application of AI Code Assistants in Java Programming Courses",
+    "authors": "Lichao Liu, Chenggang Shan, Menglin Liu",
+    "publish": "2026 8th International Conference on Computer Science and Technologies in Education (CSTE)",
+    "url": "https://doi.org/10.1109/cste69562.2026.11649800",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AI代码助手在Java编程课程中的应用研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "A Cost-Aware Probability Monad for Liquid Haskell",
+    "authors": "Matthias Hetzenberger, Georg Moser, Florian Zuleger",
+    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
+    "url": "https://doi.org/10.1145/3830439.3831276",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向 Liquid Haskell 的成本感知概率单子",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-21",
+    "title": "A Deep Learning Driven Framework for Detecting Race Conditions and Vulnerability Detection in Web Applications",
+    "authors": "Yong Gang, Zhang Peng, Li Xiangdong, Xia Bing, Md Saiful Islam",
+    "publish": "2026 7th Information Communication Technologies Conference (ICTC)",
+    "url": "https://doi.org/10.1109/ictc70246.2026.11650346",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "深度学习驱动的Web应用竞态条件与漏洞检测框架",
+    "abstract_zh": "None"
+  }
+]
