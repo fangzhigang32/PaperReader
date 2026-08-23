@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-8-22",
-    "title": "Multi-Bin Batching for Increasing LLM Inference Throughput",
-    "authors": "Ozgur Guldogan, Jackson Kunde, Kangwook Lee, Ramtin Pedarsani",
-    "publish": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems",
-    "url": "https://doi.org/10.1145/3843225",
+    "title": "Turning Parser Errors into Suggestions for REPL-Driven DSLs (Functional Pearl)",
+    "authors": "Matthías Páll Gissurarson, Elisabet Lobo-Vesga, Alejandro Russo",
+    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
+    "url": "https://doi.org/10.1145/3830439.3831275",
     "source": "ACM",
     "abstract": "None",
-    "title_zh": "多桶批处理方法用于提升大语言模型推理吞吐量",
+    "title_zh": "将解析器错误转换为建议：用于由REPL驱动的领域特定语言（函数珍珠）",
     "abstract_zh": "无"
   },
   {
@@ -29,7 +29,7 @@
     "url": "https://doi.org/10.1145/3837084",
     "source": "ACM",
     "abstract": "None",
-    "title_zh": "面向软件工程任务的大语言模型解释",
+    "title_zh": "探索大语言模型在软件工程任务中的解释",
     "abstract_zh": "无"
   },
   {
@@ -41,7 +41,7 @@
     "source": "ACM",
     "abstract": "None",
     "title_zh": "LAMDA：通过多智能体协作利用大型语言模型提升API误用检测效果",
-    "abstract_zh": "无"
+    "abstract_zh": "空"
   },
   {
     "date": "2026-8-22",
@@ -51,7 +51,7 @@
     "url": "https://doi.org/10.1145/3840382",
     "source": "ACM",
     "abstract": "None",
-    "title_zh": "跨模型协作以增强基于大型语言模型的代码生成",
+    "title_zh": "跨模型协作增强大语言模型代码生成能力",
     "abstract_zh": "无"
   }
 ]

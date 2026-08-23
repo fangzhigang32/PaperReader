@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-8-22",
+    "title": "Constructive characterisations of the\n                    <scp>must</scp>\n                    -preorder for asynchrony",
+    "authors": "Giovanni Bernardi, Ilaria Castellani, Paul Laforgue, Vincent Padovani, Léo Stefanesco",
+    "publish": "ACM Transactions on Programming Languages and Systems",
+    "url": "https://doi.org/10.1145/3842749",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
     "title": "MASH-Net: A Multi-Scale Adaptive Shuffle Hybrid Network for Medical Image Segmentation",
     "authors": "Siqi Liu",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
@@ -41,15 +50,6 @@
     "authors": "Siying Liu, Zihan Li",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
     "url": "https://doi.org/10.1145/3809986.3810085",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "Constructive characterisations of the\n                    <scp>must</scp>\n                    -preorder for asynchrony",
-    "authors": "Giovanni Bernardi, Ilaria Castellani, Paul Laforgue, Vincent Padovani, Léo Stefanesco",
-    "publish": "ACM Transactions on Programming Languages and Systems",
-    "url": "https://doi.org/10.1145/3842749",
     "source": "ACM",
     "abstract": "None"
   },
@@ -154,15 +154,6 @@
   },
   {
     "date": "2026-8-22",
-    "title": "Simulation modeling and Experimental Validation of Cranial Electric Fields Based on Temporal Interference Stimulation",
-    "authors": "Mingjun Zhang, Zengyong Li, Congcong Huo, Yanli Geng",
-    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
-    "url": "https://doi.org/10.1145/3809986.3810098",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
     "title": "Turning Parser Errors into Suggestions for REPL-Driven DSLs (Functional Pearl)",
     "authors": "Matthías Páll Gissurarson, Elisabet Lobo-Vesga, Alejandro Russo",
     "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
@@ -172,37 +163,10 @@
   },
   {
     "date": "2026-8-22",
-    "title": "How Does Motion-to-Photon Latency Influence the Perception-Action Loop",
-    "authors": "Sony Saint-Auret, Franck Multon, Ronan Gaugne, Ludovic Hoyet, Richard Kulpa, Valérie Gouranton",
-    "publish": "ACM Transactions on Applied Perception",
-    "url": "https://doi.org/10.1145/3841185",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "Tikka: An Interpreter and Debugger for a Pedagogical Subset of Haskell",
-    "authors": "Alex Hobbs, Alex Dixon",
-    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
-    "url": "https://doi.org/10.1145/3830439.3831274",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "Digital Twin-Driven OCT Probe Guidance via Group-Relative Soft Actor-Critic",
-    "authors": "Can Jin, Yingwei Fan",
+    "title": "Simulation modeling and Experimental Validation of Cranial Electric Fields Based on Temporal Interference Stimulation",
+    "authors": "Mingjun Zhang, Zengyong Li, Congcong Huo, Yanli Geng",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
-    "url": "https://doi.org/10.1145/3809986.3810117",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "LHMM-Net: A Lightweight Hybrid Multi-scale Mamba Network with 2.5D Representation for Early Alzheimer' s Disease Diagnosis",
-    "authors": "Heng Yang, Wei Kong",
-    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
-    "url": "https://doi.org/10.1145/3809986.3810088",
+    "url": "https://doi.org/10.1145/3809986.3810098",
     "source": "ACM",
     "abstract": "None"
   },
@@ -230,6 +194,42 @@
     "authors": "Zhuoyang Zhang, Yiyang Wang, Bei Chen, Yuze He",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
     "url": "https://doi.org/10.1145/3809986.3810025",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "Digital Twin-Driven OCT Probe Guidance via Group-Relative Soft Actor-Critic",
+    "authors": "Can Jin, Yingwei Fan",
+    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
+    "url": "https://doi.org/10.1145/3809986.3810117",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "LHMM-Net: A Lightweight Hybrid Multi-scale Mamba Network with 2.5D Representation for Early Alzheimer' s Disease Diagnosis",
+    "authors": "Heng Yang, Wei Kong",
+    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
+    "url": "https://doi.org/10.1145/3809986.3810088",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "Tikka: An Interpreter and Debugger for a Pedagogical Subset of Haskell",
+    "authors": "Alex Hobbs, Alex Dixon",
+    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
+    "url": "https://doi.org/10.1145/3830439.3831274",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "How Does Motion-to-Photon Latency Influence the Perception-Action Loop",
+    "authors": "Sony Saint-Auret, Franck Multon, Ronan Gaugne, Ludovic Hoyet, Richard Kulpa, Valérie Gouranton",
+    "publish": "ACM Transactions on Applied Perception",
+    "url": "https://doi.org/10.1145/3841185",
     "source": "ACM",
     "abstract": "None"
   },
@@ -271,6 +271,15 @@
   },
   {
     "date": "2026-8-22",
+    "title": "Multi-model Knowledge Graph for NIPT Testing Time Optimization and Fetal Abnormality Determination",
+    "authors": "Zirui Weng, Lvpei Li, Xiameng Yu, Yunhan Liang, Zhenyang Li, Yuanxiang Ni, Xinxin Chen",
+    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
+    "url": "https://doi.org/10.1145/3809986.3810049",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
     "title": "Two-stage Electrode Shift Adaptive Correction Method for Electromyographic Hand Gesture Recognition",
     "authors": "Ran Yang, Yanyu Wang, Zhen Zhang",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
@@ -284,15 +293,6 @@
     "authors": "Jingyi Fan, Junbo Gao",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
     "url": "https://doi.org/10.1145/3809986.3810097",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "Multi-model Knowledge Graph for NIPT Testing Time Optimization and Fetal Abnormality Determination",
-    "authors": "Zirui Weng, Lvpei Li, Xiameng Yu, Yunhan Liang, Zhenyang Li, Yuanxiang Ni, Xinxin Chen",
-    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
-    "url": "https://doi.org/10.1145/3809986.3810049",
     "source": "ACM",
     "abstract": "None"
   },
@@ -379,24 +379,6 @@
   },
   {
     "date": "2026-8-22",
-    "title": "CFR-Net:Connection Filtering Refining Network for Retinal Vessel Segmentation",
-    "authors": "Jiaqi Qin, Ye Yuan, Jian Liu",
-    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
-    "url": "https://doi.org/10.1145/3809986.3810093",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "Evaluating Shrinking (Experience Report)",
-    "authors": "Alperen Keles, George Miao, Leonidas Lampropoulos",
-    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
-    "url": "https://doi.org/10.1145/3830439.3831271",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
     "title": "Active Health ECG Monitoring System Using CNN-BiLSTM-SE and IoT",
     "authors": "Xudan Zheng, Xuenuo Liu, Zhiguo Zhong, Lei Dong",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
@@ -410,6 +392,24 @@
     "authors": "Zengchun Wang, Zhiyuan Lai, Lingshan Yu, Qiliang Zhang, Jinxi Huang, Ye Chen, Yongquan Shi, Shiping Wang, Yanchao Xiong",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
     "url": "https://doi.org/10.1145/3809986.3810056",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "CFR-Net:Connection Filtering Refining Network for Retinal Vessel Segmentation",
+    "authors": "Jiaqi Qin, Ye Yuan, Jian Liu",
+    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
+    "url": "https://doi.org/10.1145/3809986.3810093",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "Evaluating Shrinking (Experience Report)",
+    "authors": "Alperen Keles, George Miao, Leonidas Lampropoulos",
+    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
+    "url": "https://doi.org/10.1145/3830439.3831271",
     "source": "ACM",
     "abstract": "None"
   },
@@ -901,6 +901,15 @@
   },
   {
     "date": "2026-8-22",
+    "title": "A Survey on Clustered Federated Learning: Taxonomy, Analysis and Applications",
+    "authors": "Michael Ben Ali, Omar El Rifai, Imen Megdiche, André Peninou, Olivier Teste",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3843202",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
     "title": "Intelligent Computing-Based Prediction of Anatomy Course Learning Performance and Personalized Teaching",
     "authors": "Xi Qin, Hongjing Yang, Yunchuan Yuan",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
@@ -919,10 +928,10 @@
   },
   {
     "date": "2026-8-22",
-    "title": "A Survey on Clustered Federated Learning: Taxonomy, Analysis and Applications",
-    "authors": "Michael Ben Ali, Omar El Rifai, Imen Megdiche, André Peninou, Olivier Teste",
-    "publish": "ACM Computing Surveys",
-    "url": "https://doi.org/10.1145/3843202",
+    "title": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3830439",
     "source": "ACM",
     "abstract": "None"
   },
@@ -941,15 +950,6 @@
     "authors": "Xiyu Rao",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
     "url": "https://doi.org/10.1145/3809986.3810024",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
-    "authors": "N/A",
-    "publish": "N/A",
-    "url": "https://doi.org/10.1145/3830439",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1036,6 +1036,24 @@
   },
   {
     "date": "2026-8-22",
+    "title": "Coercive Subtyping for Implicit Functorial Programming",
+    "authors": "Ryan Doenges, Caden Parajuli, Ayden Lamparski, Ke Wu, Aaron Stump",
+    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
+    "url": "https://doi.org/10.1145/3830439.3831273",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "What Needs Attention? Prioritizing Drivers of Developers’ Trust and Adoption of Generative AI",
+    "authors": "Rudrajit Choudhuri, Bianca Trinkenreich, Rahul Pandita, Eirini Kalliamvakou, Igor Steinmacher, Marco Gerosa, Christopher A. Sanchez, Anita Sarma",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3842739",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
     "title": "MPSAM: A Cardiac Ultrasound Four-Chamber Segmentation Model Based on the Fusion of MedSAM2 and Path Aggregation Network",
     "authors": "Jinbu Zhang",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
@@ -1067,24 +1085,6 @@
     "authors": "Yuqi Zhong, Yajing Wu, Yongqiang Tang, Chunna Zhao, Cheng Guo, Jie Wu, Wensheng Zhang",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
     "url": "https://doi.org/10.1145/3809986.3810061",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "Coercive Subtyping for Implicit Functorial Programming",
-    "authors": "Ryan Doenges, Caden Parajuli, Ayden Lamparski, Ke Wu, Aaron Stump",
-    "publish": "Proceedings of the 19th ACM SIGPLAN International Haskell Symposium",
-    "url": "https://doi.org/10.1145/3830439.3831273",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
-    "title": "What Needs Attention? Prioritizing Drivers of Developers’ Trust and Adoption of Generative AI",
-    "authors": "Rudrajit Choudhuri, Bianca Trinkenreich, Rahul Pandita, Eirini Kalliamvakou, Igor Steinmacher, Marco Gerosa, Christopher A. Sanchez, Anita Sarma",
-    "publish": "ACM Transactions on Software Engineering and Methodology",
-    "url": "https://doi.org/10.1145/3842739",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1270,15 +1270,6 @@
   },
   {
     "date": "2026-8-22",
-    "title": "Design of an Early Warning Model for Severe Sepsis Based on Temporal Feature Mining",
-    "authors": "Tao Zhang",
-    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
-    "url": "https://doi.org/10.1145/3809986.3810073",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
     "title": "Unveiling the Landscape of Biobank Usage in Academic research: A Comprehensive Text Analysis",
     "authors": "Yuhang Lu, Yiqi Wang, Xian Cheng",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
@@ -1288,19 +1279,28 @@
   },
   {
     "date": "2026-8-22",
-    "title": "Optimizing the Timing of NIPT and Fetal Abnormality Assessment Based on Statistical Models",
-    "authors": "Xinyu Yin, Liwang Huang, Haihang Ding, Jiali Wu, Hangyu Zhou, Mengyu Kang, Qiuyue Qin",
+    "title": "SGL-UNet: Pushing the Boundary of Extreme Lightweight Segmentation for Point-of-Care Biliary Atresia Screening",
+    "authors": "Yuyao Li, Fan Fan, Na Liu",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
-    "url": "https://doi.org/10.1145/3809986.3810045",
+    "url": "https://doi.org/10.1145/3809986.3810092",
     "source": "ACM",
     "abstract": "None"
   },
   {
     "date": "2026-8-22",
-    "title": "SGL-UNet: Pushing the Boundary of Extreme Lightweight Segmentation for Point-of-Care Biliary Atresia Screening",
-    "authors": "Yuyao Li, Fan Fan, Na Liu",
+    "title": "Design of an Early Warning Model for Severe Sepsis Based on Temporal Feature Mining",
+    "authors": "Tao Zhang",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
-    "url": "https://doi.org/10.1145/3809986.3810092",
+    "url": "https://doi.org/10.1145/3809986.3810073",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "Optimizing the Timing of NIPT and Fetal Abnormality Assessment Based on Statistical Models",
+    "authors": "Xinyu Yin, Liwang Huang, Haihang Ding, Jiali Wu, Hangyu Zhou, Mengyu Kang, Qiuyue Qin",
+    "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
+    "url": "https://doi.org/10.1145/3809986.3810045",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1630,15 +1630,6 @@
   },
   {
     "date": "2026-8-22",
-    "title": "Structure-Derived Bottleneck-Aware Scheduling for Multitasking MCM-GPUs",
-    "authors": "Tiejian Zhang, Guangda Zhang, Lu Wang, Yandong He, Jiping Gao, Hengzhu Liu, Xia Zhao",
-    "publish": "ACM Transactions on Design Automation of Electronic Systems",
-    "url": "https://doi.org/10.1145/3842670",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-8-22",
     "title": "Pain-Adapter: A Parameter-Efficient Adaptation Network for Facial Video-based Pain Assessment",
     "authors": "Xiao Hu, Leilu Wang, Zunliang Wang, Hang Li",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
@@ -1652,6 +1643,15 @@
     "authors": "Dan Tang, Lei Weng",
     "publish": "Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing",
     "url": "https://doi.org/10.1145/3809986.3810052",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "Structure-Derived Bottleneck-Aware Scheduling for Multitasking MCM-GPUs",
+    "authors": "Tiejian Zhang, Guangda Zhang, Lu Wang, Yandong He, Jiping Gao, Hengzhu Liu, Xia Zhao",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3842670",
     "source": "ACM",
     "abstract": "None"
   }

@@ -1,15 +1,15 @@
-[2026-08-23 10:21:41] 开始执行论文搜索任务
+[2026-08-23 22:20:59] 开始执行论文搜索任务
 搜索关键词: code
 搜索日期范围: 2026-08-22
 正在获取论文...
+[ACM] 2026-8-22 | Constructive characterisations of the
+                    <scp>must</scp>
+                    -preorder for asynchrony
 [ACM] 2026-8-22 | MASH-Net: A Multi-Scale Adaptive Shuffle Hybrid Network for Medical Image Segmentation
 [ACM] 2026-8-22 | A SERF-OPM Magnetocardiography Feature-Based Model for Early Post-PCI Recovery Assessment in Unstable Angina -- From high-dimensional MCG features to an interpretable continuous recovery score
 [ACM] 2026-8-22 | Toll-like Receptor and Gut Microbiome Interactions: A CiteSpace and VOSviewer-based Bibliometric Analysis (2005-2024)
 [ACM] 2026-8-22 | CAM-Guided Radiology Report Generation
 [ACM] 2026-8-22 | Research on Adaptive Motion Control of Snake-Inspired Soft Actuation in Upper Limb Rehabilitation Exoskeletons
-[ACM] 2026-8-22 | Constructive characterisations of the
-                    <scp>must</scp>
-                    -preorder for asynchrony
 [ACM] 2026-8-22 | Decentralised and Dynamic Reputation Management Model For Smart Mobility Using A Smart Contract
 [ACM] 2026-8-22 | Medical Large Language Model Based on Dynamic Retrieval-Augmented Generation Strategy
 [ACM] 2026-8-22 | PDDock: High-Accuracy Blind Protein-Ligand Docking via Dynamic Pocket Prediction and Adaptive Coordinate Refinement
@@ -21,22 +21,22 @@
 [ACM] 2026-8-22 | Two-Sample Mendelian Randomization Study on Anxiety Disorders and Angina Pectoris Based on Computational Biology Methods
 [ACM] 2026-8-22 | ICER: A Universal Clinical Dual-Loop Agent for Adaptive Evidence Refinement in Long-Context EHRs
 [ACM] 2026-8-22 | Chinese Painting Semantic Resource for Resolution-Aware Digitisation and Structured Heritage Access
-[ACM] 2026-8-22 | Simulation modeling and Experimental Validation of Cranial Electric Fields Based on Temporal Interference Stimulation
 [ACM] 2026-8-22 | Turning Parser Errors into Suggestions for REPL-Driven DSLs (Functional Pearl)
-[ACM] 2026-8-22 | How Does Motion-to-Photon Latency Influence the Perception-Action Loop
-[ACM] 2026-8-22 | Tikka: An Interpreter and Debugger for a Pedagogical Subset of Haskell
-[ACM] 2026-8-22 | Digital Twin-Driven OCT Probe Guidance via Group-Relative Soft Actor-Critic
-[ACM] 2026-8-22 | LHMM-Net: A Lightweight Hybrid Multi-scale Mamba Network with 2.5D Representation for Early Alzheimer' s Disease Diagnosis
+[ACM] 2026-8-22 | Simulation modeling and Experimental Validation of Cranial Electric Fields Based on Temporal Interference Stimulation
 [ACM] 2026-8-22 | MsOrgDet: A Multi-scale Progressive Fusion Network for Organoid Object Detection
 [ACM] 2026-8-22 | Spatiotemporal Feature Learning via Transformer and LSTM for Affective Computing Using fNIRS
 [ACM] 2026-8-22 | Comparative Genomic Analysis of Human- and Swine-Origin Staphylococcus aureus ST398: Revealing Host Adaptation Characteristics and Cross-Species Transmission Patterns
+[ACM] 2026-8-22 | Digital Twin-Driven OCT Probe Guidance via Group-Relative Soft Actor-Critic
+[ACM] 2026-8-22 | LHMM-Net: A Lightweight Hybrid Multi-scale Mamba Network with 2.5D Representation for Early Alzheimer' s Disease Diagnosis
+[ACM] 2026-8-22 | Tikka: An Interpreter and Debugger for a Pedagogical Subset of Haskell
+[ACM] 2026-8-22 | How Does Motion-to-Photon Latency Influence the Perception-Action Loop
 [ACM] 2026-8-22 | Source-Space Phase-Amplitude Coupling During Drug Cue Induction in Abstinent Patients with Methamphetamine Use Disorder
 [ACM] 2026-8-22 | An AI-Enhanced MRI Morphometry Framework for Neuro-psychiatric Symptom Stratification: Application to Parkinson' s Disease
 [ACM] 2026-8-22 | WPD-PyrSENet: A Wavelet Packet Decomposition-Based Pyramid Squeeze-and-Excitation Network for Automated EEG Seizure Detection
 [ACM] 2026-8-22 | GNN-LS: An Information-Enhanced Method for Label Scarcity on Graphs
+[ACM] 2026-8-22 | Multi-model Knowledge Graph for NIPT Testing Time Optimization and Fetal Abnormality Determination
 [ACM] 2026-8-22 | Two-stage Electrode Shift Adaptive Correction Method for Electromyographic Hand Gesture Recognition
 [ACM] 2026-8-22 | DAF-Net: Dynamic Alignment and Filtering Network for Polyp Segmentation
-[ACM] 2026-8-22 | Multi-model Knowledge Graph for NIPT Testing Time Optimization and Fetal Abnormality Determination
 [ACM] 2026-8-22 | From Standardization to Intelligence: The Evolution of Automated Genetic Circuit Design
 [ACM] 2026-8-22 | TFS-Diff-RED: Improved Tri-modal Medical Image Fusion and Super-Resolution via RDB, LCIF, and Edge-Aware Loss -- TFS-DIFF-RED: TRI-MODAL FUSION &amp; SUPER-RESOLUTION
 [ACM] 2026-8-22 | Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media
@@ -46,10 +46,10 @@
 [ACM] 2026-8-22 | GBCN: 3D-Guided Brownian Bridge Diffusion for Clothed Human Reconstruction via Normal Integration
 [ACM] 2026-8-22 | Efficient, Accurate and Interpretable Drug-Drug Interaction Prediction Using Group Graph-Based Models
 [ACM] 2026-8-22 | SBPR-Net: Synchronous Bidirectional Pyramid Registration Network for Medical Image Registration
-[ACM] 2026-8-22 | CFR-Net:Connection Filtering Refining Network for Retinal Vessel Segmentation
-[ACM] 2026-8-22 | Evaluating Shrinking (Experience Report)
 [ACM] 2026-8-22 | Active Health ECG Monitoring System Using CNN-BiLSTM-SE and IoT
 [ACM] 2026-8-22 | Multi-Head Self-Attention Mechanism-Based Model for Predicting Lung Injury Risk in Pediatric One-Lung Ventilation
+[ACM] 2026-8-22 | CFR-Net:Connection Filtering Refining Network for Retinal Vessel Segmentation
+[ACM] 2026-8-22 | Evaluating Shrinking (Experience Report)
 [ACM] 2026-8-22 | ConvVM-Net: A Dual-Branch Network with ConvNeXt and VMamba for Liver Tumor Segmentation
 [ACM] 2026-8-22 | GL-Mamba UNet: Global-to-Local Context-Guided Vision Mamba for Medical Image Segmentation
 [ACM] 2026-8-22 | Research on Classification and Prediction of Biological Data Using Supervised and Semi-Supervised Machine Learning Algorithms
@@ -104,12 +104,12 @@
 [ACM] 2026-8-22 | Objective Major Depressive Disorder Classification from Multi-site Resting-State fMRI Using a Signed Dual-Branch Graph Convolutional Network
 [ACM] 2026-8-22 | Subtype-Specific Causal Brain Network Mechanisms in ADHD Using Directed Visibility Graphs
 [ACM] 2026-8-22 | Evidence-Based Study on Low-Burden Digital Phenotyping for Precision Screening of Oral Anti-Obesity Drug Efficacy
+[ACM] 2026-8-22 | A Survey on Clustered Federated Learning: Taxonomy, Analysis and Applications
 [ACM] 2026-8-22 | Intelligent Computing-Based Prediction of Anatomy Course Learning Performance and Personalized Teaching
 [ACM] 2026-8-22 | Edge-Enhanced Graph Attention Networks for Interpretable Molecular Toxicity Prediction
-[ACM] 2026-8-22 | A Survey on Clustered Federated Learning: Taxonomy, Analysis and Applications
+[ACM] 2026-8-22 | Proceedings of the 19th ACM SIGPLAN International Haskell Symposium
 [ACM] 2026-8-22 | UMM: A Universal Medical Image Segmentation and Classification Model Integrating Spatial-Frequency Consistency Inpainting and Cross-Branch Feature Fusion
 [ACM] 2026-8-22 | A Visual Analysis of Research Trends and a Comparative Review of Algae Removal Methods
-[ACM] 2026-8-22 | Proceedings of the 19th ACM SIGPLAN International Haskell Symposium
 [ACM] 2026-8-22 | Toward Explaining Large Language Models in Software Engineering Tasks
 [ACM] 2026-8-22 | Pre-Exposure Prophylaxis Access Navigator: Creating a Comprehensive 'Application Cheat Sheet' for the Trillium Drug Program
 [ACM] 2026-8-22 | Automatic Sleep Staging Method Based on Cardiopulmonary Features
@@ -119,12 +119,12 @@
 [ACM] 2026-8-22 | Research on Gallstone Prediction and Management System Based on Explainable Machine Learning and Counterfactual Inference
 [ACM] 2026-8-22 | DEM Simulation of Carrier Particle Delivery and Deposition in the Respiratory Tract
 [ACM] 2026-8-22 | A Data-Driven Computational Framework for Multi-Target Mechanism Discovery of the Xiakucao-Zhebeimu-Sanqi Herb Pair in Hyperthyroidism
+[ACM] 2026-8-22 | Coercive Subtyping for Implicit Functorial Programming
+[ACM] 2026-8-22 | What Needs Attention? Prioritizing Drivers of Developers’ Trust and Adoption of Generative AI
 [ACM] 2026-8-22 | MPSAM: A Cardiac Ultrasound Four-Chamber Segmentation Model Based on the Fusion of MedSAM2 and Path Aggregation Network
 [ACM] 2026-8-22 | Effects of Different Treatments with Ganoderma lucidum and Rhodococcus glutinis on the Fermentation of Stems: A PCA- and Clustering-Based Multivariate Analysis
 [ACM] 2026-8-22 | Protein Language Models for Synthetic Biology: Transformer Paradigms and DBTL-Oriented Engineering Workflows
 [ACM] 2026-8-22 | Clinical Prediction of Digestive System Diseases using Large Language Model Instruction Tuning
-[ACM] 2026-8-22 | Coercive Subtyping for Implicit Functorial Programming
-[ACM] 2026-8-22 | What Needs Attention? Prioritizing Drivers of Developers’ Trust and Adoption of Generative AI
 [ACM] 2026-8-22 | The Next 700 Block-Based Editors (Keynote)
 [ACM] 2026-8-22 | A Cache Modeling Framework for Accelerator Systems
 [ACM] 2026-8-22 | Structure-Based Optimization Strategies for Enhancing Targeting Specificity of Small-Molecule Immunomodulators
@@ -145,10 +145,10 @@
 [ACM] 2026-8-22 | Facing Yourself: A Proxemic Approach to Self-Dyadic Interactions in VR
 [ACM] 2026-8-22 | LAMDA: Leveraging Large Language Models for Better API Misuse Detection via Multi-Agent Collaboration
 [ACM] 2026-8-22 | What Have We Learned about Dependently Typed Programming from Haskell? (Keynote)
-[ACM] 2026-8-22 | Design of an Early Warning Model for Severe Sepsis Based on Temporal Feature Mining
 [ACM] 2026-8-22 | Unveiling the Landscape of Biobank Usage in Academic research: A Comprehensive Text Analysis
-[ACM] 2026-8-22 | Optimizing the Timing of NIPT and Fetal Abnormality Assessment Based on Statistical Models
 [ACM] 2026-8-22 | SGL-UNet: Pushing the Boundary of Extreme Lightweight Segmentation for Point-of-Care Biliary Atresia Screening
+[ACM] 2026-8-22 | Design of an Early Warning Model for Severe Sepsis Based on Temporal Feature Mining
+[ACM] 2026-8-22 | Optimizing the Timing of NIPT and Fetal Abnormality Assessment Based on Statistical Models
 [ACM] 2026-8-22 | Cross-Model Collaboration for Enhancing LLM-Based Code Generation
 [ACM] 2026-8-22 | From Explanations to Architecture: Explainability-Driven CNN Refinement for Brain Tumor Classification in MRI
 [ACM] 2026-8-22 | Site Selection for High-Grade Glioma Clinical Drug Trials Using Multi-Criteria Decision Analysis
@@ -185,20 +185,20 @@
 [ACM] 2026-8-22 | TEFNet: Texture-Edge-Frequency Guided Lightweight Network for Medical Image Classification
 [ACM] 2026-8-22 | DGRNA: a long-context RNA foundation model with bidirectional attention Mamba2
 [ACM] 2026-8-22 | Designing for Nature, Time and History: Novel Locative Technologies for Multilayered Heritage
-[ACM] 2026-8-22 | Structure-Derived Bottleneck-Aware Scheduling for Multitasking MCM-GPUs
 [ACM] 2026-8-22 | Pain-Adapter: A Parameter-Efficient Adaptation Network for Facial Video-based Pain Assessment
 [ACM] 2026-8-22 | Research on AI-based Clinical Decision Support System for TCM Diagnosis and Treatment of Diabetic Kidney Disease (DKD)
+[ACM] 2026-8-22 | Structure-Derived Bottleneck-Aware Scheduling for Multitasking MCM-GPUs
 共写入 184 条记录，保存到 papers/paper2026-08-22.json。
 论文获取成功，文件路径: papers/paper2026-08-22.json
 正在筛选、翻译并发送邮件...
-[NO] 1/184 | MASH-Net: A Multi-Scale Adaptive Shuffle Hybrid Network for Medical Image Segmentation
-[NO] 2/184 | A SERF-OPM Magnetocardiography Feature-Based Model for Early Post-PCI Recovery Assessment in Unstable Angina -- From high-dimensional MCG features to an interpretable continuous recovery score
-[NO] 3/184 | Toll-like Receptor and Gut Microbiome Interactions: A CiteSpace and VOSviewer-based Bibliometric Analysis (2005-2024)
-[NO] 4/184 | CAM-Guided Radiology Report Generation
-[NO] 5/184 | Research on Adaptive Motion Control of Snake-Inspired Soft Actuation in Upper Limb Rehabilitation Exoskeletons
-[NO] 6/184 | Constructive characterisations of the
+[NO] 1/184 | Constructive characterisations of the
                     <scp>must</scp>
                     -preorder for asynchrony
+[NO] 2/184 | MASH-Net: A Multi-Scale Adaptive Shuffle Hybrid Network for Medical Image Segmentation
+[NO] 3/184 | A SERF-OPM Magnetocardiography Feature-Based Model for Early Post-PCI Recovery Assessment in Unstable Angina -- From high-dimensional MCG features to an interpretable continuous recovery score
+[NO] 4/184 | Toll-like Receptor and Gut Microbiome Interactions: A CiteSpace and VOSviewer-based Bibliometric Analysis (2005-2024)
+[NO] 5/184 | CAM-Guided Radiology Report Generation
+[NO] 6/184 | Research on Adaptive Motion Control of Snake-Inspired Soft Actuation in Upper Limb Rehabilitation Exoskeletons
 [NO] 7/184 | Decentralised and Dynamic Reputation Management Model For Smart Mobility Using A Smart Contract
 [NO] 8/184 | Medical Large Language Model Based on Dynamic Retrieval-Augmented Generation Strategy
 [NO] 9/184 | PDDock: High-Accuracy Blind Protein-Ligand Docking via Dynamic Pocket Prediction and Adaptive Coordinate Refinement
@@ -210,22 +210,22 @@
 [NO] 15/184 | Two-Sample Mendelian Randomization Study on Anxiety Disorders and Angina Pectoris Based on Computational Biology Methods
 [NO] 16/184 | ICER: A Universal Clinical Dual-Loop Agent for Adaptive Evidence Refinement in Long-Context EHRs
 [NO] 17/184 | Chinese Painting Semantic Resource for Resolution-Aware Digitisation and Structured Heritage Access
-[NO] 18/184 | Simulation modeling and Experimental Validation of Cranial Electric Fields Based on Temporal Interference Stimulation
-[NO] 19/184 | Turning Parser Errors into Suggestions for REPL-Driven DSLs (Functional Pearl)
-[NO] 20/184 | How Does Motion-to-Photon Latency Influence the Perception-Action Loop
-[NO] 21/184 | Tikka: An Interpreter and Debugger for a Pedagogical Subset of Haskell
-[NO] 22/184 | Digital Twin-Driven OCT Probe Guidance via Group-Relative Soft Actor-Critic
-[NO] 23/184 | LHMM-Net: A Lightweight Hybrid Multi-scale Mamba Network with 2.5D Representation for Early Alzheimer' s Disease Diagnosis
-[NO] 24/184 | MsOrgDet: A Multi-scale Progressive Fusion Network for Organoid Object Detection
-[NO] 25/184 | Spatiotemporal Feature Learning via Transformer and LSTM for Affective Computing Using fNIRS
-[NO] 26/184 | Comparative Genomic Analysis of Human- and Swine-Origin Staphylococcus aureus ST398: Revealing Host Adaptation Characteristics and Cross-Species Transmission Patterns
+[YES] 18/184 | Turning Parser Errors into Suggestions for REPL-Driven DSLs (Functional Pearl)
+[NO] 19/184 | Simulation modeling and Experimental Validation of Cranial Electric Fields Based on Temporal Interference Stimulation
+[NO] 20/184 | MsOrgDet: A Multi-scale Progressive Fusion Network for Organoid Object Detection
+[NO] 21/184 | Spatiotemporal Feature Learning via Transformer and LSTM for Affective Computing Using fNIRS
+[NO] 22/184 | Comparative Genomic Analysis of Human- and Swine-Origin Staphylococcus aureus ST398: Revealing Host Adaptation Characteristics and Cross-Species Transmission Patterns
+[NO] 23/184 | Digital Twin-Driven OCT Probe Guidance via Group-Relative Soft Actor-Critic
+[NO] 24/184 | LHMM-Net: A Lightweight Hybrid Multi-scale Mamba Network with 2.5D Representation for Early Alzheimer' s Disease Diagnosis
+[NO] 25/184 | Tikka: An Interpreter and Debugger for a Pedagogical Subset of Haskell
+[NO] 26/184 | How Does Motion-to-Photon Latency Influence the Perception-Action Loop
 [NO] 27/184 | Source-Space Phase-Amplitude Coupling During Drug Cue Induction in Abstinent Patients with Methamphetamine Use Disorder
 [NO] 28/184 | An AI-Enhanced MRI Morphometry Framework for Neuro-psychiatric Symptom Stratification: Application to Parkinson' s Disease
 [NO] 29/184 | WPD-PyrSENet: A Wavelet Packet Decomposition-Based Pyramid Squeeze-and-Excitation Network for Automated EEG Seizure Detection
 [NO] 30/184 | GNN-LS: An Information-Enhanced Method for Label Scarcity on Graphs
-[NO] 31/184 | Two-stage Electrode Shift Adaptive Correction Method for Electromyographic Hand Gesture Recognition
-[NO] 32/184 | DAF-Net: Dynamic Alignment and Filtering Network for Polyp Segmentation
-[NO] 33/184 | Multi-model Knowledge Graph for NIPT Testing Time Optimization and Fetal Abnormality Determination
+[NO] 31/184 | Multi-model Knowledge Graph for NIPT Testing Time Optimization and Fetal Abnormality Determination
+[NO] 32/184 | Two-stage Electrode Shift Adaptive Correction Method for Electromyographic Hand Gesture Recognition
+[NO] 33/184 | DAF-Net: Dynamic Alignment and Filtering Network for Polyp Segmentation
 [NO] 34/184 | From Standardization to Intelligence: The Evolution of Automated Genetic Circuit Design
 [NO] 35/184 | TFS-Diff-RED: Improved Tri-modal Medical Image Fusion and Super-Resolution via RDB, LCIF, and Edge-Aware Loss -- TFS-DIFF-RED: TRI-MODAL FUSION &amp; SUPER-RESOLUTION
 [NO] 36/184 | Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media
@@ -235,10 +235,10 @@
 [NO] 40/184 | GBCN: 3D-Guided Brownian Bridge Diffusion for Clothed Human Reconstruction via Normal Integration
 [NO] 41/184 | Efficient, Accurate and Interpretable Drug-Drug Interaction Prediction Using Group Graph-Based Models
 [NO] 42/184 | SBPR-Net: Synchronous Bidirectional Pyramid Registration Network for Medical Image Registration
-[NO] 43/184 | CFR-Net:Connection Filtering Refining Network for Retinal Vessel Segmentation
-[NO] 44/184 | Evaluating Shrinking (Experience Report)
-[NO] 45/184 | Active Health ECG Monitoring System Using CNN-BiLSTM-SE and IoT
-[NO] 46/184 | Multi-Head Self-Attention Mechanism-Based Model for Predicting Lung Injury Risk in Pediatric One-Lung Ventilation
+[NO] 43/184 | Active Health ECG Monitoring System Using CNN-BiLSTM-SE and IoT
+[NO] 44/184 | Multi-Head Self-Attention Mechanism-Based Model for Predicting Lung Injury Risk in Pediatric One-Lung Ventilation
+[NO] 45/184 | CFR-Net:Connection Filtering Refining Network for Retinal Vessel Segmentation
+[NO] 46/184 | Evaluating Shrinking (Experience Report)
 [NO] 47/184 | ConvVM-Net: A Dual-Branch Network with ConvNeXt and VMamba for Liver Tumor Segmentation
 [NO] 48/184 | GL-Mamba UNet: Global-to-Local Context-Guided Vision Mamba for Medical Image Segmentation
 [NO] 49/184 | Research on Classification and Prediction of Biological Data Using Supervised and Semi-Supervised Machine Learning Algorithms
@@ -276,7 +276,7 @@
 [NO] 81/184 | Lessons from a Culturally Sustaining and Revitalizing Computer Science Research–Practice Partnership for Teachers Across Disciplines in Indigenous-Serving Schools
 [NO] 82/184 | Interval Scheduling Games with Color-Based Concurrent Jobs
 [NO] 83/184 | A Survey on Centrality and Importance Measures in Hypergraphs: Categorization and Empirical Insights
-[YES] 84/184 | Multi-Bin Batching for Increasing LLM Inference Throughput
+[NO] 84/184 | Multi-Bin Batching for Increasing LLM Inference Throughput
 [NO] 85/184 | Computational Neural Decoding of Auditory Spatial Decisions Using Choice Probability and Machine Learning
 [NO] 86/184 | SnakeMamba: A Lightweight CNN-Mamba Model for Interventional Device Segmentation in X-ray Fluoroscopy
 [NO] 87/184 | Machine Learning-Enabled Personalized Stroke Risk Estimation with Visual Interpretation for Middle-Aged and Older Adults in China
@@ -293,12 +293,12 @@
 [NO] 98/184 | Objective Major Depressive Disorder Classification from Multi-site Resting-State fMRI Using a Signed Dual-Branch Graph Convolutional Network
 [NO] 99/184 | Subtype-Specific Causal Brain Network Mechanisms in ADHD Using Directed Visibility Graphs
 [NO] 100/184 | Evidence-Based Study on Low-Burden Digital Phenotyping for Precision Screening of Oral Anti-Obesity Drug Efficacy
-[NO] 101/184 | Intelligent Computing-Based Prediction of Anatomy Course Learning Performance and Personalized Teaching
-[NO] 102/184 | Edge-Enhanced Graph Attention Networks for Interpretable Molecular Toxicity Prediction
-[NO] 103/184 | A Survey on Clustered Federated Learning: Taxonomy, Analysis and Applications
-[NO] 104/184 | UMM: A Universal Medical Image Segmentation and Classification Model Integrating Spatial-Frequency Consistency Inpainting and Cross-Branch Feature Fusion
-[NO] 105/184 | A Visual Analysis of Research Trends and a Comparative Review of Algae Removal Methods
-[NO] 106/184 | Proceedings of the 19th ACM SIGPLAN International Haskell Symposium
+[NO] 101/184 | A Survey on Clustered Federated Learning: Taxonomy, Analysis and Applications
+[NO] 102/184 | Intelligent Computing-Based Prediction of Anatomy Course Learning Performance and Personalized Teaching
+[NO] 103/184 | Edge-Enhanced Graph Attention Networks for Interpretable Molecular Toxicity Prediction
+[NO] 104/184 | Proceedings of the 19th ACM SIGPLAN International Haskell Symposium
+[NO] 105/184 | UMM: A Universal Medical Image Segmentation and Classification Model Integrating Spatial-Frequency Consistency Inpainting and Cross-Branch Feature Fusion
+[NO] 106/184 | A Visual Analysis of Research Trends and a Comparative Review of Algae Removal Methods
 [YES] 107/184 | Toward Explaining Large Language Models in Software Engineering Tasks
 [NO] 108/184 | Pre-Exposure Prophylaxis Access Navigator: Creating a Comprehensive 'Application Cheat Sheet' for the Trillium Drug Program
 [NO] 109/184 | Automatic Sleep Staging Method Based on Cardiopulmonary Features
@@ -308,12 +308,12 @@
 [NO] 113/184 | Research on Gallstone Prediction and Management System Based on Explainable Machine Learning and Counterfactual Inference
 [NO] 114/184 | DEM Simulation of Carrier Particle Delivery and Deposition in the Respiratory Tract
 [NO] 115/184 | A Data-Driven Computational Framework for Multi-Target Mechanism Discovery of the Xiakucao-Zhebeimu-Sanqi Herb Pair in Hyperthyroidism
-[NO] 116/184 | MPSAM: A Cardiac Ultrasound Four-Chamber Segmentation Model Based on the Fusion of MedSAM2 and Path Aggregation Network
-[NO] 117/184 | Effects of Different Treatments with Ganoderma lucidum and Rhodococcus glutinis on the Fermentation of Stems: A PCA- and Clustering-Based Multivariate Analysis
-[NO] 118/184 | Protein Language Models for Synthetic Biology: Transformer Paradigms and DBTL-Oriented Engineering Workflows
-[NO] 119/184 | Clinical Prediction of Digestive System Diseases using Large Language Model Instruction Tuning
-[NO] 120/184 | Coercive Subtyping for Implicit Functorial Programming
-[NO] 121/184 | What Needs Attention? Prioritizing Drivers of Developers’ Trust and Adoption of Generative AI
+[NO] 116/184 | Coercive Subtyping for Implicit Functorial Programming
+[NO] 117/184 | What Needs Attention? Prioritizing Drivers of Developers’ Trust and Adoption of Generative AI
+[NO] 118/184 | MPSAM: A Cardiac Ultrasound Four-Chamber Segmentation Model Based on the Fusion of MedSAM2 and Path Aggregation Network
+[NO] 119/184 | Effects of Different Treatments with Ganoderma lucidum and Rhodococcus glutinis on the Fermentation of Stems: A PCA- and Clustering-Based Multivariate Analysis
+[NO] 120/184 | Protein Language Models for Synthetic Biology: Transformer Paradigms and DBTL-Oriented Engineering Workflows
+[NO] 121/184 | Clinical Prediction of Digestive System Diseases using Large Language Model Instruction Tuning
 [NO] 122/184 | The Next 700 Block-Based Editors (Keynote)
 [NO] 123/184 | A Cache Modeling Framework for Accelerator Systems
 [NO] 124/184 | Structure-Based Optimization Strategies for Enhancing Targeting Specificity of Small-Molecule Immunomodulators
@@ -334,10 +334,10 @@
 [NO] 139/184 | Facing Yourself: A Proxemic Approach to Self-Dyadic Interactions in VR
 [YES] 140/184 | LAMDA: Leveraging Large Language Models for Better API Misuse Detection via Multi-Agent Collaboration
 [NO] 141/184 | What Have We Learned about Dependently Typed Programming from Haskell? (Keynote)
-[NO] 142/184 | Design of an Early Warning Model for Severe Sepsis Based on Temporal Feature Mining
-[NO] 143/184 | Unveiling the Landscape of Biobank Usage in Academic research: A Comprehensive Text Analysis
-[NO] 144/184 | Optimizing the Timing of NIPT and Fetal Abnormality Assessment Based on Statistical Models
-[NO] 145/184 | SGL-UNet: Pushing the Boundary of Extreme Lightweight Segmentation for Point-of-Care Biliary Atresia Screening
+[NO] 142/184 | Unveiling the Landscape of Biobank Usage in Academic research: A Comprehensive Text Analysis
+[NO] 143/184 | SGL-UNet: Pushing the Boundary of Extreme Lightweight Segmentation for Point-of-Care Biliary Atresia Screening
+[NO] 144/184 | Design of an Early Warning Model for Severe Sepsis Based on Temporal Feature Mining
+[NO] 145/184 | Optimizing the Timing of NIPT and Fetal Abnormality Assessment Based on Statistical Models
 [YES] 146/184 | Cross-Model Collaboration for Enhancing LLM-Based Code Generation
 [NO] 147/184 | From Explanations to Architecture: Explainability-Driven CNN Refinement for Brain Tumor Classification in MRI
 [NO] 148/184 | Site Selection for High-Grade Glioma Clinical Drug Trials Using Multi-Criteria Decision Analysis
@@ -374,9 +374,9 @@
 [NO] 179/184 | TEFNet: Texture-Edge-Frequency Guided Lightweight Network for Medical Image Classification
 [NO] 180/184 | DGRNA: a long-context RNA foundation model with bidirectional attention Mamba2
 [NO] 181/184 | Designing for Nature, Time and History: Novel Locative Technologies for Multilayered Heritage
-[NO] 182/184 | Structure-Derived Bottleneck-Aware Scheduling for Multitasking MCM-GPUs
-[NO] 183/184 | Pain-Adapter: A Parameter-Efficient Adaptation Network for Facial Video-based Pain Assessment
-[NO] 184/184 | Research on AI-based Clinical Decision Support System for TCM Diagnosis and Treatment of Diabetic Kidney Disease (DKD)
+[NO] 182/184 | Pain-Adapter: A Parameter-Efficient Adaptation Network for Facial Video-based Pain Assessment
+[NO] 183/184 | Research on AI-based Clinical Decision Support System for TCM Diagnosis and Treatment of Diabetic Kidney Disease (DKD)
+[NO] 184/184 | Structure-Derived Bottleneck-Aware Scheduling for Multitasking MCM-GPUs
 筛选完成：共 184 篇；Yes = 5 篇；已保存到 papers/select_paper2026-08-22.json。
 邮件发送成功！
-[2026-08-23 11:40:31] 任务执行成功！
+[2026-08-23 23:34:38] 任务执行成功！
