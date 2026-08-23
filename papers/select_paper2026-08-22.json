@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-8-22",
+    "title": "Multi-Bin Batching for Increasing LLM Inference Throughput",
+    "authors": "Ozgur Guldogan, Jackson Kunde, Kangwook Lee, Ramtin Pedarsani",
+    "publish": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems",
+    "url": "https://doi.org/10.1145/3843225",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "多桶批处理方法用于提升大语言模型推理吞吐量",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "HGFuzzer: Directed Greybox Fuzzing via Large Language Model",
+    "authors": "Hanxiang Xu, Yanjie Zhao, Junqing Yu, Haoyu Wang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3841476",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "HGFuzzer：通过大语言模型实现的定向灰盒模糊测试",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "Toward Explaining Large Language Models in Software Engineering Tasks",
+    "authors": "Antonio Vitale, Khai-Nguyen Nguyen, Denys Poshyvanyk, Rocco Oliveto, Simone Scalabrino, Antonio Mastropaolo",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3837084",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向软件工程任务的大语言模型解释",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "LAMDA: Leveraging Large Language Models for Better API Misuse Detection via Multi-Agent Collaboration",
+    "authors": "Yangsen Wang, Yizhou Chen, Zhihao Gong, Dan Hao",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3837764",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "LAMDA：通过多智能体协作利用大型语言模型提升API误用检测效果",
+    "abstract_zh": "无"
+  },
+  {
+    "date": "2026-8-22",
+    "title": "Cross-Model Collaboration for Enhancing LLM-Based Code Generation",
+    "authors": "Jiangping Huang, Wenguang Ye, Weisong Sun, Yebo Feng, Yang Liu",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3840382",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "跨模型协作以增强基于大型语言模型的代码生成",
+    "abstract_zh": "无"
+  }
+]
