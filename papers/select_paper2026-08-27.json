@@ -1,0 +1,178 @@
+[
+  {
+    "date": "2026-08-27",
+    "title": "KubeCap: A Framework for Capability Minimization in Kubernetes via Static Analysis and LLM-Assisted Rule Inference",
+    "authors": "Yuhao Liu, Yingnan Zhou, Weijie Liu, Yan Jia, Zheli Liu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.26699v1",
+    "source": "arXiv",
+    "abstract": "As the most widely used container orchestration platform, Kubernetes provides flexible privilege configuration by allowing developers to manage Linux capabilities via manifest files. However, developers rely on default settings or coarse-grained security contexts in practice, violating the principle of least privilege and enlarging the attack surface of containerized workloads. Existing studies either detect vulnerable patterns in Kubernetes manifests or infer required capabilities for standalone Linux programs, but they do not directly address capability minimization in Kubernetes. To bridge this gap, we first conduct an empirical study on three open-source datasets, revealing that 74.67% of projects lack capability configurations. Motivated by our observations, we propose KubeCap, a framework for Kubernetes capability minimization. KubeCap translates deployment specifications into deterministic manifests, locates container entrypoints, performs reachability-guided system call analysis, and leverages LLM-assisted rule specification to derive syscall--parameter--capability relations from Linux kernel code. Based on these results, KubeCap infers the minimal capability set required by each workload and automatically generates repaired manifests. Evaluation on 10 representative Go-based Kubernetes projects shows an average capability reduction rate of 54.97%, outperforming rapid type analysis and class hierarchy analysis baselines while maintaining practical analysis cost. These results demonstrate KubeCap's effectiveness in enforcing least privilege in Kubernetes.",
+    "title_zh": "KubeCap：一种通过静态分析和LLM辅助规则推理实现Kubernetes能力最小化的框架",
+    "abstract_zh": "作为最广泛使用的容器编排平台，Kubernetes通过允许开发人员通过清单文件管理Linux功能，提供了灵活的权限配置。然而，在实践中，开发人员依赖默认设置或粗粒度的安全上下文，违反了最小权限原则，并扩大了容器化工作负载的攻击面。现有研究要么检测Kubernetes清单中的易受攻击模式，要么推断独立Linux程序所需的功能，但它们并不直接解决Kubernetes中的功能最小化问题。为了弥补这一差距，我们首先对三个开源数据集进行了实证研究，揭示74.67%的项目缺乏功能配置。受我们的观察启发，我们提出了KubeCap，一个用于Kubernetes功能最小化的框架。KubeCap将部署规范转换为确定性清单，定位容器入口点，执行可达性引导的系统调用分析，并利用LLM辅助的规则规范从Linux内核代码中推导出系统调用-参数-功能关系。基于这些结果，KubeCap推断每个工作负载所需的最小功能集，并自动生成修复后的清单。在10个代表性的基于Go的Kubernetes项目上的评估显示，平均功能减少率为54.97%，优于快速类型分析和类层次结构分析基线，同时保持实际分析成本。这些结果证明了KubeCap在强制Kubernetes中最小权限原则方面的有效性。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "The Thousand-Graph Hypothesis: A Testable Hypothesis of Task-Conditioned Relation Materialization in Repository-Level Code Reasoning",
+    "authors": "Fei Ding",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.26602v1",
+    "source": "arXiv",
+    "abstract": "Large software repositories are often beyond model context limits. Training repository knowledge into models is costly and quickly stale, while local retrieval can miss scattered requirements, and explicit relation graphs add ongoing maintenance burden. We propose an entity-only external interface with task-conditioned relation materialization during inference. A two-layer index separates global routing from local entity focus and is evaluated on DeepSeek-V4-Flash and SWE-bench Verified. The base, one-layer, and two-layer conditions achieve 92.1%, 94.2%, and 95.6% success, respectively, under zero pre-built entity-relation edges.",
+    "title_zh": "千字图假设：仓库级代码推理中任务条件关系物化的可检验假设",
+    "abstract_zh": "大型软件仓库通常超出模型上下文限制。将仓库知识训练到模型中成本高昂且容易迅速过时，而本地检索可能会遗漏分散的需求，显式关系图则会带来持续的维护负担。我们提出了一种仅包含实体的外部接口，在推理过程中根据任务条件化地实现关系。双层索引将全局路由与本地实体关注分离，并在DeepSeek-V4-Flash和SWE-bench Verified上进行了评估。在零预构建实体-关系边的情况下，基础、单层和双层条件分别实现了92.1%、94.2%和95.6%的成功率。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Zero-Shot Self-Orchestration with Ledger-Based Control for Improved LLM Coding Performance",
+    "authors": "Victor Gao, Vida Khosrowshahi, Ali Khosrowshahi, Xihao Sun, Juhyun Lee, Simon, Lee",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.26480v1",
+    "source": "arXiv",
+    "abstract": "Multi-agent large language model systems are widely reported to beat single-model baselines, but the evidence is mixed, and comparisons are usually confounded: pipelines change token budgets, tool calls, and prompts simultaneously, so an aggregate gain rarely reveals what actually helped. We investigate the effect of introducing the manager-worker scaffold over a shared filesystem workspace, with no training and no per-benchmark tuning, measured against the same model answering in a single pass. Across nine models -- five open-weight, spanning 9B to ~2.8T parameters, and four frontier closed models -- on the 100 latest hard LiveCodeBench problems, the scaffold's benefit is real but conditional: large and statistically significant for some (Qwen3.8-27B +23.4, GPT-5.6-Luna +10.6 and GPT-5.6-Terra +8.0, each over five paired passes; Kimi-K3 +30.4 and Minimax-M3 +11.0 over five paired passes with reasoning off, both at $p < 10^{-4}$, and +42 and +12 in a single pass at a 128k cap) and null or negative for others (Qwen3.6-35B -1 to -9 with reasoning off). With the manager, Opus-5 achieves the highest score in the study at 91% in one pass. Running a manager roughly triples the token bill, but it buys accuracy more cheaply than moving to a larger model does: GPT-5.6-Terra with a manager nearly matches Fable 5's single-call accuracy (85.0 against 87.4, $p = 0.59$) at a fifth of the price (\\$11.71 against \\$61.11 per 100-problem pass, $p < 10^{-4}$), and the Qwen-27B arm does it for \\$51.75 on weights anyone can self-host. Our transcript analysis finds several mechanisms behind the gains, of which two recur: context management, in which short worker calls and shared notes organize state and reduce truncation, and problem decomposition. Improvements are modest for large models with reasoning enabled, but larger for some models with reasoning disabled and for smaller models with reasoning enabled.",
+    "title_zh": "基于账本控制的零样本自编排以提升大语言模型编程性能",
+    "abstract_zh": "多智能体大语言模型系统被广泛报道能够超越单模型基线，但证据参差不齐，且比较通常存在混淆因素：流水线同时改变了令牌预算、工具调用和提示，因此总体增益很少能揭示真正起作用的因素。我们研究了在共享文件系统工作空间上引入管理器-工作者框架的效果，无需训练和针对每个基准的调整，并与同一模型单次回答进行比较。在九个模型（五个开源权重模型，参数量从9B到约2.8T，以及四个前沿闭源模型）上对最新的100个困难LiveCodeBench问题进行的测试中，该框架的益处是真实但有条件的：对于某些模型效果显著且具有统计学意义（Qwen3.8-27B +23.4，GPT-5.6-Luna +10.6和GPT-5.6-Terra +8.0，每个都经过五次配对测试；Kimi-K3 +30.4和Minimax-M3 +11.0在推理关闭的情况下经过五次配对测试，p值均小于10^-4，以及在128k限制下单次测试分别+42和+12），而对于其他模型则效果为零或负值（Qwen3.6-35B在推理关闭时为-1到-9）。使用管理器后，Opus-5在一次测试中达到了研究中的最高分91%。运行管理器大约使令牌消耗增加三倍，但比升级到更大模型的成本效益更高：GPT-5.6-Terra使用管理器几乎达到了Fable 5的单次调用准确率（85.0对87.4，p=0.59），而成本仅为后者的五分之一（每100个问题测试11.71美元对61.11美元，p<10^-4），Qwen-27B分支则以51.75美元的成本实现了这一效果，任何人都可以自托管其权重。我们的文本分析发现了增益背后的几种机制，其中两种反复出现：上下文管理，即短工作调用和共享笔记组织状态并减少截断；以及问题分解。对于启用推理的大型模型，改进幅度较小；但对于某些禁用推理的模型和启用推理的小型模型，改进幅度较大。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "LLMs in Digital EDA: A perspective on shifting roles from Generation to Orchestration",
+    "authors": "Matthew Youngman, Cristian Sestito, Themis Prodromakis",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.27184v1",
+    "source": "arXiv",
+    "abstract": "Electronic design automation (EDA) has advanced engineering productivity through successive generations of tooling that progressively automate synthesis, optimisation, and verification. Large language models (LLMs) extend this trajectory by enabling direct translation from design intent to hardware implementations. In most of the EDA literature, LLM-based solutions are typically assisting siloed design stages or tasks, however this obscured the drivers by which capability emerges and systems scale. In this Perspective, we instead define three hierarchical roles that reveal how capability accumulates: a Generator that produces design artifacts in a single pass, an Agent that refines outputs through iterative tool feedback, and an Orchestrator that coordinates decisions across EDA-stages. Across published systems, this reveals a syntax trap in which models are trained to produce plausible code rather than physically correct hardware, compounded by fragmented tools and loss of design context that obscure how decisions affect later stages. Comparisons across the three roles show that current approaches struggle to scale to industrial designs, motivating a shift towards a standardised, physics-aware orchestrator that connects tools and agents across the EDA flow for more reliable and accessible hardware design.",
+    "title_zh": "数字EDA中的大语言模型：从生成到编排的角色转变视角",
+    "abstract_zh": "电子设计自动化(EDA)通过连续几代的工具逐步实现了综合、优化和验证的自动化，从而提高了工程生产力。大型语言模型(LLM)通过实现从设计意图到硬件实现的直接翻译，延续了这一发展轨迹。在大多数EDA文献中，基于LLM的解决方案通常协助孤立的设计阶段或任务，但这掩盖了能力形成和系统扩展的驱动因素。在这篇观点文章中，我们定义了三个层次化的角色，揭示了能力如何积累：生成器(Generator)一次性生成设计工件，智能体(Agent)通过迭代工具反馈优化输出，以及编排器(Orchestrator)协调跨EDA阶段的决策。通过对已发表系统的分析，这揭示了一个语法陷阱：模型被训练为生成看似合理的代码，而非物理上正确的硬件，再加上工具碎片化和设计上下文丢失，使得决策如何影响后续阶段变得模糊。对这三个角色的比较表明，当前方法难以扩展到工业设计规模，这促使我们转向标准化的、具有物理意识的编排器，以连接EDA流程中的工具和智能体，实现更可靠且更易访问的硬件设计。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "An Empirical Evaluation of Using Large Language Models for Automated Model-Based Test Generation",
+    "authors": "Hafize Sanli, Onur Kilincceker, Cihat Cetinkaya",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.27094v1",
+    "source": "arXiv",
+    "abstract": "Large language models have shown strong potential for software engineering tasks, particularly software testing. Model-based testing (MBT) is a software testing technique. To address the broad scalability challenge for industrial adoption of MBTs, our paper presents an empirical evaluation of Large Language Models (LLMs) for automated model-based test generation, compared with a state-of-the-art model-based testing tool (GraphWalker) and its built-in algorithms (random and quick random for edge and vertex coverage settings). Our evaluation indicates strong potential to optimize and shorten test paths and step sizes using the recent five state-of-the-art LLMs (GPT-5.1, GPT-5.2, Claude Opus 4.5, Claude Sonnet 4.5, and Gemini 2.5 Pro) against four GraphWalker models (two web applications (Parabank and Testinium) and two hardware applications (TLC and RISC-V) ) of escalating complexity.",
+    "title_zh": "基于大型语言模型的自动化模型测试生成的实证评估",
+    "abstract_zh": "大型语言模型在软件工程任务，特别是软件测试方面展现出巨大潜力。基于模型的测试(MBT)是一种软件测试技术。为应对MBT在工业应用中广泛的可扩展性挑战，我们的论文对大型语言模型(LLMs)在自动化基于模型的测试生成方面进行了实证评估，并将其与最先进的基于模型的测试工具(GraphWalker)及其内置算法(针对边和顶点覆盖设置的随机和快速随机算法)进行了比较。我们的评估表明，使用最新的五种最先进的大型语言模型(GPT-5.1、GPT-5.2、Claude Opus 4.5、Claude Sonnet 4.5和Gemini 2.5 Pro)针对四个复杂度递增的GraphWalker模型(两个Web应用程序(Parabank和Testinium)和两个硬件应用程序(TLC和RISC-V))，能够优化并缩短测试路径和步骤大小，展现出强大的潜力。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "AgentDV: Closed-Loop Agentic AI for Hardware Design Verification",
+    "authors": "Navya Goli, Junzhe Liu, Zhenge Jia, Umamaheswara Rao Tida",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.27148v1",
+    "source": "arXiv",
+    "abstract": "Register-transfer level (RTL) verification consumes a major part of modern system-on-chip (SoC) development effort. Yet, recent LLM-based verification-code generation often fails to produce runnable, design-consistent, and coverage-producing testbenches. We present AgentDV, a closed-loop agentic AI framework for automated RTL verification environment generation. AgentDV transforms single-shot LLM testbench generation into a tool-grounded verification pipeline by combining LLM-guided analysis, testbench construction, simulation, coverage measurement, and iterative refinement. The framework introduces three key ideas: 1) runnability filtering to reject invalid generated environments, 2) CSR-grounded checking to reduce hallucinated signals and incorrect expected behavior, and 3) coverage-guided iteration to regenerate tests based on measured verification gaps. We evaluate AgentDV using three LLMs on challenge DUTs and public OpenTitan peripheral and security IP blocks. From our analysis, we observed that direct single-shot prompting fails to produce a valid coverage-producing environment on benchmarks. AgentDV achieves 100% pass rate on four DUTs and an average of 80.9% pass rate on all DUTs using Claude Sonnet 4.6. Similarly, an average of 58.7% and 60.6% pass rate is achieved for Llama and Qwen models, respectively. In addition, an average of 74.5%, 69.1%, and 64.9% of line coverage and 88.4%, 82.3%, and 76.7% of branch coverage for the benchmarks under consideration for Claude Sonnet 4.6, Llama, and Qwen models, respectively.",
+    "title_zh": "AgentDV：用于硬件设计验证的闭环智能体AI",
+    "abstract_zh": "寄存器传输级(RTL)验证占现代片上系统(SoC)开发工作的主要部分。然而，最近基于大型语言模型(LLM)的验证代码生成往往无法产生可运行、与设计一致且能产生覆盖率的测试平台。我们提出了AgentDV，这是一个用于自动RTL验证环境生成的闭环智能体AI框架。AgentDV通过结合LLM引导的分析、测试平台构建、仿真、覆盖率测量和迭代改进，将单次LLM测试平台生成转变为基于工具的验证流程。该框架引入了三个关键理念：1)可运行性过滤，以拒绝无效的生成环境；2)基于CSR的检查，以减少幻觉信号和错误预期的行为；3)覆盖率引导的迭代，根据测量的验证差距重新生成测试。我们使用三种LLM在挑战性DUT和公开的OpenTitan外设及安全IP块上评估了AgentDV。根据我们的分析，我们观察到直接的单次提示无法在基准测试中产生有效的产生覆盖率的测试环境。使用Claude Sonnet 4.6，AgentDV在四个DUT上实现了100%的通过率，在所有DUT上平均达到80.9%的通过率。同样，对于Llama和Qwen模型，分别实现了平均58.7%和60.6%的通过率。此外，对于Claude Sonnet 4.6、Llama和Qwen模型，在考虑的基准测试中，分别实现了平均74.5%、69.1%和64.9%的行覆盖率，以及88.4%、82.3%和76.7%的分支覆盖率。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+    "authors": "Dewu Zheng, Yanlin Wang, Xiwen Wang, Kefeng Duan, Hongyu Zhang, Xilin Liu, Yuchi Ma, Zibin Zheng",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.27442v1",
+    "source": "arXiv",
+    "abstract": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code review into a single-round, static decision task, which fails to capture the multi-round interactive nature and the complex problem-solving processes inherent in realistic review scenarios. To bridge this gap, we introduce MCR-Bench, the first defect state-aware benchmark designed for realistic multi-round code review. MCR-Bench covers five commonly-used programming languages and consists of 2,269 real-world multi-round code review tasks, each of which is annotated with fine-grained defect information and cross-round state labels. Each task in MCR-Bench is equipped with fine-grained defect metadata (e.g., description, type, severity) alongside dynamic state annotations, capturing the complete evolutionary trajectory of a defect throughout the multi-round process. We obtain several findings through extensive experiments on MCR-Bench with mainstream LLMs. (1) Limited overall capability: experiments reveal that mainstream LLMs exhibit limited overall performance in defect detection and defect lifecycle state tracking, with performance degrading significantly as the number of interaction rounds increases; (2) Defect-sensitive performance: LLMs' performance varies substantially across different defect types and severity levels, with semantically complex or low-salience defects being significantly more likely to be missed; (3) Underlying Failure Mechanisms: our in-depth error analysis dissects the distinct drivers of false positives and false negatives, revealing critical weaknesses such as cross-round temporal misalignment and inadequate long-range memory.",
+    "title_zh": "从静态到动态：使用MCR-Bench对真实世界代码审查进行基准测试",
+    "abstract_zh": "在实际软件开发中，代码审查通常涉及开发者和审查者之间的迭代交互，以提高软件质量，这使得过程成本高昂且耗时。尽管最近的研究探索了使用大型语言模型（LLM）进行自动化代码审查，但大多数方法将代码审查简化为单轮静态决策任务，这无法捕捉现实审查场景中固有的多轮交互特性和复杂的问题解决过程。为了弥合这一差距，我们引入了MCR-Bench，这是首个针对现实多轮代码审查的缺陷状态感知基准。MCR-Bench涵盖五种常用编程语言，包含2,269个真实世界的多轮代码审查任务，每个任务都标注了细粒度缺陷信息和跨轮状态标签。MCR-Bench中的每个任务都配备了细粒度缺陷元数据（如描述、类型、严重性）以及动态状态标注，捕捉了缺陷在整个多轮过程中的完整演变轨迹。通过对主流LLM在MCR-Bench上进行广泛实验，我们获得了若干发现：(1) 整体能力有限：实验显示主流LLM在缺陷检测和缺陷生命周期状态跟踪方面表现有限，随着交互轮次增加，性能显著下降；(2) 缺陷敏感性能：LLM在不同缺陷类型和严重性级别上的性能差异显著，语义复杂或显著性低的缺陷更容易被遗漏；(3) 潜在失败机制：我们的深入错误分析剖析了误报和漏报的不同驱动因素，揭示了关键弱点，如跨轮时间错位和不足的长程记忆。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "FaultLens: Learning Compact Behavioral Test Suites for Generated Operational Programs",
+    "authors": "Zeming Liu, Hang Lyu, Jingtao Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.26746v1",
+    "source": "arXiv",
+    "abstract": "Generated operational programs are often validated with either a few hand-written examples or exhaustive regression suites. The former can miss sparse boundary and interaction faults, while the latter can be unnecessarily expensive. We introduce FaultLens, a method for learning compact behavioral test suites while preserving an auditable connection to executed evidence. It executes a rich probe domain once, stores the fault-probe kill relation as a sparse outcome cache, and learns probe orderings only from earlier program generations. A fault-driven greedy component exploits known kill structure, while a mutation-independent diversity component covers probe families, cases, templates, and temporal bins. Their alternating hybrid remains useful when a new program contains a fault mechanism absent from ordering construction. We evaluate twenty generated operational policies across four environments, ten execution seeds, 1,200 measured run summaries, 2,160 controlled program transformations, and 4,120,200 executed program-probe pairs. Of 1,960 intended faulty transformations, 1,779 alter a contract or output somewhere in the finite audit domain; 200 additional controls preserve behavior. A 32-probe hybrid learned on generations 1-3 covers 576/582 (99.0%) dynamically killable faults in generations 4-5 using 1.2-2.0% of the exhaustive domain. With an entire fault family withheld from training, diversity raises scenario-family macro coverage from 84.6% to 94.9%. In a downstream deployment study, a conservative admission rule reduces severe tail regressions from 15/20 program-environment groups to 0/20. FaultLens provides a prioritized evidence mechanism, not a proof of correctness, and makes its budget, evidence source, generalization split, and misses explicit.",
+    "title_zh": "FaultLens：学习生成式操作程序的紧凑行为测试套件",
+    "abstract_zh": "生成的操作程序通常通过少量手写示例或详尽的回归测试套件进行验证。前者可能会忽略稀有的边界和交互故障，而后者则可能不必要地昂贵。我们介绍了FaultLens，一种学习紧凑行为测试套件的方法，同时保持与执行证据的可审计连接。它执行一次丰富的探测域，将故障-探测消除关系存储为稀疏结果缓存，并仅从早期的程序生成中学习探测排序。一个故障驱动的贪婪组件利用已知的消除结构，而一个与变异无关的多样性组件覆盖探测族、案例、模板和时间区间。它们的交替混合在新程序包含一个在排序构建中不存在的故障机制时仍然有用。我们在四个环境中评估了二十个生成的操作策略，十个执行种子，1,200个测量的运行摘要，2,160个受控的程序转换和4,120,200个执行的程序-探测对。在1,960个预期的故障转换中，1,779个在有限审计域内的某处改变了合约或输出；200个额外的控制保持了行为。在1-3代上学习的32个探测混合版本使用详尽域的1.2-2.0%，覆盖了4-5代中576/582(99.0%)的动态可消除故障。当整个故障族被排除在训练之外时，多样性将场景族宏覆盖率从84.6%提高到94.9%。在下游部署研究中，一个保守的准入规则将严重尾部回归从20个程序-环境组中的15个减少到0/20。FaultLens提供了一个优先的证据机制，而不是正确性的证明，并明确说明了其预算、证据来源、泛化划分和遗漏。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+    "authors": "Dewu Zheng, Ruizhe Ye, Yanlin Wang, Yang Ye, Hongyu Zhang, Ensheng Shi, Xilin Liu, Yuchi Ma, Jianxing Yu, Zibin Zheng",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.27449v1",
+    "source": "arXiv",
+    "abstract": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such trajectories for SFT can introduce noisy supervision and encourage models to imitate undesirable problem-solving behaviors. Therefore, we propose SWE-Prime, a multi-granularity, two-stage SFT data selection method that progressively filters training data at the trajectory and segment levels. Specifically, the first stage performs trajectory-level screening based on process quality, result quality, and data representativeness, selecting a high-quality and representative subset of successful trajectories. The second stage performs segment-level selection by grouping consecutive steps into semantic segments and assessing each segment based on its contribution to the final solution, learnability, and potential risks. During SFT, all segments remain in the sequence to preserve context, while only selected segments contribute to the loss computation. Experiments on SWE-Bench Pro and SWE-Bench Verified show that training on the 10% trajectory subset selected by SWE-Prime outperforms training on the full resolved dataset, yielding relative performance gains of up to 12.2% and 24.2%, respectively.",
+    "title_zh": "SWE-Prime：更少的轨迹，更好的性能",
+    "abstract_zh": "为提高大型语言模型解决实际软件问题的能力，先前的研究工作主要集中在构建大规模智能体轨迹数据集，并对成功的轨迹进行监督微调（SFT）。然而，任务成功并不能保证高质量的监督：成功的轨迹中仍可能包含无效、冗余或有风险的步骤。直接使用此类轨迹进行SFT会引入噪声监督，并促使模型模仿不良的问题解决行为。因此，我们提出了SWE-Prime，一种多粒度、两阶段的SFT数据选择方法，能够在轨迹和片段级别上逐步筛选训练数据。具体而言，第一阶段基于过程质量、结果质量和数据代表性进行轨迹级别筛选，选择高质量且具有代表性的成功轨迹子集。第二阶段通过将连续步骤分组为语义片段，并根据每个片段对最终解决方案的贡献、可学习性和潜在风险进行评估，进行片段级别选择。在SFT过程中，所有片段均保留在序列中以保持上下文，只有选定的片段参与损失计算。在SWE-Bench Pro和SWE-Bench Verified上的实验表明，使用SWE-Prime选择的10%轨迹子集进行训练，优于使用完整已解决数据集进行训练，分别实现了高达12.2%和24.2%的相对性能提升。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "One Model, Many Minds: Unlocking Multi-Agent Synergy in a Single Agent via Mixture of Roles",
+    "authors": "Zhichen Zeng, Huiyuan Chen, Jingru Cheng, Juan Zha, Ming Liu, Ying Chen, Xiyuan Yang, Chaosheng Dong, Haiyang Zhang, Hanghang Tong",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.27338v1",
+    "source": "arXiv",
+    "abstract": "Specializing Large Language Models (LLMs) toward distinct abilities underpins successes ranging from personalized assistants to multi-agent systems (MAS). Single-agent paradigms rely on pre-defined personas or steering vectors to induce specialization, yet they impose a single fixed specialization that fails to adapt to diverse queries. Conversely, MAS achieves dynamic multi-perspective problem solving by orchestrating agents with distinct text-based roles, but fusing these specializations requires multi-turn interactions that inflate context length and inference cost. To address these limitations, we propose Mixture of Roles (MoRe), which adaptively composes multiple specializations into a single steering vector for single-turn inference. Specifically, MoRe learns a diversified codeboox of steering vectors, each of which encodes a latent role. A query-aware router dynamically fuses the codebook into a steering vector that encompasses multiple roles. By steering the backbone LLM with the composed vector, MoRe enables multi-perspective specialization in a single-agent, single-turn inference process. The proposed MoRe can be efficiently trained via a three-stage SFT curriculum and GRPO post-training, while the backbone LLM remains frozen. Experiments across reasoning and personality benchmarks show that MoRe outperforms single-agent baselines by 2.2% on average, and achieves performance on par with MAS while reducing token cost by 20x.",
+    "title_zh": "一模型，多心智：通过角色混合在单一智能体中解锁多智能体协同效应",
+    "abstract_zh": "将大型语言模型（LLMs）专业化以实现不同能力，是推动从个性化助手到多智能体系统（MAS）等成功应用的基础。单智能体范式依赖于预定义的角色或引导向量来诱导专业化，但它们施加了单一固定的专业化，无法适应多样化的查询。相反，MAS通过协调具有不同文本角色的智能体来实现动态多视角问题解决，但融合这些专业化需要多轮交互，这会增加上下文长度和推理成本。为解决这些限制，我们提出了角色混合（MoRe）方法，它将多个专业化自适应地组合成单个引导向量，用于单轮推理。具体而言，MoRe学习一个多样化的引导向量代码本，每个向量编码一个潜在角色。一个感知查询的路由器动态地将代码本融合成一个包含多个角色的引导向量。通过用组合向量引导骨干LLM，MoRe在单智能体、单轮推理过程中实现了多视角专业化。所提出的MoRe可以通过三阶段的SFT课程和GRPO后训练进行高效训练，同时骨干LLM保持冻结。在推理和个性基准上的实验表明，MoRe平均比单智能体基线高出2.2%，同时性能与MAS相当，并将令牌成本降低了20倍。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Unsaid, Unsafe? Implicit Security Obligations in LLM-Based RTL Code Generation",
+    "authors": "Guang Yang, Xing Hu, Xiang Chen, Xin Xia",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.26588v1",
+    "source": "arXiv",
+    "abstract": "Large Language Models (LLMs) generate register-transfer-level (RTL) code with rapidly improving functional correctness. Security of LLM-generated code, however, has been studied mainly for software, where flaws can still be patched after deployment. Insecure RTL offers no such remedy once taped out into silicon. We construct SECRTL-GEN, a multi-language resource-access security benchmark grounded in real SoC IP: 392 tasks over five CWE families and four HDLs (Verilog, SystemVerilog, VHDL, and Python), each with black-box functional and security testbenches. Functional specifications intentionally omit security obligations, matching how obligations are often kept out of functional docs in practice. An empirical study of five frontier LLMs shows a sharp gap: under vanilla prompts they pass functional tests in about 73-79% of cases but security tests in only 14-35%, and stronger functional models are not safer. Adding CWE knowledge raises security, while unaided self-thinking helps less and both security-oriented prompts cut functional pass rates, showing that the bottleneck is missing weakness awareness in the specification, not an inability to write defensive RTL. We present RTL-Obliger, a neuro-symbolic framework that infers these implicit obligations. An LLM extracts a functional-semantic graph from the specification; a symbolic engine then matches it against a CWE pattern ontology to surface mitigation-evidence gaps and signal-level obligations; the LLM finally revises RTL under those obligations in a functionality-preserving two-stage generation. Across five models and four languages, RTL-Obliger raises mean all-pass from 49.6-51.4% (SecV/RESCUE) to 61.6%, with higher security and functional rates than these secure-generation baselines.",
+    "title_zh": "未言明，不安全？基于LLM的RTL代码生成中的隐含安全义务",
+    "abstract_zh": "大型语言模型(LLMs)生成的寄存器传输级(RTL)代码的功能正确性正在迅速提高。然而，LLM生成代码的安全性研究主要集中在软件领域，因为软件中的缺陷仍可以在部署后修复。不安全的RTL代码一旦被制成硅片，就无法获得这种修复机会。我们构建了SECRTL-GEN，这是一个基于真实SoC IP的多语言资源访问安全基准：包含392个任务，涵盖五个CWE家族和四种硬件描述语言(HDLs)(Verilog、SystemVerilog、VHDL和Python)，每种语言都配备黑盒功能和安全测试平台。功能规范有意省略安全义务，这与实践中义务常被排除在功能文档之外的情况相符。对五个前沿LLM的实证研究表明存在明显差距：在普通提示下，它们在约73-79%的案例中通过功能测试，但在安全测试中仅通过14-35%，且更强的功能模型并不更安全。添加CWE知识可以提高安全性，而无辅助的自我思考帮助较小，且两种安全导向的提示都会降低功能通过率，这表明瓶颈在于规范中缺少弱点意识，而非无法编写防御性RTL的能力。我们提出了RTL-Obliger，一个神经符号框架，用于推断这些隐含义务。LLM从规范中提取功能语义图；然后符号引擎将其与CWE模式本体进行匹配，以揭示缓解证据差距和信号级义务；最后，LLM在功能保持的两阶段生成中根据这些义务修改RTL。在五个模型和四种语言中，RTL-Obliger将平均全部通过率从49.6-51.4%(SecV/RESCUE)提高到61.6%，其安全性和功能率高于这些安全生成基线。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "DeepRepro: State-Aware Subplanning for Paper-to-Code Reproduction in Evolving Repositories",
+    "authors": "Hongru Song, Ruqing Zhang, Jiafeng Guo, Xueqi Cheng, Maarten de Rijke",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.26557v1",
+    "source": "arXiv",
+    "abstract": "Recent advances in agentic large language models (LLMs) have enabled increasingly autonomous software engineering workflows, yet automatic machine learning (ML) paper-to-code reproduction remains a challenging long-horizon problem. Unlike conventional code generation, this task requires constructing and maintaining a fully functional repository whose state continuously evolves during execution. Existing systems typically rely on static upfront planning followed by sequential file-level generation, which often leads to inconsistencies as dependencies, interfaces, and execution feedback change over time. We propose DeepRepro, a state-aware framework for paper-to-code reproduction based on execution-state-aware subplanning. DeepRepro dynamically transforms evolving repository states and runtime feedback into fine-grained implementation subplans, keeping planning aligned with execution throughout repository construction. The framework further incorporates repository-aware orchestration and a lightweight process-aware interface for transparent monitoring of long-horizon reproduction. Experiments on PaperBench Code-Dev show that DeepRepro consistently outperforms strong scientific and commercial code-agent baselines.",
+    "title_zh": "DeepRepro：面向演进仓库中论文到代码复现的状态感知子规划",
+    "abstract_zh": "代理式大型语言模型（LLMs）的最新进展使得日益自主的软件工程工作流程成为可能，然而自动机器学习（ML）论文到代码的复制仍然是一个具有挑战性的长期问题。与传统代码生成不同，这项任务需要构建和维护一个完全功能性的代码库，其状态在执行过程中不断演变。现有系统通常依赖静态的前期规划，然后进行顺序的文件级生成，这常常导致不一致性，因为依赖项、接口和执行反馈会随时间变化。我们提出了DeepRepro，一个基于执行状态感知子规划的论文到代码复制框架。DeepRepo动态地将不断演变的代码库状态和运行时反馈转化为细粒度的实现子计划，使规划在整个代码库构建过程中与执行保持一致。该框架进一步整合了代码库感知的编排和轻量级的过程感知接口，以透明地监控长期复制过程。在PaperBench Code-Dev上的实验表明，DeepRepro持续优于强大的科学和商业代码代理基线。"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Bug Localization from Bug Reports: A Multi-Objective Approach",
+    "authors": "Waleed Ahmad, Mehtab Kiran Suddle, Maryam Bashir",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.27089v1",
+    "source": "arXiv",
+    "abstract": "Bug localization is a labor-intensive task, particularly in large software systems. When abnormal behavior occurs, developers must perform repetitive and time-consuming steps to identify faulty files. Previous studies have mainly focused on single-objective localization methods, many of which are limited to specific programming languages. In addition, relying solely on lexical similarity between source code and bug reports is often insufficient due to the natural language nature of bug descriptions. In this study, we propose a class-level automated multi-objective search-based system to identify and rank potentially buggy classes from bug reports. The main objective is to maximize similarity while minimizing the number of suggested faulty files. The evolutionary optimization algorithm SPEA-2 was applied to six open-source Java projects comprising more than 22,000 bug reports. The proposed approach was evaluated against two widely used algorithms, NSGA-II and MOEA/D. Results indicate that SPEA-2 achieved higher precision and recall than both multi-objective and single-objective baseline methods. The proposed recommender system successfully identified buggy classes or files for 88.5\\% of bug reports within the top 10 recommendations and 94\\% within the top 20. The effectiveness of the model was further validated on an industrial Android project written in Kotlin, demonstrating its adaptability across programming languages.",
+    "title_zh": "从错误报告进行错误定位：一种多目标方法",
+    "abstract_zh": "错误定位是一项劳动密集型任务，特别是在大型软件系统中。当异常行为发生时，开发人员必须执行重复且耗时的步骤来识别有问题的文件。先前的研究主要集中在单目标定位方法上，其中许多方法仅限于特定的编程语言。此外，仅依赖源代码与错误报告之间的词汇相似性通常是不够的，因为错误描述具有自然语言的特点。在本研究中，我们提出了一种基于类的自动化多目标搜索系统，用于从错误报告中识别和排名可能有问题的类。主要目标是在最大化相似性的同时最小化建议的有问题文件的数量。进化优化算法SPEA-2被应用于六个包含超过22,000个错误报告的开源Java项目。将所提出的方法与两种广泛使用的算法NSGA-II和MOEA/D进行了比较评估。结果表明，SPEA-2比多目标和单目标基线方法都获得了更高的精确度和召回率。所提出的推荐系统成功地在88.5%的错误报告的前10个推荐中识别出了有问题的类或文件，在前20个推荐中达到了94%。该模型的有效性进一步在一个用Kotlin编写的工业Android项目上得到了验证，展示了其跨编程语言的适应性。"
+  },
+  {
+    "date": "2026-8-27",
+    "title": "LLM Based Static Malware Analysis for Windows Portable Executables",
+    "authors": "Timothy Miskell, Yan Luo, Peilong Li, Shin Wei Lim",
+    "publish": "2026 35th International Conference on Computer Communications and Networks (ICCCN)",
+    "url": "https://doi.org/10.1109/icccn69946.2026.11662587",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大型语言模型的Windows可移植可执行文件静态恶意软件分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-27",
+    "title": "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case with Ariel OS",
+    "authors": "B. Thapa, D. Alfonso, L. Bini, L. Mapelli, K. Schleiser, R. Fouquet, E. Baccelli",
+    "publish": "2026 22nd International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)",
+    "url": "https://doi.org/10.1109/dcoss-iot69657.2026.00084",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "嵌入式 Rust 还是 C 固件？来自 Ariel OS 工业微控制器用例的经验教训",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-27",
+    "title": "An Empirical Study on Engineering Modeling Efficiency of Vibe Coding: A Standardized Evaluation Framework for Generative AI-Assisted Programming",
+    "authors": "Zhou Keyu, Qing Xiaotian, Zheng Yang",
+    "publish": "2026 9th International Conference on Electronics Technology (ICET)",
+    "url": "https://doi.org/10.1109/icet69987.2026.11659181",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Vibe编码工程建模效率的实证研究：生成式AI辅助编程的标准化评估框架",
+    "abstract_zh": "None"
+  }
+]
