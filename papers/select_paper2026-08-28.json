@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-8-28",
+    "title": "Combinatorial Methods for Chip Vulnerability Detection",
+    "authors": "Rick Kuhn, Christopher Nokes, Kostas Amberiadis, Michael Zuzak",
+    "publish": "IEEE Security &amp; Privacy",
+    "url": "https://doi.org/10.1109/msec.2026.3723297",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "芯片漏洞检测的组合方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-28",
+    "title": "Leveraging Self-Paced Learning for Software Vulnerability Detection",
+    "authors": "Zeru Cheng, Yanjing Yang, He Zhang, Lanxin Yang, Jinghao Hu, Jinwei Xu, Bohan Liu, Haifeng Shen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3844141",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "利用自步学习进行软件漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-28",
+    "title": "Correct-by-Construction High-Level Synthesis for FPGA: From Algebraic Models to RTL",
+    "authors": "Igor Redko, Petro Yahanov, Maksym Zylevich",
+    "publish": "2026 IEEE 8th International Conference on Smart Technologies in Power Engineering and Electronics (STEE)",
+    "url": "https://doi.org/10.1109/stee63704.2026.11664009",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于构造正确的FPGA高层次综合：从代数模型到RTL",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-28",
+    "title": "Optimizing Snyk AI Results with Large Language Model (LLM) to Validate False Positive Rate",
+    "authors": "Danu Tryas Pristowo, Dana Sulistiyo Kusumo",
+    "publish": "2026 14th International Conference on Information and Communication Technology (ICoICT)",
+    "url": "https://doi.org/10.1109/icoict71118.2026.11664759",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用大型语言模型（LLM）优化Snyk AI结果以验证误报率",
+    "abstract_zh": "None"
+  }
+]
