@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-8-28",
+    "title": "Leveraging Self-Paced Learning for Software Vulnerability Detection",
+    "authors": "Zeru Cheng, Yanjing Yang, He Zhang, Lanxin Yang, Jinghao Hu, Jinwei Xu, Bohan Liu, Haifeng Shen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3844141",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "利用自步学习进行软件漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-28",
     "title": "Combinatorial Methods for Chip Vulnerability Detection",
     "authors": "Rick Kuhn, Christopher Nokes, Kostas Amberiadis, Michael Zuzak",
     "publish": "IEEE Security &amp; Privacy",
@@ -12,13 +23,13 @@
   },
   {
     "date": "2026-8-28",
-    "title": "Leveraging Self-Paced Learning for Software Vulnerability Detection",
-    "authors": "Zeru Cheng, Yanjing Yang, He Zhang, Lanxin Yang, Jinghao Hu, Jinwei Xu, Bohan Liu, Haifeng Shen",
+    "title": "ChatRCA: A Root Cause Analysis Method via LLMs-based Multi-Agent with Human-in-the-Loop",
+    "authors": "Mingxuan Hui, Lu Wang, Qingshan Li, Luyan Zhang, Zhongliang Bai, Jingzhao Hu, Hao Li, Ren Yang, Feiyue Song, Yimian Wang, Tao Sun, Liwen Luo",
     "publish": "ACM Transactions on Software Engineering and Methodology",
-    "url": "https://doi.org/10.1145/3844141",
+    "url": "https://doi.org/10.1145/3842744",
     "source": "ACM",
     "abstract": "None",
-    "title_zh": "利用自步学习进行软件漏洞检测",
+    "title_zh": "ChatRCA：一种基于大语言模型的多智能体人机交互根因分析方法",
     "abstract_zh": "None"
   },
   {
