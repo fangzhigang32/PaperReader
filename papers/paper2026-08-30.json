@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2026-8-30",
+    "title": "Motif Counting in Complex Networks: A Comprehensive Survey",
+    "authors": "Haozhe Yin, Kai Wang, Wenjie Zhang, Yizhang He, Ying Zhang, Xuemin Lin",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3844607",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-30",
+    "title": "From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform",
+    "authors": "Dandan Liu, Lihu Pan, Aznul Qalid Md Sabri, Guangrui Fan",
+    "publish": "ACM Transactions on Social Computing",
+    "url": "https://doi.org/10.1145/3844666",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-30",
+    "title": "A Scalable Hyperparameter-Guided Synchronization Framework for Population-Informed Trajectory Generation",
+    "authors": "Salman Ahmed Shaikh, Komal Mariam, Kitagawa Hiroyuki, Akiyoshi Matono",
+    "publish": "ACM Transactions on Spatial Algorithms and Systems",
+    "url": "https://doi.org/10.1145/3844615",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-30",
+    "title": "Rethinking Cache Eviction: Low-Overhead and Precise Learning-based Design",
+    "authors": "Qian Wang, Chang Xu, Wenbin Zhou, Juan Fang, Yongqiang Xiong, Zhixiong Niu",
+    "publish": "ACM Transactions on Computer Systems",
+    "url": "https://doi.org/10.1145/3839232",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-30",
+    "title": "DistSpMM: Accelerating Sparse Matrix Dense Matrix Multiplication on GPUs",
+    "authors": "Junyu Gu, Jue Wang, Zhikuang Xin, Chunbao Zhou, Zhiqiang Liang, Yuchen Pang, Rongqiang Cao, Zongguo Wang, Fang Liu, Jing Wang, Yangang Wang",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3841478",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-8-30",
+    "title": "A Survey on Transformer-Based Long-Range Dependency Modeling in Intelligent Document Understanding",
+    "authors": "Xumu Jiang, Yu Zhang, Alireza Abbasi",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3844505",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

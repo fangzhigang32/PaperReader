@@ -1,0 +1,23 @@
+[2026-08-31 00:13:45] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-08-30
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202608300000+TO+202608302359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"))
+[ACM] 2026-8-30 | Motif Counting in Complex Networks: A Comprehensive Survey
+[ACM] 2026-8-30 | From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform
+[ACM] 2026-8-30 | A Scalable Hyperparameter-Guided Synchronization Framework for Population-Informed Trajectory Generation
+[ACM] 2026-8-30 | Rethinking Cache Eviction: Low-Overhead and Precise Learning-based Design
+[ACM] 2026-8-30 | DistSpMM: Accelerating Sparse Matrix Dense Matrix Multiplication on GPUs
+[ACM] 2026-8-30 | A Survey on Transformer-Based Long-Range Dependency Modeling in Intelligent Document Understanding
+共写入 6 条记录，保存到 papers/paper2026-08-30.json。
+论文获取成功，文件路径: papers/paper2026-08-30.json
+正在筛选、翻译并发送邮件...
+[NO] 1/6 | Motif Counting in Complex Networks: A Comprehensive Survey
+[NO] 2/6 | From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform
+[NO] 3/6 | A Scalable Hyperparameter-Guided Synchronization Framework for Population-Informed Trajectory Generation
+[NO] 4/6 | Rethinking Cache Eviction: Low-Overhead and Precise Learning-based Design
+[NO] 5/6 | DistSpMM: Accelerating Sparse Matrix Dense Matrix Multiplication on GPUs
+[NO] 6/6 | A Survey on Transformer-Based Long-Range Dependency Modeling in Intelligent Document Understanding
+筛选完成：共 6 篇；Yes = 0 篇；已保存到 papers/select_paper2026-08-30.json。
+邮件发送成功！
+[2026-08-31 00:15:48] 任务执行成功！
