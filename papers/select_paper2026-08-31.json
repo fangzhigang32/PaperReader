@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-8-31",
+    "title": "Agentic C to Rust Translation",
+    "authors": "Benedikt Schesch, Michael D. Ernst",
+    "publish": "IEEE Security &amp; Privacy",
+    "url": "https://doi.org/10.1109/msec.2026.3715863",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "代理式C到Rust翻译",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-31",
+    "title": "Towards Automated Detection of Latent Software Robustness Failures Using Large Language Models",
+    "authors": "José Flauzino, Marco Vieira, Elias P. Duarte",
+    "publish": "2026 56th Annual IEEE International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)",
+    "url": "https://doi.org/10.1109/dsn-s70715.2026.00068",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大型语言模型的潜在软件健壮性故障自动化检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-31",
+    "title": "Adaptive Symbolic Execution with LLMs for Evasive Malware Analysis",
+    "authors": "Ajay Kumara Makanahalli Annaiah, Shahid Ali, William Setters",
+    "publish": "2026 56th Annual IEEE International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)",
+    "url": "https://doi.org/10.1109/dsn-s70715.2026.00065",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型的自适应符号执行用于规避性恶意软件分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-31",
+    "title": "An Effective Approach to Detecting Regulatory Violations in Software Services Using a Large Language Model",
+    "authors": "Stephen S. Yau, Krishna Kanth Markonda Patnaikuni, Aviroop Nandy",
+    "publish": "2026 IEEE International Conference on Software Services Engineering (SSE)",
+    "url": "https://doi.org/10.1109/sse72781.2026.00054",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用大型语言模型检测软件服务中违规行为的有效方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-8-31",
+    "title": "SpiceDiff Agent Simulation Efficient LLM Guided Planning for Specification Driven Analog Circuit Netlist Repair",
+    "authors": "Zhe Feng, Yutong Ye, Jianxun Zhou, Wenbin Guo, Lihua Xu, Wendong Lu, Yunlai Zhu, Zuyu Xu, Zuheng Wu, Yuehua Dai",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3729375",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SpiceDiff Agent Simulation: Efficient LLM Guided Planning for Specification Driven Analog Circuit Netlist Repair\n\n中文翻译：\nSpiceDiff 代理仿真：基于规格驱动的模拟电路网表修复的高效 LLM 指导规划",
+    "abstract_zh": "None"
+  }
+]
