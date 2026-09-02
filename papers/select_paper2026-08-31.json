@@ -1,5 +1,181 @@
 [
   {
+    "date": "2026-08-31",
+    "title": "DiffPDE: Masked Diffusion Language Models as PDE Solver",
+    "authors": "Wenxuan Guo, Yuyang Hong, Lubin Fan, Zhaojin Fu, Lin Chen, Kun Ding, Shiming Xiang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30532v1",
+    "source": "arXiv",
+    "abstract": "Existing approaches for synthesizing Partial Differential Equation (PDE) solvers predominantly rely on autoregressive models, yet their global left-to-right decoding incurs substantial redundancy when addressing inherently localized bugs. In this work, we challenge this inefficient paradigm and propose DiffPDE, a framework leveraging discrete diffusion language models for targeted code repair. By introducing a localized re-masking and infilling strategy, DiffPDE regenerates only erroneous regions while preserving correct context, naturally aligning generation with the sparse nature of PDE errors. Furthermore, to handle coupled bugs requiring sequential interventions, we present Iterative Debugging GRPO (ID-GRPO), a reinforcement learning scheme that enables multi-round debugging within single trajectories via intermediate rewards. Experiments on PDEBench show that DiffPDE achieves competitive accuracy, outperforms same-scale AR models, and significantly accelerates repair.",
+    "title_zh": "DiffPDE：作为偏微分方程求解器的掩码扩散语言模型",
+    "abstract_zh": "现有用于合成偏微分方程(PDE)求解器的方法主要依赖于自回归模型，但其全局从左到右解码在处理本质上局部化的错误时会产生大量冗余。在这项工作中，我们挑战这种低效范式，提出了DiffPDE，一个利用离散扩散语言模型进行针对性代码修复的框架。通过引入局部重新掩码和填充策略，DiffPDE仅重新生成错误区域，同时保留正确上下文，自然地将生成与PDE错误的稀疏性质对齐。此外，为了处理需要顺序干预的耦合错误，我们提出了迭代调试GRPO(ID-GRPO)，一种强化学习方案，通过中间奖励在单个轨迹内实现多轮调试。在PDEBench上的实验表明，DiffPDE实现了具有竞争力的准确性，优于同等规模的AR模型，并显著加速了修复过程。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "WebWorld: The Browser as a World Model for Self-Improving Web Code",
+    "authors": "Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, Xianglong Liu, Ming Zhou",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30530v1",
+    "source": "arXiv",
+    "abstract": "VLM-driven self-improvement of web code has a structural flaw: the model that proposes the repair is the model that judges it, and visual plausibility under that judge is a poor proxy for whether the page actually works. What the loop is missing is a counterparty the VLM cannot fool, and the browser already is that counterparty: a deterministic, executable simulator of how an HTML artifact behaves under user actions, and in everything but name a world model for web code. We present WebWorld, the interface that lets a VLM prior interact with this browser-as-world-model autonomously and decides which interactions become supervision. Each round, the VLM emits a critique that the planner compiles into a typed interaction contract; the browser re-executes the candidate and issues an acceptance certificate only when both target progress and preservation of every previously verified capability hold; certified transitions accumulate as a quality ratchet that is the only thing the SFT export ever sees. Under matched training, WebWorld-27B improves Raw-27B by 5.3 points on HTMLBench-400 and 14.9 points on MiniAppBench-Val, and reaches the level of strong frontier systems such as Kimi-K2.6 and GPT-5.4 on interactive HTML generation. Equal-size ablations show that browser-backed admission carries the gain: without the certificate, the matched 9B lift nearly disappears.",
+    "title_zh": "WebWorld：作为自我改进网页代码的浏览器世界模型",
+    "abstract_zh": "VLM驱动的网页代码自我改进存在结构性缺陷：提出修复方案的模型同时也是评判该方案的模型，而该评判模型下的视觉合理性并不能很好地代表页面是否真正可用。这个循环所缺少的是一个VLM无法欺骗的对手方，而浏览器已经是这个对手方：一个确定性的、可执行的模拟器，能够展示HTML工件在用户操作下的行为，并且在各方面都堪称网页代码的世界模型。我们提出了WebWorld，这是一个接口，让VLM能够与这种作为世界模型的浏览器自主交互，并决定哪些交互成为监督信号。每一轮，VLM发出一个批判意见，规划者将其编译为类型化的交互契约；浏览器重新执行候选方案，并且只有当目标进展和先前验证的每项能力都得到保持时，才签发验收证书；经过认证的转换累积为一个质量棘轮，这是SFT导出过程中唯一能看到的内容。在匹配的训练条件下，WebWorld-27B在HTMLBench-400上比Raw-27B提高了5.3分，在MiniAppBench-Val上提高了14.9分，并在交互式HTML生成方面达到了Kimi-K2.6和GPT-5.4等强大前沿系统的水平。同等规模的消融实验表明，浏览器支持的认证带来了提升：没有证书的情况下，匹配的9B模型提升几乎消失。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Bridge: Automatically Mining Ecosystem-Scale API Update Mappings and Client Update Instances",
+    "authors": "Kai Gao, Yu Sun, Chang-ai Sun",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30497v1",
+    "source": "arXiv",
+    "abstract": "Library updates often require adapting client code to API changes. API update mappings that identify relations between legacy and replacement APIs, version transitions that these mappings apply, and client update instances that capture concrete API call changes are essential for developing and evaluating automated library update techniques. Existing library evolution datasets capture only subsets of this information and typically cover few third-party libraries. In this paper, we present Bridge, a client-driven framework for automatically constructing ecosystem-scale library update datasets that connect API update mappings, version transitions, and client update instances. Bridge first mines candidate update instances from client dependency update commits at scale, validates them using library-side evidence, and then derives API update mappings from validated instances. This design grounds each retained mapping in at least one client update instance. On a manually annotated ground truth dataset, Bridge achieves 91.6% precision and 88.7% recall for Java and 90.1% precision and 64.0% recall for Python. Applied to WoC V3, Bridge mines 381,661 Java and 277,259 Python client update instances, representing 18,900 and 4,456 API update mappings across 2,557 and 999 libraries, respectively. The mined mappings exhibit a pronounced long-tail distribution, with most appearing in only a few client update instances. As one application of the dataset, we evaluate four large language models on replacement API recommendation, a key step in library updates. The best recommendation accuracy reaches only 37.1% for Java and 44.4% for Python, and all evaluated models perform substantially better on frequently observed mappings than on mappings observed in only a few client update instances, highlighting the difficulty current LLMs face in recommending replacements for mappings in the long tail.",
+    "title_zh": "Bridge：自动挖掘生态系统规模的API更新映射和客户端更新实例",
+    "abstract_zh": "库更新通常需要调整客户端代码以适应API的变化。API更新映射、版本转换以及客户端更新实例对于开发和评估自动化库更新技术至关重要。现有的库演化数据集仅捕获了这部分信息的一部分，并且通常只涵盖少数第三方库。在本文中，我们提出了Bridge，一个客户端驱动的框架，用于自动构建生态系统规模的库更新数据集，该数据集连接API更新映射、版本转换和客户端更新实例。Bridge首先从客户端依赖更新提交中大规模挖掘候选更新实例，使用库端证据验证这些实例，然后从验证过的实例中推导出API更新映射。这种设计确保每个保留的映射至少基于一个客户端更新实例。在一个手动标注的真实数据集上，Bridge在Java上达到了91.6%的精确率和88.7%的召回率，在Python上达到了90.1%的精确率和64.0%的召回率。应用于WoC V3，Bridge挖掘了381,661个Java和277,259个Python客户端更新实例，分别代表了2,557和999个库中的18,900和4,456个API更新映射。挖掘出的映射呈现出明显的长尾分布，大多数映射只出现在少数客户端更新实例中。作为数据集的一个应用，我们评估了四个大型语言模型在替换API推荐方面的表现，这是库更新的关键步骤。最佳推荐准确率在Java上仅为37.1%，在Python上为44.4%，所有评估的模型在频繁观察到的映射上的表现明显优于仅在少数客户端更新实例中观察到的映射，这突显了当前大型语言模型在推荐长尾映射替换方面面临的困难。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Update from Hell: Can Coding Agents Survive Hidden Breakage in Dependency Upgrades?",
+    "authors": "Zijian Luo, Runzhi He, Pengfei Gao, Yu Kang, Zeqi Lin, Minghua Ma, Qingwei Lin, Saravan Rajmohan, Yongqiang Tian",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30300v1",
+    "source": "arXiv",
+    "abstract": "Modern software systems rely heavily on third-party dependencies, but upgrading those dependencies remains a costly maintenance activity. Dependency upgrades do not always preserve the function signatures, type systems, APIs, or runtime semantics assumed by existing code. Consequently, developers often need to perform source code adaptations to accommodate dependency-induced changes. However, such code-level changes are often not explicitly communicated to project maintainers, posing a significant challenge to software reliability. Meanwhile, coding agents have emerged as a new form of software development tool and are increasingly adopted by developers due to their automation capabilities. In this paper, we introduce DEPBENCH, a benchmark consisting of 203 real-world dependency-upgrade tasks across five package ecosystems spanning five language communities, each involving hidden code-level changes that require source code adaptation. We evaluate mainstream coding agents on DEPBENCH. The best completed configuration solves only 104/203 tasks (51.2%), with substantial variation across agent harnesses, models, and ecosystems, highlighting an important gap between current agent capabilities and real-world software maintenance needs.",
+    "title_zh": "来自地狱的更新：编码代理能否在依赖升级中的隐藏损坏中幸存？",
+    "abstract_zh": "现代软件系统严重依赖第三方依赖项，但升级这些依赖项仍然是一项昂贵的维护活动。依赖项升级并不总是保留现有代码所依赖的函数签名、类型系统、API或运行时语义。因此，开发人员通常需要进行源代码调整以适应依赖项引起的变化。然而，这类代码级别的变化通常没有明确传达给项目维护者，这对软件可靠性构成了重大挑战。与此同时，编码代理作为一种新型软件开发工具应运而生，并因其自动化能力而被开发人员日益采用。在本文中，我们介绍了DEPBENCH，这是一个包含203个真实世界依赖项升级任务的基准测试，涵盖五个语言社区的五个包生态系统，每个任务都涉及需要源代码调整的隐藏代码级别变化。我们在DEPBENCH上评估了主流的编码代理。最佳完成的配置仅解决了203个任务中的104个（51.2%），并且在代理工具、模型和生态系统之间存在显著差异，这突显了当前代理能力与实际软件维护需求之间的重要差距。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Schwarz: Solver-Aware Agentic Program Verification",
+    "authors": "Jingyu Ke, Ling-I Wu, Guoqiang Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30803v1",
+    "source": "arXiv",
+    "abstract": "Agentic verification systems can often generate source-level specifications that look plausible, but plausibility is not enough: the verifier must still turn those specifications into SMT obligations that the solver can prove. When this step fails, current LLM-driven loops usually expose only a coarse verifier error, timeout, or unknown solver result. The model cannot tell whether the specification is wrong, a helper lemma is missing, the proof context contains irrelevant facts, or the obligation needs a different theory view. This paper presents Schwarz, an agentic verification harness that makes SMT-backed proof failure local, checkable, and repairable. Schwarz turns failed verification into obligation-local repair tasks: program-point snapshots expose checked facts at a boundary, local lemmas let the agent propose missing proof steps, and theory-aware solver policies guide the agent toward solver-friendly formulations for numeric, quantified, memory, and floating-point obligations. We implement Schwarz for C and Rust/Verus and evaluate it on 1,475 tasks. On 475 benchmarks from recent agentic verification tools, Schwarz solves 95.2% of the tasks. On 1,000 tasks from the SV-COMP 2026 ReachSafety track, averaging 1,427 LOC, Schwarz solves 91.5% of the tasks, compared with 60.1% for CPAchecker. Ablations and comparison with a pure-agent baseline show that solver-aware repair is effective and scalable.",
+    "title_zh": "Schwarz: 求解器感知的智能体程序验证",
+    "abstract_zh": "智能验证系统通常能够生成看似合理的源级规范，但仅凭合理性是不够的：验证器仍需将这些规范转化为求解器可以证明的SMT约束。当这一步骤失败时，当前的LLM驱动循环通常仅暴露出粗粒度的验证器错误、超时或未知的求解器结果。模型无法判断规范是否错误、缺少辅助引理、证明上下文中包含无关事实，或者约束需要不同的理论视角。本文介绍了Schwarz，一个智能验证工具包，它使基于SMT的证明失败具有局部性、可检查性和可修复性。Schwarz将失败的验证转化为约束局部修复任务：程序点快照在边界处暴露已检查的事实，局部引理允许智能体提出缺失的证明步骤，而理论感知的求解器策略引导智能体为数值、量化、内存和浮点约束制定求解器友好的表述。我们为C和Rust/Verus实现了Schwarz，并在1,475个任务上对其进行了评估。在来自近期智能验证工具的475个基准测试中，Schwarz解决了95.2%的任务。在SV-COMP 2026 Reachability Safety轨道的1,000个任务（平均1,427行代码）中，Schwarz解决了91.5%的任务，而CPAchecker解决了60.1%。消融实验与纯智能体基线的比较表明，求解器感知的修复方法有效且可扩展。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "FABO: Agent-Guided Discovery of Joint Breakpoint Optimization for Timing-Driven Routing Trees",
+    "authors": "Shang Liu, Wenji Fang, Jing Wang, Hongxin Kong, Yao Lu, Zhiyao Xie",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30268v1",
+    "source": "arXiv",
+    "abstract": "The topology of a routing tree determines how a multi-pin net branches and shares physical wire, directly affecting wirelength, congestion, capacitance, and delay. We study a central early-stage routing problem: minimizing wirelength while bounding the root-to-sink path stretch for every sink. SALT is the state-of-the-art constructive algorithm for this problem. We ask whether language-model-guided search can discover a constructive algorithm that improves on SALT. To make this search reliable, we develop an agent framework that combines parallel exploration with independent checking. Applied to SALT, the framework discovers a structural limitation: SALT repairs one sink path at a time and therefore never jointly decides where paths sharing root-side wire should split. This sink-local choice can split the paths too early and duplicate wire. This discovery leads to Flow-Aware Breakpoint Optimization (FABO), which jointly optimizes breakpoints across root-to-sink paths that share wire while preserving every sink's stretch budget. Across 1.29 million ICCAD15 nets and SALT's 20-point stretch-tolerance schedule, FABO reduces average FLUTE-normalized wirelength at every setting, with peak same reductions of 0.83% overall and 2.66% for nets with at least 30 pins. With 1.3x SALT's runtime, FABO-FAST identifies and optimizes most nets for which FABO provides a substantial wirelength reduction. Code is available at https://github.com/DevinShang/routing-FABO.",
+    "title_zh": "FABO：基于代理引导的时序驱动路由树联合断点优化发现",
+    "abstract_zh": "路由树的拓扑结构决定了多引脚网的分支方式和物理线路共享方式，直接影响线路长度、拥塞、电容和延迟。我们研究了一个核心的早期布线问题：在限制每个汇节点到根节点的路径延展的同时最小化线路长度。SALT是该问题的最新构造算法。我们探究语言模型引导的搜索是否能发现一种优于SALT的构造算法。为确保搜索的可靠性，我们开发了一个结合并行探索和独立检查的智能体框架。应用于SALT时，该框架发现了一个结构性局限：SALT一次修复一个汇节点路径，因此无法共同决定共享根侧线路的路径应在何处分离。这种针对汇节点的局部选择可能导致路径过早分离并造成线路重复。这一发现促成了\"流量感知断点优化\"(FABO)，该算法在保持每个汇节点延展预算的同时，共同优化共享线路的根到汇节点路径上的断点。在129万个ICCAD15网络和SALT的20点延展容度计划下，FABO在所有设置下都降低了平均FLUTE标准化线路长度，总体峰值降低0.83%，对于至少有30个引脚的网络降低2.66%。运行时间为SALT的1.3倍时，FABO-FAST能够识别并优化大多数FABO能提供显著线路长度减少的网络。代码可在https://github.com/DevinShang/routing-FABO获取。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "DSEffi-Bench: Demystifying Large Language Models' Capability in Efficient Data Science Code Generation",
+    "authors": "Zhihao Gong, Junzhe Yu, Dong Huang, Zeyu Sun, Jie M. Zhang, Dan Hao",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30248v1",
+    "source": "arXiv",
+    "abstract": "Current data science (DS) code generation benchmarks equate correctness with quality, overlooking execution time differences that span orders of magnitude between correct solutions. We introduce DSEffi-Bench, the first benchmark specifically targeting execution efficiency in LLM-generated DS code, comprising 1,000 instances across 10+ DS libraries with stress-testing harnesses and human-validated references. Evaluating 16 models across 3 tiers, we find that correctness alone fails to characterize efficiency: GPT-5.4 leads in correctness (Pass, 66.9\\%) but its efficiency score (B$|$P, 71.7\\%) nearly matches GPT-5.4-mini (71.6\\%), which solves 47 fewer tasks; Kimi-K2.5 ranks lowest in correctness among frontier models (40.2\\%) yet achieves the highest efficiency score (73.6\\%) across all 16 models. A human-annotated five-category taxonomy reveals that 79.1\\% of efficiency deficits extend beyond algorithmic complexity to domain-specific root causes, with distinct failure profiles across model tiers and libraries. Two exploratory experiments provide initial evidence that these diagnostics can guide improvement, yielding up to +14.7\\% efficiency gains via taxonomy-guided optimization and approaching Claude-Opus-4.6 Best@3 in efficiency at 13.0$\\times$ lower cost via library-conditioned routing.",
+    "title_zh": "DSEffi-Bench：揭示大型语言模型在高效数据科学代码生成方面的能力",
+    "abstract_zh": "当前数据科学(DS)代码生成基准将正确性与质量等同，忽略了正确解决方案之间执行时间数量级上的差异。我们引入了DSEffi-Bench，这是首个专门针对大型语言模型(LLM)生成的DS代码执行效率的基准，包含跨越10多个DS库的1,000个实例，并配有压力测试工具和人工验证的参考标准。在对16个模型进行三级评估后，我们发现仅靠正确性无法表征效率：GPT-5.4在正确性方面领先(通过率66.9%)，但其效率得分(B|P, 71.7%)几乎与GPT-5.4-mini(71.6%)相当，后者解决的任务少47个；Kimi-K2.5在前沿模型中正确性排名最低(40.2%)，却在所有16个模型中实现了最高的效率得分(73.6%)。一个人工注释的五类别分类法显示，79.1%的效率缺陷超出了算法复杂性，涉及领域特定的根本原因，且不同模型级别和库之间存在不同的失败特征。两项探索性实验提供了初步证据，表明这些诊断可以指导改进，通过分类法指导的优化可带来高达14.7%的效率提升，并通过库条件路由以低13.0倍的成本接近Claude-Opus-4.6 Best@3的效率。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "LLM-based Hardware Development with Hierarchical IRs and End-to-End Multi-Agent Workflow",
+    "authors": "Chenyang Yin, Agasthi Haputhanthri, Aditya Anirudh Jonnalagadda, Zhenyu Bai, Yuanming Song, Saranyu Chattopadhyay, Mohammad Fadiheh, Tom Zelazny, Subhasish Mitra, Tulika Mitra",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30659v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) are increasingly used in software development, but their use in complex hardware design remains limited. This gap stems from both the scarcity of public hardware training data and the fundamentally different methodologies used in hardware design. In particular, applying LLMs to hardware requires more than direct RTL generation: the model must understand module boundaries, inter-module connections, and verification requirements. In this paper, we present an LLM-based hardware development framework with hierarchical intermediate representations (IRs) and an end-to-end multi-agent workflow. The core idea is to provide an abstraction of hardware design to LLMs through two structured IRs: Architectural Sketch, which captures module topology and interconnection, and Operational Specification, which defines per-module functionality and interfaces. Our framework uses these IRs to decompose a complex design into sub-modules, specify the per-block functionality, and derive how each module should be tested and verified. We incorporate a multi-agent debug loop in the framework, allowing agents to get the error feedback and control the debug details such as the signals to be probed for simulation. We evaluate our framework on Verilog-Eval benchmark, achieving a pass@5 rate of 95.5%, which surpasses current state-of-the-art LLM generation frameworks. To better assess performance on complex, realistic designs, we introduce a new case study spanning applications from general-purpose processors to digital signal processing systems. Experimental results indicate that such complex designs exceed the capabilities of existing approaches, whereas our framework is the only one capable of producing functional end-to-end design. Our generated RTL follows all industry-standard design rules, is lint-clean, functionally correct and fully synthesizable.",
+    "title_zh": "基于LLM的硬件开发：分层中间表示与端到端多智能体工作流",
+    "abstract_zh": "大型语言模型(LLMs)在软件开发中日益广泛应用，但在复杂硬件设计中的应用仍然有限。这一差距源于公共硬件训练数据的稀缺以及硬件设计中使用的根本不同的方法论。特别是，将LLMs应用于硬件不仅需要直接的RTL生成：模型还必须理解模块边界、模块间连接和验证要求。在本文中，我们提出了一种基于LLM的硬件开发框架，该框架采用分层中间表示(IR)和端到端多代理工作流。核心思想是通过两个结构化的IR为LLMs提供硬件设计的抽象：架构草图(Architectural Sketch)，用于捕获模块拓扑和互连；以及操作规范(Operational Specification)，用于定义每个模块的功能和接口。我们的框架使用这些IR将复杂设计分解为子模块，指定每个块的功能，并推导出每个模块应如何进行测试和验证。我们在框架中集成了一个多代理调试循环，使代理能够获取错误反馈并控制调试细节，例如在仿真中需要探测的信号。我们在Verilog-Eval基准测试上评估了我们的框架，实现了95.5%的pass@5率，超过了当前最先进的LLM生成框架。为了更好地评估在复杂、真实设计上的性能，我们引入了一个新的案例研究，涵盖了从通用处理器到数字信号处理系统的应用。实验结果表明，这类复杂设计超出了现有方法的能力范围，而我们的框架是唯一能够生成功能完整的端到端设计的框架。我们生成的RTL遵循所有行业标准设计规则，无lint错误，功能正确且完全可综合。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "A Phased Workflow for Operating LLM-Based Coding Agents",
+    "authors": "Ante Kapetanovic, Tomislav Duricic, Andro Mercep, Emanuel Lacic",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30701v1",
+    "source": "arXiv",
+    "abstract": "LLM-based coding agents combine a foundation model with a harness that shapes agent behavior. For non-trivial tasks, how practitioners structure their work with the coding agents determines whether reliable results follow. We report on a phased workflow for operating coding agents developed by the AI research team at Infobip. The workflow structures agent-assisted development into four phases where human effort is front-loaded and delegation increases as artifacts mature. Context management is the central concern, addressed through four strategies applied at each phase to counter known failure modes. From practitioner experience, we observe that upstream errors in research and planning can compound across later phases, while correcting generated code can introduce bloat and fragility. This motivates front-loading human review. We identify two open problems: the absence of metrics for workflow effectiveness and the gap between formalized context management components and the workflow-level patterns that practitioners need.",
+    "title_zh": "基于大型语言模型的编码代理的 phased 工作流程",
+    "abstract_zh": "基于大语言模型的编程代理将基础模型与塑造代理行为的工具相结合。对于非平凡任务，实践者如何与编程代理组织工作决定了是否能获得可靠的结果。我们报告了由Infobip AI研究团队开发的操作编程代理的阶段性工作流程。该工作流程将代理辅助开发分为四个阶段，其中人工投入前置，随着工件成熟度提高而增加委托。上下文管理是核心关注点，通过在每个阶段应用的四种策略来解决已知的失败模式。根据实践者的经验，我们观察到研究和规划中的上游错误可能会在后续阶段累积，而修正生成的代码可能会引入臃肿和脆弱性。这促使前置人工审查。我们确定了两个开放问题：缺乏工作流程有效性的度量指标，以及形式化的上下文管理组件与实践者所需的工作流程级别模式之间的差距。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "CARVE: Verified Expansion for Variable-Length Generation in Diffusion Language Models",
+    "authors": "Wail Bouhedja, Amr Mohamed, Guokan Shang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30922v1",
+    "source": "arXiv",
+    "abstract": "Masked diffusion language models predict tokens from a partially observed response canvas, enabling bidirectional conditioning and parallel token refinement. Yet standard masked-diffusion decoders use a rigid inference interface: the number of masked positions allocated to the answer is fixed before generation begins. Choosing this length is difficult. A short canvas can truncate reasoning or code, while a long canvas wastes computation and can perturb denoising. We introduce CARVE (Counterfactual-Aware Reveal with Verified Expansion), a training-free variable-length algorithm for masked diffusion LMs. Starting from a shorter canvas, CARVE can grow the response during decoding by inserting additional [MASK] positions. Rather than keeping every insertion, CARVE tests a candidate expanded canvas and asks a counterfactual question: would the model make similar predictions for the unresolved positions in the original canvas if the extra masked space were present? The inserted masks are kept only when they induce low Jensen-Shannon (JS) divergence on aligned unresolved positions. This makes length growth a verified stability decision rather than a pure confidence heuristic. CARVE applies without retraining to both full-canvas and blockwise diffusion decoders. Across code generation and mathematical reasoning benchmarks, CARVE consistently improves average performance over fixed-length baselines across all evaluated model families. Crucially, CARVE achieves these accuracy gains while reducing inference cost, reaching half the FLOPs of fixed-length decoding in some settings.",
+    "title_zh": "CARVE：扩散语言模型中可变长度生成的验证扩展",
+    "abstract_zh": "掩码扩散语言模型从部分观测到的响应画布中预测标记，实现双向条件和并行标记细化。然而，标准的掩码扩散解码器使用固定的推理接口：分配给答案的掩码位置数量在生成开始前就已固定。选择这个长度很困难。过短的画布可能会截断推理或代码，而过长的画布则会浪费计算资源并可能干扰去噪过程。我们引入了CARVE（基于反事实感知的验证扩展揭示），这是一种无需训练的适用于掩码扩散语言模型的变长算法。从较短的画布开始，CARVE可以通过插入额外的位置在解码过程中扩展响应。CARVE并非保留所有插入，而是测试候选扩展画布，并提出一个反事实问题：如果存在额外的掩码空间，模型是否会为原始画布中未解决的位置做出相似的预测？只有当插入的掩码在未解决的对齐位置上导致较低的Jensen-Shannon(JS)散度时，才会保留这些插入。这使得长度扩展成为一个经过验证的稳定性决策，而非纯粹的置信度启发式方法。CARVE无需重新训练即可应用于全画布和分块扩散解码器。在代码生成和数学推理基准测试中，CARVE在所有评估的模型家族中均一致地优于固定长度基线，平均性能得到提升。重要的是，CARVE在提高准确性的同时降低了推理成本，在某些设置下达到了固定长度解码一半的FLOPs。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Drishti: AI-Led Human-Directed Vulnerability Auditing for 5G Cores",
+    "authors": "Sriram Ramachandran, Levente Csikor, Dinil Mon Divakaran",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30112v1",
+    "source": "arXiv",
+    "abstract": "Candidate generation for open-source vulnerabilities is no longer scarce. AI-assisted code review now produces defect candidates cheaply, and industry programs pair them with expert human triage. The remaining scarcity is validation and impact assessment, and the gap is largest in critical-infrastructure software like 5G cores. Here, validation has four costs: verification, reachability, impact, and fix-completeness. We present Drishti, an AI-led human-directed vulnerability audit framework with four components, one per cost: (i) an anti-pattern catalog for verification, (ii) critical-path triage for reachability, (iii) concentric validation for impact, and (iv) patch-review for fix-completeness. Across audits of Open5GS and free5GC, Drishti produced three findings. The first is a pre-authentication NULL-dereference in the Open5GS NRF multipart parser, fixed upstream with a CVE requested. The second is an ASN.1-PER memory amplification in the free5GC NGAP decoder. A 2-byte input from a rogue gNodeB OOM-kills the AMF in 6.2 seconds. The third is a defective patch on CVE-2025-69248 whose defense-in-depth check is dead code before authentication.",
+    "title_zh": "Drishti：AI引导的人工主导的5G核心网漏洞审计",
+    "abstract_zh": "开源漏洞的候选生成已不再稀缺。AI辅助代码审查现在可以廉价地生成缺陷候选，而行业项目则将这些候选与专家人工筛选相结合。仍然稀缺的是验证和影响评估，而在5G核心等关键基础设施软件中，这一差距最大。在这里，验证有四个成本：验证、可达性、影响和修复完整性。我们提出了Drishti，这是一个由AI主导、人工指导的漏洞审计框架，包含四个组件，分别对应这四个成本：(i) 用于验证的反模式目录，(ii) 用于可达性的关键路径筛选，(iii) 用于影响评估的同心圆验证，以及(iv) 用于修复完整性的补丁审查。在对Open5GS和free5GC的审计中，Drishti发现了三个问题。第一个是Open5GS NRF多部分解析器中的预认证空指针解引用问题，已在上游修复并请求了CVE。第二个是free5GC NGAP解码器中的ASN.1-PER内存放大问题。来自恶意gNodeB的2字节输入可在6.2秒内导致AMF内存耗尽终止。第三个是CVE-2025-69248的有缺陷补丁，其深度防御检查是在认证前的死代码。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering",
+    "authors": "Gopi Krishnan Rajbahadur, Amir M. Ebrahimi, Boyuan Chen, Ahmed E. Hassan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.31102v1",
+    "source": "arXiv",
+    "abstract": "Industrial post-training is a brownfield regime. Teams inherit a deployed checkpoint and must land targeted improvements under fixed compute and mixture budgets without regressing the rest. The maintained artifact is increasingly dataware: behavior governed by a curated post-training mixture, updated via bounded mixture patches rather than clean-slate retraining. From an industrial code-generation improvement effort, we offer a maintainer's perspective on why this work is hard in practice, distilling three recurring challenges, zero-sum mixture design, yield as the binding metric, and end-to-end integration under uncertainty, and arguing that progress depends less on one-off recipes than on an engineering discipline for programming dataware. In our case study, interventions that raised the conversion of teacher distillation into usable training data increased accepted supervision by 2.84 times while using the same solution teacher and four solution attempts per candidate problem. In our primary evaluation, the yield-engineered patch improved CodeForces pass@1 by +2.59 points (+3.11 pass@3) and held-out LiveCodeBench v6 pass@1 by +6.11 (+8.05 pass@3), all statistically significant across 16 stochastic evaluations of each benchmark from one fixed checkpoint per condition, with internal AIME and MATH regression suites within tolerance.",
+    "title_zh": "LLM后训练作为棕地维护：数据工程工业视角",
+    "abstract_zh": "工业后训练是一种现有系统优化模式。团队需要继承已部署的检查点，在固定的计算和混合预算下实现有针对性的改进，同时避免其他方面的性能退化。所维护的制品越来越依赖于数据感知：其行为由精心设计的后训练混合数据集控制，通过有限的混合补丁进行更新，而非从头重新训练。基于一个工业代码生成改进项目，我们从维护者的角度阐述了这项工作在实践中面临的挑战，归纳出三个 recurring challenges（ recurring challenges）：零和混合设计、产量作为关键指标，以及在不确定性下的端到端集成。我们认为，进步的关键不在于一次性解决方案，而在于建立一种针对数据感知编程的工程学科。在我们的案例研究中，提高教师蒸馏转化为可用训练数据的干预措施，在接受监督方面提高了2.84倍，同时使用相同的解决方案教师和每个候选问题四次解决方案尝试。在我们的主要评估中，经过产量优化的补丁将CodeForces的pass@1提高了2.59分（pass@3提高3.11分），在保留的LiveCodeBench v6上pass@1提高了6.11分（pass@3提高8.05分），所有这些结果在从每个条件的一个固定检查点进行的16次随机评估中都具有统计显著性，内部AIME和MATH回归测试套件也在容差范围内。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents",
+    "authors": "Le Chen, Zishen Wan, Baixi Sun, Xiaolong Ma, Chih-Hsuan Yang, Feng Yan, Sheng Di, Franck Cappello, Rajeev Thakur",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.31057v1",
+    "source": "arXiv",
+    "abstract": "Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and representation profiles. Recent work has begun to explore memory-management mechanisms that account for such heterogeneity. This work focuses on semantic heterogeneity and studies how it should shape the management and evaluation of working memory in coding agents. Across 55 archived coding-agent trajectories, we find that semantically different working-memory objects exhibit distinct retention and compression behavior. This heterogeneity motivates semantically informed memory management. We study two semantically informed strategies: an object-aware compression policy and a retrieval-based policy. Their evaluation shows that calibration gains may not transfer to held-out tasks, and that equal token budgets do not imply equal delivered context or management cost. A real-system replay further exposes serving limits that nominal budgets alone do not capture. Together, these results show why semantic structure matters for agent working memory and why evaluating memory-management strategies requires more than a nominal token budget. We organize these lessons into four levels: stored state, delivered context, management work, and task or process outcome.",
+    "title_zh": "先衡量，再管理：评估编码智能体的工作记忆",
+    "abstract_zh": "代理的工作记忆是异质的。诸如指令、人工制品、工具输出和代理生成状态等对象扮演着不同的语义角色，并表现出不同的大小、保留和表征特征。最近的研究已经开始探索能够解释这种异质性的记忆管理机制。这项工作关注语义异质性，研究它应该如何塑造和评估编码代理中的工作记忆。在对55个归档的编码代理轨迹的分析中，我们发现语义不同的工作记忆对象表现出不同的保留和压缩行为。这种异质性促使我们采用语义感知的记忆管理策略。我们研究了两种语义感知策略：一种是基于对象的压缩策略，另一种是基于检索的策略。评估表明，校准增益可能无法迁移到保留任务中，并且相等的令牌预算并不意味着相等的传递上下文或管理成本。真实系统的进一步重放暴露了名义预算单独无法捕捉的服务限制。综合这些结果表明，语义结构对代理工作记忆的重要性，以及为什么评估记忆管理策略需要考虑名义令牌预算之外的因素。我们将这些经验归纳为四个层次：存储状态、传递上下文、管理工作量以及任务或过程结果。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Beacon: LLM Multi-Agent Driven Hardware Design Space Exploration for Heterogeneous Multi-Chiplet Deep Learning Accelerators",
+    "authors": "Boyu Li, Zongwei Zhu, Qianyue Cao, Xi Li, Xuehai Zhou",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30932v1",
+    "source": "arXiv",
+    "abstract": "Heterogeneous multi-chiplet accelerators allow chiplets to be configured independently to better match different operator characteristics and improve inference efficiency. However, heterogeneity makes simulator evaluation expensive, limiting the number of iterations affordable for hardware design space exploration (HW-DSE). Mainstream data-driven methods rely mainly on final metrics and a few predefined states, and require many search iterations to implicitly learn the relationships between input parameters and optimization objectives, making them less effective in this setting. In practice, evaluators also generate detailed reports on execution timelines, resource utilization, memory accesses, and communication behavior. Large language models (LLMs) can combine domain knowledge with these reports to explicitly identify bottleneck locations, degradation causes, and parameter adjustment directions, thereby improving each design decision under limited iteration budgets. Based on this observation, we propose Beacon, a report-driven LLM multi-agent framework for heterogeneous multi-chiplet HW-DSE. Beacon employs hierarchical agents for bottleneck localization, root-cause diagnosis, and hardware candidate generation, together with an Analysis Toolbox and RAG memory for closed-loop search. Under the same limited iteration budget, Beacon reduces the composite latency-energy-monetary-cost objective by 25.1\\%--93.5\\% compared with random search, Bayesian optimization, and reinforcement learning.",
+    "title_zh": "Beacon：面向异构多芯粒深度学习加速器的基于LLM多智能体驱动的硬件设计空间探索",
+    "abstract_zh": "异构多芯片加速器允许芯片let独立配置，以更好地匹配不同操作特性并提高推理效率。然而，异构性使得模拟器评估成本高昂，限制了硬件设计空间探索(HW-DSE)可负担的迭代次数。主流数据驱动方法主要依赖最终指标和几个预定义状态，需要大量搜索迭代来隐式学习输入参数与优化目标之间的关系，因此在此场景下效果不佳。实际上，评估人员还会生成关于执行时间线、资源利用率、内存访问和通信行为的详细报告。大型语言模型(LLM)可以将领域知识与这些报告相结合，明确识别瓶颈位置、性能下降原因和参数调整方向，从而在有限的迭代预算下改进每个设计决策。基于这一观察，我们提出了Beacon，这是一个面向异构多芯片HW-D的报告驱动LLM多智能体框架。Beacon采用分层智能体进行瓶颈定位、根本原因诊断和硬件候选生成，并配有分析工具箱和RAG内存以实现闭环搜索。在相同的有限迭代预算下，与随机搜索、贝叶斯优化和强化学习相比，Beacon将复合延迟-能源-货币成本目标降低了25.1%--93.5%。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Beyond the Payload: How User Invocation Shapes Coding Agent Vulnerability to Repository Poisoning",
+    "authors": "Fukang Zhu, Binbin Zhao, Ruixiao Lin, Ping He, Tianyu Du, Shouling Ji",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30686v1",
+    "source": "arXiv",
+    "abstract": "Coding agents are increasingly used for software engineering tasks, including bootstrapping projects from third-party repositories whose integrity cannot be assumed. Prior work on repository poisoning largely focuses on attacker-controlled injection and disguise, but developers also shape risk through everyday invocation choices: what task to delegate, how to phrase the request, and which skills or rules to supply. We term these user-side choices Prompt-Level Configurations (PLCs) and introduce CIPR (Coding In Poisoned Repos), the first benchmark that systematically varies PLCs in poisoned real-world repositories. CIPR comprises 1,920 instances across 20 repositories, four task types, three social-media-grounded prompt styles, and three skill/rule conditions, and measures attack success rate (ASR) and agent alert rate (AR) using automated runtime and trace-based oracles. Our evaluation reveals two key insights: (1) Vulnerability is highly context-dependent, with task type creating up to a 4.5-fold difference in ASR, with test-execution task forming a silent attack surface (high ASR, low AR). (2) Prompt expression shifts risk indirectly: underspecified prompts reduce ASR by truncating execution depth; noisy prompts exhibit a directional trend toward suppressing alerts by making malicious content less conspicuous. These findings highlight that coding agent vulnerability is not a static property, but a dynamic outcome shaped by everyday user configurations.",
+    "title_zh": "超越负载：用户调用如何塑造编码代理对仓库投毒的脆弱性",
+    "abstract_zh": "编码代理正越来越多地用于软件工程任务，包括从完整性无法保证的第三方仓库启动项目。先前关于仓库投毒的研究主要关注攻击者控制的注入和伪装，但开发者也通过日常的调用选择来塑造风险：委托什么任务、如何表述请求，以及提供哪些技能或规则。我们将这些用户端选择称为提示级别配置（PLCs），并引入CIPR（Coding In Poisoned Repos，有毒仓库中的编码），这是第一个系统性地在有毒的真实世界仓库中变化PLCs的基准测试。CIPR包含20个仓库中的1,920个实例，涵盖四种任务类型、三种基于社交媒体的提示风格和三种技能/规则条件，并使用自动化运行时和基于跟踪的预言机来测量攻击成功率（ASR）和代理警报率（AR）。我们的评估揭示了两个关键见解：（1）漏洞高度依赖于上下文，任务类型可能导致ASR差异高达4.5倍，其中测试执行任务形成了一个静默的攻击表面（高ASR，低AR）。（2）提示表达间接转移风险：不明确的提示通过缩短执行深度来降低ASR；嘈杂的提示表现出一种抑制警报的趋势，通过使恶意内容不那么显眼。这些发现表明，编码代理的漏洞不是一个静态属性，而是由日常用户配置塑造的动态结果。"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Answer Probing-Guided Search for Diverse Solution Exploration of LLMs",
+    "authors": "Yi Fang, Que Shen, Chengpeng Li, Boyi Deng, Wei Shi, Wenjie Wang, Fuli Feng, Fengli Xu, Dayiheng Liu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2608.30345v1",
+    "source": "arXiv",
+    "abstract": "Generating multiple diverse and high-quality solutions is valuable for many applications, such as code-test generation and drug discovery. However, Large Language Models (LLMs) tend to converge on a single high-confidence solution during inference, limiting exploration of alternative valid solution paths. Existing test-time methods promote diversity through tree-like search and prune semantically similar branches using response-level semantic embeddings. However, we find that such embeddings are easily confounded by linguistic and stylistic similarities, making it difficult to distinguish genuinely distinct solution paths. To address this, we introduce Answer Probing, which probes the potential answer an LLM would reach from an intermediate reasoning path. We demonstrate that the hidden states of probed answers more effectively differentiate distinct solution paths than semantic embeddings, and the perplexity of probed answers serves as a practical proxy for reasoning correctness. Based on these findings, we propose Answer Probing-Guided Tree Search (APTS), which guides the tree search by the probed answers' hidden state similarity and perplexity. Experiments on three reasoning tasks across two LLMs show that APTS consistently enhances solution diversity, demonstrating its effectiveness and robustness.",
+    "title_zh": "大语言模型多样化解决方案探索的探测引导搜索",
+    "abstract_zh": "生成多样且高质量的解决方案对许多应用（如代码测试生成和药物发现）具有重要价值。然而，大型语言模型（LLMs）在推理过程中往往倾向于收敛到单一的高置信度解决方案，从而限制了替代有效解决路径的探索。现有的测试时方法通过树状搜索促进多样性，并使用响应级语义嵌入来修剪语义相似的分支。然而，我们发现此类嵌入容易受到语言和风格相似性的干扰，难以真正区分不同的解决路径。为此，我们引入了答案探测（Answer Probing），该方法探测大型语言模型从中间推理路径可能达到的潜在答案。我们证明，探测答案的隐藏状态比语义嵌入能更有效地区分不同的解决路径，且探测答案的困惑度（perplexity）可作为推理正确性的实用指标。基于这些发现，我们提出了答案探测引导的树搜索（APTS），该方法通过探测答案的隐藏状态相似度和困惑度来引导树搜索。在两个大型语言模型上的三种推理任务实验表明，APTS持续提升了解决方案的多样性，证明了其有效性和稳健性。"
+  },
+  {
     "date": "2026-8-31",
     "title": "Agentic C to Rust Translation",
     "authors": "Benedikt Schesch, Michael D. Ernst",
@@ -11,6 +187,17 @@
     "abstract_zh": "None"
   },
   {
+    "date": "2026-9-1",
+    "title": "Reinforcement Learning-Based Routing Framework Guided by Vision–Language Model",
+    "authors": "Zhaochen Guo, Yue Song, Zhongpan Zhu, Bin He",
+    "publish": "IEEE Transactions on Neural Networks and Learning Systems",
+    "url": "https://doi.org/10.1109/tnnls.2026.3727131",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于视觉-语言模型引导的强化学习路由框架",
+    "abstract_zh": "None"
+  },
+  {
     "date": "2026-8-31",
     "title": "Towards Automated Detection of Latent Software Robustness Failures Using Large Language Models",
     "authors": "José Flauzino, Marco Vieira, Elias P. Duarte",
@@ -18,18 +205,7 @@
     "url": "https://doi.org/10.1109/dsn-s70715.2026.00068",
     "source": "IEEE",
     "abstract": "",
-    "title_zh": "基于大型语言模型的潜在软件健壮性故障自动化检测",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-31",
-    "title": "Adaptive Symbolic Execution with LLMs for Evasive Malware Analysis",
-    "authors": "Ajay Kumara Makanahalli Annaiah, Shahid Ali, William Setters",
-    "publish": "2026 56th Annual IEEE International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)",
-    "url": "https://doi.org/10.1109/dsn-s70715.2026.00065",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "基于大语言模型的自适应符号执行用于规避性恶意软件分析",
+    "title_zh": "利用大型语言模型自动检测潜在软件健壮性故障",
     "abstract_zh": "None"
   },
   {
@@ -41,17 +217,6 @@
     "source": "IEEE",
     "abstract": "",
     "title_zh": "使用大型语言模型检测软件服务中违规行为的有效方法",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-8-31",
-    "title": "SpiceDiff Agent Simulation Efficient LLM Guided Planning for Specification Driven Analog Circuit Netlist Repair",
-    "authors": "Zhe Feng, Yutong Ye, Jianxun Zhou, Wenbin Guo, Lihua Xu, Wendong Lu, Yunlai Zhu, Zuyu Xu, Zuheng Wu, Yuehua Dai",
-    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
-    "url": "https://doi.org/10.1109/tcad.2026.3729375",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "SpiceDiff Agent Simulation: Efficient LLM Guided Planning for Specification Driven Analog Circuit Netlist Repair\n\n中文翻译：\nSpiceDiff 代理仿真：基于规格驱动的模拟电路网表修复的高效 LLM 指导规划",
     "abstract_zh": "None"
   }
 ]
