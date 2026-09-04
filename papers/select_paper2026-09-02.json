@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-09-02",
+    "title": "ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases",
+    "authors": "Afsana Tasnim, Sheikh Motahar Naim",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02789v1",
+    "source": "arXiv",
+    "abstract": "Large language models are paving the way towards innovation by understanding, analyzing, summarizing and generating content in the modern world. Currently there are thousands of LLM projects developed by engineers in open-source repositories. However, whether these LLM projects have underlying patterns or not remains a question. Exploring these underlying patterns will give new dimensions to the developers who aim to develop these LLM projects. In this paper, we propose ShikumiMiner, a static-analysis framework that combines Abstract Syntax Tree (AST) and Control Flow Graph (CFG) features to detect and compare recurring implementation patterns in C++ local LLM codebases. We analyze ten GitHub open-source repositories and classify functions into seven study-specific categories using a multi-label Random Forest model. Studying these patterns can provide useful insights for developers aiming to design LLM applications.",
+    "title_zh": "ShikumiMiner：在AI代码库中挖掘重复实现模式",
+    "abstract_zh": "大型语言模型通过理解、分析、总结和生成内容，正在为现代世界的创新铺平道路。目前，工程师们在开源仓库中开发了数千个LLM项目。然而，这些LLM项目是否具有潜在模式仍然是一个问题。探索这些潜在模式将为致力于开发这些LLM项目的开发者提供新的视角。在本文中，我们提出了ShikumiMiner，一个静态分析框架，它结合了抽象语法树(AST)和控制流图(CFG)的特征，用于检测和比较C++本地LLM代码库中的重复实现模式。我们分析了十个GitHub开源仓库，并使用多标签随机森林模型将函数分为七个特定研究类别。研究这些模式可以为旨在设计LLM应用的开发者提供有用的见解。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "SkillGLoW: Procedural-Family Skill Consolidation for Self-Improving Agents on Long-Horizon Task Streams",
+    "authors": "Ao Yan, Xin Zhang, Jiawei Du, Joey Tianyi Zhou",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02217v1",
+    "source": "arXiv",
+    "abstract": "LLM agents increasingly self-improve by writing and reusing textual skills, kept either as one global document or as a flat pool of per-task entries, though most of the evidence comes from domains with structurally similar tasks. On long-horizon workloads where each task demands a different solution, the two forms fail in opposite ways: the document collapses into generic discipline, while the pool inflates and its entries stay bound to the instance that wrote them. We argue the missing unit of reuse is the solving procedure shared by a cluster of related tasks, and build SkillGLoW (Global-Local Weave) around it: the local skills a task writes from its own execution are aggregated into procedural families and compressed into de-instantiated global priors, while the instance detail they hold is regenerated per task rather than stored; a commit gate admits a prior only when real execution shows it does not degrade the deployed library. Across four benchmarks (mathematical reasoning, terminal automation, software repair, and embodied control) and three models, the priors gain 17.2 points (hard) over the no-skill baseline on average, with positive gains in all 12 continual-improvement runs, and 18.0 with local regeneration, while the library holds one prior per procedural family, 3.6x more compact than the per-task pool. Under the same protocol GLoW leads a published single-document optimizer on 15 of 21 cells. Unmodified, the library lifts success on unseen ALFWorld tasks from 73.9% to 83.9%, evidence that what transfers is procedure rather than task memory.",
+    "title_zh": "SkillGLoW：面向长时序任务流中自我提升代理的过程化家族技能整合",
+    "abstract_zh": "LLM代理通过编写和重用文本技能不断自我提升，这些技能可以作为一个全局文档保存，也可以作为一个扁平的按任务条目池保存，尽管大多数证据来自结构相似的任务领域。在长周期工作负载中，每个任务都需要不同的解决方案，这两种形式会以相反的方式失败：文档会退化为通用规则，而条目池则会膨胀，并且其中的条目仍然局限于编写它们的实例。我们认为，缺失的重用单元是一组相关任务共享的解决程序，并围绕它构建了SkillGLoW（全局-局部编织）：任务从自身执行中编写的局部技能被聚集成程序族，并压缩为去实例化的全局先验，而它们所包含的实例细节则在每个任务中重新生成，而不是存储；提交门仅在真实执行表明先验不会降低已部署库的性能时才允许其加入。在四个基准测试（数学推理、终端自动化、软件修复和具身控制）和三个模型上，先验平均比无技能基线高出17.2分（困难），在所有12次持续改进运行中都有正向收益，加上局部再生后达到18.0分，而库中每个程序族只有一个先验，比按任务条目池紧凑3.6倍。在相同协议下，GLoW在21个单元格中的15个上领先于已发表的单文档优化器。未经修改，库将未见的ALFWorld任务成功率从73.9%提升到83.9%，这证明可转移的是程序而非任务记忆。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models",
+    "authors": "Haobo Xu, Sirui Chen, Yuanchen Bei, Lingjie Chen, Yuchen Yan, Dongqi Fu, Jingrui He, Hanghang Tong",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02108v1",
+    "source": "arXiv",
+    "abstract": "Diffusion language models (DLMs) have emerged as a promising alternative to the auto-regressive paradigm. With bidirectional attention and any-order generation, DLMs naturally fit infilling tasks, which require generating a middle span conditioned on both the prefix and the suffix. However, infilling is sensitive to the length of the span, while DLMs require the length to be fixed before generation. Although prior studies extend DLMs to dynamic lengths, they still suffer from two limitations. (i) Sensitivity to initial length. These methods require a preset length to initialize the search and are highly sensitive to this initial length, often yielding suboptimal results. (ii) Inference inefficiency. They either insert length-changing operations during generation or repeatedly search for an appropriate length using multi-step denoising confidence, both of which introduce substantial extra forward passes and computational cost. Therefore, we propose PILL (Probing-based InfiLling with preset-Length-free decoding), an efficient infilling method for DLMs that requires no preset initial length and adds far fewer extra forward passes than baselines, substantially reducing inference time. Experiments show that, across five DLMs spanning different families, architectures, and training recipes on eight infilling benchmarks, PILL improves over the strongest baseline by +4.8 average pass rate on code and +6.0 BLEU-2 on text, while running 1.82x faster than that baseline. The code is available at https://github.com/Hsu1023/PILL.",
+    "title_zh": "预测而非迭代：扩散语言模型的高效自适应长度填充",
+    "abstract_zh": "扩散语言模型（DLMs）已成为自回归范式的一种有前景的替代方案。凭借双向注意力和任意顺序生成能力，DLMs自然适合补全任务，这类任务需要根据前缀和后缀生成中间文本片段。然而，补全任务对片段长度敏感，而DLMs在生成前需要固定长度。尽管先前的研究将DLMs扩展到动态长度，但仍存在两个局限性。（i）对初始长度的敏感性。这些方法需要预设长度来初始化搜索，且对初始长度高度敏感，常常导致次优结果。（ii）推理效率低下。它们要么在生成过程中插入长度变化操作，要么使用多步去噪置信度重复搜索合适长度，这两种方法都会引入大量额外的前向传播和计算成本。因此，我们提出了PILL（基于探测的无预设长度解码补全方法），这是一种高效的DLMs补全方法，无需预设初始长度，且比基线方法少添加大量额外前向传播，显著减少了推理时间。实验表明，在涵盖不同家族、架构和训练方法的五个DLMs模型，以及在八个补全基准测试上，PILL比最强基线方法在代码上平均提高4.8个通过率，在文本上提高6.0个BLEU-2分数，同时运行速度比基线快1.82倍。代码可在https://github.com/Hsu1023/PILL获取。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "LLM-as-a-Judge Is Not an Oracle: Why Self-Improving Agents Need Deterministic Guardrails",
+    "authors": "Vansh Wahi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02246v1",
+    "source": "arXiv",
+    "abstract": "Self-improving agent pipelines have a problem at their center. An optimizer rewrites prompts to score higher, and the score comes from a judge that is itself an LLM. That judge has the last word on whether the system is getting better, and our position is that it has not earned it. The judge should be demoted from oracle to advisor: its verdict becomes one input among several, and every change is gated instead by a deterministic verification layer the judge cannot override. We reached this position by building the alternative and running it. Over months of running autonomous prompt-optimization loops in production across contract analysis, compliance review, and code quality, we cataloged eleven ways the evaluation signal failed, in four classes: judge bias, harness and metric failures, ground-truth errors, and reward hacking. Agents achieved perfect scores by reading cached answer keys from their environment, a 100% pass rate concealing 68% true capability. A corrupted ground-truth label caused the optimizer to delete correct compliance rules to agree with it. A syntactically broken prompt was promoted as the winner because a silent parser fallback improved the metric. Attempts to fix the judge by rewriting its rubric plateaued; the only reliable gain came from a structural constraint on its output order. In response we describe PROCTOR, a Teacher-Student loop in which a stateful orchestrator holds all tool access, stateless subagents diagnose failures and draft mutations they cannot apply, and a Teacher grades those mutations under five deterministic guardrails: hermetic sandboxes, capability-disjoint roles, acceptance checks that outrank the Teacher, frozen holdouts, and canary cases engineered so that a perfect score is itself evidence of cheating. We report the failures this prevented, and, because the Teacher is itself an LLM judge, the failures it did not.",
+    "title_zh": "LLM作为评判者并非预言家：为何自我改进的代理需要确定性护栏",
+    "abstract_zh": "自我改进的智能体管道在其中心存在一个问题。优化器会重写提示以获得更高的分数，而该分数来自一个本身就是大语言模型的评判者。该评判者对系统是否正在改进拥有最终决定权，而我们的观点是它尚未获得这种权威。评判者应从\"神谕\"降级为\"顾问\"：其裁决成为多个输入之一，每个更改都由一个确定性验证层控制，该验证层是评判者无法覆盖的。我们通过构建替代方案并运行它得出了这一结论。在数月的生产环境中运行自主提示优化循环，涵盖合同分析、合规审查和代码质量等领域，我们记录了评估信号失败的十一种方式，分为四类：评判者偏见、工具和指标故障、真实标签错误以及奖励黑客。智能体通过读取环境中的缓存答案键获得了完美分数，100%的通过率掩盖了68%的真实能力。一个损坏的真实标签导致优化器删除了正确的合规规则以与其保持一致。一个语法错误的提示被提升为获胜者，因为一个静默的解析器回退改进了指标。尝试通过重写评判者的评分标准来修复它，但效果趋于平稳；唯一的可靠收益来自于对其输出顺序的结构性约束。为此，我们描述了PROCTOR系统，这是一个教师-学生循环，其中有状态的编排器拥有所有工具访问权限，无状态的子智能体诊断故障并起草它们无法应用的变异，而教师根据五个确定性防护措施对这些变异进行评分：密封沙箱、能力分离的角色、优先级高于教师的接受检查、冻结的保留样本，以及精心设计的测试用例，使得完美分数本身就是作弊的证据。我们报告了该系统防止的失败，以及由于教师本身也是一个大语言模型评判者，它未能防止的失败。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+    "authors": "Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi, Somshubra Majumdar, Boris Ginsburg",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02849v1",
+    "source": "arXiv",
+    "abstract": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, supervised fine-tuning (SFT), and reinforcement learning (RL). Using 22,000 curated problems, we train Nemotron-3-Nano-CC (30B-A3B) with SFT and RL and Nemotron-3-Ultra-CC (550B-A55B) with SFT alone. We further introduce GenCorrect, a feedback-driven test-time compute strategy that iteratively generates, evaluates, and refines diverse solutions. On IOI 2025, Nano-CC improves from 130 points to 291 after post-training and to 468 with GenCorrect, exceeding the gold threshold of 438.3 while Ultra-CC reaches 502. Guided by these results, we develop a competition-specific Ultra-CC system and evaluate it prospectively during IOI 2026. Under the same time, internet-access, and submission constraints as human contestants, it scores 535.4 out of 600, exceeding both the gold threshold of 361.12 and the top human score of 498.27. To our knowledge, this is the first AI system to outscore the highest-scoring human contestant on an IOI problem set.",
+    "title_zh": "用于编程竞赛金牌表现的训练后语言模型",
+    "abstract_zh": "编程竞赛已成为大语言模型推理能力的关键测试，国际信息学奥林匹克竞赛(IOI)和国际大学生程序设计竞赛(ICPC)等赛事代表了其中最具挑战性的场景。我们提出了一种端到端的专门化流程，结合大规模问题筛选、合成推理轨迹、监督微调(SFT)和强化学习(RL)。利用22,000个精选问题，我们通过SFT和RL训练了Nemotron-3-Nano-CC(30B-A3B)，并通过仅使用SFT训练了Nemotron-3-Ultra-CC(550B-A55B)。我们进一步引入了GenCorrect，一种基于反馈的测试时计算策略，通过迭代生成、评估和改进多样化解决方案。在IOI 2025上，Nano-CC在训练后得分从130分提升至291分，使用GenCorrect后达到468分，超过了438.3的金牌分数线，而Ultra-CC达到502分。基于这些结果，我们开发了一个专门针对竞赛的Ultra-CC系统，并在IOI 2026期间进行了前瞻性评估。在与人类参赛者相同的时间、网络访问和提交限制下，该系统获得了535.4分（满分600分），超过了361.12的金牌分数线和498.27的最高人类得分。据我们所知，这是首个在IOI问题集上得分超过最高分人类参赛者的AI系统。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Automated Vulnerability Injection in Smart Contracts Using Large Language Models",
+    "authors": "Luca Migliaccio, Roberto Natella, Naghmeh Ivaki, Nuno Laranjeiro, Marco Vieira",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02624v1",
+    "source": "arXiv",
+    "abstract": "Assessing vulnerability detection tools for smart contracts requires datasets with known ground truth, yet such datasets are scarce and difficult to build by hand. We propose an approach that uses Large Language Models (LLMs) to automatically inject vulnerabilities into Solidity smart contracts, and demonstrate it in a case study targeting 49 vulnerability types from OpenSCV. Injected contracts are validated through a multi-step pipeline checking compilation, execution, business logic, and the presence of the intended vulnerability. Applied to real-world contracts from SmartBugs, LLMs generate nearly 1,000 candidate variants; after deduplication and validation, 32 confirmed vulnerable contracts spanning 25 vulnerability types survive (a 16.58% survival rate). Surviving contracts concentrate in structurally simpler targets and vulnerability types with localized syntactic patterns. We report practical challenges including LLMs' non-determinism and the difficulty of preserving contract semantics. We then use the validated contracts to assess three static analyzers, revealing complementary and incomplete coverage profiles. Results show that LLM-based vulnerability injection is feasible, while exposing key limitations in scalability and diversity.",
+    "title_zh": "使用大型语言模型在智能合约中自动注入漏洞",
+    "abstract_zh": "评估智能合约漏洞检测工具需要具有已知真实数据集的数据集，然而此类数据集稀缺且难以手动构建。我们提出了一种利用大型语言模型（LLMs）自动向Solidity智能合约注入漏洞的方法，并在一项针对OpenSCV中49种漏洞类型的案例研究中展示了该方法。注入的合约通过多步骤管道进行验证，包括检查编译、执行、业务逻辑以及预期漏洞的存在性。将该方法应用于SmartBugs中的真实世界合约，LLMs生成了近1,000个候选变体；在去重和验证后，32个确认存在漏洞的合约（涵盖25种漏洞类型）得以保留（保留率为16.58%）。幸存合约集中在结构上更简单的目标和具有局部语法模式的漏洞类型。我们报告了实际挑战，包括LLMs的非确定性以及保持合约语义的困难。随后，我们使用验证过的合约评估了三种静态分析工具，揭示了互补且不完整的覆盖情况。结果表明，基于LLM的漏洞注入是可行的，同时也暴露了在可扩展性和多样性方面的关键局限性。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Batch Before You Time: Decision-Scoped Proxy Execution for Timing-Aware Logic Rewriting",
+    "authors": "Pujun Su",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02470v1",
+    "source": "arXiv",
+    "abstract": "Standard Delay Format (SDF)-annotated switching simulation distinguishes delay-dependent activity among functionally equivalent rewrites, but evaluating every candidate repeats timing, compilation, and replay. A zero-delay proxy can remove timed evaluations, but generating that proxy candidate by candidate can cost more than the timed work it saves. We present Batch Before You Time (BBYT), which compiles all candidates of one rewrite decision into one scoped zero-delay image and either commits a well-separated proxy winner or invokes the unchanged timed chain. Across 12 counterbalanced holdout sequences, BBYT reduces complete candidate-selection time by 18.05% on average; the design-level reductions are 5.84% and 30.25%, with both confidence intervals above zero. On a counterbalanced 8,192-transition C6288 workload, BBYT is 9.24% faster than the same gate executed with candidate-wise proxy launches. In the five-workload corpus, BBYT removes 32.52% of timed candidate evaluations and matches exhaustive timed selection on all 250 evaluated decisions. For on-demand timing-aware rewrite selection, proxy execution and fidelity continuation should use the same decision scope.",
+    "title_zh": "时间批处理：面向时序感知逻辑重写的决策范围代理执行",
+    "abstract_zh": "标准延迟格式(SDF)注释的切换仿真能够区分功能等价重写之间的延迟相关活动，但评估每个候选方案会重复进行时序分析、编译和重放。零延迟代理可以消除定时评估，但逐个生成代理候选方案的成本可能超过其节省的定时工作。我们提出了\"先批量后定时\"(BBYT)方法，将一个重写决策的所有候选方案编译成一个作用域内的零延迟映像，然后要么提交一个良好分离的代理获胜者，要么调用不变的定时链。在12个平衡的保留序列中，BBYT平均将完整的候选选择时间减少了18.05%；设计级别的减少分别为5.84%和30.25%，且两者的置信区间均大于零。在一个包含8,192个转换的平衡C6288工作负载中，BBYT比使用逐个候选代理启动的相同门执行速度快9.24%。在五个工作负载的语料库中，BBYT消除了32.52%的定时候选评估，并在所有250个评估决策中与详尽的定时选择相匹配。对于按需的时序感知重写选择，代理执行和保真度续传应使用相同的决策范围。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "CodePoisonRAG: Knowledge Poisoning Attacks on Retrieval-Augmented Code Generation",
+    "authors": "Varun Gadey, Ziad Marey, Alexandra Dmitrienko",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02774v1",
+    "source": "arXiv",
+    "abstract": "Retrieval-Augmented Code Generation (RACG) improves LLM-based software development by retrieving external code artifacts, documentation, and patches, and incorporating them into the generation context. This reliance on external knowledge introduces a critical trust boundary: poisoned artifacts can influence generated code without modifying the underlying LLM. Prior work shows that selecting existing vulnerable examples can increase the general vulnerability rate of RACG outputs, but leaves open whether a black-box attacker can construct a single task-matched artifact that propagates an attacker-selected weakness. We introduce CodePoisonRAG, a targeted upstream knowledge-poisoning framework that transforms benign fixed-code entries into poisoned artifacts. Its attack chain combines CWE-specific Vulnerability Injection, which embeds a selected source-to-sink flow while retaining task alignment, with Semantic Mislabeling, which adds false safety claims without repairing the vulnerable behavior. The attacker has no access to the victim's deployed knowledge base, retriever, re-ranker, generator, prompt, or defense mechanism and injects at most one artifact per anticipated programming task. We construct 85 poisoned artifacts covering ten CWE classes across Java and C, yielding an aggregate corpus-poisoning ratio of 0.7%. Across three generators, all 85 artifacts appear among the Top-3 results for their corresponding queries, and CodePoisonRAG achieves attack success rates between 0.80 and 0.93. Against CodeGuarder, which injects vulnerability-specific security knowledge into the generation context, the attack retains success rates between 0.40 and 0.71. These results show that RACG poisoning extends beyond the incidental propagation of existing vulnerabilities to the targeted construction and propagation of attacker-selected weaknesses.",
+    "title_zh": "CodePoisonRAG：针对检索增强代码生成的知识投毒攻击",
+    "abstract_zh": "检索增强代码生成（RACG）通过检索外部代码工件、文档和补丁，并将它们整合到生成上下文中，从而改进了基于大语言模型的软件开发。这种对外部知识的依赖引入了一个关键的信任边界：被污染的工件可以在不修改底层大语言模型的情况下影响生成的代码。先前的研究表明，选择现有的易受攻击示例可以提高RACG输出的总体漏洞率，但尚未明确黑盒攻击者是否能够构建一个与任务匹配的单个工件，以传播攻击者选择的弱点。我们引入了CodePoisonRAG，这是一个有针对性的上游知识污染框架，它将良性的固定代码条目转换为污染的工件。其攻击链结合了特定CWE的漏洞注入，该注入嵌入选定的源到汇流，同时保持任务对齐，以及语义错误标记，该标记添加虚假的安全声明而不修复易受攻击的行为。攻击者无法访问受害者的已部署知识库、检索器、重新排序器、生成器、提示或防御机制，并且每个预期的编程任务最多注入一个工件。我们构建了85个污染的工件，涵盖Java和C中的十个CWE类别，总体语料库污染比例为0.7%。在三个生成器中，所有85个工件都出现在其相应查询的前3个结果中，CodePoisonRAG的攻击成功率在0.80到0.93之间。面对CodeGuarder（它将特定漏洞的安全知识注入生成上下文），攻击仍保持0.40到0.71的成功率。这些结果表明，RACG污染不仅超越了现有漏洞的偶然传播，还包括针对攻击者选择的弱点的构建和传播。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor",
+    "authors": "Phanindra Reddy Madduru",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.01985v1",
+    "source": "arXiv",
+    "abstract": "As LLM coding agents increasingly perform end-to-end engineering work, we lack empirical characterization of how they behave on systems-level requirements: schema design, async orchestration, configuration correctness, and retrieval-filtering trade-offs. We present a case study of one such agent implementing a multi-component data system against a detailed pre-existing specification. Storage technologies, schema, entity-resolution algorithm, and retrieval-filtering strategy were fixed in advance; the agent autonomy was in the implementation, in diagnosing and fixing defects it introduced, and in interaction-design choices left open. Over a single session, we catalog five such defects, categorized by constraint violated and detection method. We further evaluate, on the public HotpotQA benchmark, the one retrieval trade-off specified in that architecture: restricting candidates to a graph-identified entity set before ranking versus unfiltered search. We substitute the benchmark gold evidence labels for entity identification, since we lacked LLM access to run that stage, and report standard recall rather than the benchmark own accuracy metrics. Across retrieval budgets from 1 to 10 and 100 questions against a pooled corpus of 2994 paragraphs, filtered recall reaches its ceiling by a budget of 3, expected once candidates are restricted to the gold paragraphs themselves, while unfiltered search recovers all required evidence only 69 percent of the time even at a budget of 10, a gap that holds at every budget tested, with sign test p less than 0.0001. We close with a discussion of where the agent autonomy succeeded versus required correction, including one instance where a claimed performance fix was never re-measured on the regression that motivated it.",
+    "title_zh": "当代理执行系统：缺陷、检测与评估严谨性的案例研究",
+    "abstract_zh": "随着LLM编码代理越来越多地执行端到端的工程工作，我们缺乏关于它们在系统级需求方面的行为特征的实证研究：模式设计、异步编排、配置正确性以及检索-过滤的权衡。我们展示了一个案例研究，其中一个代理根据预先存在的详细规范实现了一个多组件数据系统。存储技术、模式、实体解析算法和检索-过滤策略事先已固定；代理的自主性体现在实现、诊断和修复其引入的缺陷，以及处理开放的交互设计选择。在单次会话中，我们记录了五类此类缺陷，并根据违反的约束和检测方法进行了分类。我们进一步在公共HotpotQA基准上评估了该架构中指定的一个检索权衡：在排序前将候选限制为图识别的实体集与无过滤搜索。由于我们无法访问LLM来运行该阶段，我们使用基准测试中的黄金证据标签替代了实体识别，并报告标准召回率而非基准测试自身的准确度指标。从1到10的检索预算范围内，针对包含2994个段落的语料库，过滤后的召回率在预算为3时达到上限，这符合预期，因为一旦候选被限制在黄金段落本身；而无过滤搜索即使在预算为10时，也只能69%的时间恢复所有必需的证据，这一差距在测试的每个预算级别都存在，符号检验p值小于0.0001。我们最后讨论了代理自主性的成功之处和需要纠正的地方，包括一个实例：声称的性能修复从未在促使该修复的回归测试中重新测量。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization",
+    "authors": "Juntao Wei, Yangming Zhou, Zhibin Jiang, Shan Jiang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02353v1",
+    "source": "arXiv",
+    "abstract": "Heuristic design for combinatorial optimization remains heavily reliant on expert knowledge, while existing large language model (LLM)-enhanced evolutionary methods typically evolve isolated algorithmic components, even when one determines the search state on which another operates. This paper proposes LLM-driven Heuristic Components Joint Generation (LLM-HCJG), a population-based framework that jointly generates and co-evolves interdependent heuristic components under a shared design blueprint. Applied to guided local search (GLS), LLM-HCJG couples solution initialization with penalty construction and embeds the generated pair into an enhanced online search mechanism. The resulting form is further transferred from the traveling salesman problem (TSP) to the capacitated vehicle routing problem (CVRP). Theoretical analysis establishes the non-separable state-transition effects between the two components and the advantage in generation consistency. Across synthetic instances and 41 public TSPLIB/CVRPLIB benchmarks, LLM-HCJG attains consistently low optimality gaps, including best or tied-best results on 28 of 29 TSPLIB instances and all 12 CVRPLIB instances. Ablation and structural analyses further indicate that these gains are associated with cross-component compatibility and alignment rather than isolated-component recombination. These results support effective cross-instance transfer within the evaluated routing settings under limited-sample, modest-cost training.",
+    "title_zh": "基于大语言模型的耦合启发式组件联合进化路由优化",
+    "abstract_zh": "组合优化的启发式设计仍然严重依赖专家知识，而现有的大语言模型（LLM）增强的进化方法通常演算孤立的算法组件，即使当一个组件确定另一个组件操作的搜索状态时也是如此。本文提出了LLM驱动的启发式组件联合生成（LLM-HCJG），这是一个基于种群的框架，在共享设计蓝图下联合生成和共同演化相互依赖的启发式组件。应用于引导局部搜索（GLS）时，LLM-HCJG将解初始化与惩罚构造相结合，并将生成的对嵌入到增强的在线搜索机制中。所得形式进一步从旅行商问题（TSP）转移到容量车辆路径问题（CVRP）。理论分析确立了两个组件之间的不可分离状态转换效应以及生成一致性方面的优势。在合成实例和41个公共TSPLIB/CVRPLIB基准测试中，LLM-HCJG持续获得最优性差距较低的结果，包括在29个TSPLIB实例中的28个和所有12个CVRPLIB实例上获得最佳或并列最佳结果。消融和结构分析进一步表明，这些增益与跨组件兼容性和对齐有关，而不是与孤立组件的重组有关。这些结果支持在评估的路由设置下，在有限样本、适度成本训练的情况下实现有效的跨实例迁移。"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation",
+    "authors": "Yunhao Liu, Hong Phuc Pham, Jaehong Yoon",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.02272v1",
+    "source": "arXiv",
+    "abstract": "Faithfully translating research papers into repository-level implementations remains challenging because papers often describe methods at a high level, leave implementation assumptions implicit, and require generated repositories to preserve method logic, evaluation protocols, and cross-file consistency. Despite recent advances in paper-to-code agents, their intermediate outputs are often presented as free-form plans or summaries that downstream coding agents may ignore, reinterpret, or compress, leading to algorithmic simplification and inconsistent repository structure. To address these challenges, we introduce PaperCompiler, a paper-to-code generation framework that compiles paper-grounded evidence into explicit repository-level implementation specifications. PaperCompiler grounds implementation-relevant evidence while preserving source provenance and distinguishing paper-supported, inferred, externally delegated, and unresolved information. The resulting specifications encode non-degradation requirements, ownership assignments, cross-file dependencies, and file-level constraints. Repository generation proceeds under these compiled specifications while retaining flexibility over local engineering choices not fixed by the paper. PaperCompiler outperforms strong baselines on Paper2CodeBench, achieving a 13.8% relative improvement in reference-based fidelity (from 3.64 to 4.15) and reducing high-severity evaluator critiques (from 13.2% to 6.1%).",
+    "title_zh": "PaperCompiler：通过仓库级规范编译实现忠实论文到代码生成",
+    "abstract_zh": "将研究论文忠实转化为仓库级实现仍然具有挑战性，因为论文通常以高层次描述方法，隐含实现假设，并要求生成的仓库保留方法逻辑、评估协议和跨文件一致性。尽管最近的论文到代码代理取得了进展，但其中间输出通常以自由形式的计划或摘要呈现，下游编码代理可能会忽略、重新解释或压缩这些内容，导致算法简化和仓库结构不一致。为应对这些挑战，我们引入了PaperCompiler，一个论文到代码生成框架，将基于论文的证据编译为明确的仓库级实现规范。PaperCompiler在保留来源出处的同时，锚定与实现相关的证据，并区分论文支持、推断、外部委托和未解决的信息。 resulting specifications encode non-degradation requirements, ownership assignments, cross-file dependencies, and file-level constraints. 仓库生成在这些编译规范下进行，同时保留对论文未固定的本地工程选择的灵活性。在Paper2CodeBench上，PaperCompiler优于强大的基线模型，在基于参考的保真度方面实现了13.8%的相对提升（从3.64提高到4.15），并将高严重性评估者的批评从13.2%降至6.1%。"
+  },
+  {
+    "date": "2026-9-2",
+    "title": "Real-Time Instruction-Level Anomaly Detection for Embedded Applications Using AI",
+    "authors": "Mohammed Mezaouli, Yehya Nasser, Samir Saoudi, Marc-Oliver Pahl",
+    "publish": "NOMS 2026-2026 IEEE Network Operations and Management Symposium",
+    "url": "https://doi.org/10.1109/noms69089.2026.11668267",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用AI进行嵌入式应用的实时指令级异常检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-2",
+    "title": "Large Language Models for Computer-Aided Design: Engineering Usability, Generation Paradigms, and Beyond",
+    "authors": "Dongxu Yin, Siyuan Sun, Yuhang Zhang, Jiehan Zhou, Yuchun Xu",
+    "publish": "2026 2nd International Symposium on E-CARGO and Applications (E-CARGO)",
+    "url": "https://doi.org/10.1109/e-cargo70110.2026.11671081",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "计算机辅助设计中的大型语言模型：工程可用性、生成范式及未来展望",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-2",
+    "title": "CopilotAD: A Simple Method Based on ViT for Multi-class Logical Anomaly Detection",
+    "authors": "Chenwei Cai, Hao San, Masashi Kono",
+    "publish": "2026 15th International Conference on Communications, Circuits and Systems (ICCCAS)",
+    "url": "https://doi.org/10.1109/icccas70754.2026.11672508",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CopilotAD：一种基于ViT的简单多类逻辑异常检测方法",
+    "abstract_zh": "None"
+  }
+]
