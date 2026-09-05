@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2026-09-03",
+    "title": "Code Transformation Rule Synthesis using LLMs: Potential and Limits",
+    "authors": "Axel Allain, Aymeric Blot, Djamel Eddine Khelladi, Mathieu Acher",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.03592v1",
+    "source": "arXiv",
+    "abstract": "Due to their black-box nature, LLMs suffer from limited explain- ability and a lack of determinism. Their usage cost can also rise, particularly with repetitive tasks on large codebases. To mitigate this, we conduct a novel empirical study targeting three domain- specific languages for transformation rules, namely Comby, GritQL, and Ast-Grep. We evaluate three LLMs (GPT-5.4, GPT-oss-120B, and Llama3.1-8B) on six diverse datasets covering four software- evolution tasks: API misuse correction, program repair, API migra- tion, and language version migration. Our results provide evidence that transformation rule synthesis moves beyond proof-of-concept with strong frontier models. GPT-5.4 achieves consistently high rule applicability rates and produces transformations closest to the ground truth across most benchmarks. Smaller and open-weight GPT-oss-120B and Llama3.1-8B models remain effective for simpler, localized changes but struggle with complex migration scenarios. We also observe non-negligible generalizability through the usage of meta-variables and through a high reuse score in the first quartile of many datasets. Finally, when compared to the anti-unification algorithm, LLMs outperform it in correctness, but underperform in rule applicability. Overall, our results show great potential for LLMs to generate sound, correct, generalizable, and reusable rules.",
+    "title_zh": "使用大语言模型进行代码转换规则合成：潜力与局限",
+    "abstract_zh": "由于黑盒特性，大语言模型(LLMs)存在可解释性有限和缺乏确定性的问题。其使用成本也可能上升，特别是在大型代码库上执行重复任务时。为缓解这一问题，我们进行了一项新颖的实证研究，针对三种用于转换规则的语言，即Comby、GritQL和Ast-Grep。我们在涵盖四个软件演化任务的六个多样化数据集上评估了三个大语言模型(GPT-5.4、GPT-oss-120B和Llama3.1-8B)：API误用纠正、程序修复、API迁移和语言版本迁移。我们的研究结果表明，转换规则合成已超越概念验证阶段，前沿模型表现出色。GPT-5.4在大多数基准测试中 consistently取得了高规则适用率，并产生了最接近真实情况的转换。较小的开源权重模型GPT-oss-120B和Llama3.1-8B在处理简单、局部变更时仍然有效，但在复杂迁移场景中表现不佳。我们还观察到通过使用元变量以及在许多数据集的第一四分位数中高重用分数，模型具有不可忽视的泛化能力。最后，与反统一算法相比，大语言模型在正确性方面表现更优，但在规则适用性方面表现较差。总体而言，我们的研究结果展示了大语言模型在生成可靠、正确、可泛化和可重用规则方面的巨大潜力。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
+    "authors": "Xin He, Yanlin Wang, Mingwei Liu, Jiachi Chen, Hongyu Zhang, Guanbin Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.04167v1",
+    "source": "arXiv",
+    "abstract": "Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests and overlook review-derived acceptance constraints (review constraints) that often influence whether a patch is acceptable in real-world software development. We introduce SWE-Gate, a repository-level benchmark for software engineering agents that explicitly evaluates review constraint compliance alongside functional correctness. SWE-Gate derives review constraints from real pull request review comments and synthesizes repository-level repair instances around these constraints. Each instance provides separate functional and constraint tests, together with non-compliant and gold patches, enabling explicit separation between issue resolution capability and review constraint compliance. We construct SWE-Gate with 303 repository-level repair instances spanning 75 open-source Python repositories across diverse software domains. Experiments with four LLM backends spanning different capability levels under a common coding-agent scaffold reveal a substantial gap between functional success and success under the complete repair specification: among 644 repairs that pass the functional tests, 221 fail to satisfy the provided review constraints. These findings show that functional-only evaluation overestimates agents' ability to satisfy the full requirements of repository-level repair tasks. The replication package including code, data, and experimental results is available at https://github.com/DeepSoftwareAnalytics/SWE-Gate.",
+    "title_zh": "SWE-Gate：通过功能测试对软件工程代理来说是不够的",
+    "abstract_zh": "仓库级软件工程基准测试显著推进了编码代理的评估，但现有基准主要测试生成的补丁是否能通过功能测试，而忽略了在真实软件开发中影响补丁可接受性的审查派生接受约束（审查约束）。我们引入了SWE-Gate，这是一个仓库级软件工程代理基准测试，明确评估审查约束合规性和功能正确性。SWE-Gate从真实的拉取请求审查评论中提取审查约束，并围绕这些约束合成仓库级修复实例。每个实例提供独立的功能和约束测试，以及不合规和黄金补丁，从而明确区分问题解决能力和审查约束合规性。我们构建了SWE-Gate，包含303个仓库级修复实例，涵盖75个不同软件领域的开源Python仓库。使用四种不同能力水平的LLM后端在通用编码代理框架下的实验显示，功能成功与完整修复规范下的成功之间存在显著差距：在644个通过功能测试的修复中，有221个未能满足提供的审查约束。这些结果表明，仅基于功能的评估高估了代理满足仓库级修复任务全部要求的能力。复制包（包括代码、数据和实验结果）可在https://github.com/DeepSoftwareAnalytics/SWE-Gate获取。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "TIPCODER: Reinforcement Learning Boosted Test-time Instruction Proposer for Code Generation",
+    "authors": "Minyu Chen, Sihao Wu, Ling-I Wu, Song Qin, Jingyang Li, Lei Ning, Jianxin Xue, Guoqiang Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.03309v1",
+    "source": "arXiv",
+    "abstract": "Test-time scaling for code generation typically explores the solution space by sampling multiple programs from a fixed instruction. We study a complementary direction: instance-level instruction-space exploration. Our observation is that many coding failures stem from missing constraints, overlooked edge cases, or misleading reasoning paths induced by the original prompt. To address this, we propose TipCoder, a test-time instruction proposer that generates problem-specific auxiliary tips before code synthesis. TipCoder distills multi-turn debugging trajectories into proactive guidance and further optimizes the Proposer with reinforcement learning using a marginal-utility reward. At inference time, it generates both a base solution and a tip-guided solution, and applies a Reward Model for post-hoc selection. This exploration-selection design allows tips to expose additional candidate potential while reducing regressions from unnecessary guidance. Across the evaluated code-generation benchmarks and target Code LLMs, TipCoder provides a consistent instruction-level test-time scaling strategy, comparing favorably with stochastic sampling and generic prompt optimization baselines under a shared reward-model-based selection protocol.",
+    "title_zh": "TIPCODER：基于强化学习的测试时指令生成器，用于代码生成",
+    "abstract_zh": "代码生成的测试时扩展通常通过从固定指令中采样多个程序来探索解空间。我们研究了一个互补的方向：实例级指令空间探索。我们的观察是，许多编码失败源于缺失的约束、被忽视的边界情况或由原始提示引起的误导性推理路径。为此，我们提出了TipCoder，一种测试时指令生成器，它在代码合成之前生成特定问题的辅助提示。TipCoder将多轮调试轨迹提炼为主动指导，并使用边际效用奖励通过强化学习进一步优化生成器。在推理时，它生成基础解决方案和提示引导的解决方案，并应用奖励模型进行事后选择。这种探索-选择设计使提示能够暴露额外的候选潜力，同时减少不必要指导导致的性能下降。在评估的代码生成基准和目标代码大语言模型上，TipCoder提供了一致的指令级测试时扩展策略，在基于共享奖励模型的选择协议下，与随机采样和通用提示优化基线相比表现更优。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Long-Range Indirect Control-Flow Prediction in Stripped Binaries via Dual Virtual Hubs and Multi-Task Graph Learning",
+    "authors": "Kun Liu, Zhengming Ding, Chenke Luo, Tianyi Xu, Zizhan Zheng, Haotian Zhang, Jiang Ming",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.03280v1",
+    "source": "arXiv",
+    "abstract": "Recovering indirect control-flow (ICF) edges is fundamental to binary security analysis, yet existing methods struggle with long-range dependencies, isolate different ICF types, and are often evaluated under protocols vulnerable to label noise and data leakage. We present ICFlowNet, a unified framework for long-range ICF prediction in stripped binaries. ICFlowNet introduces candidate-aware Dual Virtual Hubs, a Global Code Hub and a Global Data Hub, to create short routing paths between distant code and data evidence, and combines them with multi-task graph learning to jointly model indirect calls, indirect tail calls, jump tables, and returns. To enable credible evaluation, we further develop a leakage-aware, noise-controlled pipeline with package-level splits, function-level mnemonic-hash deduplication, and a clean test protocol built from dynamic positives and absolute negatives. Using this pipeline, we construct a dataset of 15,901 unique stripped x86-64 binaries, including 1,351 with dynamic ground truth. Experiments show that simply scaling static supervision yields only marginal gains, whereas our structural and multi-task designs are essential: Dual Virtual Hubs improve long-range F1 by up to 9.13 points, multi-task learning adds up to 5.81 points, and the final model outperforms prior baselines by more than 13 F1 points on long-range indirect calls while adding only 11.44 percent topological overhead.",
+    "title_zh": "基于双虚拟中心和多任务图学习的剥离二进制文件中的远程间接控制流预测",
+    "abstract_zh": "恢复间接控制流(ICF)边对二进制安全分析至关重要，然而现有方法难以处理长距离依赖，无法区分不同类型的ICF，且通常在易受标签噪声和数据泄露影响的协议下进行评估。我们提出了ICFlowNet，这是一个用于去二进制文件中长距离ICF预测的统一框架。ICFlowNet引入了候选感知的双重虚拟中心，包括全局代码中心和全局数据中心，以在远距离代码和数据证据之间创建短路径，并结合多任务图学习来共同建模间接调用、间接尾调用、跳转表和返回。为了实现可信评估，我们进一步开发了一个具有防泄露、噪声控制特性的流水线，采用包级别分割、函数级助记符哈希去重，以及基于动态正样本和绝对负样本构建的干净测试协议。利用此流水线，我们构建了一个包含15,901个唯一去x86-64二进制文件的数据集，其中包括1,351个具有动态真实值的样本。实验表明，仅扩展静态监督只能带来有限的提升，而我们的结构和多任务设计至关重要：双重虚拟中心将长距离F1值最高提升9.13分，多任务学习增加最多5.81分，最终模型在长距离间接调用上比先前基线模型高出13个F1点，同时仅增加11.44%的拓扑开销。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "CROCODIL: Cross-Model Code Editing with LLMs",
+    "authors": "Linghan Zhong, Aditya Thimmaiah, Jayanth Srinivasa, Milos Gligoric, Junyi Jessy Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.03894v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) have become ubiquitous tools for code generation and editing. However, development teams often use multiple LLM assistants. Different developers may prefer different models, and individual developers may switch between models across different coding sessions. Because of this, the edits any one model makes are frequently applied to foreign code originally generated by another model. These LLMs are often trained on different datasets, and as a result have different stylistic preferences. Do LLMs behave differently when they edit foreign code originally written by a different LLM with a different coding style? We find that models tend to make more, and often excessive, edits on foreign code. We introduce CROCODIL (Cross-model Code Editing with LLMs), a post-training framework for reducing excessive edits while preserving functional correctness. CROCODIL's similarity reward penalizes large changes, while its execution reward scores build and test success. We use the product of these two rewards to encourage the policy to decrease the edit size without decreasing the edit task success rate. CROCODIL is available at https://github.com/EngineeringSoftware/Crocodil.",
+    "title_zh": "CROCODIL：使用大语言模型进行跨模型代码编辑",
+    "abstract_zh": "大型语言模型（LLMs）已成为代码生成和编辑的普遍工具。然而，开发团队经常使用多个LLM助手。不同的开发者可能偏好不同的模型，而单个开发者可能在不同的编码会话之间切换模型。因此，任何一个模型所做的编辑经常被应用于由另一个模型最初生成的外部代码。这些LLM通常在不同的数据集上训练，因此具有不同的风格偏好。当LLM编辑由具有不同编码风格的其他LLM最初编写的外部代码时，它们的行为是否会有所不同？我们发现，模型在外部代码上倾向于进行更多，通常是过多的编辑。我们引入了CROCODIL（使用LLM进行跨模型代码编辑），这是一种后训练框架，旨在减少过度编辑同时保持功能正确性。CROCODIL的相似性奖励惩罚大的改动，而其执行奖励评分构建和测试成功。我们使用这两个奖励的乘积来鼓励策略减小编辑大小而不降低编辑任务成功率。CROCODIL可在https://github.com/EngineeringSoftware/Crocodil获取。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
+    "authors": "Tongyao Zhu, Wei Hern Lim, Min-Yen Kan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.04061v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) are increasingly used to edit existing code, but correctness alone is not enough: useful repairs should also be minimal, reviewable, and faithful to the original implementation. We study over-editing, the tendency of a model to rewrite code beyond what is required to fix a bug. We construct an evaluation framework from 400 BigCodeBench problems by injecting controlled AST-level corruptions into reference solutions, giving each repair task a known minimal patch. Across frontier LLMs, over-editing is widespread even among strong models like GPT-5.5: high Pass@1 can coexist with unnecessarily large edits and added cognitive complexity. A preservation instruction substantially reduces this behavior, lowering average excess Levenshtein distance from 0.195 to 0.131, reducing added cognitive complexity by 26.6%, and increasing Pass@1 by 2.3 points. However, these gains do not simply follow from a larger reasoning budget or larger models. We next ask whether minimal editing can be learned directly during post-training. We observe that supervised fine-tuning overfits to seen corruption patterns, whereas reinforcement learning gives the best out-of-domain edit-fidelity and performance-retention trade-off. These results position edit fidelity as a distinct axis of code-repair quality and show that it can be measured and learned.",
+    "title_zh": "当模型编辑过度：论最小代码编辑的保真度",
+    "abstract_zh": "大型语言模型(LLMs)越来越多地被用于编辑现有代码，但仅仅正确性是不够的：有用的修复还应该是最小化的、可审查的，并且忠实于原始实现。我们研究了过度编辑问题，即模型倾向于修复bug时重写超出必要的代码。我们通过向400个BigCodeBench问题的参考解决方案中注入受控的AST级别损坏，构建了一个评估框架，为每个修复任务提供了已知的最小补丁。在最先进的LLMs中，过度编辑现象普遍存在，即使在GPT-5.5这样的强大模型中也是如此：高Pass@1值可能与不必要的巨大编辑和增加的认知复杂性并存。一个保留指令显著减少了这种行为，将平均多余的Levenshtein距离从0.195降低到0.131，减少了26.6%的认知复杂性，并将Pass@1提高了2.3个百分点。然而，这些收益并非简单地来自于更大的推理预算或更大的模型。接下来，我们询问是否可以在后训练过程中直接学习最小化编辑。我们观察到，监督式微调会针对已见的损坏模式过拟合，而强化学习则提供了最佳的域外编辑保真度和性能保持权衡。这些结果将编辑保真度定位为代码修复质量的独立维度，并表明它可以被测量和学习。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents",
+    "authors": "M. Frans Kaashoek, Nickolai Zeldovich",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.04043v1",
+    "source": "arXiv",
+    "abstract": "MachCSL is a framework for verifying systems software, such as an OS kernel, on top of low-level semantics of a RISC-V computer, based on the Sail RISC-V semantics. The key idea behind MachCSL is to adapt concurrent separation logic, based on Iris, to reasoning about low-level hardware execution at the sub-instruction level: page-table translation, TLB, privilege levels, configuration registers, instruction fetch/decode/execute, traps and interrupts, DMA, shared memory, power failures, etc. Reasoning at this level of detail ensures that the system software correctly manages all of the hardware details. Verifying software at this low level of abstraction is tedious, but LLM-based agents are capable of reasoning about such low-level details. As a case study, we verify the xv6 OS kernel (6,593 lines of C and assembly code), which provides a traditional Unix system call interface (processes, file system, file descriptors, and preemptive scheduling) and has substantial internal concurrency (multi-core support with fine-grained locking, shared memory, interrupts, DMA, etc.). In the verification process, we uncovered nine bugs in the xv6 implementation, as well as one bug in the Sail RISC-V semantics. The verification effort took us 77 days, including the time to develop the MachCSL framework.",
+    "title_zh": "将并发分离逻辑扩展到硬件级别，通过AI代理验证RISC-V上的xv6操作系统内核",
+    "abstract_zh": "MachCSL 是一个用于验证系统软件（如操作系统内核）的框架，它基于 RISC-V 计算机的底层语义，并建立在 Sail RISC-V 语义之上。MachCSL 的核心思想是基于 Iris 适配并发分离逻辑，用于推理子指令级别的低级硬件执行：页表转换、TLB、特权级别、配置寄存器、指令获取/解码/执行、陷阱和中断、DMA、共享内存、电源故障等。在这种详细级别上进行推理可以确保系统软件正确管理所有硬件细节。在这种低抽象级别上验证软件是繁琐的，但基于大型语言模型（LLM）的代理能够推理这些低级细节。作为案例研究，我们验证了 xv6 操作系统内核（6,593 行 C 语言和汇编代码），该内核提供了传统的 Unix 系统调用接口（进程、文件系统、文件描述符和抢占式调度），并具有大量的内部并发性（支持多核，具有细粒度锁、共享内存、中断、DMA 等）。在验证过程中，我们在 xv6 实现中发现了九个错误，在 Sail RISC-V 语义中发现了一个错误。验证工作花了我们 77 天，包括开发 MachCSL 框架的时间。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Refusing the Impossible: A Taxonomy and Benchmark for Code Hallucination in Large Language Models",
+    "authors": "Vishnu Asutosh Dasu, Ashish Kundu, Gang Tan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.03267v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) often produce code that looks plausible but is not grounded in reality. The code may import packages that do not exist or claim to implement algorithms that violate proven theorems, while still compiling and running. We study \\emph{code hallucination} as \\emph{ungrounded generation} and separate it from ordinary \\emph{code error} (bugs in otherwise grounded programs). We propose a taxonomy with three dimensions: \\textbf{groundedness} (absolute violations of universal truths vs.\\ relative fabrications of contingent or ecosystem-specific facts), \\textbf{manifestation level} (syntactic, semantic, or factual), and \\textbf{behavior} (from confident fabrication to degenerate output), organized into a severity ordering. We build an \\textbf{adversarial} suite of deliberately unsatisfiable tasks where the correct response is to refuse and categorize the responses under our taxonomy. The suite contains \\textbf{270 prompts} across six languages and 24 subcategories, paired with \\textbf{91 matched solvable controls}, and responses are judged by a two-tier protocol validated against human labels (82\\% agreement, $κ{=}0.73$). Across twelve open-weight code and reasoning models (4{,}332 judged responses), models produce ungrounded code on about 60\\% of unsatisfiable prompts and refuse only 27\\%, while wrongly refusing 0\\% of the solvable controls.",
+    "title_zh": "拒绝不可能：大型语言模型中代码幻觉的分类与基准",
+    "abstract_zh": "大型语言模型（LLM）经常产生看似合理但不切实际的代码。这些代码可能会导入不存在的包，或声称实现了违反已证明定理的算法，却仍然能够编译和运行。我们将\"代码幻觉\"研究为\"无基础生成\"，并将其与普通的\"代码错误\"（其他有基础程序中的缺陷）区分开来。我们提出了一个包含三个维度的分类法：**基础性**（普遍真理的绝对违反与特定或生态系统特定事实的相对捏造）、**表现层次**（句法、语义或事实性）和**行为**（从自信的捏造到退化的输出），并按严重程度排序。我们构建了一个**对抗性**的故意不可满足任务套件，其中正确的回应是拒绝，并根据我们的分类法对回应进行分类。该套件包含**270个提示**，涵盖六种语言和24个子类别，配对**91个可解决的对照任务**，并通过与人工标签（82%一致性，κ=0.73）验证的两层协议进行判断。在十二个开源代码和推理模型（4,332个被判断的回应）中，模型在约60%的不可满足提示上产生无基础代码，仅拒绝27%，而对可解决的对照任务错误拒绝率为0%。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "PatchBench: Evaluating AI Agents for Vulnerability Patching",
+    "authors": "Chihao Shen, Jiacheng Li, Aastha Mahajan, Jeffery Siyuan Tian, Yonghwi Kwon, Yizheng Chen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.04075v1",
+    "source": "arXiv",
+    "abstract": "AI agents have recently demonstrated strong performance in automated vulnerability patching. However, existing evaluations often validate a patch only by testing whether the provided Proof-of-Concept (PoC) input still triggers a crash. This leaves two key threats to validity: agents may reproduce memorized historical developer patches, or they may generate surface-level fixes that only suppress the reported crash. We study these concerns for C/C++ vulnerability patching. We introduce a patch similarity metric to detect memorized patches. On average, 25% of the agent patches exhibit substantial similarity to historical developer patches, indicating that patch memorization is a real threat to the validity of vulnerability patching evaluations. Meanwhile, agents also frequently exploit benchmark structures to pass patch validation by patching on the crash stack trace to suppress the crash, rather than localizing and fixing the root cause of the vulnerabilities. To handle these issues, we propose PatchBench, a new benchmark for evaluating AI agents on realistic vulnerability patching tasks. PatchBench selects vulnerabilities whose ground-truth fixes lie outside the crash stack and uses vulnerability transplant and code mutations to migrate historical vulnerabilities into new repository contexts, reducing the risks of surface-level fixes and patch memorization. We develop new patch validation methods that thoroughly evaluate both security and semantic correctness of agent patches. Across 11 state-of-the-art agents, including the top three AIxCC agents, the original PoC-only validation inflates the patching task solve rate of agents by 1.83$\\times$ on average. Our results reveal key limitations of current patching agents and point to future research directions for more reliable vulnerability repair.",
+    "title_zh": "PatchBench：评估AI漏洞修复代理",
+    "abstract_zh": "AI代理在自动化漏洞修复方面最近展示了强大的性能。然而，现有的评估通常仅通过测试提供的概念验证(PoC)输入是否仍会触发崩溃来验证修复补丁。这留下了两个有效性的关键威胁：代理可能重现记忆的历史开发者补丁，或者可能生成仅抑制报告崩溃的表面修复。我们研究了C/C++漏洞修复中的这些问题。我们引入了一个补丁相似性指标来检测记忆的补丁。平均而言，25%的代理补丁与历史开发者补丁表现出显著相似性，表明补丁记忆是漏洞修复评估有效性的真实威胁。同时，代理也经常利用基准结构，通过修补崩溃堆栈跟踪来抑制崩溃，而不是定位和修复漏洞的根本原因，从而通过补丁验证。为解决这些问题，我们提出了PatchBench，这是一个用于评估AI代理在真实漏洞修复任务上的新基准。PatchBench选择了真实修复位于崩溃堆栈之外的漏洞，并利用漏洞移植和代码突变将历史漏洞迁移到新的存储库上下文中，从而减少了表面修复和补丁记忆的风险。我们开发了新的补丁验证方法，全面评估代理补丁的安全性和语义正确性。在包括前三名AIxCC代理在内的11个最先进的代理中，仅使用原始PoC的验证将代理的补丁任务解决率平均提高了1.83倍。我们的结果揭示了当前补丁代理的关键局限性，并指出了未来更可靠漏洞修复的研究方向。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator: A Deployed-Silicon Case Study",
+    "authors": "Jungmin Park, Eunha Kim, Wooseop Kim, Seongjoon Cho, Byungho Cha",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.04058v1",
+    "source": "arXiv",
+    "abstract": "Post-quantum migration is mandated on published timelines, and silicon that ships with a defect cannot be patched remotely. The standard acceptance gate cannot detect an entire class of ML-DSA defects. Signing resamples until a candidate meets its norm bounds, so the executed path varies with the message, whereas known-answer tests (KATs) sample fixed values and reach only the depths their seeds trigger. Our accelerator passed its full KAT regression while carrying a norm check that outran block-RAM latency, leaving each candidate's final coefficients unverified; the escape surfaced at reject-loop iteration 5. The blind spot lies in the instrument, not the engineer; care cannot remove it. We replace that gate. A byte-exact golden-reference oracle paired with randomized adversarial soak drives the rejection loop past any fixed vector, closing the gap: 301,343 data-dependent signings, zero escapes. Because the gate judges artifacts and never authors, trust becomes separable from authorship, making AI authorship an answerable question. We report 232 logged experiments in which an agentic large language model drove a unified ML-KEM-768 and ML-DSA-65 accelerator with on-chip key custody from RTL to PCIe bring-up on one Kintex-7 XC7K160T, shipped at 98.5% slice occupancy. Success was 71.6%, following a hardware-coupling gradient, 77-85% for documentation and research against 50-53% for synthesis and bring-up, which observability can explain: failure concentrates where corrective signals are physical-side only. That so unreliable an author produced an artifact byte-exact across all six FIPS operations -- its deployed baseline surviving the same 779,945-check zero-failure soak -- is the claim.",
+    "title_zh": "AI辅助的后量子密码加速器设计：已部署硅片案例研究",
+    "abstract_zh": "后量子迁移必须在发布的时间表内强制执行，并且存在缺陷的硅芯片无法通过远程修补。标准验收门无法检测到整个ML-DSA缺陷类别。签名会重新采样直到候选者满足其范数边界，因此执行路径会随消息变化，而已知答案测试(KATs)则采样固定值，仅达到其种子触发的深度。我们的加速器在完整的KAT回归测试中通过，同时携带了一个超前于块RAM延迟的范数检查，使得每个候选者的最终系数未经验证；该漏洞在第5次拒绝循环迭代时暴露。盲点在于仪器而非工程师；谨慎无法消除它。我们替换了这个门。一个字节精确的黄金参考预言机与随机对抗浸泡相结合，将拒绝循环驱动到任何固定向量之外，填补了这一差距：进行了301,343次数据相关签名，零次漏洞。因为该门判断工件而非创作，信任与创作变得可分离，使AI创作成为一个可回答的问题。我们报告了232个记录在案的实验，其中代理式大型语言模型驱动了一个统一的ML-KEM-768和ML-DSA-65加速器，具有片上密钥保管，从RTL到PCIe启动，基于一个Kintex-7 XC7K160T芯片，切片占用率为98.5%。成功率为71.6%，遵循硬件耦合梯度，文档和研究为77-85%，而综合和启动为50-53%，这可以通过可观察性解释：失败集中在仅能通过物理信号纠正的地方。如此不可靠的作者创作了一个在所有六个FIPS操作中字节精确的工件——其部署的基线通过了相同的779,945次检查零失败浸泡——这就是我们的主张。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs",
+    "authors": "Jiacheng Xu, Wentao Zhang, Zhiyi Lyu, Fuxiang Zhang, Chaojie Wang, Yang Liu, Bo An",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.03955v1",
+    "source": "arXiv",
+    "abstract": "Reinforcement learning (RL) has substantially advanced code generation with large language models (LLMs) through executable feedback. The feedback for coding problems mainly comes from specific test cases, where high-quality test cases are often scarce since they should be both sound and discriminative. We thus turn to study the auto-generation of test cases using the learned model. We find this is naturally an adversarial RL problem: the model is expected to generate effective test cases as counterexamples, depending on the solver's current failure modes. We propose Test Cases Scaling (TCS), a two-stage RL framework for effective test generation. Both stages train a test generator from a rolling policy-aligned buffer: Stage 1 generates tests consistent with the reference solution, and Stage 2 restricts the buffer to current failure modes and learns counterexample tests. Across TACO and LiveCodeBench, TCS improves both pass@1 and inference-time answer selection according to generated tests. We find the learned test generator also enables effective selection among other LLM outputs.",
+    "title_zh": "面向代码大语言模型的声音与对抗测试生成的两阶段强化学习",
+    "abstract_zh": "强化学习(RL)通过可执行的反馈，极大地推动了大型语言模型(LLMs)的代码生成。编程问题的反馈主要来自特定的测试用例，但由于高质量的测试用例需要既合理又具有区分度，因此往往稀缺。因此，我们转而研究使用学习模型来自动生成测试用例。我们发现这自然是一个对抗性强化学习问题：模型需要根据求解器的当前失败模式，生成有效的测试用例作为反例。我们提出了测试用例扩展(TCS)，这是一个用于有效测试生成的两阶段强化学习框架。两个阶段都从一个滚动策略对齐缓冲区中训练测试生成器：第一阶段生成与参考解决方案一致的测试，第二阶段将缓冲区限制在当前失败模式，并学习反例测试。在TACO和LiveCodeBench上，根据生成的测试，TCS提高了pass@1和推理时答案选择的效果。我们发现学习到的测试生成器也能在其他LLM输出之间进行有效选择。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+    "authors": "Weijie Liu, Running Zhao, Wenhao Yuan, Jinfeng Xu, Zhanfeng Xu, Xiaoxi Zhang, Edith Cheuk-Han Ngai",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.03416v1",
+    "source": "arXiv",
+    "abstract": "LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capability. However, the limited context capacity and one-sided discrepancy detection of existing single-agent LLM paradigms lead to an inferior recall performance in detecting discrepancies. In this paper, we propose Dude, the first Dual-Detection Multi-Agent System for paper-code discrepancy detection. We discover that the granularity asymmetry of the paper-language and code-language introduces over-interpretation and over-reporting challenges in a multi-agent system design for discrepancy detection, resulting in increasing false positives. To address this, we propose a granularity-aligned negotiation and a two-stage salience-filtering mechanism in Dude, which effectively prevents agents from falsely reporting discrepancies. Experimental results in real-world paper-code discrepancy datasets showcase Dude's significant recall and precision improvement by up to 22.8%, increasing F1 score by up to 18.7% compared to baseline methods.",
+    "title_zh": "Dude：一种用于论文-代码差异检测的双检测多智能体系统",
+    "abstract_zh": "随着研究提交数量的增长超出人工审核能力，基于大语言模型的论文-代码差异检测日益受到关注。然而，现有单智能体大语言模型范式的有限上下文容量和单方面差异检测能力，导致其在检测差异时召回率表现不佳。在本文中，我们提出了Dude，这是首个用于论文-代码差异检测的双检测多智能体系统。我们发现，论文语言与代码语言的粒度不对称性在差异检测的多智能体系统设计中会导致过度解释和过度报告的挑战，从而增加误报率。为解决这一问题，我们在Dude中提出了粒度对齐的协商机制和两阶段显著性过滤机制，有效防止智能体错误报告差异。在真实世界的论文-代码差异数据集上的实验结果表明，与基线方法相比，Dude的召回率和精确率显著提高了22.8%，F1分数提高了18.7%。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study",
+    "authors": "Kenneth Paulsen, Florian Tambon, Mike Papadakis, Shin Yoo",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.03702v1",
+    "source": "arXiv",
+    "abstract": "General-purpose code embeddings power tools for code search, classification, and retrieval. Compact transformer encoders for code typically rely on either human-written docstrings (labor-intensive and inconsistent) or mined structural signals such as execution traces (setting-specific and costly to collect). We empirically study an alternative: contrastive pretraining of small encoders with synthetically generated natural-language descriptions emphasizing code functionality and intent, paired with code in a dual-encoder framework at training and discarded at inference. We benchmark this approach against pretraining-based baselines, generalist LLMs, and embedding-specific models on eight retrieval, classification, and generation tasks across C, C++, and Java. Synthetic semantic supervision yields statistically significant gains over pretraining baselines of the same inference-time size on five of eight tasks, with parity on two more; once fine-tuned, it matches or exceeds zero-shot models two orders of magnitude larger on classification, and it stays on par with execution-aware supervision at matched pretraining data, suggesting a scalable, effective alternative to existing code-representation paradigms.",
+    "title_zh": "小型Transformer中用于对比代码表示学习的合成语义监督：一项实证研究",
+    "abstract_zh": "通用代码嵌入为代码搜索、分类和检索提供了工具支持。紧凑的代码转换器编码器通常依赖于人工编写的文档字符串（劳动密集且不一致）或挖掘的结构化信号（如执行轨迹，特定于应用场景且收集成本高）。我们实证研究了另一种替代方案：通过合成生成的自然语言描述（强调代码功能和意图）与小规模编码器进行对比预训练，在训练阶段采用双编码器框架将描述与代码配对，而在推理阶段则丢弃这些描述。我们在C、C++和Java语言上的八项检索、分类和生成任务中，将此方法与基于预训练的基线模型、通用大型语言模型以及特定嵌入模型进行了基准测试。在八项任务中的五项上，合成语义监督相较于相同推理规模下的预训练基线模型取得了统计学上的显著提升，在另外两项任务上表现相当；经过微调后，在分类任务上，其性能与规模大两个数量级的零样本模型相当或更优；在预训练数据量相当的情况下，其性能与执行感知监督相当，这表明它是一种可扩展且有效的现有代码表示范式替代方案。"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+    "authors": "Jie Wu, Zhenru Zhang, Beichen Zhang, Xuwu Wang, Yuhui Su, Mouxiang Chen, Peng Wang, Zhihai Wang, Que Shen, Hao Zhou, An Yang, Fei Huang, Yujiu Yang, Dayiheng Liu",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.04148v1",
+    "source": "arXiv",
+    "abstract": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environments from the trajectories themselves. Thus, we introduce Terminal-Universe, a framework which turns each trajectory into a reusable environment and explores it for synthesizing new tasks and continued interactions. Specifically, Terminal-Universe replays the file operations recorded in a trajectory to restore each file before the agent modified it, yielding a partial workspace; a completion agent then supplies the missing files and dependencies. On this recovered workspace, we both reconstruct the original intent task and synthesize entirely new ones. Besides, we also scale the tasks along two complementary axes: breadth and depth. For breadth, we mine directional dependency relations between related environments and synthesize cross-workspace queries spanning multiple codebases, as developers routinely do in real-world development. For depth, we extend the initial single-turn query into a multi-round session that captures iterative user feedback and requirement refinement via a user agent. Applied to public terminal agent trajectories, Terminal-Universe produces 37.3k task-sufficient environments. Supervised fine-tuning of Qwen3.5-27B on this corpus improves single-round performance on Terminal-Bench 2.1 by 11.9 points and multi-round performance on EvoCode-Bench v2 MT@4 by 13.8 points.",
+    "title_zh": "终端宇宙：将智能体轨迹转化为可扩展的终端环境",
+    "abstract_zh": "随着基于终端的代码代理日益普及，代理轨迹已大规模积累，而真实可执行的环境仍然稀缺。然而，环境正是代理后训练实际所需的：每个环境都可以被重新查询为多个可验证的任务，并提供执行反馈，而轨迹则是单一的固定演示。与其从头开始生成环境，我们注意到现有轨迹中的工具执行历史揭示了它们运行的环境的结构和内容，从而有可能从轨迹本身重建这些环境。因此，我们引入了Terminal-Universe，这是一个将每条轨迹转化为可重用环境并探索其以合成新任务和持续交互的框架。具体而言，Terminal-Universe重放轨迹中记录的文件操作，以在代理修改每个文件之前恢复它，从而产生一个部分工作空间；然后，一个补全代理提供缺失的文件和依赖项。在这个恢复的工作空间上，我们既重建了原始意图任务，又合成了全新的任务。此外，我们还沿着两个互补的维度扩展任务：广度和深度。对于广度，我们挖掘相关环境之间的方向依赖关系，并合成跨越多个代码库的跨工作空间查询，正如开发者在实际开发中经常做的那样。对于深度，我们将初始的单轮查询扩展为多轮会话，通过用户代理捕获迭代式用户反馈和需求细化。应用于公共终端代理轨迹，Terminal-Universe产生了37.3k个任务充分的环境。在该语料库上对Qwen3.5-27B进行监督微调，将Terminal-Bench 2.1上的单轮性能提高了11.9分，将EvoCode-Bench v2 MT@4上的多轮性能提高了13.8分。"
+  },
+  {
+    "date": "2026-9-4",
+    "title": "On the Effectiveness of Training Data Optimization for LLM-based Code Generation: An Empirical Study",
+    "authors": "Shiqi Kuang, Zhao Tian, Tao Xiao, Dong Wang, Junjie Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3844732",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于LLM的代码生成中训练数据优化的有效性：一项实证研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-4",
+    "title": "Deployment-Oriented Evaluation of LLM-Generated Optimization Code: Repairability, Compatibility, and Constraint-Coverage in Parallel-Machine Scheduling",
+    "authors": "Achraf Ghorbel, Nourchene Elleuch Ben Ayed, Keletso J. Letsholo, Mahdi Jemmali, Osama Hosam, Nagy Osman",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3730807",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向部署的LLM生成优化代码评估：并行机调度中的可修复性、兼容性和约束覆盖",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-4",
+    "title": "KconfigHealer: Leveraging Large Language Models for Repairing Linux Kernel Build Failures",
+    "authors": "Fangqi Bi, Qiwen Gong, Pengpeng Hou",
+    "publish": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "https://doi.org/10.1109/tdsc.2026.3730867",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "KconfigHealer：利用大型语言模型修复Linux内核构建失败",
+    "abstract_zh": "None"
+  }
+]
