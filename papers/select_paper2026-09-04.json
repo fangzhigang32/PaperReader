@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-9-4",
+    "title": "On the Effectiveness of Training Data Optimization for LLM-based Code Generation: An Empirical Study",
+    "authors": "Shiqi Kuang, Zhao Tian, Tao Xiao, Dong Wang, Junjie Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3844732",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于LLM的代码生成中训练数据优化的有效性：一项实证研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-4",
+    "title": "Deployment-Oriented Evaluation of LLM-Generated Optimization Code: Repairability, Compatibility, and Constraint-Coverage in Parallel-Machine Scheduling",
+    "authors": "Achraf Ghorbel, Nourchene Elleuch Ben Ayed, Keletso J. Letsholo, Mahdi Jemmali, Osama Hosam, Nagy Osman",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3730807",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向部署的LLM生成优化代码评估：并行机调度中的可修复性、兼容性和约束覆盖",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-4",
+    "title": "KconfigHealer: Leveraging Large Language Models for Repairing Linux Kernel Build Failures",
+    "authors": "Fangqi Bi, Qiwen Gong, Pengpeng Hou",
+    "publish": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "https://doi.org/10.1109/tdsc.2026.3730867",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "KconfigHealer：利用大型语言模型修复Linux内核构建失败",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-4",
+    "title": "Software Defect Prediction Using a Hybrid Deep Learning Model Based on Semantic Enhancement and Gating Mechanisms",
+    "authors": "Guanhua Guo, Yinglei Song",
+    "publish": "IEEE Software",
+    "url": "https://doi.org/10.1109/ms.2026.3692505",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于语义增强和门控机制的混合深度学习模型在软件缺陷预测中的应用",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-4",
+    "title": "Experimental Analysis of Productive Interaction Strategy with ChatGPT: User Study on Function and Project-level Code Generation Tasks",
+    "authors": "Sangwon Hyun, Hyunjun Kim, Jinhyuk Jang, Hyojin Choi, Muhammad Ali Babar",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3844949",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "与ChatGPT的交互式生成策略实验分析：面向功能级和项目级代码生成任务的用户研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-4",
+    "title": "A Semantic Ontology-Based Model for Solidity Smart Contracts with an LLM-Assisted Natural-Language Query Use Case",
+    "authors": "Udsanee Pakdeetrakulwong, Suksawat Saelim, Naruapon Suwanwijit",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3730876",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于语义本体模型的Solidity智能合约，并带有LLM辅助的自然语言查询用例",
+    "abstract_zh": "None"
+  }
+]
