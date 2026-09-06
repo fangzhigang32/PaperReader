@@ -1,0 +1,695 @@
+[
+  {
+    "date": "2026-9-5",
+    "title": "From Gardens to Landscapes: a new Foundation for Hypertext in the Age of Agentic LLMs",
+    "authors": "Lucia Lupi, Sam Brooker, Riccardo Fedriga, Davide Picca, Alessio Antonini",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830866",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Navigating Latent Worlds: A Hypertextual Taxonomy of World Models as Nonlinear Knowledge Structures",
+    "authors": "Raghav Sharma, Manan Mehta, Adit Kotwal",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830860",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Towards a Media Multiverse",
+    "authors": "Mattia Thibault",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830841",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Angry but Accurate: Detecting and Profiling the Counter-Misinformation Ecosystem on Twitter",
+    "authors": "Eun Cheol Choi, Emilio Ferrara",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830879",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval",
+    "authors": "Yu Zhang, Shutong Qiao, Jiaqi Zhang, Tzu-Heng Lin, Chen Gao, Yong Li",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3842663",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Hypertext Research Vademecum: Translating Experimental Systems into Conceptual Contributions",
+    "authors": "Alessio Antonini",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830881",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "The Link and the Journey: Hypertext at Civic Scale",
+    "authors": "Silas Hooper, Mark Bernstein",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830859",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Hypertextuality of Littorals: a Gap Analysis",
+    "authors": "Alessandro Adamou, Alessio Antonini, Francesca Benatti, Sally Blackburn-Daniels, Sam Brooker, John Domingue, Derek Matravers, Carlo Teo Pedretti, Davide Picca",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830884",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Tompkinsia: Data-Driven Commentary Augmentation for Critical Thinking",
+    "authors": "Sarah Abowitz, Sasha Spala, Gregory Crane",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830877",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation",
+    "authors": "Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, Nafise Moosavi, Wei Zhao, Tristan Miller",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3845596",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Hypertext as the Native Architecture of Reality",
+    "authors": "Andrzej Adamski, Władysław Błocki, Mariusz Pisarski, Marcin Szewczyk",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830889",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "Ethical Asymmetry in Human-Robot Interaction – An Empirical Test of Sparrow’s Hypothesis",
+    "authors": "Minyi Wang, Christoph Bartneck, Michael-John Turp, David Kaber",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3846192",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Edit-Distance Links: A Hypertextual Reading of Conditional-Tokenization World Models",
+    "authors": "Raghav Sharma, Manan Mehta, Vineeth Kalluru, Adit Kotwal",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830861",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Identifying Social Media Accounts That Explain Fandom Hashtags",
+    "authors": "Liuyun Ling, Keishi Tajima",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830960",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Phantom Links: Filling the Gap in Link Semantics",
+    "authors": "Mariusz Pisarski",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830888",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Connected Collaborations: Remediating Immersive Reading for Mental Wellbeing through AI",
+    "authors": "Francesca Benatti, Siobhan Campbell, Alessio Antonini",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830847",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Stigma and Support in Online Sexual Violence Narratives on Reddit",
+    "authors": "Shirlene Bandela, Karan Bindal, Vaibhav Garg, Rezvaneh Rezapour",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830853",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "“Half My Survey Data Is Bad; The Problem Is, I Can't Tell Which Half”: Evaluating the Validatability of Large-Scale Survey Data Using 176 Algorithmically Generated Personas",
+    "authors": "Bernard J. Jansen, Marwan Akari, Safa Amin, Soon-Gyo Jung, Danial Amin, Joni Salminen",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830835",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Beyond Exploration: AI-facilitated Information Visualization Structure for Complex Context Exploration and Decision-Making in Environmental Sustainability",
+    "authors": "Qiming Sun, Sharon I-Han Hsiao, Shih-Yi Chien",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830855",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "PersonaBase: A Formative Evaluation Study of Computational Resources for Data-Driven Personas",
+    "authors": "Joni Salminen, Danial Amin, Ilkka Kaate, Bernard J. Jansen",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830833",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "How Communities Process Layoffs: Appraisal, Coping, and Emotional Mediation on Reddit",
+    "authors": "Aparup Khatua",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Do You Feel Triggered? Analyzing Triggering Experiences Predominantly Shared by Women on Reddit",
+    "authors": "Shirlene Rose Bandela, Sanjeev Parthasarathy, Vaibhav Garg",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830849",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "User Perceptions and Responses to Minority Fairness in Music Recommendations and Item Labels",
+    "authors": "Shah Noor Khan, Eelco Herder, Libio Goncalves Braz, Karlijn Dinnissen, Judith Masthoff",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830871",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Apprehending Hypertext",
+    "authors": "Peter Nürnberg, Astrid Ensslin, Claus Atzenbeck",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830876",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Transhierarchy redux",
+    "authors": "Raine Revere, James Blustein",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830840",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework",
+    "authors": "Yiran Qiao, Xiang Ao, Yang Liu, Jiarong Xu, Xiaoqian Sun, Qing He",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3845996",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Beyond Verdicts: Explainable Fact-Checking via a Linguistically-Grounded Multi-Agent Framework",
+    "authors": "Pedro Henrique de Oliveira Silva, Lucas Raniére Juvino Santos, Leandro Balby Marinho, Claudio Elizio Calazans Campelo",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Hypertext and Security (SUNRISE'26)",
+    "authors": "Andrzej Adamski, Mariusz Pisarski",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3838298",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Designing GenAI-Supported Adaptive Hypermedia for Classical Chinese Poetry Learning: Expert-Informed Design Considerations",
+    "authors": "Wenjun Liu, Zhenhao Tian, Dake Liu, Charlie Hargood",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830852",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "Viewport-based Neural 360° Image Compression",
+    "authors": "Jingwei Liao, Bo Chen, Klara Nahrstedt, Zhisheng Yan",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3844943",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Spatially Arranging is Knowing: Spatial Hypertext as Method for Digital Folkloristics",
+    "authors": "Lisa Roßner, Sabine Slowik, Claus Atzenbeck, Peter Nürnberg",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830886",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Knowledge Graphs and Hypertext (HTKG'26)",
+    "authors": "Robert B Allen",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3838293",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Link-Traced Amplification: How Telegram Redistributes YouTube Political Content at Scale",
+    "authors": "Mateus Brito, Ester Souza, Thiago Braga, Giordano Paoletti, Luca Vassio, Jussara M. Almeida, Leonardo Rocha",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830834",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Bridging Digital and Publishing in the Humanities: Connecting Editorial Workflows through Open Standards",
+    "authors": "Elisa Bastianello, Christopher David Tomlinson",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830875",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Creative Reading: Scaffolding Reading for Transformation",
+    "authors": "Sophia Liu, Sarah Abowitz, Yijun Liu, Sarah Sterman, Shm Garanganao Almeda, Max Kreminski",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830891",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "YouTube Discourse During the Iran Conflict and the Afghanistan Withdrawal",
+    "authors": "Arthur Buzelin, Pedro Augusto Torres Bento, Yan Aquino Amorim, Arthur Rodrigues Chagas, Virgilio Almeida, Gisele Lobo Pappa, Wagner Meira Jr.",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830874",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "The XAI-Seeking Principle: Structuring Explainability for LLM-Mediated Decision Support",
+    "authors": "Valentin Grimm, Jessica Rubart, Eelco Herder, Carsten Röcker",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830869",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Beyond the Blue Link: Empirical Evaluation of Generative Engine Optimization in Stochastic Retrieval Systems",
+    "authors": "Manan Mehta, Raghav Sharma, Vineeth Kalluru, Adit Kotwal",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830864",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "A Graded Model of Semantic Commitment for Curated Cultural Heritage Data Integration",
+    "authors": "Polina Voronova, Alessandro Adamou",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830857",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Evaluating LLM-Based Grant Proposal Review via Structured Perturbations",
+    "authors": "William Thorne, Joseph James, Yang Wang, Chenghua Lin, Diana Maynard",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830838",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Learning as Graph Traversal",
+    "authors": "Jacob Puthipiroj",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830839",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Hyper-Personalized Virtual Companion: Generative Tamagotchi to Cultivate Personal Goals",
+    "authors": "Qiming Sun, Sharon I-Han Hsiao",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830854",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Linked Locative Ludonarrative and Heritage Hypertext Harmonies",
+    "authors": "Bob Rimington, Jack Brett, Charlie Hargood",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830844",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Narrative and Hypertext (NHT'26)",
+    "authors": "Charlie Hargood, David Millard",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3838295",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "The Efficiency Trap: Fragmented Curricula and AI-Driven Surface Learning in Higher Education",
+    "authors": "Małgorzata Rataj, Iryna Berezovska",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830885",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "A Reader’s Workbench: Reading With Friends",
+    "authors": "Mark Bernstein",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830862",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Entropy Dynamics for Early Warning in Reuse-Based Communication Networks: Monitoring Structural Reorganization under Limited Observability",
+    "authors": "Władysław Błocki, Marcin Szewczyk, Andrzej Adamski",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830867",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Us vs. Them: A Dataset of Political Othering in Brazilian WhatsApp Discourse",
+    "authors": "Daniel Kansaon, Fabricio Benevenuto, Diana Maynard",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830842",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Evidence Paths: Grounding LLM-Generated Hypotheses in Semantic Web Knowledge Graphs",
+    "authors": "Nicola Raffaele Di Matteo, James Blustein",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830863",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "The Assumed Reader: AI Agents, Hypertext, and the Vulnerable Limits of Interpretation",
+    "authors": "Meha Gupta, Akshat Joshi",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830883",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "The Emergence of Shared Meaning in Hypermedia Networks with No Central Gravity: The Case of Hypertext Conference 2026",
+    "authors": "Gabo Beaumont, Mark Anderson",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830848",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Permanently Under Construction",
+    "authors": "David E. Millard",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830837",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "CarDroid: Container-Based Architecture for Graphic-Intensive Tasks in Automotive Cockpits",
+    "authors": "Yun Wang, Bing Deng, Hongyu Zhang, Marc Mao, Senhao Yu, Yicheng Gu, Yong Yao, Yufan Jiang, Yijin Sun, Luhai Chen, Yu Wang, Hao Wang, Zhengwei Qi",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3834779",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Hyperlinking in VASTE Space",
+    "authors": "Dene Grigar, Andrew Thompson, Holly Slocum",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830858",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "ReSB²: Retrieving Similar Brazilian State Bills",
+    "authors": "Lucas Costa, Átila Souza, Elves Rodrigues, Rafael Glater, Mauricio Maia, Walter Santos, Marcelo Migueletto, Rodrygo Santos, Wagner Meira, Gisele Pappa",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830843",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "Stakeholder Perspectives on Whether and How Social Robots Can Support Self-Advocacy for Higher Education Students with Disabilities",
+    "authors": "Alva Markelius, Julie Bailey, Jenny L. Gibson, Hatice Gunes",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3846175",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "TrainShield: Targeted Awareness for Cybersecurity Training",
+    "authors": "Giovanni Pizzenti, Alberto Verna, Nikhil Jha, Giuseppe Tipaldo, Marco Mellia, Stefano Traverso",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830870",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "MemPrint: Constructing Program Memory Footprint Estimations using Statistical Methods from Sparsely Sampled Pin-based Memory Traces",
+    "authors": "Nafis Mustakin, Joseph Manzano, Daniel Wong",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3844952",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "LLiBTree: An Assessment of Usability and Trust of LLM-integrated Behavior Tree Nodes for Robot Programming",
+    "authors": "Yuki Matsutani, Yasuhiro Nitta, Maki Sugimoto",
+    "publish": "ACM Transactions on Interactive Intelligent Systems",
+    "url": "https://doi.org/10.1145/3845606",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "TestART: Improving LLM-based Unit\n                    <u>Test</u>\n                    ing via Co-evolution of\n                    <u>A</u>\n                    utomated Generation and\n                    <u>R</u>\n                    epair I\n                    <u>t</u>\n                    eration",
+    "authors": "Siqi Gu, Quanjun Zhang, Kecheng Li, Chunrong Fang, Fangyuan Tian, Liuchuan Zhu, Jianyi Zhou, Zhenyu Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3844945",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "The Future Is Not What It Used To Be: Hypertext, Note-Taking, And Tools for Thought",
+    "authors": "Mark W R Anderson",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830850",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "A Novel Tabular-to-Image Conversion Approach for Frontotemporal Dementia Progression Forecasting using Hybrid CNN-RNN Models",
+    "authors": "Km Poonam, Venkata Sathwik Kotra, Rajlakshmi Guha, Partha P Chakrabarti",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3845798",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "A Survey on Cyber Resilience in IoT Networks: Challenges, Mechanisms, and Future Directions",
+    "authors": "Foroozan Darbandeh, Muhammad Rizwan Asghar, Liqun Chen",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3845986",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Bringing the Web of Data to the Small Web: a Multi-Protocol Contract and the Chaykin Linked Data Server",
+    "authors": "Alessandro Adamou",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "A Collaborative Authoring Tool for Cultural Heritage in eXtended Reality",
+    "authors": "Ethan Southall, Vedad Hulusic, Charlie Hargood, David John, Niall O'hOisin",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830846",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Proceedings of the 37th ACM Conference on Hypertext",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3800935",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "“It’s a lot of work, but it’s a lot of fun.”",
+    "authors": "Sam Brooker, Chris Boucher",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830887",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Who Changes Their Mind? Exploring Stance Shifts in LLM-Based Social Media Simulations",
+    "authors": "Valerio La Gatta, Gian Marco Orlando, Marco Perillo, Ferdinando Tammaro, Vincenzo Moscato",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830836",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Reconstructing Peirce's Trails of Thought: Multimodal Computational Analysis of Non-Linear Manuscript Composition",
+    "authors": "Carlo Teo Pedretti",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "A Cost Model for Token Consumption of Hypermedia and the Model-Context-Protocol in Agentic Loops",
+    "authors": "Carson Gross, Matthew Revelle",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830851",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "Designing an MR-Based Educational System for Open-Storage Art Museums: A Case Study of MMCA Cheongju",
+    "authors": "Sangah Lee, Jaewon Choi, Hayoung Bae, Dayoung Lee, Jusub Kim, Sangyong Kim, Yongsoon Choi",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3844147",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Human Factors in Hypertext (HUMAN'26)",
+    "authors": "Claus Atzenbeck, Jessica Rubart",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3838292",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Hyperlayered Hypertext: Rethinking Human-Document Interaction with Agentic AI",
+    "authors": "Behnam Rahdari, Shriti Raj, Peter Brusilovsky",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830890",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "Travel Literature as Hypertext: Definition and Case Study of AI-enabled Interactive Explorations",
+    "authors": "Virginia Orlando, Alessandro Adamou, Alessio Antonini",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3830882",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-5",
+    "title": "The Media Multiverse as Hypertext",
+    "authors": "Cansu Çetin Er, Mattia Thibault",
+    "publish": "Proceedings of the 37th ACM Conference on Hypertext",
+    "url": "https://doi.org/10.1145/3800935.3838294",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "Information-Bottlenecked Variational Autoencoder for Top-\n                    <i>N</i>\n                    Recommendation via Gating Mechanism",
+    "authors": "XiaoBo Guo, Shaoshuai Li, Youru Li, Lu-an Dong, Zhenfeng Zhu",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3845987",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-6",
+    "title": "Compiling with the Sequent Calculus",
+    "authors": "Marius Müller, David Binder, Marco Tzschentke, Philipp Schuster, Klaus Ostermann, Jonathan Immanuel Brachthäuser",
+    "publish": "ACM Transactions on Programming Languages and Systems",
+    "url": "https://doi.org/10.1145/3845991",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

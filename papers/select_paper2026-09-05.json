@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-9-6",
+    "title": "TestART: Improving LLM-based Unit\n                    <u>Test</u>\n                    ing via Co-evolution of\n                    <u>A</u>\n                    utomated Generation and\n                    <u>R</u>\n                    epair I\n                    <u>t</u>\n                    eration",
+    "authors": "Siqi Gu, Quanjun Zhang, Kecheng Li, Chunrong Fang, Fangyuan Tian, Liuchuan Zhu, Jianyi Zhou, Zhenyu Chen",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3844945",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "TestART：通过自动化生成与修复迭代的协同进化改进基于大语言模型的单元测试",
+    "abstract_zh": "None"
+  }
+]
