@@ -1,13 +1,13 @@
 [
   {
-    "date": "2026-9-7",
-    "title": "A Novel Diplexer Composed of Two Pixelated Filters with Rapid AI-Driven Automated Design",
-    "authors": "Xiaoyang Yu, Xiaofei Hu, Xinyu Zhou, Xiaojun Fu, Hao Wu, Manlin Yang",
-    "publish": "2026 IEEE MTT-S International Wireless Symposium (IWS)",
-    "url": "https://doi.org/10.1109/iws69027.2026.11674566",
+    "date": "2026-9-8",
+    "title": "FlowFixer-EDA: A Tool-Feedback-Augmented Large Language Model Agent for Automated Diagnosis and Repair of Open-Source RTL-to-GDS Design Flow Failures",
+    "authors": "Ke Dong, Ruidong Wang, Fang Yuan, Baichun An, Xia Zhang",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3730896",
     "source": "IEEE",
     "abstract": "",
-    "title_zh": "一种由两个像素化滤波器组成的新型双工器，具有快速AI驱动自动设计功能",
+    "title_zh": "FlowFixer-EDA：一种工具反馈增强型大语言模型智能体，用于开源RTL到GDS设计流程故障的自动诊断与修复",
     "abstract_zh": "None"
   },
   {
@@ -29,40 +29,7 @@
     "url": "https://doi.org/10.1109/icws72778.2026.00132",
     "source": "IEEE",
     "abstract": "",
-    "title_zh": "通过版本过滤和大语言模型检测漏洞补丁提交",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-9-7",
-    "title": "Auditing Black-Box LLM APIs via Token Probabilities and Data Provenance: A Case Study in Source Code Generation",
-    "authors": "Subhankar Maity, Faiza Belbachir, Omar Boucelma, Guilherme Medeiros Machado",
-    "publish": "2026 IEEE International Conference on Web Services (ICWS)",
-    "url": "https://doi.org/10.1109/icws72778.2026.00083",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "通过令牌概率和数据来源审计黑盒大语言模型API：源代码生成案例研究",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-9-7",
-    "title": "RetNext: Code Retrieval for Repository-Level Next Edit Suggestion",
-    "authors": "Zhaoyuan Pan, Zheng Zhang, Cheng Cheng",
-    "publish": "Proceedings of the 2026 9th International Conference on Data Storage and Data Engineering",
-    "url": "https://doi.org/10.1145/3830340.3830348",
-    "source": "ACM",
-    "abstract": "None",
-    "title_zh": "RetNext：面向仓库级别下一次编辑建议的代码检索",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-9-7",
-    "title": "Decoupled Smart Contract Audits: Lightweight LLM Framework via Distillation and Aggregation",
-    "authors": "Bagus Rakadyanto Oktavianto Putra, Muhamad Risqi Utama Saputra, Guntur Dharma Putra",
-    "publish": "2026 IEEE International Conference on Web Services (ICWS)",
-    "url": "https://doi.org/10.1109/icws72778.2026.00118",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "解耦的智能合约审计：通过蒸馏和聚合的轻量级LLM框架",
+    "title_zh": "通过版本过滤和大语言模型检测漏洞修复提交",
     "abstract_zh": "None"
   }
 ]
