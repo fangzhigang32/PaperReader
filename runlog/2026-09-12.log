@@ -1,0 +1,249 @@
+[2026-09-13 23:54:35] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-09-12
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202609120000+TO+202609122359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ResponseError('too many 429 error responses'))
+[ACM] 2026-9-13 | AsymFlow: Enabling Long-Context LLM Serving via CPU-GPU Prefill-Decode Disaggregation
+[ACM] 2026-9-13 | FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training
+[ACM] 2026-9-13 | TFS: Tile-Aware SpMM–GeMM Fusion for Accelerating GNN Inference on Intel AMX
+[ACM] 2026-9-13 | MAGSAT: Memory-Access-Guided Fusion and Shape-Adaptive Auto-Tuning for Dynamic Tensor Programs
+[ACM] 2026-9-13 | Coflow Scheduling in Hybrid-Switched Data Center Networks under Not-All-Stop Reconfiguration
+[ACM] 2026-9-13 | RDPart: A reuse-based OS-level cache-partitioning policy for fairness optimization in cloud data centers
+[ACM] 2026-9-13 | Asynchronous Dispersion with Optimal Time Complexity
+[ACM] 2026-9-13 | RapidGEMM: An Efficient Tile-agnostic GEMM for Mixture-of-Experts Training
+[ACM] 2026-9-13 | WAQ-LLM: Optimizing Multi-Instance LLM Deployment via Workload-Aware Queueing Model
+[ACM] 2026-9-13 | CoTC-SpMM: A Cooperative Tensor–CUDA Cores Scheme for Efficient Sparse Matrix Multiplication
+[ACM] 2026-9-13 | Chameleon: Adaptive Bidirectional Pipeline Parallelism for Edge Collaborative Training
+[ACM] 2026-9-13 | RSC: Enabling High-Performance RDMA for Serverless Services with Adaptive Network Multiplexing
+[ACM] 2026-9-13 | Scalable Exact Path Selection via Structure-Aware Search for Virtual Payment Channels
+[ACM] 2026-9-13 | Bypass-Enabled Topology-Agnostic Multicast Router for Fault-Tolerant Network-on-Chips
+[ACM] 2026-9-13 | Parallel Prefix Filter Search for Weighted Jaccard Similarity
+[ACM] 2026-9-13 | Edge-Cloud Collaborative RAG with Multi-State Semantic Caching
+[ACM] 2026-9-13 | RPSC: Robust LLM Scheduling by Tolerating Prediction Inaccuracy and Mitigating Tail Latency
+[ACM] 2026-9-13 | StreamTrace: Fast Trace Analysis for Large-Scale Parallel Applications on a Single Node
+[ACM] 2026-9-13 | Proceedings of the 55th International Conference on Parallel Processing
+[ACM] 2026-9-13 | ZSWP: Rollback-Free Spherical ε-Join for Scalable Astronomical Cross-Matching on Heterogeneous Supercomputer Architectures
+[ACM] 2026-9-13 | SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection for Post-Deduplication
+[ACM] 2026-9-13 | AFH-SpMM: Auto-Fit Heterogeneous Block Sparse-Dense Matrix Multiplication on Tensor Core GPUs
+[ACM] 2026-9-13 | Elasticity in Parallel Sparse Triangular Solve
+[ACM] 2026-9-13 | MOPAR: A Model Partitioning Framework for Deep Learning Inference Services on Serverless Platforms
+[ACM] 2026-9-13 | PIM-Forge: Toward Autonomous PIM Kernel Synthesis through Constraint-Guided Hardware Exploration
+[ACM] 2026-9-13 | Low-bit and Sparsified Gradient Communication for Accelerating Distributed Deep Learning with Convergence Guarantees
+[ACM] 2026-9-13 | RayFST: Accelerating Finite-State Transducer Composition with Ray Tracing Cores
+[ACM] 2026-9-13 | DiCTR: A Distributed Lightweight Second-Order Optimization Algorithm for Deep Model Training
+[ACM] 2026-9-13 | ZNStore: Decomposing the B+Tree Write Path for Zoned Namespace SSDs
+[ACM] 2026-9-13 | Revealing NVIDIA Closed-Source Driver Command Streams for CPU–GPU Runtime Behavior Insight
+[ACM] 2026-9-13 | Sparsity-aware Fine-Grained Parallelization for Set Intersection Computations in Graph Datasets
+[ACM] 2026-9-13 | AIE-HE: Accelerating Client-Side Processing of Homomorphic Encryption on AMD AI Engine
+[ACM] 2026-9-12 | Introduction to the Special Issue for the Symposium on Algorithmic Game Theory (SAGT) 2024
+[ACM] 2026-9-13 | Thinking Globally, Acting Locally: Merge Sort's Auto-Vectorization on Shuffle-Heavy ISAs
+[ACM] 2026-9-13 | A Low-Overhead, Lightweight, Lossless GPU Compression Algorithm for Numerical Simulations
+[ACM] 2026-9-13 | Online Scheduling of Battery-Aware Speculative Decoding for Energy-Efficient Cloud-Edge Collaborative LLM Inference
+[ACM] 2026-9-13 | FNR: A Probabilistic Data Repair Scheme for Reed-Solomon Coded Storage Amid Network Fluctuations
+[ACM] 2026-9-13 | High-Performance Virtual Screening Based on Parallel Molecular Dynamics Simulations with Early Termination
+[ACM] 2026-9-13 | GroupKV: Hierarchical KV Cache Management for Long-Context Diffusion LLM Inference
+[ACM] 2026-9-13 | SSQT: A Hardware-Friendly Fusion Compression Framework of Structured Sparsification and Sensitivity-Driven Quantization for Large-Scale Language Models
+[ACM] 2026-9-13 | AtomFlow: Accelerating GNN-Based Molecular Dynamics with ab initio Accuracy on Fugaku Supercomputer
+[ACM] 2026-9-13 | Pagoda: Time and Energy Rooflines for DNN Workloads on Edge Accelerators Across Power Modes
+[ACM] 2026-9-13 | In-Copy Fusion: Runtime Argument Fusion for Efficient OpenMP GPU Offloading
+[ACM] 2026-9-13 | Microservices Scheduling with ReS Model: Characterization, Regulation and Metrics
+[ACM] 2026-9-13 | Memory-Aware Joint Optimisation of Partitioning and Scheduling for Pipeline-Parallel Training
+[ACM] 2026-9-13 | PIM-Pai: Boosting the Performance of Index Structures with Minimal Effort on Processing-in-Memory Architecture
+[ACM] 2026-9-13 | Query Density-Driven Partitioning for Spatiotemporal Load Balancing on Processing-in-Memory Systems
+[ACM] 2026-9-13 | HGB+-Tree: An Hourglass-like B+-tree for Persistent Memory
+[ACM] 2026-9-13 | CmptQuiet: Optimizing Tail Latency and Throughput in LSM-Tree Key-Value Stores via Contention-Aware Compaction
+[ACM] 2026-9-13 | Tempest: A GPU-Accelerated Engine for Streaming Temporal Random Walks
+[ACM] 2026-9-13 | SQUASH: Distributed Square Estimation with Provable Error Bounds for Dynamic Graphs
+[ACM] 2026-9-13 | ActiveRDMA: SmartNIC-offloaded, Multi-Step RDMA operations
+[ACM] 2026-9-13 | RSH-SpMM: A Row-Structured Hybrid Kernel for Sparse Matrix-Matrix Multiplication on GPUs
+[ACM] 2026-9-13 | OmniPipe: Efficient, Flexible and Scalable Pipeline Parallelism for Large Model Training
+[ACM] 2026-9-13 | BP-MDS: Million-Scale Approximate CVRP in Minutes via Parallel Divide-and-Conquer
+[ACM] 2026-9-13 | A Neuromorphic Dual-Stage Swin Transformer for Wetland Classification on Edge Platforms
+[ACM] 2026-9-13 | Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds
+[ACM] 2026-9-13 | PruneInfer: Exact Full-Neighborhood GNN Inference of Large Datasets on a Single GPU via Full Topology Pruning
+[ACM] 2026-9-13 | Adaptive Operator Fusion with Subproblem Decomposition for Enhanced Memory Efficiency
+[ACM] 2026-9-13 | MigMoE: Task-Aware Expert Migration for Faster and More Balanced Expert-Parallel MoE Inference
+[ACM] 2026-9-13 | ReLA: Representation Learning and Aggregation for Scalable Job Scheduling with Reinforcement Learning
+[ACM] 2026-9-13 | VILIB++: High Performance C++ Library for Auto-Vectorizing Interval Arithmetic
+[ACM] 2026-9-13 | Heterogeneous SLO Guaranteed Multi-Resource-Aware Batching in LLM Serving
+[ACM] 2026-9-13 | Scalable RL-Based Online Scheduling Framework for Modular Process Systems
+[ACM] 2026-9-13 | Accelerating Long-Tail Generation in Synchronous RLHF Training via Adaptive Tensor Parallelism
+[ACM] 2026-9-13 | DyGMIS: Fast and Scalable Fully Dynamic MIS Maintenance on Large Evolving Graphs
+[ACM] 2026-9-13 | Chapel for Parallel AND Distributed GPU Computing: A Case Study with Jaccard Similarity
+[ACM] 2026-9-13 | PipeTree: Decision Tree Partitioning for Efficient Inference on Programmable Switches
+[ACM] 2026-9-13 | DdlRT: A deterministic data layout for efficient redundancy transitioning in erasure-coded systems
+[ACM] 2026-9-13 | MServerSim: A Modular Design based Simulation Technique for Modern AI Servers
+[ACM] 2026-9-13 | MEDO: Adaptive Multi-Stream Data Offloading for Efficient Management of Disaggregated Memory Pool
+[ACM] 2026-9-13 | From 2^N to N^2: Tree-Free Scalable Sparse Symmetric Tucker Decomposition
+[ACM] 2026-9-13 | Hierarchical Shared Memory-Aware Optimization for TRSM on GPU Platforms
+[ACM] 2026-9-13 | NeuroPrefetcher: Storage-Aware Sparse LLM Inference via Delta Prefetching
+[ACM] 2026-9-13 | Bit-Efficient Tensor Core Acceleration for High-Order Shallow-Water Dynamical Core
+[ACM] 2026-9-13 | RODIS: Accelerating Sparse Matrix Multiplication on GPU via Row-Orchestration and Dynamic Instruction Scheduling
+[ACM] 2026-9-13 | FaaSHive: Addressing Limited Visibility in Function-as-a-Service via Worker-driven Scheduling
+[ACM] 2026-9-13 | Duet: Orchestrating Full-Duplex-Aware Proactive Demotion in CXL Tiered Memory
+[ACM] 2026-9-13 | MX-KMeans: Accelerating K-Means Clustering through Microscaling Quantization
+[ACM] 2026-9-13 | ReliefServe: Relieving GPU Pressure in Multi-Model Serving via Selective CPU Escape
+[ACM] 2026-9-13 | Decentralized Learning with Communication-Efficient Learned Gradient Sketches
+[ACM] 2026-9-13 | Tensos: Fast and Accurate Federated GBDT Training via Tentative Feature Shrinking on Stragglers
+[ACM] 2026-9-13 | Contraction Hierarchies for Parallel Sequence-to-Graph Alignment
+[ACM] 2026-9-13 | GCL-Sampler: Discovering Kernel Similarity for Sampled GPU Simulation via Graph Contrastive Learning
+[ACM] 2026-9-13 | MiTDM: Eliminating False Conflicts in Scalable MVCC in Disaggregated Memory
+[ACM] 2026-9-13 | IHS-LM: Intra-batch Hybrid Scheduling and Layer Migration for VLM Pipeline Inference Acceleration on Edge Devices
+[ACM] 2026-9-13 | Cross-Layer Performance Analysis of Single-GPU Large Language Model Inference
+[ACM] 2026-9-13 | CrossServe: Cross-Layer Scheduling for SLO Optimization in Multi-Tenant LLM Serving
+[ACM] 2026-9-13 | Offline Signal Reconstruction and Time-dependent Roofline analysis for Always-on Monitoring
+[ACM] 2026-9-13 | Governing Global ASID/PCID Management for QoS Isolation in Shared-Kernel Mixed-Priority Systems
+[ACM] 2026-9-13 | PG-Tune: Prediction-Guided Distributed Storage System Tuning without Repeated Online Benchmarking
+[ACM] 2026-9-13 | High-Performance Star-M SVD for Big Data Compression
+[ACM] 2026-9-13 | QMScaler: A QoS-Constrained Resource-Efficient Microservice Autoscaling Framework for Edge Environments
+[ACM] 2026-9-13 | BAG: Faster Matrix Multiplication on a Single GPU
+[ACM] 2026-9-13 | Algorithm--Hardware Co-Design of Spiking Transformers for In-Memory Neuromorphic Edge Vision
+[ACM] 2026-9-13 | Large-Scale Quantum Circuit Simulation on HPC Cluster via Cache Blocking, Boosting, and Gate Fusion Optimization
+[ACM] 2026-9-13 | AccESM: Packed-Total Exact Inference for CPU ESM2 Embedding
+[ACM] 2026-9-13 | Breaking the Single-Entry Bottleneck: Dynamic Write Routing for Heterogeneous Key-Value Stores
+[ACM] 2026-9-13 | S2PAR: Scalable Surface Code Ancilla Routing Card for Distributed Fault-Tolerant Quantum Computing
+[ACM] 2026-9-13 | CARE-MoE: Correlation-Aware Expert Placement and Semantic Equivalence Routing for MoE LLM Inference on Edge Devices
+[ACM] 2026-9-13 | A SYCLic Investigation of SYCL Ecosystems: UniSYCL for Heterogeneous Scaling
+[ACM] 2026-9-13 | TileSpMM: A Variable-Size Tiled Algorithm for Sparse Matrix-Matrix Multiplication on Tensor Cores
+[ACM] 2026-9-13 | Towards High-Fidelity yet Low-Overhead Gradient Compression for In-Network Aggregation
+[ACM] 2026-9-13 | Fine-grained Computation-Communication Overlap via Tile-level Signaling and Scheduling for Mixture-of-Experts
+[ACM] 2026-9-13 | ATLAS: Enabling an Asynchronous State-Aware Pipeline for Efficient Training of Temporal Graph Neural Networks
+[ACM] 2026-9-13 | MillionQAOA: A Dividable QAOA Framework for Solving Million-Vertex-Scale Max-Cut Problems
+[ACM] 2026-9-13 | TileGEMM: Boosting the Performance of GEMM on AMX-Powered CPUs by Exploiting Data Reuse
+[ACM] 2026-9-13 | Async-Checkpoint: Redesigning Gradient Checkpointing with Asynchronous Execution
+[ACM] 2026-9-13 | PINCH: Predictive Importance-Sampling-Informed Cache for I/O-Bound DNN Training
+[ACM] 2026-9-13 | Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models
+[ACM] 2026-9-13 | Cuckoo-GPU: Accelerating Cuckoo Filters on Modern GPUs
+[ACM] 2026-9-13 | MIGServe: Layout-Aware Multi-Instance GPU Management for Efficient LLM Serving
+[ACM] 2026-9-13 | Toward Continuous Service in Enterprise-Level Distributed Block Storage Systems
+[ACM] 2026-9-13 | AeroFlow:Accelerating Serverless Workflows through Serialization-Free WebAssembly Execution
+[ACM] 2026-9-13 | BR-MoE: A Memory-Budget-Aware Co-Design Framework for Efficient MoE Inference on Resource-Constrained GPUs
+[ACM] 2026-9-13 | SCPFL: A Safety Reinforcement Learning Framework for Joint Energy-Fairness Optimization in Long-term Federated Learning
+[ACM] 2026-9-13 | Vadar: Runtime Performance Variance Detection and Diagnosis for Parallel Applications
+[ACM] 2026-9-13 | DB-SpMSpV: Dual-View Blocked Sparse Matrix-Sparse Vector Multiplication for Dynamic GPU Workloads
+[ACM] 2026-9-13 | Breaking the Migration Barrier: Hardware-Software Co-Designed Translation Coherence for Tiered Memory
+共写入 119 条记录，保存到 papers/paper2026-09-12.json。
+论文获取成功，文件路径: papers/paper2026-09-12.json
+正在筛选、翻译并发送邮件...
+[NO] 1/119 | AsymFlow: Enabling Long-Context LLM Serving via CPU-GPU Prefill-Decode Disaggregation
+[NO] 2/119 | FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training
+[NO] 3/119 | TFS: Tile-Aware SpMM–GeMM Fusion for Accelerating GNN Inference on Intel AMX
+[NO] 4/119 | MAGSAT: Memory-Access-Guided Fusion and Shape-Adaptive Auto-Tuning for Dynamic Tensor Programs
+[NO] 5/119 | Coflow Scheduling in Hybrid-Switched Data Center Networks under Not-All-Stop Reconfiguration
+[NO] 6/119 | RDPart: A reuse-based OS-level cache-partitioning policy for fairness optimization in cloud data centers
+[NO] 7/119 | Asynchronous Dispersion with Optimal Time Complexity
+[NO] 8/119 | RapidGEMM: An Efficient Tile-agnostic GEMM for Mixture-of-Experts Training
+[NO] 9/119 | WAQ-LLM: Optimizing Multi-Instance LLM Deployment via Workload-Aware Queueing Model
+[NO] 10/119 | CoTC-SpMM: A Cooperative Tensor–CUDA Cores Scheme for Efficient Sparse Matrix Multiplication
+[NO] 11/119 | Chameleon: Adaptive Bidirectional Pipeline Parallelism for Edge Collaborative Training
+[NO] 12/119 | RSC: Enabling High-Performance RDMA for Serverless Services with Adaptive Network Multiplexing
+[NO] 13/119 | Scalable Exact Path Selection via Structure-Aware Search for Virtual Payment Channels
+[NO] 14/119 | Bypass-Enabled Topology-Agnostic Multicast Router for Fault-Tolerant Network-on-Chips
+[NO] 15/119 | Parallel Prefix Filter Search for Weighted Jaccard Similarity
+[NO] 16/119 | Edge-Cloud Collaborative RAG with Multi-State Semantic Caching
+[NO] 17/119 | RPSC: Robust LLM Scheduling by Tolerating Prediction Inaccuracy and Mitigating Tail Latency
+[NO] 18/119 | StreamTrace: Fast Trace Analysis for Large-Scale Parallel Applications on a Single Node
+[NO] 19/119 | Proceedings of the 55th International Conference on Parallel Processing
+[NO] 20/119 | ZSWP: Rollback-Free Spherical ε-Join for Scalable Astronomical Cross-Matching on Heterogeneous Supercomputer Architectures
+[NO] 21/119 | SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection for Post-Deduplication
+[NO] 22/119 | AFH-SpMM: Auto-Fit Heterogeneous Block Sparse-Dense Matrix Multiplication on Tensor Core GPUs
+[NO] 23/119 | Elasticity in Parallel Sparse Triangular Solve
+[NO] 24/119 | MOPAR: A Model Partitioning Framework for Deep Learning Inference Services on Serverless Platforms
+[NO] 25/119 | PIM-Forge: Toward Autonomous PIM Kernel Synthesis through Constraint-Guided Hardware Exploration
+[NO] 26/119 | Low-bit and Sparsified Gradient Communication for Accelerating Distributed Deep Learning with Convergence Guarantees
+[NO] 27/119 | RayFST: Accelerating Finite-State Transducer Composition with Ray Tracing Cores
+[NO] 28/119 | DiCTR: A Distributed Lightweight Second-Order Optimization Algorithm for Deep Model Training
+[NO] 29/119 | ZNStore: Decomposing the B+Tree Write Path for Zoned Namespace SSDs
+[NO] 30/119 | Revealing NVIDIA Closed-Source Driver Command Streams for CPU–GPU Runtime Behavior Insight
+[NO] 31/119 | Sparsity-aware Fine-Grained Parallelization for Set Intersection Computations in Graph Datasets
+[NO] 32/119 | AIE-HE: Accelerating Client-Side Processing of Homomorphic Encryption on AMD AI Engine
+[NO] 33/119 | Introduction to the Special Issue for the Symposium on Algorithmic Game Theory (SAGT) 2024
+[NO] 34/119 | Thinking Globally, Acting Locally: Merge Sort's Auto-Vectorization on Shuffle-Heavy ISAs
+[NO] 35/119 | A Low-Overhead, Lightweight, Lossless GPU Compression Algorithm for Numerical Simulations
+[NO] 36/119 | Online Scheduling of Battery-Aware Speculative Decoding for Energy-Efficient Cloud-Edge Collaborative LLM Inference
+[NO] 37/119 | FNR: A Probabilistic Data Repair Scheme for Reed-Solomon Coded Storage Amid Network Fluctuations
+[NO] 38/119 | High-Performance Virtual Screening Based on Parallel Molecular Dynamics Simulations with Early Termination
+[NO] 39/119 | GroupKV: Hierarchical KV Cache Management for Long-Context Diffusion LLM Inference
+[NO] 40/119 | SSQT: A Hardware-Friendly Fusion Compression Framework of Structured Sparsification and Sensitivity-Driven Quantization for Large-Scale Language Models
+[NO] 41/119 | AtomFlow: Accelerating GNN-Based Molecular Dynamics with ab initio Accuracy on Fugaku Supercomputer
+[NO] 42/119 | Pagoda: Time and Energy Rooflines for DNN Workloads on Edge Accelerators Across Power Modes
+[NO] 43/119 | In-Copy Fusion: Runtime Argument Fusion for Efficient OpenMP GPU Offloading
+[NO] 44/119 | Microservices Scheduling with ReS Model: Characterization, Regulation and Metrics
+[NO] 45/119 | Memory-Aware Joint Optimisation of Partitioning and Scheduling for Pipeline-Parallel Training
+[NO] 46/119 | PIM-Pai: Boosting the Performance of Index Structures with Minimal Effort on Processing-in-Memory Architecture
+[NO] 47/119 | Query Density-Driven Partitioning for Spatiotemporal Load Balancing on Processing-in-Memory Systems
+[NO] 48/119 | HGB+-Tree: An Hourglass-like B+-tree for Persistent Memory
+[NO] 49/119 | CmptQuiet: Optimizing Tail Latency and Throughput in LSM-Tree Key-Value Stores via Contention-Aware Compaction
+[NO] 50/119 | Tempest: A GPU-Accelerated Engine for Streaming Temporal Random Walks
+[NO] 51/119 | SQUASH: Distributed Square Estimation with Provable Error Bounds for Dynamic Graphs
+[NO] 52/119 | ActiveRDMA: SmartNIC-offloaded, Multi-Step RDMA operations
+[NO] 53/119 | RSH-SpMM: A Row-Structured Hybrid Kernel for Sparse Matrix-Matrix Multiplication on GPUs
+[NO] 54/119 | OmniPipe: Efficient, Flexible and Scalable Pipeline Parallelism for Large Model Training
+[NO] 55/119 | BP-MDS: Million-Scale Approximate CVRP in Minutes via Parallel Divide-and-Conquer
+[NO] 56/119 | A Neuromorphic Dual-Stage Swin Transformer for Wetland Classification on Edge Platforms
+[NO] 57/119 | Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds
+[NO] 58/119 | PruneInfer: Exact Full-Neighborhood GNN Inference of Large Datasets on a Single GPU via Full Topology Pruning
+[NO] 59/119 | Adaptive Operator Fusion with Subproblem Decomposition for Enhanced Memory Efficiency
+[NO] 60/119 | MigMoE: Task-Aware Expert Migration for Faster and More Balanced Expert-Parallel MoE Inference
+[NO] 61/119 | ReLA: Representation Learning and Aggregation for Scalable Job Scheduling with Reinforcement Learning
+[NO] 62/119 | VILIB++: High Performance C++ Library for Auto-Vectorizing Interval Arithmetic
+[NO] 63/119 | Heterogeneous SLO Guaranteed Multi-Resource-Aware Batching in LLM Serving
+[NO] 64/119 | Scalable RL-Based Online Scheduling Framework for Modular Process Systems
+[NO] 65/119 | Accelerating Long-Tail Generation in Synchronous RLHF Training via Adaptive Tensor Parallelism
+[NO] 66/119 | DyGMIS: Fast and Scalable Fully Dynamic MIS Maintenance on Large Evolving Graphs
+[NO] 67/119 | Chapel for Parallel AND Distributed GPU Computing: A Case Study with Jaccard Similarity
+[NO] 68/119 | PipeTree: Decision Tree Partitioning for Efficient Inference on Programmable Switches
+[NO] 69/119 | DdlRT: A deterministic data layout for efficient redundancy transitioning in erasure-coded systems
+[NO] 70/119 | MServerSim: A Modular Design based Simulation Technique for Modern AI Servers
+[NO] 71/119 | MEDO: Adaptive Multi-Stream Data Offloading for Efficient Management of Disaggregated Memory Pool
+[NO] 72/119 | From 2^N to N^2: Tree-Free Scalable Sparse Symmetric Tucker Decomposition
+[NO] 73/119 | Hierarchical Shared Memory-Aware Optimization for TRSM on GPU Platforms
+[NO] 74/119 | NeuroPrefetcher: Storage-Aware Sparse LLM Inference via Delta Prefetching
+[NO] 75/119 | Bit-Efficient Tensor Core Acceleration for High-Order Shallow-Water Dynamical Core
+[NO] 76/119 | RODIS: Accelerating Sparse Matrix Multiplication on GPU via Row-Orchestration and Dynamic Instruction Scheduling
+[NO] 77/119 | FaaSHive: Addressing Limited Visibility in Function-as-a-Service via Worker-driven Scheduling
+[NO] 78/119 | Duet: Orchestrating Full-Duplex-Aware Proactive Demotion in CXL Tiered Memory
+[NO] 79/119 | MX-KMeans: Accelerating K-Means Clustering through Microscaling Quantization
+[NO] 80/119 | ReliefServe: Relieving GPU Pressure in Multi-Model Serving via Selective CPU Escape
+[NO] 81/119 | Decentralized Learning with Communication-Efficient Learned Gradient Sketches
+[NO] 82/119 | Tensos: Fast and Accurate Federated GBDT Training via Tentative Feature Shrinking on Stragglers
+[NO] 83/119 | Contraction Hierarchies for Parallel Sequence-to-Graph Alignment
+[NO] 84/119 | GCL-Sampler: Discovering Kernel Similarity for Sampled GPU Simulation via Graph Contrastive Learning
+[NO] 85/119 | MiTDM: Eliminating False Conflicts in Scalable MVCC in Disaggregated Memory
+[NO] 86/119 | IHS-LM: Intra-batch Hybrid Scheduling and Layer Migration for VLM Pipeline Inference Acceleration on Edge Devices
+[NO] 87/119 | Cross-Layer Performance Analysis of Single-GPU Large Language Model Inference
+[NO] 88/119 | CrossServe: Cross-Layer Scheduling for SLO Optimization in Multi-Tenant LLM Serving
+[NO] 89/119 | Offline Signal Reconstruction and Time-dependent Roofline analysis for Always-on Monitoring
+[NO] 90/119 | Governing Global ASID/PCID Management for QoS Isolation in Shared-Kernel Mixed-Priority Systems
+[NO] 91/119 | PG-Tune: Prediction-Guided Distributed Storage System Tuning without Repeated Online Benchmarking
+[NO] 92/119 | High-Performance Star-M SVD for Big Data Compression
+[NO] 93/119 | QMScaler: A QoS-Constrained Resource-Efficient Microservice Autoscaling Framework for Edge Environments
+[NO] 94/119 | BAG: Faster Matrix Multiplication on a Single GPU
+[NO] 95/119 | Algorithm--Hardware Co-Design of Spiking Transformers for In-Memory Neuromorphic Edge Vision
+[NO] 96/119 | Large-Scale Quantum Circuit Simulation on HPC Cluster via Cache Blocking, Boosting, and Gate Fusion Optimization
+[NO] 97/119 | AccESM: Packed-Total Exact Inference for CPU ESM2 Embedding
+[NO] 98/119 | Breaking the Single-Entry Bottleneck: Dynamic Write Routing for Heterogeneous Key-Value Stores
+[NO] 99/119 | S2PAR: Scalable Surface Code Ancilla Routing Card for Distributed Fault-Tolerant Quantum Computing
+[NO] 100/119 | CARE-MoE: Correlation-Aware Expert Placement and Semantic Equivalence Routing for MoE LLM Inference on Edge Devices
+[NO] 101/119 | A SYCLic Investigation of SYCL Ecosystems: UniSYCL for Heterogeneous Scaling
+[NO] 102/119 | TileSpMM: A Variable-Size Tiled Algorithm for Sparse Matrix-Matrix Multiplication on Tensor Cores
+[NO] 103/119 | Towards High-Fidelity yet Low-Overhead Gradient Compression for In-Network Aggregation
+[NO] 104/119 | Fine-grained Computation-Communication Overlap via Tile-level Signaling and Scheduling for Mixture-of-Experts
+[NO] 105/119 | ATLAS: Enabling an Asynchronous State-Aware Pipeline for Efficient Training of Temporal Graph Neural Networks
+[NO] 106/119 | MillionQAOA: A Dividable QAOA Framework for Solving Million-Vertex-Scale Max-Cut Problems
+[NO] 107/119 | TileGEMM: Boosting the Performance of GEMM on AMX-Powered CPUs by Exploiting Data Reuse
+[NO] 108/119 | Async-Checkpoint: Redesigning Gradient Checkpointing with Asynchronous Execution
+[NO] 109/119 | PINCH: Predictive Importance-Sampling-Informed Cache for I/O-Bound DNN Training
+[NO] 110/119 | Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models
+[NO] 111/119 | Cuckoo-GPU: Accelerating Cuckoo Filters on Modern GPUs
+[NO] 112/119 | MIGServe: Layout-Aware Multi-Instance GPU Management for Efficient LLM Serving
+[NO] 113/119 | Toward Continuous Service in Enterprise-Level Distributed Block Storage Systems
+[NO] 114/119 | AeroFlow:Accelerating Serverless Workflows through Serialization-Free WebAssembly Execution
+[NO] 115/119 | BR-MoE: A Memory-Budget-Aware Co-Design Framework for Efficient MoE Inference on Resource-Constrained GPUs
+[NO] 116/119 | SCPFL: A Safety Reinforcement Learning Framework for Joint Energy-Fairness Optimization in Long-term Federated Learning
+[NO] 117/119 | Vadar: Runtime Performance Variance Detection and Diagnosis for Parallel Applications
+[NO] 118/119 | DB-SpMSpV: Dual-View Blocked Sparse Matrix-Sparse Vector Multiplication for Dynamic GPU Workloads
+[NO] 119/119 | Breaking the Migration Barrier: Hardware-Software Co-Designed Translation Coherence for Tiered Memory
+筛选完成：共 119 篇；Yes = 0 篇；已保存到 papers/select_paper2026-09-12.json。
+邮件发送成功！
+[2026-09-14 00:04:29] 任务执行成功！

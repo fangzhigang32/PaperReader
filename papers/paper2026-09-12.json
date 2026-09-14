@@ -1,0 +1,1073 @@
+[
+  {
+    "date": "2026-9-13",
+    "title": "AsymFlow: Enabling Long-Context LLM Serving via CPU-GPU Prefill-Decode Disaggregation",
+    "authors": "Junwen Zhang, Weiling Yang, Jianbin Fang, Enda Yu, Dezun Dong",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832866",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training",
+    "authors": "Yushu Cai, Qingrui Zhu, Lei Liu, Kai Sheng, Hao Chen, Xin He",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832847",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "TFS: Tile-Aware SpMM–GeMM Fusion for Accelerating GNN Inference on Intel AMX",
+    "authors": "Xiao Yan, Haodong Bian, Xiaoying Wang, Tengfei Cao, Jianqiang Huang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832855",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MAGSAT: Memory-Access-Guided Fusion and Shape-Adaptive Auto-Tuning for Dynamic Tensor Programs",
+    "authors": "Haodong Deng, Jianuo Sheng, Wenhao Dai, Fangxin Liu, Qingxiao Sun",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832874",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Coflow Scheduling in Hybrid-Switched Data Center Networks under Not-All-Stop Reconfiguration",
+    "authors": "Xin Wang, Hong Shen, Hui Tian",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832863",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "RDPart: A reuse-based OS-level cache-partitioning policy for fairness optimization in cloud data centers",
+    "authors": "Javier Aznal, Juan Carlos Saez, Carlos Bilbao",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832897",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Asynchronous Dispersion with Optimal Time Complexity",
+    "authors": "Debasish Pattanayak, Ajay D. Kshemkalyani, Manish Kumar, Anisur Rahaman Molla, Gokarna Sharma",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832921",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "RapidGEMM: An Efficient Tile-agnostic GEMM for Mixture-of-Experts Training",
+    "authors": "Le Xu, Yutao Sun, Yingbo Hao, Li Dong, Yilei Yang, Weijiang Xu, Youshan Miao, Hangbo Bao, Furu Wei, Qiong Luo",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832915",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "WAQ-LLM: Optimizing Multi-Instance LLM Deployment via Workload-Aware Queueing Model",
+    "authors": "Jiaxin Lai, Yizhou Luo, Qiang Wang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832865",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "CoTC-SpMM: A Cooperative Tensor–CUDA Cores Scheme for Efficient Sparse Matrix Multiplication",
+    "authors": "Qin Du, Shengle Lin, Yuedan Chen, Guoqing Xiao, Marc Casas, Kenli Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832857",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Chameleon: Adaptive Bidirectional Pipeline Parallelism for Edge Collaborative Training",
+    "authors": "Tao Liu, Xiangpeng Hou, Liying Li, Peijin Cong, Dan Meng, Junlong Zhou",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832895",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "RSC: Enabling High-Performance RDMA for Serverless Services with Adaptive Network Multiplexing",
+    "authors": "Wendi Song, Guangping Xu, Yangyang Fan, Yu Li, Lei Yang, Yunjie Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832927",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Scalable Exact Path Selection via Structure-Aware Search for Virtual Payment Channels",
+    "authors": "Jiangnan Luo, Zhebei Shen, Yuan Zhang, Sheng Zhong",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Bypass-Enabled Topology-Agnostic Multicast Router for Fault-Tolerant Network-on-Chips",
+    "authors": "Juntae Jung, Tae Hee Han",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832845",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Parallel Prefix Filter Search for Weighted Jaccard Similarity",
+    "authors": "Sankalpa Pokharel, Alima Subedi, Elizabeth Oluwadamilola Durowoju, Satish Puri",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832888",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Edge-Cloud Collaborative RAG with Multi-State Semantic Caching",
+    "authors": "Kang Liu, Guangping Xu, Yaru Fu, Mingyuan Ding, Yuxin Wu, Junhui Li, Lei Yang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "RPSC: Robust LLM Scheduling by Tolerating Prediction Inaccuracy and Mitigating Tail Latency",
+    "authors": "Guosheng Xiao, Xuan Mo, Jialun Li, Weigang Wu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832840",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "StreamTrace: Fast Trace Analysis for Large-Scale Parallel Applications on a Single Node",
+    "authors": "Yuyang Jin, Jidong Zhai",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832838",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Proceedings of the 55th International Conference on Parallel Processing",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3832810",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "ZSWP: Rollback-Free Spherical ε-Join for Scalable Astronomical Cross-Matching on Heterogeneous Supercomputer Architectures",
+    "authors": "Yuhao Yuan, Ce Yu, Jingwen Xing, Hao Fu, Yajie Zhang, Chen Wang, Bin Yang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832883",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection for Post-Deduplication",
+    "authors": "Zhenyu Cai, Xuming Ye, Wenlong Tian, Ruixuan Li, Haozhao Wang, Jianfeng Lu, Zhenrui He, Zhiyong Xu, Palash Yuvraj Ingle",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832926",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "AFH-SpMM: Auto-Fit Heterogeneous Block Sparse-Dense Matrix Multiplication on Tensor Core GPUs",
+    "authors": "Zhirui Chen, Heng Zhang, Kaifan Jia",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832843",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Elasticity in Parallel Sparse Triangular Solve",
+    "authors": "Raphael Sebastian Steiner, Christos Konstantinos Matzoros, Pál András Papp, Toni Boehnlein, Albert-Jan N. Yzelman",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832901",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MOPAR: A Model Partitioning Framework for Deep Learning Inference Services on Serverless Platforms",
+    "authors": "Jiaang Duan, Shiyou Qian, Hanwen Hu, Jian Cao, Guangtao Xue",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832925",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "PIM-Forge: Toward Autonomous PIM Kernel Synthesis through Constraint-Guided Hardware Exploration",
+    "authors": "Yixing Du, Qingyun Tang, Lixiao Cui, Yusen Li, Gang Wang, Xiaoguang Liu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832867",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Low-bit and Sparsified Gradient Communication for Accelerating Distributed Deep Learning with Convergence Guarantees",
+    "authors": "Jiaqi Li, Shaohuai Shi, Jing Peng, Tiejun Wang, Jiqing Gu, Xi Wu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832826",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "RayFST: Accelerating Finite-State Transducer Composition with Ray Tracing Cores",
+    "authors": "Tianao Ge, Xiaowen Chu, Hongyuan Liu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832858",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "DiCTR: A Distributed Lightweight Second-Order Optimization Algorithm for Deep Model Training",
+    "authors": "Ruidong Yan, Liang Jin, Li Wang, Hongwei Zhang, Zhenhua Guo, Yinan Tang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832839",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "ZNStore: Decomposing the B+Tree Write Path for Zoned Namespace SSDs",
+    "authors": "Bo Chen, Jinlei Hu, Chengxiao Gong, Jianxi Chen, Dan Feng",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832815",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Revealing NVIDIA Closed-Source Driver Command Streams for CPU–GPU Runtime Behavior Insight",
+    "authors": "Yuang Yan, Ian Karlin, Ryan Grant",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832812",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Sparsity-aware Fine-Grained Parallelization for Set Intersection Computations in Graph Datasets",
+    "authors": "Atharva Gondhalekar, Wu-chun Feng",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832910",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "AIE-HE: Accelerating Client-Side Processing of Homomorphic Encryption on AMD AI Engine",
+    "authors": "Haruto Katakura, Ai Nozaki, Motoharu Tsuboi, Takuya Kojima, Hiroshi Nakamura, Hideki Takase",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832849",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-12",
+    "title": "Introduction to the Special Issue for the Symposium on Algorithmic Game Theory (SAGT) 2024",
+    "authors": "Guido Schäfer, Carmine Ventre",
+    "publish": "ACM Transactions on Economics and Computation",
+    "url": "https://doi.org/10.1145/3844354",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Thinking Globally, Acting Locally: Merge Sort's Auto-Vectorization on Shuffle-Heavy ISAs",
+    "authors": "Jincheng Zhou, Jin Zhang, Xiang Zhang, Tiaojie Xiao, Chunye Gong",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832882",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "A Low-Overhead, Lightweight, Lossless GPU Compression Algorithm for Numerical Simulations",
+    "authors": "Téodora Hovi, François Letierce, Laurent Lucas",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832902",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Online Scheduling of Battery-Aware Speculative Decoding for Energy-Efficient Cloud-Edge Collaborative LLM Inference",
+    "authors": "Hengdi Wang, Lei Jiao, Konglin Zhu, Lin Zhang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832825",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "FNR: A Probabilistic Data Repair Scheme for Reed-Solomon Coded Storage Amid Network Fluctuations",
+    "authors": "Huizhao Feng, Yikun Hu, Zhen Luo, Tao Lu, Huizhang Luo, Kenli Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832880",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "High-Performance Virtual Screening Based on Parallel Molecular Dynamics Simulations with Early Termination",
+    "authors": "Shingo Okuno, Natsuki Kanazawa, Takuto Koyama, Takashi Katoh, Shigeyuki Matsumoto, Yasushi Okuno",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832919",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "GroupKV: Hierarchical KV Cache Management for Long-Context Diffusion LLM Inference",
+    "authors": "Jinhao Wang, Zhexin Hu, Kangjie Zhou, Xin Zhou, Fangfang Liu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832896",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "SSQT: A Hardware-Friendly Fusion Compression Framework of Structured Sparsification and Sensitivity-Driven Quantization for Large-Scale Language Models",
+    "authors": "Qiansheng Song, Guolin Tang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832814",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "AtomFlow: Accelerating GNN-Based Molecular Dynamics with ab initio Accuracy on Fugaku Supercomputer",
+    "authors": "Yiming Du, Mingzhen Li, Lijun Liu, Guangming Tan, Weile Jia",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832920",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Pagoda: Time and Energy Rooflines for DNN Workloads on Edge Accelerators Across Power Modes",
+    "authors": "Prashanthi S. K., Kunal Kumar Sahoo, Amartya Ranjan Saikia, Pranav Gupta, Atharva Vinay Joshi, Priyanshu Pansari, Yogesh Simmhan",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832912",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "In-Copy Fusion: Runtime Argument Fusion for Efficient OpenMP GPU Offloading",
+    "authors": "Dionysios-Odysseas Sotiropoulos, Sara Royuela Alcázar, Eduardo Quiñones, Alessandro Capotondi, Andrea Marongiu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832841",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Microservices Scheduling with ReS Model: Characterization, Regulation and Metrics",
+    "authors": "Zichen Xu, Zijun Li, Quan Chen, Jiuchen Shi, Zhuang Yang, Zhen Wang, Qisong Zheng, Wenjie Zhang, Minyi Guo",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832834",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Memory-Aware Joint Optimisation of Partitioning and Scheduling for Pipeline-Parallel Training",
+    "authors": "Ning Wang, Andrea Raith, Oliver Sinnen",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832891",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "PIM-Pai: Boosting the Performance of Index Structures with Minimal Effort on Processing-in-Memory Architecture",
+    "authors": "Lixiao Cui, Kedi Yang, Zhuoran Wang, Xinming Yuan, Yusen Li, Gang Wang, Xiaoguang Liu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Query Density-Driven Partitioning for Spatiotemporal Load Balancing on Processing-in-Memory Systems",
+    "authors": "Takato Hideshima, Shigeyuki Sato, Tomoharu Ugawa",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832916",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "HGB+-Tree: An Hourglass-like B+-tree for Persistent Memory",
+    "authors": "Hai Yang, Chaoshu Yang, Runyu Zhang, Yu Peng",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832852",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "CmptQuiet: Optimizing Tail Latency and Throughput in LSM-Tree Key-Value Stores via Contention-Aware Compaction",
+    "authors": "Jiufei Liu, Kaiyuan Xu, Shu Yin",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832846",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Tempest: A GPU-Accelerated Engine for Streaming Temporal Random Walks",
+    "authors": "Md Ashfaq Salehin, George Parisis, Luc Berthouze",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832885",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "SQUASH: Distributed Square Estimation with Provable Error Bounds for Dynamic Graphs",
+    "authors": "Shaikh Arifuzzaman, Shubhashish Kar",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832917",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "ActiveRDMA: SmartNIC-offloaded, Multi-Step RDMA operations",
+    "authors": "Jerónimo Sánchez García, Peter-Jan Gootzen, Raphaël Frantz, Zach Tiffany, Manjunath Gorentla Venkata, Juan José Vegas Olmos, Sokol Kosta, Flavio Vella, Salvatore Di Girolamo",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832860",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "RSH-SpMM: A Row-Structured Hybrid Kernel for Sparse Matrix-Matrix Multiplication on GPUs",
+    "authors": "Aiying Li, Jingwei Sun, Han Li, Wence Ji, Junqing Lin, Guangzhong Sun",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832853",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "OmniPipe: Efficient, Flexible and Scalable Pipeline Parallelism for Large Model Training",
+    "authors": "Jun Li, Zhi Ma, Shigang Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832820",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "BP-MDS: Million-Scale Approximate CVRP in Minutes via Parallel Divide-and-Conquer",
+    "authors": "Chekkala Sandeep Reddy, Lakshya Rani P, Somesh Singh, Rajesh Pandian Muniasamy, Rupesh Nasre",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832887",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "A Neuromorphic Dual-Stage Swin Transformer for Wetland Classification on Edge Platforms",
+    "authors": "Hongjiang Deng, Wenhua Hu, Haohui Peng, Yixing Li, Mengying Hu, Jianwen Xiang, Rui Hao",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832871",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds",
+    "authors": "Guangqiang Luan, Pu Pang, Quan Chen, Chen Chen, Wenda Tang, Deze Zeng, Li Li, Senbo Fu, Miaohe Lin, Xueqi Wu, Qian Peng, Minyi Guo",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832813",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "PruneInfer: Exact Full-Neighborhood GNN Inference of Large Datasets on a Single GPU via Full Topology Pruning",
+    "authors": "Liyang Wu, Menghan Jia, Chunye Gong, Xinhai Chen, Pan Dong, Dongsheng Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Adaptive Operator Fusion with Subproblem Decomposition for Enhanced Memory Efficiency",
+    "authors": "Heng Shi, Xiaofeng Guan, Jianguo Yao",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832848",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MigMoE: Task-Aware Expert Migration for Faster and More Balanced Expert-Parallel MoE Inference",
+    "authors": "Xueyuan Han, Zinuo Cai, Zhuolong Jiang, Rui Zhang, Ruhui Ma",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832811",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "ReLA: Representation Learning and Aggregation for Scalable Job Scheduling with Reinforcement Learning",
+    "authors": "Zhengyi Kwan, Wei Zhang, Aik Beng Ng, Zhengkui Wang, Simon See",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832899",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "VILIB++: High Performance C++ Library for Auto-Vectorizing Interval Arithmetic",
+    "authors": "Xingjian Qi, Robert Strzodka",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832828",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Heterogeneous SLO Guaranteed Multi-Resource-Aware Batching in LLM Serving",
+    "authors": "Haiying Shen, Tanmoy Sen, Yuxiong He",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832922",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Scalable RL-Based Online Scheduling Framework for Modular Process Systems",
+    "authors": "Mingrui Yin, Hao Zhang, Chenxin Cai, Jie Liu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832881",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Accelerating Long-Tail Generation in Synchronous RLHF Training via Adaptive Tensor Parallelism",
+    "authors": "Long Zhao, Qinghe Wang, Jiaan Zhu, Youhui Bai, Zewen Jin, Chaoyi Ruan, Shannon Wang, Cheng Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832831",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "DyGMIS: Fast and Scalable Fully Dynamic MIS Maintenance on Large Evolving Graphs",
+    "authors": "Prajjwal Nijhara, Agam Harpreet Singh, Aditya Trivedi, Dip Sankar Banerjee",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832923",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Chapel for Parallel AND Distributed GPU Computing: A Case Study with Jaccard Similarity",
+    "authors": "Paul Sathre, Wu-chun Feng",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832909",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "PipeTree: Decision Tree Partitioning for Efficient Inference on Programmable Switches",
+    "authors": "Jiawei Huang, Xin Li, Yijun Li, Xiaojuan Lu, Zhaoyi Li, Tao Zhang, Jingling Liu, Zhangwen Lu, Shaodong Huang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832864",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "DdlRT: A deterministic data layout for efficient redundancy transitioning in erasure-coded systems",
+    "authors": "Xiaotong Geng, Haoqi Duan, Liangliang Xu, Tingting Chen, Cunchen Hu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832879",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MServerSim: A Modular Design based Simulation Technique for Modern AI Servers",
+    "authors": "Rengang Li, Yinan Tang, Ruidong Yan, Zhenhua Guo, Endong Wang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832832",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MEDO: Adaptive Multi-Stream Data Offloading for Efficient Management of Disaggregated Memory Pool",
+    "authors": "Jing Wang, Hanzhang Yang, Chao Li, Xinkai Wang, Taolei Wang, Jinyang Guo, Minyi Guo, Jie Meng, Shuangfu Zeng",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832890",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "From 2^N to N^2: Tree-Free Scalable Sparse Symmetric Tucker Decomposition",
+    "authors": "Yongseok Soh, Shruti Shivakumar, Jiajia Li, Jee Choi, Ramakrishnan Kannan",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832856",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Hierarchical Shared Memory-Aware Optimization for TRSM on GPU Platforms",
+    "authors": "xinzhe Chen, haowei Li, lijuan Hu, wenjing Ma, fangfang Liu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832817",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "NeuroPrefetcher: Storage-Aware Sparse LLM Inference via Delta Prefetching",
+    "authors": "Nobel Dhar, Md Romyull Islam, Xuechen Zhang, Gongjin Sun, Sahidul Islam, Bobin Deng, Kun Suo",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832862",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Bit-Efficient Tensor Core Acceleration for High-Order Shallow-Water Dynamical Core",
+    "authors": "Jienan Yao, Lilong Zhou, Heng Li, Wei Xue",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832913",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "RODIS: Accelerating Sparse Matrix Multiplication on GPU via Row-Orchestration and Dynamic Instruction Scheduling",
+    "authors": "Jianfeng Cui, Bo Yuan, Zekun Jiang, Kai Lu, Sheng Liu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832908",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "FaaSHive: Addressing Limited Visibility in Function-as-a-Service via Worker-driven Scheduling",
+    "authors": "Seonggyu Han, Sangwoong Kim, Minho Kim, Myeongjae Jeon, Daehoon Kim",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832876",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Duet: Orchestrating Full-Duplex-Aware Proactive Demotion in CXL Tiered Memory",
+    "authors": "Shengsong Kong, Lizhao Zhang, Shufan He, Zhenzhou Ji, Zhongchuan Fu, Malik Saad Nawaz, Yifan Wan, Yue Yu, Yinghao Zheng, Tianyu Hu, Kim Jei, Yufa Yang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832842",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MX-KMeans: Accelerating K-Means Clustering through Microscaling Quantization",
+    "authors": "Rongtian Fu, Dongbo Lv, Xueying Wang, Shigang Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832837",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "ReliefServe: Relieving GPU Pressure in Multi-Model Serving via Selective CPU Escape",
+    "authors": "Shijie Peng, Yanying Lin, Chengzhi Lu, Shuaipeng Wu, Chengzhong Xu, Kejiang Ye",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832827",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Decentralized Learning with Communication-Efficient Learned Gradient Sketches",
+    "authors": "Zehua Cheng, Wei Dai, Jiahao Sun",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832830",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Tensos: Fast and Accurate Federated GBDT Training via Tentative Feature Shrinking on Stragglers",
+    "authors": "Shipeng Hu, Guangyan Zhang, Junyu Wei, Yang Wang, Jiming Xu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832861",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Contraction Hierarchies for Parallel Sequence-to-Graph Alignment",
+    "authors": "Aranya Banerjee, Srinivas Aluru",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832911",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "GCL-Sampler: Discovering Kernel Similarity for Sampled GPU Simulation via Graph Contrastive Learning",
+    "authors": "Jiaqi Wang, Jingwei Sun, Jiyu Luo, Han Li, Guangzhong Sun",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832904",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MiTDM: Eliminating False Conflicts in Scalable MVCC in Disaggregated Memory",
+    "authors": "Aoxin Wei, Jintian Wu, Jian Zhou, RunJie Yu, Ruijin Wu, Fei Wu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832875",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "IHS-LM: Intra-batch Hybrid Scheduling and Layer Migration for VLM Pipeline Inference Acceleration on Edge Devices",
+    "authors": "Yun Li, Tianfu Pang, Zhiyu Cai, Zhenxiang Pan, Yingchi Mao, Jie Wu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832886",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Cross-Layer Performance Analysis of Single-GPU Large Language Model Inference",
+    "authors": "Zongxing Zhao, Xiaqing Li, Zekai Meng, Zhengjun Fu, Qian Wang, Yanling Zhang, Yidong Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832894",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "CrossServe: Cross-Layer Scheduling for SLO Optimization in Multi-Tenant LLM Serving",
+    "authors": "Jiahe Li, Jiabin Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832859",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Offline Signal Reconstruction and Time-dependent Roofline analysis for Always-on Monitoring",
+    "authors": "Bengisu Elis, Cristian Santiago Vargas Ortiz, Josef Weidendorfer, Martin Schulz",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832903",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Governing Global ASID/PCID Management for QoS Isolation in Shared-Kernel Mixed-Priority Systems",
+    "authors": "Zhaomeng Deng, Ziqi Zhang, Peng Jiang, Yunfeng Ye, Yuxin Ren, Ning Jia, Xinwei Hu, Yao Guo, Ding Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832824",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "PG-Tune: Prediction-Guided Distributed Storage System Tuning without Repeated Online Benchmarking",
+    "authors": "Weiming Zhang, Chengyu Ma, Haijun Zhang, Yu Liu, Peng Wang, Xiaojun Guo, Fengkui Yang, Ke Zhou",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832829",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "High-Performance Star-M SVD for Big Data Compression",
+    "authors": "Md Taufique Hussain, Grey Ballard, Aditya Devarakonda, Srinivas Eswar, Naman Pesricha, Vishwas Rao",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832889",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "QMScaler: A QoS-Constrained Resource-Efficient Microservice Autoscaling Framework for Edge Environments",
+    "authors": "Tianyang Zheng, Pengfei Yang, Zhe Xu, Wenkai Lv, Hui Zeng, Hui Li, Shenwei Xu, Quan Wang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832816",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "BAG: Faster Matrix Multiplication on a Single GPU",
+    "authors": "Yao Liu, Yewen Li, Zhonghai Zhang, Erlin Yao, Guangming Tan, Weile Jia",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832836",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Algorithm--Hardware Co-Design of Spiking Transformers for In-Memory Neuromorphic Edge Vision",
+    "authors": "Yixing Li, Wenhua Hu, Haohui Peng, Hongjiang Deng, Mengying Hu, Jianwen Xiang, Rui Hao",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832823",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Large-Scale Quantum Circuit Simulation on HPC Cluster via Cache Blocking, Boosting, and Gate Fusion Optimization",
+    "authors": "Chuan-Chi Wang, Yan-Jie Wang, Chia-Heng Tu, Shih-Hao Hung",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832819",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "AccESM: Packed-Total Exact Inference for CPU ESM2 Embedding",
+    "authors": "Wenhao Sun, Panpan Cui, Yiqi Liu, Wanyu Wang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832854",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Breaking the Single-Entry Bottleneck: Dynamic Write Routing for Heterogeneous Key-Value Stores",
+    "authors": "Ruisong Zhou, Liang Bao, Haijun Zhang, Peng Wang, Chunhua Li, Ke Zhou",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832884",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "S2PAR: Scalable Surface Code Ancilla Routing Card for Distributed Fault-Tolerant Quantum Computing",
+    "authors": "Samuel Stein, Shuwen Kan, Charles Guinn, Esin Tureci, Guus Avis, Chenxu Liu, Zefan Du, Margaret Martonosi, Stefan Krastanov, Ying Mao, Andrew A. Houck, Ang Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832924",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "CARE-MoE: Correlation-Aware Expert Placement and Semantic Equivalence Routing for MoE LLM Inference on Edge Devices",
+    "authors": "Zhenyu Wang, Wei Li, Ao Ren, Duo Liu, Bo Zhang, Kan Zhong, Chaoxia Qin, Haoyang Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832869",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "A SYCLic Investigation of SYCL Ecosystems: UniSYCL for Heterogeneous Scaling",
+    "authors": "Nabayan Chaudhury, Norihisa Fujita, Beau Johnston, Taisuke Boku, Wu-chun Feng",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832914",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "TileSpMM: A Variable-Size Tiled Algorithm for Sparse Matrix-Matrix Multiplication on Tensor Cores",
+    "authors": "Hongwei Zeng, Shuqin Feng, Haocheng Lian, Yuechen Lu, Weifeng Liu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832918",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Towards High-Fidelity yet Low-Overhead Gradient Compression for In-Network Aggregation",
+    "authors": "Jin Wang, Chenye Zhu, Jinbin Hu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832850",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Fine-grained Computation-Communication Overlap via Tile-level Signaling and Scheduling for Mixture-of-Experts",
+    "authors": "Minyu Cui, Anna Wingkvist, Morgan Ericsson",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832907",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "ATLAS: Enabling an Asynchronous State-Aware Pipeline for Efficient Training of Temporal Graph Neural Networks",
+    "authors": "Yongchun Jiang, Yongchao Liu, Kaifan Jia, Heng Zhang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832844",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MillionQAOA: A Dividable QAOA Framework for Solving Million-Vertex-Scale Max-Cut Problems",
+    "authors": "Xie-Ru Li, Po-Hsuan Huang, Chia-Heng Tu, Shih-Hao Hung",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832900",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "TileGEMM: Boosting the Performance of GEMM on AMX-Powered CPUs by Exploiting Data Reuse",
+    "authors": "Kangkang Chen, Huayou Su, Menghan Jia, Yong Dou",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832818",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Async-Checkpoint: Redesigning Gradient Checkpointing with Asynchronous Execution",
+    "authors": "Changhao Ma, Suping Wu, Jiawei Dai, Jie Yang, Hao Xu, Dong Qiang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832892",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "PINCH: Predictive Importance-Sampling-Informed Cache for I/O-Bound DNN Training",
+    "authors": "Yuchen Liu, Shu Yin",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832851",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models",
+    "authors": "Qianpiao Ma, Xiaozhu Song, Junlong Zhou, Yue Zeng, Jianchun Liu, Huaqing Tu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832835",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Cuckoo-GPU: Accelerating Cuckoo Filters on Modern GPUs",
+    "authors": "Tim Dortmann, Markus Vieth, Bertil Schmidt",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832822",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "MIGServe: Layout-Aware Multi-Instance GPU Management for Efficient LLM Serving",
+    "authors": "Jianwen Chen, Yunkai Liang, Bin Gao, Zhi Zhou, Fei Xu, Xu Chen, Deke Guo",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832898",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Toward Continuous Service in Enterprise-Level Distributed Block Storage Systems",
+    "authors": "Jun Li, Liang Chen, Wenzhang Wu, Mingzhe Hu",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832870",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "AeroFlow:Accelerating Serverless Workflows through Serialization-Free WebAssembly Execution",
+    "authors": "Wang Xiong, Zhida Jiang, Zhuocheng Ge, Xi Wang, Chuan Luo, Tianyu Wo, Chunming Hu, Renyu Yang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832905",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "BR-MoE: A Memory-Budget-Aware Co-Design Framework for Efficient MoE Inference on Resource-Constrained GPUs",
+    "authors": "Lei Jiang, Jingwei Sun, Junqing Lin, Han Li, Mingge Lu, Yinghua Zhou, Guangzhong Sun",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832877",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "SCPFL: A Safety Reinforcement Learning Framework for Joint Energy-Fairness Optimization in Long-term Federated Learning",
+    "authors": "Siwei Xue, Gang Li",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832833",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Vadar: Runtime Performance Variance Detection and Diagnosis for Parallel Applications",
+    "authors": "Yifan Jia, Shuang Niu, Yuhang Hu, Chunbao Zhou, Ningming Nie, Jue Wang, Yangang Wang",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832893",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "DB-SpMSpV: Dual-View Blocked Sparse Matrix-Sparse Vector Multiplication for Dynamic GPU Workloads",
+    "authors": "Xing Cong, Chenhao Xie, Rui Wang, Zhongzhi Luan, Yi Liu, Depei Qian",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832821",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-13",
+    "title": "Breaking the Migration Barrier: Hardware-Software Co-Designed Translation Coherence for Tiered Memory",
+    "authors": "Fengkun Dong, Shaoxuan He, Wei Long, Guoqing Xiao, Wangdong Yang, Kenli Li, Marc Casas",
+    "publish": "Proceedings of the 55th International Conference on Parallel Processing",
+    "url": "https://doi.org/10.1145/3832810.3832906",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
