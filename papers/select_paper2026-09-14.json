@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-9-14",
+    "title": "Code Generation from Regression Trees for Microsecond-Scale Decisions in Operating Systems",
+    "authors": "Birte Friesel, Marcel Lütke Dreimann, Olaf Spinczyk",
+    "publish": "Proceedings of the 14th Workshop on Programming Languages and Operating Systems",
+    "url": "https://doi.org/10.1145/3831586.3838141",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从回归树生成代码用于操作系统中的微秒级决策",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-14",
+    "title": "Proof-Carrying-BPF Programs for the eBPF Verifier",
+    "authors": "Yalu Cai, Santosh Nagarakatte",
+    "publish": "Proceedings of the 4th Workshop on eBPF and Kernel Extensions",
+    "url": "https://doi.org/10.1145/3837779.3838158",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "用于eBPF验证器的携带证明的BPF程序",
+    "abstract_zh": "None"
+  }
+]
