@@ -1,5 +1,170 @@
 [
   {
+    "date": "2026-09-14",
+    "title": "Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale",
+    "authors": "Aman Priyanshu, Supriti Vijay, Kimia Majd, Xuhong He, Fraser Burch, Takahiro Matsumoto, Jianliang He, Baturay Saglam, Arthur Goldblatt, Zhuoran Yang, Amin Karbasi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15939v1",
+    "source": "arXiv",
+    "abstract": "Language-model agents increasingly operate over complete software repositories, yet cybersecurity evaluations primarily measure whether they can detect, reproduce, or repair vulnerabilities rather than whether they can locate the relevant code. We study vulnerability localization: given a weakness class and an unfamiliar repository, identify the implementation files associated with that weakness. We introduce the Vulnerability Localization Benchmark (VLoc Bench), comprising 500 real world vulnerabilities from 290 repositories across six package ecosystems and 147 CWE categories. Each task pairs repository snapshots immediately before and after a security fix. On the vulnerable snapshot, an agent receives only the CWE description and read-only terminal access and must return the affected files; on the patched snapshot, it must determine that the recorded vulnerability is no longer present. We evaluate 27 language models and four static-analysis tools under a common agent interface. Repository-scale vulnerability localization remains difficult: the strongest system achieves 0.229 File F1, and 38.4% of tasks receive no correct localization from any evaluated model. We further find that stronger localization does not imply reliable behavior after remediation: systems that identify vulnerable files effectively can still report unsupported locations on patched repositories. These results establish vulnerability localization as a distinct repository-scale capability and provide a setting for studying both how security agents search for vulnerable code and when they should refrain from reporting it.",
+    "title_zh": "漏洞定位基准：在代码库规模下衡量智能安全分析能力",
+    "abstract_zh": "语言模型代理越来越多地操作完整的软件仓库，然而网络安全评估主要衡量它们能否检测、复制或修复漏洞，而非能否定位相关代码。我们研究漏洞定位：给定一个弱点类别和一个不熟悉的仓库，识别与该弱点相关的实现文件。我们引入了漏洞定位基准测试（VLoc Bench），包含来自290个仓库、跨越六个包生态系统和147个CWE类别的500个真实世界漏洞。每个任务将安全修复前后的仓库快照配对。在存在漏洞的快照中，代理仅接收CWE描述和只读终端访问权限，必须返回受影响的文件；在已修复的快照中，它必须确定记录的漏洞已不存在。我们在通用代理界面下评估了27个语言模型和四种静态分析工具。仓库规模的漏洞定位仍然困难：最强系统仅达到0.229的文件F1分数，38.4%的任务在所有评估模型中未收到任何正确的定位结果。我们还发现，更强的定位能力并不意味着修复后的可靠行为：能够有效识别漏洞文件的系统在已修复的仓库上仍可能报告不支持的定位。这些结果将漏洞定位确立为一项独特的仓库级能力，并为研究安全代理如何搜索漏洞代码以及何时应避免报告漏洞提供了设置。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Externalizing Requirement-to-Repair Artifacts as Observable Traces for LLM-Based Program Repair",
+    "authors": "Zewen Tao, Shin-nosuke Ishikawa",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.14913v1",
+    "source": "arXiv",
+    "abstract": "Repository-level repair requires not only correct patches but also inspectable records that explain how issue requirements are translated into code changes and post-edit evidence. We contribute THEMIS, a stage-aware repair workflow that externalizes this requirement-to-repair process through semantic interpretation, a runtime requirement-code graph, graph-derived Developer guidance, retained repair rationale and patches, and post-edit audit records. A retrospective audit of 300 SWE-bench Lite cases demonstrates that these artifacts provide broad support for cross-stage inspection: a complete Developer rationale is available for 288 cases, and 214 cases (71.3%) retain a complete audited field set connecting the selected stages. The retained records further enable systematic measurement of cross-stage correspondence: target symbols recur in 62.6% of Developer rationales and in 62.8% of patches, rising to 75.8% when related symbols are included. In a paired 100-case comparison, the relational workflow resolves 19 cases versus 9 for the direct same-input condition; because the two conditions also differ in Analyzer output, graph-derived distillation, and Judge records, we report this as preliminary, workflow-level evidence rather than a causal effect of the graph component. Together, these results show that THEMIS makes otherwise implicit requirement-to-repair transitions inspectable, enabling systematic examination of how repair decisions persist, align, and evolve across stages.",
+    "title_zh": "将需求到修复工件外部化为可观测痕迹以支持基于大语言模型的程序修复",
+    "abstract_zh": "仓库级修复不仅需要正确的补丁，还需要可检查的记录，以说明问题需求如何转化为代码变更和编辑后证据。我们贡献了THEMIS，一个分阶段的修复工作流，它通过语义解释、运行时需求-代码图、派生的开发者指导、保留的修复理由和补丁以及编辑后审计记录，将这种需求到修复的过程外部化。对300个SWE-bench Lite案例的回顾性审计表明，这些工件为跨阶段检查提供了广泛支持：288个案例有完整开发者理由，214个案例（71.3%）保留了连接所选阶段的完整审计字段集。保留的记录进一步 enables 对跨阶段对应关系的系统测量：目标符号在62.6%的开发者理由和62.8%的补丁中重复出现，当包含相关符号时上升到75.8%。在100个案例的配对比较中，关系工作流解决了19个案例，而直接相同输入条件解决了9个案例；由于这两个条件在分析器输出、派生的蒸馏和法官记录方面也存在差异，我们将此报告为初步的、工作流级别的证据，而非图组件的因果效应。这些结果共同表明，THEMIS使原本隐含的需求到修复转变变得可检查， enables 系统检查修复决策如何在不同阶段持续、对齐和演变。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+    "authors": "Siwei Wu, Jincheng Ren, Yizhi Li, Haau-Sing Li, Chengran Yang, Yuxuan Zhang, Weicheng Gu, Jian Yang, Riza Batista-Navarro, Chuanyi Zhang, Xianglong Liu, Ming Zhou, Bryan Dai, Chenghua Lin",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.14857v1",
+    "source": "arXiv",
+    "abstract": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generalizable harness RSI remains challenging. First, evolving harnesses on evaluation benchmarks or their subsets makes it difficult to distinguish reusable improvements from benchmark-specific adaptation. Second, single-trajectory updates can conflate systematic harness deficiencies with instance-specific reasoning and solution details, producing modifications that transfer poorly to unseen tasks. Third, localizing recurring behavioral deficiencies within monolithic harnesses is difficult, while whole-harness optimization can entangle unrelated mechanisms and complicate attribution and validation. We propose ModularRSI, a benchmark-disjoint, contrastive, and modular framework for generalizable harness evolution. ModularRSI contrasts successful and failed trajectories for the same task and aggregates evidence across tasks to identify recurring behavioral deficiencies. It decomposes the evolvable harness into five functional modules: Agent Loop, Tool Use, Observation Management, Context Management, and Task Completion Detection. Each module evolves independently within a restricted modification scope, followed by an integration stage that combines the evolved modules into a unified harness and resolves potential conflicts. To support benchmark-disjoint evolution, we curate 2,000 executable evolution tasks from external sources that are disjoint from downstream evaluation benchmarks. Experiments on TB2.0 and SWE-Bench Verified show consistent improvements on unseen in-domain and cross-domain tasks, with the evolved harness also transferring across different foundation models.",
+    "title_zh": "模块化RSI：模块化和通用递归式自改进系统",
+    "abstract_zh": "最近的研究将递归自我改进(RSI)扩展到用于长时程编程和终端任务的代理工具，使代理能够从经验中改进执行机制。然而，可泛化的工具RSI仍然具有挑战性。首先，在评估基准或其子集上进化工具，难以区分可重用的改进与基准特定的适应。其次，单轨迹更新可能将系统工具缺陷与实例特定的推理和解决方案细节混淆，产生难以迁移到未见任务的修改。第三，在单体工具中定位重复的行为缺陷很困难，而整体工具优化可能使无关机制纠缠在一起，增加归因和验证的复杂性。我们提出了ModularRSI，一个基准无关、对比性和模块化的可泛化工具进化框架。ModularRSI对比同一任务的成功和失败轨迹，并跨任务聚合证据以识别重复的行为缺陷。它将可进化的工具分解为五个功能模块：代理循环、工具使用、观测管理、上下文管理和任务完成检测。每个模块在受限的修改范围内独立进化，然后进入集成阶段，将进化的模块组合成统一工具并解决潜在冲突。为支持基准无关的进化，我们从外部来源整理了2000个可执行进化任务，这些任务与下游评估基准无关。在TB2.0和SWE-Bench Verified上的实验显示，在未见过的领域内和跨领域任务上取得了一致的改进，进化的工具也能迁移到不同的基础模型上。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "MTAC-IFBench: Benchmarking Instruction-Following in Multi-Turn Agentic Coding",
+    "authors": "Bosi Wen, Cunxiang Wang, Jiayi Gui, Haoke Zhang, Yilin Niu, Pei Ke, Dayong Yang, Hongning Wang, Minlie Huang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.14992v1",
+    "source": "arXiv",
+    "abstract": "Recently, the rapid development of large language models (LLMs) has reshaped software engineering by enabling autonomous code agents that plan, execute, and utilize external tools iteratively to tackle complex tasks. Beyond achieving functional correctness, these agents must faithfully follow process instructions and constraints throughout the development lifecycle. However, existing benchmarks typically focus on final functional correctness or confine instruction-following evaluation to single-turn, general chat or simple code generation scenarios, leaving instruction-following in multi-turn agentic coding underexplored. To bridge this gap, we propose MTAC-IFBench, a comprehensive benchmark for this critical capability. It features multi-turn progressive software development instructions with diverse constraints spanning 6 primary and 18 secondary categories. With an average of 7.04 turns and 91.33 constraints per instance, it poses a rigorous challenge to current LLMs. To make the evaluation reliable, we construct a checklist for each constraint and functional requirement, and integrate verification scripts and judge agents to verify each checklist item. MTAC-IFBench identifies significant deficiencies in existing code agents in multi-turn instruction-following, with their performance degrading rapidly as the interaction session grows longer.",
+    "title_zh": "MTAC-IFBench：多轮智能体编程指令遵循能力基准测试",
+    "abstract_zh": "最近，大型语言模型（LLMs）的快速发展通过能够迭代地规划、执行和利用外部工具来解决复杂任务的自主代码代理，重塑了软件工程。除了实现功能正确性外，这些代理在整个开发生命周期中必须忠实地遵循流程指令和约束。然而，现有的基准测试通常只关注最终的功能正确性，或将指令遵循评估限制在单轮、通用聊天或简单的代码生成场景中，而忽略了多轮代理编程中的指令遵循问题。为了填补这一空白，我们提出了MTAC-IFBench，这是一个针对这一关键能力的全面基准测试。它包含多轮渐进式软件开发指令，涵盖6个主要类别和18个次要类别的多样化约束。每个实例平均有7.04轮对话和91.33个约束，对当前的LLMs构成了严格的挑战。为确保评估的可靠性，我们为每个约束和功能需求构建了检查清单，并集成了验证脚本和判断代理来验证每个清单项目。MTAC-IFBench揭示了现有代码代理在多轮指令遵循方面的显著缺陷，随着交互会话的延长，其性能迅速下降。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "LLM-enabled Behavior Driven Development Workflow for Formally Verified Hardware Designs",
+    "authors": "Luca Müller, Qian Liu, Rolf Drechsler",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15318v1",
+    "source": "arXiv",
+    "abstract": "Recently, the use of Large Language Models (LLMs) for different tasks in the Electronic Design Automation (EDA) life-cycle has been studied extensively, but an integrated view is lacking. Specifications are the foundation of this life-cycle, but they suffer from ambiguity when written in natural language, which especially affects the quality of LLM output. Formal specifications mitigate these ambiguities, but they come with their own challenges. On the other hand, Controlled Natural Language (CNL) specifications can serve as a middle-ground, reducing ambiguity while retaining interpretability. In this work, we propose an integrated view on the use of LLMs for EDA and establish an LLM-enabled behavior driven hardware development workflow. We introduce and define Formal Verification Gherkin Scenarios (FV Gherkin Scenarios), unlocking CNL specifications as the foundation for formally verified hardware designs via Formal Property Verification (FPV). Experimental evaluation shows that our workflow is able to outperform other established LLM-based methods by 2.48x in functional correctness of generated Register Transfer Level (RTL) designs and by 2.54x in formal coverage of generated assertions for FPV.",
+    "title_zh": "用于形式化验证硬件设计的LLM驱动行为驱动开发工作流",
+    "abstract_zh": "最近，大型语言模型（LLMs）在电子设计自动化（EDA）生命周期不同任务中的应用已被广泛研究，但缺乏一个整合的视角。规范是这个生命周期的基础，但当用自然语言编写时，它们存在歧义问题，这特别影响了LLM输出的质量。形式规范可以缓解这些歧义，但它们也带来了自身的挑战。另一方面，受控自然语言（CNL）规范可以作为一种折中方案，在减少歧义的同时保持可解释性。在这项工作中，我们提出了一个关于LLM在EDA中应用的整合视角，并建立了一个由LLM支持的行为驱动硬件开发工作流程。我们引入并定义了形式验证Gherkin场景（FV Gherkin场景），通过形式属性验证（FPV）使CNL规范成为形式验证硬件设计的基础。实验评估表明，我们的工作流程在生成寄存器传输级（RTL）设计的功能正确性方面比其他既有的基于LLM的方法高出2.48倍，在为FPV生成断言的形式覆盖率方面高出2.54倍。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "CIDERS: Cloud-Edge LLM Collaborative Learning via Accelerating Personalized Bilevel Optimization",
+    "authors": "Victor H. Chen, Hairui Yu, Stella K. Chung, Hong Yan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15664v1",
+    "source": "arXiv",
+    "abstract": "Amid the rapid advancement of physical-world intelligence, cloud-edge collaborative large language models (LLMs) have emerged as a promising roadmap for practical LLM deployment. However, existing cloud-edge paradigms struggle to balance global consensus with local personalization, which fails to satisfy the need for a unified knowledge foundation on the cloud and domain-specific adaptation at the edge. To address this, we introduce, for the first time, a personalized bilevel optimization framework that formalizes cloud-edge LLM collaboration as a dual structure: the upper level optimizes edge-side personalization, while the lower level governs cloud-side knowledge transfer, reaching cloud-edge evolving in coordination. We then propose CIDERS, an efficient solver that decomposes the model into a learnable backbone and a messenger. While the cloud performs knowledge transfer to the learnable backbone, the key lies in embedding global trajectories into each local personalization step via consensus-variate correction to reconcile personalization with consensus. We provide a comprehensive theoretical analysis, including a geometric characterization of the local trajectory and a full convergence guarantee, revealing an explicit trade-off structure between personalization and global convergence. Extensive experiments demonstrate that CIDERS consistently outperforms competitive baselines on the compressed edge path, with 3.1x and 1.7x gains on mathematical reasoning and code generation, respectively, and a 10\\% relative gain on instruction metrics. Mechanism experiments attribute these gains to early consensus-corrected coordination and task-aware distillation. Overall, CIDERS offers a viable path toward consensus-guided continuous personalization in cloud-edge LLM systems.",
+    "title_zh": "CIDERS：通过加速个性化双层优化的云-边缘大模型协同学习",
+    "abstract_zh": "随着物理世界智能的快速发展，云边协同大语言模型(LLMs)已成为实际LLM部署的有前景路线图。然而，现有的云边范式难以平衡全局共识与本地个性化，无法满足云端统一知识基础和边缘领域特定适应的需求。为此，我们首次引入了一个个性化双层优化框架，将云边LLM协作形式化为双重结构：上层优化边缘侧个性化，下层控制云端知识转移，实现云边协同演进。随后，我们提出了CIDERS，一种高效的求解器，将模型分解为可学习的骨干和信使。云端向可学习骨干进行知识转移，关键在于通过共识变量校正将全局轨迹嵌入到每个本地个性化步骤中，以调和个性化与共识。我们提供了全面的理论分析，包括局部轨迹的几何表征和完整的收敛保证，揭示了个性化与全局收敛之间的明确权衡结构。大量实验表明，CIDERS在压缩的边缘路径上持续优于竞争性基线，在数学推理和代码生成方面分别有3.1倍和1.7倍的提升，在指令指标上有10%的相对增益。机制实验将这些增益归因于早期共识校正协调和任务感知蒸馏。总体而言，CIDERS为云边LLM系统中共识引导的持续个性化提供了可行路径。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities",
+    "authors": "Fares Trad, Simin Chen, Hung Viet Pham, Gias Uddin, Baishakhi Ray",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15963v1",
+    "source": "arXiv",
+    "abstract": "Software agents with Large Language Models (LLMs) are designed for Automated Program Repair (APR) tasks, raising the possibility that, in the near future, APR agents will fix bugs automatically without much human intervention. Can we trust an APR agent to produce both functionally correct and secure code in such situations? What if attackers target production APR agents with adversarial issues that seem benign but may influence the agents to produce correct but insecure code? In this paper, we took a first step towards answering these questions by conducting an empirical study. First, we created SWEADV, a benchmark of 750 adversarial issue descriptions constructed from 150 repair tasks in SWE-bench Verified. For each repair task, we created five adversarial issue descriptions, one for each attack type: command execution, deserialization, path traversal, denial of service, and weak hashing. Second, we evaluated mini_swe APR agents from three LLM backends on SWEADV: GPT-5-Mini, MiniMax-M2.5, and DeepSeek-R. We found that on average, adversarial issue descriptions can induce malicious behaviors with successful repair in 51.7% of cases. Third, we investigated whether typical detection mechanisms are sufficient to prevent such malicious patches from being accepted. Pre-repair detection with LLM-as-judge on the adversarial issue descriptions resulted in an average detection accuracy of only 62.3%. Post-repair detection on adversarial APR patches using static analysis tools and LLM-as-judge achieved average detection accuracies of only 39.4% and 55.4%, respectively. We conclude that autonomous APR agents cannot be trusted yet in production deployment, given their susceptibility to adversarial attacks.",
+    "title_zh": "针对安全漏洞的自动化程序修复代理的对抗性测试",
+    "abstract_zh": "基于大型语言模型(LLM)的软件代理被设计用于自动程序修复(APR)任务，这引发了一种可能性：在不久的将来，APR代理将在几乎没有人工干预的情况下自动修复错误。在这种情况下，我们能否信任APR代理生成既功能正确又安全的代码？如果攻击者针对生产环境中的APR代理，投放看似良性但可能引导代理生成正确但不安全代码的对抗性问题，该怎么办？在本文中，我们通过进行实证研究，迈出了回答这些问题的第一步。首先，我们创建了SWEADV基准，这是一个包含750个对抗性问题描述的基准，这些描述从SWE-bench Verified中的150个修复任务构建而成。对于每个修复任务，我们创建了五个对抗性问题描述，分别对应五种攻击类型：命令执行、反序列化、路径遍历、拒绝服务和弱哈希。其次，我们在SWEADV上评估了来自三个LLM后端的mini_swe APR代理：GPT-5-Mini、MiniMax-M2.5和DeepSeek-R。我们发现，平均而言，对抗性问题描述可以在51.7%的情况下诱导恶意行为并成功修复。第三，我们研究了典型的检测机制是否足以防止接受此类恶意补丁。使用LLM作为裁判对对抗性问题描述进行修复前检测，平均检测准确率仅为62.3%。使用静态分析工具和LLM作为裁判对对抗性APR补丁进行修复后检测，平均检测准确率分别仅为39.4%和55.4%。我们得出结论，鉴于APR代理容易受到对抗性攻击，目前还无法在生产环境中信任自主APR代理。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery",
+    "authors": "Junhao Qiu, Qinglong Hu, Xialiang Tong, Mingxuan Yuan, Liyong Lin, Qingfu Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15820v1",
+    "source": "arXiv",
+    "abstract": "Large language models have advanced automated algorithm discovery by synthesizing executable code, but existing frameworks trap them in rigid search pipelines with pre-defined control flows. This limitation restricts adaptive reasoning, blocks cross-paradigm transfer, and discards valuable execution feedback. We propose AlgoEvo, a unified agentic framework that transforms automated algorithm discovery into an interactive, knowledge-accumulating process. An autonomous agent dynamically inspects, diagnoses, and edits code based on runtime feedback. A design skill hub decouples paradigm-specific knowledge from the core discovery engine, allowing a single workflow to seamlessly handle single-objective, multi-objective, and multi-component design. Meanwhile, a hierarchical experience mechanism organizes search trajectories into a task-level tree to guide exploration and consolidates cross-task patterns into reusable skills. Across six representative benchmark tasks, AlgoEvo matches or surpasses specialized methods with substantially fewer evaluations and reduced token consumption, demonstrating strong intra-task accumulation, cross-task transfer, and the ability to reproduce or exceed existing state-of-the-art performance through flexible skill activation.",
+    "title_zh": "AlgoEvo：用于自动化算法发现的自主进化智能搜索",
+    "abstract_zh": "大型语言模型通过合成可执行代码推动了自动化算法发现的发展，但现有框架将它们限制在具有预定义控制流的刚性搜索流程中。这种限制限制了自适应推理，阻碍了跨范式迁移，并丢弃了有价值的执行反馈。我们提出了AlgoEvo，一个统一的智能体框架，将自动化算法发现转变为一个交互式、知识积累的过程。一个自主智能体根据运行时反馈动态检查、诊断和编辑代码。一个设计技能中心将特定范式的知识与核心发现引擎解耦，使单一工作流能够无缝处理单目标、多目标和多组件设计。同时，一个分层经验机制将搜索轨迹组织成任务级树以指导探索，并将跨任务模式整合为可重用的技能。在六个代表性基准任务中，AlgoEvo以显著更少的评估次数和更低的令牌消耗匹配或超过了专门方法的性能，展示了强大的任务内积累、跨任务迁移能力，以及通过灵活激活技能重现或超越现有最先进性能的能力。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Scaling Verification of Cryptographic Software with Aeneas, Rust, and Lean",
+    "authors": "Son Ho, Cédric Fournet, Jonathan Protzenko, Michael Naehrig, Joshua Clune, Patrick Longa, Guillaume Boisseau, Fernando Leal Sánchez, Aymeric Fromherz, Antoine Delignat-Lavaud",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15648v1",
+    "source": "arXiv",
+    "abstract": "We develop a new methodology for verifying cryptographic software. We target production code written in Rust for performance and system integration, rather than verification convenience. Rust's ownership discipline enables Aeneas to extract a pure model of this code in Lean, relieving us from low-level reasoning about pointer liveness and aliasing. Lean's extensibility lets us develop tactics and libraries that greatly simplify reasoning about extracted Rust code. We design and tune our toolchain to facilitate the use of AI. Agents autonomously write formal proofs, which are independently verified by the Lean kernel. Agents also assist in the formalization of cryptographic standards and platform-specific intrinsics, which still requires expert design and review. We apply our methodology to SymCrypt, Microsoft's cryptographic provider. We verify its implementations of algorithms such as SHA-3 and ML-KEM, which were ported from C to Rust. We also extend SymCrypt with experimental optimizations and implementations of algorithms such as FrodoKEM, ML-DSA, and HPKE to explore the scalability of writing, adapting, and verifying cryptographic code. Our 237~KLOC Lean development establishes safety, panic-freedom, and functional correctness of 16.7~KLOC of Rust code supporting post-quantum cipher suites for x86-64 and ARM platforms. Our evaluation shows that verified Rust can meet SymCrypt's performance, portability, deployment, and maintainability requirements.",
+    "title_zh": "使用Aeneas、Rust和Lean进行密码学软件的扩展验证",
+    "abstract_zh": "我们开发了一种验证加密软件的新方法。我们针对用Rust编写的生产代码，注重性能和系统集成，而非验证便利性。Rust的所有权纪律使Aeneas能够在Lean中提取出该代码的纯模型，使我们无需对指针存活性和别名进行低级推理。Lean的可扩展性让我们能够开发战术和库，大大简化了对提取的Rust代码的推理过程。我们设计和调整了我们的工具链以促进AI的使用。代理自主编写形式化证明，这些证明由Lean内核独立验证。代理还协助加密标准和平台特定内在函数的形式化，这仍需要专家设计和审查。我们将我们的方法应用于SymCrypt，微软的加密提供程序。我们验证了其SHA-3和ML-KEM等算法的实现，这些算法已从C移植到Rust。我们还通过实验性优化和FrodoKEM、ML-DSA和HPKE等算法的实现扩展了SymCrypt，以探索编写、改编和验证加密代码的可扩展性。我们的237千行Lean代码开发确保了16.7千行Rust代码的安全性、无恐慌性和功能正确性，这些代码支持x86-64和ARM平台的后量子密码套件。我们的评估表明，经过验证的Rust代码能够满足SymCrypt的性能、可移植性、部署和可维护性要求。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Translator vs. Challenger: Adversarial Agentic Learning for C-to-Rust Translation",
+    "authors": "Chaofan Wang, Xiaodong Gu, Yuling Shi, Chao Hu, Beijun Shen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15381v1",
+    "source": "arXiv",
+    "abstract": "C-to-Rust translation remains challenging due to the substantial semantic gap between the two languages. Recent experience-enhanced LLM translators improve translation quality by learning reusable insights from prior failures and repairs. Yet learned insights do not automatically constitute reusable translation knowledge: derived from sparse, program-specific traces, they often contain missing conditions, narrow applicability boundaries, or overlooked corner cases. This limits their robustness and generalizability in new translation scenarios. We present TRAIL, an adversarial agentic learning framework for robust C-to-Rust translation. TRAIL employs two collaborating agents: a Translator that derives candidate insights from translation failures and accepted repairs, and a Challenger that actively searches for weaknesses, gaps, and boundary cases through adversarial challenges. To improve the robustness of individual insights and the completeness of insight collections, TRAIL performs adversarial learning at two levels. Individual-insight adversarial learning repeatedly stress-tests each insight to refine its applicability conditions and constraints, while compositional insight adversarial learning strengthens groups of related insights by exposing conflicts, gaps, and uncovered corner cases. By challenging insights and their compositions with executable counterexamples, TRAIL transforms trace-specific experience into robust, reusable, and generalizable translation knowledge. We evaluate TRAIL on two project-level benchmarks, CRUST-Bench and SmartC2Rust-Bench. Compared with the strongest LLM-based baseline, TRAIL achieves average relative improvements of 23.1% in syntax accuracy and 15.9% in semantic accuracy. Furthermore, the adversarially refined insights transfer effectively across benchmarks, demonstrating strong generalizability across diverse C-to-Rust translation tasks.",
+    "title_zh": "翻译者与挑战者：面向C到Rust翻译的对智能体学习",
+    "abstract_zh": "C到Rust翻译仍然具有挑战性，因为这两种语言之间存在巨大的语义鸿沟。最近的经验增强型大型语言模型(LLM)翻译器通过从先前的失败和修复中学习可重用的见解来提高翻译质量。然而，学到的见解并不自动构成可重用的翻译知识：这些见解源自稀疏的、特定于程序的痕迹，常常包含缺失的条件、狭窄的适用边界或被忽视的边缘情况。这限制了它们在新翻译场景中的稳健性和泛化能力。我们提出了TRAIL，一个用于稳健C到Rust翻译的对立式智能体学习框架。TRAIL采用两个协作的智能体：一个翻译器从翻译失败和接受的修复中派生候选见解，一个挑战者通过对立性挑战主动寻找弱点、差距和边界情况。为了提高单个见解的稳健性和见解集合的完整性，TRAIL在两个层面进行对抗学习。单个见解对抗学习反复对每个见解进行压力测试，以完善其适用条件和约束，而组合见解对抗学习通过暴露冲突、差距和未覆盖的边缘情况来加强相关见解组。通过用可执行的反例挑战见解及其组合，TRAIL将特定于痕迹的经验转化为稳健、可重用和可泛化的翻译知识。我们在两个项目级基准测试CRUST-Bench和SmartC2Rust-Bench上评估了TRAIL。与最强的基于LLM的基线相比，TRAIL在语法准确性上实现了23.1%的平均相对改进，在语义准确性上实现了15.9%的平均相对改进。此外，对抗性完善的见解能够有效地跨基准测试迁移，展示了在多样化C到Rust翻译任务上的强大泛化能力。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Using Agentic AI for contextualized and multifaceted code review at Ericsson",
+    "authors": "Muhammad Laiq, Ricardo Britto, Muhammad Usman, Nishrith Saini, Deepika Badampudi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15877v1",
+    "source": "arXiv",
+    "abstract": "Context: Conducting effective code reviews is increasingly challenging due to the growing complexity of software systems and the accelerated code generation by AI coding agents. LLM-based approaches for code reviews have shown promising results in identifying defects and improving code quality. However, existing approaches rarely consider project-specific contextualized knowledge, and few have been evaluated in industrial settings. Objective: In this study, we propose a multi-agent-based solution that provides multifaceted assessments of code changes. Method: Following the Design Science Research Process, we developed and evaluated our solution in an industrial setting. Our solution combines specialized agent skills with context-specific knowledge to identify antipatterns in code changes across four dimensions: readability, maintainability, reliability, and performance. Using our solution, we generated reviews for several code commits and identified more than 200 issues. These issues were then manually validated by the developers of the case company for their correctness and importance. Results: The evaluation results show that our solution achieves 96% accuracy in correctly identifying issues in the investigated code commits. Furthermore, around 69% of the correctly identified issues were rated as important, with approximately 33% rated as severe issues that must be fixed and 36% as important issues that should be fixed. Qualitative feedback from developers corroborates these findings and highlights the usefulness of the generated reviews. Conclusion: Our findings provide empirical evidence from an industrial evaluation that combining specialized agent skills with context-specific knowledge yields accurate, practically useful code reviews.",
+    "title_zh": "在爱立信使用智能代理AI进行上下文化和多维度代码审查",
+    "abstract_zh": "背景：随着软件系统复杂性的日益增加和AI编码代理加速生成代码，进行有效的代码审查变得越来越具有挑战性。基于大语言模型（LLM）的代码审查方法在识别缺陷和提高代码质量方面已显示出 promising 的结果。然而，现有方法很少考虑项目特定的上下文知识，并且很少有在工业环境中进行评估的。\n\n目标：在本研究中，我们提出了一种基于多代理的解决方案，该方案提供对代码变更的多方面评估。\n\n方法：遵循设计科学研究过程，我们在工业环境中开发和评估了我们的解决方案。我们的解决方案将专业代理技能与特定上下文知识相结合，从四个维度识别代码变更中的反模式：可读性、可维护性、可靠性和性能。使用我们的解决方案，我们为多个代码提交生成了审查，并识别出200多个问题。这些问题随后由案例公司的开发人员手动验证其正确性和重要性。\n\n结果：评估结果显示，我们的解决方案在识别所调查代码提交中的问题时达到了96%的准确率。此外，约69%被正确识别的问题被评为重要问题，其中约33%被评为必须修复的严重问题，36%被评为应该修复的重要问题。开发人员的定性反馈证实了这些发现，并强调了生成审查的有用性。\n\n结论：我们的发现提供了来自工业评估的经验证据，表明将专业代理技能与特定上下文知识相结合可以产生准确、实用的代码审查。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "RESKILL: Explicit Failure Attribution and Structured Repair for Interactive Language Agents",
+    "authors": "Mengyi Deng, Xin Li, Duyi Pan, Zilin Wang, Zhiwei Li, Zhijiang Guo, Wei Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15684v1",
+    "source": "arXiv",
+    "abstract": "Language agents increasingly rely on reusable skills, but post-failure repair is often handled by opaque one-shot reflection: a model generates a skill patch without explicitly maintaining how failure explanations relate to candidate repairs or how unsuccessful retests should influence later edits. We introduce RESKILL, a structured repair framework that maintains an explicit repair state across repair rounds. Given a failed rollout, the framework links failure hypotheses to candidate skill patches, selects local repairs through coverage-based attribution, retests the edited skill set in the environment, and uses retest outcomes to guide subsequent repair updates. The language model supplies structured repair factors, while the repair procedure records them, compares local skill patches by how well they address active failure explanations, and carries unsuccessful retest outcomes into later repair rounds. We evaluate RESKILL on ALFWorld and TextCraft across three model sizes under fixed repair budgets. RESKILL obtains the strongest final success in all six benchmark-model settings, improving average final success by 3.7 percentage points over direct repair and 3.3 points over hypothesis-conditioned repair. These results suggest that explicit attribution alone is insufficient; durable improvement emerges when attribution is integrated with repair selection and persistent retest-conditioned update.",
+    "title_zh": "RESKILL：交互式语言代理的显式故障归因与结构化修复",
+    "abstract_zh": "语言代理越来越多地依赖可重用技能，但故障后的修复通常由不透明的单次反思处理：模型生成技能补丁，而没有明确维护故障解释与候选修复之间的关系，或者 unsuccessful 重测应如何影响后续编辑。我们引入了 RESKILL，这是一个结构化的修复框架，在修复轮次之间维护明确的修复状态。针对失败的执行，该框架将故障假设与候选技能补丁相关联，通过基于覆盖率的归因选择局部修复，在环境中重新测试编辑后的技能集，并使用重测结果指导后续修复更新。语言模型提供结构化的修复因素，而修复程序记录这些因素，根据候选技能补丁对活跃故障解释的解决程度进行比较，并将不成功的重测结果带入后续修复轮次。我们在固定修复预算下，对三种模型规模的 ALFWorld 和 TextCraft 进行了 RESKILL 评估。在所有六个基准模型设置中，RESKILL 获得了最强的最终成功率，比直接修复高出 3.7 个百分点，比假设条件修复高出 3.3 个百分点。这些结果表明，仅靠明确的归因是不够的；当归因与修复选择和持久的重测条件更新相结合时，才能实现持久的改进。"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "The Model Proposes, the Code Disposes: A Pre-Registered Ablation of a Verifier-and-Acceptance Stage in an LLM-Orchestrated Offensive-Security Agent",
+    "authors": "Theodoros Moutesidis",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.15887v1",
+    "source": "arXiv",
+    "abstract": "We evaluate whether a verifier-and-acceptance stage - a model verifier whose verdicts are enforced by deterministic code - changes what an LLM-driven offensive-security agent reports. We report a 15-run exploratory pilot, a pre-registered 20-run confirmatory ablation, and a pre-registered 2 x 2 factorial study with 40 runs across two deliberately vulnerable lab targets. In the confirmatory study, removing the stage eliminated pre-report suppression (median 2 versus 0 findings per run; exact one-sided p = 0.00003) and reduced model-blinded shipped precision (median 0.471 versus 0.353; p = 0.0087). Recall against a frozen but incomplete ground-truth list did not differ significantly (two-sided p = 0.158; equivalence was not established). The factorial study attributed suppression to the model verifier (Holm-adjusted p = 0.004); deterministic acceptance rules alone suppressed no false positives, and no interaction was detected (p = 0.72). The full design retained 93.8% of model-adjudicated true candidates but did not meet its pre-registered non-inferiority criterion because the lower one-sided 95% bound was 0.875, below the 0.90 floor. Across the confirmatory and factorial studies, an instrumented canary recorded zero contacts in 60 of 60 runs, with incidental external contacts disclosed separately. Independent human adjudication of the retained blind packets is pending, so precision and sensitivity endpoints are supporting rather than final evidence. Six audit-trail failures, including one in the evaluation tooling, are also disclosed. The results support a narrow conclusion: the verifier changes what the system ships, while deterministic code supplies enforcement and auditability; they do not establish superiority to other agents or generalization beyond lab targets.",
+    "title_zh": "模型提出，代码执行：对LLM编排的进攻性安全代理中的验证与接受阶段进行预注册消融研究",
+    "abstract_zh": "我们评估了一个验证者-接受阶段（一个由确定性代码执行判决的模型验证者）是否会影响LLM驱动型安全代理报告的内容。我们报告了一项15次运行的探索性初步研究、一项预注册的20次运行确认性消融研究，以及一项预注册的2×2因子研究，该研究在两个故意设置漏洞的实验室目标上进行了40次运行。在确认性研究中，移除该阶段消除了报告前的抑制（每次运行的中位数发现从2个降至0个；单侧精确p值=0.00003），并降低了模型盲化后的 shipped 精确度（中位数从0.471降至0.353；p=0.0087）。与一个冻结但不完整的真实列表相比，召回率没有显著差异（双侧p=0.158；未建立等效性）。因子研究将抑制归因于模型验证者（Holm调整后的p=0.004）；仅确定性接受规则没有抑制任何假阳性，且未检测到交互作用（p=0.72）。完整设计保留了93.8%的模型裁定真实候选，但未达到其预注册的非劣性标准，因为单侧95%置信区间的下限为0.875，低于0.90的阈值。在确认性和因子研究中，经过改造的哨兵在60次运行中均记录到零次接触，偶然的外部接触已单独披露。保留的盲包的独立人工裁定正在进行中，因此精确度和敏感性终点是支持性而非最终证据。我们还披露了六次审计跟踪失败，包括评估工具中的一个。这些结果支持一个有限结论：验证者改变了系统发布的内容，而确定性代码提供了执行能力和可审计性；它们并未证明该代理优于其他代理，也未证明其在实验室目标之外的泛化能力。"
+  },
+  {
+    "date": "2026-9-14",
+    "title": "A Study on the Architecture of an Intelligent Programming Visualization System Integrating Large-Scale Model Inference and Structured Diagnostics",
+    "authors": "Mingshuai Li, Xingfan Wang, Yahui Lin, Jin Lin, Yaowei Liao, Chala",
+    "publish": "2026 3rd International Conference on Intelligent Systems and Robotics (CISR)",
+    "url": "https://doi.org/10.1109/cisr70722.2026.11680416",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "集成大规模模型推理与结构化诊断的智能编程可视化系统架构研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-15",
+    "title": "An Automated Programming Assignment Evaluation and Personalized Feedback System Driven by Large Language Models",
+    "authors": "Fan Zhang, Guolu Deng",
+    "publish": "Proceedings of the 3rd International Conference on Educational Digitalization and Computer Science in the Guangdong-Hong Kong-Macao Greater Bay Area",
+    "url": "https://doi.org/10.1145/3828183.3828228",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大型语言模型的自动化编程作业评估与个性化反馈系统",
+    "abstract_zh": "None"
+  },
+  {
     "date": "2026-9-14",
     "title": "Code Generation from Regression Trees for Microsecond-Scale Decisions in Operating Systems",
     "authors": "Birte Friesel, Marcel Lütke Dreimann, Olaf Spinczyk",
@@ -11,14 +176,25 @@
     "abstract_zh": "None"
   },
   {
-    "date": "2026-9-14",
-    "title": "Proof-Carrying-BPF Programs for the eBPF Verifier",
-    "authors": "Yalu Cai, Santosh Nagarakatte",
-    "publish": "Proceedings of the 4th Workshop on eBPF and Kernel Extensions",
-    "url": "https://doi.org/10.1145/3837779.3838158",
+    "date": "2026-9-15",
+    "title": "Hunk-Constrained DPO: Segment-Level Optimization for Secure and Correct LLM Code Generation",
+    "authors": "Qianshuo Huang, Xin Yin, Xinrui Li, Chao Ni",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3816250",
     "source": "ACM",
     "abstract": "None",
-    "title_zh": "用于eBPF验证器的携带证明的BPF程序",
+    "title_zh": "Hunk-Constrained DPO：面向安全且正确的LLM代码生成的段级优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-15",
+    "title": "<scp>VulWeaver</scp>\n                    : Weaving Broken Semantics for Grounded Vulnerability Detection",
+    "authors": "Yiheng Cao, Yihao Chen, Xin Hu, Bihuan Chen, Jiayi Deng, Zhuotong Zhou, Susheng Wu, Yiheng Huang, Xueying Du, Xingman Chen, Miaohua Li, Xin Peng",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3846196",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "<scp>VulWeaver</scp>\n                    : 编织破碎语义以实现基础漏洞检测",
     "abstract_zh": "None"
   }
 ]
