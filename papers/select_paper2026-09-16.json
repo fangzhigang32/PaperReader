@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-9-16",
+    "title": "Semantic-Aware Normalization: Enhancing the Evaluation of Large Language Models in Automated Vulnerability Repair",
+    "authors": "Xingyu Qu, Hailin Wang, Zehui Jiang, Jiajun Zhu, Han Li",
+    "publish": "Proceedings of the 2nd International Conference on Software Engineering and Computer Applications",
+    "url": "https://doi.org/10.1145/3829641.3829689",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "语义感知规范化：提升大语言模型在自动化漏洞修复评估中的表现",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-16",
+    "title": "An End-to-End Framework for Generating Circuit Schematics for Physics Education from Natural Language",
+    "authors": "Yuzhe Jin, Jianwen Chen, Qingjing Fei, Yuhang Jiang",
+    "publish": "Proceedings of the 2nd International Conference on Software Engineering and Computer Applications",
+    "url": "https://doi.org/10.1145/3829641.3829784",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从自然语言生成物理教育电路原理图的端到端框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-16",
+    "title": "Deep Learning-Based Code Intelligence: A Survey and Practical Analysis",
+    "authors": "Xinyuan Li",
+    "publish": "Proceedings of the 2nd International Conference on Software Engineering and Computer Applications",
+    "url": "https://doi.org/10.1145/3829641.3829677",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于深度学习的代码智能：综述与实践分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-16",
+    "title": "An Empirical Study on the Transferability of Transformer-Based Models for Software Vulnerability Detection",
+    "authors": "Dinh Huu Nhien, Chau The Vi, Thai Hung Van, Trong-Nghia To, Phan The Duy",
+    "publish": "2026 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)",
+    "url": "https://doi.org/10.1109/mapr72750.2026.11685763",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于Transformer模型的软件漏洞检测可迁移性实证研究",
+    "abstract_zh": "None"
+  }
+]
