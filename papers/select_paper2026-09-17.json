@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2026-09-17",
+    "title": "The Complexity Kink: A Prompt-Side Structural Complexity Index for Code-Generation Reliability",
+    "authors": "Michael Hernandez, Tian Zhao",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19616v1",
+    "source": "arXiv",
+    "abstract": "Complexity measured from generated code is failure-dependent: a difficult prompt can yield a short failing program and be assigned low output complexity. We introduce a six-dimension prompt-side structural-complexity index scored before generation and kept separate from correctness. We select 5,000 Python prompts across six bands of a preliminary single-rater rubric. Four out-of-panel LLM raters rescore the locked prompts, giving 19,997 score rows; composite inter-rater reliability is ICC = 0.872 on the 4,998 prompts with all four ratings. We evaluate 21 models per prompt, yielding 105,000 generations. In the unadjusted mean-pooled analysis, pass rate has a nonmonotone breakpoint at composite 13.75, with 79.9% at or below and 87.6% above. This is not a universal failure cutoff. Task-type fixed effects shift the breakpoint to 10.75 and cut the regime gap from 7.6 to 2.1 points. A construction-frame control shifts it to 8.50 with a raw gap of -3.5 points, and neither frame alone reproduces the pooled +7.6-point change. Model-specific fits include 16 upward and five downward changes. A 365-prompt audit-clean extension matches the original five-model estimates at bins 15 and 16 but adds only 14 prompts above bin 16. Among zero-pass generations with computable Lizard complexity, 28.5% pair a prompt composite above 8 with output complexity at most 10. Human agreement is moderate and rater-dependent on a disagreement-enriched calibration set; paraphrase and cross-language rescoring preserve score ordering. Overidentification tests reject the joint restrictions on the six dimensions, so we treat the composite as an index and make no causal interpretation of the 2SLS estimates. The contribution is a pre-generation measurement framework and a bounded observational analysis of reliability regimes.",
+    "title_zh": "复杂性扭结：一种面向代码生成可靠性的提示端结构复杂性指数",
+    "abstract_zh": "从生成的代码测量的复杂性是依赖于失败情况的：一个困难的提示可能会产生一个简短的失败程序，并被分配较低的输出复杂性。我们引入了一个六维提示端结构复杂性指数，在生成前进行评分，并与正确性分开。我们根据初步的单评分者量表的六个等级选择了5,000个Python提示。四位小组外的LLM评分者对锁定的提示重新评分，得到19,997个评分行；在全部四个评分的4,998个提示中，复合评分者间可靠性为ICC = 0.872。我们对每个提示评估21个模型，产生105,000个生成结果。在未调整的平均池化分析中，通过率在复合值13.75处有一个非单调断点，该点及以下的通过率为79.9%，以上为87.6%。这不是一个普遍的失败截止点。任务类型固定效应将断点移至10.75，并将制度差距从7.6个百分点缩小到2.1个百分点。构建框架控制将其移至8.50，原始差距为-3.5个百分点，单独任一框架都无法重现池化+7.6个点的变化。模型特定拟合包括16个上升和5个下降变化。一个包含365个提示的审核清洁扩展在15和16区间与原始五模型估计相匹配，但在16区间以上仅增加了14个提示。在可计算Lizard复杂性的零通过生成结果中，28.5%的提示复合值高于8，而输出复杂度不超过10。在丰富分歧的校准集上，人类评分者间的一致性是中等且依赖于评分者的；改写和跨语言重新评分保持了评分顺序。过度识别检验拒绝了六个维度上的联合限制，因此我们将复合值视为一个指数，不对2SLS估计做出因果解释。贡献是一个预生成测量框架和对可靠性制度的有限观察分析。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+    "authors": "Haozhe Liu, Tian Ye, Sensen Gao, Qihang Cao, Yitong Li, Mingchen Zhuge, Duomin Wang, Ruihua Zhang, Ping Luo, Jiawang Bian, Lei Zhu, Ligeng Zhu, Enze Xie, Song Han",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.20519v1",
+    "source": "arXiv",
+    "abstract": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement. We take an RSI-inspired approach at the harness layer, scaling auto-research loops across increasingly numerous and diverse environments for harness rollouts. At this scale, the process yields reusable improvements that transfer beyond their development setting, moving automated harness discovery toward production-level outcomes. Four mechanisms survive selection and form SoL-Pi, spanning action execution, context compaction, observation handling, and delegated reading. On the 51-task EdgeBench evaluation, SoL-Pi achieves performance comparable to Pi across GPT-5.6 Sol and Opus 5 while reducing recorded token traffic by 44.7-49.0% and API cost by about one third. In other words, estimated hourly savings are \\$8.75-\\$13.50 relative to native Codex and Claude Code harnesses, and \\$4.36-\\$5.71 relative to Pi.",
+    "title_zh": "SoL-Pi：递归扩展自动研究循环以高效利用智能体",
+    "abstract_zh": "随着编码代理从有监督的代码补全转向不间断的全天候探索，它们的工作范围从孤立的预测扩展到包含推理、工具使用和反馈的长轨迹。因此，令牌效率对于扩展递归式自我改进变得至关重要。我们在测试层采用了一种受RSI（递归式自我改进）启发的方法，通过不断增加数量和多样化的环境来扩展自动研究循环，以实现测试部署。在这种规模下，该过程产生了可重用的改进，这些改进能够超越其开发环境，推动自动化测试发现向生产级成果迈进。四种机制在筛选中幸存下来，形成了SoL-Pi，涵盖了动作执行、上下文压缩、观测处理和委托阅读。在包含51项任务的EdgeBench评估中，SoL-Pi在GPT-5.6 Sol和Opus 5上的性能与Pi相当，同时将记录的令牌流量减少了44.7-49.0%，API成本降低了约三分之一。换句话说，与原生Codex和Claude Code测试相比，估计每小时可节省8.75-13.50美元，与Pi相比可节省4.36-5.71美元。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Spotlights: Discovering Improvement Opportunities in Software Repositories",
+    "authors": "Udi Barzelay, Ophir Azulai, Idan Friedman, Inbar Shapira, Foad Abo Dahood, Yevgeny Burshtein, Orit Prince, Michael Soloveitchik, Oshri Naparstek, Roi Pony, Tal Drory, Michael Factor",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.20446v1",
+    "source": "arXiv",
+    "abstract": "Coding agents and evolutionary code-search systems can improve implementations once a target and evaluation criterion have been specified. Applying these methods to an existing software repository raises an earlier question: which implementation choices are worth investigating for a high-level engineering objective? We introduce \\emph{optimization-opportunity discovery}, the repository-level task of identifying candidate source regions, explaining how they relate to the objective, and proposing possible changes. The task takes as input a repository, an engineering objective, and optional runtime evidence such as offline telemetry observations or profiles. It does not require the user to specify a defect, bottleneck, or code location. We present \\emph{Spotlights}, a system that performs this task through logical repository mapping, successive agent reviews, and optional research linking candidates to relevant techniques. We evaluate Spotlights across model serving, document retrieval, blockchain ordering, and document processing. Across three cases, it recovers seven of nine expert-selected targets. In the reliability study, 70\\% of the top ten candidates meet the stated correctness and severity thresholds. Across five repeated retrieval runs, 73.6\\% of candidate occurrences have a matching source region in all five runs. Spotlights also rediscovers the target of a withheld retrieval optimization and connects it to a relevant tiling technique. In an implementation study, a discovered change reduces end-to-end page-processing runtime by 10.6\\% while preserving measured output quality. These results establish optimization-opportunity discovery as a distinct and empirically evaluable step between a broad engineering objective and subsequent implementation and validation.",
+    "title_zh": "聚光灯：发现软件仓库中的改进机会",
+    "abstract_zh": "编码代理和进化代码搜索系统可以在确定目标和评估标准后改进实现。将这些方法应用于现有软件仓库会引发一个更早的问题：对于高级工程目标，哪些实现选择值得研究？我们引入了\"优化机会发现\"（optimization-opportunity discovery），这是一项仓库级别的任务，旨在识别候选源代码区域，解释它们与目标的关系，并提出可能的更改。该任务输入包括一个仓库、一个工程目标以及可选的运行时证据，如离线遥测观察或性能分析。它不需要用户指定缺陷、瓶颈或代码位置。我们介绍了Spotlights系统，该系统通过逻辑仓库映射、连续的代理审查以及可选的研究（将候选者与相关技术联系起来）来执行此任务。我们在模型服务、文档检索、区块链排序和文档处理领域评估了Spotlights。在三个案例中，它找出了九个专家选定目标中的七个。在可靠性研究中，70%的前十名候选者满足所述的正确性和严重性阈值。在五次重复检索运行中，73.6%的候选出现物在所有五次运行中都有匹配的源代码区域。Spotlights还重新发现了被保留的检索优化的目标，并将其与相关的平铺技术联系起来。在实现研究中，一个发现的更改将端到端页面处理运行时间减少了10.6%，同时保持了测量的输出质量。这些结果将优化机会发现确立为一个介于广泛工程目标与后续实现和验证之间的独特且可经验评估的步骤。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Assessing the Construct Validity of Object-Oriented, Class-Level Code Quality Metrics",
+    "authors": "Hera Arif, Miikka Kuutila, Paul Ralph",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.20411v1",
+    "source": "arXiv",
+    "abstract": "Background: Code quality metrics are intended to measure latent properties of software source code. Although numerous code metrics have been proposed and used, their construct validity is rarely evaluated. Thus, the extent to which code metrics actually measure what they claim to measure is often unclear. Aim: Drawing from modern measurement theory, we investigate the construct validity of common class-level, object-oriented code quality metrics by identifying their factor structure using Exploratory Factor Analysis (EFA). The metrics were extracted from the Apache Maven project by three software tools: Designite, JHawk, and Understand. The factor structure was later verified using Confirmatory Factor Analysis (CFA) on 22 randomly selected open source projects meeting a predetermined eligibility criteria. Results: 24 code quality metrics that correspond to six constructs: Cohesion, In-Coupling, Out-Coupling, Size, Sub-Inheritance (related to subclasses), and Sup-Inheritance (related to superclasses) were revealed in the underlying factor structure. Ten metrics did not correspond to any known dimension of software quality and were removed in the EFA. Ten additional metrics exhibited low loadings in the CFA, suggesting their removal from the final measurement model. Size, Cohesion, Inheritance, and Coupling were the constructs retained, with subcategories identified for Inheritance and Coupling. Conclusions: Our results strongly support the construct validity of 24 code quality metrics. Coupling and Inheritance are revealed as multidimensional constructs, since they require measuring two different concepts, revealed as sub-categories in our analysis, and Complexity may be better explored in a multilevel model. Overall, our study demonstrates the value of applying modern measurement theory and latent variable modeling in validating software code quality metrics.",
+    "title_zh": "评估面向对象、类级别代码质量度量的构念效度",
+    "abstract_zh": "背景：代码质量指标旨在衡量软件源代码的潜在特性。尽管已经提出了并使用了大量的代码指标，但它们的构念效度很少被评估。因此，代码指标实际测量其所声称内容的程度往往不明确。目的：借鉴现代测量理论，我们通过使用探索性因子分析（EFA）确定其因子结构，研究了常见的类级别、面向对象代码质量指标的构念效度。这些指标通过三个软件工具从Apache Maven项目中提取：Designite、JHawk和Understand。之后，通过对22个符合预定资格标准的随机选择的开源项目进行验证性因子分析（CFA）来验证该因子结构。结果：在基础因子结构中，揭示了24个对应于六个构念的代码质量指标：内聚性（Cohesion）、内耦合（In-Coupling）、外耦合（Out-Coupling）、规模（Size）、子继承（Sub-Inheritance，与子类相关）和父继承（Sup-Inheritance，与父类相关）。在EFA中，有10个指标不对应于任何已知的软件质量维度，因此被移除。另外10个指标在CFA中表现出较低的载荷，建议从最终测量模型中移除。保留的构念包括规模、内聚性、继承和耦合，并为继承和耦合确定了子类别。结论：我们的结果有力地支持了24个代码质量指标的构念效度。耦合和继承被揭示为多维构念，因为它们需要测量两个不同的概念，这些概念在我们的分析中表现为子类别，而复杂性可能在多水平模型中得到更好的探索。总体而言，我们的研究证明了应用现代测量理论和潜变量模型来验证软件代码质量指标的价值。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "AdaRepair-Mem: Adaptive Experience Orchestration for Repository-Level Program Repair",
+    "authors": "Z. C. Luo, J. C. Guo, W. J. He, S. Y. Wang, J. C. Yu, F. M. Zhao, Y. Chen, T. Cao, L. Q. Liu, N. Zheng, W. Xu, J. Jiang, Z. M. Zhao",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.20130v1",
+    "source": "arXiv",
+    "abstract": "Recent memory-augmented repository-level program repair methods reuse historical repair experiences to improve LLM-based issue resolution. However, our analysis reveals three limitations in existing repository-level memory retrieval. First, episodic memory is highly imbalanced across repositories, leaving low-resource repositories with little effective support. Second, more memory does not monotonically lead to higher repair success, suggesting that relevance, quality, and redundancy matter more than raw memory volume. Third, memory accumulation is phase-misaligned: repositories may contain many reproduction experiences but few patch or refinement experiences. To address these problems, we propose an adaptive experience retrieval framework for repository-level program repair. Our framework introduces coverage-aware retrieval, which falls back to cross-repository or repair-type-based memories when same-repository memory is insufficient; quality-aware selection, which ranks memories by relevance, historical utility, specificity, and redundancy; and stage-aware routing, which separates and retrieves memories for reproduction, localization, patch generation, patch refinement, and validation. Evaluated on SWE-Bench-Lite and SWE-Bench-Verified, the proposed framework improves repair performance on under-covered repositories, reduces noisy memory retrieval, and better supports failed-to-fixed patch refinement. Our results show that the key to memory-augmented repair is not simply accumulating more experiences, but retrieving the right experiences for the right repair context.",
+    "title_zh": "AdaRepair-Mem：面向仓库级程序修复的自适应体验编排",
+    "abstract_zh": "最近的内存增强型仓库级程序修复方法重用历史修复经验来提高基于大语言模型(LLM)的问题解决能力。然而，我们的分析揭示了现有仓库级内存检索中的三个局限性。首先，情景记忆在各个仓库之间高度不平衡，导致资源匮乏的仓库获得的有效支持很少。其次，更多的内存并不单调地带来更高的修复成功率，这表明相关性、质量和冗余比原始内存量更重要。第三，内存积累存在阶段错位：仓库可能包含许多复现经验，但补丁或优化经验很少。为解决这些问题，我们提出了一个用于仓库级程序修复的自适应经验检索框架。我们的框架引入了覆盖感知检索，当同仓库内存不足时，会回退到跨仓库或基于修复类型的内存；质量感知选择，根据相关性、历史效用、具体性和冗余度对内存进行排序；以及阶段感知路由，分别检索用于复现、定位、补丁生成、补丁优化和验证的内存。在SWE-Bench-Lite和SWE-Bench-Verified上的评估表明，所提出的框架提高了覆盖不足仓库的修复性能，减少了噪声内存检索，并更好地支持了失败修复的补丁优化。我们的结果表明，内存增强修复的关键不是简单地积累更多经验，而是为正确的修复上下文检索合适的经验。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "An Empirical Study of Harness Design for Coding Agents",
+    "authors": "Run-Ze Fan, Zihao Zhang, Simin Ma, Yebowen Hu, Shouju Wang, Kaiqiang Song, Fei Liu, Hamed Zamani, Xiaoyang Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.20804v1",
+    "source": "arXiv",
+    "abstract": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluated on SWE-Bench Verified and Terminal-Bench 2.1, we evaluate 176 matched settings spanning five context-management strategies, four context-window budgets, and targeted ablations of planning and action space. We find that: (1) Context management becomes increasingly valuable as the context-window budget tightens, with most of its benefit coming from preventing context-overflow failures. (2) Staging rule-based elision before LLM-based summarization provides the strongest overall efficiency among the context-management strategies, whereas making elided content recoverable adds machinery that models rarely use and yields no accuracy gain. (3) Planning shifts from an accuracy scaffold for weaker models to a cost saver for stronger models, with little change in accuracy. (4) Predefined tools improve performance for models with weaker bash proficiency, whereas bash-capable models can operate effectively with a bash-only interface and achieve substantially lower cost, especially on command-line-centric tasks. Trajectory-level analysis explains these effects: context management extends execution trajectories without substantially altering agent behavior, planning changes where trajectories stop, and the action space changes the granularity at which code is written. These findings inform model- and budget-aware harness design and provide a modular framework for evaluating future harness components.",
+    "title_zh": "面向编码代理的Harness设计实证研究",
+    "abstract_zh": "编程工具包（harnesses）塑造了自主编程代理如何将模型能力转化为长期软件工程性能，然而现有工作通常将工具包作为整体系统进行评估，使得各个组件的有效性尚不明确。为了实现组件级别的比较，我们研究了一个轻量级编程工具包，其执行循环固定，同时变化三个组件：规划（planning）、动作空间（action space）和上下文管理（context management）。我们在SWE-Bench Verified和Terminal-Bench 2.1上评估了四个模型，共评估了176种匹配设置，涵盖五种上下文管理策略、四种上下文窗口预算以及对规划和动作空间的有针对性消融实验。我们发现：（1）随着上下文窗口预算的收紧，上下文管理的价值日益凸显，其主要好处来自于防止上下文溢出失败。（2）在基于大语言模型的摘要之前采用基于规则的省略（elision）策略，在上下文管理策略中提供了最强的整体效率，而使被省略内容可恢复则增加了模型很少使用的机制，且不会带来准确性提升。（3）规划从较弱模型的准确性支撑转变为较强模型的成本节省工具，准确性变化不大。（4）预定义工具能提升bash能力较弱模型的性能，而具备bash能力的模型则可以通过仅使用bash界面的方式有效运行，并在命令行中心任务上实现显著降低的成本。轨迹级分析解释了这些效应：上下文管理延长了执行轨迹但未显著改变代理行为，规划改变了轨迹的终止点，而动作空间则改变了代码编写的粒度。这些发现为模型和预算感知的工具包设计提供了指导，并为评估未来工具包组件提供了模块化框架。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Not All AI Agents Are Equal: Characterizing Resource and Performance Dynamics",
+    "authors": "Wonmi Choi, Minuk Park, Zhixiong Niu, Yongqiang Xiong, Chuck Yoo, Gyeongsik Yang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19947v1",
+    "source": "arXiv",
+    "abstract": "LLM-based AI agents process user requests through iterative reasoning and tool execution, often involving the invocation of remote LLM APIs with local tool containers. This execution model can make the optimization of agent serving difficult because latency, local resource demand, and container bottlenecks inter-mix across requests. However, the current agent ecosystem runs without much consideration of resource dynamics, which results in significant waste of the precious resources. This paper analyzes the resource inter-mix of AI agents for three representative tasks: retrieval-augmented question answering, web search, and software coding. To this end, we characterize the latency with respect to the resource dynamics of processing multiple requests and tasks concurrently. Our measurements show that agents have a wide range of behaviors depending on tasks, so that even the same tool can differ substantially in resource dynamics. We also find that running multiple requests concurrently exposes task-dependent bottlenecks in resource dynamics such as CPU, disk I/O, and memory. Furthermore, we uncover that faster LLM responses or more CPU cores do not always accelerate agents. Based on these observations, we demonstrate new optimization opportunities that exploit the resource dynamics of tasks: CPU-aware tool admission and task-aware CPU allocation. Our results show that the latency of CPU-sensitive agent tasks improves $\\sim$5.4$\\times$, and the average latency across multiple tasks is reduced $\\sim$32% compared to native agents.",
+    "title_zh": "并非所有AI代理都相同：资源与性能特征分析",
+    "abstract_zh": "基于大语言模型(LLM)的AI代理通过迭代推理和工具执行来处理用户请求，通常涉及调用远程LLM API和本地工具容器。这种执行模式使得代理服务的优化变得困难，因为延迟、本地资源需求和容器瓶颈在不同请求中相互交织。然而，当前的代理生态系统在运行时很少考虑资源动态性，导致宝贵资源的严重浪费。本文分析了三种代表性任务中AI代理的资源交织情况：检索增强型问答、网络搜索和软件编程。为此，我们表征了处理多个请求和任务并发时的资源动态性延迟。我们的测量表明，代理的行为因任务而异广泛，即使是相同的工具在资源动态性上也可能存在显著差异。我们还发现，运行多个并发请求会暴露出资源动态性中的任务相关瓶颈，如CPU、磁盘I/O和内存。此外，我们发现更快的LLM响应或更多的CPU核心并不总能加速代理。基于这些观察，我们展示了利用任务资源动态性的新优化机会：CPU感知的工具准入和任务感知的CPU分配。我们的结果表明，对于CPU敏感的代理任务，延迟改善了约5.4倍，与原生代理相比，多个任务的平均延迟减少了约32%。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Trust, but Validate the Instrument: Auditing AI-Generated RTL Verification Plans on Authored Security-Regression Proxies",
+    "authors": "Hang Xiao, Chuhong Xu, Kainan Zhou, Gangzhen Qian, Lu Yi",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19844v1",
+    "source": "arXiv",
+    "abstract": "AI-generated RTL verification plans can satisfy a provider schema yet fail at the boundary to trusted execution. We present SecTB-RTL, an auditable framework covering 31 tasks and 124 authored hardware-security regressions. A deterministic non-AI baseline killed 36, 75, and 78 mutants at increasing resource limits. The first confirmatory run (C1-R2) failed before model execution because the provider rejected its response schema. After a schema-only repair made without viewing outcomes, a separately frozen follow-up run (C1-R3) completed 1,860 calls. The provider accepted 1,857 responses, but only nine passed the production semantic validator. The generation and execution rules did not match. We therefore preserve the run as an instrument-validation incident and report no prompt-effect estimate. This incident shows that provider or schema acceptance does not establish execution validity. Compilation and coverage are only diagnostics; the exact saved artifact must pass the full production path. A subsequent follow-up is excluded because it did not satisfy the preregistered evidence-completeness gate and is treated only as future work. We release the benchmark, failure-preserving contract, incident provenance, and governance controls needed to prevent infrastructure behavior from being misreported as model behavior.",
+    "title_zh": "信任但验证工具：对基于作者安全回归代理的AI生成RTL验证计划进行审计",
+    "abstract_zh": "AI生成的RTL验证计划可能满足提供者模式(schema)，但在可信执行边界上失败。我们提出了SecTB-RTL，一个可审计的框架，涵盖31项任务和124个编写的硬件安全回归测试。一个确定性的非AI基线在不断增加的资源限制下分别消除了36、75和78个变异体(mutants)。第一次确认运行(C1-R2)在模型执行前失败，因为提供者拒绝了其响应模式。在进行仅修复模式且未查看结果后，一个单独冻结的后续运行(C1-R3)完成了1,860次调用。提供者接受了1,857个响应，但只有9个通过了生产语义验证器。生成规则与执行规则不匹配。因此，我们将此次运行保留为仪器验证事件，并报告无提示效应估计。这一事件表明，提供者或模式接受并不能确立执行有效性。编译和覆盖率仅是诊断工具；确已保存的工件必须通过完整的生产路径。后续的跟进被排除，因为它不满足预注册的证据完整性标准，仅被视为未来工作。我们发布了基准测试、保留失败的合约、事件来源以及治理控制，这些措施可防止基础设施行为被误报为模型行为。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Self Improvement via Fast Tree-search",
+    "authors": "Xinghong Fu, Aravinth Kulanthaivelu, Yutaro Yamada",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19526v1",
+    "source": "arXiv",
+    "abstract": "Coding agents can recursively modify their own implementations, forming a loop of self-improvement. While prior work shows this can boost performance on coding benchmarks, existing approaches are costly and compute-intensive. We introduce a simple, sample-efficient self-improvement framework that significantly improves coding performance under strict budget constraints. We identify evaluation of candidate self-modifications as the main runtime bottleneck since prior approaches estimate their effectiveness by re-running a subset of benchmark tasks with the modified agent, which is time-consuming. We introduce Recursive Self Improvement via Fast Tree-search (SIFT), which augments these downstream task evaluations with an LLM-as-a-judge signal that performs pairwise comparisons between candidate patches, where the win-loss record is aggregated with a regularized Bradley-Terry model, and the resulting strength scores drive rank-based parent sampling inside a lightweight disaggregated tree search. Expensive downstream task evaluations are reserved only for the most promising nodes. Using a fully disaggregated tree search pipeline, the judge scores provide intermediate signal to guide exploration on promising candidate patches without being bottlenecked by slow evaluation runs. SIFT outperforms existing tree-search based self-evolution frameworks on the full Polyglot benchmark with significantly lower resource requirements in terms of CPU hours, wall clock time, and API cost.",
+    "title_zh": "通过快速树搜索实现自我提升",
+    "abstract_zh": "编程代理可以递归地修改自身的实现，形成自我改进的循环。虽然先前的研究表明这可以提高编程基准测试的性能，但现有方法成本高昂且计算密集。我们引入了一种简单、样本高效的自我改进框架，在严格的预算约束下显著提高了编程性能。我们将候选自我修改的评估确定为主要运行时瓶颈，因为先前的方法通过重新运行修改后的代理在基准任务子集上来估计其有效性，这非常耗时。我们引入了通过快速树搜索实现的递归自我改进（SIFT）方法，该方法通过LLM作为裁判信号来增强这些下游任务评估，该信号对候选补丁进行成对比较，其中胜负记录通过正则化Bradley-Terry模型进行聚合，所得强度分数在轻量级解耦树搜索中驱动基于排名的父节点采样。昂贵的下游任务评估仅保留给最有希望的节点。通过完全解耦的树搜索流程，裁判分数提供了中间信号，指导对有希望的候选补丁的探索，而不会因缓慢的评估运行而成为瓶颈。在完整的Polyglot基准测试中，SIFT在CPU小时数、挂钟时间和API成本方面资源需求显著降低的情况下，超越了现有的基于树搜索的自我进化框架。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents",
+    "authors": "Zhexi Feng, Ruiyi Zhang, Yongbo Yang, Pengtao Xie",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.20050v1",
+    "source": "arXiv",
+    "abstract": "A coding agent halfway through an issue has already read much of what a retriever ranks highest. Relevance is scored per passage, but sufficiency belongs to the set: a ranker can fill its budget with variants of one required fact and leave the decision unsupported. We formulate state-conditioned minimal sufficient evidence recovery: given a captured agent state, recover a compact evidence combination that supplies the support its next decision still lacks. SERBench measures this on 500 held-out states from 45 repositories, recording what the agent has seen and crediting only sets that cover every fact the current decision was annotated to require. MSS-Complement treats acquisition as set construction, not ranking. Three semantic calls propose a jointly sufficient set, search for what it lacks, and return 4-8 intact source units within 6,144 tokens. One configuration, fixed on calibration data, recovers a complete set for 73.0% of those states at five items and 80.6% at eight, against 61.4% and 72.4% for Qwen3 embedding with reranking. A matched control ranking by similarity alone reaches 66.6%, placing the gain in the set-level policy, not the computation. From frozen repository source with no gold-derived pool, the lead is 5.0 points. On AMA-Bench it answers from a 76.2% smaller answer prompt, with accuracy 2.08 points above that benchmark's own memory agent. Removing one required group from an otherwise complete set costs 12.3 and 11.1 points of repair-localization precision under two executors. Retrieval for agents is better posed as recovering what a decision lacks than re-ranking what an issue resembles.",
+    "title_zh": "缺失的补语：面向编码代理的状态条件最小充分证据",
+    "abstract_zh": "一个处理到一半问题的编码代理已经阅读了检索器排名最高的许多内容。相关性是按段落评分的，但充分性属于集合范畴：排名器可以用一个必需事实的变体填满其预算，而使决策缺乏支持。我们提出了状态条件下的最小充分证据恢复：给定的捕获代理状态，恢复一个紧凑的证据组合，为其下一个决策仍缺乏的支持提供补充。SERBench在来自45个存储库的500个保留状态上对此进行测量，记录代理已看到的内容，并且只对覆盖当前决策被注释要求的所有事实的集合给予认可。MSS-Complement将获取视为集合构建，而非排名。三次语义调用提出一个联合充分的集合，搜索其缺失内容，并在6,144个标记内返回4-8个完整的源单元。一个在校准数据上固定的配置，在五个项目时为73.0%的状态恢复了完整集合，在八个项目时为80.6%，而Qwen3嵌入与重排序则分别为61.4%和72.4%。仅按相似性进行的匹配控制排名达到66.6%，这表明增益在于集合级别的策略，而非计算。在无黄金衍生池的冻结存储库源上，领先优势为5.0个百分点。在AMA-Bench上，它使用比该基准自身内存代理小76.2%的答案提示进行回答，准确度高出2.08个百分点。从一个完整的集合中移除一个必需组，在两个执行器下会使修复定位精度分别损失12.3和11.1个百分点。对于代理而言，检索最好表述为恢复决策所缺乏的内容，而非重新排序与问题相似的内容。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "LLVM Translation Validation Automated with Large Language Models and Lean",
+    "authors": "Chunhao Liao, Hongxu Xu, Xintong Zhou, Yizhou Zhang, Chengnian Sun",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19583v1",
+    "source": "arXiv",
+    "abstract": "LLVM is the cornerstone of modern compilers, but its subtle intermediate representation (IR) semantics make transformations error-prone and necessitate formal verification. Alive2, a state-of-the-art translation validator based on satisfiability modulo theories, has achieved substantial success in automating the validation of LLVM transformations. However, it still faces scalability limitations, does not support symbolic bitwidths, and offers only bounded guarantees for loops. In contrast, interactive theorem provers such as Lean can address these cases but require substantial proof engineering. In this paper, we present Trivet, a framework combining large language models (LLMs) and Lean for automated translation validation of LLVM transformations. Trivet generates structured proof scaffolds based on source and target functions, automatically discharges obligations amenable to deterministic reasoning, and delegates transformationspecific obligations to LLMs. It produces refinement proofs or counterexample-based refutations, with every successful verdict checked by the Lean kernel. On 148 LLVM transformations, Trivet verifies or refutes 147, leaving one invalid case unresolved. Successful cases include 60 loop-free transformations with symbolic bitwidths, 27 cases from a restricted class of loop-containing transformations, and 10 complex valid fixed-bitwidth cases on which Alive2 times out. Compared with an unscaffolded baseline, scaffolding enables 26 additional proofs. On cases solved by both configurations, it reduces mean proof time by 75.9% and mean monetary cost by 88%.",
+    "title_zh": "使用大型语言模型和Lean自动验证LLVM翻译",
+    "abstract_zh": "LLVM是现代编译器的基石，但其微妙的中间表示(IR)语义使得转换容易出错，并且需要形式化验证。Alive2是一种基于可满足性模理论(SMT)的最先进的翻译验证器，在自动化验证LLVM转换方面取得了显著成功。然而，它仍然面临可扩展性限制，不支持符号位宽，并且对循环只提供有界保证。相比之下，交互式定理证明器如Lean可以解决这些情况，但需要大量的证明工程。在本文中，我们提出了Trivet，这是一个结合大型语言模型(LLMs)和Lean的框架，用于LLVM转换的自动化翻译验证。Trivet基于源函数和目标函数生成结构化的证明脚手架，自动处理适合确定性推理的义务，并将特定于转换的义务委托给LLMs。它产生细化证明或基于反例的驳斥，每个成功的判决都由Lean内核检查。在148个LLVM转换中，Trivet验证或驳斥了147个，留下一个无效案例未解决。成功案例包括60个具有符号位宽的无循环转换，27个来自受限循环转换类别的案例，以及10个Alive2超时的复杂有效固定位宽案例。与无脚手架的基线相比，脚手架支持额外26个证明。在两种配置都解决的案例中，它将平均证明时间减少了75.9%，平均货币成本减少了88%。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "A Closed-Loop Control Architecture for Reliable Constraint Satisfaction in LLM Text Generation",
+    "authors": "Quan Zhou, Shahbaz Siddeeq, Mika Saari, Pekka Abrahamsson",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19710v1",
+    "source": "arXiv",
+    "abstract": "Software systems increasingly embed a large language model in features that must satisfy a numeric output constraint, that is, a requirement expressible as a number or an interval and checkable by code, such as a target word count or a target readability grade band. Because such a model is non-deterministic, is configured through natural-language instructions rather than a typed interface, and satisfies a stated requirement only approximately, a single prompt neither reliably meets the target nor preserves the source content. This paper presents and evaluates a closed-loop control architecture for this problem. It has five stages: generate, evaluate, adjust, archive, and analyze. The model is called only to write and to edit text, while deterministic code compares a composite readability value against a target band, rejects any edit that drops source entities, numbers, or keywords, and makes every accept decision. Over 114 single-shot generation jobs and 240 closed-loop runs on four commercial models, single-shot prompting met the target in 21.1 to 31.6 percent of cases and the closed loop in 92.5 to 98.8 percent, within two edit rounds on average and at a recall-based fidelity of 0.92 to 0.93; the two models common to both settings show the same effect. Because the controller optimizes the value on which success is scored, the result establishes reproducible control over a declared, computable metric and not validated human difficulty. The transferable practice is to declare the acceptance condition as code, bound the model to local edits, and gate every edit on a content check.",
+    "title_zh": "一种用于大语言模型文本生成中可靠约束满足的闭环控制架构",
+    "abstract_zh": "软件系统越来越多地将大型语言模型嵌入到必须满足数值输出约束的功能中，即可以通过代码检查的、可表示为数字或区间的要求，例如目标字数或目标可读性等级范围。由于此类模型具有非确定性特性，通过自然语言指令而非键入界面进行配置，并且仅近似满足既定要求，因此单一提示既无法可靠地达到目标，也无法保留源内容。本文提出并评估了一种针对此问题的闭环控制架构，该架构包含五个阶段：生成、评估、调整、存档和分析。模型仅用于编写和编辑文本，而确定性代码则将综合可读性值与目标范围进行比较，拒绝任何删除源实体、数字或关键词的编辑，并做出所有接受决策。在针对四个商业模型进行的114次单次生成作业和240次闭环运行中，单次提示在21.1%至31.6%的情况下达到目标，而闭环方法在92.5%至98.8%的情况下达到目标，平均仅需两轮编辑，且基于召回率的保真度为0.92至0.93；两种在两种设置中通用的模型显示出相同的效果。由于控制器针对成功评分的值进行优化，因此该方法建立了对已声明、可计算指标的可重现控制，而非经过验证的人工难度。可推广的做法是将接受条件声明为代码，将模型限制在局部编辑范围内，并对每次编辑进行内容检查。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "DeltaSelect: Affordable A/B Testing for Coding Agents",
+    "authors": "Nicholas J. Conn",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19607v1",
+    "source": "arXiv",
+    "abstract": "Coding-agent benchmarks are built for broad and comprehensive comparisons, not frequent development decisions. Individual runs vary, full suites are expensive, and the benchmark harness may differ from the harness used in practice. In a resampling analysis of DeepSWE's published trials, only 19.5% of tasks (22 of 113) had a fifth-percentile Pearson correlation of at least 0.50 with full-benchmark performance. The paper presents DeltaSelect, an open-source method that identifies tasks whose one-run results consistently track full-benchmark performance using Pearson correlation, maps fractional verifier results to a common score using linear regression, and selects a fixed task set within a dollar budget. DeltaSelect is intended for repeated baseline-versus-candidate comparisons during development, not model rankings. In a gpt-5.6-luna low-reasoning case study, DeltaSelect was used to revise custom skills and instructions. Across 13 evaluations, the recorded cost was USD 27.86 at rates published August 16, 2026. The adopted version cost 58.1% less than the initial version (USD 1.75 versus USD 4.18; p=0.008), while the calibrated score was higher (42.36% versus 36.46%; published-analog variance p=0.326).",
+    "title_zh": "DeltaSelect：面向代码代理的实惠A/B测试",
+    "abstract_zh": "编码代理基准测试旨在进行广泛而全面的比较，而非频繁的开发决策。单次运行结果各异，完整测试套件成本高昂，且基准测试工具可能与实际使用的工具存在差异。在对DeepSWE已发表试验的重采样分析中，仅有19.5%的任务（113个中的22个）与完整基准测试性能的第五百分位皮尔逊相关系数至少为0.50。本文介绍了DeltaSelect，一种开源方法，它使用皮尔逊相关系数识别单次运行结果与完整基准测试性能一致的任务，通过线性回归将部分验证结果映射到共同分数，并在预算限制内选择固定任务集。DeltaSelect旨在开发过程中进行基线与候选方案的重复比较，而非模型排名。在一个gpt-5.6-luna低推理案例研究中，DeltaSelect被用于修订自定义技能和指令。在13次评估中，记录的成本为2026年8月16日公布的费率下的27.86美元。采用版本比初始版本成本低58.1%（1.75美元对比4.18美元；p=0.008），而校准分数更高（42.36%对比36.46%；已发表类比方差p=0.326）。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents",
+    "authors": "Alex Remedios, Simon Storf, Fabien Roger, John Hughes",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19587v1",
+    "source": "arXiv",
+    "abstract": "To keep coding agents from going off the rails, production systems now review each proposed action with a blocking monitor that can reject it before it runs (Auto Mode in Claude Code, Guardian in OpenAI's Codex). Prior evaluations of such monitors largely measure robustness to accidental harm or prompt injections from untrusted sources looking to hijack the agent. Less understood is how they hold up when the agent they monitor is persistently misaligned. To understand this risk, we task an adversarial agent with evading production blocking monitors and causing catastrophic harm, e.g. by exfiltrating its own weights. We find that when instructed with high-level attack strategies, adversarial agents can succeed through several distinct mechanisms, such as agent-generated prompt injection against the monitor, multi-agent attacks, and malicious compaction. In particular we find that in 79% of trials, the agent can use an injection attack against Auto Mode and Guardian to run arbitrary bash commands. We also find that it is possible to greatly improve Auto Mode through design changes like enhancements to tool coverage, transcript formatting and an agentic monitor stage. Even with these improvements, preventing multi-context attacks at an acceptable cost remains an open problem. By detailing our red-teaming methodology and highlighting new attack vectors, we aim to help defenders evaluate their mitigations against the possibility of persistent malign coding agents. Code is available at https://github.com/safety-research/red-teaming-auto-mode.",
+    "title_zh": "红队自动模式：提升对抗恶意编码代理的阻塞分类器",
+    "abstract_zh": "为防止编码代理偏离正轨，生产系统现在会使用阻塞监控器审查每个拟议行动，该监控器可以在行动执行前拒绝它（Claude Code中的自动模式，OpenAI Codex中的Guardian）。对此类监控器的先前评估主要衡量其对意外伤害或来自试图劫持代理的不可信来源的提示注入的鲁棒性。人们不太了解的是，当它们监控的代理持续不 aligned 时，它们的表现如何。为了了解这一风险，我们让一个对抗性代理尝试规避生产阻塞监控器并造成灾难性伤害，例如通过提取自身权重。我们发现，当接收到高级攻击策略指示时，对抗性代理可以通过几种不同的机制成功，例如针对监控器的代理生成提示注入、多代理攻击和恶意压缩。特别是我们发现，在79%的试验中，代理可以使用针对自动模式和Guardian的注入攻击来运行任意bash命令。我们还发现，通过改进工具覆盖范围、转录格式设计和添加代理监控阶段等设计更改，可以显著改进自动模式。即使有了这些改进，以可接受的成本防止多上下文攻击仍然是一个悬而未决的问题。通过详细说明我们的红队测试方法并突出新的攻击向量，我们旨在帮助防御者评估其针对持续恶意编码代理的缓解措施。代码可在 https://github.com/safety-research/red-teaming-auto-mode 获取。"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
+    "authors": "Akiyoshi Tomihari, Yuma Ichikawa",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.19515v1",
+    "source": "arXiv",
+    "abstract": "Verifier-based selection improves LLM performance by generating multiple candidate solutions and using a verifier to select the most promising one. However, existing methods typically treat verification only as a ranking step and discard its feedback once a fixed candidate pool has been evaluated. In this paper, we ask whether verification can also improve the candidate set itself. To this end, we introduce LLM-as-an-Improver and propose Verify--Repair--Reselect (VRR), which uses verification feedback to generate and reselect improved candidates. VRR retains the initial winner while conditionally generating three complementary alternatives: repaired versions of the winner and runner-up, and a solution based on a new approach. It filters invalid and duplicate candidates using only inference-time information and then reselects the final answer under the original evaluation criteria. Across diverse models and code-generation and reasoning benchmarks, VRR improves over fixed-pool verifier-based selection in many settings and can recover correct solutions even when all candidates in the initial pool are incorrect. These results highlight a broader role for LLMs as improvers: verification feedback can not only select among existing solutions but also construct stronger candidates beyond the initial pool.",
+    "title_zh": "LLM作为改进者：将验证转化为更好的候选方案",
+    "abstract_zh": "基于验证器的选择通过生成多个候选解决方案并使用验证器选择最有前景的一个来提高大语言模型(LLM)的性能。然而，现有方法通常将验证仅视为一个排序步骤，并在评估完固定的候选池后丢弃其反馈。在本文中，我们探讨验证是否也能改进候选集本身。为此，我们引入了\"LLM作为改进器\"(LLM-as-an-Improver)，并提出了\"验证-修复-重新选择\"(VRR)方法，该方法利用验证反馈生成并重新选择改进的候选方案。VRR保留初始获胜者，同时有条件地生成三个互补的替代方案：获胜者和亚军的修复版本，以及基于新方法的解决方案。它仅使用推理时信息过滤无效和重复的候选，然后在原始评估标准下重新选择最终答案。在多样化的模型以及代码生成和推理基准测试中，VRR在许多场景下优于固定池的基于验证器的选择方法，甚至在初始池中的所有候选都不正确时，也能恢复正确的解决方案。这些结果突显了LLM作为改进者的更广泛作用：验证反馈不仅可以从现有解决方案中进行选择，还可以构建超出初始池的更强候选。"
+  },
+  {
+    "date": "2026-9-17",
+    "title": "Activation Steering for Smart Contract Vulnerability Detection: A Calibration Mechanism Bounded by Pre-Training Knowledge",
+    "authors": "Abhirup Mukherjee, Latifur Khan, Bhavani Thuraisingham",
+    "publish": "2026 IEEE International Conference on Intelligence and Security Informatics (ISI)",
+    "url": "https://doi.org/10.1109/isi69914.2026.11685839",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向智能合约漏洞检测的激活引导：一种受预训练知识限制的校准机制",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-18",
+    "title": "DIFCVerilog: Decoupling Capabilities and Taints for Fine-Grained Information Flow in Hardware",
+    "authors": "Yubo Shi, Zhi Yang, Shuyuan Jin, Bingren Wu",
+    "publish": "IEEE Transactions on Computers",
+    "url": "https://doi.org/10.1109/tc.2026.3734491",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DIFCVerilog：用于硬件中细粒度信息流的解耦能力与污点分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-18",
+    "title": "MCFS: LLM Reasoning Method Based on Multi-Level Constraints and Multi-Source Fusion Beam Search",
+    "authors": "Jiangtao Ma, Liufu Zhang",
+    "publish": "Proceedings of the 2026 3rd International Conference on Machine Learning and Intelligent Computing",
+    "url": "https://doi.org/10.1145/3829441.3829453",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "MCFS：基于多级约束和多源融合束搜索的大语言模型推理方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-17",
+    "title": "Guiding AI to Fix Its Own Flaws: An Empirical Study on LLM-Driven Secure Code Generation",
+    "authors": "Hao Yan, Swapneel Suhas Vaidya, Xiaokuan Zhang, Ziyu Yao",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3848030",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "引导AI修复自身缺陷：一项关于LLM驱动安全代码生成的实证研究",
+    "abstract_zh": "None"
+  }
+]
