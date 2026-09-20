@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-9-19",
+    "title": "Multi-Scale Temporal Convolution with Attention Mechanism for Hardware Trojan Detection",
+    "authors": "Yifan Zheng, Chao Chang, Annyu Liu, Yaoyuan Hu, Hantao Wu, An Wang, Zulie Pan",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3847670",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于注意力机制的多尺度时间卷积硬件木马检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-18",
+    "title": "DIFCVerilog: Decoupling Capabilities and Taints for Fine-Grained Information Flow in Hardware",
+    "authors": "Yubo Shi, Zhi Yang, Shuyuan Jin, Bingren Wu",
+    "publish": "IEEE Transactions on Computers",
+    "url": "https://doi.org/10.1109/tc.2026.3734491",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DIFCVerilog：用于硬件中细粒度信息流的解耦能力与污点分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-18",
+    "title": "MCFS: LLM Reasoning Method Based on Multi-Level Constraints and Multi-Source Fusion Beam Search",
+    "authors": "Jiangtao Ma, Liufu Zhang",
+    "publish": "Proceedings of the 2026 3rd International Conference on Machine Learning and Intelligent Computing",
+    "url": "https://doi.org/10.1145/3829441.3829453",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "MCFS：基于多级约束和多源融合束搜索的大语言模型推理方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-18",
+    "title": "Fine-Tuning UniXcoder for Code Smell Detection in Java Projects",
+    "authors": "Hanson Prihantoro Putro, Umi Laili Yuhana, Eko Mulyanto Yuniarno, Masayoshi Aritsugi, Mauridhi Hery Purnomo",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3733439",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "针对Java项目的代码异味检测对UniXcoder进行微调",
+    "abstract_zh": "None"
+  }
+]
