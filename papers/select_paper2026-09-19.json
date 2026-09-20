@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-9-19",
+    "title": "Multi-Scale Temporal Convolution with Attention Mechanism for Hardware Trojan Detection",
+    "authors": "Yifan Zheng, Chao Chang, Annyu Liu, Yaoyuan Hu, Hantao Wu, An Wang, Zulie Pan",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3847670",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于注意力机制的多尺度时间卷积硬件木马检测",
+    "abstract_zh": "None"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-9-19",
+    "title": "Multi-Scale Temporal Convolution with Attention Mechanism for Hardware Trojan Detection",
+    "authors": "Yifan Zheng, Chao Chang, Annyu Liu, Yaoyuan Hu, Hantao Wu, An Wang, Zulie Pan",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3847670",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-19",
+    "title": "Addressing Span Imbalance and Semantic Complexity in Nested Medical Named Entity Recognition",
+    "authors": "Yuling Li, Yangjuan Hu, Yiming Bao, Zi Wang, Ji Chang, Zerui Li, Kui Yu, Fei Yang",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3848503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-9-19",
+    "title": "AC/DC: Automated Compilation for Dynamic Circuits",
+    "authors": "Siyuan Niu, Efekan Kökcü, Anupam Mitra, Aaron Szasz, Akel Hashim, Justin Kalloor, Wibe de Jong, Costin Iancu, Ed Younis",
+    "publish": "ACM Transactions on Quantum Computing",
+    "url": "https://doi.org/10.1145/3846519",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
