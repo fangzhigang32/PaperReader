@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-9-21",
+    "title": "Structure-Enhanced Lexical Retrieval for Code Clone Detection on POJ-104",
+    "authors": "Ning Hao, Haiwei Guo, Yang Li",
+    "publish": "2026 5th International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology (AIoTC)",
+    "url": "https://doi.org/10.1109/aiotc71250.2026.11689562",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于POJ-104的代码克隆检测的结构增强词汇检索",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-21",
+    "title": "Comparative Analysis of Rewriting-Based Large Language Model-Generated Synthetic Code Detection",
+    "authors": "Maulana Arya Alambana, Arif Nurwidyantoro",
+    "publish": "2026 IEEE 1st International Conference on Artificial Intelligence Implementation &amp; Applications (ICAIIA)",
+    "url": "https://doi.org/10.1109/icaiia70172.2026.11691940",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于重写的大型语言模型生成合成代码检测的比较分析",
+    "abstract_zh": "None"
+  }
+]
