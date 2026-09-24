@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-9-23",
+    "title": "Generation of Scalar ASIPs with OpenVADL",
+    "authors": "Linus Halder, Matthias Raschhofer, Andreas Krall",
+    "publish": "2026 IEEE 37th International Conference on Application-specific Systems, Architectures and Processors (ASAP)",
+    "url": "https://doi.org/10.1109/asap71856.2026.00039",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用OpenVADL生成标量ASIP",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-23",
+    "title": "An LLM-Augmented Framework for Embedded Firmware Development with Automated Validation and Hardware-in-the-Loop Testing",
+    "authors": "Zhenzhong Wang",
+    "publish": "2026 2nd International Conference on Electronic Information, Computer and Aerospace Remote Sensing (EICARS)",
+    "url": "https://doi.org/10.1109/eicars71536.2026.11694922",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型的嵌入式固件开发框架，具有自动验证与硬件在环测试功能",
+    "abstract_zh": "None"
+  }
+]
