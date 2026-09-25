@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-9-24",
+    "title": "A Unified Framework for Code Vulnerability Detection via Adaptive Pooling and Symbolic Relational Graph Representation",
+    "authors": "Xiang Li, Jing Zhang",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3733377",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于自适应池化和符号关系图表示的代码漏洞检测统一框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-24",
+    "title": "What Makes Effective Knowledge Distillation for Large Language Models in Code Generation?",
+    "authors": "Yujia Chen, Jian Dong, Zhongqi Li, Yuchi Ma, Cuiyun Gao",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3737589",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "什么是大型语言模型在代码生成中的有效知识蒸馏？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-24",
+    "title": "How Developers Respond to Insecure AI Code Suggestions under Poisoning Attacks: An Empirical Study of Interface-Level Countermeasures_supp1-3731966.pdf",
+    "authors": "Hyoungshick Kim",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tse.2026.3731966/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "开发者如何应对中毒攻击下的不安全AI代码建议：针对接口级对策的实证研究_supp1-3731966.pdf",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-24",
+    "title": "Smart Contract Vulnerability Detection via Mask Consistency with Dynamic Margin Adjustment",
+    "authors": "Siyu Jiang, Feng Guo, Di Chen, Yuan Liu, Ying Chen, Weijun Sun, Yu Wang, Shen Su",
+    "publish": "IEEE Transactions on Network and Service Management",
+    "url": "https://doi.org/10.1109/tnsm.2026.3733072",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于掩码一致性与动态边距调整的智能合约漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-24",
+    "title": "PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization",
+    "authors": "Dongsheng Zuo, Jiadong Zhu, Yang Luo, Yuzhe Ma",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3843236",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PrefixAgent：一种基于大语言模型的高效前缀加法器优化设计框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-24",
+    "title": "Fault Localization using LLMs with Line-by-Line Program Execution Traces",
+    "authors": "Takafumi Sakura, Ryo Soga, Hideyuki Kanuka, Kazumasa Shimari, Takashi Ishio",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3737184",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用大语言模型和逐行程序执行轨迹进行故障定位",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-24",
+    "title": "A Sound Semantics Approximation of Solidity for Enhanced Vulnerability Detection",
+    "authors": "Maitri Kushwaha, Raju Halder, Agostino Cortesi",
+    "publish": "Distributed Ledger Technologies: Research and Practice",
+    "url": "https://doi.org/10.1145/3849490",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一种增强漏洞检测的Solidity语义近似方法",
+    "abstract_zh": "None"
+  }
+]
