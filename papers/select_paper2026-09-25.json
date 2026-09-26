@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-9-25",
+    "title": "ProteusFuzz: From Static Harness Generation to Adaptive, Agent-Guided Library Fuzzing_supp1-3730860.pdf",
+    "authors": "Ping Chen",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tdsc.2026.3730860/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "ProteusFuzz：从静态测试桩生成到自适应、智能体引导的库模糊测试_supp1-3730860.pdf",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-25",
+    "title": "SSF-LCP: Stable SHAP Feature Selection with a Lightweight Classifier Pool for Cross-Project Software Defect Prediction",
+    "authors": "Ziyu Luo, Ziyao Zheng, Dianchun Yu, Yunhe Zhang, Ende Wang",
+    "publish": "Proceedings of the 2026 6th International Conference on Automation Control, Algorithm and Intelligent Bionics",
+    "url": "https://doi.org/10.1145/3828836.3828955",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "SSF-LCP：基于轻量级分类器池的稳定SHAP特征选择用于跨项目软件缺陷预测",
+    "abstract_zh": "None"
+  }
+]
