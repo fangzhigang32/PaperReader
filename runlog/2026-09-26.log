@@ -1,0 +1,12 @@
+[2026-09-27 00:17:26] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-09-26
+正在获取论文...
+[ACM] 2026-9-26 | FASP: A Fault-Aware Hardware/Software Partitioning Framework for Security Verification in Reliable Digital Microfluidic Biochips
+共写入 1 条记录，保存到 papers/paper2026-09-26.json。
+论文获取成功，文件路径: papers/paper2026-09-26.json
+正在筛选、翻译并发送邮件...
+[NO] 1/1 | FASP: A Fault-Aware Hardware/Software Partitioning Framework for Security Verification in Reliable Digital Microfluidic Biochips
+筛选完成：共 1 篇；Yes = 0 篇；已保存到 papers/select_paper2026-09-26.json。
+邮件发送成功！
+[2026-09-27 00:17:46] 任务执行成功！
