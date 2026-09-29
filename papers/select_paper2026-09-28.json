@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-9-28",
+    "title": "A Transformer-Based Framework for Automated Generation of Use Case, Sequence, and Class Diagrams from Natural Language Requirements",
+    "authors": "Belal Hany Ibrahem Ahmed Awad, Saif Mohamed Ahmed Abuelmaty, Hanaa Abdelahad Wakwak, Mohamed Labib Borham",
+    "publish": "2026 Intelligent Methods, Systems, and Applications (IMSA)",
+    "url": "https://doi.org/10.1109/imsa70415.2026.11700249",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于Transformer的框架：从自然语言需求自动生成用例图、序列图和类图",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-28",
+    "title": "A Difficulty-Aware Prompt-Model Recommendation Framework for LLM-Generated Python Code Using Competency-Based Evaluation",
+    "authors": "Animesh Giri, Shreelakshmi G Bhat, Chinmayi Hebbar A M, Bhuvi Dange, Vrinda Venugopal M",
+    "publish": "2026 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)",
+    "url": "https://doi.org/10.1109/conecct68978.2026.11700657",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于能力评估的LLM生成Python代码的难度感知提示-模型推荐框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-28",
+    "title": "A Model of Software Code Quality Analysis, Assessment, and Improvement System",
+    "authors": "Ihor Prokofiev, Oleg Savenko",
+    "publish": "2026 16th International Conference on Advanced Computer Information Technologies (ACIT)",
+    "url": "https://doi.org/10.1109/acit69831.2026.11700050",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "软件代码质量分析、评估与改进系统模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-28",
+    "title": "GAT-ZSL: Zero-Shot Hardware Trojan Detection with Graph Attention Networks",
+    "authors": "Bhoomishree Gowda, Anagha Sujith, Apoorva P N, Abhiram Bhat, Nirmala Devi M",
+    "publish": "2026 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)",
+    "url": "https://doi.org/10.1109/conecct68978.2026.11700605",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "GAT-ZSL：基于图注意力网络的零样本硬件木马检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-28",
+    "title": "Evaluating a Hybrid Static, Evolutionary ML, and LLM-Based Pipeline for Code Evolution Analysis",
+    "authors": "Shri Karthik A, Animesh Giri, Ankana Mandal, Anushka Mandal",
+    "publish": "2026 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)",
+    "url": "https://doi.org/10.1109/conecct68978.2026.11700602",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "评估一种混合静态、进化机器学习和基于大语言模型的代码演化分析流水线",
+    "abstract_zh": "None"
+  }
+]
