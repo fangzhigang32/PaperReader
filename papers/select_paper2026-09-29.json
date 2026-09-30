@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2026-09-29",
+    "title": "MLToolBench: Learning Tool-Augmented Agents for Machine Learning Development",
+    "authors": "Xin Yu, Lizhu Zhang, Jiamu Bai, Yanhong Wu, Zellux Wang, Serena Li, Weiwei Li, Lingzhou Xue, Xiangjun Fan, Bo Peng",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36679v1",
+    "source": "arXiv",
+    "abstract": "Machine learning engineering (MLE) agents have made substantial progress, but learning through ML experimentation remains costly in time and computation. Synthetic environments reduce these costs while introducing variations in data and experimental settings that require task-specific diagnosis. Access to diagnostic tools alone does not ensure that agents learn when to use them or how to act on their findings. We introduce ToolMLBench, a suite of executable tools for data inspection, code verification, and experiment diagnosis, together with an SFT and RL pipeline for learning their use. Diagnostic calls acquire evidence whose value depends on subsequent decisions, so final outcomes provide limited guidance on which calls to reinforce. We address this challenge with SPICE, which measures how privileged context changes the likelihood of a sampled tool action and uses this difference as a turn-level reward alongside the final outcome. We train on 80 synthetic tasks and evaluate on 25 in-domain and 10 out-of-domain tasks. Providing tool interfaces and descriptions alone yields inconsistent gains across unadapted models. With the same diagnostic interface, our training pipeline raises in-domain success from 24.8% to 52.4% for Qwen3-8B and from 35.6% to 69.2% for Qwen3.5-35B-A3B. The latter also improves from 31% to 48% out-of-domain, supporting learned diagnostic tool use on held-out sources and targets.",
+    "title_zh": "MLToolBench：学习用于机器学习开发的工具增强型智能体",
+    "abstract_zh": "机器学习工程(MLE)代理已取得显著进展，但通过机器学习实验进行学习仍然耗费大量时间和计算资源。合成环境降低了这些成本，同时引入了数据和实验设置的变化，这需要针对特定任务进行诊断。仅访问诊断工具并不能确保代理学会何时使用它们或如何根据其发现采取行动。我们引入了ToolMLBench，这是一套可执行工具，用于数据检查、代码验证和实验诊断，以及一个用于学习使用这些工具的SFT和RL管道。诊断调用获取的证据的价值取决于后续决策，因此最终结果对强化哪些调用提供的指导有限。我们通过SPICE解决了这一挑战，SPICE衡量特权上下文如何改变采样工具操作的可能性，并将这种差异作为回合级奖励与最终结果一起使用。我们在80个合成任务上进行训练，并在25个领域内和10个领域外任务上进行评估。仅提供工具接口和描述对未适应的模型带来的提升不一致。使用相同的诊断接口，我们的训练管道将Qwen3-8B的领域内成功率从24.8%提高到52.4%，将Qwen3.5-35B-A3B从35.6%提高到69.2%。后者在领域外的成功率也从31%提高到48%，这支持了在保留的源和目标上学习使用诊断工具。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning",
+    "authors": "Wenbin Hu, Huihao Jing, Haochen Shi, Yuxuan Liu, Haoran Li, Yangqiu Song",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36820v1",
+    "source": "arXiv",
+    "abstract": "Group Relative Policy Optimization (GRPO) is widely used to train reasoning language models, where it computes advantages by centering and normalizing rewards across rollouts of the same prompt. For multiple rewards, GRPO sums the reward components and normalizes the total reward by its within-group standard deviation. The corresponding variance equals the sum of all pairwise reward covariances. For a fixed centered reward, larger aggregate covariance produces smaller advantages, and vice versa, allowing update magnitudes to adapt to reward dependence. However, correlated rewards with large scales can dominate this normalization and suppress signals from smaller-scale rewards. We propose Correlation-Normalized GRPO (CorrGRPO), which normalizes pairwise covariances into Pearson correlation coefficients. CorrGRPO keeps the centered total reward unchanged while balancing the influence of differently scaled rewards on the correlation-based normalization. This allows advantage magnitudes to adapt to reward correlations without the normalization being dominated by large-scale reward components. We compare CorrGRPO with GRPO and other variants on code generation, tool calling, and agent security, using models ranging from 0.5B to 8B parameters. These tasks all involve multiple rewards that can improve together or present tradeoffs. Results show improvements across three domains, including code generation, tool calling, and agent security. Our code is available at https://github.com/HKUST-KnowComp/CorrGRPO.",
+    "title_zh": "CorrGRPO：用于多奖励学习的相关性归一化GRPO",
+    "abstract_zh": "组相对策略优化（GRPO）被广泛用于训练推理语言模型，它通过对同一提示的多次运行结果中的奖励进行中心化和归一化来计算优势。对于多个奖励，GRPO将各奖励分量相加，并以其组内标准差对总奖励进行归一化。相应的方差等于所有成对奖励协方差的总和。对于一个固定的中心化奖励，较大的总体协方差会产生较小的优势，反之亦然，这使得更新幅度能够适应奖励之间的依赖关系。然而，具有较大尺度的相关奖励可能会主导这种归一化过程，并抑制小尺度奖励的信号。我们提出了相关归一化GRPO（CorrGRPO），它将成对协方差归一化为皮尔逊相关系数。CorrGRPO保持中心化总奖励不变，同时平衡不同尺度奖励对基于相关性的归一化过程的影响。这使得优势幅度能够适应奖励相关性，而不会被大尺度奖励分量所主导。我们在代码生成、工具调用和代理安全三个领域，使用从0.5B到8B参数不等的模型，将CorrGRPO与GRPO及其他变体进行了比较。这些任务都涉及多个奖励，这些奖励可以共同改善或呈现权衡关系。结果显示在三个领域均有所改进，包括代码生成、工具调用和代理安全。我们的代码可在 https://github.com/HKUST-KnowComp/CorrGRPO 获取。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Distilling What Matters: Confidence-Aware Selective Distillation for Large Language Models",
+    "authors": "Ayan Sengupta, Vaibhav Seth, Tanmoy Chakraborty",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36734v1",
+    "source": "arXiv",
+    "abstract": "Knowledge Distillation (KD) trains a smaller-capacity student model to imitate a larger-capacity teacher model by matching output distributions, implicitly assuming the teacher to be a reliable oracle. In large language models (LLMs), this assumption often fails: teacher predictions can exhibit high entropy and hallucinations, causing standard KD to degrade well-calibrated student priors. We propose CaRE-KD, a confidence-gated distillation framework that replaces static objectives with uncertainty-adaptive optimization. CaRE-KD has two components: a token-level loss (CaRE-Divergence) that adaptively switches between Forward and Reverse KL divergence based on teacher--student confidence, and a batch-level epistemic rejection mechanism (Revival) that suppresses updates when the teacher is more uncertain than the student. We provide a gradient-level analysis showing how this dual-granularity design induces a conditional calibration mechanism that prior static divergences cannot reproduce. Empirically, across eight teacher--student pairs and eleven benchmarks spanning instruction following, chat alignment, code generation, and mathematical reasoning, CaRE-KD delivers consistent gains over strong baselines (Skewed-KL, $α$--$β$ divergence). Highlights include up to $+3.2$ average ROUGE-L on instruction-following tasks, $+2.1$ pass@1 on MBPP, $+1.7$ accuracy on GSM8k, and $+1.8$ accuracy on CollegeMath over the strongest baseline, with consistent gains in LLM-as-a-judge factuality (up to $+2.5$ per task over Skewed-RKL). Revival further acts as a principled, loss-agnostic plug-in that systematically strengthens existing distillation objectives by filtering epistemically unreliable teacher supervision.",
+    "title_zh": "提炼精华：面向大型语言模型的置信度感知选择性蒸馏",
+    "abstract_zh": "知识蒸馏(KD)通过匹配输出分布来训练较小容量的学生模型模仿较大容量的教师模型，隐含地假设教师模型是一个可靠的知识来源。在大语言模型(LLMs)中，这一假设常常失效：教师模型的预测可能表现出高熵值和幻觉现象，导致标准知识蒸馏降低学生模型的校准先验。我们提出了CaRE-KD，一个基于置信度门控的蒸馏框架，用不确定性自适应优化替代静态目标函数。CaRE-KD包含两个组件：一个基于token级别的损失函数(CaRE-Divergence)，根据教师-学生置信度自适应地在前向KL散度和反向KL散度之间切换；以及一个基于批次的认知拒绝机制(Revival)，当教师模型比学生模型更不确定时抑制更新。我们提供了梯度级别的分析，展示了这种双粒度设计如何诱导出传统静态散度无法复现的条件校准机制。实证研究表明，在涵盖指令遵循、对话对齐、代码生成和数学推理等八个教师-学生模型对和十一个基准测试中，CaRE-KD相比强基线方法(Skewed-KL, α-β散度)持续带来性能提升。亮点包括：在指令遵循任务上平均ROUGE-L最高提升+3.2，在MBPP上pass@1提升+2.1，在GSM8k上准确率提升+1.7，在CollegeMath上准确率提升+1.8，以及在LLM-as-a-judge事实性评估上相比最强基线最高每任务提升+2.5。Revival机制还作为一个原则性的、与损失函数无关的插件，通过过滤认知上不可靠的教师监督，系统性地增强现有蒸馏目标的效果。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Self-Evolving Defense: Continual Security Policy Learning for LLM Agents",
+    "authors": "Minh Nhat Le, Nisarga Gondi, Yibo Peng, Ronghao Ni, Limin Jia, Beidi Chen, Haizhong Zheng",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36603v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) increasingly power agents that access sensitive information, use external tools, and modify software repositories. Although these capabilities offer substantial benefits, they also create security risks such as jailbreaks, prompt injection, and vulnerable code generation. Existing defenses often require retraining, fail to adapt to evolving attacks, or address only a single threat pattern. To address these limitations, we propose Self-Evolving Defense (SED), a training-free framework that distills harmful agent trajectories into reusable security policies without updating model weights. By retrieving relevant policies for future tasks, SED continually adapts to new attacks while retaining knowledge across attack scenarios. To evaluate the effectiveness of SED, we test it with three open-source models (DeepSeek V4 Flash, GLM 5.2, and Kimi K3) on eight benchmarks that span jailbreaks, prompt injection, and insecure code generation. SED lowers targeted prompt-injection success on AGENTDOJO to 0.42%, compared with 3.7% for the best baseline defense, and holds adaptive X-TEAMING attack success on HARMBENCH to 7.8%, more than four times lower than the best baseline at 35.2%, while preserving benign task utility.",
+    "title_zh": "自我演进防御：面向大语言模型代理的持续安全策略学习",
+    "abstract_zh": "大型语言模型（LLMs）越来越多地支持能够访问敏感信息、使用外部工具和修改软件代码库的智能体。尽管这些功能带来了显著的好处，但也创造了安全风险，如越狱攻击、提示注入和易受攻击的代码生成。现有的防御方法通常需要重新训练，无法适应不断演变的攻击，或者只解决单一威胁模式。为解决这些局限性，我们提出了自进化防御（SED），这是一个无需重新训练的框架，它将有害的智能体轨迹提炼为可重用的安全策略，同时不更新模型权重。通过检索相关策略用于未来任务，SED能够持续适应新攻击，同时保留跨攻击场景的知识。为评估SED的有效性，我们在八个基准测试中对其进行了测试，这些测试涵盖了越狱攻击、提示注入和不安全代码生成，使用了三个开源模型（DeepSeek V4 Flash、GLM 5.2和Kimi K3）。SED将AGENTDOJO上的目标提示注入成功率降低到0.42%，而最佳基线防御为3.7%；在HARMBENCH上，SED将自适应X-TEAMING攻击成功率控制在7.8%，比最佳基线的35.2%降低了四倍以上，同时保持了良性任务效用。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "XRepoSkill: Learning Transferable Skills for Software Engineering Agents",
+    "authors": "Yaoqi Guo, Haoyang Zhou, Jiayi Zhang, Yiran Zhang, Yang Liu, Qiuyuan Chen, Qiang Lin, Hande Dong, Jie M. Zhang, Zhenpeng Chen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36807v1",
+    "source": "arXiv",
+    "abstract": "Software engineering agents increasingly use reusable skills distilled from prior experience to resolve repository-level issues, yet such skills often fail to transfer across repositories. A central challenge is that a behavior appearing in a successful trajectory is not necessarily responsible for the successful outcome: it may be genuinely useful, merely incidental, or simply a recurring habit of the model. We introduce XRepoSkill, a trajectory-based approach for learning transferable skills. We represent a skill as a collection of rules, each specifying what action to take and when to take it during issue resolution. XRepoSkill first contrasts successful and failed trajectories of the same agent on the same issue and derives candidate rules from where their execution paths diverge. Each rule is paired with an executable predicate that enables its prescribed behavior to be evaluated systematically on other trajectories. A rule is verified based on its association with successful issue resolution and retained only when its prescribed behavior recurs across multiple repositories; repository-specific variants of the same behavior are then consolidated into transferable rules. For a new issue, XRepoSkill selects relevant rules to guide the agent. We learn skills from publicly released trajectories on the official SWE-bench Verified leaderboard and evaluate them on SWE-bench Pro and DeepSWE using three backbone LLMs from different vendors; none of the evaluation repositories appears in the skill-learning trajectory pool. Against three recent skill learning methods, XRepoSkill achieves the highest issue resolution rate in all six benchmark--LLM combinations. In particular, on the challenging long-horizon DeepSWE benchmark, XRepoSkill improves issue resolution by 10.3 percentage points over the same agent without learned skills and by 5.0 points over the strongest skill-learning baseline.",
+    "title_zh": "XRepoSkill：为软件工程代理学习可迁移技能",
+    "abstract_zh": "软件工程代理 increasingly 使用从先前经验中提炼的可重用技能来解决存储库级别的问题，然而这些技能往往无法跨存储库迁移。一个核心挑战是，成功轨迹中出现的行为不一定负责成功的结果：它可能真正有用，只是偶然发生，或者只是模型的一种习惯性行为。我们引入了 XRepoSkill，这是一种基于轨迹的学习可迁移技能的方法。我们将技能表示为规则的集合，每个规则指定在解决问题时应采取什么行动以及何时采取行动。XRepoSkill 首先对比同一代理在同一问题上的成功和失败轨迹，并从它们的执行路径分歧处派生候选规则。每条规则都配有一个可执行谓词，使其规定的行为能够在其他轨迹上得到系统评估。规则基于其与成功问题解决的关联性进行验证，只有当其规定的行为在多个存储库中重复出现时才会被保留；然后，同一行为的不同存储库特定变体被整合为可迁移规则。对于新问题，XRepoSkill 选择相关规则来指导代理。我们从官方 SWE-bench Verified 排行榜公开发布的轨迹中学习技能，并使用来自不同供应商的三种骨干 LLM 在 SWE-bench Pro 和 DeepSWE 上进行评估；评估中使用的存储库均未出现在技能学习轨迹池中。与最近的三种技能学习方法相比，XRepoSkill 在所有六种基准测试-LLM 组合中实现了最高的问题解决率。特别是在具有挑战性的长视野 DeepSWE 基准测试中，XRepoSkill 比未学习技能的同一代理提高了 10.3 个百分点的问题解决率，比最强的技能学习基线提高了 5.0 个百分点。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "The Editor Has Read-Only Access: Correctness Signals in Diffusion Language Models",
+    "authors": "Angad Miglani, Samrath Singh Chadha, Kevin Li, Manas Venkata Sai Ravulapalli",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36783v1",
+    "source": "arXiv",
+    "abstract": "Diffusion language models generate code by repeatedly updating a partially masked sequence. We ask whether their internal activations encode code correctness and whether that information can improve generation. Across six diffusion models, linear probes distinguish passing from failing attempts, with the strongest reads generally appearing beyond the early layers. Controls using small semantic mutations support a connection to correctness rather than surface style alone. In comparisons with model confidence, probe point estimates offer no consistent advantage. Adding a probe-derived direction to the residual stream does not yield a dependable improvement in the tested steering settings, while the opposite direction degrades performance. We distinguish these observations from claims about statistical significance or a general inability to steer. Supplementary methods, archived results, and code document the tested interventions and the limits of their statistical calibration and reproducibility.",
+    "title_zh": "编辑器具有只读访问权限：扩散语言模型中的正确性信号",
+    "abstract_zh": "扩散语言模型通过反复更新部分掩码序列来生成代码。我们探究它们的内部激活是否编码了代码的正确性，以及这些信息是否能改善生成效果。在六个扩散模型中，线性探针能够区分通过和失败的尝试，其中最强的读取信号通常出现在早期层之后。使用小型语义变异的对照实验支持了这种关联与代码正确性而非表面风格的观点。与模型置信度相比，探针的点估计并未显示出一致的优势。将探针衍生的方向添加到残差流中，在测试的转向设置下并未产生可靠的改进，而相反的方向则降低了性能。我们将这些观察结果与关于统计显著性或普遍无法转向的声明区分开来。补充方法、存档结果和代码记录了所测试的干预措施，以及它们统计校准和可复现性的局限性。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "SIPO: Unifying Reinforcement Learning with On-Policy Self-Distillation",
+    "authors": "Zhenrui Yue, Huimin Zeng, Yueqi Wang, Yaokun Liu, Fengran Mo, Jinghan Zhang, Mung Yao Jia, Gyuseok Lee, Yang Zhang, Na Wei, Dong Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36742v1",
+    "source": "arXiv",
+    "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for improving large language models (LLMs) on various tasks, yet its sparse outcome rewards lack token-level credit assignment for intermediate steps. To address this, on-policy self-distillation (OPSD) leverages a self-teacher with privileged context to provide additional dense learning signals. However, because the self-teacher is often overconfident and imposes excessive penalties on long reasoning trajectories, OPSD frequently struggles in practice. To mitigate this, we propose self-instructing policy optimization (SIPO) with a contrastive self-teacher to provide dense credit. At each iteration, SIPO samples multiple rollouts per prompt from the current policy, scores them with environment rewards, and constructs two teacher contexts for each rollout by pairing the reference answer with mistakes made within the group. The model then re-evaluates its own responses under both contexts, using the difference between the two teacher log-probabilities as token-level feedback, so that biases shared by both contexts are expected to largely cancel. The resulting objective yields a token-level advantage for every rollout: the reward still sets the main direction of each update while the self-teacher redistributes credit across tokens. Even in groups where every rollout fails and group-relative advantages vanish, SIPO still provides a learning signal. By preserving direct optimization of the task reward while providing dense, token-level feedback, this approach bridges reinforcement learning and on-policy self-distillation. Extensive experiments across multiple reasoning and code-generation benchmarks demonstrate that SIPO outperforms both RLVR and OPSD baselines without an external teacher or additional generation.",
+    "title_zh": "SIPO：统一强化学习与在线自蒸馏",
+    "abstract_zh": "带可验证奖励的强化学习（RLVR）已成为提高大型语言模型（LLMs）在各种任务上表现的标准范式，但其稀疏的结果奖励缺乏对中间步骤的令牌级信用分配。为解决这一问题，在线自蒸馏（OPSD）利用具有特权上下文的自我教师提供额外的密集学习信号。然而，由于自我教师常常过于自信，并对长推理轨迹施加过度惩罚，OPSD在实践中经常遇到困难。为缓解这一问题，我们提出了带有对比性自我教师的指令式策略优化（SIPO），以提供密集的信用分配。在每次迭代中，SIPO从当前策略中为每个提示采样多个轨迹，使用环境奖励对其进行评分，并通过将参考答案与组内错误配对，为每个轨迹构建两个教师上下文。然后，模型在两种上下文下重新评估自己的响应，使用两个教师对数概率之间的差异作为令牌级反馈，这样两种上下文中共享的偏差预计会大部分抵消。由此产生的目标为每个轨迹提供了令牌级优势：奖励仍设定每次更新的主要方向，而自我教师则在令牌间重新分配信用。即使在所有轨迹都失败且组内相对优势消失的组中，SIPO仍提供学习信号。该方法在保持对任务奖励的直接优化的同时，提供密集的令牌级反馈，从而桥接了强化学习和在线自蒸馏。在多个推理和代码生成基准上的广泛实验表明，SIPO优于RLVR和OPSD基线，无需外部教师或额外生成。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Reliable Parallel Decoding in Masked Diffusion Language Models",
+    "authors": "Zhenghao He, Bohan Liu, Guangzhi Xiong, Aidong Zhang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36452v1",
+    "source": "arXiv",
+    "abstract": "Masked diffusion language models (MDLMs) can generate text efficiently by predicting multiple masked tokens in parallel, but predictions from the same forward pass are not necessarily reliable when committed together. We study when parallel commitment is reliable. Our diagnostics show that confidence alone does not determine a reliable commitment order: confident predictions near the end of the sequence can fix an answer before its supporting computations are established, and downstream predictions become less reliable as the uncertainty of their upstream context grows. At the same time, a single forward pass can already resolve several masked tokens, and predictions that remain stable across the final layers are more likely to be correct. Based on these findings, we propose Reliable Parallel Decoding (RPD), a training-free method that selects candidates by layerwise prediction stability and final confidence, and commits them under a cumulative entropy budget over their preceding masked positions. RPD defers predictions with uncertain upstream context while committing the remaining candidates in parallel, without relying on a fixed block schedule. Across mathematical reasoning and code generation benchmarks on LLaDA and Dream, RPD achieves the highest decoding throughput among the evaluated methods while maintaining or improving accuracy.",
+    "title_zh": "可靠的掩码扩散语言模型中的并行解码",
+    "abstract_zh": "掩码扩散语言模型(MDLMs)能够通过并行预测多个掩码 token 高效生成文本，但来自同一前向传播的预测在共同提交时并不一定可靠。我们研究了并行提交何时是可靠的。我们的诊断表明，置信度本身并不能确定可靠的提交顺序：序列末尾的自信预测可能在支持计算建立之前就固定了答案，并且随着上游上下文不确定性的增加，下游预测的可靠性会降低。同时，单次前向传播已经可以解决多个掩码 token，并且在最终层保持稳定的预测更有可能是正确的。基于这些发现，我们提出了可靠并行解码(RPD)，一种无需训练的方法，它通过逐层预测稳定性和最终置信度来选择候选，并在它们前面的掩码位置上根据累积熵预算提交它们。RPD 延迟具有不确定上游上下文的预测，同时并行提交其余候选，而不依赖于固定的块调度。在 LLaDA 和 Dream 上的数学推理和代码生成基准测试中，RPD 在保持或提高准确率的同时，实现了所评估方法中最高的解码吞吐量。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Dating the Model: Hidden Dates in System Prompts Affect LLM Evaluation",
+    "authors": "Mario Sanz-Guerrero, Minh Duc Bui, Manuel Mager, Katharina von der Wense",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36931v1",
+    "source": "arXiv",
+    "abstract": "Reproducibility is essential for scientific research, yet prior work shows that LLM outputs vary with hardware and batching. We identify an overlooked factor: the hidden injection of the current date into system prompts, which users cannot control and which changes every day. Across 9 recent LLMs and 6 datasets spanning multiple-choice QA (MCQA), math reasoning, code generation, and machine translation, performance varies solely with the current date, with deltas of up to 6% on MCQA, 14% on math reasoning, 7% on code generation, and 2.84 BLEU on machine translation. Model rankings also shift, affecting leaderboards. This date effect exceeds other sources of non-determinism, such as batch size and numerical precision. Standard prompting techniques -- chain-of-thought and few-shot prompting -- do not reduce the sensitivity; chain-of-thought even amplifies it. Our findings underscore the need for careful evaluation protocols to ensure reproducibility and fair comparisons in LLM research.",
+    "title_zh": "为模型定约会期：系统提示中的隐藏日期如何影响大语言模型评估",
+    "abstract_zh": "可重复性对科学研究至关重要，然而先前的研究表明，大语言模型(LLM)的输出会因硬件和批处理方式的不同而变化。我们发现了一个被忽视的因素：系统提示中隐藏注入了当前日期，这是用户无法控制的，并且每天都会变化。在涵盖多项选择问答(MCQA)、数学推理、代码生成和机器翻译的9个最新LLM和6个数据集上，性能仅随当前日期变化，在MCQA上差异高达6%，数学推理上达14%，代码生成上达7%，机器翻译上达2.84 BLEU。模型排名也会发生变化，影响排行榜。这种日期效应超过了其他非确定性来源，如批处理大小和数值精度。标准的提示技术——思维链和少样本提示——并不能降低这种敏感性；思维链甚至会放大它。我们的研究结果强调了需要制定谨慎的评估协议，以确保LLM研究中的可重复性和公平比较。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "RESCUE: Repairing Language Model Errors to Sparse Circuits via Reinforcement Learning",
+    "authors": "Chuanpu Liu, Miao Yu, Yikai Cai, Yuanhe Zhang, Zhenhong Zhou, Li Sun, Zuming Jiang, Yufei Guo",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36813v1",
+    "source": "arXiv",
+    "abstract": "Large language models (LLMs) exhibit strong general capabilities that mechanistic interpretability has attributed to sparse computational circuits. However, existing circuit studies emphasize preserving functionality or explaining safety, leaving the mechanisms underlying failures across a broader range of tasks largely unexplored. Extending circuit analysis from abilities to errors, we explore the perspective that such failures may likewise arise from erroneous internal computations and that targeted tuning of the corresponding parameters can correct such errors while largely preserving other capabilities. Motivated by this insight, we introduce RESCUE (Reasoning-Error Sparse-Circuit Uncovering and Editing), a framework that localizes error-associated circuits and surgically repairs them for performance enhancement. General tasks typically involve multi-step reasoning and long-form generation, where early deviations can cause prefixes to drift from supervised references, leading SFT-based mask optimization to overlook circuits involved in generation-time errors. RESCUE therefore refines these masks through reinforcement learning with multiple masked-model rollouts, improving their relevance to observed task failures. Finally, RESCUE introduces a pruning technique and precisely fine-tunes error circuits to correct task failures, thereby translating error localization into a sparse and targeted model update. We validate RESCUE on heterogeneous repair sets across two domains: (1) mathematical reasoning, identifying a math error circuit of 1.40% density whose repair raises accuracy from 6.0% to 75.5%; and (2) medical QA, where a similarly compact 1.44% circuit improves repair-set accuracy from 0% to 81%. Our code is available at: https://github.com/chuanpupig/RESCUE.",
+    "title_zh": "RESCUE：通过强化学习修复语言模型错误到稀疏电路",
+    "abstract_zh": "大型语言模型（LLMs）展现出强大的通用能力，而机制可解释性将这些能力归因于稀疏的计算电路。然而，现有的电路研究强调保留功能或解释安全性，导致在更广泛任务中失败背后的机制 largely 未被探索。我们将电路分析从能力扩展到错误，探索这样一种观点：此类失败同样可能源于错误的内部计算，并且对相应参数进行有针对性的调整可以在很大程度上保留其他能力的同时纠正这些错误。受此见解启发，我们引入了RESCUE（推理错误稀疏电路发现与编辑），一个能够定位与错误相关的电路并进行外科式修复以提升性能的框架。通用任务通常涉及多步推理和长文本生成，早期的偏差可能导致前缀偏离监督参考，使基于SFT的掩码优化忽略与生成时错误相关的电路。因此，RESCUE通过使用多个掩码模型回放的强化学习来优化这些掩码，提高它们与观察到的任务失败的相关性。最后，RESCUE引入了一种剪枝技术，并对错误电路进行精确微调以纠正任务失败，从而将错误定位转化为稀疏且有针对性的模型更新。我们在两个领域的异构修复集上验证了RESCUE：（1）数学推理，识别出一个密度为1.40%的数学错误电路，其修复将准确率从6.0%提高到75.5%；（2）医疗问答，一个同样紧凑的1.44%电路将修复集准确率从0%提高到81%。我们的代码可在以下网址获取：https://github.com/chuanpupig/RESCUE。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "AI as a Compiler: Compiling Triton kernels without the Triton compiler",
+    "authors": "François Costa, Charly Castes, Thomas Bourgeat, Azalia Mirhoseini",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36800v1",
+    "source": "arXiv",
+    "abstract": "Compiler backends are expensive to build and maintain as programming models, workloads, and accelerators evolve. We investigate whether large language models can replace the conventional optimizing and lowering pipeline, a process that we call AI lowering. We study AI lowering from Triton to NVIDIA PTX: an LLM agent translates Triton kernels directly into PTX. We build an environment that evaluates candidate PTX, and an agentic harness in which an LLM translates Triton kernels into PTX. Across twelve common kernels on Ada, Hopper, and Blackwell GPUs and ten kernels from recent ML papers, AI lowering achieves 0.83x-3.34x the performance of autotuned Triton. The largest gains come from transformations that Triton's lowering pipeline does not perform, such as decoding packed binary weights directly into Tensor Core operands (3.34x on BitDelta), assigning each thread a complete softmax row in tensor memory (1.37x on FlashAttention), and reusing overlapping convolution windows (up to 2.23x). These results rely on a robust evaluation harness with comprehensive verification support. We build on Volta, an existing PTX verifier, and substantially extend it to support modern GPU architectures by introducing support for Blackwell's tcgen05 Tensor Core interface. This requires modeling three architectural features: managed tensor memory, descriptor-based operand layouts, and asynchronous execution coordinated through commits, waits, memory barriers, and proxy fences. We discuss the challenges involved in formalizing them, as well as the current limitations. Our results suggest an emerging future in which AI compilers replace custom-written intermediate representations and checkers, reducing the time and engineering effort required to bring up software for new general-purpose and custom chips.",
+    "title_zh": "AI 作为编译器：在没有 Triton 编译器的情况下编译 Triton 内核",
+    "abstract_zh": "编译器后端随着编程模型、工作负载和加速器的演变而变得昂贵且难以构建和维护。我们研究大型语言模型是否可以替代传统的优化和降低流程，这一过程我们称之为AI降低。我们研究从Triton到NVIDIA PTX的AI降低：一个LLM代理直接将Triton内核转换为PTX。我们构建了一个评估候选PTX的环境，以及一个代理工具链，其中LLM将Triton内核转换为PTX。在Ada、Hopper和Blackwell GPU上的十二个常见内核以及最近ML论文中的十个内核上，AI降低实现了0.83x-3.34x于自动调优Triton的性能。最大的提升来自于Triton降低流程不执行的转换，例如将打包的二进制权重直接解码为Tensor Core操作数（在BitDelta上为3.34x），在张量内存中为每个线程分配完整的softmax行（在FlashAttention上为1.37x），以及重用重叠的卷积窗口（高达2.23倍）。这些结果依赖于一个具有全面验证支持的稳健评估工具链。我们在现有的PTX验证器Volta基础上进行了扩展，通过引入对Blackwell的tcgen05 Tensor Core接口的支持，使其能够支持现代GPU架构。这需要对三个架构特性进行建模：管理的张量内存、基于描述符的操作数布局，以及通过提交、等待、内存屏障和代理栅栏协调的异步执行。我们讨论了形式化这些特性所涉及的挑战以及当前的局限性。我们的结果表明，未来AI编译器可能会取代自定义编写的中间表示和检查器，从而减少为新通用芯片和定制芯片开发软件所需的时间和工程努力。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "cktFormer: Transformer-Based Approach for Automated Analog Circuit Design",
+    "authors": "Pasindu Dodampegama, Praveen Wijesinghe, Naveen Basnayake, Keshawa Jayasundara, Tharindu Bandaragoda",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36752v1",
+    "source": "arXiv",
+    "abstract": "Circuit design is a complex and iterative process that requires expertise in electronic engineering. It involves selecting components while meeting performance constraints, such as power efficiency, cost-effectiveness, and signal integrity. However, manual design is time-consuming and prone to errors. Although other stages of the manufacturing pipeline have benefited from AI-driven optimizations, circuit design remains a bottleneck, limiting overall productivity. Generative AI and machine learning offer the potential to automate and improve this stage, boosting efficiency and accuracy. To address this, we introduce a dual transformer architecture that bridges the gap between AI and circuit design by leveraging attention mechanisms to model complex, non-sequential circuit relationships. Our approach structures netlist data into graph-based representations, enabling effective learning of circuit topology and component interactions. The system consists of two interlinked models: a node prediction model that proposes components and an edge prediction model that infers valid connections. This collaborative and decoupled design captures both component-level semantics and global structural coherence. In our experiments, this architecture outperforms recent models such as AnalogGenie and cktGNN in the validity of generated circuits. By addressing key limitations in existing methods, our work advances automation in electronics engineering and contributes a benchmark for AI-driven circuit synthesis.",
+    "title_zh": "cktFormer：基于Transformer的自动化模拟电路设计方法",
+    "abstract_zh": "电路设计是一个复杂且迭代的过程，需要电子工程专业知识。它涉及在满足性能约束（如能效、成本效益和信号完整性）的同时选择组件。然而，手动设计耗时且容易出错。尽管制造流程的其他阶段已受益于AI驱动的优化，但电路设计仍然是瓶颈，限制了整体生产力。生成式AI和机器学习有望自动化并改进这一阶段，提高效率和准确性。为此，我们引入了一种双变压器架构，通过利用注意力机制来建模复杂、非顺序的电路关系，从而弥合AI与电路设计之间的差距。我们的方法将网表数据结构化为基于图的表示，使电路拓扑和组件交互的有效学习成为可能。该系统由两个相互关联的模型组成：一个提出组件的节点预测模型和一个推断有效连接的边预测模型。这种协作且解耦的设计同时捕获了组件级语义和全局结构一致性。在我们的实验中，该架构在生成电路的有效性方面优于最近的模型，如AnalogGenie和cktGNN。通过解决现有方法中的关键局限性，我们的工作推动了电子工程领域的自动化，并为AI驱动的电路合成提供了一个基准。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Can Agents Design Libraries for Agents?",
+    "authors": "Gabriel Orlanski, Alex L. Zhang, Avi Trost, Vincent Sunn Chen, Frederic Sala, Aws Albarghouthi, Ludwig Schmidt",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36730v1",
+    "source": "arXiv",
+    "abstract": "Agents increasingly build on code written by other agents, and they reimplement rather than reuse, growing the codebases later agents must work in. To measure how well agents design libraries for other agents, we introduce LibraryDesignBench, a two-phase benchmark in which an agent implements a full-featured library from a specification that defines required capabilities and potential use cases without prescribing the design. We evaluate the library through the correctness and simplicity of programs written by three user agents from different model families. The benchmark spans 242 expert-validated programming problems across 15 library-design tasks in four languages. On eleven of the fifteen tasks, agent designers reproduce the abstractions of the human-written production library. Downstream agents adopt agent- and human-written libraries alike but underuse them, reimplementing capabilities the library already provides. Our failure analysis finds that downstream agents write extra code mainly because agent-written libraries are rigid or hard to use, not because capabilities are missing. We also experiment with giving designers more prescriptive, agent-first guidance and having them test their library with subagents; this improves downstream scores and yields simpler programs. LibraryDesignBench provides both a testbed for evaluating library-design practices for agent users and an initial design baseline that improves downstream reuse.",
+    "title_zh": "代理能为代理设计库吗？",
+    "abstract_zh": "代理越来越多地基于其他代理编写的代码进行构建，它们倾向于重新实现而非重用，导致后续代理必须处理的代码库不断膨胀。为了衡量代理为其他代理设计库的能力，我们引入了LibraryDesignBench，这是一个两阶段基准测试，其中代理根据规范实现一个功能完备的库，该规范定义了所需功能和潜在用例，但不规定具体设计。我们通过三个来自不同模型系列的用户代理所编写程序的正确性和简洁性来评估该库。该基准测试涵盖15个库设计任务，涉及4种语言，共242个专家验证的编程问题。在15个任务中的11个上，代理设计者重现了人类编写的生产库的抽象。下游代理同样采用代理和人类编写的库，但使用不足，重新实现了库已提供的功能。我们的失败分析发现，下游代理编写额外代码主要是因为代理编写的库过于僵化或难以使用，而非功能缺失。我们还尝试给设计者提供更具指导性的、以代理为先的指导，并让他们使用子代理测试其库；这提高了下游评分并产生了更简单的程序。LibraryDesignBench既为评估代理用户的库设计实践提供了测试平台，也提供了一个初始设计基线，改善了下游重用。"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "WitnessGym: Benchmarking Coding Agents on the Construction of Bug Witnesses",
+    "authors": "Haomin Qi, Xiangzhe Xu, Yiming Huang, Jingbo Shang, Chengpeng Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2609.36635v1",
+    "source": "arXiv",
+    "abstract": "Bug validation asks a coding agent to produce an executable witness for a reported bug. The witness combines a concrete input with a testing harness and exposes faulty behavior during execution. Such evidence makes audit findings actionable, yet benchmark evaluation is difficult when cases reuse public historical bugs and witnesses or require manual construction. We present WitnessGym, an automated framework for constructing bug-validation benchmarks through bug injection. It injects bugs into test-reached paths of real projects, rebuilds each project, and retains cases exposed by a construction-time witness. Bug specifications and execution adapters allow extension to additional bug types and languages. Bug-preserving transformations vary the surrounding structure while preserving the witness behavior. Based on real-world Java projects with test suites, WitnessGym automatically constructs 1,300 benchmark cases. The injected patches resemble historical bug patches and are difficult for the two evaluated models to distinguish in blinded comparisons. We evaluate four coding agent frameworks in six framework/model pairings across bug types, execution contexts, and transformation depths. Witness construction remains difficult even when the bug pattern is known. Our framework, benchmark cases, and evaluation scripts are available.",
+    "title_zh": "WitnessGym：基于错误见证构建的编码基准测试",
+    "abstract_zh": "Bug validation要求编码代理为报告的bug生成一个可执行的见证。这个见证将具体输入与测试工具包结合在一起，并在执行过程中暴露出错误行为。这样的证据使得审计结果具有可操作性，但当案例重用公共历史bug和见证或需要手动构建时，基准评估变得困难。我们提出了WitnessGym，一个通过bug注入自动构建bug验证基准的框架。它将bug注入到真实项目的测试可达路径中，重新构建每个项目，并保留由构建时见证暴露的案例。bug规范和执行适配器允许扩展到其他bug类型和语言。bug保留变换会改变周围结构，同时保持见证行为。基于带有测试套件的真实Java项目，WitnessGym自动构建了1,300个基准案例。注入的补丁类似于历史bug补丁，并且在盲测中，两个被评估的模型难以区分。我们在bug类型、执行环境和变换深度方面，对六个框架/模型组合中的四个编码代理框架进行了评估。即使已知bug模式，构建见证仍然很困难。我们的框架、基准案例和评估脚本均可获取。"
+  },
+  {
+    "date": "2026-9-29",
+    "title": "Budgeted Interactive Property Graph Repair with GNN",
+    "authors": "Amedeo Pachera, Angela Bonifati, Laks V.S. Lakshmanan, Andrea Mauri",
+    "publish": "Proceedings of the ACM on Management of Data",
+    "url": "https://doi.org/10.1145/3837100",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于预算的交互式属性图修复与图神经网络",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-29",
+    "title": "Retrieval-Augmented Code Language Models for Automated Patch Generation Under Repository-Scale Context Windows",
+    "authors": "Ravi Kiran Pagidi",
+    "publish": "2026 Technology and Innovation Conference (TIC)",
+    "url": "https://doi.org/10.1109/tic68483.2026.11702908",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于仓库规模上下文窗口的检索增强代码语言模型用于自动补丁生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-29",
+    "title": "Detection of Presentation-Layer Code Smells in Declarative Android Architectures",
+    "authors": "Arda Gökalp Batmaz, Feza Buzluca",
+    "publish": "2026 International Conference on Computer Technology Applications (ICCTA)",
+    "url": "https://doi.org/10.1109/iccta70480.2026.11706403",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "声明式Android架构中表现层代码坏味的检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-29",
+    "title": "Automated Smart Contract Vulnerability Detection using Hybrid Deep Learning and Language Models",
+    "authors": "Koyyati Rajini, Dr.SwapnaSiddamsetti",
+    "publish": "2026 International Conference on Secure Information Systems and Technologies (ICSIST)",
+    "url": "https://doi.org/10.1109/icsist70215.2026.11706022",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于混合深度学习和语言模型的智能合约自动化漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-29",
+    "title": "RL-AmpSyn: Reinforcement Learning-Enhanced Operational Amplifier Generation and Optimization with LLMs",
+    "authors": "Deepak Vungarala, Shadi Fall, Arman Roohi, Ramtin Zand, Shaahin Angizi",
+    "publish": "2026 IEEE 34th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)",
+    "url": "https://doi.org/10.1109/fccm68464.2026.11703448",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "RL-AmpSyn：基于强化学习和大型语言模型的运算放大器生成与优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-9-29",
+    "title": "FractalX: Automated Migration of Modular Spring Boot Monoliths to Production-Ready Microservices via AST-Driven Static Decomposition",
+    "authors": "Sathnindu Kottage, Gayashaan Krishnamoorthy, Dinuvi Asithma, Tharushika Kapugedara, Dharshana Kasthurirathna, Hansi De Silva",
+    "publish": "2026 International Conference on Computer Technology Applications (ICCTA)",
+    "url": "https://doi.org/10.1109/iccta70480.2026.11706429",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "FractalX：通过AST驱动的静态分解将模块化Spring Boot单体应用自动迁移为生产就绪的微服务",
+    "abstract_zh": "None"
+  }
+]
