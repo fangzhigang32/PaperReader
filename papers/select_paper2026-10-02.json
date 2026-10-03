@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2026-10-2",
+    "title": "A Framework for Reverse Engineering and Security Validation of SRAM FPGA Configurations Using Tcl and Python",
+    "authors": "Madhumitha V, Nithin Raj T, Sudhanya P",
+    "publish": "2026 International Conference on Innovations in Engineering and Technology (ICIET)",
+    "url": "https://doi.org/10.1109/iciet70550.2026.11712917",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用Tcl和Python进行SRAM FPGA配置的反工程与安全验证框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-2",
+    "title": "From Silicon to Boot Code: Extending Automated Program Repair to Firmware-Layer Security Workarounds",
+    "authors": "Maisha Mastora, Dean Sullivan",
+    "publish": "Proceedings of the 1st International Workshop on Firmware Testing and Analysis",
+    "url": "https://doi.org/10.1145/3842651.3843185",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从硅到引导代码：将自动化程序修复扩展到固件层安全补丁",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-2",
+    "title": "Reducing Hallucinated False Positives in LLM-Based Vulnerability Detection via Multi-Signal Focused Verification",
+    "authors": "Casper Chen",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3739345",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于多信号聚焦验证的LLM漏洞检测中减少幻觉性误报",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-2",
+    "title": "Predicting Program Exit Code with LLMs and Programming Language Semantics",
+    "authors": "Lara Marinov, Aditya Thimmaiah, Jayanth Srinivasa, Junyi Jessy Li, Milos Gligoric",
+    "publish": "Proceedings of the 2nd ACM SIGPLAN International Workshop on Language Models and Programming Languages",
+    "url": "https://doi.org/10.1145/3843750.3843842",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用大型语言模型和编程语言语义预测程序退出代码",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-2",
+    "title": "SLM4PLC: Correctness-by-Construction PLC Code Generation and Formal Verification Using Small Language Models",
+    "authors": "Lihour San, Chowarit Mitsantisuk, Pished Bunnun, Takahiro Shinozaki, Achara Pichetjamroen",
+    "publish": "2026 14th International Electrical Engineering Congress (iEECON)",
+    "url": "https://doi.org/10.1109/ieecon68065.2026.11706980",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SLM4PLC：基于小语言模型的PLC代码正确性构造生成与形式验证",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-2",
+    "title": "Proceedings of the 2nd ACM SIGPLAN International Workshop on Language Models and Programming Languages",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3843750",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "第二届ACM SIGPLAN国际语言模型与编程语言研讨会论文集",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-2",
+    "title": "CoVerif: An Automated Contract Verifier for Java using Symbolic Execution",
+    "authors": "Aryan Kumar, Alex Toppo, Sandip Ghosal",
+    "publish": "Proceedings of the 2nd Workshop on Explainable and Reliable Software Systems",
+    "url": "https://doi.org/10.1145/3842650.3843173",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CoVerif：一种使用符号执行技术的Java自动化合约验证器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-2",
+    "title": "Quantum Computing and Static Analysis: State of the Art and Research Opportunities",
+    "authors": "Greta Dolcetti, Giulio Zizzo, Vincenzo Arceri, Sergio Maffeis, Agostino Cortesi",
+    "publish": "Proceedings of the 11th ACM SIGPLAN International Workshop on Numerical and Symbolic Abstract Domains",
+    "url": "https://doi.org/10.1145/3840563.3843709",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "量子计算与静态分析：研究现状与机遇",
+    "abstract_zh": "None"
+  }
+]
