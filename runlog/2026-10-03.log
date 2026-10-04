@@ -1,0 +1,70 @@
+[2026-10-04 00:22:45] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-10-03
+正在获取论文...
+[ACM] 2026-10-3 | A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI
+[ACM] 2026-10-3 | Streaming Video Moment Retrieval via Temporal Forecast Diffusion Model
+[ACM] 2026-10-3 | Accelerating Regular Expression Matching over Compressed Data via Decoupled Speculative Execution on FPGA
+[ACM] 2026-10-3 | A Reconfigurable Framework for the Virtual Reconstruction of Ancient Egyptian Rituals: The Case of the
+                    <i>Cippi</i>
+                    of Horus
+[ACM] 2026-10-3 | Automatic Annotation and Analysis of Oral History using LLMs: An Empirical Study of Densho Digital Collection
+[ACM] 2026-10-3 | Petri Nets-based Methods on Automatically Detecting for Concurrency Bugs in Rust Programs
+[ACM] 2026-10-3 | Every Locale Has Its Rhythm: Endow Time-Series Transformers with Spatial Insights for Long-term Spatio-Temporal Forecasting
+[ACM] 2026-10-3 | Secure Recommender Systems: A Co-evolutionary Survey of Vulnerabilities, Attacks, and Defenses
+[ACM] 2026-10-3 | Agentic Software Issue Resolution with Large Language Models: A Survey
+[ACM] 2026-10-3 | Critiquing AI Surveys with a Case Study on Temporal Features for Trustworthy Computer Vision
+[ACM] 2026-10-3 | Complementary-Label Learning: A Survey of Methods, an Open-Source Toolkit, and Fair Benchmarking Results
+[ACM] 2026-10-3 | Qubit Readout Discrimination through Fuzzy Clustering
+[ACM] 2026-10-3 | URL Rot in Software Engineering Scholarly Works
+[ACM] 2026-10-3 | A Pilot Study on Facial Expression Recognition by Autistic Children of a Social Robot
+[ACM] 2026-10-3 | Non-Deterministic Abstract Machines
+[ACM] 2026-10-3 | A Survey of Deep Learning Based Software Refactoring
+[ACM] 2026-10-3 | “Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers
+[ACM] 2026-10-3 | Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation
+[ACM] 2026-10-3 | Visual heritage–informed generative modelling for Zhuang brocade motifs: Semantic control and multimodal evaluation with eye tracking and PAD
+[ACM] 2026-10-3 | With a Little Help from My Cobot – User-centered Evaluation of Different Human-Cobot Collaboration Types Exemplified in Textile Composite Manufacturing
+[ACM] 2026-10-3 | LLM See, LLM Do: Enhancing Repository-Aware Code Generation in LLMs Through Logical Context and Usage Knowledge
+[ACM] 2026-10-3 | GraphLLM4CTR: Large Language Model-Enhanced Graph Neural Networks for Click-through Rate Prediction in Recommender Systems
+[ACM] 2026-10-3 | Hologram Streaming Based on Complex-Domain Rescaling and Optimal Real/Imaginary Bitrate Allocation
+[ACM] 2026-10-3 | LayerToFair: An Efficient Post-processing Framework for Layer-aware Fairness Repair of Deep Neural Networks
+[ACM] 2026-10-3 | Toward a Theory of Data Ecology
+[ACM] 2026-10-3 | Children, Robots, and Reproducibility: A review of recent reproducibility challenges in child-robot interaction
+[ACM] 2026-10-3 | The GPU Resilience Lottery: Understanding and Taming Real-World Hardware Errors in Heterogeneous AI Infrastructure
+[ACM] 2026-10-3 | FCoral: A Framework for Fine-grained Concurrency Evaluation Across Programming Language Runtimes
+共写入 28 条记录，保存到 papers/paper2026-10-03.json。
+论文获取成功，文件路径: papers/paper2026-10-03.json
+正在筛选、翻译并发送邮件...
+[NO] 1/28 | A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI
+[NO] 2/28 | Streaming Video Moment Retrieval via Temporal Forecast Diffusion Model
+[NO] 3/28 | Accelerating Regular Expression Matching over Compressed Data via Decoupled Speculative Execution on FPGA
+[NO] 4/28 | A Reconfigurable Framework for the Virtual Reconstruction of Ancient Egyptian Rituals: The Case of the
+                    <i>Cippi</i>
+                    of Horus
+[NO] 5/28 | Automatic Annotation and Analysis of Oral History using LLMs: An Empirical Study of Densho Digital Collection
+[YES] 6/28 | Petri Nets-based Methods on Automatically Detecting for Concurrency Bugs in Rust Programs
+[NO] 7/28 | Every Locale Has Its Rhythm: Endow Time-Series Transformers with Spatial Insights for Long-term Spatio-Temporal Forecasting
+[NO] 8/28 | Secure Recommender Systems: A Co-evolutionary Survey of Vulnerabilities, Attacks, and Defenses
+[YES] 9/28 | Agentic Software Issue Resolution with Large Language Models: A Survey
+[NO] 10/28 | Critiquing AI Surveys with a Case Study on Temporal Features for Trustworthy Computer Vision
+[NO] 11/28 | Complementary-Label Learning: A Survey of Methods, an Open-Source Toolkit, and Fair Benchmarking Results
+[NO] 12/28 | Qubit Readout Discrimination through Fuzzy Clustering
+[NO] 13/28 | URL Rot in Software Engineering Scholarly Works
+[NO] 14/28 | A Pilot Study on Facial Expression Recognition by Autistic Children of a Social Robot
+[NO] 15/28 | Non-Deterministic Abstract Machines
+[YES] 16/28 | A Survey of Deep Learning Based Software Refactoring
+[YES] 17/28 | “Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers
+[NO] 18/28 | Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation
+[NO] 19/28 | Visual heritage–informed generative modelling for Zhuang brocade motifs: Semantic control and multimodal evaluation with eye tracking and PAD
+[NO] 20/28 | With a Little Help from My Cobot – User-centered Evaluation of Different Human-Cobot Collaboration Types Exemplified in Textile Composite Manufacturing
+[YES] 21/28 | LLM See, LLM Do: Enhancing Repository-Aware Code Generation in LLMs Through Logical Context and Usage Knowledge
+[NO] 22/28 | GraphLLM4CTR: Large Language Model-Enhanced Graph Neural Networks for Click-through Rate Prediction in Recommender Systems
+[NO] 23/28 | Hologram Streaming Based on Complex-Domain Rescaling and Optimal Real/Imaginary Bitrate Allocation
+[NO] 24/28 | LayerToFair: An Efficient Post-processing Framework for Layer-aware Fairness Repair of Deep Neural Networks
+[NO] 25/28 | Toward a Theory of Data Ecology
+[NO] 26/28 | Children, Robots, and Reproducibility: A review of recent reproducibility challenges in child-robot interaction
+[NO] 27/28 | The GPU Resilience Lottery: Understanding and Taming Real-World Hardware Errors in Heterogeneous AI Infrastructure
+[NO] 28/28 | FCoral: A Framework for Fine-grained Concurrency Evaluation Across Programming Language Runtimes
+筛选完成：共 28 篇；Yes = 5 篇；已保存到 papers/select_paper2026-10-03.json。
+邮件发送成功！
+[2026-10-04 00:26:20] 任务执行成功！

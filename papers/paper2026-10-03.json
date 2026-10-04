@@ -1,0 +1,254 @@
+[
+  {
+    "date": "2026-10-3",
+    "title": "A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI",
+    "authors": "Lik Hang Kenny Wong, Xueyang Kang, Kaixin Bai, Jianwei Zhang",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3856802",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Streaming Video Moment Retrieval via Temporal Forecast Diffusion Model",
+    "authors": "Yanhua Yang, Jiahua Li, Zhe Xu, Kun Wei, Cheng Deng",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3849706",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Accelerating Regular Expression Matching over Compressed Data via Decoupled Speculative Execution on FPGA",
+    "authors": "Xiuwen Sun, Mingtao Feng, Yule Fu, Xinrui Li, Fukang Cai, Haoran Li, Siyi Qiao, Hao Li",
+    "publish": "ACM Transactions on Reconfigurable Technology and Systems",
+    "url": "https://doi.org/10.1145/3849707",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "A Reconfigurable Framework for the Virtual Reconstruction of Ancient Egyptian Rituals: The Case of the\n                    <i>Cippi</i>\n                    of Horus",
+    "authors": "Lydia Cadevall, Núria Torras-Benezet, Alejandro Ríos, Carlos Andújar",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3847116",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Automatic Annotation and Analysis of Oral History using LLMs: An Empirical Study of Densho Digital Collection",
+    "authors": "Komala Subramanyam Cherukuri, Pranav Abishai Moses, Aisa Sakata, Jiangping Chen, Haihua Chen",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3849086",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Petri Nets-based Methods on Automatically Detecting for Concurrency Bugs in Rust Programs",
+    "authors": "Kaiwen Zhang, Guanjun Liu",
+    "publish": "ACM Transactions on Autonomous and Adaptive Systems",
+    "url": "https://doi.org/10.1145/3849803",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Every Locale Has Its Rhythm: Endow Time-Series Transformers with Spatial Insights for Long-term Spatio-Temporal Forecasting",
+    "authors": "Zhongqi Miao, Lixing Chen, Yang Bai, Zhe Qu, Pan Zhou",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3846002",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Secure Recommender Systems: A Co-evolutionary Survey of Vulnerabilities, Attacks, and Defenses",
+    "authors": "Zongwei Wang, Min Gao, junliang Yu, Sijia Li, Lei Zhou, Mingchao Cheng, Juntao Liu, Tong Chen, Shazia Sadiq, Hongzhi Yin",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3849811",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Agentic Software Issue Resolution with Large Language Models: A Survey",
+    "authors": "Zhonghao Jiang, David Lo, Zhongxin Liu",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3849702",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Critiquing AI Surveys with a Case Study on Temporal Features for Trustworthy Computer Vision",
+    "authors": "Jack Napier, Zhe Wang, Jin Song Dong, Kelvin Ross, Shiping Chen, Zhe Hou",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3849866",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Complementary-Label Learning: A Survey of Methods, an Open-Source Toolkit, and Fair Benchmarking Results",
+    "authors": "Ha Mai Tan, Nai-Xuan Ye, Wei Wang, Gang Niu, Takashi Ishida, Masashi Sugiyama, Hsuan-Tien Lin",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3847508",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Qubit Readout Discrimination through Fuzzy Clustering",
+    "authors": "Giovanni Acampora, Roberto Schiattarella, Autilia Vitiello",
+    "publish": "ACM Transactions on Quantum Computing",
+    "url": "https://doi.org/10.1145/3847660",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "URL Rot in Software Engineering Scholarly Works",
+    "authors": "Apostolos Garos, Diomidis Spinellis, Stefano Zacchiroli",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3849476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "A Pilot Study on Facial Expression Recognition by Autistic Children of a Social Robot",
+    "authors": "Irina Kondaurova, Jeremy T. Gaskins, Riten Mitra, Ali Ashary, Robert Pennington, Dan O. Popa",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3850153",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Non-Deterministic Abstract Machines",
+    "authors": "Malgorzata Biernacka, Dariusz Biernacki, Sergueï Lenglet, Alan Schmitt",
+    "publish": "ACM Transactions on Computational Logic",
+    "url": "https://doi.org/10.1145/3849808",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "A Survey of Deep Learning Based Software Refactoring",
+    "authors": "Bridget Nyirongo, Yanjie Jiang, He Jiang, Hui Liu",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3849693",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers",
+    "authors": "Yanjie Zhao, Shenao Wang, Jian Zhao, Junjie He, Kan Yu, Yayi Wang, Lizhong Bian, Yan Cheng, Haoyu Wang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3849705",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation",
+    "authors": "Xinjie Li, Yang Zhao, Dong Wang, Yuan Chen, Li Cao, Xiaoping Liu",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3849804",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Visual heritage–informed generative modelling for Zhuang brocade motifs: Semantic control and multimodal evaluation with eye tracking and PAD",
+    "authors": "Yanpin Song, Deao Song, Qiang Guo, Xiaoshan Mo, Di Xie, Suyan Zhang, Bin Hu",
+    "publish": "Journal on Computing and Cultural Heritage",
+    "url": "https://doi.org/10.1145/3849385",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "With a Little Help from My Cobot – User-centered Evaluation of Different Human-Cobot Collaboration Types Exemplified in Textile Composite Manufacturing",
+    "authors": "Luisa Vervier, Hannah Dammers, Felix Glawe, Martina Ziefle, Thomas Gries, Philipp Brauner",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3850150",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "LLM See, LLM Do: Enhancing Repository-Aware Code Generation in LLMs Through Logical Context and Usage Knowledge",
+    "authors": "Tanghaoran Zhang, Xinjun Mao, Yuxin Zhao, Kang Yang, Zhang Zhang, Yao Lu, Youren Chen, Yue Yu",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3849809",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "GraphLLM4CTR: Large Language Model-Enhanced Graph Neural Networks for Click-through Rate Prediction in Recommender Systems",
+    "authors": "Shan Gao, Yanwu Yang",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3848507",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Hologram Streaming Based on Complex-Domain Rescaling and Optimal Real/Imaginary Bitrate Allocation",
+    "authors": "Yanwei Liu, Jiasen Li, Yifei Chen, Jinxia Liu, Antonios Argyriou, Xiaoyan Gu, Siwei Ma",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3849872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "LayerToFair: An Efficient Post-processing Framework for Layer-aware Fairness Repair of Deep Neural Networks",
+    "authors": "Hui Dou, Songyang Fan, jiang He, Zhibo Yang, Rongping Shang, Yiwen Zhang, Zibin Zheng",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3850154",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Toward a Theory of Data Ecology",
+    "authors": "Raul Castro Fernandez",
+    "publish": "Communications of the ACM",
+    "url": "https://doi.org/10.1145/3808233",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Children, Robots, and Reproducibility: A review of recent reproducibility challenges in child-robot interaction",
+    "authors": "Rebecca Stower, Micol Spitale, Elmira Yadollahi, Maria Teresa Parreira, Nida Itrat Abbasi, Iolanda Leite, Hatice Gunes",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3848624",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "The GPU Resilience Lottery: Understanding and Taming Real-World Hardware Errors in Heterogeneous AI Infrastructure",
+    "authors": "Xinkai Wang, Yunwei Li, Chao Li, Lieven Eeckhout, Luping Wang, Cheng Huang, Guodong Yang, Liping Zhang, Minyi Guo",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3849815",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "FCoral: A Framework for Fine-grained Concurrency Evaluation Across Programming Language Runtimes",
+    "authors": "Jianjun Shi, Yinghui Huang, Bingxin Liu, Danying Ge, Jianhua Gao, Yuxiang Zhang, Weixing Ji",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3847668",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

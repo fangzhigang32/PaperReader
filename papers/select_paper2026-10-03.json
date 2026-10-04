@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-10-3",
+    "title": "Petri Nets-based Methods on Automatically Detecting for Concurrency Bugs in Rust Programs",
+    "authors": "Kaiwen Zhang, Guanjun Liu",
+    "publish": "ACM Transactions on Autonomous and Adaptive Systems",
+    "url": "https://doi.org/10.1145/3849803",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于Petri网自动检测Rust程序中并发错误的方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "Agentic Software Issue Resolution with Large Language Models: A Survey",
+    "authors": "Zhonghao Jiang, David Lo, Zhongxin Liu",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3849702",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大型语言模型的智能软件问题解决：综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "A Survey of Deep Learning Based Software Refactoring",
+    "authors": "Bridget Nyirongo, Yanjie Jiang, He Jiang, Hui Liu",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3849693",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于深度学习的软件重构综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers",
+    "authors": "Yanjie Zhao, Shenao Wang, Jian Zhao, Junjie He, Kan Yu, Yayi Wang, Lizhong Bian, Yan Cheng, Haoyu Wang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3849705",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "\"等等，我的工具做不到这个？\"：现代静态污点分析器的细粒度能力研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-3",
+    "title": "LLM See, LLM Do: Enhancing Repository-Aware Code Generation in LLMs Through Logical Context and Usage Knowledge",
+    "authors": "Tanghaoran Zhang, Xinjun Mao, Yuxin Zhao, Kang Yang, Zhang Zhang, Yao Lu, Youren Chen, Yue Yu",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3849809",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "LLM 见，LLM 做：通过逻辑上下文和使用知识增强 LLM 的代码生成能力",
+    "abstract_zh": "None"
+  }
+]
