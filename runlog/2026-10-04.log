@@ -1,0 +1,11 @@
+[2026-10-05 00:28:09] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-10-04
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202610040000+TO+202610042359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"))
+共写入 0 条记录，保存到 papers/paper2026-10-04.json。
+论文获取成功，文件路径: papers/paper2026-10-04.json
+正在筛选、翻译并发送邮件...
+筛选完成：共 0 篇；Yes = 0 篇；已保存到 papers/select_paper2026-10-04.json。
+邮件发送成功！
+[2026-10-05 00:29:16] 任务执行成功！
