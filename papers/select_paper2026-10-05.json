@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2026-10-5",
+    "title": "Code2LowCode: An Interactive Tool for Lifting Code Clones into Reusable Abstractions",
+    "authors": "Raphael Zefferer, Bernhard Schenkenfelder, Stefan Wagner",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3838886",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "Code2LowCode：将代码克隆提升为可重用抽象的交互式工具",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "Toward Generative AI-Assisted Model Transformation in Model-Driven Engineering",
+    "authors": "Duy Dao",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839543",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向模型驱动工程中生成式AI辅助的模型转换",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "Autonomous AI Agents for End-to-End Vulnerability Patching",
+    "authors": "Qingxiao Xu, Ze Sheng, Zhicheng Chen, Jeff Huang",
+    "publish": "IEEE Security &amp; Privacy",
+    "url": "https://doi.org/10.1109/msec.2026.3733413",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于端到端漏洞修复的自主AI代理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "Automated Generation of Java Bytecode Models Across Scales",
+    "authors": "Freya Ancona, Philipp Wieber, Christoph Bockisch, Gabriele Taentzer",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3838787",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "跨尺度的Java字节码模型自动生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "Quality Management for Deterministic Code Generators",
+    "authors": "Constantin Buschhaus, Nico Jansen, Alexander Hellwig, Bernhard Rumpe",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839052",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "确定性代码生成器的质量管理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "Automated Modelica Model Repair Using Generative AI",
+    "authors": "Masoud Sadrnezhaad",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839546",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用生成式AI进行自动化Modelica模型修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "From Natural Language to Formal Specifications: A Metamodel-Driven LLM Pipeline",
+    "authors": "Sally Ismail, Patrick Tessier",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3838893",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从自然语言到形式化规范：一种基于元模型驱动的LLM流程",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "From Code to Low-Code: An LLM-Driven Pipeline for Lifting Code Clones into Reusable Abstractions",
+    "authors": "Raphael Zefferer, Bernhard Schenkenfelder, Stefan Wagner",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839368",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "从代码到低代码：一种将代码克隆提升为可重用抽象的LLM驱动流程",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "MemCode: A Hybrid Memory-Augmented Framework for Persistent and Adaptive Automated Code Review",
+    "authors": "Pamood Jayaratne, Kushan Bhareti",
+    "publish": "2026 7th World Symposium on Artificial Intelligence (WSAI)",
+    "url": "https://doi.org/10.1109/wsai70435.2026.11708643",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "MemCode：一种用于持久化和自适应自动化代码审查的混合内存增强框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "Code Generation Beyond Mainstream Languages",
+    "authors": "David Delgado",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839350",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "超越主流语言的代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "Repairing Conformance Violations with a Reference Model in the Context of Automata Decomposition",
+    "authors": "Bahareh Taghavi, Max Stachon, Adrian Marin, Lan Bao Quang Le, Bernhard Rumpe, Ralf Reussner, Robert Heinrich",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839047",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于自动机分解的参考模型修复一致性违规",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "A Cognitive Architecture for LLM-Based Automated Program Repair",
+    "authors": "Chamidu Amarasinghe, Suresh Peiris",
+    "publish": "2026 7th World Symposium on Artificial Intelligence (WSAI)",
+    "url": "https://doi.org/10.1109/wsai70435.2026.11708641",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型的自动化程序修复的认知架构",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "KatalIA: Can a Declarative Metamodel Make LLM-Based Smell Characterization Traceable?",
+    "authors": "Diego Gatica, René Noël",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839558",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "KatalIA：声明式元模型能否使基于大语言模型的特征描述具有可追溯性？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "Reliable Generation of Feature Models in the Universal Variability Language using Constrained LLMs",
+    "authors": "Johannes Stümpfle, Fethi Tunc, Nasser Jazdi, Michael Weyrich",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839369",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用约束大语言模型在通用可变性语言中可靠生成特征模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "SysV2-Repair: Towards LLM-Based repair of SysML®v2 models",
+    "authors": "Yasmine Bouamra",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839547",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "SysV2-Repair：基于大语言模型的SysML®v2模型修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "A Neuro-Symbolic Pipeline for Automated Synthesis and Verification of OCL Constraints",
+    "authors": "Yuelou Ding, Hao Wu",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839070",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "用于OCL约束自动合成与验证的神经符号流水线",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-5",
+    "title": "On the Use of LLMs to Diagnose and Repair UML/OCL models",
+    "authors": "Juan Antonio Gómez Gutiérrez, Robert Clarisó",
+    "publish": "Proceedings of the ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems",
+    "url": "https://doi.org/10.1145/3837062.3839054",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "使用大语言模型诊断和修复UML/OCL模型",
+    "abstract_zh": "None"
+  }
+]
