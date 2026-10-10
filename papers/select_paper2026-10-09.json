@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-10-9",
+    "title": "Robust Smart Contract Vulnerability Detection via Contrastive Learning-Enhanced Granular-ball Training",
+    "authors": "Zeli Wang, Qingxuan Yang, Shuyin Xia, Yueming Wu, Bo Liu, Longlong Lin",
+    "publish": "IEEE Transactions on Network Science and Engineering",
+    "url": "https://doi.org/10.1109/tnse.2026.3742375",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于对比学习增强的细粒度球训练的稳健智能合约漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-9",
+    "title": "An Intelligent Machine Learning Model for Software Defect Prediction based on Feature Optimization",
+    "authors": "Alok Kumar Dash, Anima Arunjita, Ashwini Kumar Khatua, Hitesh Mohapatra, Aditya Narayana Das, Debasish Pradhan, Prasanta Kumar Bal",
+    "publish": "2026 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)",
+    "url": "https://doi.org/10.1109/assic70037.2026.11717423",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于特征优化的智能机器学习软件缺陷预测模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-9",
+    "title": "A Hybrid AI-Driven Framework for Automated Code Review and Defect Detection",
+    "authors": "Saatvik Nagar, Pradeep Chauhan, Salman Khan, Abhishek Kumar",
+    "publish": "2026 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)",
+    "url": "https://doi.org/10.1109/assic70037.2026.11717358",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种混合AI驱动的自动化代码审查与缺陷检测框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-9",
+    "title": "Design Driven Code Generation: From ER Diagram to Schema Generation",
+    "authors": "Shaurya Mehta, Meet Grover, Manoj Kumar Shukla, Puneet Sharma, Anshu Kumar Dwivedi",
+    "publish": "2026 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)",
+    "url": "https://doi.org/10.1109/assic70037.2026.11716988",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "设计驱动的代码生成：从ER图到模式生成",
+    "abstract_zh": "None"
+  }
+]
