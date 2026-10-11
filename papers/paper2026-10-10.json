@@ -1,0 +1,911 @@
+[
+  {
+    "date": "2026-10-10",
+    "title": "BONSAI: Browser-Optimized Neural Gaussian Avatar Streaming",
+    "authors": "Sina Kitz, Simon Katz, Jan Spindler, Zhastay Yeltay, Reza Rastegari, Julian Kaltheuner, Patrick Stotko, Reinhard Klein",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834888",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Explore-and-Scrutinize: A Spatio-Temporal Decoupling Paradigm for Interactive Analysis in Panoramic Video on the Web",
+    "authors": "Yanxiang Zhang, Yi Qiu",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834865",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "From Viewing to Playing: Bring-Your-Own-Scene Interaction for 3D Gaussian Splatting on the Web",
+    "authors": "Danci Shen",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834873",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Study on Prediction of Shallow Landslide Threat Zones Based on the Combination of Statistics and Numerical Simulation",
+    "authors": "Zhu Liang, Shuoyu Zhang, Zihao Wu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838940",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Study on the Application of Alternative Data in Credit Assessment for the Unbanked Population",
+    "authors": "Tianyi Xu, Weijun Zhu, Jiawei Zhang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838992",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Hourly Ozone Forecasting in the Yangtze River Delta Using Data-Driven and Physics-Informed Models",
+    "authors": "Jingyi Dai",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838948",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Personal NAS Market Evolution Analysis in China Using Big Data Crawler and Sentiment Analysis Technology",
+    "authors": "Shuai Xiong, Jingming Sun, Weiwei Meng, Ruiqi Luo",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838988",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "ESG Performance and Firm Value Prediction Using Random Forest -- Empirical Evidence from A-share Listed Companies",
+    "authors": "Shihong Wei, Kaiming Tan",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838997",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Real-Time Model Checking for Closed-Loop Robot Reactive Planning",
+    "authors": "Christopher Chandler, Bernd Porr, Giulia Lafratta, Alice Miller",
+    "publish": "Formal Aspects of Computing",
+    "url": "https://doi.org/10.1145/3849801",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "An Algorithmic Framework for Smart Supply Chain Resilience: Entropy-Weighted Integration, Sliding Window Detection, and Knowledge Entropy Modeling",
+    "authors": "Jiuan Zhu, Shuang Chen, Norlaile Binti Salleh Hudin",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838952",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Hybrid PCA-ANN Model for Indoor PM10 Concentration Prediction",
+    "authors": "Jinyuhan Zhang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838950",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "AeroLearn-Rec: A Personalized Recommendation System for Aviation-Cultural Research Tours: A Case Study on Zhuhai Aerospace Resources",
+    "authors": "Haonan He",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838987",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Public Perception of Green Port Development in Beibu Gulf Based on Random Forest Classification",
+    "authors": "Rijin Hu, You Yan, Cheng Liu, Xueyuan Ji",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838999",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3838938",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on Dynamic Regulation Mechanism of Microbial Community in Activated Sludge System Driven by Reinforcement Learning",
+    "authors": "Lvxin Zhu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838964",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Data Lineage as Infrastructure: Operationalizing the Translation Methodology for Trusted Data Pipelines",
+    "authors": "Jinyuan Li, Ruijie Ma, Yicheng Gu, Yulun Zhang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838961",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Experience Dependence and Aesthetic Fatigue in Short-Video Consumption: Evidence from Limited Attention and Marginal Cost--Benefit Tradeoffs",
+    "authors": "Man Li",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838995",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Dynamic Assessment Model of Nocturnal Bed-Fall Risk in Nursing Homes Based on Federated Learning",
+    "authors": "He Yu, Wenqing Yu, Xu Cui, Ying Sun",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838955",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Capital Market Internationalization and Internal Control Quality: A Machine Learning Approach with Causal Forest Based on A-share MSCI Inclusion Data",
+    "authors": "Haoyan Cheng, Wei Cui, Yuting Zheng, Zhiwei Lin",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838993",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Smart Pipeline Technologies: Applications and Future Directions",
+    "authors": "Qian Wang, Yunpeng Su",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838966",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Machine Learning-Based Prediction of Gig Workers’ Sustainable Employment",
+    "authors": "Zhenlin Pan",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838953",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Impact of asset-light operation on innovation performance in ChiNext firms: The roles of financial flexibility and digitalization",
+    "authors": "Xiang Hui, Bingxiang Li",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838977",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Temporal Constraint Extraction, Formalization and Agent-Based Runtime Verification Method for Power Grid Safety Regulations",
+    "authors": "Jia Si, Shanshan Huang, Wei Zhang, Xingfeng Mi",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838975",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on Intelligent Digital Art Therapy Service Models Based on Affective Computing and Generative Artificial Intelligence",
+    "authors": "Siyu Lu, Lihao Chen",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838998",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A WebGPU Processing Pipeline for Particle-Magnet Feature-Space Visualization",
+    "authors": "Jürgen Döllner, Willy Scheibel, Jose Carvajal",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3837796",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Interactive Web-Based Visualization for Aircraft Multidisciplinary Design, Analysis, and Exploration",
+    "authors": "Sanjana Anem, Eden Enwiya, Ben Sandbrook, Darshan Sarojini, Nicholas Polys",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834878",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "From Signals to Geometry: Web-Rendered Digital Twins over the Asset Administration Shell",
+    "authors": "Amaia Pérez, Javier Guerra, María del Puy Carretero, Xabier Oregui, Bruno Simões",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834876",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Rendering Explicit and Implicit Complex Functions in 4D: A WebGPU-Based Approach",
+    "authors": "Admir Huseini, Art Saiti",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834886",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on Style Transfer and Integration Design Methods of Intangible Cultural Heritage Aesthetic Elements for Rural Cultural and Creative Brand Cultivation",
+    "authors": "Chenxi Liang, Shuhan Yang, Baiying Wang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838983",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Study on the Driving Mechanisms of Technology Transfer Network Evolution from the Perspective of Industry-Academia Integration",
+    "authors": "Xiaoqin Zhao, Zhirui Wang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838979",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on the Impact Mechanism of Fund Style Drift on Fund Returns: Evidence from Active Equity Funds",
+    "authors": "Jiayi Wu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838981",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "An Improved TF-IDF and Apriori-Based Risk Warning System for Human Rights Protection in Agricultural Informal Employment",
+    "authors": "Qi Li, Jing Chen",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838958",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Insomnia VR: A Serious Game Pilot Study Exploring the Effects of Virtual Reality on Insomnia in Individuals with Spinal Cord Injury Undergoing Inpatient Rehabilitation",
+    "authors": "Mariona Baizhi Cos-Garcia, Eloy Opisso, Alicia Romero, Elena Hernández, Alejandro Ríos, Eva Monclús, Pere-Pau Vázquez",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834867",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Development and Realization of the Intelligent Employment Ecosystem in Colleges and Universities",
+    "authors": "Jinlong Zhao, Peng Li",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838959",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on the Driving Mechanism and Empirical Study of Guangdong Enterprises' Export Green Transformation Based on Industrial Internet of Things and Explainable Artificial Intelligence",
+    "authors": "Yuexian Tang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838965",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on Multi-Objective Optimization-Based Planning Model for Energy Supplement Stations of Electric Ships",
+    "authors": "Jie Yan, Junjun Lin, Yuxuan Zhang, Zihan Wang, Yu Gao",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838942",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Reality Modeling Language to Facilitate the Definition of WebXR-enabled Spatial Computing Experiences",
+    "authors": "Mikel Salazar",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834887",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Multi-Party Computation-Based Framework for Cross-Border ESG Data Sharing and Green Finance Coordination toward an Alternative Global Financial Order",
+    "authors": "Peixuan Wu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838974",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Spatial Hyperlinking for Novices: Portal-Based Navigation of Multi-Room Volumetric Captures",
+    "authors": "Wilhelm Herbrich, Ting Jiang, Aurelia Föllner, Christian Hansen, Danny Schott",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834874",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on IoT-Based Monitoring System for Mechanical Behavior of Hydrant Pipeline in Marine Reclamation Airport",
+    "authors": "Wenjuan Huang, Huilun Xiang, Yongchao Zhang, Kunyang Zhao",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838962",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "x3d_mcp: A Model Context Protocol Server for AI-Assisted X3D Authoring",
+    "authors": "Nikhil Narra, Rick Lentz, Don Brutzman, Nicholas Polys",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834882",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Digital platform based water conservancy standard design and management system",
+    "authors": "Yu Zheng, Yinghua Pan, Yizhen Zhang, Meng Cheng",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838972",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Computational Framework for Regional Disparity and Obstacle Diagnosis in China's High-Quality Foreign Trade Development",
+    "authors": "Xiaoli Liu, Yixin Bao",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838945",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "From Auditing to (Re)designing: Recommender Systems for User Empowerment in Very Large Online Platforms Under the Digital Services Act",
+    "authors": "Matteo Fabbri, Ludovico Boratto",
+    "publish": "ACM Transactions on Recommender Systems",
+    "url": "https://doi.org/10.1145/3857280",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3822516",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "CellMap: WebGPU Visualization of Multi-Scale AI-Generated Cell Biology Data",
+    "authors": "Ondrej Strnad, Deng Luo, Venkatesh Nair, Le Song",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834870",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on the Construction and Algorithmic Optimization Strategies of a Comprehensive Evaluation System for the Synergistic Layout of Electric Power Infrastructure and Ecological Environment in the Guangzhou Region",
+    "authors": "Cui Fang, Lifeng Wang, Fei Duan, Tianyou Yan, Jiping Liu, Fulai Liu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838960",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research Progress in Ecological Corridor Identification Tools: A Bibliometric Analysis",
+    "authors": "Ruiyao Sun, Mingjian Zhu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838985",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Implementing X3DCPPSAIL with AI-Assistance",
+    "authors": "Ryker Ellingworth, Aaron Bergstrom, Don Brutzman",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834884",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Constructive S4 modal logics with the finite birelational frame property",
+    "authors": "Philippe Balbiani, Martín Diéguez, David Fernández-Duque, Brett McLean",
+    "publish": "Journal of the ACM",
+    "url": "https://doi.org/10.1145/3857907",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Optimisation of Machine Learning Models for Analysing Regional Disparities in Low-Altitude Economic Development",
+    "authors": "Guo Chen",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838957",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Artificial Intelligence Applications and Corporate Green TransformationQuasi-Experimental Evidence from National Big Data Pilot Zones--Chinese A-Share Listed Firms, 2011–2023",
+    "authors": "Kuang Chen",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3839000",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Antecedents of technological innovation ambidexterity in the digital-green transition using PLS-SEM and IPMA",
+    "authors": "Hongyan Zhao, Jirui Dong, Jiming Song",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838991",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Deep Defence on Wheels: A Dual Intrusion Detection System Architecture for Comprehensive In-Vehicle Network Security",
+    "authors": "Shashwat Khandelwal, Shreejith Shanker",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3858340",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Empirical Study of the Issues from Prosecutorial Sentencing Recommendations for Probation by Big Data Analysis",
+    "authors": "Min Chen, Lei Chen, Hua Li",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838978",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Neural Network-Based Simulation Approach to Modeling Talent Development Mechanisms in Vocational Education",
+    "authors": "Yuanlin Wu, Huajun Zheng",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838951",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Three-Layer IIoT Stack for Resilient Manufacturing: 5G RAN, PaaS Platforms, and the Institutional Interoperability Threshold",
+    "authors": "Wenying Zhang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838971",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "AI-Driven Dynamic Knowledge Governance: A Hybrid Deep Learning Approach for Mitigating Talent Gaps in Regional Innovation Chains",
+    "authors": "Jie Chen",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838944",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "LATTE: A Decoding Architecture for Quantum Computing with Temporal and Spatial Scalability",
+    "authors": "Kai Zhang, Jubo Xu, Fang Zhang, Linghang Kong, Zhengfeng Ji, Jianxin Chen",
+    "publish": "ACM Transactions on Quantum Computing",
+    "url": "https://doi.org/10.1145/3858417",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Artificial intelligence applications, media attention, and corporate ESG performance",
+    "authors": "Liping Jia",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838996",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "From Physical Objects to Web-Ready 3D Assets: An Affordable AI-Assisted RGB-D Scanning Pipeline",
+    "authors": "Marwan Humaid, Ahmad Al-Moslemani, Hamad Aldous, Ejmen Al-Ubejdij, Umair Gavankar, Abdullatif Albaseer, Jens Schneider, Marco Agus",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3837793",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "An audiovisual web-based VR platform for fully immersive storytelling",
+    "authors": "Regis Rossi Alves Faria, Adiginton J. King Ferreira, Charles K. Neimog, Almir Almas, Eric B. White",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3837792",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "LLM-as-a-Judge for Security Assessment: Limitations, Adversarial Vulnerabilities, and Mitigation Directions",
+    "authors": "Jinyu Lin",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838949",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "DAE and LightGBM Cascaded Detection Model for IoT Mirai Botnets",
+    "authors": "Jingyi Yan, Zhiwei Huang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838956",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Designing for Healthy Disengagement in Metaverse Environments: A Health-Aware Engagement Framework and 3D Virtual Mall Pilot Study",
+    "authors": "Feng Liu",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3837794",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Design of an Intelligent Statistical System for Rural Human Geography Elements Integrating Deep Learning",
+    "authors": "Wanling Chen",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838969",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Reward-Shaped Deep Reinforcement Learning for Adaptive Urban Planning Education",
+    "authors": "Feng Zhao, Kai Luan, Mingyue Cai, Mengqiu Liu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838946",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Digital Trade Rule Network Embeddedness and Digital Services Trade: Empirical Evidence from a Global Agreement Network",
+    "authors": "Qiuping Wu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838994",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "From VRML to WebGL: Uses of Interactive 3D in Archaeological Outreach",
+    "authors": "Valentin Cotta",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834866",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "OGC 3D Tiles implementation for X3DOM",
+    "authors": "Andreas Plesch, Anita Havele",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834885",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Real-Time Scheduling Coordination in Intelligent Sea-Rail Intermodal Transport Systems: A Scenario-Based Analysis of a Seaport-Dry Port Corridor",
+    "authors": "Zhendi Mu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838973",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "A Heterogeneous Graph Learning Framework for Elderly Well-being Prediction in Community Care Settings Using Multi-source Data",
+    "authors": "Jiyao Yang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838947",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "How LLMs Fail in Code Generation: A Cross-Benchmark and Unified Fine-Grained Error Taxonomy",
+    "authors": "Yujun Lu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838941",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Key Influencing Factors and a Three-Stage Transformation Model for Digital and Intelligent Transformation in Traditional Chinese Medicine Enterprises: A Grounded-Theory Single-Case Study",
+    "authors": "Jiujiu Tian",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838976",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Real-time Web-Based Hemodynamic Visualization and Computation for 4D Flow MRI",
+    "authors": "Martin Cartajena, Javier Bóbeda, Karen López-Linares, Nerea Arrarte, Jesús Ruiz-Cabello, Wilmer Lainez-Oyuela, Amaia Perez, Ander Arbelaiz",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834877",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "From Terrestrial Laser Scanning to Web3D Digital Twins: Georeferenced Reconstruction of Industrial Facilities",
+    "authors": "Mohammed Walid Karoui, Abdelhadi Benabdallah, Youssef Sakmeche, Hanaa Benkreira",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834869",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Beyond Observation: Designing 3D Games for Neurodiversity Assessment and Intervention",
+    "authors": "Mohamad Hassan Fadi Hijab, Yasmin Abdelaal, Marwa Qaraqe, Bilikis Banire, Kamran Khowaja, Dena Al-Thani",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834889",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Incentive Game in Time-of -Use Pricing Design: Heterogeneous Responses of Residential and Industrial Users",
+    "authors": "Haohan Jiang, Hongxin Liu, Yilin Cui, Qing Zhao, Jiajia Tang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838970",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Comprehensive Benefit Evaluation of Existing Residential Building Retrofits in the Context of Green and Low-Carbon Development",
+    "authors": "Gangzhu Sun, Ran Li, Zechen Guan",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838986",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Artificial Intelligence Assisted Teaching Mode Optimization for College Innovation and Entrepreneurship Education",
+    "authors": "Chengyu Sun, Yujia Zhang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838982",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Computational Intelligence and Digital Pathways in Green Logistics: A Comparative Study Using LLM-Driven ESG Analytics",
+    "authors": "Juanjuan Luo, Yue Zong, Di Ouyang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838968",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Improve Rendering of Dynamic 3D Meshes in WebVR Environments with QoE-aware Level of Detail Adaptation",
+    "authors": "Nguyen Thi Quynh Ly, Duc V. Nguyen, Truong Thu Huong, Pham Ngoc Nam",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834879",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "HGCalVis: Web-Based Importance-Ordered Visualization of CERN’s HGCal Particle Showers",
+    "authors": "Waad F. Alsheri, Matevž Tadel, Alja M. Tadel, Marco Rovere, Markus Hadwiger, Alberto Jaspe-Villanueva",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834872",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "LSR: Eliminating Loop Control Overhead for Energy-Efficient Processors",
+    "authors": "Ling Yang, Libo Huang, Zhong Zheng, Bingcai Sui, Yongwen Wang, Li Shen, Sheng Ma, Qianming Yang, Gang Chen, Songwen Pei, Mingche Lai, Weixia Xu",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3857804",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "PanoGS: Foundation-Depth-Guided High-Resolution Gaussian Splatting from Sparse Panoramic Images for Interactive Web3D Exploration",
+    "authors": "Uzair Shah, Giovanni Pintore, Alberto Jaspe-Villanueva, Muhammad Tukur, Wala Elsharif, Mahmood Alzubaidi, Enrico Gobbetti, Marco Agus",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834880",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Numerical Simulation Collaborative Optimization Framework for Semi-flexible Grouted Pavement Materials and Structures",
+    "authors": "Liping Lin, Zhaodi Yuan, Fei Yang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838939",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "The Impact of ESG Rating Divergence on M&amp;A Premium",
+    "authors": "Chengze Li",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838984",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "The Impact of Green Synergy on the Financial Performance of Manufacturing Enterprises: Based on the Mediating Effect of Dynamic Capability and Green Technology Innovation",
+    "authors": "Xiaoyan Ren, Wenyue Tan, Jie He, Kun Quan",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838980",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Algorithmic Urbanism: A Machine Learning-Driven Framework for Evaluating the “Tactical Turn” in Post-Industrial Resilience",
+    "authors": "Huicai Xiong, Ke Yang, Fan Ye, Jianlin Wu, Xiaotian Guan, Guoqiang Ai",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838954",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Design for Machinability: Topology Optimization for Subtractive Machining Using Trimmed Neural Fields",
+    "authors": "Hongrui Chen, Levent Burak Kara",
+    "publish": "ACM Transactions on Graphics",
+    "url": "https://doi.org/10.1145/3847303",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Research on the Network Capability Transmission Mechanism and Performance Improvement of Industrial Technology Alliances Based on Complex Network Analysis",
+    "authors": "Yu Song, Jinliang Wang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838989",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Technē: A Deterministic Craft Layer for Model Context Protocol Servers, Grounded in LLM-Authored X3D",
+    "authors": "Alexander Hoffman",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834883",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Human-Centered Digital Twins: A Bidirectional WebXR-Based Architecture for Immersive Interaction",
+    "authors": "Hayette Hadjar, Zineb Hadjadj, Abdelkrim Meziane",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834871",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Computer-Algorithm-Integrated AI Low-Altitude Flight-Control Ecosystems for Digital-Economy Value Creation: Expert-Prior Safe Control, Graph Analytics, and Algorithmic Valuation",
+    "authors": "Juliana Tsui, Stephen Chun-Yan Kwan, Fan Lin, Chi Cheng",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838967",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "The Effectiveness and Limitations of Large Language Models in Government Investment Project Evaluation: A Smart Governance Perspective",
+    "authors": "Renlei Sheng, Shimeng Zhu, Xianglin Jiang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838990",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Multisource Physical and Mental Health Data Analytics and Intelligent Early Warning for College Students Based on an Improved Decision Tree",
+    "authors": "Lin Zhong, Xiuquan Yu, Qinfu Li, Jun Cai",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838943",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "LEGS: Laplacian-Enhanced Gaussian Splatting with a Nonlinear Weighted Loss",
+    "authors": "Yongfei Guo, Qizhou Huo, Xuan Sun, Yuanhao Gong",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Decentralized Storage, Distribution and Verifiable Retrieval of X3D Spatial Audio Scenes",
+    "authors": "Eftychia Lakka, Chrysoula Tzermia, Don Brutzman, Athanasios G. Malamos, Evangelos K. Markakis",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834875",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "WebSVR: Joint Volume Measurement and Novel View Synthesis in Web-based 3D Environments",
+    "authors": "Raphael Kunert, Rico Richter, Jürgen Döllner",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3834881",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "SPLAT! A Web3D Platform for Exploring Intangible Cultural Heritage through Interactive Storytelling and 3D Visualization",
+    "authors": "Zakaria Abourida, Tommaso Remondino, Paola Gasbarri, Silvia Meschini, Markos Konstantakis, Lavinia Chiara Tagliabue",
+    "publish": "Proceedings of the 31st ACM International Conference on 3D Web Technology",
+    "url": "https://doi.org/10.1145/3822516.3837797",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Operational Safety for AI Systems: A Framework for Managing Risk in Production",
+    "authors": "Chen Qi, Xiaoying Qiao",
+    "publish": "Proceedings of the 2026 2nd International Conference on Sustainable Development and Digital Transformation",
+    "url": "https://doi.org/10.1145/3838938.3838963",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
