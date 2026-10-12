@@ -1,0 +1,623 @@
+[
+  {
+    "date": "2026-10-11",
+    "title": "Adaptive Ambient Display for Self-Regulated Smartphone Usage",
+    "authors": "Jian Zheng",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833124",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "AirHook: Simulating Multi-directional Wind Around Ears to Enhance Presence in VR",
+    "authors": "Yuxuan Sun, Tian Min, Liwei Chan, Takashi Amesaka, Yuta Sugiura",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833133",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "DroneHub: A Modular Open-Source Multi-Drone System for Physical Drone Research",
+    "authors": "Maria-Theresa Bahodi, Niels van Berkel, Mikael B. Skov, Patrick Ritmann Bertelsen, Timothy Merritt",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833103",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3821581",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Designing Mobile and Wearable Sensor-Fused Conversational Agents for Health and Wellbeing",
+    "authors": "Hansoo Lee, Pablo Fonseca, Md Haseen Akhtar",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833141",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Demonstration of VelociTrack: Touch Input On Uninstrumented Surfaces Using High-Speed Headset Cameras",
+    "authors": "Nathan DeVrio, Vimal Mollyn, Chris Harrison",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833136",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Can User Awareness through Visual Feedback increase the Tolerable Delay in VoIP Calls?",
+    "authors": "Heinsamding Thou, Arindam Kishore Dutta, Bhaskaran Raman, Venkatesh Rajamanickam",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833131",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Human Factors in Mobile Authentication: Method Availability, User Preferences, and the Development of Secure Behaviour",
+    "authors": "Drew Christina Marie Bassett",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833122",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Haysun: A Phone-Native Micro-Exergame for Sedentary Breaks",
+    "authors": "Dion Deng, Yaotian Hu, Shuyi Li, Jiangnan Xu, Mila Bujić, Juho Hamari",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833138",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Syni: Acting on Human State Without Sensing It - An On-Device, Privacy-Oriented Agent over a Human State Interface",
+    "authors": "Israel Goytom Birhane, Henok Biadglign Ademtew, Yisak Tola Debele, Anwar Misbah",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833109",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Confounded, Not Generalizable: Evaluation Hygiene for Mobile Multimodal Depression Pre-Screening",
+    "authors": "Xu Zhou, Ly Chen, Xuan Rui Yong, Ziqing Chen, Xiaoyi Wen",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833102",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "PRIMA: Enabling User Agency and Control in Mobile GUI Agent Autonomy",
+    "authors": "Ching-Ting Lin, Zhi-Hong Ye, Ya-Jen Cheng, Yung-Ju Chang",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833113",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "CONORM: Context-Aware Entity Normalization for Adverse Drug Event Detection",
+    "authors": "Anthony Yazdani, Hossein Rouhizadeh, Alban Bornet, Douglas Teodoro",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3858333",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Pulse Raid: Rethinking Failure and Progression in Phone-Native Aerobic Exergames",
+    "authors": "Dion Deng, Shuyi Li, Yaotian Hu, Yuxuan Ouyang, Xiansi Qin, Mengqi Cui, Jiangnan Xu, Mila Bujić, Juho Hamari",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833137",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Exploring Usability and Legal Practice: Insights From German Judicial Users of Digital Forensics",
+    "authors": "Tobias Hoppmann, Leona Lassak, M. Angela Sasse, Zinaida Benenson",
+    "publish": "Digital Threats: Research and Practice",
+    "url": "https://doi.org/10.1145/3848133",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Detecting Vulnerabilities in EOSIO Smart Contracts via Joint Static and Dynamic Feature Learning",
+    "authors": "Xiao Wang, Yanxiang Tong, Hai Dong, Ben Wang, Yan Xiao, Pengcheng Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3849699",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "A Mobile Dual-Task Exergame for Healthy Ageing Featuring Pose Tracking and Digital Coaching",
+    "authors": "Federica Bove, Benedetta Giachetti, Leonardo Angelini, Gabriella Olmo, Elena Mugellini",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833118",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Home-Based Virtual Reality for Cognitive Monitoring in Breast Cancer",
+    "authors": "Maria Matsangidou, Veronica Hadjipanayi, Theodoros Solomou, Ioanna Kazalaki, Georgia Panayiotou, Anastasia Constantinidou, Maria Karekla, Marios N Avraamides, Prof. Constantinos S. Pattichis, Angelos P. Kassianos",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833110",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Implicit and Explicit Visual Information Aware Multimodal Relation Extraction",
+    "authors": "Zefan Zhang, Kehua Zhu, Shijie Jiang, Tian Bai",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3849698",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Marbly Companion Demo: A Companion-Based Mobile App for Exploring Exposure Therapy Support",
+    "authors": "Natalia Bartłomiejczyk, Adrian Holzer",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833139",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Development of social robots, interaction, and functionality in the context of care and companionship for older adults",
+    "authors": "Mehrbod Manavi",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833123",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "From Surplus Offers to Workable Collaborations: Mobile Application Design Opportunities for the Circular Economy",
+    "authors": "Fanzhaoyang Lei, Peter Bennett, Ruzanna Chitchyan",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833101",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Designing HCI Tools to Reduce Punitive Reliance in Anti-Social Behaviour Intervention and Management.",
+    "authors": "Rachel Hill, Tom Owen, Julian Hough, Muneeb Ahmad",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833125",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "ChatGPT, Can You Generate Multiple-Choice Questions for an Undergraduate Computing Course? An Evaluation of its Effectiveness Using Classical Test Theory",
+    "authors": "Eng Lieh Ouh, Kar Way Tan, Siaw Ling Lo, Benjamin Kok Siew Gan, Yuhao Zhang",
+    "publish": "ACM Transactions on Computing Education",
+    "url": "https://doi.org/10.1145/3858331",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "From Handwritten Expressions to STACK Answers: A Mobile Camera-Based Input Helper for Moodle/STACK",
+    "authors": "Jiajun Huang, Takahiro Nakahara, Yasuyuki Nakamura",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833134",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "New Interaction Techniques for MobileHCI: Sonified Touch for Accessible Museum Visits",
+    "authors": "Chidiel Opara, Makayla Lewis, Islam Choudhury",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833130",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Agile in the Hybrid Era: Unpacking Meetings in Software Development",
+    "authors": "Emily Laue Christensen, Maria Paasivaara",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3850239",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Bounty Hunter: Autonomous, Comprehensive Emulation of Multi-Faceted Adversaries",
+    "authors": "Louis Hackländer-Jansen, Rafael Uetz, Martin Henze",
+    "publish": "Digital Threats: Research and Practice",
+    "url": "https://doi.org/10.1145/3846200",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "FROHA - Forensic Recorder for Operator HMI Activities",
+    "authors": "Alexios Karagiozidis, Martin Gergeleit",
+    "publish": "Digital Threats: Research and Practice",
+    "url": "https://doi.org/10.1145/3848417",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "A Minor-Testing Approach for Coordinated Motion Planning with Sliding Robots",
+    "authors": "Eduard Eiben, Robert Ganian, Iyad Kanj, M. S. Ramanujan",
+    "publish": "ACM Transactions on Algorithms",
+    "url": "https://doi.org/10.1145/3857911",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Fast Trajectory Similarity Computation over Road networks",
+    "authors": "Shaoxuan Gu, Hui Zhang, Lei Li, Junbo Zhang, Yuan Cao, Yanwei Yu",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3849377",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Designing Context-Aware Generative Installations: A Modular Framework for Adaptive Public Space",
+    "authors": "Valerie Yan Tong Chua, Luchen Xi",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833135",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Being Remembered Takes Work: Menstrual Tracking and Romantic Care in Chinese Mobile Romance Games",
+    "authors": "Xiaohan Yang",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833115",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Heterogeneous Treatment Effect Estimation with Distribution Shift and Unmeasured Confounding",
+    "authors": "Wenyang Liu, Yuling Zhang, Anpeng Wu, Kun Kuang, Ming Ma, Zhi Wang",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3849695",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Co-Designing a Mobile Learning and Communication Support App for Communication Partners of People with Aphasia",
+    "authors": "Happy Rani Debi, Jamie H Azios, Beenish Moalla Chaudhry",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833120",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Developing an Inclusive User Experience for New Internet Users through Qualitative and Quantitative Methods",
+    "authors": "Priyanka Chowdary",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833121",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Belief-based Risk-Aware Anticipatory Navigation: Modeling Intention and Position Uncertainty for Safe and Efficient Robot Navigation",
+    "authors": "Fengkai Liu, Yuichi Ohsita, Nattaon Techasarntikul, Masayuki Murata",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3858345",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "An LLM-Based Mobile Digital Coach for Physical Activity Implementing a Behaviour Change Model: a Pilot Study",
+    "authors": "Benedetta Giachetti, Sara Medde, Leonardo Angelini, Philippe Cudré-Mauroux, Elena Mugellini",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833119",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Phone Pathology: User-Facing Smartphone Assessment Using Perceptual Quality Metrics",
+    "authors": "Priyanka Chowdary, Rohan Reddy Devarapalli, Aum Vijay Bawiskar, Aaryan Mehta, Dipanjan Chakraborty",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833140",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "GaCLLM: Large Language Model with Graph Convolution for Recommendation",
+    "authors": "Yingpeng Du, Ziyan Wang, Zhu Sun, Haoyan Chua, Yew-Soon Ong, Jie Zhang",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3857345",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "BHunter: Generating Blind-Spot Driving Scenarios for Robustness Testing of Perception Systems",
+    "authors": "Songyang Peng, Jiarun Dai, Yanghao Lv, Jiaqi Luo, Zongan Huang, Yuan Zhang, Min Yang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3857808",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Cross-Modal Alignment Dataset",
+    "authors": "Chengsen Wang, Qi Qi, Zhongwen Rao, Lujia Pan, Jingyu Wang",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3849868",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "MojiMatch: Comparing Text-Based and Facial-Expression Emoji Prediction on a Mobile Keyboard",
+    "authors": "Ohoud Mosa Alharbi, Ahmed Sabbir Arif",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833106",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Trajectory-Constrained Feature Transformation Optimization Framework for Stable Tabular Data Reprogramming",
+    "authors": "Xiaohan Huang, Dongjie Wang, Zhiyuan Ning, Yanjie Fu, Ziyue Qiao, Qingqing Long, Haowei Zhu, Yi Du, Min Wu, Yuanchun Zhou, Meng Xiao",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3857802",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "MoTA: Cross-Modal Motion Transfer for Animating 3D Head Avatars via 2D Motion Tokens",
+    "authors": "Liqiang Liu, Lei Chu, Xin Kang, Jiahao Li, Houqiang Li, Yan Lu",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3857347",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Designing a Location-Anchored Asynchronous Guide for Outdoor Plant Exploration",
+    "authors": "Takeru Yazaki, Kuniharu Sakurada, Genki Akimoto, Masahiko Inami",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833100",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Speejis: Expressive Speech Emotion Cues in Voice Messaging",
+    "authors": "Ilhan Aslan, Carla F. Griggio, Henning Pohl, Timothy Merritt, Niels van Berkel",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833104",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "iFlickMath: Development of a Flick-Input Mathematical Notation Keyboard and STACK-Integrated iOS Mathematics Learning Application",
+    "authors": "Asahi Takatsuka, Yasuyuki Nakamura",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833132",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Memory Slice: A Process-Centric Dump Format for Differential Memory Analysis and Volatility 3 Plugin Synthesis",
+    "authors": "Daniel Baier, Martin Lambertz",
+    "publish": "Digital Threats: Research and Practice",
+    "url": "https://doi.org/10.1145/3848418",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Digital Anti-Forensics Research: The Next 10 Years",
+    "authors": "Janine Schneider, Florian Ramming, Maximilian Eichhorn, Gaston Pugliese, Christopher Hargreaves, Jan Gruber Kastel, Joschua Schilling, Julian Geus, Kevin Mayer, Lea Uhlenbrock, Lena Lucia Voigt, Frank Breitinger",
+    "publish": "Digital Threats: Research and Practice",
+    "url": "https://doi.org/10.1145/3846198",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "GroundSTory: Interactive Storytelling for Grounded Spatiotemporal Anomaly Explanations with Graphs and Large Language Models",
+    "authors": "Juanpablo Heredia, Leighton Estrada-Rayme, Jeremy Matos-Cangalaya, Jorge Poco",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3856820",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Error-Controlled Mixed-Precision Cholesky Factorization with MX Microscaling Formats",
+    "authors": "Abdurauf Abdurakhmanov, Theo Mary, Hatem Ltaief, David E. Keyes, Suhaib A. Fahmy",
+    "publish": "ACM Transactions on Mathematical Software",
+    "url": "https://doi.org/10.1145/3857919",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "MemoryAn: A Proactive, Generative Companion Agent for Continuing Bonds in Pet Bereavement",
+    "authors": "Yijun Zhao, Yuanqi Cheng, Yang Zhaojia, Tianshu Dong, Lingxiang Meng",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833105",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "\"A Spear and Shield Situation Between Us\" Understanding Parent-Child Relational Tensions Shaped by Parental Control Apps Through Review Analysis",
+    "authors": "Nakyeong Jang, Sungho Kim, Jaehee Choi, Sunok Lee",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833114",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Foundations for Investigations of Agentic AI Systems from the Forensic Analysis of OpenClaw",
+    "authors": "Jan Gruber, Jan-Niclas Hilgert",
+    "publish": "Digital Threats: Research and Practice",
+    "url": "https://doi.org/10.1145/3848419",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "“He Put Too Much Pressure on Me”: Pressure and Urgency in Synthetic Voice Deception",
+    "authors": "Sima Amirkhani, Augustine Nana Agyemang, Daniel Adjin Larty, Derrick Tenkorang Boateng, Mahla Alizadeh, Alexander Boden, Gunnar Stevens",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833108",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Beyond Streaks and Leaderboards: Designing Collaborative and Comparative Group Activity Visualisations in Mobile Fitness Apps.",
+    "authors": "Pallavi Rao Gadahad, Anirudha Joshi",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833099",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "An Instance Space Analysis of Neural Network Training as a Black-Box Optimisation Problem",
+    "authors": "Katherine Mary Malan, Mario Andrés Muñoz",
+    "publish": "ACM Transactions on Evolutionary Learning and Optimization",
+    "url": "https://doi.org/10.1145/3858341",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Leveraging Passive Compliance of Soft Robotics for Physical Human-Robot Collaborative Manipulation",
+    "authors": "Dallin L. Cordon, Shaden Moss, Marc Killpack, John L. Salmon",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3848623",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "FretPhone: Exploring Guitar-Inspired Tactile Interaction for Mobile E-Reading",
+    "authors": "Gavin Bailey, Matt Jones, Deepak Ranjan Sahoo",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833117",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Does Sensor Information Improve Neural Finger-to-Text Decoding? A Simulation Study",
+    "authors": "Yung-Chia Chang",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833098",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "mobiCHAI’3: 3rd International Workshop on Mobile Cognition-Altering and Cognitive-Augmenting Technologies using Human-Centered AI",
+    "authors": "Agnes Gruenerbl, Jan Spilski, Paul Lukowicz, Thomas Lachmann",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833126",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Distilling Transitional Patterns to Multimodal Large Language Models for Session-based Recommendation",
+    "authors": "Jiajie Su, Qiyong Zhong, Yunshan Ma, Xiang Chen, Chaochao Chen, Xiaolin ZHENG, Tat-Seng Chua",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3856985",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "User-informed Design and Early Evaluation of a Mobile Virtual Reality System for Training and Assessment of Myoelectric Prosthesis Control",
+    "authors": "Changyu Liu, Aashka A. Desai, Shriram Tallam Puranam Raghu, Jacqueline S. Hebert, Patrick M. Pilarski, Ahmed W. Shehata",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833107",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Evaluating a Mobile App for Emotional Well-Being: Perspectives of Informal Caregivers",
+    "authors": "Beatriz Jardim Peres, Hildegardo Noronha, Pedro F. Campos, Élvio Rúbio Gouveia",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833112",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Integrating Video-Language Model with Mixture of Low-Rank Experts for Video Commonsense Captioning",
+    "authors": "Yiping Yang, Yingming Li",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3857795",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "SENSi Agent: Translating Expert Mentoring Strategies into LLM Prompts through Cognitive Task Analysis",
+    "authors": "Shahad Bagarish, Ahmed Sabbir Arif, Ohoud Mosa Alharbi",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833111",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Exploring Winter Outdoors Context for Experiencing Nature Seasons in Virtual Reality",
+    "authors": "Tommi Kiianmies, Sofia Auroora Vierula, Emmakaisa Tikkinen, Jonna Häkkilä",
+    "publish": "Proceedings of the 28th International Conference on Mobile Human-Computer Interaction",
+    "url": "https://doi.org/10.1145/3821581.3833116",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Tri-Encoder Disentanglement with Dynamic Preference Gating for Cross-Domain Recommendation",
+    "authors": "Sanghyuk Moon, Jungmin Park, Younghoon Lee",
+    "publish": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "https://doi.org/10.1145/3857353",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]

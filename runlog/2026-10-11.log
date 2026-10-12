@@ -1,0 +1,149 @@
+[2026-10-12 01:02:25] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-10-11
+正在获取论文...
+arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202610110000+TO+202610112359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ResponseError('too many 429 error responses'))
+[ACM] 2026-10-11 | Adaptive Ambient Display for Self-Regulated Smartphone Usage
+[ACM] 2026-10-11 | AirHook: Simulating Multi-directional Wind Around Ears to Enhance Presence in VR
+[ACM] 2026-10-11 | DroneHub: A Modular Open-Source Multi-Drone System for Physical Drone Research
+[ACM] 2026-10-11 | Proceedings of the 28th International Conference on Mobile Human-Computer Interaction
+[ACM] 2026-10-11 | Designing Mobile and Wearable Sensor-Fused Conversational Agents for Health and Wellbeing
+[ACM] 2026-10-11 | Demonstration of VelociTrack: Touch Input On Uninstrumented Surfaces Using High-Speed Headset Cameras
+[ACM] 2026-10-11 | Can User Awareness through Visual Feedback increase the Tolerable Delay in VoIP Calls?
+[ACM] 2026-10-11 | Human Factors in Mobile Authentication: Method Availability, User Preferences, and the Development of Secure Behaviour
+[ACM] 2026-10-11 | Haysun: A Phone-Native Micro-Exergame for Sedentary Breaks
+[ACM] 2026-10-11 | Syni: Acting on Human State Without Sensing It - An On-Device, Privacy-Oriented Agent over a Human State Interface
+[ACM] 2026-10-11 | Confounded, Not Generalizable: Evaluation Hygiene for Mobile Multimodal Depression Pre-Screening
+[ACM] 2026-10-11 | PRIMA: Enabling User Agency and Control in Mobile GUI Agent Autonomy
+[ACM] 2026-10-11 | CONORM: Context-Aware Entity Normalization for Adverse Drug Event Detection
+[ACM] 2026-10-11 | Pulse Raid: Rethinking Failure and Progression in Phone-Native Aerobic Exergames
+[ACM] 2026-10-11 | Exploring Usability and Legal Practice: Insights From German Judicial Users of Digital Forensics
+[ACM] 2026-10-11 | Detecting Vulnerabilities in EOSIO Smart Contracts via Joint Static and Dynamic Feature Learning
+[ACM] 2026-10-11 | A Mobile Dual-Task Exergame for Healthy Ageing Featuring Pose Tracking and Digital Coaching
+[ACM] 2026-10-11 | Home-Based Virtual Reality for Cognitive Monitoring in Breast Cancer
+[ACM] 2026-10-11 | Implicit and Explicit Visual Information Aware Multimodal Relation Extraction
+[ACM] 2026-10-11 | Marbly Companion Demo: A Companion-Based Mobile App for Exploring Exposure Therapy Support
+[ACM] 2026-10-11 | Development of social robots, interaction, and functionality in the context of care and companionship for older adults
+[ACM] 2026-10-11 | From Surplus Offers to Workable Collaborations: Mobile Application Design Opportunities for the Circular Economy
+[ACM] 2026-10-11 | Designing HCI Tools to Reduce Punitive Reliance in Anti-Social Behaviour Intervention and Management.
+[ACM] 2026-10-11 | ChatGPT, Can You Generate Multiple-Choice Questions for an Undergraduate Computing Course? An Evaluation of its Effectiveness Using Classical Test Theory
+[ACM] 2026-10-11 | From Handwritten Expressions to STACK Answers: A Mobile Camera-Based Input Helper for Moodle/STACK
+[ACM] 2026-10-11 | New Interaction Techniques for MobileHCI: Sonified Touch for Accessible Museum Visits
+[ACM] 2026-10-11 | Agile in the Hybrid Era: Unpacking Meetings in Software Development
+[ACM] 2026-10-11 | Bounty Hunter: Autonomous, Comprehensive Emulation of Multi-Faceted Adversaries
+[ACM] 2026-10-11 | FROHA - Forensic Recorder for Operator HMI Activities
+[ACM] 2026-10-11 | A Minor-Testing Approach for Coordinated Motion Planning with Sliding Robots
+[ACM] 2026-10-11 | Fast Trajectory Similarity Computation over Road networks
+[ACM] 2026-10-11 | Designing Context-Aware Generative Installations: A Modular Framework for Adaptive Public Space
+[ACM] 2026-10-11 | Being Remembered Takes Work: Menstrual Tracking and Romantic Care in Chinese Mobile Romance Games
+[ACM] 2026-10-11 | Heterogeneous Treatment Effect Estimation with Distribution Shift and Unmeasured Confounding
+[ACM] 2026-10-11 | Co-Designing a Mobile Learning and Communication Support App for Communication Partners of People with Aphasia
+[ACM] 2026-10-11 | Developing an Inclusive User Experience for New Internet Users through Qualitative and Quantitative Methods
+[ACM] 2026-10-11 | Belief-based Risk-Aware Anticipatory Navigation: Modeling Intention and Position Uncertainty for Safe and Efficient Robot Navigation
+[ACM] 2026-10-11 | An LLM-Based Mobile Digital Coach for Physical Activity Implementing a Behaviour Change Model: a Pilot Study
+[ACM] 2026-10-11 | Phone Pathology: User-Facing Smartphone Assessment Using Perceptual Quality Metrics
+[ACM] 2026-10-11 | GaCLLM: Large Language Model with Graph Convolution for Recommendation
+[ACM] 2026-10-11 | BHunter: Generating Blind-Spot Driving Scenarios for Robustness Testing of Perception Systems
+[ACM] 2026-10-11 | ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Cross-Modal Alignment Dataset
+[ACM] 2026-10-11 | MojiMatch: Comparing Text-Based and Facial-Expression Emoji Prediction on a Mobile Keyboard
+[ACM] 2026-10-11 | Trajectory-Constrained Feature Transformation Optimization Framework for Stable Tabular Data Reprogramming
+[ACM] 2026-10-11 | MoTA: Cross-Modal Motion Transfer for Animating 3D Head Avatars via 2D Motion Tokens
+[ACM] 2026-10-11 | Designing a Location-Anchored Asynchronous Guide for Outdoor Plant Exploration
+[ACM] 2026-10-11 | Speejis: Expressive Speech Emotion Cues in Voice Messaging
+[ACM] 2026-10-11 | iFlickMath: Development of a Flick-Input Mathematical Notation Keyboard and STACK-Integrated iOS Mathematics Learning Application
+[ACM] 2026-10-11 | Memory Slice: A Process-Centric Dump Format for Differential Memory Analysis and Volatility 3 Plugin Synthesis
+[ACM] 2026-10-11 | Digital Anti-Forensics Research: The Next 10 Years
+[ACM] 2026-10-11 | GroundSTory: Interactive Storytelling for Grounded Spatiotemporal Anomaly Explanations with Graphs and Large Language Models
+[ACM] 2026-10-11 | Error-Controlled Mixed-Precision Cholesky Factorization with MX Microscaling Formats
+[ACM] 2026-10-11 | MemoryAn: A Proactive, Generative Companion Agent for Continuing Bonds in Pet Bereavement
+[ACM] 2026-10-11 | "A Spear and Shield Situation Between Us" Understanding Parent-Child Relational Tensions Shaped by Parental Control Apps Through Review Analysis
+[ACM] 2026-10-11 | Foundations for Investigations of Agentic AI Systems from the Forensic Analysis of OpenClaw
+[ACM] 2026-10-11 | “He Put Too Much Pressure on Me”: Pressure and Urgency in Synthetic Voice Deception
+[ACM] 2026-10-11 | Beyond Streaks and Leaderboards: Designing Collaborative and Comparative Group Activity Visualisations in Mobile Fitness Apps.
+[ACM] 2026-10-11 | An Instance Space Analysis of Neural Network Training as a Black-Box Optimisation Problem
+[ACM] 2026-10-11 | Leveraging Passive Compliance of Soft Robotics for Physical Human-Robot Collaborative Manipulation
+[ACM] 2026-10-11 | FretPhone: Exploring Guitar-Inspired Tactile Interaction for Mobile E-Reading
+[ACM] 2026-10-11 | Does Sensor Information Improve Neural Finger-to-Text Decoding? A Simulation Study
+[ACM] 2026-10-11 | mobiCHAI’3: 3rd International Workshop on Mobile Cognition-Altering and Cognitive-Augmenting Technologies using Human-Centered AI
+[ACM] 2026-10-11 | Distilling Transitional Patterns to Multimodal Large Language Models for Session-based Recommendation
+[ACM] 2026-10-11 | User-informed Design and Early Evaluation of a Mobile Virtual Reality System for Training and Assessment of Myoelectric Prosthesis Control
+[ACM] 2026-10-11 | Evaluating a Mobile App for Emotional Well-Being: Perspectives of Informal Caregivers
+[ACM] 2026-10-11 | Integrating Video-Language Model with Mixture of Low-Rank Experts for Video Commonsense Captioning
+[ACM] 2026-10-11 | SENSi Agent: Translating Expert Mentoring Strategies into LLM Prompts through Cognitive Task Analysis
+[ACM] 2026-10-11 | Exploring Winter Outdoors Context for Experiencing Nature Seasons in Virtual Reality
+[ACM] 2026-10-11 | Tri-Encoder Disentanglement with Dynamic Preference Gating for Cross-Domain Recommendation
+共写入 69 条记录，保存到 papers/paper2026-10-11.json。
+论文获取成功，文件路径: papers/paper2026-10-11.json
+正在筛选、翻译并发送邮件...
+[NO] 1/69 | Adaptive Ambient Display for Self-Regulated Smartphone Usage
+[NO] 2/69 | AirHook: Simulating Multi-directional Wind Around Ears to Enhance Presence in VR
+[NO] 3/69 | DroneHub: A Modular Open-Source Multi-Drone System for Physical Drone Research
+[NO] 4/69 | Proceedings of the 28th International Conference on Mobile Human-Computer Interaction
+[NO] 5/69 | Designing Mobile and Wearable Sensor-Fused Conversational Agents for Health and Wellbeing
+[NO] 6/69 | Demonstration of VelociTrack: Touch Input On Uninstrumented Surfaces Using High-Speed Headset Cameras
+[NO] 7/69 | Can User Awareness through Visual Feedback increase the Tolerable Delay in VoIP Calls?
+[NO] 8/69 | Human Factors in Mobile Authentication: Method Availability, User Preferences, and the Development of Secure Behaviour
+[NO] 9/69 | Haysun: A Phone-Native Micro-Exergame for Sedentary Breaks
+[NO] 10/69 | Syni: Acting on Human State Without Sensing It - An On-Device, Privacy-Oriented Agent over a Human State Interface
+[NO] 11/69 | Confounded, Not Generalizable: Evaluation Hygiene for Mobile Multimodal Depression Pre-Screening
+[NO] 12/69 | PRIMA: Enabling User Agency and Control in Mobile GUI Agent Autonomy
+[NO] 13/69 | CONORM: Context-Aware Entity Normalization for Adverse Drug Event Detection
+[NO] 14/69 | Pulse Raid: Rethinking Failure and Progression in Phone-Native Aerobic Exergames
+[NO] 15/69 | Exploring Usability and Legal Practice: Insights From German Judicial Users of Digital Forensics
+[YES] 16/69 | Detecting Vulnerabilities in EOSIO Smart Contracts via Joint Static and Dynamic Feature Learning
+[NO] 17/69 | A Mobile Dual-Task Exergame for Healthy Ageing Featuring Pose Tracking and Digital Coaching
+[NO] 18/69 | Home-Based Virtual Reality for Cognitive Monitoring in Breast Cancer
+[NO] 19/69 | Implicit and Explicit Visual Information Aware Multimodal Relation Extraction
+[NO] 20/69 | Marbly Companion Demo: A Companion-Based Mobile App for Exploring Exposure Therapy Support
+[NO] 21/69 | Development of social robots, interaction, and functionality in the context of care and companionship for older adults
+[NO] 22/69 | From Surplus Offers to Workable Collaborations: Mobile Application Design Opportunities for the Circular Economy
+[NO] 23/69 | Designing HCI Tools to Reduce Punitive Reliance in Anti-Social Behaviour Intervention and Management.
+[NO] 24/69 | ChatGPT, Can You Generate Multiple-Choice Questions for an Undergraduate Computing Course? An Evaluation of its Effectiveness Using Classical Test Theory
+[NO] 25/69 | From Handwritten Expressions to STACK Answers: A Mobile Camera-Based Input Helper for Moodle/STACK
+[NO] 26/69 | New Interaction Techniques for MobileHCI: Sonified Touch for Accessible Museum Visits
+[NO] 27/69 | Agile in the Hybrid Era: Unpacking Meetings in Software Development
+[NO] 28/69 | Bounty Hunter: Autonomous, Comprehensive Emulation of Multi-Faceted Adversaries
+[NO] 29/69 | FROHA - Forensic Recorder for Operator HMI Activities
+[NO] 30/69 | A Minor-Testing Approach for Coordinated Motion Planning with Sliding Robots
+[NO] 31/69 | Fast Trajectory Similarity Computation over Road networks
+[NO] 32/69 | Designing Context-Aware Generative Installations: A Modular Framework for Adaptive Public Space
+[NO] 33/69 | Being Remembered Takes Work: Menstrual Tracking and Romantic Care in Chinese Mobile Romance Games
+[NO] 34/69 | Heterogeneous Treatment Effect Estimation with Distribution Shift and Unmeasured Confounding
+[NO] 35/69 | Co-Designing a Mobile Learning and Communication Support App for Communication Partners of People with Aphasia
+[NO] 36/69 | Developing an Inclusive User Experience for New Internet Users through Qualitative and Quantitative Methods
+[NO] 37/69 | Belief-based Risk-Aware Anticipatory Navigation: Modeling Intention and Position Uncertainty for Safe and Efficient Robot Navigation
+[NO] 38/69 | An LLM-Based Mobile Digital Coach for Physical Activity Implementing a Behaviour Change Model: a Pilot Study
+[NO] 39/69 | Phone Pathology: User-Facing Smartphone Assessment Using Perceptual Quality Metrics
+[NO] 40/69 | GaCLLM: Large Language Model with Graph Convolution for Recommendation
+[NO] 41/69 | BHunter: Generating Blind-Spot Driving Scenarios for Robustness Testing of Perception Systems
+[NO] 42/69 | ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Cross-Modal Alignment Dataset
+[NO] 43/69 | MojiMatch: Comparing Text-Based and Facial-Expression Emoji Prediction on a Mobile Keyboard
+[NO] 44/69 | Trajectory-Constrained Feature Transformation Optimization Framework for Stable Tabular Data Reprogramming
+[NO] 45/69 | MoTA: Cross-Modal Motion Transfer for Animating 3D Head Avatars via 2D Motion Tokens
+[NO] 46/69 | Designing a Location-Anchored Asynchronous Guide for Outdoor Plant Exploration
+[NO] 47/69 | Speejis: Expressive Speech Emotion Cues in Voice Messaging
+[NO] 48/69 | iFlickMath: Development of a Flick-Input Mathematical Notation Keyboard and STACK-Integrated iOS Mathematics Learning Application
+[NO] 49/69 | Memory Slice: A Process-Centric Dump Format for Differential Memory Analysis and Volatility 3 Plugin Synthesis
+[NO] 50/69 | Digital Anti-Forensics Research: The Next 10 Years
+[NO] 51/69 | GroundSTory: Interactive Storytelling for Grounded Spatiotemporal Anomaly Explanations with Graphs and Large Language Models
+[NO] 52/69 | Error-Controlled Mixed-Precision Cholesky Factorization with MX Microscaling Formats
+[NO] 53/69 | MemoryAn: A Proactive, Generative Companion Agent for Continuing Bonds in Pet Bereavement
+[NO] 54/69 | "A Spear and Shield Situation Between Us" Understanding Parent-Child Relational Tensions Shaped by Parental Control Apps Through Review Analysis
+[NO] 55/69 | Foundations for Investigations of Agentic AI Systems from the Forensic Analysis of OpenClaw
+[NO] 56/69 | “He Put Too Much Pressure on Me”: Pressure and Urgency in Synthetic Voice Deception
+[NO] 57/69 | Beyond Streaks and Leaderboards: Designing Collaborative and Comparative Group Activity Visualisations in Mobile Fitness Apps.
+[NO] 58/69 | An Instance Space Analysis of Neural Network Training as a Black-Box Optimisation Problem
+[NO] 59/69 | Leveraging Passive Compliance of Soft Robotics for Physical Human-Robot Collaborative Manipulation
+[NO] 60/69 | FretPhone: Exploring Guitar-Inspired Tactile Interaction for Mobile E-Reading
+[NO] 61/69 | Does Sensor Information Improve Neural Finger-to-Text Decoding? A Simulation Study
+[NO] 62/69 | mobiCHAI’3: 3rd International Workshop on Mobile Cognition-Altering and Cognitive-Augmenting Technologies using Human-Centered AI
+[NO] 63/69 | Distilling Transitional Patterns to Multimodal Large Language Models for Session-based Recommendation
+[NO] 64/69 | User-informed Design and Early Evaluation of a Mobile Virtual Reality System for Training and Assessment of Myoelectric Prosthesis Control
+[NO] 65/69 | Evaluating a Mobile App for Emotional Well-Being: Perspectives of Informal Caregivers
+[NO] 66/69 | Integrating Video-Language Model with Mixture of Low-Rank Experts for Video Commonsense Captioning
+[NO] 67/69 | SENSi Agent: Translating Expert Mentoring Strategies into LLM Prompts through Cognitive Task Analysis
+[NO] 68/69 | Exploring Winter Outdoors Context for Experiencing Nature Seasons in Virtual Reality
+[NO] 69/69 | Tri-Encoder Disentanglement with Dynamic Preference Gating for Cross-Domain Recommendation
+筛选完成：共 69 篇；Yes = 1 篇；已保存到 papers/select_paper2026-10-11.json。
+邮件发送成功！
+[2026-10-12 01:09:33] 任务执行成功！

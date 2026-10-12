@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-10-11",
+    "title": "Detecting Vulnerabilities in EOSIO Smart Contracts via Joint Static and Dynamic Feature Learning",
+    "authors": "Xiao Wang, Yanxiang Tong, Hai Dong, Ben Wang, Yan Xiao, Pengcheng Zhang",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3849699",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过联合静态和动态特征学习检测EOSIO智能合约中的漏洞",
+    "abstract_zh": "None"
+  }
+]
