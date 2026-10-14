@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-10-13",
+    "title": "FirmTaint: Finding Exploitable Taint-Style Vulnerabilities in IoT Firmware",
+    "authors": "Jiangan Ji, Xinzhe Li, Wanli Chen, Shuitao Gan, Tieming Liu, Hangtian Liu, Hang Xu, Zuozheng Zhou, Jing Jing, Zhenyu Zhong, Chao Zhang",
+    "publish": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "https://doi.org/10.1109/tdsc.2026.3742456",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "FirmTaint：在物联网固件中发现可利用的污点式漏洞",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "AutoSec-RAN: Specification-Grounded LLM Fine-Tuning for Automated Security Analysis of O-RAN",
+    "authors": "Anoop Mishra, Joshua Moore, Aly Sabri Abdalla, Vuk Marojevic",
+    "publish": "2026 IEEE Conference on Communications and Network Security (CNS)",
+    "url": "https://doi.org/10.1109/cns69863.2026.11720924",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AutoSec-RAN：基于规范的LLM微调用于O-RAN自动化安全分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Machine Learning-Based Vulnerability Detection in Source Code and Its Integration into CI/CD Pipelines",
+    "authors": "Slavomir Matuska, Robert Hudec, Martin Paralic",
+    "publish": "2026 36th International Conference Radioelektronika (RADIOELEKTRONIKA)",
+    "url": "https://doi.org/10.1109/radioelektronika71189.2026.11726560",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于机器学习的源代码漏洞检测及其在CI/CD流水线中的集成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Supporting Novice Programmers' Thinking Processes Through an LLM-Assisted Stepwise Refinement Approach",
+    "authors": "Youzou Miyadera, Yuta Harada, Ken Nishiyama, Shoichi Nakamura",
+    "publish": "2026 IEEE International Conference on Advanced Learning Technologies (ICALT)",
+    "url": "https://doi.org/10.1109/icalt68022.2026.00053",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过LLM辅助的逐步细化方法支持新手程序员的思考过程",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "A Technical Framework for AI-Supported Feedback in Automated Programming Tasks",
+    "authors": "Andreas Lingnau",
+    "publish": "2026 IEEE International Conference on Advanced Learning Technologies (ICALT)",
+    "url": "https://doi.org/10.1109/icalt68022.2026.00066",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "自动化编程任务中人工智能支持的反馈技术框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "CodeTrails: Investigating the Feasibility of Supporting Learning in the Age of Agentic Coding With a vs Code IDE Extension",
+    "authors": "Weiting Wang, Aneesha Bakharia",
+    "publish": "2026 IEEE International Conference on Advanced Learning Technologies (ICALT)",
+    "url": "https://doi.org/10.1109/icalt68022.2026.00104",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CodeTrails：调查在智能编码时代通过VS Code IDE扩展支持学习的可行性",
+    "abstract_zh": "None"
+  }
+]
