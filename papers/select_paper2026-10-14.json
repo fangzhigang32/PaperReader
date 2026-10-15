@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-10-14",
+    "title": "LLM-Guided Design Space Exploration for Neural Network Accelerators on FPGA",
+    "authors": "Edoardo Trombotto, Valentino Peluso, Andrea Calimera, Enrico Macii",
+    "publish": "2026 Forum on Specification &amp; Design Languages (FDL)",
+    "url": "https://doi.org/10.1109/fdl71572.2026.11724702",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于FPGA的神经网络加速器LLM引导设计空间探索",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "A Comparative Study of Text-Based and Graph-Based Models for Vulnerability Detection on the Devign Dataset",
+    "authors": "Nikhilesh Singh, Ashwini Kumar, Vishu Tyagi",
+    "publish": "2026 5th International Conference on Innovative Sustainable Computational Technologies (CISCT)",
+    "url": "https://doi.org/10.1109/cisct69589.2026.11726984",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于Devign数据集的文本模型与图模型在漏洞检测方面的比较研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "AttaCode: Attribution-Guided Adversarial Code Generation Via Jailbreak-Enabled Prompts Against Vulnerability Detection Models",
+    "authors": "Tongyang Xu, Jingyuan Li, Jiawei Xiong, Ju Jia, Yueming Wu, Siqi Ma, Guang Cheng, Robert H. Deng",
+    "publish": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "https://doi.org/10.1109/tdsc.2026.3743721",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AttaCode: 通过针对漏洞检测模型的越狱提示进行归因引导的对抗性代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "DefectReviewer: Towards Generating Defect-Focused Review Comment Based on Fine-Grained Defect Localization",
+    "authors": "Yuan Huang, Ao Zeng, Yuxuan Zhang, Xiangping Chen, Zibin Zheng",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3848515",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "缺陷审查者：基于细粒度缺陷定位的缺陷导向型审查评论生成",
+    "abstract_zh": "None"
+  }
+]
