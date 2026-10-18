@@ -7,18 +7,7 @@
     "url": "https://doi.org/10.1109/etfa68377.2026.11724772",
     "source": "IEEE",
     "abstract": "",
-    "title_zh": "Spec2ControlSequence：一种从自然语言规范生成稳健IEC 61131-3顺序功能流程图的LLM流水线",
-    "abstract_zh": "None"
-  },
-  {
-    "date": "2026-10-16",
-    "title": "VISOR: Automated Vulnerability Assessment of Software Repositories",
-    "authors": "Negar Emami, Christian Göttel, Shuai Guo, Enrico Fregnan, Philipp Sommer, Thanikesavan Sivanthi",
-    "publish": "2026 IEEE 31st International Conference on Emerging Technologies and Factory Automation (ETFA)",
-    "url": "https://doi.org/10.1109/etfa68377.2026.11725037",
-    "source": "IEEE",
-    "abstract": "",
-    "title_zh": "VISOR：软件仓库的自动化漏洞评估",
+    "title_zh": "Spec2ControlSequence：一种从自然语言规范生成稳健IEC 61131-3 SFC的LLM流水线",
     "abstract_zh": "None"
   },
   {
