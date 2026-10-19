@@ -1,0 +1,749 @@
+[
+  {
+    "date": "2026-10-17",
+    "title": "Context-Aware Semi-Supervised Classification of Defensive Screen Coverage in Professional Basketball",
+    "authors": "Takumi Sato, Qian Wu, Atsushi Kanai",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841520",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Multi-Granularity Hybrid-MAE-JSCC for Haptic-Assisted Semantic Image Transmission in Immersive XR",
+    "authors": "Yucheng Liu, Chaowei Wang, Fan Jiang, Wenyuan Wang",
+    "publish": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "url": "https://doi.org/10.1145/3841456.3841508",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Tensor-Based Sparse Hyperspectral Band Selection for Medical Microscopy Using a Group-Sparsity Mixed Norm",
+    "authors": "Xiaoying Ma, Yue Yang, Shiyu Liu, Meng Lv",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822522",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3822521",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Study on a Method for Detecting Muscle Recovery Status Based on Compound Muscle Action Potentials",
+    "authors": "Shengjie Zhang, Qiang Du, Meichi Lin, Xuelei Wang, Li Ke",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822561",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "TraVIS: Combining Player Tracking and Video for Football Action Spotting",
+    "authors": "Javier García Arias, Artur Xarles, Arnau Barrera-Roy, Sergio Escalera, Thomas B. Moeslund, Albert Clapés",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841521",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "RNA 3D Structure Quality Assessment via Local Motif Modeling and Global Feature Aggregation",
+    "authors": "Jiayin Gao, Feng Zhang, Peng Xiong",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822555",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Evaluating the Trust and Provenance Guarantees of Multimedia Authentication Codes: a Visualization-Driven Deep Cryptanalytic Assessment of SipHash",
+    "authors": "Virendra Kumar Gautam, Dipesh Makwane, Anurag Dutta, Rajat Subhra Chakraborty",
+    "publish": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "url": "https://doi.org/10.1145/3841453.3841498",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Two-Stage Framework for fNIRS-based ADHD Classification: Combining Adaptive Signal Decomposition with a Spatiotemporal Fusion Network",
+    "authors": "Yuetong An, Yiling Wen, Xia Cheng, Hanchao Wang, Shihao Chen, Xiaheng Lu, Yuxi Yan, Wennan Sun, Shuchen Cai, Jingjing Yu",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822550",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "World Models as Data Engines: Annotation-Preserving Synthetic Video for Soccer Athlete Re-Identification",
+    "authors": "Luca Francesco Rossi, Andrea Sanna, Federico Manuri, Mattia Donna Bianco",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841530",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "GPCR-MoP: An Interpretable Machine Learning Model for GPCR Modulator Prediction",
+    "authors": "Hongyan Deng, Rongwu Xiang, Mingyu Xia, Wuxiyar Otkur",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822552",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "FOOTPASS-StyleCaptions: A Multi-Style Soccer Video Captioning Dataset",
+    "authors": "Jion Oshima, Toru Tamaki, Ning Ding",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841523",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "ExactUMM: Exact Task and Data Unlearning via Model Merging",
+    "authors": "Shogo Terashima, Priyanka Singh, Zihan Wang, Guangdong Bai",
+    "publish": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "url": "https://doi.org/10.1145/3841453.3841499",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "HASF-Net: Hierarchical Attention and Spectral Filtering for Multimodal Emotion Recognition in Conversation",
+    "authors": "Luntian Mou, Yue Zeng, Shasha Mao, Nan Ma",
+    "publish": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "url": "https://doi.org/10.1145/3841456.3841510",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Touch Once, Grasp Better: Gaussian-Guided Active Touch for Multisensory Grasp Stability Prediction",
+    "authors": "Kai Cui, Shunzhou Wang, Nanfeng Jiang, Hao Feng, Xiaozhen Chen, Zijian Wang, Wei Gao",
+    "publish": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "url": "https://doi.org/10.1145/3841456.3841514",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Transponder-Cued ROI Selection for Low-Latency Rider Detection in Track Cycling",
+    "authors": "Winter Clinckemaillie, Korneel Bovijn, Steven Verstockt, Maarten Slembrouck",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841522",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Integrating Metabolic Modeling and Molecular Docking for Rational Design of Engineered Bacterial Therapeutics",
+    "authors": "Xinran Lin, Yujin Fu, Ying Wang, Kejun Deng",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822544",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "BMASH: Ball-Motion-Aware Soccer Header Spotting",
+    "authors": "Ahmed Endris Hasen, Muhammad Shahzad Khan, Nikolaos Passalis, Jenni Raitoharju",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841525",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "RegCL: Compact Continual SAM Adaptation for Visual Grounding in Multi-Sensorial Media",
+    "authors": "Yuan-chen Shu, Zhiwei Lin, Xiaoyu Zhou, Yongtao Wang",
+    "publish": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "url": "https://doi.org/10.1145/3841456.3841509",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Rule-Based Utility Framework for Benchmarking Molecular Docking as a Prioritization Tool in Antibacterial Natural Product Screening",
+    "authors": "Ronnel Caco Garcia",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822534",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Non-Invasive Temporal Interference Electrical Stimulation for Spinal Cord Injury Rehabilitation: A Simulation Study",
+    "authors": "Xu Xie, Yuchen Xu, Huilin Mou, Xi Li, Li Zhang, Zehao Sheng, Weidong Chen, Shaomin Zhang, Ruidong Cheng, Minmin Wang",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822523",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Metabolism-Related Gene Signature Derived from WGCNA Predicts Prognosis and Immune-Excluded Phenotype in Esophageal Carcinoma",
+    "authors": "Min Fu, Yuhua Liu, Hongxia Cheng",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822542",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Adaptive Dual-Channel Diffusion of Disinformation and Correction with LLM-Calibrated Influence on Networks",
+    "authors": "Navnidhi Gandhi, Gagandeep Singh, Samya Muhuri, Priyanka Singh",
+    "publish": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "url": "https://doi.org/10.1145/3841453.3841502",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Single-Cell Transcriptomic Analysis of Peripheral Blood Unveils Potential Immune Biomarkers for Pancreatic Ductal Adenocarcinoma",
+    "authors": "Yuxin Wu",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822527",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Adaptive Noise Scheduling for Diffusion-based Imputation of Time-series Single-cell Data",
+    "authors": "Graham Bishop, Gavin Edwards, Haijun Gong, Tong Si",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822557",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "SafeV-JEPA: World-Model Plausibility Lets You Measure Synthetic-Video Risks",
+    "authors": "Arkaprabha Bhandari, Sridurgesh Ravichandran, Sanjay Saha, Mohan Kankanhalli",
+    "publish": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "url": "https://doi.org/10.1145/3841453.3841504",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Transformer-AFF-LSTM Hybrid Model of Multi-Classification for Bioelectrical Impedance Signals",
+    "authors": "Wang yuan yuan, Du jia yu, Yu guo zhao, Gong Dan, Li Peng, Liang zhu guan",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822563",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "MARADONER: Motif Activity Response Analysis Done Right",
+    "authors": "Georgy Meshcheryakov, Andrey Buyan, Alexander Favorov, Vsevolod Jurievich Makeev, Ivan Vladimirovich Kulakovskiy",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822537",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Pattern Recognition of Saccharomyces Cerevisiae Gene Expression Using Backpropagation Training Functions That Use Gradient Derivatives Neural Network",
+    "authors": "Julie Ann Acebuque Salido",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822558",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Web-Deployable Machine Learning Model for Noninvasive Pulmonary Hypertension Detection Using Magnetocardiography",
+    "authors": "Yuankun Qi, Kai Ma, Min Xiang",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822551",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "QoE-Aware View-Conditioned Two-Level Prioritization for Efficient 3DGS Tiled Streaming",
+    "authors": "Sam Ziaie Kondori, Cheng-Hsin Hsu",
+    "publish": "Proceedings of the 4th International ACM Workshop on Quality of Experience in Visual Multimedia Applications",
+    "url": "https://doi.org/10.1145/3840476.3840505",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3841453",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Proceedings of the 4th International ACM Workshop on Quality of Experience in Visual Multimedia Applications",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3840476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3841456",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "CDD-Net: Consistency-Discrepancy Decoupling for Chinese Pragmatic Intention Recognition",
+    "authors": "Yingming Gao, Zhengyang Zhai, Yilin Jiang, Yingyi Luo, Jianwu Dang, Jingwei Zhao, Wenbing Yang, Ya Li",
+    "publish": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "url": "https://doi.org/10.1145/3841456.3841511",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Lower Limb Biomechanical Characteristics During Running Using Markerless Motion Capture: The Effects of Gender, Landing Pattern, and Footwear",
+    "authors": "Jing Hong, Yuanlong Li, Zhengyi Lu, Wenyuan Liu, Wenxian Lin",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822553",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "RapidAsm: Fast and Memory-efficient HiFi Read De Novo Assembly",
+    "authors": "Yiran Cheng, Zhuoyang Chen, Qiong Luo",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822535",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "CanonFuse3D: Human-Centric Canonical Fusion for Calibration-Free Dual-View 3D Pose Estimation in Skiing Videos",
+    "authors": "Kaixu Chen, Nan Luo, Chun Xie, Eiichi Naito, Toshitaka Kimura, Itaru Kitahara",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841535",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "PoseConvSpot: Overcoming Domain Shifts in Precise Event Spotting for Sports Videos via Pose-Only Spatio-Temporal Regression",
+    "authors": "Noâm Boussouf, Adrien Maglo, Mohamed Chaouch, Paul Pham Dang, Hideo Saito",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "TrustLift: When Images Make False Claims Look True",
+    "authors": "Aleksei Borodulin, Igor Masich, Vadim Tynchenko, Vladimir Nelyub, Ivan Malashin",
+    "publish": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "url": "https://doi.org/10.1145/3841453.3841505",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Differentiating Awake and Sleep Patterns Using A Low-Cost, Electrodermal Activity Monitoring System",
+    "authors": "Patteera Panyarapeepat, Benjaluk Pongwiset, Onanong Phokaewvarangkul, Direk Sueaseenak",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822526",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Pressure and Temperature Characteristics in Soft Tissue under Radial Extracorporeal Shock Wave Therapy Using a Finite Element Method",
+    "authors": "Qiong Wu, Fan Fan",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822528",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "In Silico Assessment of Potential Antibacterial Activity of Catharanthus Roseus Bioactive Compounds Targeting Key Proteins in Methicillin-Resistant Staphylococcus Aureus",
+    "authors": "Ronnel Caco Garcia, Christopher Allen Canon, Louiana Jacob, Kirsten Ellise Sanchez, Micko De Guzman",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822565",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "SCOPE: Lightweight and Interpretable Portrait Aesthetic QoE Assessment via Explicit Attributes",
+    "authors": "Huirong Zhu, Xin Jin, Yunfei He, Zhengqiao Liu",
+    "publish": "Proceedings of the 4th International ACM Workshop on Quality of Experience in Visual Multimedia Applications",
+    "url": "https://doi.org/10.1145/3840476.3840507",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Estimating Immune Age from B-Cell Receptor Repertoire Using Machine Learning",
+    "authors": "Tao Liu, Fan Yang",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822540",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Charting white matter tract microstructure changes across the marmoset lifespan",
+    "authors": "Yufan Wang, Deying Li, Luqi Cheng, Lingzhong Fan",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822538",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Lightweight Tracking-Based Motion Stream for Hockey Skating Action Recognition",
+    "authors": "Maria Koshkina, Yuhao Chen, John Zelek, David Anthony Clausi",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841531",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "SportVISTA: Scaling Multimodal Audio-Visual Representation Learning to Amateur and Semi-Professional Sports Videos",
+    "authors": "Lazhar Bouacha, Laurent Wendling, Camille Kurtz",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841528",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Virtual Screening Framework Based on Intelligent Optimization Algorithm and Physical Information Driven Geometric Deep Learning",
+    "authors": "Han Zhang, Boyang Li, Xiaoqiong Li, Bo Li",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Pan-Allele MHC II Binding Affinity Prediction via Deep Sequential Neural Networks",
+    "authors": "Sophia Zheng, Colin Chai, Ziling Fan",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822548",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Research on the Detection Method of Myocardial Cell Contractile Activity by Impedance in Response to Oxidative Stress",
+    "authors": "Jing Chen, Xue Huang, Li Ke",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822560",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3841455",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Study on Brain Network Connectivity State Under Visual Conflict Adjustment Based on Bioimpedance",
+    "authors": "Chongxu Shen, Qiang Du, Yunfeng Bai, Li Ke",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822559",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Pathway-Level Convergence of T Cell Programs in Pancreatic Cancer Revealed by Single-Cell Transcriptomics",
+    "authors": "Shenshuo Zhang",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822530",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Privacy-Preserving Explainable Federated Learning for Non-Invasive Blood Glucose Estimation from Photoplethysmography Signals",
+    "authors": "Anichur Rahman, Nafeeul Alam Walee, Md Ahsan Karim, Andrew H. Sung, Lei Chen, Md Shohel Rana",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822536",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "BadmintonQA: A Long-Video Question Answering Dataset on Full Badminton Matches",
+    "authors": "Ning Ding, Keisuke Fujii, Toru Tamaki",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841526",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Non-Invasive Scoliosis Measurement Method Based on a Coarse-Fine Two-Stage Deep Learning Algorithm with RGB Image",
+    "authors": "Tong Li, Zhiquan Yang, Zhou Long, Kai Yan, Cheng Wang",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822531",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Radiogenomic Integration of Multi-Omics and Tumor Morphology for Breast Cancer Shape Prediction and AI-Assisted Case Reporting",
+    "authors": "Shenyu Yu, Camilo E. Valderrama, Manpreet Kaur, Qian Liu",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822539",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Referee That Cannot Repeat Its Call: Decomposing Vision-Language Model Instability in Football Officiating",
+    "authors": "Filip Noworolnik, Joanna Jaworek-Korjakowska",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841532",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Event Detection in Table Tennis Videos using 2D Keypoints",
+    "authors": "Rainer Lienhart, Daniel Kienzle, Shin'ichi Satoh, Anastasiia Bilinska",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841534",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "QLRR-FER: Quality-Aware LoRA-Wrapped Refinement for Robust Facial Expression Recognition",
+    "authors": "Hang Li, Xiaoxuan Tang, Fu-Zhao Ou",
+    "publish": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "url": "https://doi.org/10.1145/3841456.3841513",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Dynamic Evidence Calibration and Interest Evolution for Multimodal Video Recommendation",
+    "authors": "Ziyi Cao, Rui Liu, Zirui Liang, Yong Chen, Dell Zhang",
+    "publish": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "url": "https://doi.org/10.1145/3841456.3841507",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "SEDIST: Spatially Enhanced Domain Identification through Spatial Transcriptomics",
+    "authors": "Fahad Rahman, Abdullah Al Sakib, Tabassum Sumaiya, Fahim Hafiz, Riasat Azim",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822564",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "When Agents Have Faces: Deepfake Avatars, Emotion Signals, and Strategic Trust in Human–LLM Interaction",
+    "authors": "Konstantin Mortikov, Aliaksandr Karatai, Evgeny Bessonnitsyn, Mikhail Mozikov, Valeria Bodishtianu, Ilya Makarov, Sergey Muravyov",
+    "publish": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "url": "https://doi.org/10.1145/3841453.3841503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "De Novo Peptide Design for the Collapsed FBXW7 R505C Pocket Using Orthogonal Artificial Intelligence and Physics Workflows",
+    "authors": "Xinyu He, Jiaxuan Wu, Sijin Wu",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822549",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "D-SECURE: Dual-Source Evidence Combination for Unified Reasoning in Misinformation Detection",
+    "authors": "Samudi Amarasinghe, Gagandeep Singh, Priyanka Singh",
+    "publish": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "url": "https://doi.org/10.1145/3841453.3841501",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Empowering Cardiovascular Consultation Training with a Multi-Agent Virtual Patient System",
+    "authors": "Yufei Qu, Xiaowei Xu, Xudong Lv",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822545",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Single-Cell Systems Analysis of the PDAC Microenvironment Identifies a CCL5–SDC1/4–Checkpoint Signaling Axis Underlying Immune Suppression",
+    "authors": "Bacem Saada, Haq Imran Ui, Estevao Siga, Jing Zhang",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822554",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Graph Theory-Based Network Analysis of Brain Functional Connectivity in Older Adults During Patriotic Music Stimulation",
+    "authors": "Yanqi Wu, Meiping Sheng, Yaping Chen",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822562",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "QoE and Depth Perception in Spatial Augmented Reality Darts",
+    "authors": "Milad Ghanbari, Yujie Huang, Wei Zhou, Patrick Le Callet, Christian Timmerer, Hadi Amirpour",
+    "publish": "Proceedings of the 4th International ACM Workshop on Quality of Experience in Visual Multimedia Applications",
+    "url": "https://doi.org/10.1145/3840476.3840508",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Comparative Study on Diabetes Incidence Probability Prediction Models Based on Multiple Clinical Feature Integration",
+    "authors": "Dongxing Xie, Yuehua Ma, Guoming Liu",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822556",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "AdaFuse: Adaptive Function Fusion for Dynamic Serverless Workflows",
+    "authors": "Zixuan Lin, Jianxiong Liao, Zhi Zhou, Huanle Xu, Fei Xu, Xu Chen, Deke Guo",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3859287",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Estimation of Vertically Projected Pelvis Position from a Monocular Sports Image through Geometrical-Aware Feature",
+    "authors": "Shunzo Yamagishi, Shuto Ikegami, Chun Xie, Tadahiro Oyama, Itaru Kitahara",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841524",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Completing Fine-Grained Combat-Sports Annotations with Model-Assisted Review",
+    "authors": "Pierre Marrec, Alexandre Schortgen, Lionel Reveret",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841527",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "TwinVFI-PPO: Uncertainty-Aware Joint Bitrate Adaptation and Frame Interpolation for Neural Video Streaming",
+    "authors": "Yujun Hu, Changbo Wang",
+    "publish": "Proceedings of the 4th International ACM Workshop on Quality of Experience in Visual Multimedia Applications",
+    "url": "https://doi.org/10.1145/3840476.3840506",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Integrative Bioinformatics Analysis of Gene Networks for Sleep Disorders in Cancer Patients",
+    "authors": "Ruoxuan Wang, Jian Wang",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822525",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "EyeDoctor: A Role-Aware Large Language Model for Ophthalmic Consultation via Stylistic and Knowledge-Guided Adaptation",
+    "authors": "Hongbo Liu, Laiyi Fu, Binbin Fan, Hongkai Du, Yanxiang Feng, Chunhua Li, Huping Song",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822524",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Integrative Free Energy and Network Analysis Uncovers the Structural Basis of Signaling Bias in C5aR1",
+    "authors": "Linhao Zheng, Can Wang",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822543",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Audio for Sports Highlight Detection: A Comparative Empirical Study",
+    "authors": "Hao Xu, Meenakshi Sarkar, Vishnu Raj, David Gunawan",
+    "publish": "Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports",
+    "url": "https://doi.org/10.1145/3841455.3841533",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "DeformableGrasp: Efficient Dexterous Grasping of Deformable Objects via Reinforcement Learning",
+    "authors": "Keyu Wang, Bingcong Lu, Zhengxue Cheng, Hengdi Zhang, Li Song",
+    "publish": "Proceedings of the 2nd International ACM Workshop on Multi-Sensorial Media and Applications",
+    "url": "https://doi.org/10.1145/3841456.3841512",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Jet-lag Recovery Mapping of Circadian Oscillator and Sleep-Wake Cycle",
+    "authors": "Jiawei Yin, Yanting Yu, Jiayi Ma",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822547",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "A Lightweight Visual Analytics Tool for Regional Enrichment Analysis of Immunopeptidomic Data",
+    "authors": "Yichen Jiang, Menghan Xie, Xuye Yuan, Jia Meng, Yuheng Cai",
+    "publish": "Proceedings of the 2026 18th International Conference on Bioinformatics and Biomedical Technology",
+    "url": "https://doi.org/10.1145/3822521.3822541",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "T-IMPACT: A Severity-Aware Benchmark for Contextual Image–Text Manipulation",
+    "authors": "Gagandeep Singh, Aaditya Yadav, Priyanka Singh",
+    "publish": "Proceedings of the 1st International ACM Workshop on Impact-aware Multimodal Persuasive Analysis and Contextual Trust",
+    "url": "https://doi.org/10.1145/3841453.3841500",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
