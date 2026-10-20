@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-10-19",
+    "title": "MRV-GCN: Multi-Relational Semantic Graph Learning with Explainable Subgraph Fusion for Smart Contract Vulnerability Detection",
+    "authors": "Yanqin Luo, Gehao Lu",
+    "publish": "2026 International Joint Conference on Neural Networks (IJCNN)",
+    "url": "https://doi.org/10.1109/ijcnn69854.2026.11729355",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "MRV-GCN：基于可解释子图融合的多关系语义图学习用于智能合约漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Evaluating Static Security Gates and Learned Detectors on LLM-Generated Code in CI/CD Pipelines",
+    "authors": "Mohammed Bedjaoui, Mohammed Yassine Kazi Tani, Sidi Mohammed Benslimane",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3743230",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "评估CI/CD流水线中LLM生成代码的静态安全门和检测器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Vulnerability Detection in Smart Contracts Based on Relation-Aware Feature Enhancement",
+    "authors": "Wanqing Liu, Meng Wang, Yiran Guo",
+    "publish": "2026 International Joint Conference on Neural Networks (IJCNN)",
+    "url": "https://doi.org/10.1109/ijcnn69854.2026.11728766",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于关系感知特征增强的智能合约漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "HYPERHEURIST: A Simulated Annealing-Based Control Framework for LLM-Driven Code Generation in Optimized Hardware Design",
+    "authors": "Shiva Ahir, Prajna Bhat, Alex Doboli",
+    "publish": "2026 International Joint Conference on Neural Networks (IJCNN)",
+    "url": "https://doi.org/10.1109/ijcnn69854.2026.11728661",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "超启发式：一种基于模拟退火的LLM驱动代码生成控制框架，用于优化硬件设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Cache-Aligned Layer Decomposition for Metadata-Driven Multi-Platform Large Language Model Code Generation",
+    "authors": "Umi Sa’adah, Bayu Hadi Leksana, Adam Shidqul Aziz, Desy Intan Permatasari, Fadilah Fahrul Hardiansyah, Nailussa’ada, Andhik Ampuh Yunanto, Willy Achmat Fauzi",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3744746",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向元数据驱动多平台大型语言模型代码生成的缓存对齐层分解",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Vulnerability Detection in EVM Bytecode with Multilayer Semantic Augmentation",
+    "authors": "Yuxian Tang, Li Tang, Hongxing Xu, Shaowen Yao, Ahmed Zahir, Adam Khalid",
+    "publish": "2026 International Joint Conference on Neural Networks (IJCNN)",
+    "url": "https://doi.org/10.1109/ijcnn69854.2026.11729994",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于多层语义增强的EVM字节码漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "CoDe-R: Refining Decompiler Output with LLMs via Rationale Guidance and Adaptive Inference",
+    "authors": "Qiang Zhang, Zhongnian Li",
+    "publish": "2026 International Joint Conference on Neural Networks (IJCNN)",
+    "url": "https://doi.org/10.1109/ijcnn69854.2026.11729499",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CoDe-R：通过理性指导和自适应推理利用大语言模型优化反编译器输出",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "A Vulnerability Detection Method with Semantic-Sensitive Contrastive Learning and Token-Level Graph Representation",
+    "authors": "Dawei Zhao, Chengxiao Zhao, Xin Li, Lijuan Xu, Fenghua Tong, Haipeng Peng",
+    "publish": "2026 International Joint Conference on Neural Networks (IJCNN)",
+    "url": "https://doi.org/10.1109/ijcnn69854.2026.11729770",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种基于语义敏感对比学习和令牌级图表示的漏洞检测方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "An LLM-Assisted Framework for Translating Natural Language Policies into Executable Rules with Correctness Guarantees",
+    "authors": "Fei Yang, Yan Zhou, Haiping Sa, Qianbei Zang, Xiaoli Wang",
+    "publish": "2026 International Joint Conference on Neural Networks (IJCNN)",
+    "url": "https://doi.org/10.1109/ijcnn69854.2026.11729563",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一个具有正确性保证的大语言模型辅助框架，用于将自然语言政策转化为可执行规则",
+    "abstract_zh": "None"
+  }
+]
