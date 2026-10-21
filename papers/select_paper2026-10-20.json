@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-10-20",
+    "title": "SinkNet: A Differentiable Sinkhorn Assignment Architecture for Malicious IP Detection",
+    "authors": "Myke Albert M. Tejada, Bobby D. Gerardo",
+    "publish": "2026 2nd International Conference on Advanced Machine Learning and Data Science (AMLDS)",
+    "url": "https://doi.org/10.1109/amlds69611.2026.11723905",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SinkNet：一种用于恶意IP检测的可微分Sinkhorn分配架构",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Evaluating Context-Aware Prompting for Generative Ai in Circuit Analysis Problems",
+    "authors": "Sajed A. Habib",
+    "publish": "2026 11th International STEM Education Conference (iSTEM-Ed)",
+    "url": "https://doi.org/10.1109/istem-ed69857.2026.11734382",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "评估生成式AI在电路分析问题中的上下文感知提示技术",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "AI-Powered GitHub Vulnerability Scanner Using MCP Tools and CVE-Driven Agentic RAG",
+    "authors": "Rajeev Kumar, Nitika Chawla, Taruna, Ansh Gahoi, Ayush Mittal, Himanshu Goyal",
+    "publish": "2026 1st International Conference on Computational Intelligence: Methods, Models, and Real-World Applications (ICCIMMR)",
+    "url": "https://doi.org/10.1109/iccimmr71310.2026.11731658",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于MCP工具和CVE驱动的智能RAG的GitHub漏洞扫描器",
+    "abstract_zh": "None"
+  }
+]
