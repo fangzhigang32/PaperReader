@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-10-21",
+    "title": "Evaluating the Performance of Static Code Analysers: The Gaps between Academia and Industry",
+    "authors": "Lakmal Deshapriya Kiyaduwa Vithanage, Sherlock Licorish, Brendon Woodford",
+    "publish": "ACM Computing Surveys",
+    "url": "https://doi.org/10.1145/3859365",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "评估静态代码分析器的性能：学术界与行业之间的差距",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "CAUS-RAG: Algorithmic Interceptor for Mitigating Positional Bias in Technical Code Generation",
+    "authors": "Mithun Martin, Aritra Roy, T. Grace Shalini",
+    "publish": "2026 International Conference on Networks Computers and Communications (ICNCCom)",
+    "url": "https://doi.org/10.1109/icnccom69117.2026.11736252",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CAUS-RAG：缓解技术代码生成中位置偏差的算法拦截器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "A Reproducible Framework for Comparative Evaluation of LLM-Based Code Generation Algorithms: Case Study on Python-to-C++ Translation Using Human-Validated Ground Truth and BLEU-4/CodeBLEU Metrics",
+    "authors": "Shuya Zhang",
+    "publish": "2026 International Conference on Science Technology Engineering and Management (ICSTEM)",
+    "url": "https://doi.org/10.1109/icstem68144.2026.11735584",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于LLM的代码生成算法可复现性比较评估框架：使用人工验证的真实数据和BLEU-4/CodeBLEU指标进行Python到C++翻译的案例研究",
+    "abstract_zh": "None"
+  }
+]
