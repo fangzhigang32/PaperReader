@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-10-23",
+    "title": "COM: A Framework for Hallucination Reduction and Reasoning Enhancement of LLMs in Zero-Shot Code Generation",
+    "authors": "Piyush Kumar Arun, Anu Mary Chacko",
+    "publish": "2026 IEEE International Conference on Recent Advances in Electronics, Communication, Computing, Automation and Power (RECCAP)",
+    "url": "https://doi.org/10.1109/reccap69368.2026.11724074",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "COM：一种用于大语言模型在零样本代码生成中减少幻觉和增强推理的框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "A Validation-Guided Hybrid Trust Gate for External AI Coding Requests",
+    "authors": "Fan Xu, Aixia Sun, Wenbin Wang",
+    "publish": "2026 8th International Conference on Artificial Intelligence Technologies and Applications (ICAITA)",
+    "url": "https://doi.org/10.1109/icaita71179.2026.11737063",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于验证的混合信任门控用于外部AI编码请求",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "An Explainable AI Model for Detecting Malicious Smart Contracts Using EVM Opcode Features",
+    "authors": "Roopak Surendran, Tony Thomas",
+    "publish": "2026 IEEE International Conference on Recent Advances in Electronics, Communication, Computing, Automation and Power (RECCAP)",
+    "url": "https://doi.org/10.1109/reccap69368.2026.11723899",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种基于EVM操作码特征的恶意智能合约可解释AI检测模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "A Reliability-Gated Computational Pipeline for Analyzing Public Error Repair after LLM Failures",
+    "authors": "Haoyi Shi",
+    "publish": "Proceedings of the 2026 2nd International Conference on Embodied Intelligence and Large Models",
+    "url": "https://doi.org/10.1145/3845562.3845590",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "一种用于分析大语言模型失败后公共错误修复的可靠性门控计算管道",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Software Security via N-Variants: Can LLMs Automate Diverse Code Generation?",
+    "authors": "Rama Satya. CH, Raghu Kisore. N",
+    "publish": "2026 IEEE International Conference on Recent Advances in Electronics, Communication, Computing, Automation and Power (RECCAP)",
+    "url": "https://doi.org/10.1109/reccap69368.2026.11723645",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过N变体实现软件安全：LLM能否自动化多样化代码生成？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "A Systematic Literature Review on Advancements in RESTful API Code Generation",
+    "authors": "Fawwaz Ali Akbar, Siti Rochimah, Adhatus Solichah Ahmadiyah",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3746197",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "RESTful API代码生成进展的系统文献综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "PCRA: A Multi-Agent Framework for EDA Timing Closure with Structured Iterative Reasoning",
+    "authors": "Boyan Cai, Wenliang Lin, Zetao Zhang",
+    "publish": "2026 8th International Conference on Artificial Intelligence Technologies and Applications (ICAITA)",
+    "url": "https://doi.org/10.1109/icaita71179.2026.11737015",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "PCRA：一种用于EDA时序闭合的多智能体框架，具有结构化迭代推理能力",
+    "abstract_zh": "None"
+  }
+]
