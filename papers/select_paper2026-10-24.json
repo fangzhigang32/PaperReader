@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-10-24",
+    "title": "Software Reengineering for Fixing Design Smells in Legacy Networked Systems",
+    "authors": "Juri Liebig, Sergei Gorlatch",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841336",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "修复遗留网络系统中设计异味软件的重构",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Parameter-Efficient Fine-Tuning for Functional RTL Debugging with Large Language Models",
+    "authors": "Chin-Yun Yang, Wei-Kuan Chiang, Ming-Yi Lin, Yu-Cheng Lin",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841407",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大型语言模型的参数高效微调在功能RTL调试中的应用",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "SKG4SCRepair:Skill Knowledge Graph-Guided Multi-Agent Repair for Smart Contract Vulnerabilities",
+    "authors": "Zongyi Xu, Shaochen Meng, Shuo Zhang, Qianxi Li, Yuan Zhuang",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841403",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "SKG4SCRepair：基于技能知识图谱的多智能体智能合约漏洞修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "AI-Powered Vulnerability Detection and Remediation for Solana Smart Contracts",
+    "authors": "M. Fahim Ferdous Khan, Takaya Kawase, Ken Sakamura",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841357",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AI驱动的Solana智能合约漏洞检测与修复",
+    "abstract_zh": "None"
+  }
+]
