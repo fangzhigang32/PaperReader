@@ -1,10 +1,10 @@
 [
   {
     "date": "2026-10-24",
-    "title": "A Label-Free U-Net LSTM Autoencoder for Anomaly Detection and Root Cause Analysis in Rotating Machinery",
-    "authors": "Gunn Wangwichit, Panyawut Piyasirinanan, Sansiri Tarnpradab",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3841399",
+    "title": "Intelligent CAR Engineering and Microenvironment Remodeling: Advancing CAR-T Therapy Toward Precision Treatment of Solid Tumors",
+    "authors": "Haoyue Liu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843643",
     "source": "ACM",
     "abstract": "None"
   },
@@ -19,10 +19,10 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Intelligent CAR Engineering and Microenvironment Remodeling: Advancing CAR-T Therapy Toward Precision Treatment of Solid Tumors",
-    "authors": "Haoyue Liu",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843643",
+    "title": "A Label-Free U-Net LSTM Autoencoder for Anomaly Detection and Root Cause Analysis in Rotating Machinery",
+    "authors": "Gunn Wangwichit, Panyawut Piyasirinanan, Sansiri Tarnpradab",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841399",
     "source": "ACM",
     "abstract": "None"
   },
@@ -37,10 +37,28 @@
   },
   {
     "date": "2026-10-24",
-    "title": "A Decentralized Cyber-Physical System for Proactive Industrial Dust Hazard Mitigation",
-    "authors": "Hung-Ming Chen, Shu-Ping Lu, Yung-Feng Lu, Han-Qi Chen, Zi-Yan Xia, Chin-Fu Kuo",
-    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
-    "url": "https://doi.org/10.1145/3841323.3841351",
+    "title": "Multi-Stage Deep Vascular Feature Fusion for Diabetic Retinopathy Lesion Segmentation",
+    "authors": "Shengnan Zhang, Zhibo Sun",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843611",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Structural Breaks and Volatility Expansion in Influenza Transmission in Shanghai",
+    "authors": "Zehao Song",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843634",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "MetaSubFrame: A Multi-Layered Computational Framework for Identifying the BMI–Uric Acid Statistical Mediation and Metabolic Subtype in Early-Onset Bipolar Disorder",
+    "authors": "Jingyi Xiao, Na Qu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843636",
     "source": "ACM",
     "abstract": "None"
   },
@@ -91,28 +109,37 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Structural Breaks and Volatility Expansion in Influenza Transmission in Shanghai",
-    "authors": "Zehao Song",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843634",
+    "title": "A Decentralized Cyber-Physical System for Proactive Industrial Dust Hazard Mitigation",
+    "authors": "Hung-Ming Chen, Shu-Ping Lu, Yung-Feng Lu, Han-Qi Chen, Zi-Yan Xia, Chin-Fu Kuo",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841351",
     "source": "ACM",
     "abstract": "None"
   },
   {
     "date": "2026-10-24",
-    "title": "MetaSubFrame: A Multi-Layered Computational Framework for Identifying the BMI–Uric Acid Statistical Mediation and Metabolic Subtype in Early-Onset Bipolar Disorder",
-    "authors": "Jingyi Xiao, Na Qu",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843636",
+    "title": "Adaptive Software Development Methodology Selection Using MCDM, Flow Entropy Sort, and Large Language Models: A Case-Based Approach",
+    "authors": "Moustafa F. Ali, Angie M. Ceniza-Canillo, Chang-Hsing Lee, Pauline Lin",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841408",
     "source": "ACM",
     "abstract": "None"
   },
   {
     "date": "2026-10-24",
-    "title": "Multi-Stage Deep Vascular Feature Fusion for Diabetic Retinopathy Lesion Segmentation",
-    "authors": "Shengnan Zhang, Zhibo Sun",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843611",
+    "title": "DSAF-Gaze: Dual-Stream Attention Fusion with Geometric Guidance for Robust Gaze Estimation",
+    "authors": "Chen-Pei Hsu, Yu-Ju Chen, Che-Chi Li, Yu-Chieh Huang, Sheng-Hsien Hsieh, Ming-Yi Lin",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3844274",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "AI-Driven Illumination-Adaptive Enhancement for Robust Mobile AR Games",
+    "authors": "Yunping Zhang",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841415",
     "source": "ACM",
     "abstract": "None"
   },
@@ -154,51 +181,6 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Adaptive Software Development Methodology Selection Using MCDM, Flow Entropy Sort, and Large Language Models: A Case-Based Approach",
-    "authors": "Moustafa F. Ali, Angie M. Ceniza-Canillo, Chang-Hsing Lee, Pauline Lin",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3841408",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "DSAF-Gaze: Dual-Stream Attention Fusion with Geometric Guidance for Robust Gaze Estimation",
-    "authors": "Chen-Pei Hsu, Yu-Ju Chen, Che-Chi Li, Yu-Chieh Huang, Sheng-Hsien Hsieh, Ming-Yi Lin",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3844274",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "AI-Driven Illumination-Adaptive Enhancement for Robust Mobile AR Games",
-    "authors": "Yunping Zhang",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3841415",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Research on Health Risk Prediction of Postoperative Complications in Lumbar Disc Herniation Based on Healthcare Big Data",
-    "authors": "Xueying Li, Rongfang Wang, Qiong Zhou",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843630",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Feasibility Study and In Vitro Simulation of Platinum-Iridium Alloy Wire as an Amniocentesis-Based Fetal ECG Monitoring Electrode",
-    "authors": "Hanrui Zhang",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843600",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
     "title": "LogCAFD: Context-Aware and Context-Free Dictionary-Based Compression for Streaming Server Logs",
     "authors": "Michishiro Tanaka, Go Hasegawa, Kazushi Toyoda",
     "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
@@ -221,6 +203,24 @@
     "authors": "Xuyue Cai, Tong Qiu, Qide Li, Minghao Zhang, Jianfeng Wang, Pengjing Xu",
     "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
     "url": "https://doi.org/10.1145/3841358.3841392",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Research on Health Risk Prediction of Postoperative Complications in Lumbar Disc Herniation Based on Healthcare Big Data",
+    "authors": "Xueying Li, Rongfang Wang, Qiong Zhou",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843630",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Feasibility Study and In Vitro Simulation of Platinum-Iridium Alloy Wire as an Amniocentesis-Based Fetal ECG Monitoring Electrode",
+    "authors": "Hanrui Zhang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843600",
     "source": "ACM",
     "abstract": "None"
   },
@@ -370,24 +370,6 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Software Reengineering for Fixing Design Smells in Legacy Networked Systems",
-    "authors": "Juri Liebig, Sergei Gorlatch",
-    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
-    "url": "https://doi.org/10.1145/3841323.3841336",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Evaluating the Deployment Impact of M-Root Servers and Selecting Candidates for New Nodes Using RIPE Atlas Data Set",
-    "authors": "Ren Suhara, Nariyoshi Yamai, Rei Nakagawa, Shinta Sato, Takeshi Mitamura",
-    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
-    "url": "https://doi.org/10.1145/3841323.3841338",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
     "title": "An Explainable AI Application for Detecting Biotic Stress on Sugarcane Using Deep Learning",
     "authors": "Charles Henrico Villa, Zenith Arnejo",
     "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
@@ -410,6 +392,24 @@
     "authors": "Feng-Yi Mo, Hsuan Tang, Chun-Chen Lee, Hao-Yu Yang, Wei-Guang Teng",
     "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
     "url": "https://doi.org/10.1145/3841358.3841406",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Software Reengineering for Fixing Design Smells in Legacy Networked Systems",
+    "authors": "Juri Liebig, Sergei Gorlatch",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841336",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Evaluating the Deployment Impact of M-Root Servers and Selecting Candidates for New Nodes Using RIPE Atlas Data Set",
+    "authors": "Ren Suhara, Nariyoshi Yamai, Rei Nakagawa, Shinta Sato, Takeshi Mitamura",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841338",
     "source": "ACM",
     "abstract": "None"
   },
@@ -487,15 +487,6 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Recurrent Neural Network (RNN) and Multi-Criteria Decision Analysis for Customer Satisfaction Optimization in Mobile Banking Services of Commercial Banks in the Philippines",
-    "authors": "Renilda Soriano Layno, Dean Avior P. Peñamora, Dale Russel Quipit, Edgar Marzan Adina",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3841434",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
     "title": "A Study on the Mechanisms by Which Characteristics of Short-Form Video Health Education Content Influence Nutritional Knowledge Translation and User Behavior Prediction",
     "authors": "Xinglei Chen, Zhuoyun Cui, Huali Feng",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
@@ -509,6 +500,15 @@
     "authors": "Zexin Xie, Qihao Liu, Lanlan Ren, Qilong Liu, Chengpei Zhang, Zixiang Wu, Chaohui Wang, Wen Zhou",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
     "url": "https://doi.org/10.1145/3816325.3843664",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Recurrent Neural Network (RNN) and Multi-Criteria Decision Analysis for Customer Satisfaction Optimization in Mobile Banking Services of Commercial Banks in the Philippines",
+    "authors": "Renilda Soriano Layno, Dean Avior P. Peñamora, Dale Russel Quipit, Edgar Marzan Adina",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841434",
     "source": "ACM",
     "abstract": "None"
   },
@@ -568,19 +568,19 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Next-3-mer Ranking using Short Contexts in E. coli",
-    "authors": "Dylan C. P. Lewis, Madelyn R. R. Forrest, Madelin Stueck, Gurjit S. Randhawa",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3841366",
+    "title": "Optimization of Timing for Non-Invasive Prenatal Testing and a Multifactorial Modeling Approach for Fetal Anomaly Detection",
+    "authors": "Jiayan Wu, Ye Lin, Bichun Chen, Xinyan Li, Fang He",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843628",
     "source": "ACM",
     "abstract": "None"
   },
   {
     "date": "2026-10-24",
-    "title": "Optimization of Timing for Non-Invasive Prenatal Testing and a Multifactorial Modeling Approach for Fetal Anomaly Detection",
-    "authors": "Jiayan Wu, Ye Lin, Bichun Chen, Xinyan Li, Fang He",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843628",
+    "title": "Next-3-mer Ranking using Short Contexts in E. coli",
+    "authors": "Dylan C. P. Lewis, Madelyn R. R. Forrest, Madelin Stueck, Gurjit S. Randhawa",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841366",
     "source": "ACM",
     "abstract": "None"
   },
@@ -721,6 +721,15 @@
   },
   {
     "date": "2026-10-24",
+    "title": "A Medical-Family-Childcare Smart Care Model for Infant and Toddler Health Monitoring Driven by Digital Intelligence Scenarios",
+    "authors": "Shan Ke",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843671",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
     "title": "Proceedings of the 14th International Conference on Computer and Communications Management",
     "authors": "N/A",
     "publish": "N/A",
@@ -743,15 +752,6 @@
     "authors": "Huilin Zhou, Yuqi Shan, Wanting Shen, Jie Xiang, Xiaoyan Sun",
     "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
     "url": "https://doi.org/10.1145/3841358.3841405",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "A Medical-Family-Childcare Smart Care Model for Infant and Toddler Health Monitoring Driven by Digital Intelligence Scenarios",
-    "authors": "Shan Ke",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843671",
     "source": "ACM",
     "abstract": "None"
   },
@@ -784,24 +784,6 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Deep Learning-Based Intelligent Auxiliary Staging Diagnosis and Clinical Deployment of Periodontitis on Panoramic Radiographs",
-    "authors": "Hongfeng Shen, Yijia Liu, Chengjuan Qiu",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843616",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Dynamics and Hopf Bifurcation of a Delayed SIR Model for COVID-19 with LSTM-Based Parameter Estimation",
-    "authors": "Ying-hui Chen, Hai-jun Zhang",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843657",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
     "title": "A Bibliometric Analysis of Research on Digital Health Literacy Among Older Adults: Based on the Web of Science Core Collection Database",
     "authors": "Guijie Ma, Pan Cai, Zixu Hao",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
@@ -815,6 +797,24 @@
     "authors": "Weiwei Li",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
     "url": "https://doi.org/10.1145/3816325.3843648",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Deep Learning-Based Intelligent Auxiliary Staging Diagnosis and Clinical Deployment of Periodontitis on Panoramic Radiographs",
+    "authors": "Hongfeng Shen, Yijia Liu, Chengjuan Qiu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843616",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Dynamics and Hopf Bifurcation of a Delayed SIR Model for COVID-19 with LSTM-Based Parameter Estimation",
+    "authors": "Ying-hui Chen, Hai-jun Zhang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843657",
     "source": "ACM",
     "abstract": "None"
   },
@@ -847,6 +847,15 @@
   },
   {
     "date": "2026-10-24",
+    "title": "Investigating the Impact of Class Imbalance and Feature Set Size on Machine Learning Model Stability in Low-Prevalence Real-World Health Data",
+    "authors": "Jinyang Wang, Haonan Shi, Tingting Wang, Xuan Yao",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843632",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
     "title": "Can Small Models Generate High-Quality Data Visualizations Through Multi-Agent Iterative Refinement?",
     "authors": "Xinxiao Li, Eisei Nakahara",
     "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
@@ -874,15 +883,6 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Investigating the Impact of Class Imbalance and Feature Set Size on Machine Learning Model Stability in Low-Prevalence Real-World Health Data",
-    "authors": "Jinyang Wang, Haonan Shi, Tingting Wang, Xuan Yao",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843632",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
     "title": "Architecture Matters More Than Modalities: An Empirical Study of Multi-Modal Graph Neural Networks for Gene Function Prediction",
     "authors": "Junshan He",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
@@ -901,10 +901,10 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Deep Transfer Learning for Cervical Transformation Zone Classification: A ResNet18-Based Approach with Data Deduplication and Augmentation Strategies",
-    "authors": "Taha Azmi, Khadija Idaissa, Gang Wu, Feiwei Qin",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843612",
+    "title": "Quantum Machine Learning-Based Efficient Channel Estimation for MISO Systems",
+    "authors": "Min-Hyeok Choi, Ki-Chang Tong, Yeong-Gyun Jung, Dong-Woo Seo, Hyeon-Su Yu, Hyoung-Kyu Song",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841334",
     "source": "ACM",
     "abstract": "None"
   },
@@ -919,19 +919,10 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Quantum Machine Learning-Based Efficient Channel Estimation for MISO Systems",
-    "authors": "Min-Hyeok Choi, Ki-Chang Tong, Yeong-Gyun Jung, Dong-Woo Seo, Hyeon-Su Yu, Hyoung-Kyu Song",
-    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
-    "url": "https://doi.org/10.1145/3841323.3841334",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "A Real-time Static Yoga Pose Assessment using Multi-Feature Weighted Cosine Similarity on NVIDIA Jetson Nano",
-    "authors": "Ching-Chun Chen, Tzu-Yi Hung, Yu-Cheng Huang, Chih-Peng Fan, Irin Tri Anggraini, Yanqi Xiao, Nobuo Funabiki",
-    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
-    "url": "https://doi.org/10.1145/3841323.3841327",
+    "title": "Deep Transfer Learning for Cervical Transformation Zone Classification: A ResNet18-Based Approach with Data Deduplication and Augmentation Strategies",
+    "authors": "Taha Azmi, Khadija Idaissa, Gang Wu, Feiwei Qin",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843612",
     "source": "ACM",
     "abstract": "None"
   },
@@ -959,6 +950,15 @@
     "authors": "Gang Wu, Bin Zhang, Weifang Wang, Yinxue Shi",
     "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
     "url": "https://doi.org/10.1145/3841358.3841390",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "A Real-time Static Yoga Pose Assessment using Multi-Feature Weighted Cosine Similarity on NVIDIA Jetson Nano",
+    "authors": "Ching-Chun Chen, Tzu-Yi Hung, Yu-Cheng Huang, Chih-Peng Fan, Irin Tri Anggraini, Yanqi Xiao, Nobuo Funabiki",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841327",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1027,24 +1027,6 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Mechanism Design, Kinematic Modeling, and Trajectory Simulation of an Upper-Limb Rehabilitation Exoskeleton Robot",
-    "authors": "Rufei Tian, Fenghua Wang",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843669",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Mutational Thermodynamic Stability of Lysozyme-Dominant Biosensor Enzymes: Insights from ThermoMutDB for Robust Biomedical Sensing Applications",
-    "authors": "Jianwei Gong",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843646",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
     "title": "RESEETA: Integrating Generative AI and RAG-Based Verification for Handwritten Prescription Interpretation and Medication Adherence in the Philippines",
     "authors": "Mark Andrei Mendoza Reyes, Ariel Bituin Doria",
     "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
@@ -1067,6 +1049,24 @@
     "authors": "Ki-Chang Tong, Yeong-Gyun Jung, Min-Hyeok Choi, Dong-Woo Seo, Young-Hwan Youn, Hyoung-Kyu Song",
     "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
     "url": "https://doi.org/10.1145/3841323.3841329",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Mechanism Design, Kinematic Modeling, and Trajectory Simulation of an Upper-Limb Rehabilitation Exoskeleton Robot",
+    "authors": "Rufei Tian, Fenghua Wang",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843669",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Mutational Thermodynamic Stability of Lysozyme-Dominant Biosensor Enzymes: Insights from ThermoMutDB for Robust Biomedical Sensing Applications",
+    "authors": "Jianwei Gong",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843646",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1099,15 +1099,6 @@
   },
   {
     "date": "2026-10-24",
-    "title": "A Fine-Grained Contact Representation Based Dexterous Hand Grasping Method",
-    "authors": "Xinrui Du, Xinyue Zhao, Yuren Dai, Ye Yuan, Jie Yan, Haiwen Feng, Jian Liu",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3841381",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
     "title": "NeuroGate-FA: A Deep Learning Model for Pathogenicity Prediction of Missense Variants in Neurodegenerative Diseases",
     "authors": "Jingya Li",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
@@ -1121,6 +1112,15 @@
     "authors": "Yuwen Chu, Jianbing Fang, Zi Wang",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
     "url": "https://doi.org/10.1145/3816325.3843654",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "A Fine-Grained Contact Representation Based Dexterous Hand Grasping Method",
+    "authors": "Xinrui Du, Xinyue Zhao, Yuren Dai, Ye Yuan, Jie Yan, Haiwen Feng, Jian Liu",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841381",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1171,33 +1171,6 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Pulse Signal Feature-Point Extraction Algorithm and Multi-Physiological-Parameter Calculation for Quantitative Cardiovascular Status Assessment",
-    "authors": "Yuen Hu",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843603",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Ranma: An Agentic Framework for Verifying Security Requirements of Enterprise Software",
-    "authors": "Ryo Suzuki, M. Fahim Ferdous Khan",
-    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
-    "url": "https://doi.org/10.1145/3841323.3841344",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Proposal and Implementation of an Industrial Equipment Anomaly Detection Method on Edge Devices Using Gradient Boosting Decision Trees",
-    "authors": "Kento Fukuda, Kazusa Gou, Nene Kamiya, Takanobu Otsuka",
-    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
-    "url": "https://doi.org/10.1145/3841323.3841352",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
     "title": "Counterfactual Estimation of PM2.5 Reduction from Shifting Agricultural Biomass Burning Season: A Machine Learning Approach for Bangkok, Thailand",
     "authors": "Kristsana Seepanomwan",
     "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
@@ -1234,10 +1207,28 @@
   },
   {
     "date": "2026-10-24",
-    "title": "A Novel EEG-Based Machine Learning Framework for Diagnosing ADHD, Specific Learning Disorder, and Typical Development",
-    "authors": "Hasibul Islam Nirjhar, Ashik Mostafa Alvi, Maria Cristina De Cola, Francesca Cucinotta, Nunzio Muscara, Hua Wang",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3841418",
+    "title": "Ranma: An Agentic Framework for Verifying Security Requirements of Enterprise Software",
+    "authors": "Ryo Suzuki, M. Fahim Ferdous Khan",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841344",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Proposal and Implementation of an Industrial Equipment Anomaly Detection Method on Edge Devices Using Gradient Boosting Decision Trees",
+    "authors": "Kento Fukuda, Kazusa Gou, Nene Kamiya, Takanobu Otsuka",
+    "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
+    "url": "https://doi.org/10.1145/3841323.3841352",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Pulse Signal Feature-Point Extraction Algorithm and Multi-Physiological-Parameter Calculation for Quantitative Cardiovascular Status Assessment",
+    "authors": "Yuen Hu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843603",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1256,6 +1247,15 @@
     "authors": "Fangping Zhan, Jinjing Yang, Xinlei Li, Rui Zhao",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
     "url": "https://doi.org/10.1145/3816325.3843650",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "A Novel EEG-Based Machine Learning Framework for Diagnosing ADHD, Specific Learning Disorder, and Typical Development",
+    "authors": "Hasibul Islam Nirjhar, Ashik Mostafa Alvi, Maria Cristina De Cola, Francesca Cucinotta, Nunzio Muscara, Hua Wang",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841418",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1333,6 +1333,15 @@
   },
   {
     "date": "2026-10-24",
+    "title": "Deep Learning-Based Virtual Screening and Molecular Dynamics Studies of JAK2/FLT3 Dual-Target Inhibitors Derived from Traditional Chinese Medicine",
+    "authors": "Wanyi Zou, Song Liu",
+    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
+    "url": "https://doi.org/10.1145/3816325.3843652",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-24",
     "title": "Edge-Device Latency with Long Contexts: An Empirical Analysis of Sequence-Length Effects in Deployed LLMs",
     "authors": "Ioannis Patias, Koutaro Hachiya",
     "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
@@ -1351,10 +1360,10 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Deep Learning-Based Virtual Screening and Molecular Dynamics Studies of JAK2/FLT3 Dual-Target Inhibitors Derived from Traditional Chinese Medicine",
-    "authors": "Wanyi Zou, Song Liu",
+    "title": "Topology-Aware Automatic Tracking of Target Drainage Bronchi for Bronchoscopic Lung Volume Reduction Navigation in Giant Pulmonary Bullae",
+    "authors": "Sheng Zhang",
     "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843652",
+    "url": "https://doi.org/10.1145/3816325.3843613",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1378,10 +1387,10 @@
   },
   {
     "date": "2026-10-24",
-    "title": "Topology-Aware Automatic Tracking of Target Drainage Bronchi for Bronchoscopic Lung Volume Reduction Navigation in Giant Pulmonary Bullae",
-    "authors": "Sheng Zhang",
-    "publish": "Proceedings of the 2026 2nd International Conference on Big Data and Intelligent Medicine",
-    "url": "https://doi.org/10.1145/3816325.3843613",
+    "title": "Enhancing Technical Knowledge Retrieval Through Hybrid Retrieval-Augmented Generation",
+    "authors": "Phanita Sirichai, Sylvain Chapeland, Vasco Chibante Barroso, Sansiri Tarnpradab",
+    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
+    "url": "https://doi.org/10.1145/3841358.3841370",
     "source": "ACM",
     "abstract": "None"
   },
@@ -1409,15 +1418,6 @@
     "authors": "Chito Acala Petilla, Edward M. Querikiol",
     "publish": "Proceedings of the 14th International Conference on Computer and Communications Management",
     "url": "https://doi.org/10.1145/3841323.3841335",
-    "source": "ACM",
-    "abstract": "None"
-  },
-  {
-    "date": "2026-10-24",
-    "title": "Enhancing Technical Knowledge Retrieval Through Hybrid Retrieval-Augmented Generation",
-    "authors": "Phanita Sirichai, Sylvain Chapeland, Vasco Chibante Barroso, Sansiri Tarnpradab",
-    "publish": "Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence",
-    "url": "https://doi.org/10.1145/3841358.3841370",
     "source": "ACM",
     "abstract": "None"
   },

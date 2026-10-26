@@ -1,33 +1,32 @@
-[2026-10-25 00:01:16] 开始执行论文搜索任务
+[2026-10-25 23:51:07] 开始执行论文搜索任务
 搜索关键词: code
 搜索日期范围: 2026-10-24
 正在获取论文...
-arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=lastUpdatedDate%3A%5B202610240000+TO+202610242359%5D&sortBy=relevance&sortOrder=descending&max_results=1000 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=20)"))
-[ACM] 2026-10-24 | A Label-Free U-Net LSTM Autoencoder for Anomaly Detection and Root Cause Analysis in Rotating Machinery
-[ACM] 2026-10-24 | Toward Fair Comparison of Symbolic Music Generators: A Unified YNote Protocol for Jiangnan-Style Music with GNNs and LLMs
 [ACM] 2026-10-24 | Intelligent CAR Engineering and Microenvironment Remodeling: Advancing CAR-T Therapy Toward Precision Treatment of Solid Tumors
+[ACM] 2026-10-24 | Toward Fair Comparison of Symbolic Music Generators: A Unified YNote Protocol for Jiangnan-Style Music with GNNs and LLMs
+[ACM] 2026-10-24 | A Label-Free U-Net LSTM Autoencoder for Anomaly Detection and Root Cause Analysis in Rotating Machinery
 [ACM] 2026-10-24 | Research on a Novel Semantic Representation Method Based on Reconstituted Sample Enhancement
-[ACM] 2026-10-24 | A Decentralized Cyber-Physical System for Proactive Industrial Dust Hazard Mitigation
+[ACM] 2026-10-24 | Multi-Stage Deep Vascular Feature Fusion for Diabetic Retinopathy Lesion Segmentation
+[ACM] 2026-10-24 | Structural Breaks and Volatility Expansion in Influenza Transmission in Shanghai
+[ACM] 2026-10-24 | MetaSubFrame: A Multi-Layered Computational Framework for Identifying the BMI–Uric Acid Statistical Mediation and Metabolic Subtype in Early-Onset Bipolar Disorder
 [ACM] 2026-10-24 | Unsupervised Extraction of Financial Domain-Specific Feature Structures from LLMs via Sparse Autoencoders
 [ACM] 2026-10-24 | Machine Learning-Driven Multispectral System for Precision Agriculture: Nondestructive Fruit Decay Identification
 [ACM] 2026-10-24 | Classification of High- and Low-Protein Corn (Zea Mays) Using NIR Spectral Data and Machine Learning Techniques
 [ACM] 2026-10-24 | Foresight: An Open Visual Dataset for Low-Vision Pedestrian Hazard Detection
 [ACM] 2026-10-24 | SwiftNet: An Ultra-Lightweight Neural Network Design for Autonomous Driving Systems
-[ACM] 2026-10-24 | Structural Breaks and Volatility Expansion in Influenza Transmission in Shanghai
-[ACM] 2026-10-24 | MetaSubFrame: A Multi-Layered Computational Framework for Identifying the BMI–Uric Acid Statistical Mediation and Metabolic Subtype in Early-Onset Bipolar Disorder
-[ACM] 2026-10-24 | Multi-Stage Deep Vascular Feature Fusion for Diabetic Retinopathy Lesion Segmentation
+[ACM] 2026-10-24 | A Decentralized Cyber-Physical System for Proactive Industrial Dust Hazard Mitigation
+[ACM] 2026-10-24 | Adaptive Software Development Methodology Selection Using MCDM, Flow Entropy Sort, and Large Language Models: A Case-Based Approach
+[ACM] 2026-10-24 | DSAF-Gaze: Dual-Stream Attention Fusion with Geometric Guidance for Robust Gaze Estimation
+[ACM] 2026-10-24 | AI-Driven Illumination-Adaptive Enhancement for Robust Mobile AR Games
 [ACM] 2026-10-24 | Design and Implementation of a Bed-Resting Care System
 [ACM] 2026-10-24 | Predicting Legendre Basis Coefficients for Volumetric Optical Flow Interpolation in Brain CTP using Dense Pyramid Networks
 [ACM] 2026-10-24 | Online Range Monitoring for Particle Therapy Using Multimodal Fusion of Secondary Radiation Signals
 [ACM] 2026-10-24 | UniAgent: An End-to-End Decentralized Framework for Autonomous Agent Discovery, Delegation, and Payment
-[ACM] 2026-10-24 | Adaptive Software Development Methodology Selection Using MCDM, Flow Entropy Sort, and Large Language Models: A Case-Based Approach
-[ACM] 2026-10-24 | DSAF-Gaze: Dual-Stream Attention Fusion with Geometric Guidance for Robust Gaze Estimation
-[ACM] 2026-10-24 | AI-Driven Illumination-Adaptive Enhancement for Robust Mobile AR Games
-[ACM] 2026-10-24 | Research on Health Risk Prediction of Postoperative Complications in Lumbar Disc Herniation Based on Healthcare Big Data
-[ACM] 2026-10-24 | Feasibility Study and In Vitro Simulation of Platinum-Iridium Alloy Wire as an Amniocentesis-Based Fetal ECG Monitoring Electrode
 [ACM] 2026-10-24 | LogCAFD: Context-Aware and Context-Free Dictionary-Based Compression for Streaming Server Logs
 [ACM] 2026-10-24 | Cybersecurity in Railway Communication Systems: A Review of GSM-R to 5G-FRMCS Transition Risks, Threat Models, and Defense Frameworks
 [ACM] 2026-10-24 | ComboLoss for NECT Liver Tumor Segmentation: An Imbalance-Aware nnU-Net v2 Baseline
+[ACM] 2026-10-24 | Research on Health Risk Prediction of Postoperative Complications in Lumbar Disc Herniation Based on Healthcare Big Data
+[ACM] 2026-10-24 | Feasibility Study and In Vitro Simulation of Platinum-Iridium Alloy Wire as an Amniocentesis-Based Fetal ECG Monitoring Electrode
 [ACM] 2026-10-24 | Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence
 [ACM] 2026-10-24 | Machine Learning for 30-Day ICU Readmission Prediction: Addressing Class Imbalance and Decision Threshold Optimization
 [ACM] 2026-10-24 | iskStress: A Hybrid System for Stress Detection in r/peyups using Fine-Tuned MentalBERT and an Enhanced Lexicon-Based Tool
@@ -44,11 +43,11 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [ACM] 2026-10-24 | Risk-Adaptive Graph Label Propagation for Offline Referral Triage in Telemedicine
 [ACM] 2026-10-24 | Research on Infant Cognitive Response Prediction Model Fused with fNIRS Cerebral Blood Oxygen Signal
 [ACM] 2026-10-24 | Design of a Multimodal-Controlled Flexible Pneumatic Rehabilitation Training Glove System
-[ACM] 2026-10-24 | Software Reengineering for Fixing Design Smells in Legacy Networked Systems
-[ACM] 2026-10-24 | Evaluating the Deployment Impact of M-Root Servers and Selecting Candidates for New Nodes Using RIPE Atlas Data Set
 [ACM] 2026-10-24 | An Explainable AI Application for Detecting Biotic Stress on Sugarcane Using Deep Learning
 [ACM] 2026-10-24 | Middle Layer Phishing Detection Using Bi-directional Behavioural Model
 [ACM] 2026-10-24 | Learning Scholarly Social Networks from Heterogeneous Academic Data via Multi-Relation Graph Analytics
+[ACM] 2026-10-24 | Software Reengineering for Fixing Design Smells in Legacy Networked Systems
+[ACM] 2026-10-24 | Evaluating the Deployment Impact of M-Root Servers and Selecting Candidates for New Nodes Using RIPE Atlas Data Set
 [ACM] 2026-10-24 | Evaluating LLM Robustness Under Domain-Specific Prompt Perturbations in Public Health Applications
 [ACM] 2026-10-24 | Cross-Dataset Generalization of Compact Deep Learning Models for EEG-Based Brain-Age Prediction
 [ACM] 2026-10-24 | Brain–Behavior Fusion Models with Graph Convolutional Networks for Personalized Depression Assessment
@@ -57,17 +56,17 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [ACM] 2026-10-24 | Multimodal Cardiac Disease Differentiation Based on Missing-Modality Completion and Mamba-Transformer Hybrid Encoding
 [ACM] 2026-10-24 | A Virtual Standardized Patient System for Clinical Interview Training: A Human–Computer Interaction Design Study Using Multimodal AI Agents
 [ACM] 2026-10-24 | Lightweight FPN-Enhanced MobileNetV3 Method for Intelligent Diagnosis of Oral Submucous Fibrosis
-[ACM] 2026-10-24 | Recurrent Neural Network (RNN) and Multi-Criteria Decision Analysis for Customer Satisfaction Optimization in Mobile Banking Services of Commercial Banks in the Philippines
 [ACM] 2026-10-24 | A Study on the Mechanisms by Which Characteristics of Short-Form Video Health Education Content Influence Nutritional Knowledge Translation and User Behavior Prediction
 [ACM] 2026-10-24 | Ankle Torque Modeling Based on BP Neural Network
+[ACM] 2026-10-24 | Recurrent Neural Network (RNN) and Multi-Criteria Decision Analysis for Customer Satisfaction Optimization in Mobile Banking Services of Commercial Banks in the Philippines
 [ACM] 2026-10-24 | An Improved Graph Neural Network and Dynamic Modeling Framework for Anti-Tumor Mechanism Analysis of Atractylodin
 [ACM] 2026-10-24 | An Evidence-Traceable Pemphigus Severity Assessment Framework Using Dermatology Foundation Models
 [ACM] 2026-10-24 | Interferometric Radar Monitoring for Wind Turbine Blade
 [ACM] 2026-10-24 | Parameter-Efficient Fine-Tuning for Functional RTL Debugging with Large Language Models
 [ACM] 2026-10-24 | SKG4SCRepair:Skill Knowledge Graph-Guided Multi-Agent Repair for Smart Contract Vulnerabilities
 [ACM] 2026-10-24 | An Interpretable Method for Road Defect Segmentation
-[ACM] 2026-10-24 | Next-3-mer Ranking using Short Contexts in E. coli
 [ACM] 2026-10-24 | Optimization of Timing for Non-Invasive Prenatal Testing and a Multifactorial Modeling Approach for Fetal Anomaly Detection
+[ACM] 2026-10-24 | Next-3-mer Ranking using Short Contexts in E. coli
 [ACM] 2026-10-24 | Evaluating and Mitigating Transferable Physical Adversarial Attacks in Real-Time Traffic Sign Detection
 [ACM] 2026-10-24 | Mining Method for Traditional Chinese Medicine Clinical Diagnosis and Treatment Rules Based on Apriori Association Rule Algorithm
 [ACM] 2026-10-24 | Controller Overhead Reduction in Traffic Monitoring for SDN-based Zero Trust Architectures
@@ -83,33 +82,33 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [ACM] 2026-10-24 | Segmentation Granularity in Low-Resource Symbolic Music Generation: A Jiangnan Music Case Study
 [ACM] 2026-10-24 | CS-FXGBoost: Cost-Sensitive Focal Gradient Boosting for Rare-Event Classification under Extreme Class Imbalance
 [ACM] 2026-10-24 | Early Diagnosis Prediction for People with Cardiovascular Conditions using Machine Learning Methods
+[ACM] 2026-10-24 | A Medical-Family-Childcare Smart Care Model for Infant and Toddler Health Monitoring Driven by Digital Intelligence Scenarios
 [ACM] 2026-10-24 | Proceedings of the 14th International Conference on Computer and Communications Management
 [ACM] 2026-10-24 | A Machine Learning-Based Framework for PM2.5 Prediction Using Multi Pollutant, Meteorological, and Temporal Features: A Case Study of Khon Kaen University, THAILAND
 [ACM] 2026-10-24 | Paper Title: Smart Math Companion: A Generative AI-Powered Personalized Learning System for After-School Mathematics Education
-[ACM] 2026-10-24 | A Medical-Family-Childcare Smart Care Model for Infant and Toddler Health Monitoring Driven by Digital Intelligence Scenarios
 [ACM] 2026-10-24 | Physics-Informed Digital Twin Framework for Adaptive Irrigation Control: Integrating Transformer-Based Hydrology Modeling with Reinforcement Learning and Model Predictive Control Strategies
 [ACM] 2026-10-24 | CAUSEWAY: An End-to-End Causal Machine Learning and Multi-Objective Optimisation Framework for Environmental Health Policy
 [ACM] 2026-10-24 | Work Place Safety: Investigating and Improving Health and Safety at Construction Sites With Image Recognition Using Deep Learning
-[ACM] 2026-10-24 | Deep Learning-Based Intelligent Auxiliary Staging Diagnosis and Clinical Deployment of Periodontitis on Panoramic Radiographs
-[ACM] 2026-10-24 | Dynamics and Hopf Bifurcation of a Delayed SIR Model for COVID-19 with LSTM-Based Parameter Estimation
 [ACM] 2026-10-24 | A Bibliometric Analysis of Research on Digital Health Literacy Among Older Adults: Based on the Web of Science Core Collection Database
 [ACM] 2026-10-24 | TabPFN-Driven siRNA Activity Prediction: A Multi-Feature Benchmark and Interpretability Study for Efficient siRNA Design
+[ACM] 2026-10-24 | Deep Learning-Based Intelligent Auxiliary Staging Diagnosis and Clinical Deployment of Periodontitis on Panoramic Radiographs
+[ACM] 2026-10-24 | Dynamics and Hopf Bifurcation of a Delayed SIR Model for COVID-19 with LSTM-Based Parameter Estimation
 [ACM] 2026-10-24 | AI-Powered Vulnerability Detection and Remediation for Solana Smart Contracts
 [ACM] 2026-10-24 | Vaccination Coupled Competitive Information Diffusion and Higher Order Epidemic Dynamics on Multiplex Networks
 [ACM] 2026-10-24 | A Preliminary Study on Dual-Dimensional Mental Health Support with Informal Supporter Empowerment
+[ACM] 2026-10-24 | Investigating the Impact of Class Imbalance and Feature Set Size on Machine Learning Model Stability in Low-Prevalence Real-World Health Data
 [ACM] 2026-10-24 | Can Small Models Generate High-Quality Data Visualizations Through Multi-Agent Iterative Refinement?
 [ACM] 2026-10-24 | Public Data-Free Data Collaboration Analysis via Prototype Inverse Projection Anchors
 [ACM] 2026-10-24 | Low Latency Communication method with ECN in combination of TCP/CUBIC over QUIC/BBR Tunneling Environment
-[ACM] 2026-10-24 | Investigating the Impact of Class Imbalance and Feature Set Size on Machine Learning Model Stability in Low-Prevalence Real-World Health Data
 [ACM] 2026-10-24 | Architecture Matters More Than Modalities: An Empirical Study of Multi-Modal Graph Neural Networks for Gene Function Prediction
 [ACM] 2026-10-24 | Development and Practical Research of a Smart Teaching System for Medical Laboratory Science Empowered by Big Data and Artificial Intelligence
-[ACM] 2026-10-24 | Deep Transfer Learning for Cervical Transformation Zone Classification: A ResNet18-Based Approach with Data Deduplication and Augmentation Strategies
-[ACM] 2026-10-24 | NSentiV: News Sentiment Visualization Application for Stock Market using Classification Algorithms
 [ACM] 2026-10-24 | Quantum Machine Learning-Based Efficient Channel Estimation for MISO Systems
-[ACM] 2026-10-24 | A Real-time Static Yoga Pose Assessment using Multi-Feature Weighted Cosine Similarity on NVIDIA Jetson Nano
+[ACM] 2026-10-24 | NSentiV: News Sentiment Visualization Application for Stock Market using Classification Algorithms
+[ACM] 2026-10-24 | Deep Transfer Learning for Cervical Transformation Zone Classification: A ResNet18-Based Approach with Data Deduplication and Augmentation Strategies
 [ACM] 2026-10-24 | F-PoT: An Algorithm-Hardware Co-Design Framework for Ultra-Low-Bit Power-of-Two Transformer Quantization on Edge Devices
 [ACM] 2026-10-24 | Deep Cascading Threshold: An Interpretable Neural Network Approach to Contextual Linear Regression
 [ACM] 2026-10-24 | Deep Learning-Based Automatic Analysis and 3D Reconstruction of CT Images for the Frontal Process of the Maxilla
+[ACM] 2026-10-24 | A Real-time Static Yoga Pose Assessment using Multi-Feature Weighted Cosine Similarity on NVIDIA Jetson Nano
 [ACM] 2026-10-24 | Transformer-Based Multimodal Time-Series Analysis for Stroke Rehabilitation: Bridging Behavioral Recovery and Neuroplasticity via Cross-Modal Self-Attention
 [ACM] 2026-10-24 | A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation
 [ACM] 2026-10-24 | Recursive Maximum Mixture Correntropy-based Evolving Fuzzy System Against Non Gaussian Noise
@@ -117,32 +116,32 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [ACM] 2026-10-24 | Design of a Generative Artificial Intelligence-Enabled Smart Learning Support Platform for Higher Vocational Nursing Students
 [ACM] 2026-10-24 | A Model for Identifying Traditional Chinese Medicine Syndromes in Liver Cancer Based on Federated Learning
 [ACM] 2026-10-24 | Multi-Scale Cross-Attention Fusion Model for Parkinson's Disease Voice Detection
-[ACM] 2026-10-24 | Mechanism Design, Kinematic Modeling, and Trajectory Simulation of an Upper-Limb Rehabilitation Exoskeleton Robot
-[ACM] 2026-10-24 | Mutational Thermodynamic Stability of Lysozyme-Dominant Biosensor Enzymes: Insights from ThermoMutDB for Robust Biomedical Sensing Applications
 [ACM] 2026-10-24 | RESEETA: Integrating Generative AI and RAG-Based Verification for Handwritten Prescription Interpretation and Medication Adherence in the Philippines
 [ACM] 2026-10-24 | Design and Implementation of an Ergonomic IoMT EEG Sensor for Healthcare as a Service in Dolphin-Assisted Therapy
 [ACM] 2026-10-24 | Parameter-Efficient QCNN-Based Signal Detector for GEO Satellite SISO Communications
+[ACM] 2026-10-24 | Mechanism Design, Kinematic Modeling, and Trajectory Simulation of an Upper-Limb Rehabilitation Exoskeleton Robot
+[ACM] 2026-10-24 | Mutational Thermodynamic Stability of Lysozyme-Dominant Biosensor Enzymes: Insights from ThermoMutDB for Robust Biomedical Sensing Applications
 [ACM] 2026-10-24 | A Chunk-Weighted, Structure-Aware Approach to Information Retrieval Based on Non-Agentic AI
 [ACM] 2026-10-24 | Multi-scale Attention Block for Precision-Recall Decoupling in Femoral Neck Fracture Detection
 [ACM] 2026-10-24 | The Mediating Role of Quality Attenuation in the Association Between Heavy Metal Composite Pollution and Health Risk in Herbal Medicines: A SEM Approach
-[ACM] 2026-10-24 | A Fine-Grained Contact Representation Based Dexterous Hand Grasping Method
 [ACM] 2026-10-24 | NeuroGate-FA: A Deep Learning Model for Pathogenicity Prediction of Missense Variants in Neurodegenerative Diseases
 [ACM] 2026-10-24 | Development and Validation of an Immune–Microbiome Integrated Prognostic Model for Lung Adenocarcinoma
+[ACM] 2026-10-24 | A Fine-Grained Contact Representation Based Dexterous Hand Grasping Method
 [ACM] 2026-10-24 | A Low-Cost Filipino Sign Language Translator Using ESP32-CAM and Edge Machine Learning
 [ACM] 2026-10-24 | Federated Learning Infrastructure for Privacy-Preserving Healthcare IoMT: Addressing Cybersecurity, Economic, and Regulatory Challenges in Multi-Institutional AI Deployment
 [ACM] 2026-10-24 | Application of a Multi-source Health Data Fusion-based Smart Healthcare Platform in Traditional Chinese Medicine Intervention for Insomnia Accompanied by Anxiety and Depressive Symptoms
 [ACM] 2026-10-24 | From Nomograms to Neural Networks: A Bibliometric Analysis of Malignant Tumor Prediction Models (2017–2026)
 [ACM] 2026-10-24 | Exploring Trade-offs Between Foundation Models and Vision Models for Image-Based Autism Spectrum Disorder Diagnosis
-[ACM] 2026-10-24 | Pulse Signal Feature-Point Extraction Algorithm and Multi-Physiological-Parameter Calculation for Quantitative Cardiovascular Status Assessment
-[ACM] 2026-10-24 | Ranma: An Agentic Framework for Verifying Security Requirements of Enterprise Software
-[ACM] 2026-10-24 | Proposal and Implementation of an Industrial Equipment Anomaly Detection Method on Edge Devices Using Gradient Boosting Decision Trees
 [ACM] 2026-10-24 | Counterfactual Estimation of PM2.5 Reduction from Shifting Agricultural Biomass Burning Season: A Machine Learning Approach for Bangkok, Thailand
 [ACM] 2026-10-24 | Data Concatenation for Multi-Task Learning with Closed-Form Linear Heads
 [ACM] 2026-10-24 | Auditing Cardiology Question Answering with OPM-Based Reasoning Paths
 [ACM] 2026-10-24 | An Immersive VR System Architecture Combining Generative AI and Interaction: Design and Implementation of Dynamic Training Scene Generation
-[ACM] 2026-10-24 | A Novel EEG-Based Machine Learning Framework for Diagnosing ADHD, Specific Learning Disorder, and Typical Development
+[ACM] 2026-10-24 | Ranma: An Agentic Framework for Verifying Security Requirements of Enterprise Software
+[ACM] 2026-10-24 | Proposal and Implementation of an Industrial Equipment Anomaly Detection Method on Edge Devices Using Gradient Boosting Decision Trees
+[ACM] 2026-10-24 | Pulse Signal Feature-Point Extraction Algorithm and Multi-Physiological-Parameter Calculation for Quantitative Cardiovascular Status Assessment
 [ACM] 2026-10-24 | A Dynamic Prediction Method for Infectious Disease Transmission Based on Spatiotemporal Graph Convolutional Networks
 [ACM] 2026-10-24 | An AI-Driven Multi-Source Biomedical Data Fusion Framework for Therapeutic Target Prediction of Pyrola Flavonoids in Ulcerative Colitis
+[ACM] 2026-10-24 | A Novel EEG-Based Machine Learning Framework for Diagnosing ADHD, Specific Learning Disorder, and Typical Development
 [ACM] 2026-10-24 | From Raster to Hilbert: Improving Image Understanding for Down Syndrome Detection Through Spatial Locality Preservation in Deep Learning
 [ACM] 2026-10-24 | A Conceptual Framework for AI-Agent-Based Care-Support Reporting from IoT Sensor Data for Early Care Support
 [ACM] 2026-10-24 | Two-Stage Tree-Based Detection of Active Pilot Spoofing Attacks in Scalable Cell-Free Massive MIMO
@@ -151,16 +150,16 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [ACM] 2026-10-24 | Association Between Non-Lipid Metabolic Burden and the Atherogenic Index of Plasma in Patients with Bipolar Disorder: A Causal Mediation Analysis Revealing Sex-Divergent Mechanisms
 [ACM] 2026-10-24 | A Multimodal Behavior-Aware CNN-LSTM Model for Personalized VR Cognitive Rehabilitation in Dementia
 [ACM] 2026-10-24 | A MedSAM-based Attribute-prompting Fine-tuning Framework for Skin Lesion Segmentation
+[ACM] 2026-10-24 | Deep Learning-Based Virtual Screening and Molecular Dynamics Studies of JAK2/FLT3 Dual-Target Inhibitors Derived from Traditional Chinese Medicine
 [ACM] 2026-10-24 | Edge-Device Latency with Long Contexts: An Empirical Analysis of Sequence-Length Effects in Deployed LLMs
 [ACM] 2026-10-24 | Causal Counterfactual Framework for Auditing Intersectional Bias in VLM Hiring Decisions
-[ACM] 2026-10-24 | Deep Learning-Based Virtual Screening and Molecular Dynamics Studies of JAK2/FLT3 Dual-Target Inhibitors Derived from Traditional Chinese Medicine
+[ACM] 2026-10-24 | Topology-Aware Automatic Tracking of Target Drainage Bronchi for Bronchoscopic Lung Volume Reduction Navigation in Giant Pulmonary Bullae
 [ACM] 2026-10-24 | DCRA: Lightweight Downstream High-Error Risk Estimation for 3D Human Pose Lifting
 [ACM] 2026-10-24 | Intelligent Prediction of the Protective Effects of Fer-1@liposome on the Choroid Plexus by Integrating Drug-Release/Particle-Size Stability Time Series with a Mechanism-Informed Prior Graph
-[ACM] 2026-10-24 | Topology-Aware Automatic Tracking of Target Drainage Bronchi for Bronchoscopic Lung Volume Reduction Navigation in Giant Pulmonary Bullae
+[ACM] 2026-10-24 | Enhancing Technical Knowledge Retrieval Through Hybrid Retrieval-Augmented Generation
 [ACM] 2026-10-24 | Toward Trustworthy Clinical AI: A Lesion-Aware Deep Learning Framework for Skin Cancer Screening
 [ACM] 2026-10-24 | Making Saliency Comparable in Multi-Site MRI with Two-Stage Gating
 [ACM] 2026-10-24 | Design and Analysis of SOAP-Based Communication Frameworks for IoT-Driven Solar Photovoltaic Monitoring
-[ACM] 2026-10-24 | Enhancing Technical Knowledge Retrieval Through Hybrid Retrieval-Augmented Generation
 [ACM] 2026-10-24 | A Lightweight Convolutional Neural Network Based On The Atmospheric Scattering Model For Real-Time Video Dehazing
 [ACM] 2026-10-24 | A method for optimizing the collaborative paths of unmanned aerial vehicles and vehicles based on the GA-ACO hybrid algorithm
 [ACM] 2026-10-24 | Semantic Fault Hydration with Slot-Sleepy DAG Consensus: A Design Proposal for Financial Microservice Resilience
@@ -187,31 +186,31 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 共写入 181 条记录，保存到 papers/paper2026-10-24.json。
 论文获取成功，文件路径: papers/paper2026-10-24.json
 正在筛选、翻译并发送邮件...
-[NO] 1/181 | A Label-Free U-Net LSTM Autoencoder for Anomaly Detection and Root Cause Analysis in Rotating Machinery
+[NO] 1/181 | Intelligent CAR Engineering and Microenvironment Remodeling: Advancing CAR-T Therapy Toward Precision Treatment of Solid Tumors
 [NO] 2/181 | Toward Fair Comparison of Symbolic Music Generators: A Unified YNote Protocol for Jiangnan-Style Music with GNNs and LLMs
-[NO] 3/181 | Intelligent CAR Engineering and Microenvironment Remodeling: Advancing CAR-T Therapy Toward Precision Treatment of Solid Tumors
+[NO] 3/181 | A Label-Free U-Net LSTM Autoencoder for Anomaly Detection and Root Cause Analysis in Rotating Machinery
 [NO] 4/181 | Research on a Novel Semantic Representation Method Based on Reconstituted Sample Enhancement
-[NO] 5/181 | A Decentralized Cyber-Physical System for Proactive Industrial Dust Hazard Mitigation
-[NO] 6/181 | Unsupervised Extraction of Financial Domain-Specific Feature Structures from LLMs via Sparse Autoencoders
-[NO] 7/181 | Machine Learning-Driven Multispectral System for Precision Agriculture: Nondestructive Fruit Decay Identification
-[NO] 8/181 | Classification of High- and Low-Protein Corn (Zea Mays) Using NIR Spectral Data and Machine Learning Techniques
-[NO] 9/181 | Foresight: An Open Visual Dataset for Low-Vision Pedestrian Hazard Detection
-[NO] 10/181 | SwiftNet: An Ultra-Lightweight Neural Network Design for Autonomous Driving Systems
-[NO] 11/181 | Structural Breaks and Volatility Expansion in Influenza Transmission in Shanghai
-[NO] 12/181 | MetaSubFrame: A Multi-Layered Computational Framework for Identifying the BMI–Uric Acid Statistical Mediation and Metabolic Subtype in Early-Onset Bipolar Disorder
-[NO] 13/181 | Multi-Stage Deep Vascular Feature Fusion for Diabetic Retinopathy Lesion Segmentation
-[NO] 14/181 | Design and Implementation of a Bed-Resting Care System
-[NO] 15/181 | Predicting Legendre Basis Coefficients for Volumetric Optical Flow Interpolation in Brain CTP using Dense Pyramid Networks
-[NO] 16/181 | Online Range Monitoring for Particle Therapy Using Multimodal Fusion of Secondary Radiation Signals
-[NO] 17/181 | UniAgent: An End-to-End Decentralized Framework for Autonomous Agent Discovery, Delegation, and Payment
-[NO] 18/181 | Adaptive Software Development Methodology Selection Using MCDM, Flow Entropy Sort, and Large Language Models: A Case-Based Approach
-[NO] 19/181 | DSAF-Gaze: Dual-Stream Attention Fusion with Geometric Guidance for Robust Gaze Estimation
-[NO] 20/181 | AI-Driven Illumination-Adaptive Enhancement for Robust Mobile AR Games
-[NO] 21/181 | Research on Health Risk Prediction of Postoperative Complications in Lumbar Disc Herniation Based on Healthcare Big Data
-[NO] 22/181 | Feasibility Study and In Vitro Simulation of Platinum-Iridium Alloy Wire as an Amniocentesis-Based Fetal ECG Monitoring Electrode
-[NO] 23/181 | LogCAFD: Context-Aware and Context-Free Dictionary-Based Compression for Streaming Server Logs
-[NO] 24/181 | Cybersecurity in Railway Communication Systems: A Review of GSM-R to 5G-FRMCS Transition Risks, Threat Models, and Defense Frameworks
-[NO] 25/181 | ComboLoss for NECT Liver Tumor Segmentation: An Imbalance-Aware nnU-Net v2 Baseline
+[NO] 5/181 | Multi-Stage Deep Vascular Feature Fusion for Diabetic Retinopathy Lesion Segmentation
+[NO] 6/181 | Structural Breaks and Volatility Expansion in Influenza Transmission in Shanghai
+[NO] 7/181 | MetaSubFrame: A Multi-Layered Computational Framework for Identifying the BMI–Uric Acid Statistical Mediation and Metabolic Subtype in Early-Onset Bipolar Disorder
+[NO] 8/181 | Unsupervised Extraction of Financial Domain-Specific Feature Structures from LLMs via Sparse Autoencoders
+[NO] 9/181 | Machine Learning-Driven Multispectral System for Precision Agriculture: Nondestructive Fruit Decay Identification
+[NO] 10/181 | Classification of High- and Low-Protein Corn (Zea Mays) Using NIR Spectral Data and Machine Learning Techniques
+[NO] 11/181 | Foresight: An Open Visual Dataset for Low-Vision Pedestrian Hazard Detection
+[NO] 12/181 | SwiftNet: An Ultra-Lightweight Neural Network Design for Autonomous Driving Systems
+[NO] 13/181 | A Decentralized Cyber-Physical System for Proactive Industrial Dust Hazard Mitigation
+[NO] 14/181 | Adaptive Software Development Methodology Selection Using MCDM, Flow Entropy Sort, and Large Language Models: A Case-Based Approach
+[NO] 15/181 | DSAF-Gaze: Dual-Stream Attention Fusion with Geometric Guidance for Robust Gaze Estimation
+[NO] 16/181 | AI-Driven Illumination-Adaptive Enhancement for Robust Mobile AR Games
+[NO] 17/181 | Design and Implementation of a Bed-Resting Care System
+[NO] 18/181 | Predicting Legendre Basis Coefficients for Volumetric Optical Flow Interpolation in Brain CTP using Dense Pyramid Networks
+[NO] 19/181 | Online Range Monitoring for Particle Therapy Using Multimodal Fusion of Secondary Radiation Signals
+[NO] 20/181 | UniAgent: An End-to-End Decentralized Framework for Autonomous Agent Discovery, Delegation, and Payment
+[NO] 21/181 | LogCAFD: Context-Aware and Context-Free Dictionary-Based Compression for Streaming Server Logs
+[NO] 22/181 | Cybersecurity in Railway Communication Systems: A Review of GSM-R to 5G-FRMCS Transition Risks, Threat Models, and Defense Frameworks
+[NO] 23/181 | ComboLoss for NECT Liver Tumor Segmentation: An Imbalance-Aware nnU-Net v2 Baseline
+[NO] 24/181 | Research on Health Risk Prediction of Postoperative Complications in Lumbar Disc Herniation Based on Healthcare Big Data
+[NO] 25/181 | Feasibility Study and In Vitro Simulation of Platinum-Iridium Alloy Wire as an Amniocentesis-Based Fetal ECG Monitoring Electrode
 [NO] 26/181 | Proceedings of the 9th International Conference on Machine Learning and Machine Intelligence
 [NO] 27/181 | Machine Learning for 30-Day ICU Readmission Prediction: Addressing Class Imbalance and Decision Threshold Optimization
 [NO] 28/181 | iskStress: A Hybrid System for Stress Detection in r/peyups using Fine-Tuned MentalBERT and an Enhanced Lexicon-Based Tool
@@ -228,11 +227,11 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [NO] 39/181 | Risk-Adaptive Graph Label Propagation for Offline Referral Triage in Telemedicine
 [NO] 40/181 | Research on Infant Cognitive Response Prediction Model Fused with fNIRS Cerebral Blood Oxygen Signal
 [NO] 41/181 | Design of a Multimodal-Controlled Flexible Pneumatic Rehabilitation Training Glove System
-[YES] 42/181 | Software Reengineering for Fixing Design Smells in Legacy Networked Systems
-[NO] 43/181 | Evaluating the Deployment Impact of M-Root Servers and Selecting Candidates for New Nodes Using RIPE Atlas Data Set
-[NO] 44/181 | An Explainable AI Application for Detecting Biotic Stress on Sugarcane Using Deep Learning
-[NO] 45/181 | Middle Layer Phishing Detection Using Bi-directional Behavioural Model
-[NO] 46/181 | Learning Scholarly Social Networks from Heterogeneous Academic Data via Multi-Relation Graph Analytics
+[NO] 42/181 | An Explainable AI Application for Detecting Biotic Stress on Sugarcane Using Deep Learning
+[NO] 43/181 | Middle Layer Phishing Detection Using Bi-directional Behavioural Model
+[NO] 44/181 | Learning Scholarly Social Networks from Heterogeneous Academic Data via Multi-Relation Graph Analytics
+[YES] 45/181 | Software Reengineering for Fixing Design Smells in Legacy Networked Systems
+[NO] 46/181 | Evaluating the Deployment Impact of M-Root Servers and Selecting Candidates for New Nodes Using RIPE Atlas Data Set
 [NO] 47/181 | Evaluating LLM Robustness Under Domain-Specific Prompt Perturbations in Public Health Applications
 [NO] 48/181 | Cross-Dataset Generalization of Compact Deep Learning Models for EEG-Based Brain-Age Prediction
 [NO] 49/181 | Brain–Behavior Fusion Models with Graph Convolutional Networks for Personalized Depression Assessment
@@ -241,17 +240,17 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [NO] 52/181 | Multimodal Cardiac Disease Differentiation Based on Missing-Modality Completion and Mamba-Transformer Hybrid Encoding
 [NO] 53/181 | A Virtual Standardized Patient System for Clinical Interview Training: A Human–Computer Interaction Design Study Using Multimodal AI Agents
 [NO] 54/181 | Lightweight FPN-Enhanced MobileNetV3 Method for Intelligent Diagnosis of Oral Submucous Fibrosis
-[NO] 55/181 | Recurrent Neural Network (RNN) and Multi-Criteria Decision Analysis for Customer Satisfaction Optimization in Mobile Banking Services of Commercial Banks in the Philippines
-[NO] 56/181 | A Study on the Mechanisms by Which Characteristics of Short-Form Video Health Education Content Influence Nutritional Knowledge Translation and User Behavior Prediction
-[NO] 57/181 | Ankle Torque Modeling Based on BP Neural Network
+[NO] 55/181 | A Study on the Mechanisms by Which Characteristics of Short-Form Video Health Education Content Influence Nutritional Knowledge Translation and User Behavior Prediction
+[NO] 56/181 | Ankle Torque Modeling Based on BP Neural Network
+[NO] 57/181 | Recurrent Neural Network (RNN) and Multi-Criteria Decision Analysis for Customer Satisfaction Optimization in Mobile Banking Services of Commercial Banks in the Philippines
 [NO] 58/181 | An Improved Graph Neural Network and Dynamic Modeling Framework for Anti-Tumor Mechanism Analysis of Atractylodin
 [NO] 59/181 | An Evidence-Traceable Pemphigus Severity Assessment Framework Using Dermatology Foundation Models
 [NO] 60/181 | Interferometric Radar Monitoring for Wind Turbine Blade
 [YES] 61/181 | Parameter-Efficient Fine-Tuning for Functional RTL Debugging with Large Language Models
 [YES] 62/181 | SKG4SCRepair:Skill Knowledge Graph-Guided Multi-Agent Repair for Smart Contract Vulnerabilities
 [NO] 63/181 | An Interpretable Method for Road Defect Segmentation
-[NO] 64/181 | Next-3-mer Ranking using Short Contexts in E. coli
-[NO] 65/181 | Optimization of Timing for Non-Invasive Prenatal Testing and a Multifactorial Modeling Approach for Fetal Anomaly Detection
+[NO] 64/181 | Optimization of Timing for Non-Invasive Prenatal Testing and a Multifactorial Modeling Approach for Fetal Anomaly Detection
+[NO] 65/181 | Next-3-mer Ranking using Short Contexts in E. coli
 [NO] 66/181 | Evaluating and Mitigating Transferable Physical Adversarial Attacks in Real-Time Traffic Sign Detection
 [NO] 67/181 | Mining Method for Traditional Chinese Medicine Clinical Diagnosis and Treatment Rules Based on Apriori Association Rule Algorithm
 [NO] 68/181 | Controller Overhead Reduction in Traffic Monitoring for SDN-based Zero Trust Architectures
@@ -267,33 +266,33 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [NO] 78/181 | Segmentation Granularity in Low-Resource Symbolic Music Generation: A Jiangnan Music Case Study
 [NO] 79/181 | CS-FXGBoost: Cost-Sensitive Focal Gradient Boosting for Rare-Event Classification under Extreme Class Imbalance
 [NO] 80/181 | Early Diagnosis Prediction for People with Cardiovascular Conditions using Machine Learning Methods
-[NO] 81/181 | Proceedings of the 14th International Conference on Computer and Communications Management
-[NO] 82/181 | A Machine Learning-Based Framework for PM2.5 Prediction Using Multi Pollutant, Meteorological, and Temporal Features: A Case Study of Khon Kaen University, THAILAND
-[NO] 83/181 | Paper Title: Smart Math Companion: A Generative AI-Powered Personalized Learning System for After-School Mathematics Education
-[NO] 84/181 | A Medical-Family-Childcare Smart Care Model for Infant and Toddler Health Monitoring Driven by Digital Intelligence Scenarios
+[NO] 81/181 | A Medical-Family-Childcare Smart Care Model for Infant and Toddler Health Monitoring Driven by Digital Intelligence Scenarios
+[NO] 82/181 | Proceedings of the 14th International Conference on Computer and Communications Management
+[NO] 83/181 | A Machine Learning-Based Framework for PM2.5 Prediction Using Multi Pollutant, Meteorological, and Temporal Features: A Case Study of Khon Kaen University, THAILAND
+[NO] 84/181 | Paper Title: Smart Math Companion: A Generative AI-Powered Personalized Learning System for After-School Mathematics Education
 [NO] 85/181 | Physics-Informed Digital Twin Framework for Adaptive Irrigation Control: Integrating Transformer-Based Hydrology Modeling with Reinforcement Learning and Model Predictive Control Strategies
 [NO] 86/181 | CAUSEWAY: An End-to-End Causal Machine Learning and Multi-Objective Optimisation Framework for Environmental Health Policy
 [NO] 87/181 | Work Place Safety: Investigating and Improving Health and Safety at Construction Sites With Image Recognition Using Deep Learning
-[NO] 88/181 | Deep Learning-Based Intelligent Auxiliary Staging Diagnosis and Clinical Deployment of Periodontitis on Panoramic Radiographs
-[NO] 89/181 | Dynamics and Hopf Bifurcation of a Delayed SIR Model for COVID-19 with LSTM-Based Parameter Estimation
-[NO] 90/181 | A Bibliometric Analysis of Research on Digital Health Literacy Among Older Adults: Based on the Web of Science Core Collection Database
-[NO] 91/181 | TabPFN-Driven siRNA Activity Prediction: A Multi-Feature Benchmark and Interpretability Study for Efficient siRNA Design
+[NO] 88/181 | A Bibliometric Analysis of Research on Digital Health Literacy Among Older Adults: Based on the Web of Science Core Collection Database
+[NO] 89/181 | TabPFN-Driven siRNA Activity Prediction: A Multi-Feature Benchmark and Interpretability Study for Efficient siRNA Design
+[NO] 90/181 | Deep Learning-Based Intelligent Auxiliary Staging Diagnosis and Clinical Deployment of Periodontitis on Panoramic Radiographs
+[NO] 91/181 | Dynamics and Hopf Bifurcation of a Delayed SIR Model for COVID-19 with LSTM-Based Parameter Estimation
 [YES] 92/181 | AI-Powered Vulnerability Detection and Remediation for Solana Smart Contracts
 [NO] 93/181 | Vaccination Coupled Competitive Information Diffusion and Higher Order Epidemic Dynamics on Multiplex Networks
 [NO] 94/181 | A Preliminary Study on Dual-Dimensional Mental Health Support with Informal Supporter Empowerment
-[NO] 95/181 | Can Small Models Generate High-Quality Data Visualizations Through Multi-Agent Iterative Refinement?
-[NO] 96/181 | Public Data-Free Data Collaboration Analysis via Prototype Inverse Projection Anchors
-[NO] 97/181 | Low Latency Communication method with ECN in combination of TCP/CUBIC over QUIC/BBR Tunneling Environment
-[NO] 98/181 | Investigating the Impact of Class Imbalance and Feature Set Size on Machine Learning Model Stability in Low-Prevalence Real-World Health Data
+[NO] 95/181 | Investigating the Impact of Class Imbalance and Feature Set Size on Machine Learning Model Stability in Low-Prevalence Real-World Health Data
+[NO] 96/181 | Can Small Models Generate High-Quality Data Visualizations Through Multi-Agent Iterative Refinement?
+[NO] 97/181 | Public Data-Free Data Collaboration Analysis via Prototype Inverse Projection Anchors
+[NO] 98/181 | Low Latency Communication method with ECN in combination of TCP/CUBIC over QUIC/BBR Tunneling Environment
 [NO] 99/181 | Architecture Matters More Than Modalities: An Empirical Study of Multi-Modal Graph Neural Networks for Gene Function Prediction
 [NO] 100/181 | Development and Practical Research of a Smart Teaching System for Medical Laboratory Science Empowered by Big Data and Artificial Intelligence
-[NO] 101/181 | Deep Transfer Learning for Cervical Transformation Zone Classification: A ResNet18-Based Approach with Data Deduplication and Augmentation Strategies
+[NO] 101/181 | Quantum Machine Learning-Based Efficient Channel Estimation for MISO Systems
 [NO] 102/181 | NSentiV: News Sentiment Visualization Application for Stock Market using Classification Algorithms
-[NO] 103/181 | Quantum Machine Learning-Based Efficient Channel Estimation for MISO Systems
-[NO] 104/181 | A Real-time Static Yoga Pose Assessment using Multi-Feature Weighted Cosine Similarity on NVIDIA Jetson Nano
-[NO] 105/181 | F-PoT: An Algorithm-Hardware Co-Design Framework for Ultra-Low-Bit Power-of-Two Transformer Quantization on Edge Devices
-[NO] 106/181 | Deep Cascading Threshold: An Interpretable Neural Network Approach to Contextual Linear Regression
-[NO] 107/181 | Deep Learning-Based Automatic Analysis and 3D Reconstruction of CT Images for the Frontal Process of the Maxilla
+[NO] 103/181 | Deep Transfer Learning for Cervical Transformation Zone Classification: A ResNet18-Based Approach with Data Deduplication and Augmentation Strategies
+[NO] 104/181 | F-PoT: An Algorithm-Hardware Co-Design Framework for Ultra-Low-Bit Power-of-Two Transformer Quantization on Edge Devices
+[NO] 105/181 | Deep Cascading Threshold: An Interpretable Neural Network Approach to Contextual Linear Regression
+[NO] 106/181 | Deep Learning-Based Automatic Analysis and 3D Reconstruction of CT Images for the Frontal Process of the Maxilla
+[NO] 107/181 | A Real-time Static Yoga Pose Assessment using Multi-Feature Weighted Cosine Similarity on NVIDIA Jetson Nano
 [NO] 108/181 | Transformer-Based Multimodal Time-Series Analysis for Stroke Rehabilitation: Bridging Behavioral Recovery and Neuroplasticity via Cross-Modal Self-Attention
 [NO] 109/181 | A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation
 [NO] 110/181 | Recursive Maximum Mixture Correntropy-based Evolving Fuzzy System Against Non Gaussian Noise
@@ -301,32 +300,32 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [NO] 112/181 | Design of a Generative Artificial Intelligence-Enabled Smart Learning Support Platform for Higher Vocational Nursing Students
 [NO] 113/181 | A Model for Identifying Traditional Chinese Medicine Syndromes in Liver Cancer Based on Federated Learning
 [NO] 114/181 | Multi-Scale Cross-Attention Fusion Model for Parkinson's Disease Voice Detection
-[NO] 115/181 | Mechanism Design, Kinematic Modeling, and Trajectory Simulation of an Upper-Limb Rehabilitation Exoskeleton Robot
-[NO] 116/181 | Mutational Thermodynamic Stability of Lysozyme-Dominant Biosensor Enzymes: Insights from ThermoMutDB for Robust Biomedical Sensing Applications
-[NO] 117/181 | RESEETA: Integrating Generative AI and RAG-Based Verification for Handwritten Prescription Interpretation and Medication Adherence in the Philippines
-[NO] 118/181 | Design and Implementation of an Ergonomic IoMT EEG Sensor for Healthcare as a Service in Dolphin-Assisted Therapy
-[NO] 119/181 | Parameter-Efficient QCNN-Based Signal Detector for GEO Satellite SISO Communications
+[NO] 115/181 | RESEETA: Integrating Generative AI and RAG-Based Verification for Handwritten Prescription Interpretation and Medication Adherence in the Philippines
+[NO] 116/181 | Design and Implementation of an Ergonomic IoMT EEG Sensor for Healthcare as a Service in Dolphin-Assisted Therapy
+[NO] 117/181 | Parameter-Efficient QCNN-Based Signal Detector for GEO Satellite SISO Communications
+[NO] 118/181 | Mechanism Design, Kinematic Modeling, and Trajectory Simulation of an Upper-Limb Rehabilitation Exoskeleton Robot
+[NO] 119/181 | Mutational Thermodynamic Stability of Lysozyme-Dominant Biosensor Enzymes: Insights from ThermoMutDB for Robust Biomedical Sensing Applications
 [NO] 120/181 | A Chunk-Weighted, Structure-Aware Approach to Information Retrieval Based on Non-Agentic AI
 [NO] 121/181 | Multi-scale Attention Block for Precision-Recall Decoupling in Femoral Neck Fracture Detection
 [NO] 122/181 | The Mediating Role of Quality Attenuation in the Association Between Heavy Metal Composite Pollution and Health Risk in Herbal Medicines: A SEM Approach
-[NO] 123/181 | A Fine-Grained Contact Representation Based Dexterous Hand Grasping Method
-[NO] 124/181 | NeuroGate-FA: A Deep Learning Model for Pathogenicity Prediction of Missense Variants in Neurodegenerative Diseases
-[NO] 125/181 | Development and Validation of an Immune–Microbiome Integrated Prognostic Model for Lung Adenocarcinoma
+[NO] 123/181 | NeuroGate-FA: A Deep Learning Model for Pathogenicity Prediction of Missense Variants in Neurodegenerative Diseases
+[NO] 124/181 | Development and Validation of an Immune–Microbiome Integrated Prognostic Model for Lung Adenocarcinoma
+[NO] 125/181 | A Fine-Grained Contact Representation Based Dexterous Hand Grasping Method
 [NO] 126/181 | A Low-Cost Filipino Sign Language Translator Using ESP32-CAM and Edge Machine Learning
 [NO] 127/181 | Federated Learning Infrastructure for Privacy-Preserving Healthcare IoMT: Addressing Cybersecurity, Economic, and Regulatory Challenges in Multi-Institutional AI Deployment
 [NO] 128/181 | Application of a Multi-source Health Data Fusion-based Smart Healthcare Platform in Traditional Chinese Medicine Intervention for Insomnia Accompanied by Anxiety and Depressive Symptoms
 [NO] 129/181 | From Nomograms to Neural Networks: A Bibliometric Analysis of Malignant Tumor Prediction Models (2017–2026)
 [NO] 130/181 | Exploring Trade-offs Between Foundation Models and Vision Models for Image-Based Autism Spectrum Disorder Diagnosis
-[NO] 131/181 | Pulse Signal Feature-Point Extraction Algorithm and Multi-Physiological-Parameter Calculation for Quantitative Cardiovascular Status Assessment
-[NO] 132/181 | Ranma: An Agentic Framework for Verifying Security Requirements of Enterprise Software
-[NO] 133/181 | Proposal and Implementation of an Industrial Equipment Anomaly Detection Method on Edge Devices Using Gradient Boosting Decision Trees
-[NO] 134/181 | Counterfactual Estimation of PM2.5 Reduction from Shifting Agricultural Biomass Burning Season: A Machine Learning Approach for Bangkok, Thailand
-[NO] 135/181 | Data Concatenation for Multi-Task Learning with Closed-Form Linear Heads
-[NO] 136/181 | Auditing Cardiology Question Answering with OPM-Based Reasoning Paths
-[NO] 137/181 | An Immersive VR System Architecture Combining Generative AI and Interaction: Design and Implementation of Dynamic Training Scene Generation
-[NO] 138/181 | A Novel EEG-Based Machine Learning Framework for Diagnosing ADHD, Specific Learning Disorder, and Typical Development
-[NO] 139/181 | A Dynamic Prediction Method for Infectious Disease Transmission Based on Spatiotemporal Graph Convolutional Networks
-[NO] 140/181 | An AI-Driven Multi-Source Biomedical Data Fusion Framework for Therapeutic Target Prediction of Pyrola Flavonoids in Ulcerative Colitis
+[NO] 131/181 | Counterfactual Estimation of PM2.5 Reduction from Shifting Agricultural Biomass Burning Season: A Machine Learning Approach for Bangkok, Thailand
+[NO] 132/181 | Data Concatenation for Multi-Task Learning with Closed-Form Linear Heads
+[NO] 133/181 | Auditing Cardiology Question Answering with OPM-Based Reasoning Paths
+[NO] 134/181 | An Immersive VR System Architecture Combining Generative AI and Interaction: Design and Implementation of Dynamic Training Scene Generation
+[NO] 135/181 | Ranma: An Agentic Framework for Verifying Security Requirements of Enterprise Software
+[NO] 136/181 | Proposal and Implementation of an Industrial Equipment Anomaly Detection Method on Edge Devices Using Gradient Boosting Decision Trees
+[NO] 137/181 | Pulse Signal Feature-Point Extraction Algorithm and Multi-Physiological-Parameter Calculation for Quantitative Cardiovascular Status Assessment
+[NO] 138/181 | A Dynamic Prediction Method for Infectious Disease Transmission Based on Spatiotemporal Graph Convolutional Networks
+[NO] 139/181 | An AI-Driven Multi-Source Biomedical Data Fusion Framework for Therapeutic Target Prediction of Pyrola Flavonoids in Ulcerative Colitis
+[NO] 140/181 | A Novel EEG-Based Machine Learning Framework for Diagnosing ADHD, Specific Learning Disorder, and Typical Development
 [NO] 141/181 | From Raster to Hilbert: Improving Image Understanding for Down Syndrome Detection Through Spatial Locality Preservation in Deep Learning
 [NO] 142/181 | A Conceptual Framework for AI-Agent-Based Care-Support Reporting from IoT Sensor Data for Early Care Support
 [NO] 143/181 | Two-Stage Tree-Based Detection of Active Pilot Spoofing Attacks in Scalable Cell-Free Massive MIMO
@@ -335,16 +334,16 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [NO] 146/181 | Association Between Non-Lipid Metabolic Burden and the Atherogenic Index of Plasma in Patients with Bipolar Disorder: A Causal Mediation Analysis Revealing Sex-Divergent Mechanisms
 [NO] 147/181 | A Multimodal Behavior-Aware CNN-LSTM Model for Personalized VR Cognitive Rehabilitation in Dementia
 [NO] 148/181 | A MedSAM-based Attribute-prompting Fine-tuning Framework for Skin Lesion Segmentation
-[NO] 149/181 | Edge-Device Latency with Long Contexts: An Empirical Analysis of Sequence-Length Effects in Deployed LLMs
-[NO] 150/181 | Causal Counterfactual Framework for Auditing Intersectional Bias in VLM Hiring Decisions
-[NO] 151/181 | Deep Learning-Based Virtual Screening and Molecular Dynamics Studies of JAK2/FLT3 Dual-Target Inhibitors Derived from Traditional Chinese Medicine
-[NO] 152/181 | DCRA: Lightweight Downstream High-Error Risk Estimation for 3D Human Pose Lifting
-[NO] 153/181 | Intelligent Prediction of the Protective Effects of Fer-1@liposome on the Choroid Plexus by Integrating Drug-Release/Particle-Size Stability Time Series with a Mechanism-Informed Prior Graph
-[NO] 154/181 | Topology-Aware Automatic Tracking of Target Drainage Bronchi for Bronchoscopic Lung Volume Reduction Navigation in Giant Pulmonary Bullae
-[NO] 155/181 | Toward Trustworthy Clinical AI: A Lesion-Aware Deep Learning Framework for Skin Cancer Screening
-[NO] 156/181 | Making Saliency Comparable in Multi-Site MRI with Two-Stage Gating
-[NO] 157/181 | Design and Analysis of SOAP-Based Communication Frameworks for IoT-Driven Solar Photovoltaic Monitoring
-[NO] 158/181 | Enhancing Technical Knowledge Retrieval Through Hybrid Retrieval-Augmented Generation
+[NO] 149/181 | Deep Learning-Based Virtual Screening and Molecular Dynamics Studies of JAK2/FLT3 Dual-Target Inhibitors Derived from Traditional Chinese Medicine
+[NO] 150/181 | Edge-Device Latency with Long Contexts: An Empirical Analysis of Sequence-Length Effects in Deployed LLMs
+[NO] 151/181 | Causal Counterfactual Framework for Auditing Intersectional Bias in VLM Hiring Decisions
+[NO] 152/181 | Topology-Aware Automatic Tracking of Target Drainage Bronchi for Bronchoscopic Lung Volume Reduction Navigation in Giant Pulmonary Bullae
+[NO] 153/181 | DCRA: Lightweight Downstream High-Error Risk Estimation for 3D Human Pose Lifting
+[NO] 154/181 | Intelligent Prediction of the Protective Effects of Fer-1@liposome on the Choroid Plexus by Integrating Drug-Release/Particle-Size Stability Time Series with a Mechanism-Informed Prior Graph
+[NO] 155/181 | Enhancing Technical Knowledge Retrieval Through Hybrid Retrieval-Augmented Generation
+[NO] 156/181 | Toward Trustworthy Clinical AI: A Lesion-Aware Deep Learning Framework for Skin Cancer Screening
+[NO] 157/181 | Making Saliency Comparable in Multi-Site MRI with Two-Stage Gating
+[NO] 158/181 | Design and Analysis of SOAP-Based Communication Frameworks for IoT-Driven Solar Photovoltaic Monitoring
 [NO] 159/181 | A Lightweight Convolutional Neural Network Based On The Atmospheric Scattering Model For Real-Time Video Dehazing
 [NO] 160/181 | A method for optimizing the collaborative paths of unmanned aerial vehicles and vehicles based on the GA-ACO hybrid algorithm
 [NO] 161/181 | Semantic Fault Hydration with Slot-Sleepy DAG Consensus: A Design Proposal for Financial Microservice Resilience
@@ -370,4 +369,4 @@ arXiv 请求失败: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max 
 [NO] 181/181 | Improving Caption Generation for Historical Archival Images Using Image Enhancement, Deep Colorization and Vision-Language Model
 筛选完成：共 181 篇；Yes = 4 篇；已保存到 papers/select_paper2026-10-24.json。
 邮件发送成功！
-[2026-10-25 00:15:45] 任务执行成功！
+[2026-10-26 00:04:42] 任务执行成功！
