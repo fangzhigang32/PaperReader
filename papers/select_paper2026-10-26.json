@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-10-26",
+    "title": "Leveraging Raw and Abstracted Source Code Representations for Lightweight Software Vulnerability Detection with Dual-Channel Attention BiLSTM",
+    "authors": "Huwaida Rahman Yafie, Adhitya Nugraha, Ardytha Luthfiarta, Fahri Firdausillah, Aliffian Ilham Febriyana, Eric Satria Pratama",
+    "publish": "2026 International Seminar on Application for Technology of Information and Communication (iSemantic)",
+    "url": "https://doi.org/10.1109/isemantic71495.2026.11742859",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "利用原始和抽象源代码表示进行轻量级软件漏洞检测的双通道注意力双向LSTM",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "CodeEnhancer Model Comparison: Evaluating Security-Aware Code Generation Across Open-Source LLMs and Prompt Engineering Strategies",
+    "authors": "Ali Ekin Özçetin, Ali Sezer Uysal, Egemen Kaçıkan, Aytuğ Onan",
+    "publish": "2026 10th International Artificial Intelligence and Data Processing Symposium (IDAP)",
+    "url": "https://doi.org/10.1109/idap71869.2026.11728109",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CodeEnhancer模型比较：评估开源大语言模型和提示工程策略中的安全感知代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Hierarchical Multi-Agent Systems for Automated Vulnerability Assessment: A Comparative Study of Agentic Architecture in Large Language Model Driven Penetration Testing and Multi-Tool Scanning",
+    "authors": "Sumathy G, Aagam Chhajer, Aman Singhal, Arpit Kumar",
+    "publish": "2026 4th International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)",
+    "url": "https://doi.org/10.1109/icoici69824.2026.11723493",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于自动化漏洞评估的分层多智能体系统：大型语言模型驱动的渗透测试和多工具扫描中智能体架构的比较研究",
+    "abstract_zh": "None"
+  }
+]
