@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-10-27",
+    "title": "MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models",
+    "authors": "Hang Yuan, Lei Yu, Zhirong Huang, Jingyuan Zhang, Junyi Lu, Shiqi Cheng, Li Yang, Fengjun Zhang, Jiajia Ma, Chun Zuo",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3859369",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "MOS：通过大语言模型的专家混合调优实现有效的智能合约漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Design of LLM-based multi-agent systems for automatic code generation: a grammar-based evolutionary approach",
+    "authors": "Eneko Zabaleta, Roberto Santana, Jose A. Lozano",
+    "publish": "2026 IEEE Congress on Evolutionary Computation (CEC)",
+    "url": "https://doi.org/10.1109/cec69861.2026.11727322",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型的多智能体系统自动代码生成设计：一种基于语法的进化方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "MUCD: Multi-Source Uncertainty-Aware Contrastive Decoding for Code Generation",
+    "authors": "Zhaoyu Wei, Zhi Han, Tian Sun, Gefan Wang, Junkui Zhang",
+    "publish": "2026 IEEE 8th International Conference on Artificial Intelligence, Computer Science, and Information Processing (AICSIP)",
+    "url": "https://doi.org/10.1109/aicsip69702.2026.11744009",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "MUCD：面向代码生成的多源不确定性感知对比解码",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Teaching Diagnosis and Optimization for Integrated-Circuit Laboratory Instruction Based on EDA Platform Operation Log Computational Mining",
+    "authors": "Chuandong Chen, Wei Hu",
+    "publish": "Proceedings of the 3rd International Conference on Intelligent Education and Computer Technology",
+    "url": "https://doi.org/10.1145/3845354.3845392",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于EDA平台操作日志计算挖掘的集成电路实验室教学诊断与优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Output Variation in Practice: A Naturalistic Study of LLM Code Generation",
+    "authors": "Hussaini Mamman, Abdullateef Oluwagbemiga Balogun, Kamaluddeen Usman Danyaro, Aliyu Garba, Saidu Yahaya, Shamsuddeen Adamu",
+    "publish": "2026 International Conference on Statistical Learning, Data Science &amp; Generative AI (ICSL-DSGA)",
+    "url": "https://doi.org/10.1109/icsl-dsga70378.2026.11736599",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "实践中的输出变化：对大语言模型代码生成的自然主义研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Hierarchical Multi-Agent Foundation Model Framework for Autonomous RTL-to-GDSII Design of Chiplet-Based RISC-V AI Accelerators in 3nm Technology",
+    "authors": "Adinath M, Husna Sarirah Husin, Norhidayah Hamzah, Shamsul Fakhar Bin Abd Gani, Afizan Azman, Amar Faiz Bin Zainal Abidin",
+    "publish": "2026 International Conference on Statistical Learning, Data Science &amp; Generative AI (ICSL-DSGA)",
+    "url": "https://doi.org/10.1109/icsl-dsga70378.2026.11736786",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于Chiplet的RISC-V AI加速器在3nm技术下的自主RTL-to-GDSII设计的分层多智能体基础模型框架",
+    "abstract_zh": "None"
+  }
+]
