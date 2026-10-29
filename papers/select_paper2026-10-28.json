@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-10-28",
+    "title": "Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation",
+    "authors": "Jaemin Hong, Hyunhee Kang, Sukyoung Ryu",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3860636",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "用代数数据类型替换输出参数进行C到Rust的翻译",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "HaVen-Agent: Enhancing Hallucination-Mitigated Verilog Code Generation Aligned with HDL Engineers through Code Repair and Multi-Agent Orchestration",
+    "authors": "Yiyao Yang, Fu Teng, Pengju Liu, Mengnan Qi, Cheng Zou, Shuo Yang, Ruitong An, Chen Nie, Xuhong Zhang, zhezhi he",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3856825",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "HaVen-Agent：通过代码修复和多智能体编排，增强与硬件描述语言工程师对齐的减轻幻觉的Verilog代码生成",
+    "abstract_zh": "None"
+  }
+]
