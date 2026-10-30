@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-10-30",
+    "title": "<scp>Spell</scp>\n                    : Synthesis of Programmatic Edits Using LLMs",
+    "authors": "Daniel Ramos, Catarina Gamboa, Inês Lynce, Vasco Manquinho, Ruben Martins, Claire Le Goues",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3857915",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "<scp>咒语</scp>\n：使用大型语言模型进行程序化编辑的合成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-29",
+    "title": ": Finding Exploitable Taint-Style Vulnerabilities in IoT Firmware_supp1-3742456.pdf",
+    "authors": "Chao Zhang",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/tdsc.2026.3742456/mm1",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "在物联网固件中可利用的污点式漏洞_supp1-3742456.pdf",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets",
+    "authors": "Chi-Chien Tsai, Chia-Mu Yu, Ying-Dar Lin, Yu-Sung Wu, Wei-Bin Lee",
+    "publish": "IEEE Transactions on Information Forensics and Security",
+    "url": "https://doi.org/10.1109/tifs.2026.3746878",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "超越自然语言困惑度：在代码生成数据集中检测死代码投毒",
+    "abstract_zh": "None"
+  }
+]
