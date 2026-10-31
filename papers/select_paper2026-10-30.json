@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-10-30",
+    "title": "LLM-Driven Identification of Embedded Credentials in Code Repositories: A Comprehensive Survey",
+    "authors": "Yashshri Deshmukh, Madhura Phadke",
+    "publish": "2026 2nd International Conference on Information, Implementation and Innovation in Technology (I2ITCON)",
+    "url": "https://doi.org/10.1109/i2itcon69735.2026.11747312",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大型语言模型的代码仓库嵌入式凭证识别：全面综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Risk-Aware Autonomous Software Repair using AI-Driven Multi-Stage Patch Verification",
+    "authors": "Srikanth Palutla",
+    "publish": "2026 10th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)",
+    "url": "https://doi.org/10.1109/i-smac70384.2026.11747527",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于人工智能驱动多阶段补丁验证的风险感知自主软件修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "An LLM-Assisted Fuzzing Framework for Vehicle ECU Vulnerability Discovery",
+    "authors": "Quanrui Huo, Yuqiao Ning, Shiyu Mu, Dongqing Sun",
+    "publish": "2026 International Conference on Electronic Engineering, Communications and Computer Technology (EECCT)",
+    "url": "https://doi.org/10.1109/eecct71142.2026.11746521",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种用于车辆ECU漏洞发现的LLM辅助模糊测试框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "From Compliance to Gatekeeping: A Requirement-Conflict Detection Layer for Iterative LLM-Assisted Development",
+    "authors": "Liujie Yu",
+    "publish": "2026 2nd International Conference on Artificial Intelligence and Computational Engineering (AICE)",
+    "url": "https://doi.org/10.1109/aice71085.2026.11736950",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "从合规到把关：面向迭代式大语言模型辅助开发的需求冲突检测层",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Gradient-Guided Hierarchical Lagrangian Optimization for Timing ECO",
+    "authors": "Yanfang Zhang, Jiajie Xu, Hao Yan",
+    "publish": "2026 International Symposium of Electronics Design Automation (ISEDA)",
+    "url": "https://doi.org/10.1109/iseda70083.2026.11751472",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于梯度的分层拉格朗日优化用于时序工程变更(Gradient-Guided Hierarchical Lagrangian Optimization for Timing ECO)",
+    "abstract_zh": "None"
+  }
+]
