@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-10-31",
+    "title": "NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation",
+    "authors": "Ningzhi Tang, David Meininger, Gelei Xu, Yiyu Shi, Yu Huang, Collin McMillan, Toby Jia-Jun Li",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830631",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "NaturalEdit：通过直接与自适应自然语言表示交互进行代码修改",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "EvoMaestro: Toward Interpretable and Steerable LLM-Driven Program Evolution",
+    "authors": "Feng Liang, Sizhe Cheng, Yikai Li, Ruijie He, Xiaolin Wen, Yong Wang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830626",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "EvoMaestro：迈向可解释和可引导的LLM驱动的程序进化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation",
+    "authors": "Jiin Choi, Kyung Hoon Hyun",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830724",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CogChat：基于异构图转换器的知识图谱增强对话式人工智能，用于设计生成中的认知基础",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Zoro: Active Controls to Support Rule Following in Vibe Coding",
+    "authors": "Jenny Ma, Sitong Wang, Joshua H Kung, Lydia B Chilton",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830629",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "佐罗：在氛围编码中支持遵循规则的活动控制",
+    "abstract_zh": "None"
+  }
+]

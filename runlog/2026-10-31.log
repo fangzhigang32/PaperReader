@@ -1,0 +1,530 @@
+[2026-11-01 00:43:10] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-10-31
+正在获取论文...
+[ACM] 2026-10-31 | Co-Annotator: Expert-Distilled ViT and VLM for Visual and Documentation Guidance in Age-Related Macular Degeneration
+[ACM] 2026-10-31 | HAPTCHA: Eyes-Free Haptic CAPTCHA in Mobile Environments: Design Principle, Security Evaluation, and User Experience
+[ACM] 2026-10-31 | StitchSwitch: Programmable Surface Deformation and Bistability in Embroidered Textiles
+[ACM] 2026-10-31 | DocuDebug: A Graph-Supported Interactive Editor for Verifying and Maintaining Internal Logical Consistency
+[ACM] 2026-10-31 | ShiftLens: Mechanically Actuated Optical Surfaces for Switchable Appearances on 3D Objects
+[ACM] 2026-10-31 | Compass: Continuously Aligning Social Media Feeds via In-Situ Reflections
+[ACM] 2026-10-31 | BridgeScope: An Interactive System for Retrieving, Diagnosing, and Steering Cross-Modal SAE Features in Multimodal Large Models
+[ACM] 2026-10-31 | FontCopilot: A Designer-in-the-Loop System for Chinese Vector Font Design
+[ACM] 2026-10-31 | TailorCoPilot: Enabling Agentic Pattern Making with Version-Controlled State Tracking
+[ACM] 2026-10-31 | Towards Quantum Range Query for Spatial-Temporal-Semantic Trajectory Data
+[ACM] 2026-10-31 | The Hidden Cost of Quantum Spatial Computing: From Oracle Complexity to Circuit Complexity
+[ACM] 2026-10-31 | “Live in the Editor”: Low-Tech In-Situ Feedback for Plain-Text Live Programming
+[ACM] 2026-10-31 | Multiverse Architecture for Desired Realities
+[ACM] 2026-10-31 | Penquiry: A Pen-based Interactive In-situ Q&amp;A System Leveraging LLMs
+[ACM] 2026-10-31 | OmniTex: Omnidirectional Haptic Rendering of Surface Texture on VR Handheld Controller using 3-DOF Motion Mechanism
+[ACM] 2026-10-31 | SnapAxis: Axis Based Interaction for Object Manipulation in Mixed Reality
+[ACM] 2026-10-31 | LitPivot: Developing Well-Situated Research Ideas Through Dynamic Contextualization and Critique within the Literature Landscape
+[ACM] 2026-10-31 | SplatXR: A Toolkit for Multi-Layered Extended Reality via On-Headset 3D Gaussian Splatting
+[ACM] 2026-10-31 | Editrail: Understanding AI Usage by Visualizing Student-AI Interaction in Code
+[ACM] 2026-10-31 | CineHaptic: Context-Aware Real-Time Audiovisual-to-Haptic Rendering System for In-Vehicle 4D Cinematic Experiences
+[ACM] 2026-10-31 | SHRIMP: Iterative Refinement of Robot Task Plans
+[ACM] 2026-10-31 | Reference-Based Manipulation: A Framework and Pipeline for Multimodal Spatial Reasoning
+[ACM] 2026-10-31 | CLOAK: A Privacy-Preserving Assistant for Online Social Media Users
+[ACM] 2026-10-31 | Thin-Film Actuator Embedded Haptic Glove Supporting Thumb Kinematics for Displaying Volumetric Shape and Contact Indentation
+[ACM] 2026-10-31 | Granular I/O: Enabling Bi-directional Malleable Interaction for Actuated TUIs with Magnetic Particles
+[ACM] 2026-10-31 | Armonii: Motion Design for Wearable Supernumerary Robotic Arms Toward Comfort and Embodiment
+[ACM] 2026-10-31 | Declarative Dragging
+[ACM] 2026-10-31 | Attune: A Self-Annotation Tool for Understanding Robot Operator Attention Profiles
+[ACM] 2026-10-31 | SnowEcho: End-to-End Blind Skiing Assistance System Using Spatial Audio for Simulated Dynamic Slope
+[ACM] 2026-10-31 | TeethMark: Enabling Tongue-Tooth Interaction with Capacitive Sensing and Electrotactile Feedback using an Intraoral Wearable
+[ACM] 2026-10-31 | PATHWiSE: Empowering Teachers with a Generative AI Authoring System for Personalized Robot-Assisted Learning
+[ACM] 2026-10-31 | AtmoSteer: Personalized Scene Control with Reusable Atmospheric Recipes
+[ACM] 2026-10-31 | Programming by Teaching: Authoring Agent Workflows through Voice Conversation
+[ACM] 2026-10-31 | Hear-to-Hear: Uncertainty-Aware, Head-Tracked Interaction for Personalized Spatial Audio
+[ACM] 2026-10-31 | ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality
+[ACM] 2026-10-31 | Ptolemy: A Semantic Map of Exploratory Data Analysis
+[ACM] 2026-10-31 | Training Under Pressure: Designing and Evaluating a Multi-Stressor VR Environment for Public Speaking Training
+[ACM] 2026-10-31 | ASIDE: From Conflict Participants to Co-Observers Through Dyadic Spectator Reflection
+[ACM] 2026-10-31 | Supporting The Many Lives of Personal Data with Rebite: LLM-Powered Goal-Directed Framing in Food Journaling
+[ACM] 2026-10-31 | A Benchmarking Framework for Context-aware XR Interfaces
+[ACM] 2026-10-31 | Programmable Machine-Knitted Sensors for Deformable Interfaces
+[ACM] 2026-10-31 | Camera-Free Object Discovery and Interaction with GazeTags
+[ACM] 2026-10-31 | LightShop: High-Precision Interactive Computational Light Painting
+[ACM] 2026-10-31 | Reperceiving Everyday Sounds with Hidden Texture
+[ACM] 2026-10-31 | AreaCode: Encoding Conductive Tags Via Surface Area Modulation For Inductive Sensing
+[ACM] 2026-10-31 | TalkEase: A Multimodal Personalized Topic Guidance System for Long-distance Couples' Video Calls Driven by LLM
+[ACM] 2026-10-31 | CARVid: Content-Aware Retargeting of Videos with On-Screen Graphics
+[ACM] 2026-10-31 | Data-Oriented Debugging Across Place and Time
+[ACM] 2026-10-31 | PrejSense: Non-intrusive Gaze-Informed Prediction of Implicit Prejudice Against Machine for Proactive Interface Adaptation
+[ACM] 2026-10-31 | The Future of 5DOF Laser Cutting Is Personal
+[ACM] 2026-10-31 | Predicting Tool Extension in VR Interactions Using Gaze Features
+[ACM] 2026-10-31 | PersonaTeaming: Workflow and Interface that Support Persona-Driven Automated Generative AI Red-teaming
+[ACM] 2026-10-31 | GuitarFins: Skillful Input Triggering with a Guitar Pick
+[ACM] 2026-10-31 | PressMic: Multi-Level Press Input on Commodity Devices Using Built-in Microphones
+[ACM] 2026-10-31 | Surpassing Human Wrist Constraints: Dexterity-Enhanced Techniques for Teleoperated Robotic Manipulation
+[ACM] 2026-10-31 | KeepOut: An Embodied Intervention Using The Posture to Reduce Habitual Smartphone Overuse
+[ACM] 2026-10-31 | CoNarrate: Computationally Modeling Information Prematureness and Scaffolding the Co-Construction of Patient Narratives in Asynchronous Telehealth
+[ACM] 2026-10-31 | MetaCanvas: A Toolkit for Prototyping Tessellation-Based Shape-Changing Structures by Cut-and-Configure Authoring
+[ACM] 2026-10-31 | EITWatch: Smartwatch-Integrated Planar Electrical Impedance Tomography for Hand Gesture Recognition
+[ACM] 2026-10-31 | Leadership in Human–Robot Teams: Effects of Proactive Agent Behavior on Group Cohesion
+[ACM] 2026-10-31 | ITO: Real-time Browser Tab Orchestration Through Intent Detection
+[ACM] 2026-10-31 | RampEMS: Onset Shaping for Stroke-Stable Pressure Modulation in Calligraphy
+[ACM] 2026-10-31 | SwapSense: Reusable Vision-Based Contact Force Sensing Across Swappable Passive Haptic Modules
+[ACM] 2026-10-31 | Steerable Chatbots: Exploring Direct Manipulation Interfaces for LLM Personalization via Activation Steering
+[ACM] 2026-10-31 | IntentLint: Supporting Intent Scaffolding and Prompt-time Linting in Human-AI Collaborative Data Analysis
+[ACM] 2026-10-31 | PÅCKER: Making Large Laser-Cut Objects Easy-to-Store and Transport
+[ACM] 2026-10-31 | AgentLens: Adaptive Visual Modalities for Human–Agent Interaction in Mobile GUI Agents
+[ACM] 2026-10-31 | AdaptaFace: Adversarial Assistance for Inclusive Facial Gesture Interaction
+[ACM] 2026-10-31 | TherMosaic: Accelerating Perceived Thermal Transitions Through Spatiotemporal Thermal Feedback
+[ACM] 2026-10-31 | Earmony: Orchestrating Adaptive Auditory Cardio-Respiratory Biofeedback on Commodity Earables
+[ACM] 2026-10-31 | Fold2Unfold: Screen Privacy Protection against Shoulder Surfing using Inter-Screen Reflection on Foldable Smartphones
+[ACM] 2026-10-31 | MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems
+[ACM] 2026-10-31 | Sketch, Edit, Flatten: Bridging the Gap in Fashion Design
+[ACM] 2026-10-31 | SketchMind: Toward Executable Pen-Based Sketching for Constructing Sorting Algorithms
+[ACM] 2026-10-31 | MagToTheFuture: Transforming Passive Objects into Circuit-Free Haptic Devices via Magnetic Fields
+[ACM] 2026-10-31 | Contexty: Capturing and Organizing In-situ Thoughts for Context-Aware AI Support
+[ACM] 2026-10-31 | Generating Personalized Games with Sensing Data to Support Self-Reported Data Collection
+[ACM] 2026-10-31 | Do Simulated Users Steer Like Humans? A Biomechanical Reinforcement Learning Testbed for Systematic Steering Law Evaluation
+[ACM] 2026-10-31 | Gridlock: Plain Text with Guides
+[ACM] 2026-10-31 | Dishplay: Edible Display Utilizing Magnetic Response of Iron in Cereal
+[ACM] 2026-10-31 | TactiPlay: Multi-Granularity Tactical Parsing and Video-Anchored Match Review for Amateur Badminton Players
+[ACM] 2026-10-31 | Precise Duration Control for Video Editing via LLM Scoring and Constrained Optimization
+[ACM] 2026-10-31 | X-Hinges: 3D Printing Self-Sensing Compliant Mechanisms for Continuous and Multi-DOF Motion Sensing
+[ACM] 2026-10-31 | ImageDirector: Expressing Spatial Intent via 3D Direct Manipulation for Generative Image Editing
+[ACM] 2026-10-31 | StateScribe: Towards Accessible Change Awareness Across Real-World Revisits
+[ACM] 2026-10-31 | IRIS: Navigating and Reflecting on Writing Traces Using Intelligent Document Histories
+[ACM] 2026-10-31 | ATOM: Geometry-Aware Microgesture towards Object-Agnostic Tangible Interaction
+[ACM] 2026-10-31 | Treellis: Exposing Editable Assembly Structures for Progressive Human-AI Co-Creation of 3D Models
+[ACM] 2026-10-31 | iRing: Rich Interaction on Smart Ring with Multi-point Capacitive Touch Screen
+[ACM] 2026-10-31 | SiMUSation: An Interactive Visitor Experience Simulation Framework to Support Museum Exhibition Design
+[ACM] 2026-10-31 | TypeRing: Ten-Finger Surface Typing with Dual IMU Rings
+[ACM] 2026-10-31 | SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects
+[ACM] 2026-10-31 | StitchOver: Technical Embroidery on Seamed Fabrics
+[ACM] 2026-10-31 | TangiMap: Context-Aware Generative Function Mapping for Tangible Input Devices
+[ACM] 2026-10-31 | A Text-Native Interface for Generative Video Authoring
+[ACM] 2026-10-31 | Delta: A DSL for Enlivening Typeset Formulas with Interactive Explanations
+[ACM] 2026-10-31 | Be My Ears: Enabling Semantic Alerting for Earphone Wearers with Pheme
+[ACM] 2026-10-31 | Generative Experiences for Digital Mental Health Interventions: Evidence from a Randomized Study
+[ACM] 2026-10-31 | FlexiFab: Laser-Cutting Volumetric Compliant Structures with Tunable-Stiffness
+[ACM] 2026-10-31 | A Layered Strategy for Placement and Routing in Large-Scale Field-Coupled Nanocomputing Circuits
+[ACM] 2026-10-31 | Narrative Keyframing for Generative Creative Writing
+[ACM] 2026-10-31 | User Attention Is All chatLLMs Need: Proactive Intervention Against Attention Drift While Waiting for chatLLMs
+[ACM] 2026-10-31 | Boosting WiFi-based Gesture Recognition via High-affinity and Behaviorally Diverse Data Synthesis
+[ACM] 2026-10-31 | Beyond Dense Sensing: Biomechanically-Guided Hand Pose Reconstruction from Reduced Observations
+[ACM] 2026-10-31 | HALO: Interactive Co-abductive Reasoning in Hypothesis Generation for Scientific Discovery
+[ACM] 2026-10-31 | LandmarkLens: Predicting and Presenting Effective Landmarks for Mixed-Reality Urban Exploration
+[ACM] 2026-10-31 | Spray and Etch: Personal Fabrication of High-Resolution Electroluminescent Displays
+[ACM] 2026-10-31 | Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs
+[ACM] 2026-10-31 | InstructMesh: Selective Refinement of Generative 3D Models for Fabrication
+[ACM] 2026-10-31 | HIDAgent: A Platform-Agnostic Hardware Bridge for Personal Computer Use Agents
+[ACM] 2026-10-31 | Stayin' Aligned Over Time: Toward Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data
+[ACM] 2026-10-31 | Proxy3D: Interactive Spatial Proxies for Multi-View Consistent 3D Concept Design
+[ACM] 2026-10-31 | MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs
+[ACM] 2026-10-31 | OpenGut: An Open-Source Platform for Gut-Computer Interaction Research
+[ACM] 2026-10-31 | Bifur-circuits: Interactive and Modular Metamaterial Building Blocks Via Bifurcated Geometries
+[ACM] 2026-10-31 | Tap2Stop: Pedestrian-Activated Emergency Stop for Autonomous Vehicles
+[ACM] 2026-10-31 | Understanding the Role of AI-Enabled Live Tables in Scholarly Sensemaking
+[ACM] 2026-10-31 | Social.Wiki: A Web Held in Common
+[ACM] 2026-10-31 | Democratizing Extensive Reading by Tailoring Web Content
+[ACM] 2026-10-31 | Spatula: Exploring On-Demand In-Situ Interfaces and Interaction for Attribute Control
+[ACM] 2026-10-31 | TagTutor: Restoring Practice Visibility for Guitar Tutoring in Private Listening Settings
+[ACM] 2026-10-31 | TapTwice: Rich Offline Interfaces Between NFC-Enabled Devices
+[ACM] 2026-10-31 | CapFM: A Foundation Model for Capacitive Touch Sensing
+[ACM] 2026-10-31 | EcoVibWood: Lower Impact Vibration Sensing in Plywood
+[ACM] 2026-10-31 | MorphoChrome: Interactive, Handheld Fabrication of Programmable Structural Color
+[ACM] 2026-10-31 | CaseSense: Mapping the Legal Case Landscape with Multi-Dimensional Visual Exploration
+[ACM] 2026-10-31 | Inertia in Your Hand: Rendering Virtual Tool Dynamics via In-Hand Cutaneous Deformation
+[ACM] 2026-10-31 | UXCascade: Scalable Usability Testing with Simulated User Agents
+[ACM] 2026-10-31 | RemiAssist: A Therapist-Supporting System for Photo-Based Reminiscence Therapy in Dementia Care
+[ACM] 2026-10-31 | Object-Agent Twins (OATs): Expressive Micro-Agent Avatars for Inanimate Everyday Objects
+[ACM] 2026-10-31 | MuTable: Composable and Reusable Table Transformations for In-Situ Data Exploration
+[ACM] 2026-10-31 | HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing
+[ACM] 2026-10-31 | Entanglement-Aware Adaptive Routing for Optimizing Distributed Quantum Computing over Quantum Interconnect Networks
+[ACM] 2026-10-31 | TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education
+[ACM] 2026-10-31 | Language Scent: Exploring Cross-Language Information Navigation
+[ACM] 2026-10-31 | ChronoMantic: A Natural Language Interface for Interactive Time Series Pattern Query
+[ACM] 2026-10-31 | ArtScape: Detecting, Characterizing, and Interactively Exploring Urban Art at Scale Using Vision Language Models
+[ACM] 2026-10-31 | MAIC-UI: Making Interactive Courseware with Generative UI
+[ACM] 2026-10-31 | FleetScape: A Mixed Reality Sandtable for Spatial Supervision and Control of Scalable Drone Fleets
+[ACM] 2026-10-31 | Print &amp; Place: Using a 3D printer for Continuous Assembly of Electronic Devices
+[ACM] 2026-10-31 | Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology
+[ACM] 2026-10-31 | AquaWeave: Weaving Liquid-Activated Morphing Bio-Textiles
+[ACM] 2026-10-31 | Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations
+[ACM] 2026-10-31 | KnitARobo: Industrial Machine Knitting of Electromechanical Textile Interfaces with Liquid Crystal Elastomer Fibers
+[ACM] 2026-10-31 | VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
+[ACM] 2026-10-31 | MemCanvas: A Structured Memory Canvas for Evolving Intent Alignment in LLM Dialogues
+[ACM] 2026-10-31 | From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework
+[ACM] 2026-10-31 | Maru: Information Architecture as a Shared Language for Generating Aligned and Persistent User Interfaces
+[ACM] 2026-10-31 | Interactively Teaching Collaborative Physical Tasks to Generative AI with Narrated Demonstrations
+[ACM] 2026-10-31 | MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics
+[ACM] 2026-10-31 | SilkSense: A Craft-Inspired Fabrication Method for Silk-based Functional Interfaces
+[ACM] 2026-10-31 | MuscleJockey: Motor Initiation via Electrical Muscle Stimulation While Preserving User Control
+[ACM] 2026-10-31 | TransfHAR: Self-Supervised Wrist Representations for On-Demand Activity Recognition
+[ACM] 2026-10-31 | SpeLL: A Generative Framework for Synthesizing 3D Visual Effects from Text Prompts with Large Language Models
+[ACM] 2026-10-31 | Avatar Cloak: Protecting Behavioral Privacy with State-Aware Motion Substitution in Immersive MR Telepresence
+[ACM] 2026-10-31 | TeachUp: Facilitating Early-Stage Teachers to Learn Instructional Strategies from Classroom Videos with Reflective Support
+[ACM] 2026-10-31 | Stund: Activity-Enriched Collaborative Workspaces Mediated by Artificial Intelligence
+[ACM] 2026-10-31 | ElectroPad: Extending Gamepad Haptics for Hand Movements in Video Games with Electrotactile Feedback
+[ACM] 2026-10-31 | NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation
+[ACM] 2026-10-31 | SketchAloud: Combining Time-Aligned Sketch &amp; Speech for Multimodal Specification of 3D Designs
+[ACM] 2026-10-31 | Cardinal Pressure Pulses Rendered by a Wristband Can Elicit Phantom Directional Cues
+[ACM] 2026-10-31 | Generative Proxy: Synthesizing Proxy-Based Interfaces for Real-World Interaction Across AR Glasses
+[ACM] 2026-10-31 | RingIO: An Eyes-Free Smart Ring with Inputs via Touch and Outputs via Touch
+[ACM] 2026-10-31 | InvisIto: Weaving Unobtrusive Infrared Markers for Ubiquitous Textile Interaction
+[ACM] 2026-10-31 | From Words to Widgets for Controllable LLM Generation
+[ACM] 2026-10-31 | EvoMaestro: Toward Interpretable and Steerable LLM-Driven Program Evolution
+[ACM] 2026-10-31 | Graphionale: How Graph Visualizations of LLM Rationales Affect Human Decision Making
+[ACM] 2026-10-31 | While You're Still Busy: Context-Aware Approach Optimization for Proactive Mobile Robots
+[ACM] 2026-10-31 | GazeTune: Facilitating Precise Gaze-Driven Interactions with Cascaded Touch Input
+[ACM] 2026-10-31 | Present Drawing: Exploring Avatar-Mediated Drawing Events with Physical Traces
+[ACM] 2026-10-31 | Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents
+[ACM] 2026-10-31 | Mirror Skin: In Situ Visualization of Robot Touch Intent on Robot Skin
+[ACM] 2026-10-31 | Dramarrator: Object-Based Audio Editing for Audio Drama Production from Books
+[ACM] 2026-10-31 | ProConte
+[ACM] 2026-10-31 | Simulating Word Suggestion Usage in Mobile Typing to Guide Intelligent Text Entry Design
+[ACM] 2026-10-31 | FabDreamer: Exploring the Image-to-Physical Workflow Through AI-Assisted Layered Fabrication
+[ACM] 2026-10-31 | Revibing Code from Papers: Reimplementing HCI Artifacts
+[ACM] 2026-10-31 | Electrotactile Improves Thermal Referral
+[ACM] 2026-10-31 | Micro-Edits: Computational Support for Fine-Scale Edits in Film
+[ACM] 2026-10-31 | Sticki: Personalized Content Moderation Using Image Overlays for Recontextualizing Aversive Videos
+[ACM] 2026-10-31 | MagicPen: Enabling Dynamic Physical Scaffolding through Haptic Feedback for 3D Content Creation in VR with a Variable-length Stylus
+[ACM] 2026-10-31 | MaterialVellum: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints
+[ACM] 2026-10-31 | What If You Could Call Your Future Self? NicoCall as a Personalized Future-Self Video Call for Nicotine Cessation
+[ACM] 2026-10-31 | Body Sublimation: Designing State-Changing Extended Hand for Embodied Out-of-Reach Interaction
+[ACM] 2026-10-31 | WhatIf: Interactive Exploration of Large-Scale LLM Agent Simulations for Policy Reasoning
+[ACM] 2026-10-31 | CapAura: A Proxemic Interactive Infrastructure on Everyday Furniture through Capacitive Architecture Unit
+[ACM] 2026-10-31 | ExtenString: Enhancing String-Based Interaction with Virtual Screens through Remapping
+[ACM] 2026-10-31 | ChatMuse: Supporting In-Person Small-Group Conversation Experience with a Proactive Assistive AI Agent in Mixed Reality
+[ACM] 2026-10-31 | Map2Video: Guiding Real-World-Grounded AI Video Generation
+[ACM] 2026-10-31 | PACEE: Parent-Centered AI Scaffolding for Emotion Education in Early Childhood Conversations
+[ACM] 2026-10-31 | Cellery: Gradual, Composable Structure for Spreadsheets
+[ACM] 2026-10-31 | MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units
+[ACM] 2026-10-31 | DOBI: Dynamic Opportunistic Body Input via Spare Joint Recruitment for Hands-Free XR
+[ACM] 2026-10-31 | Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion
+[ACM] 2026-10-31 | Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Quantum Computing and Quantum-Inspired Technologies for Spatial Data Systems and Applications
+[ACM] 2026-10-31 | The Quantum Geometry® Grand Challenge: A Multiyear Prize and Benchmark Program for Quantum Computing in Geometry, CAD, GIS, and Meshing
+[ACM] 2026-10-31 | Augmenting Human Performance with an XR Agent Learning from Online Behavior and BCI Evidence
+[ACM] 2026-10-31 | Elsewise: Authoring Open-ended Interactive Narrative with Possibility Space Visualization
+[ACM] 2026-10-31 | Co-opting Mobile Device Cellular RF Front Ends for HCI Sensing
+[ACM] 2026-10-31 | SpatialBlend: Relational Reconstruction for Cross-Space Presence in Heterogeneous Spaces
+[ACM] 2026-10-31 | From Scaffolding to Internalization: Enhancing CPR Training with In-Situ Visualization and Kinesthetic Feedback
+[ACM] 2026-10-31 | "What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use
+[ACM] 2026-10-31 | HapTap: Ultrashort, Low Power Pulses for Localized Fingertip Haptics
+[ACM] 2026-10-31 | Prism-UX: Turning Evaluative Divergence into Traceable Design Evidence for LLM-Based Process-Level UX Evaluation
+[ACM] 2026-10-31 | Integrating Visual and Acoustic Modalities for Near-Eye Gaze Tracking
+[ACM] 2026-10-31 | ProtoCall: Preemptive Physical Feedback for Sequential Skill Augmentation
+[ACM] 2026-10-31 | PartInteractor: Intent-Driven Part-Aware 3D Authoring for Continuous Co-Creation in XR
+[ACM] 2026-10-31 | Quantum Machine Learning for Satellite Trajectory Prediction: A 3-Axis Specialized Quantum Regressor
+[ACM] 2026-10-31 | Veriscope: Provenance-Aware Verification of LLM Reasoning Artifacts in Conversational Data Analysis
+[ACM] 2026-10-31 | Print&amp;Fold: Printing and Folding Shape-accurate 3D Models
+[ACM] 2026-10-31 | Remapping Time in Augmented Reality
+[ACM] 2026-10-31 | MoTUI: Personalization of In-Vehicle Tactile Interfaces for People With Vision Impairments and the Blind
+[ACM] 2026-10-31 | Electrotactile Retargeting in Orientation Perception of Teleoperated Tools
+[ACM] 2026-10-31 | From Gaze to Guidance: Interpreting and Adapting to Users’ Cognitive Needs with Multimodal Gaze-Aware AI Assistants
+[ACM] 2026-10-31 | Relative-Motion-Aware Color Presentation with High-Speed Projection
+[ACM] 2026-10-31 | AeroPixels: Repurposing Ubiquitous Displays as Imperceptible Schlieren Light Sources for Airflow Interaction
+[ACM] 2026-10-31 | MolecularCanvas: LLM-assisted Small-Molecule Drug Discovery via Structure-Guided Constraints
+[ACM] 2026-10-31 | 4DOrthosis: Therapist-in-the-Loop Design and Fabrication of Force-Customized Hand Orthoses via 4D Printing
+[ACM] 2026-10-31 | Who's Keeping Score? Interactive Steering of LLM-Powered Scoring with Attune
+[ACM] 2026-10-31 | CinemaWorld: Generative Augmented Reality with LLMs and 3D Scene Generation for Movie Augmentation
+[ACM] 2026-10-31 | RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR
+[ACM] 2026-10-31 | When and Where You Nudge Matters: Multi-Step Interface Interventions Against Address Poisoning in Crypto Wallets
+[ACM] 2026-10-31 | InsightToast: Proactive Information Retrieval &amp; Glanceable Visualization in the Side Channel of Data-Rich Meetings
+[ACM] 2026-10-31 | Collascope: Supporting Serendipitous Asset Exploration for Collage-Based Storytelling
+[ACM] 2026-10-31 | V-Hook: Morphology-Mediated Vibration-Driven Locomotion through 3D-Printed Hook Structures
+[ACM] 2026-10-31 | Sighted by Default: Addressing Implicit Vision Assumptions in Real-Time VLM Assistance for BLV Users
+[ACM] 2026-10-31 | NailBender: Exploring Nail Flexion for Haptic Input and Output
+[ACM] 2026-10-31 | Attribution Gradients: Incrementally Unfolding Citations for Critical Examination of Attributed AI Answers
+[ACM] 2026-10-31 | BlimpMate: A Quiet, Long-Endurance Flying Display for Hands-Free Intelligent Interaction
+[ACM] 2026-10-31 | KnowTap: A Knowledge-Driven Tool for Fine-Grained Tappability Assessment and Design Iteration of Mobile UIs
+[ACM] 2026-10-31 | Neighborhood: Dynamic Spatial Alignment for Traversable Telepresence Across Remote Spaces
+[ACM] 2026-10-31 | Halftoning for 3D Printed Textile Nets
+[ACM] 2026-10-31 | The Rock Can Talk
+[ACM] 2026-10-31 | HueRistic: Optimizing Lighting for Live Video Color Design
+[ACM] 2026-10-31 | Kneadix: A Multi-Process Loom with Dynamic Warp-Weft Role Assignment
+[ACM] 2026-10-31 | EIJaw: Non-Invasive Intraoral User Interface with Electrical Impedance Sensing
+[ACM] 2026-10-31 | IP Protection of HLS-based DSP Designs using Parallel Encoding and Multi-Layer Encoded Transformation
+[ACM] 2026-10-31 | TextBand: Writing by Visualizing and Editing the Sound of Text
+[ACM] 2026-10-31 | TwistForm: Shaping Reconfigurable 3D Surfaces via Pre-programmed Torsional Deformation of Chains
+[ACM] 2026-10-31 | Priors of U: Dynamic Preference Learning for Embodied Interaction
+[ACM] 2026-10-31 | Faster Than Muscle: Executing Action based on Voluntary Nervous Signals
+[ACM] 2026-10-31 | Sonic Stage: Automatically Generating Interactive Spatial Soundscapes to Facilitate Dialogue Video Comprehension for Blind Viewers
+[ACM] 2026-10-31 | Codetations: Rich, Granular, and Maintainable Annotations for Evolving Code
+[ACM] 2026-10-31 | CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation
+[ACM] 2026-10-31 | InvisiSpeech: Making Silent Speech Invisible through a Miniature Intraoral Sensor
+[ACM] 2026-10-31 | Zoro: Active Controls to Support Rule Following in Vibe Coding
+[ACM] 2026-10-31 | Exhale to Execute: Transforming Commercial Microphone Arrays into Directional Airflow Sensors for Ubiquitous Interaction
+[ACM] 2026-10-31 | ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation
+[ACM] 2026-10-31 | MatComposer: Structural-Semantic Retrieval and Iterative Exploration for Procedural Material Graph Authoring
+[ACM] 2026-10-31 | Surprise2Refine: Axis-Centered Exploration-To-Refinement for Agent-Assisted Creative Scaffolding
+[ACM] 2026-10-31 | Seeing Beyond the Chart: Behaviour-Aware Self-Directed Visual Acuity Screening with Multimodal Interaction
+[ACM] 2026-10-31 | MetaBeads: Enabling Shape- and Stiffness-Changing Interfaces through Beaded Metamaterials
+[ACM] 2026-10-31 | Projective Walls, Floors, and Windows: Aligned Plane Interactions for Interior Architectural Design in VR
+[ACM] 2026-10-31 | Textro: A Prototyping Toolkit for Solderless and Chipless Smart Textile Interfaces
+[ACM] 2026-10-31 | Less Is More: Balancing Positive and Negative Space in Visual Concept Blending
+[ACM] 2026-10-31 | XTick: Rendering Omnidirectional Hit-and-Hold Impact Feedback All Round a Controller by Integrating Impact and Pressing Force
+[ACM] 2026-10-31 | Sensorimotor Stickies: A Reconfigurable On-Body Platform for Closed-Loop Sensorimotor Training
+[ACM] 2026-10-31 | Great Grave: Modeling Versioned Context Units for Longitudinal LLM Interaction
+[ACM] 2026-10-31 | LinkHydro: Design and Rapid Fabrication of Soft Self-Pumping Tubes for Prototyping Hydraulic Interface
+[ACM] 2026-10-31 | Eliciting Empathetic Expression Through Robot-Initiated Touch in Companion Scenarios
+共写入 260 条记录，保存到 papers/paper2026-10-31.json。
+论文获取成功，文件路径: papers/paper2026-10-31.json
+正在筛选、翻译并发送邮件...
+[NO] 1/260 | Co-Annotator: Expert-Distilled ViT and VLM for Visual and Documentation Guidance in Age-Related Macular Degeneration
+[NO] 2/260 | HAPTCHA: Eyes-Free Haptic CAPTCHA in Mobile Environments: Design Principle, Security Evaluation, and User Experience
+[NO] 3/260 | StitchSwitch: Programmable Surface Deformation and Bistability in Embroidered Textiles
+[NO] 4/260 | DocuDebug: A Graph-Supported Interactive Editor for Verifying and Maintaining Internal Logical Consistency
+[NO] 5/260 | ShiftLens: Mechanically Actuated Optical Surfaces for Switchable Appearances on 3D Objects
+[NO] 6/260 | Compass: Continuously Aligning Social Media Feeds via In-Situ Reflections
+[NO] 7/260 | BridgeScope: An Interactive System for Retrieving, Diagnosing, and Steering Cross-Modal SAE Features in Multimodal Large Models
+[NO] 8/260 | FontCopilot: A Designer-in-the-Loop System for Chinese Vector Font Design
+[NO] 9/260 | TailorCoPilot: Enabling Agentic Pattern Making with Version-Controlled State Tracking
+[NO] 10/260 | Towards Quantum Range Query for Spatial-Temporal-Semantic Trajectory Data
+[NO] 11/260 | The Hidden Cost of Quantum Spatial Computing: From Oracle Complexity to Circuit Complexity
+[NO] 12/260 | “Live in the Editor”: Low-Tech In-Situ Feedback for Plain-Text Live Programming
+[NO] 13/260 | Multiverse Architecture for Desired Realities
+[NO] 14/260 | Penquiry: A Pen-based Interactive In-situ Q&amp;A System Leveraging LLMs
+[NO] 15/260 | OmniTex: Omnidirectional Haptic Rendering of Surface Texture on VR Handheld Controller using 3-DOF Motion Mechanism
+[NO] 16/260 | SnapAxis: Axis Based Interaction for Object Manipulation in Mixed Reality
+[NO] 17/260 | LitPivot: Developing Well-Situated Research Ideas Through Dynamic Contextualization and Critique within the Literature Landscape
+[NO] 18/260 | SplatXR: A Toolkit for Multi-Layered Extended Reality via On-Headset 3D Gaussian Splatting
+[NO] 19/260 | Editrail: Understanding AI Usage by Visualizing Student-AI Interaction in Code
+[NO] 20/260 | CineHaptic: Context-Aware Real-Time Audiovisual-to-Haptic Rendering System for In-Vehicle 4D Cinematic Experiences
+[NO] 21/260 | SHRIMP: Iterative Refinement of Robot Task Plans
+[NO] 22/260 | Reference-Based Manipulation: A Framework and Pipeline for Multimodal Spatial Reasoning
+[NO] 23/260 | CLOAK: A Privacy-Preserving Assistant for Online Social Media Users
+[NO] 24/260 | Thin-Film Actuator Embedded Haptic Glove Supporting Thumb Kinematics for Displaying Volumetric Shape and Contact Indentation
+[NO] 25/260 | Granular I/O: Enabling Bi-directional Malleable Interaction for Actuated TUIs with Magnetic Particles
+[NO] 26/260 | Armonii: Motion Design for Wearable Supernumerary Robotic Arms Toward Comfort and Embodiment
+[NO] 27/260 | Declarative Dragging
+[NO] 28/260 | Attune: A Self-Annotation Tool for Understanding Robot Operator Attention Profiles
+[NO] 29/260 | SnowEcho: End-to-End Blind Skiing Assistance System Using Spatial Audio for Simulated Dynamic Slope
+[NO] 30/260 | TeethMark: Enabling Tongue-Tooth Interaction with Capacitive Sensing and Electrotactile Feedback using an Intraoral Wearable
+[NO] 31/260 | PATHWiSE: Empowering Teachers with a Generative AI Authoring System for Personalized Robot-Assisted Learning
+[NO] 32/260 | AtmoSteer: Personalized Scene Control with Reusable Atmospheric Recipes
+[NO] 33/260 | Programming by Teaching: Authoring Agent Workflows through Voice Conversation
+[NO] 34/260 | Hear-to-Hear: Uncertainty-Aware, Head-Tracked Interaction for Personalized Spatial Audio
+[NO] 35/260 | ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality
+[NO] 36/260 | Ptolemy: A Semantic Map of Exploratory Data Analysis
+[NO] 37/260 | Training Under Pressure: Designing and Evaluating a Multi-Stressor VR Environment for Public Speaking Training
+[NO] 38/260 | ASIDE: From Conflict Participants to Co-Observers Through Dyadic Spectator Reflection
+[NO] 39/260 | Supporting The Many Lives of Personal Data with Rebite: LLM-Powered Goal-Directed Framing in Food Journaling
+[NO] 40/260 | A Benchmarking Framework for Context-aware XR Interfaces
+[NO] 41/260 | Programmable Machine-Knitted Sensors for Deformable Interfaces
+[NO] 42/260 | Camera-Free Object Discovery and Interaction with GazeTags
+[NO] 43/260 | LightShop: High-Precision Interactive Computational Light Painting
+[NO] 44/260 | Reperceiving Everyday Sounds with Hidden Texture
+[NO] 45/260 | AreaCode: Encoding Conductive Tags Via Surface Area Modulation For Inductive Sensing
+[NO] 46/260 | TalkEase: A Multimodal Personalized Topic Guidance System for Long-distance Couples' Video Calls Driven by LLM
+[NO] 47/260 | CARVid: Content-Aware Retargeting of Videos with On-Screen Graphics
+[NO] 48/260 | Data-Oriented Debugging Across Place and Time
+[NO] 49/260 | PrejSense: Non-intrusive Gaze-Informed Prediction of Implicit Prejudice Against Machine for Proactive Interface Adaptation
+[NO] 50/260 | The Future of 5DOF Laser Cutting Is Personal
+[NO] 51/260 | Predicting Tool Extension in VR Interactions Using Gaze Features
+[NO] 52/260 | PersonaTeaming: Workflow and Interface that Support Persona-Driven Automated Generative AI Red-teaming
+[NO] 53/260 | GuitarFins: Skillful Input Triggering with a Guitar Pick
+[NO] 54/260 | PressMic: Multi-Level Press Input on Commodity Devices Using Built-in Microphones
+[NO] 55/260 | Surpassing Human Wrist Constraints: Dexterity-Enhanced Techniques for Teleoperated Robotic Manipulation
+[NO] 56/260 | KeepOut: An Embodied Intervention Using The Posture to Reduce Habitual Smartphone Overuse
+[NO] 57/260 | CoNarrate: Computationally Modeling Information Prematureness and Scaffolding the Co-Construction of Patient Narratives in Asynchronous Telehealth
+[NO] 58/260 | MetaCanvas: A Toolkit for Prototyping Tessellation-Based Shape-Changing Structures by Cut-and-Configure Authoring
+[NO] 59/260 | EITWatch: Smartwatch-Integrated Planar Electrical Impedance Tomography for Hand Gesture Recognition
+[NO] 60/260 | Leadership in Human–Robot Teams: Effects of Proactive Agent Behavior on Group Cohesion
+[NO] 61/260 | ITO: Real-time Browser Tab Orchestration Through Intent Detection
+[NO] 62/260 | RampEMS: Onset Shaping for Stroke-Stable Pressure Modulation in Calligraphy
+[NO] 63/260 | SwapSense: Reusable Vision-Based Contact Force Sensing Across Swappable Passive Haptic Modules
+[NO] 64/260 | Steerable Chatbots: Exploring Direct Manipulation Interfaces for LLM Personalization via Activation Steering
+[NO] 65/260 | IntentLint: Supporting Intent Scaffolding and Prompt-time Linting in Human-AI Collaborative Data Analysis
+[NO] 66/260 | PÅCKER: Making Large Laser-Cut Objects Easy-to-Store and Transport
+[NO] 67/260 | AgentLens: Adaptive Visual Modalities for Human–Agent Interaction in Mobile GUI Agents
+[NO] 68/260 | AdaptaFace: Adversarial Assistance for Inclusive Facial Gesture Interaction
+[NO] 69/260 | TherMosaic: Accelerating Perceived Thermal Transitions Through Spatiotemporal Thermal Feedback
+[NO] 70/260 | Earmony: Orchestrating Adaptive Auditory Cardio-Respiratory Biofeedback on Commodity Earables
+[NO] 71/260 | Fold2Unfold: Screen Privacy Protection against Shoulder Surfing using Inter-Screen Reflection on Foldable Smartphones
+[NO] 72/260 | MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems
+[NO] 73/260 | Sketch, Edit, Flatten: Bridging the Gap in Fashion Design
+[NO] 74/260 | SketchMind: Toward Executable Pen-Based Sketching for Constructing Sorting Algorithms
+[NO] 75/260 | MagToTheFuture: Transforming Passive Objects into Circuit-Free Haptic Devices via Magnetic Fields
+[NO] 76/260 | Contexty: Capturing and Organizing In-situ Thoughts for Context-Aware AI Support
+[NO] 77/260 | Generating Personalized Games with Sensing Data to Support Self-Reported Data Collection
+[NO] 78/260 | Do Simulated Users Steer Like Humans? A Biomechanical Reinforcement Learning Testbed for Systematic Steering Law Evaluation
+[NO] 79/260 | Gridlock: Plain Text with Guides
+[NO] 80/260 | Dishplay: Edible Display Utilizing Magnetic Response of Iron in Cereal
+[NO] 81/260 | TactiPlay: Multi-Granularity Tactical Parsing and Video-Anchored Match Review for Amateur Badminton Players
+[NO] 82/260 | Precise Duration Control for Video Editing via LLM Scoring and Constrained Optimization
+[NO] 83/260 | X-Hinges: 3D Printing Self-Sensing Compliant Mechanisms for Continuous and Multi-DOF Motion Sensing
+[NO] 84/260 | ImageDirector: Expressing Spatial Intent via 3D Direct Manipulation for Generative Image Editing
+[NO] 85/260 | StateScribe: Towards Accessible Change Awareness Across Real-World Revisits
+[NO] 86/260 | IRIS: Navigating and Reflecting on Writing Traces Using Intelligent Document Histories
+[NO] 87/260 | ATOM: Geometry-Aware Microgesture towards Object-Agnostic Tangible Interaction
+[NO] 88/260 | Treellis: Exposing Editable Assembly Structures for Progressive Human-AI Co-Creation of 3D Models
+[NO] 89/260 | iRing: Rich Interaction on Smart Ring with Multi-point Capacitive Touch Screen
+[NO] 90/260 | SiMUSation: An Interactive Visitor Experience Simulation Framework to Support Museum Exhibition Design
+[NO] 91/260 | TypeRing: Ten-Finger Surface Typing with Dual IMU Rings
+[NO] 92/260 | SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects
+[NO] 93/260 | StitchOver: Technical Embroidery on Seamed Fabrics
+[NO] 94/260 | TangiMap: Context-Aware Generative Function Mapping for Tangible Input Devices
+[NO] 95/260 | A Text-Native Interface for Generative Video Authoring
+[NO] 96/260 | Delta: A DSL for Enlivening Typeset Formulas with Interactive Explanations
+[NO] 97/260 | Be My Ears: Enabling Semantic Alerting for Earphone Wearers with Pheme
+[NO] 98/260 | Generative Experiences for Digital Mental Health Interventions: Evidence from a Randomized Study
+[NO] 99/260 | FlexiFab: Laser-Cutting Volumetric Compliant Structures with Tunable-Stiffness
+[NO] 100/260 | A Layered Strategy for Placement and Routing in Large-Scale Field-Coupled Nanocomputing Circuits
+[NO] 101/260 | Narrative Keyframing for Generative Creative Writing
+[NO] 102/260 | User Attention Is All chatLLMs Need: Proactive Intervention Against Attention Drift While Waiting for chatLLMs
+[NO] 103/260 | Boosting WiFi-based Gesture Recognition via High-affinity and Behaviorally Diverse Data Synthesis
+[NO] 104/260 | Beyond Dense Sensing: Biomechanically-Guided Hand Pose Reconstruction from Reduced Observations
+[NO] 105/260 | HALO: Interactive Co-abductive Reasoning in Hypothesis Generation for Scientific Discovery
+[NO] 106/260 | LandmarkLens: Predicting and Presenting Effective Landmarks for Mixed-Reality Urban Exploration
+[NO] 107/260 | Spray and Etch: Personal Fabrication of High-Resolution Electroluminescent Displays
+[NO] 108/260 | Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs
+[NO] 109/260 | InstructMesh: Selective Refinement of Generative 3D Models for Fabrication
+[NO] 110/260 | HIDAgent: A Platform-Agnostic Hardware Bridge for Personal Computer Use Agents
+[NO] 111/260 | Stayin' Aligned Over Time: Toward Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data
+[NO] 112/260 | Proxy3D: Interactive Spatial Proxies for Multi-View Consistent 3D Concept Design
+[NO] 113/260 | MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs
+[NO] 114/260 | OpenGut: An Open-Source Platform for Gut-Computer Interaction Research
+[NO] 115/260 | Bifur-circuits: Interactive and Modular Metamaterial Building Blocks Via Bifurcated Geometries
+[NO] 116/260 | Tap2Stop: Pedestrian-Activated Emergency Stop for Autonomous Vehicles
+[NO] 117/260 | Understanding the Role of AI-Enabled Live Tables in Scholarly Sensemaking
+[NO] 118/260 | Social.Wiki: A Web Held in Common
+[NO] 119/260 | Democratizing Extensive Reading by Tailoring Web Content
+[NO] 120/260 | Spatula: Exploring On-Demand In-Situ Interfaces and Interaction for Attribute Control
+[NO] 121/260 | TagTutor: Restoring Practice Visibility for Guitar Tutoring in Private Listening Settings
+[NO] 122/260 | TapTwice: Rich Offline Interfaces Between NFC-Enabled Devices
+[NO] 123/260 | CapFM: A Foundation Model for Capacitive Touch Sensing
+[NO] 124/260 | EcoVibWood: Lower Impact Vibration Sensing in Plywood
+[NO] 125/260 | MorphoChrome: Interactive, Handheld Fabrication of Programmable Structural Color
+[NO] 126/260 | CaseSense: Mapping the Legal Case Landscape with Multi-Dimensional Visual Exploration
+[NO] 127/260 | Inertia in Your Hand: Rendering Virtual Tool Dynamics via In-Hand Cutaneous Deformation
+[NO] 128/260 | UXCascade: Scalable Usability Testing with Simulated User Agents
+[NO] 129/260 | RemiAssist: A Therapist-Supporting System for Photo-Based Reminiscence Therapy in Dementia Care
+[NO] 130/260 | Object-Agent Twins (OATs): Expressive Micro-Agent Avatars for Inanimate Everyday Objects
+[NO] 131/260 | MuTable: Composable and Reusable Table Transformations for In-Situ Data Exploration
+[NO] 132/260 | HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing
+[NO] 133/260 | Entanglement-Aware Adaptive Routing for Optimizing Distributed Quantum Computing over Quantum Interconnect Networks
+[NO] 134/260 | TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education
+[NO] 135/260 | Language Scent: Exploring Cross-Language Information Navigation
+[NO] 136/260 | ChronoMantic: A Natural Language Interface for Interactive Time Series Pattern Query
+[NO] 137/260 | ArtScape: Detecting, Characterizing, and Interactively Exploring Urban Art at Scale Using Vision Language Models
+[NO] 138/260 | MAIC-UI: Making Interactive Courseware with Generative UI
+[NO] 139/260 | FleetScape: A Mixed Reality Sandtable for Spatial Supervision and Control of Scalable Drone Fleets
+[NO] 140/260 | Print &amp; Place: Using a 3D printer for Continuous Assembly of Electronic Devices
+[NO] 141/260 | Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology
+[NO] 142/260 | AquaWeave: Weaving Liquid-Activated Morphing Bio-Textiles
+[NO] 143/260 | Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations
+[NO] 144/260 | KnitARobo: Industrial Machine Knitting of Electromechanical Textile Interfaces with Liquid Crystal Elastomer Fibers
+[NO] 145/260 | VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
+[NO] 146/260 | MemCanvas: A Structured Memory Canvas for Evolving Intent Alignment in LLM Dialogues
+[NO] 147/260 | From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework
+[NO] 148/260 | Maru: Information Architecture as a Shared Language for Generating Aligned and Persistent User Interfaces
+[NO] 149/260 | Interactively Teaching Collaborative Physical Tasks to Generative AI with Narrated Demonstrations
+[NO] 150/260 | MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics
+[NO] 151/260 | SilkSense: A Craft-Inspired Fabrication Method for Silk-based Functional Interfaces
+[NO] 152/260 | MuscleJockey: Motor Initiation via Electrical Muscle Stimulation While Preserving User Control
+[NO] 153/260 | TransfHAR: Self-Supervised Wrist Representations for On-Demand Activity Recognition
+[NO] 154/260 | SpeLL: A Generative Framework for Synthesizing 3D Visual Effects from Text Prompts with Large Language Models
+[NO] 155/260 | Avatar Cloak: Protecting Behavioral Privacy with State-Aware Motion Substitution in Immersive MR Telepresence
+[NO] 156/260 | TeachUp: Facilitating Early-Stage Teachers to Learn Instructional Strategies from Classroom Videos with Reflective Support
+[NO] 157/260 | Stund: Activity-Enriched Collaborative Workspaces Mediated by Artificial Intelligence
+[NO] 158/260 | ElectroPad: Extending Gamepad Haptics for Hand Movements in Video Games with Electrotactile Feedback
+[YES] 159/260 | NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation
+[NO] 160/260 | SketchAloud: Combining Time-Aligned Sketch &amp; Speech for Multimodal Specification of 3D Designs
+[NO] 161/260 | Cardinal Pressure Pulses Rendered by a Wristband Can Elicit Phantom Directional Cues
+[NO] 162/260 | Generative Proxy: Synthesizing Proxy-Based Interfaces for Real-World Interaction Across AR Glasses
+[NO] 163/260 | RingIO: An Eyes-Free Smart Ring with Inputs via Touch and Outputs via Touch
+[NO] 164/260 | InvisIto: Weaving Unobtrusive Infrared Markers for Ubiquitous Textile Interaction
+[NO] 165/260 | From Words to Widgets for Controllable LLM Generation
+[YES] 166/260 | EvoMaestro: Toward Interpretable and Steerable LLM-Driven Program Evolution
+[NO] 167/260 | Graphionale: How Graph Visualizations of LLM Rationales Affect Human Decision Making
+[NO] 168/260 | While You're Still Busy: Context-Aware Approach Optimization for Proactive Mobile Robots
+[NO] 169/260 | GazeTune: Facilitating Precise Gaze-Driven Interactions with Cascaded Touch Input
+[NO] 170/260 | Present Drawing: Exploring Avatar-Mediated Drawing Events with Physical Traces
+[NO] 171/260 | Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents
+[NO] 172/260 | Mirror Skin: In Situ Visualization of Robot Touch Intent on Robot Skin
+[NO] 173/260 | Dramarrator: Object-Based Audio Editing for Audio Drama Production from Books
+[NO] 174/260 | ProConte
+[NO] 175/260 | Simulating Word Suggestion Usage in Mobile Typing to Guide Intelligent Text Entry Design
+[NO] 176/260 | FabDreamer: Exploring the Image-to-Physical Workflow Through AI-Assisted Layered Fabrication
+[NO] 177/260 | Revibing Code from Papers: Reimplementing HCI Artifacts
+[NO] 178/260 | Electrotactile Improves Thermal Referral
+[NO] 179/260 | Micro-Edits: Computational Support for Fine-Scale Edits in Film
+[NO] 180/260 | Sticki: Personalized Content Moderation Using Image Overlays for Recontextualizing Aversive Videos
+[NO] 181/260 | MagicPen: Enabling Dynamic Physical Scaffolding through Haptic Feedback for 3D Content Creation in VR with a Variable-length Stylus
+[NO] 182/260 | MaterialVellum: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints
+[NO] 183/260 | What If You Could Call Your Future Self? NicoCall as a Personalized Future-Self Video Call for Nicotine Cessation
+[NO] 184/260 | Body Sublimation: Designing State-Changing Extended Hand for Embodied Out-of-Reach Interaction
+[NO] 185/260 | WhatIf: Interactive Exploration of Large-Scale LLM Agent Simulations for Policy Reasoning
+[NO] 186/260 | CapAura: A Proxemic Interactive Infrastructure on Everyday Furniture through Capacitive Architecture Unit
+[NO] 187/260 | ExtenString: Enhancing String-Based Interaction with Virtual Screens through Remapping
+[NO] 188/260 | ChatMuse: Supporting In-Person Small-Group Conversation Experience with a Proactive Assistive AI Agent in Mixed Reality
+[NO] 189/260 | Map2Video: Guiding Real-World-Grounded AI Video Generation
+[NO] 190/260 | PACEE: Parent-Centered AI Scaffolding for Emotion Education in Early Childhood Conversations
+[NO] 191/260 | Cellery: Gradual, Composable Structure for Spreadsheets
+[NO] 192/260 | MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units
+[NO] 193/260 | DOBI: Dynamic Opportunistic Body Input via Spare Joint Recruitment for Hands-Free XR
+[NO] 194/260 | Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion
+[NO] 195/260 | Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Quantum Computing and Quantum-Inspired Technologies for Spatial Data Systems and Applications
+[NO] 196/260 | The Quantum Geometry® Grand Challenge: A Multiyear Prize and Benchmark Program for Quantum Computing in Geometry, CAD, GIS, and Meshing
+[NO] 197/260 | Augmenting Human Performance with an XR Agent Learning from Online Behavior and BCI Evidence
+[NO] 198/260 | Elsewise: Authoring Open-ended Interactive Narrative with Possibility Space Visualization
+[NO] 199/260 | Co-opting Mobile Device Cellular RF Front Ends for HCI Sensing
+[NO] 200/260 | SpatialBlend: Relational Reconstruction for Cross-Space Presence in Heterogeneous Spaces
+[NO] 201/260 | From Scaffolding to Internalization: Enhancing CPR Training with In-Situ Visualization and Kinesthetic Feedback
+[NO] 202/260 | "What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use
+[NO] 203/260 | HapTap: Ultrashort, Low Power Pulses for Localized Fingertip Haptics
+[NO] 204/260 | Prism-UX: Turning Evaluative Divergence into Traceable Design Evidence for LLM-Based Process-Level UX Evaluation
+[NO] 205/260 | Integrating Visual and Acoustic Modalities for Near-Eye Gaze Tracking
+[NO] 206/260 | ProtoCall: Preemptive Physical Feedback for Sequential Skill Augmentation
+[NO] 207/260 | PartInteractor: Intent-Driven Part-Aware 3D Authoring for Continuous Co-Creation in XR
+[NO] 208/260 | Quantum Machine Learning for Satellite Trajectory Prediction: A 3-Axis Specialized Quantum Regressor
+[NO] 209/260 | Veriscope: Provenance-Aware Verification of LLM Reasoning Artifacts in Conversational Data Analysis
+[NO] 210/260 | Print&amp;Fold: Printing and Folding Shape-accurate 3D Models
+[NO] 211/260 | Remapping Time in Augmented Reality
+[NO] 212/260 | MoTUI: Personalization of In-Vehicle Tactile Interfaces for People With Vision Impairments and the Blind
+[NO] 213/260 | Electrotactile Retargeting in Orientation Perception of Teleoperated Tools
+[NO] 214/260 | From Gaze to Guidance: Interpreting and Adapting to Users’ Cognitive Needs with Multimodal Gaze-Aware AI Assistants
+[NO] 215/260 | Relative-Motion-Aware Color Presentation with High-Speed Projection
+[NO] 216/260 | AeroPixels: Repurposing Ubiquitous Displays as Imperceptible Schlieren Light Sources for Airflow Interaction
+[NO] 217/260 | MolecularCanvas: LLM-assisted Small-Molecule Drug Discovery via Structure-Guided Constraints
+[NO] 218/260 | 4DOrthosis: Therapist-in-the-Loop Design and Fabrication of Force-Customized Hand Orthoses via 4D Printing
+[NO] 219/260 | Who's Keeping Score? Interactive Steering of LLM-Powered Scoring with Attune
+[NO] 220/260 | CinemaWorld: Generative Augmented Reality with LLMs and 3D Scene Generation for Movie Augmentation
+[NO] 221/260 | RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR
+[NO] 222/260 | When and Where You Nudge Matters: Multi-Step Interface Interventions Against Address Poisoning in Crypto Wallets
+[NO] 223/260 | InsightToast: Proactive Information Retrieval &amp; Glanceable Visualization in the Side Channel of Data-Rich Meetings
+[NO] 224/260 | Collascope: Supporting Serendipitous Asset Exploration for Collage-Based Storytelling
+[NO] 225/260 | V-Hook: Morphology-Mediated Vibration-Driven Locomotion through 3D-Printed Hook Structures
+[NO] 226/260 | Sighted by Default: Addressing Implicit Vision Assumptions in Real-Time VLM Assistance for BLV Users
+[NO] 227/260 | NailBender: Exploring Nail Flexion for Haptic Input and Output
+[NO] 228/260 | Attribution Gradients: Incrementally Unfolding Citations for Critical Examination of Attributed AI Answers
+[NO] 229/260 | BlimpMate: A Quiet, Long-Endurance Flying Display for Hands-Free Intelligent Interaction
+[NO] 230/260 | KnowTap: A Knowledge-Driven Tool for Fine-Grained Tappability Assessment and Design Iteration of Mobile UIs
+[NO] 231/260 | Neighborhood: Dynamic Spatial Alignment for Traversable Telepresence Across Remote Spaces
+[NO] 232/260 | Halftoning for 3D Printed Textile Nets
+[NO] 233/260 | The Rock Can Talk
+[NO] 234/260 | HueRistic: Optimizing Lighting for Live Video Color Design
+[NO] 235/260 | Kneadix: A Multi-Process Loom with Dynamic Warp-Weft Role Assignment
+[NO] 236/260 | EIJaw: Non-Invasive Intraoral User Interface with Electrical Impedance Sensing
+[NO] 237/260 | IP Protection of HLS-based DSP Designs using Parallel Encoding and Multi-Layer Encoded Transformation
+[NO] 238/260 | TextBand: Writing by Visualizing and Editing the Sound of Text
+[NO] 239/260 | TwistForm: Shaping Reconfigurable 3D Surfaces via Pre-programmed Torsional Deformation of Chains
+[NO] 240/260 | Priors of U: Dynamic Preference Learning for Embodied Interaction
+[NO] 241/260 | Faster Than Muscle: Executing Action based on Voluntary Nervous Signals
+[NO] 242/260 | Sonic Stage: Automatically Generating Interactive Spatial Soundscapes to Facilitate Dialogue Video Comprehension for Blind Viewers
+[NO] 243/260 | Codetations: Rich, Granular, and Maintainable Annotations for Evolving Code
+[YES] 244/260 | CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation
+[NO] 245/260 | InvisiSpeech: Making Silent Speech Invisible through a Miniature Intraoral Sensor
+[YES] 246/260 | Zoro: Active Controls to Support Rule Following in Vibe Coding
+[NO] 247/260 | Exhale to Execute: Transforming Commercial Microphone Arrays into Directional Airflow Sensors for Ubiquitous Interaction
+[NO] 248/260 | ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation
+[NO] 249/260 | MatComposer: Structural-Semantic Retrieval and Iterative Exploration for Procedural Material Graph Authoring
+[NO] 250/260 | Surprise2Refine: Axis-Centered Exploration-To-Refinement for Agent-Assisted Creative Scaffolding
+[NO] 251/260 | Seeing Beyond the Chart: Behaviour-Aware Self-Directed Visual Acuity Screening with Multimodal Interaction
+[NO] 252/260 | MetaBeads: Enabling Shape- and Stiffness-Changing Interfaces through Beaded Metamaterials
+[NO] 253/260 | Projective Walls, Floors, and Windows: Aligned Plane Interactions for Interior Architectural Design in VR
+[NO] 254/260 | Textro: A Prototyping Toolkit for Solderless and Chipless Smart Textile Interfaces
+[NO] 255/260 | Less Is More: Balancing Positive and Negative Space in Visual Concept Blending
+[NO] 256/260 | XTick: Rendering Omnidirectional Hit-and-Hold Impact Feedback All Round a Controller by Integrating Impact and Pressing Force
+[NO] 257/260 | Sensorimotor Stickies: A Reconfigurable On-Body Platform for Closed-Loop Sensorimotor Training
+[NO] 258/260 | Great Grave: Modeling Versioned Context Units for Longitudinal LLM Interaction
+[NO] 259/260 | LinkHydro: Design and Rapid Fabrication of Soft Self-Pumping Tubes for Prototyping Hydraulic Interface
+[NO] 260/260 | Eliciting Empathetic Expression Through Robot-Initiated Touch in Companion Scenarios
+筛选完成：共 260 篇；Yes = 4 篇；已保存到 papers/select_paper2026-10-31.json。
+邮件发送成功！
+[2026-11-01 01:03:27] 任务执行成功！

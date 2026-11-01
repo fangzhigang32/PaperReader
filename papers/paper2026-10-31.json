@@ -1,0 +1,2342 @@
+[
+  {
+    "date": "2026-10-31",
+    "title": "Co-Annotator: Expert-Distilled ViT and VLM for Visual and Documentation Guidance in Age-Related Macular Degeneration",
+    "authors": "Ziheng Li, Benjamin Freeman, Akshay Raman, Kavin Aravindhan Rajkumar, Xinxin Fang, Rishabh Srivastava, Steven Feiner, Kaveri A. Thakoor",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830722",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "HAPTCHA: Eyes-Free Haptic CAPTCHA in Mobile Environments: Design Principle, Security Evaluation, and User Experience",
+    "authors": "Duhong Kweon, Dajin Lee, Seulbae Kim, Seungmoon Choi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830484",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "StitchSwitch: Programmable Surface Deformation and Bistability in Embroidered Textiles",
+    "authors": "Vivian Li, Milin Kodnongbua, Heather Robertson, Yiyue Luo, Adriana Schulz",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830499",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "DocuDebug: A Graph-Supported Interactive Editor for Verifying and Maintaining Internal Logical Consistency",
+    "authors": "Hitoshi Matsuyama, Keita Higuchi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830558",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ShiftLens: Mechanically Actuated Optical Surfaces for Switchable Appearances on 3D Objects",
+    "authors": "Yunyi Zhu, Dingning Cao, Jeremy Mrzyglocki, Stefanie Mueller, Narjes Pourjafarian",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830555",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Compass: Continuously Aligning Social Media Feeds via In-Situ Reflections",
+    "authors": "Aadit Barua, Leijie Wang, Amy X. Zhang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830671",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "BridgeScope: An Interactive System for Retrieving, Diagnosing, and Steering Cross-Modal SAE Features in Multimodal Large Models",
+    "authors": "Yuwei Wu, Yuan Yuan, Hongkun Pan, Zhen Wen, Chaoqing Xu, Minfeng Zhu, Yingchaojie Feng, Wei Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830623",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "FontCopilot: A Designer-in-the-Loop System for Chinese Vector Font Design",
+    "authors": "Shuhui Shi, Jinyu Song, Wei Wang, Weiyue Gao, Xue Zhao, Yu Liu, Weitao You",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830559",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TailorCoPilot: Enabling Agentic Pattern Making with Version-Controlled State Tracking",
+    "authors": "Yuexin Sun, Zhaohui Wang, Ruiyang Liu, Demian Kong, Qian He, Gaofeng He, Huamin Wang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830502",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Towards Quantum Range Query for Spatial-Temporal-Semantic Trajectory Data",
+    "authors": "Hao Li, Zhihang Liu, Liwei Zou, Jinlin Wu, Wufan Zhao",
+    "publish": "Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Quantum Computing and Quantum-Inspired Technologies for Spatial Data Systems and Applications",
+    "url": "https://doi.org/10.1145/3849728.3849843",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "The Hidden Cost of Quantum Spatial Computing: From Oracle Complexity to Circuit Complexity",
+    "authors": "Po-Yu Yeh, Tzu-Cheng Chang, Xiao Huang, Chun-Hsiang Chan",
+    "publish": "Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Quantum Computing and Quantum-Inspired Technologies for Spatial Data Systems and Applications",
+    "url": "https://doi.org/10.1145/3849728.3849844",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "“Live in the Editor”: Low-Tech In-Situ Feedback for Plain-Text Live Programming",
+    "authors": "Luyu Cheng, Bairui Su, April Yi Wang, Lionel Parreaux",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830662",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Multiverse Architecture for Desired Realities",
+    "authors": "Andreas Fender, Dieter Schmalstieg",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830478",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Penquiry: A Pen-based Interactive In-situ Q&amp;A System Leveraging LLMs",
+    "authors": "Jeongmin Rhee, Changhee Lee, Hyunwoo Kim, Kiroong Choe, Bohyoung Kim, Sungahn Ko, Jinwook Seo",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830637",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "OmniTex: Omnidirectional Haptic Rendering of Surface Texture on VR Handheld Controller using 3-DOF Motion Mechanism",
+    "authors": "Tianrui Hu, Haichen Gao, Zeshui Li, Kening Zhu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830620",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SnapAxis: Axis Based Interaction for Object Manipulation in Mixed Reality",
+    "authors": "Fengyi Yan, Jian Wu, Shuo Yan, Sio Kei Im, Lili Wang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830636",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "LitPivot: Developing Well-Situated Research Ideas Through Dynamic Contextualization and Critique within the Literature Landscape",
+    "authors": "Hita Kambhamettu, Bhavana Dalvi Mishra, Andrew Head, Jonathan Bragg, Aakanksha Naik, Joseph Chee Chang, Pao Siangliulue",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830577",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SplatXR: A Toolkit for Multi-Layered Extended Reality via On-Headset 3D Gaussian Splatting",
+    "authors": "Cyrus Vachha, Mohamed Kari, Parastoo Abtahi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830681",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Editrail: Understanding AI Usage by Visualizing Student-AI Interaction in Code",
+    "authors": "Ashley Ge Zhang, Yan-Ru Jhou, Yinuo Yang, Shamita Rao, Maryam Arab, Yan Chen, Steve Oney",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830696",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CineHaptic: Context-Aware Real-Time Audiovisual-to-Haptic Rendering System for In-Vehicle 4D Cinematic Experiences",
+    "authors": "Junwoo Kim, Hyunuk Kim, Hyun-Bin Oh, Jeonggoo Kang, Tae-Hyun Oh, Seungmoon Choi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830655",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SHRIMP: Iterative Refinement of Robot Task Plans",
+    "authors": "Mya Schroder, Yuna Hwang, Callie Y. Kim, Leqian Cheng, Jeffrey Li-cheng Liu, Chenchen Zheng, Xinning He, Bilge Mutlu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830644",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Reference-Based Manipulation: A Framework and Pipeline for Multimodal Spatial Reasoning",
+    "authors": "Yangyang He, Zhuangze Hou, Yonglin Chen, Can Liu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830657",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CLOAK: A Privacy-Preserving Assistant for Online Social Media Users",
+    "authors": "Sandeep Kalari, Mohan Sunkara, Vikas Ashok, Ravi Mukkamala",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830723",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Thin-Film Actuator Embedded Haptic Glove Supporting Thumb Kinematics for Displaying Volumetric Shape and Contact Indentation",
+    "authors": "Jongseok Nam, Hyungseok Seo, Jihyeong Ma, Nakhyeong Lee, Taeuk Oh, Seohee Kong, Je-Sung Koh, Ki-Uk Kyung",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830725",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Granular I/O: Enabling Bi-directional Malleable Interaction for Actuated TUIs with Magnetic Particles",
+    "authors": "Chi Wang, Clara Cui, Alan Pham, Justice T Andersen, Tucker Rae-Grant, Ken Nakagaki",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830589",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Armonii: Motion Design for Wearable Supernumerary Robotic Arms Toward Comfort and Embodiment",
+    "authors": "Chia-An Fan, Hongyu Zhou, Azumi Maekawa, Tomoya Sasaki, Jiayi Xu, Masahiko Inami",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830501",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Declarative Dragging",
+    "authors": "Joshua Horowitz, Andrew Blinn, Jeffrey Heer",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830556",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Attune: A Self-Annotation Tool for Understanding Robot Operator Attention Profiles",
+    "authors": "Puqi Zhou, Sungsoo Ray Hong, David Porfirio",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830514",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SnowEcho: End-to-End Blind Skiing Assistance System Using Spatial Audio for Simulated Dynamic Slope",
+    "authors": "Yuta Taguchi, Toshihiro Hirano, Masaki Kuribayashi, Yichen Peng, Chen-Chieh Liao, Erwin Wu, Hideki Koike, Shigeo Morishima",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830536",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TeethMark: Enabling Tongue-Tooth Interaction with Capacitive Sensing and Electrotactile Feedback using an Intraoral Wearable",
+    "authors": "Yijing Jiang, Yunhui Song, Haiyang Xu, Maria Perdices Segui, Himani Deshpande, Michael Wessely",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830646",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "PATHWiSE: Empowering Teachers with a Generative AI Authoring System for Personalized Robot-Assisted Learning",
+    "authors": "Md Anisur Rahman, Paul Hatch, Hui-Ru Ho, Isaac A Felix, Bilge Mutlu, Joseph E Michaelis",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830492",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "AtmoSteer: Personalized Scene Control with Reusable Atmospheric Recipes",
+    "authors": "Nancy Ruonan Sun, Hyunsung Cho, David Lindlbauer",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830683",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Programming by Teaching: Authoring Agent Workflows through Voice Conversation",
+    "authors": "Takato Yamazaki, Nao Yoshida, Keita Higuchi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830516",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Hear-to-Hear: Uncertainty-Aware, Head-Tracked Interaction for Personalized Spatial Audio",
+    "authors": "Yu-Chen Tsai, Lung-Pan Cheng",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830661",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality",
+    "authors": "Yanni Mei, Samuel Hartenstein, Jonas Wombacher, Florian Müller, Jan Gugenheimer",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830534",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Ptolemy: A Semantic Map of Exploratory Data Analysis",
+    "authors": "Dylan Wootton, Dennis Bromley, Vidya Setlur",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830537",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Training Under Pressure: Designing and Evaluating a Multi-Stressor VR Environment for Public Speaking Training",
+    "authors": "Zhiyuan (Terry) Wei, Lei Zhang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830711",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ASIDE: From Conflict Participants to Co-Observers Through Dyadic Spectator Reflection",
+    "authors": "Xinyi Zhang, Jingting He, Zicheng Zhu, Yuxin Su",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830513",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Supporting The Many Lives of Personal Data with Rebite: LLM-Powered Goal-Directed Framing in Food Journaling",
+    "authors": "Weijun Li, Daniel A. Epstein",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830692",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "A Benchmarking Framework for Context-aware XR Interfaces",
+    "authors": "Hyunsung Cho, Sarah Yewon Yun, Nancy Ruonan Sun, Ben Lafreniere, Mark Parent, Kashyap Todi, Tanya R. Jonker, Hrvoje Benko, Tongshuang Wu, David Lindlbauer",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830675",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Programmable Machine-Knitted Sensors for Deformable Interfaces",
+    "authors": "Yifan Fan, Shirley Tam, Nico Pietroni, Sam Ferguson",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830648",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Camera-Free Object Discovery and Interaction with GazeTags",
+    "authors": "Vimal Mollyn, Chris Harrison",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830713",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "LightShop: High-Precision Interactive Computational Light Painting",
+    "authors": "Peter Michael, Andrew Arena, Harald Haraldsson, Abe Davis",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830542",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Reperceiving Everyday Sounds with Hidden Texture",
+    "authors": "Yujie Tao, Mateo Larrea, Portia Wang, Jingjin Li, Takako Fujioka, Jane L. E, Sean Follmer",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830551",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "AreaCode: Encoding Conductive Tags Via Surface Area Modulation For Inductive Sensing",
+    "authors": "Zihang Chen, Xing-Dong Yang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830682",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TalkEase: A Multimodal Personalized Topic Guidance System for Long-distance Couples' Video Calls Driven by LLM",
+    "authors": "Haopeng Sun, Xuming Huang, Jiannan Wang, Sheng Zhong, Yan Zhang, Xiao Liang, Binhui Wang, Haining Zhang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830704",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CARVid: Content-Aware Retargeting of Videos with On-Screen Graphics",
+    "authors": "Aditya Gunturu, Mackenzie Leake, Ryo Suzuki, Stephen DiVerdi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830716",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Data-Oriented Debugging Across Place and Time",
+    "authors": "Jeffrey Tao, Xiaorui Liu, Ryan Marcus, Andrew Head",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830600",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "PrejSense: Non-intrusive Gaze-Informed Prediction of Implicit Prejudice Against Machine for Proactive Interface Adaptation",
+    "authors": "Entong Gao, Zhe Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830669",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "The Future of 5DOF Laser Cutting Is Personal",
+    "authors": "Antonius Naumann, Chiao Fang, Lukas Rambold, Martin Taraz, Tom Haas, Jonas Baron, Katharina Posegga, Edgar Bennemann, Corvin Kögler, Leonard del Federico, Julian Arnold, Gustav Ahlgrimm, Shohei Katakura, Muhammad Abdullah, Robert Kovacs, Patrick Baudisch",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830674",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Predicting Tool Extension in VR Interactions Using Gaze Features",
+    "authors": "James Smith, Samia Menon, Jessie Liu, Vivian Hsinyueh Chan, Bjoern Hartmann",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830684",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "PersonaTeaming: Workflow and Interface that Support Persona-Driven Automated Generative AI Red-teaming",
+    "authors": "Wesley Hanwen Deng, Mingxi Yan, Sunnie S. Y. Kim, Akshita Jha, Lauren Wilcox, Kenneth Holstein, Motahhare Eslami, Leon Gatys",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830632",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "GuitarFins: Skillful Input Triggering with a Guitar Pick",
+    "authors": "Markus Kaltenecker, Jan Kolberg, Dieter Schmalstieg, Michael Sedlmair, Andreas Fender",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830477",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "PressMic: Multi-Level Press Input on Commodity Devices Using Built-in Microphones",
+    "authors": "Xuan Lei, Zhangchi Liu, Panpan Yao, Xin Wang, Wenjin Zhou",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830635",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Surpassing Human Wrist Constraints: Dexterity-Enhanced Techniques for Teleoperated Robotic Manipulation",
+    "authors": "Luyao Shen, Yihong Zhang, Qiyuan Song, Jiannan Li, Tianren Luo, Shuai Ma, Wei Sun, Yulong Bian, Jin Huang, Teng Han, Nianlong Li, Feng Tian",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830659",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "KeepOut: An Embodied Intervention Using The Posture to Reduce Habitual Smartphone Overuse",
+    "authors": "Chang Liu, Qinghuan Lan, Yu Mei, Yingtian Shi, Qinwei Li, Xiaoying Peng, Zhoutong Ye, Jie Cai, Chun Yu, Yuanchun Shi, Xuhai “Orson” Xu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830702",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CoNarrate: Computationally Modeling Information Prematureness and Scaffolding the Co-Construction of Patient Narratives in Asynchronous Telehealth",
+    "authors": "Dingdong Liu, Yun Wang, Hei Ching Iu, Li Zhang, Chuhan Shi, Yan Lu, Xiaojuan Ma",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830658",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MetaCanvas: A Toolkit for Prototyping Tessellation-Based Shape-Changing Structures by Cut-and-Configure Authoring",
+    "authors": "Lina Zhang, Zhian Hu, Jianhui Yan, Yibin Huai, Ziqi Fang, Kening Zhu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830628",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "EITWatch: Smartwatch-Integrated Planar Electrical Impedance Tomography for Hand Gesture Recognition",
+    "authors": "Xuanyou Liu, Novel Alam, Karan Ahuja",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830673",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Leadership in Human–Robot Teams: Effects of Proactive Agent Behavior on Group Cohesion",
+    "authors": "Mathilde Sassier--Roublin, Julien Saunier, Alexandre Pauchet",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830576",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ITO: Real-time Browser Tab Orchestration Through Intent Detection",
+    "authors": "Elvin Hu, Jasmine Sumpter, Takatoshi Yoshida, Mauricio Sousa, Kouta Minamizawa",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830515",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "RampEMS: Onset Shaping for Stroke-Stable Pressure Modulation in Calligraphy",
+    "authors": "Arinobu Niijima, Yixin Peng, Chanho Park, Takefumi Ogawa",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830691",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SwapSense: Reusable Vision-Based Contact Force Sensing Across Swappable Passive Haptic Modules",
+    "authors": "Minha Jeon, Yeseo Park, Inhyuk Song, Yilong Lin, Seungwoo Je, Seungjae Oh",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830654",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Steerable Chatbots: Exploring Direct Manipulation Interfaces for LLM Personalization via Activation Steering",
+    "authors": "Jessica Y Bo, Tianyu Xu, Ishan Chatterjee, Katrina Passarella-Ward, Achin Kulshrestha, D Shin",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830533",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "IntentLint: Supporting Intent Scaffolding and Prompt-time Linting in Human-AI Collaborative Data Analysis",
+    "authors": "Li Feng, Jian Zhao, Anamaria Crisan",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830509",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "PÅCKER: Making Large Laser-Cut Objects Easy-to-Store and Transport",
+    "authors": "Shohei Katakura, Chiao Fang, Lukas Rambold, Martin Taraz, Lino Hellige, Robert Kovacs, Muhammad Abdullah, Patrick Baudisch",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830605",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "AgentLens: Adaptive Visual Modalities for Human–Agent Interaction in Mobile GUI Agents",
+    "authors": "Jeonghyeon Kim, Byeongjun Joung, Junwon Lee, Joohyung Lee, Taehoon Min, Sunjae Lee",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830619",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "AdaptaFace: Adversarial Assistance for Inclusive Facial Gesture Interaction",
+    "authors": "Siyu Zhang, Yelu Gu, Xiaoyun Xu, Kirsten Cater, Oussama Metatla",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830708",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TherMosaic: Accelerating Perceived Thermal Transitions Through Spatiotemporal Thermal Feedback",
+    "authors": "Zining Zhang, Jiasheng Li, Myungin Lee, Zeyu Yan, Jin Ryong Kim, Huaishu Peng",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830489",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Earmony: Orchestrating Adaptive Auditory Cardio-Respiratory Biofeedback on Commodity Earables",
+    "authors": "Lily Sheng, Ruiqi Hong, Xiyuxing Zhang, Yuntao Wang, Ruotong Yu, Xingjian Tian, Yuanchun Shi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830578",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Fold2Unfold: Screen Privacy Protection against Shoulder Surfing using Inter-Screen Reflection on Foldable Smartphones",
+    "authors": "Kyoosik Lee, Jiha Kim, Jonghyuk Yun, Suwon Yoon, Jun Han, Inseok Hwang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830569",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems",
+    "authors": "Wei-Hao Chen, Weixi Tong, Yuan Tian, Chenglong Wang, Tianyi Zhang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830529",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Sketch, Edit, Flatten: Bridging the Gap in Fashion Design",
+    "authors": "Nora S Willett, Gene Lee",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830554",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SketchMind: Toward Executable Pen-Based Sketching for Constructing Sorting Algorithms",
+    "authors": "Yang Wu, Clément Pit-Claudel, April Yi Wang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830500",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MagToTheFuture: Transforming Passive Objects into Circuit-Free Haptic Devices via Magnetic Fields",
+    "authors": "Jeongju Park, Seongjun Kang, Kangbeen Ko, Gwangbin Kim, Semoo Shin, Yumin Kang, Wojciech Matusik, Daniela Rus, SeungJun Kim",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830652",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Contexty: Capturing and Organizing In-situ Thoughts for Context-Aware AI Support",
+    "authors": "Yoonsu Kim, Chanbin Park, Kihoon Son, Saelyne Yang, Juho Kim",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830663",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Generating Personalized Games with Sensing Data to Support Self-Reported Data Collection",
+    "authors": "Jin-seo Kim, Ha Le, Akshat Choube, Varun Mishra, Stephen S Intille",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830678",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Do Simulated Users Steer Like Humans? A Biomechanical Reinforcement Learning Testbed for Systematic Steering Law Evaluation",
+    "authors": "Hannah Selder, Ankit Bhattarai, Florian Fischer, Per Ola Kristensson, Arthur Fleig",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830528",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Gridlock: Plain Text with Guides",
+    "authors": "Sam Cohen, Ravi Chugh",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830679",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Dishplay: Edible Display Utilizing Magnetic Response of Iron in Cereal",
+    "authors": "Akito Otsu, Takumi Yamamoto, Ayaka Ishii, Liwei Chan, Yuta Sugiura",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830592",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TactiPlay: Multi-Granularity Tactical Parsing and Video-Anchored Match Review for Amateur Badminton Players",
+    "authors": "Qiaoyi Chen, Yuheng Liu, Xinzhuang Xiong, Junze Li, Hongyi Tang, Xinyi Zhang, Qingyu Guo, Xiaojuan Ma",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830643",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Precise Duration Control for Video Editing via LLM Scoring and Constrained Optimization",
+    "authors": "Mackenzie Leake, Stephen DiVerdi, Mira Dontcheva",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830510",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "X-Hinges: 3D Printing Self-Sensing Compliant Mechanisms for Continuous and Multi-DOF Motion Sensing",
+    "authors": "Xiang Chang, Haiyang Yan, Stefanie Mueller, Jiaji Li",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830598",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ImageDirector: Expressing Spatial Intent via 3D Direct Manipulation for Generative Image Editing",
+    "authors": "Ricardo Mejia Araujo, Lei Zhang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830709",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "StateScribe: Towards Accessible Change Awareness Across Real-World Revisits",
+    "authors": "Ruei-Che Chang, Xirui Jiang, Rosiana Natalie, Hao Chen, Vlad Roznyatovskiy, Charlie Jianzhong Zhang, Kang G. G Shin, Ke Sun, Anhong Guo",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "IRIS: Navigating and Reflecting on Writing Traces Using Intelligent Document Histories",
+    "authors": "David Zhou, Andrew Chen, John Joon Young Chung, Sarah Sterman",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830611",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ATOM: Geometry-Aware Microgesture towards Object-Agnostic Tangible Interaction",
+    "authors": "Yinqiao Wang, Hao Xu, Qixuan Liu, Shengdong Zhao, Pheng Ann Heng, Chi-Wing Fu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830664",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Treellis: Exposing Editable Assembly Structures for Progressive Human-AI Co-Creation of 3D Models",
+    "authors": "Yixiang Chen, Adele Tong, Praneeth Perera, Chuancheng Shi, Per Ola Kristensson, Zhiyong Wang, Rajesh Balan, Alistair McEwan, Zhanna Sarsenbayeva, Anusha Withana",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830694",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "iRing: Rich Interaction on Smart Ring with Multi-point Capacitive Touch Screen",
+    "authors": "Runze Liu, Taiting Lu, Zhenghao Li, Yixi Wang, Shengming Yuan, Mahanth Gowda",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830549",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SiMUSation: An Interactive Visitor Experience Simulation Framework to Support Museum Exhibition Design",
+    "authors": "Huanchen Wang, Qiuming Chen, Zhonghao Ji, Ruqi Sun, Zhichao Lu, Yuxin Ma",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830560",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TypeRing: Ten-Finger Surface Typing with Dual IMU Rings",
+    "authors": "Zhuojun Li, Chun Yu, Zhe He, Lubin Wang, Chengwen Zhang, Mingyuan Du, Weinan Shi, Yuanchun Shi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830512",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects",
+    "authors": "Ru Wang, Rahul Jain, Koichiro Niinuma, Aakar Gupta",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830718",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "StitchOver: Technical Embroidery on Seamed Fabrics",
+    "authors": "Zekun Chang, Tianhong Catherine Yu, Yixuan Gao, Thijs Roumen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830717",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TangiMap: Context-Aware Generative Function Mapping for Tangible Input Devices",
+    "authors": "Yunyi Zhu, Chang Xiao",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830602",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "A Text-Native Interface for Generative Video Authoring",
+    "authors": "Bruce Liu, Mira Dontcheva, Ding Li",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830715",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Delta: A DSL for Enlivening Typeset Formulas with Interactive Explanations",
+    "authors": "Eric Dai, Zain Khan, Jeffrey Tao, Marti A. Hearst, Andrew Head",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830616",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Be My Ears: Enabling Semantic Alerting for Earphone Wearers with Pheme",
+    "authors": "Zhiwei Ren, Yongjie Yang, Longfei Shangguan",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830640",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Generative Experiences for Digital Mental Health Interventions: Evidence from a Randomized Study",
+    "authors": "Ananya Bhattacharjee, Michael Liut, Matthew Jörke, Diyi Yang, Emma Brunskill",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830523",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "FlexiFab: Laser-Cutting Volumetric Compliant Structures with Tunable-Stiffness",
+    "authors": "Deying Pan, Fanqi Zhou, Yitao Fan, Guanyun Wang, Alexandra Ion",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830570",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "A Layered Strategy for Placement and Routing in Large-Scale Field-Coupled Nanocomputing Circuits",
+    "authors": "Feifei Deng, Song Chen, Zhao Yunong, Xiaohui Guo, Zucun Rui, Guangjun Xie",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3789669",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Narrative Keyframing for Generative Creative Writing",
+    "authors": "Chao Zhang, Abe Davis",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830586",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "User Attention Is All chatLLMs Need: Proactive Intervention Against Attention Drift While Waiting for chatLLMs",
+    "authors": "Fangfei Gou, Yuntao Wang, Xingjian Tian, Yuanchun Shi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830580",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Boosting WiFi-based Gesture Recognition via High-affinity and Behaviorally Diverse Data Synthesis",
+    "authors": "Jianwei Liu, Jiatong Chen, Rui Xiao, Xing Fu, Xin-Wei Yao, Jinsong Han",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830548",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Beyond Dense Sensing: Biomechanically-Guided Hand Pose Reconstruction from Reduced Observations",
+    "authors": "Chao Yao, Changsheng Li, Yeting Song, Hongjun Liu, Xiaojuan Ban",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830490",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "HALO: Interactive Co-abductive Reasoning in Hypothesis Generation for Scientific Discovery",
+    "authors": "Youngseung Jeon, Kat Limqueco, JiaSyuan Chang, Xiang 'Anthony Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830566",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "LandmarkLens: Predicting and Presenting Effective Landmarks for Mixed-Reality Urban Exploration",
+    "authors": "Chu Li, Yotam Sechayk, Jared Hwang, Jon E. Froehlich, Takeo Igarashi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830505",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Spray and Etch: Personal Fabrication of High-Resolution Electroluminescent Displays",
+    "authors": "Chaoyi Wu, James David Nash, Jason Alexander, Ollie Hanton",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830667",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs",
+    "authors": "Yasith Samaradivakara, Valdemar Danry, Paul Pu Liang, Pattie Maes",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830532",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "InstructMesh: Selective Refinement of Generative 3D Models for Fabrication",
+    "authors": "Faraz Faruqi, Ahmed Katary, Demircan Tas, Theresa Hradilak, Ning Zhang, Jiaji Li, Fabian Manhardt, Martin Nisser, Vrushank Phadnis, Ruofei Du, Federico Tombari, Megan Hofmann, Stefanie Mueller",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830647",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "HIDAgent: A Platform-Agnostic Hardware Bridge for Personal Computer Use Agents",
+    "authors": "Jeffrey P Bigham",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830721",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Stayin' Aligned Over Time: Toward Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data",
+    "authors": "Simret Araya Gebreegziabher, Allison E Sproul, Yinuo Yang, Chaoran Chen, Diego Gómez-Zará, Toby Jia-Jun Li",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830543",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Proxy3D: Interactive Spatial Proxies for Multi-View Consistent 3D Concept Design",
+    "authors": "Jingsen Zhang, Yao Wang, Renzhong Li, Zhitong Cui, Chengyi Shen, Dongming Han, Shijian Luo",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830634",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs",
+    "authors": "Sangwook Lee, Adnan Abbas, Sang Won Lee, Young-Ho Kim, Yan Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830672",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "OpenGut: An Open-Source Platform for Gut-Computer Interaction Research",
+    "authors": "Muftee Mysan, Soundarya Ramesh, Peter Cleveland, Ryo Hajika, Mia Huong Nguyen, Jochen Huber, Marianna Obrist, Suranga Nanayakkara",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830700",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Bifur-circuits: Interactive and Modular Metamaterial Building Blocks Via Bifurcated Geometries",
+    "authors": "Marwa AlAlawi, Regina Zheng, Abdullah Negm, Jiaji Li, Emma J Li, Yasuaki Kakehi, Yoshihiro Kawahara, Junyi Zhu, Ticha Sethapakdi, Stefanie Mueller",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830613",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Tap2Stop: Pedestrian-Activated Emergency Stop for Autonomous Vehicles",
+    "authors": "Xinyue Gui, Ding Xia, Yuan Li, Mark Colley, Chia-Ming Chang, Stela Hanbyeol Seo, Manabu Tsukada, Takeo Igarashi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830497",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Understanding the Role of AI-Enabled Live Tables in Scholarly Sensemaking",
+    "authors": "Yudong Huang, John Strus, Mark Roman Miller",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830689",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Social.Wiki: A Web Held in Common",
+    "authors": "Theia Henderson, Carmel Schare, Ana Dodik, Clemens N. Klokmose, Ziv Epstein, David D. Clark, David R. Karger",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830639",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Democratizing Extensive Reading by Tailoring Web Content",
+    "authors": "Yungun Kim, Min Hyeong Kim, Suyeon Hwang, Gahyun Kim, Seokweon Jung, Hyeon Jeon, Jinwook Seo",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830676",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Spatula: Exploring On-Demand In-Situ Interfaces and Interaction for Attribute Control",
+    "authors": "Boyu Li, Linjie Qiu, Lin-Ping Yuan, Duotun Wang, Yue Jiang, Zeyu Wang, Hongbo Fu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830633",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TagTutor: Restoring Practice Visibility for Guitar Tutoring in Private Listening Settings",
+    "authors": "Yuanhao Feng, Zhi Liu, Takuya Fujihashi, Shunsuke Saruwatari",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830511",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TapTwice: Rich Offline Interfaces Between NFC-Enabled Devices",
+    "authors": "Bu Li, Michael Yin, Robert Xiao",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830651",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CapFM: A Foundation Model for Capacitive Touch Sensing",
+    "authors": "Rachel Schuchert, Christian Holz",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830703",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "EcoVibWood: Lower Impact Vibration Sensing in Plywood",
+    "authors": "Yonghao Shi, Suyuan Liu, Xing-Dong Yang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830719",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MorphoChrome: Interactive, Handheld Fabrication of Programmable Structural Color",
+    "authors": "Paris G Myers, Yunyi Zhu, Maxine Perroni-Scharf, Ticha Sethapakdi, Benjamin Harvey Miller, Stefanie Mueller",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830608",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CaseSense: Mapping the Legal Case Landscape with Multi-Dimensional Visual Exploration",
+    "authors": "Junghwan Kim, Hyeonseok Jeon, Jung Lee, Dongseok Heo, Bongwon Suh",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830479",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Inertia in Your Hand: Rendering Virtual Tool Dynamics via In-Hand Cutaneous Deformation",
+    "authors": "Seongjun Kang, Gwangbin Kim, Semoo Shin, Jeongju Park, Juwon Um, Daniela Rus, SeungJun Kim",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830565",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "UXCascade: Scalable Usability Testing with Simulated User Agents",
+    "authors": "Steffen Holter, Eunyee Koh, Mustafa Doga Dogan, Gromit Yeuk-Yin Chan",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830609",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "RemiAssist: A Therapist-Supporting System for Photo-Based Reminiscence Therapy in Dementia Care",
+    "authors": "Shuchang Xu, Minglong Tang, Junyan Mao, Xiaofu Jin, Wazeer Zulfikar, Yasith Samaradivakara, Jiayi Zhou, Huamin Qu, Yuling Sun, Pattie Maes",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830485",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Object-Agent Twins (OATs): Expressive Micro-Agent Avatars for Inanimate Everyday Objects",
+    "authors": "Daehwa Kim, Chris Harrison",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830595",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MuTable: Composable and Reusable Table Transformations for In-Situ Data Exploration",
+    "authors": "Fuling Sun, Devamardeep Hayatpur, Jane L. E, Nicole Sultanum, Haijun Xia",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830645",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "HeadRoom: Lightweight, Edge-deployable Pipeline for Adaptive Notification Routing",
+    "authors": "Dinithi Dissanayake, Prasanth Sasikumar, Suranga Nanayakkara",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830518",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Entanglement-Aware Adaptive Routing for Optimizing Distributed Quantum Computing over Quantum Interconnect Networks",
+    "authors": "Tianrong Ding",
+    "publish": "Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Quantum Computing and Quantum-Inspired Technologies for Spatial Data Systems and Applications",
+    "url": "https://doi.org/10.1145/3849728.3849845",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education",
+    "authors": "David Barron, Xiaohang Tang, Rezky Dwisantika, Minsun Kim, David H. Smith, Jiaming Cui, Yan Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830712",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Language Scent: Exploring Cross-Language Information Navigation",
+    "authors": "Jiawen Stefanie Zhu, Katharina Reinecke, Tanushree Mitra",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830488",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ChronoMantic: A Natural Language Interface for Interactive Time Series Pattern Query",
+    "authors": "Yangtian Liu, Shuhan Liu, Guobin Tu, Yunfan Zhou, Xiwen Cai, Di Weng, Yingcai Wu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830491",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ArtScape: Detecting, Characterizing, and Interactively Exploring Urban Art at Scale Using Vision Language Models",
+    "authors": "Lucy Jiang, Jared Hwang, Jon E. Froehlich",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830557",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MAIC-UI: Making Interactive Courseware with Generative UI",
+    "authors": "Shangqing Tu, Yanjia Li, Keyu Chen, Sichen Zhang, Jifan Yu, Daniel Zhang-Li, Lei Hou, Juanzi Li, Yu Zhang, Huiqin Liu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830540",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "FleetScape: A Mixed Reality Sandtable for Spatial Supervision and Control of Scalable Drone Fleets",
+    "authors": "Peisen Xu, Jérémie Garcia, Peter Cleveland, Wei Tsang Ooi, Christophe Jouffrais",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830597",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Print &amp; Place: Using a 3D printer for Continuous Assembly of Electronic Devices",
+    "authors": "Oliver Child, Patrick Baudisch, Mike Fraser",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830564",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3830398",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "AquaWeave: Weaving Liquid-Activated Morphing Bio-Textiles",
+    "authors": "Jingwen Zhu, Kuangqi (Eddie) Zhu, Emily L. Fan, Megan Wu, Samantha Chang, Hsin-Liu (Cindy) Kao",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830607",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations",
+    "authors": "Hita Kambhamettu, Will Crichton, Sean Welleck, Harrison Goldstein, Andrew Head",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830614",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "KnitARobo: Industrial Machine Knitting of Electromechanical Textile Interfaces with Liquid Crystal Elastomer Fibers",
+    "authors": "Jack Forman, Amanda Shayna Ahteck, Hiroshi Ishii, Neil Gershenfeld, Megan Hofmann",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830610",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding",
+    "authors": "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, Yuxin Ma",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830563",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MemCanvas: A Structured Memory Canvas for Evolving Intent Alignment in LLM Dialogues",
+    "authors": "Jinpei Ye, Yaorui Fei, Yinyu Lu, Zhibin Zhou, Weitao You",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830596",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework",
+    "authors": "Wen-Fan Wang, TsaiHsuan Lin, Chi-Lan Yang, An-Ru Cheng, Bing-Yu Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830574",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Maru: Information Architecture as a Shared Language for Generating Aligned and Persistent User Interfaces",
+    "authors": "Eunhye Kim, DaEun Choi, Bryan Min, Hyunjung Yi, Yue Jiang, Juho Kim",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830621",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Interactively Teaching Collaborative Physical Tasks to Generative AI with Narrated Demonstrations",
+    "authors": "Edward Kim, Daniel He, Jorge Diaz Chao, Wiktor Rajca, Mohammed Ashfak Amin, Nishant Malpani, Ruta Desai, Antti Oulasvirta, Bjoern Hartmann, Sanjit A Seshia",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830568",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics",
+    "authors": "Alexander Wang, Chris Donahue, David Lindlbauer",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830530",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SilkSense: A Craft-Inspired Fabrication Method for Silk-based Functional Interfaces",
+    "authors": "Yixiong Wang, Yan Li, Yuxiao Huang, Wenyu Wang, Chen Liang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830653",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MuscleJockey: Motor Initiation via Electrical Muscle Stimulation While Preserving User Control",
+    "authors": "Shieru Suzuki, Seito Matsubara, Akihiko Murai, Yoichi Ochiai",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830685",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TransfHAR: Self-Supervised Wrist Representations for On-Demand Activity Recognition",
+    "authors": "Aidan Bradshaw, Riku Arakawa, Xin Liu, Karan Ahuja",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830553",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SpeLL: A Generative Framework for Synthesizing 3D Visual Effects from Text Prompts with Large Language Models",
+    "authors": "Jeongseok Oh, SeungJun Kim",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830697",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Avatar Cloak: Protecting Behavioral Privacy with State-Aware Motion Substitution in Immersive MR Telepresence",
+    "authors": "Meng Ting Shih, Yun-Chen Chang, Yu-Ting Peng, Liwei Chan",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830572",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TeachUp: Facilitating Early-Stage Teachers to Learn Instructional Strategies from Classroom Videos with Reflective Support",
+    "authors": "Haoxiang Fan, Ding Lei, Zaihong Zheng, Jiale Li, Jionghao Lin, Jian Yin, Zhenhui Peng",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830693",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Stund: Activity-Enriched Collaborative Workspaces Mediated by Artificial Intelligence",
+    "authors": "Marcel Borowski, Janus Bager Kristensen, Payod Panda, Sean Rintel, Niklas Elmqvist, Jens Emil Sloth Grønbæk, Clemens Nylandsted Klokmose",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830508",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ElectroPad: Extending Gamepad Haptics for Hand Movements in Video Games with Electrotactile Feedback",
+    "authors": "Wenxuan Li, Hongnan Lin, Shengsheng Jiang, Jiaqi Zheng, Xinyi Gao, Hechuan Zhang, Luyao Shen, Teng Han, Feng Tian, Wei Wang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830656",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation",
+    "authors": "Ningzhi Tang, David Meininger, Gelei Xu, Yiyu Shi, Yu Huang, Collin McMillan, Toby Jia-Jun Li",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830631",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SketchAloud: Combining Time-Aligned Sketch &amp; Speech for Multimodal Specification of 3D Designs",
+    "authors": "Mohi Reza, George Fitzmaurice, Justin Matejka",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830519",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Cardinal Pressure Pulses Rendered by a Wristband Can Elicit Phantom Directional Cues",
+    "authors": "Adam Kadmani, Jan Ulrich Bartels, Natalia Sanchez-Tamayo, Walter Gasparetto, Katherine J. Kuchenbecker",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830603",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Generative Proxy: Synthesizing Proxy-Based Interfaces for Real-World Interaction Across AR Glasses",
+    "authors": "Xianhao Carton Liu, William Chastek, Eric J Gonzalez, Mar Gonzalez-Franco, Chen Zhu-Tian",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830482",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "RingIO: An Eyes-Free Smart Ring with Inputs via Touch and Outputs via Touch",
+    "authors": "Lonnie Chien, Pedro Lopes",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830588",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "InvisIto: Weaving Unobtrusive Infrared Markers for Ubiquitous Textile Interaction",
+    "authors": "Hsuanling Lee, Hal Sugiyama, Tian Min, Hanako Fujino, Mayuka Kuwana, Yuta Sugiura, Mustafa Doga Dogan, Liang He, Koya Narumi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830562",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "From Words to Widgets for Controllable LLM Generation",
+    "authors": "Chao Zhang, Yiren Liu, Lunyiu Nie, Jeffrey M. Rzeszotarski, Yun Huang, Tal August",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830587",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "EvoMaestro: Toward Interpretable and Steerable LLM-Driven Program Evolution",
+    "authors": "Feng Liang, Sizhe Cheng, Yikai Li, Ruijie He, Xiaolin Wen, Yong Wang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830626",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Graphionale: How Graph Visualizations of LLM Rationales Affect Human Decision Making",
+    "authors": "Xinru Wang, Zhexuan Ma, Ming Yin, Shuai Ma, Thomas W Malone",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830638",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "While You're Still Busy: Context-Aware Approach Optimization for Proactive Mobile Robots",
+    "authors": "Ziru Wei, Di Wen, Leyuan Chen, Hassan Shahzad, Alexandra Ion",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830714",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "GazeTune: Facilitating Precise Gaze-Driven Interactions with Cascaded Touch Input",
+    "authors": "Jina Kim, Eric J Gonzalez, Yang Zhang, Sang Ho Yoon",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830481",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Present Drawing: Exploring Avatar-Mediated Drawing Events with Physical Traces",
+    "authors": "Kojiro Tanaka, Takuya Iwamoto, Yuki Okafuji",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830493",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents",
+    "authors": "Ruei-Che Chang, Wenqian Xu, Ding Li, Bryan Wang, Anhong Guo",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Mirror Skin: In Situ Visualization of Robot Touch Intent on Robot Skin",
+    "authors": "David Wagmann, Matti Krüger, Chao Wang, Michael Gienger, Jürgen Steimle",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830547",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Dramarrator: Object-Based Audio Editing for Audio Drama Production from Books",
+    "authors": "Karim Benharrak, Oriol Nieto, Bryan Wang, Zeyu Jin, Amy Pavel",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830546",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ProConte",
+    "authors": "Jun Kato, Junichi Sato, Nao Hirasawa, Michel Beaudouin-Lafon, Wendy E. Mackay",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830687",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Simulating Word Suggestion Usage in Mobile Typing to Guide Intelligent Text Entry Design",
+    "authors": "Yang Li, Anna Maria Feit",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830521",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "FabDreamer: Exploring the Image-to-Physical Workflow Through AI-Assisted Layered Fabrication",
+    "authors": "Chenfeng Gao, Zeya Chen, Anjie Yang, Karan Ahuja, Danli Luo",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830571",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Revibing Code from Papers: Reimplementing HCI Artifacts",
+    "authors": "Eytan Adar, Yoonjoo Lee, Ning-Er (Nina) Lei, Q. Vera Liao, Weirui Peng",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830627",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Electrotactile Improves Thermal Referral",
+    "authors": "Wen Li, Rong Ni, Bozhi Tian, Pedro Lopes",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830581",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+    "authors": "Nhan (Nathan) Tran, Hijung Valentina Shin, Abe Davis, Mackenzie Leake",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830545",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Sticki: Personalized Content Moderation Using Image Overlays for Recontextualizing Aversive Videos",
+    "authors": "Yejin Choi, Dohwa Kim, Youngeun Jun, Hyosu Kim, Eunji Park",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830541",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MagicPen: Enabling Dynamic Physical Scaffolding through Haptic Feedback for 3D Content Creation in VR with a Variable-length Stylus",
+    "authors": "Zhicheng Wang, Tianze Xie, Yilong Lin, Xuesong Zhang, Daniele Giunchi, Eyal Ofek, Seungwoo Je",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830535",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MaterialVellum: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints",
+    "authors": "Chu Li, Nicolai Marquardt, Hugo Romat, Ken Hinckley, Nathalie Riche, Kwon Ko, Fanny Chevalier",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830504",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "What If You Could Call Your Future Self? NicoCall as a Personalized Future-Self Video Call for Nicotine Cessation",
+    "authors": "Jiheun Hong, Jumin Seo, Dongmyung Kim, Christopher Russell Shelton, Hayoung Oh",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830701",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Body Sublimation: Designing State-Changing Extended Hand for Embodied Out-of-Reach Interaction",
+    "authors": "Masahiro Ohta, Reigo Ban, Hideaki Nii, Guillaume Gourmelen, Takuji Narumi, Mauricio Sousa, Takatoshi Yoshida, Kouta Minamizawa",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830583",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "WhatIf: Interactive Exploration of Large-Scale LLM Agent Simulations for Policy Reasoning",
+    "authors": "Yuxuan Li, Kyzyl Monteiro, Hirokazu Shirado, Sauvik Das",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830720",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CapAura: A Proxemic Interactive Infrastructure on Everyday Furniture through Capacitive Architecture Unit",
+    "authors": "Jianan Zhang, Kohei Kobayashi, Hanrui Peng, Hideaki Nii, Takatoshi Yoshida, Mauricio Sousa, Kouta Minamizawa",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830590",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ExtenString: Enhancing String-Based Interaction with Virtual Screens through Remapping",
+    "authors": "Han Shi, Hanzhong Luo, Xuesong Zhang, Qianyuan Zou, HyeonBeom Yi, Seungwoo Je",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830480",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ChatMuse: Supporting In-Person Small-Group Conversation Experience with a Proactive Assistive AI Agent in Mixed Reality",
+    "authors": "Shaoze Zhou, Joaquin Frangi, ⁠Diana Nelly Rivera Rodriguez, Rawan Alghofaili, Janet G. Johnson, Lingyao Li, Renkai Ma, Christine Lætitia Lisetti, Chen Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830487",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Map2Video: Guiding Real-World-Grounded AI Video Generation",
+    "authors": "Hye-Young Jo, Mose Sakashita, Aditi Mishra, Ryo Suzuki, Koichiro Niinuma, Aakar Gupta",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830538",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "PACEE: Parent-Centered AI Scaffolding for Emotion Education in Early Childhood Conversations",
+    "authors": "Yu Mei, Xutong Wang, Ziyao Zhang, Yiming Fu, Shiyi Wang, Qingyang Wan, Qinghuan Lan, Chang Liu, Jie Cai, Chun Yu, Yuanchun Shi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830617",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Cellery: Gradual, Composable Structure for Spreadsheets",
+    "authors": "Jacob Yim, Sathwika Peechara, Brian Hempel, Michael Coblenz",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830625",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MBits: Multi-modality 3D-printed objects via resonance-tunable spring-mass units",
+    "authors": "Atul Chaudhary, Andrea Bianchi, Daniel Ashbrook, Valkyrie Savage",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830641",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "DOBI: Dynamic Opportunistic Body Input via Spare Joint Recruitment for Hands-Free XR",
+    "authors": "Rachel Kim, Xun Qian, Sang Ho Yoon",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830670",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion",
+    "authors": "Yue Shen, Rehema Abulikemu, Ryan P. McMahan, Yan Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830707",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Quantum Computing and Quantum-Inspired Technologies for Spatial Data Systems and Applications",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3849728",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "The Quantum Geometry® Grand Challenge: A Multiyear Prize and Benchmark Program for Quantum Computing in Geometry, CAD, GIS, and Meshing",
+    "authors": "W Randolph Franklin",
+    "publish": "Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Quantum Computing and Quantum-Inspired Technologies for Spatial Data Systems and Applications",
+    "url": "https://doi.org/10.1145/3849728.3849841",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Augmenting Human Performance with an XR Agent Learning from Online Behavior and BCI Evidence",
+    "authors": "Ziheng Li, Xichen He, Haoyan Chen, Charlie Zou, Sheng Bai, Benjamin Yang, Mengyuan Wu, Jake Ledner, Yi-Jie Cheng, Akito Yamauchi, Dishita G Turakhia, Steven Feiner, Paul Sajda",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830615",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Elsewise: Authoring Open-ended Interactive Narrative with Possibility Space Visualization",
+    "authors": "Yi Wang, John Joon Young Chung, Melissa Roemmele, Yuqian Sun, Tiffany Wang, Shm Garanganao Almeda, Brett A. Halperin, Yuwen Lu, Max Kreminski",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830591",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Co-opting Mobile Device Cellular RF Front Ends for HCI Sensing",
+    "authors": "Daehwa Kim, Chris Harrison",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830594",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "SpatialBlend: Relational Reconstruction for Cross-Space Presence in Heterogeneous Spaces",
+    "authors": "Jingyu Lee, Dongho Han, Jinmyeong Kim, Youngki Lee",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830690",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "From Scaffolding to Internalization: Enhancing CPR Training with In-Situ Visualization and Kinesthetic Feedback",
+    "authors": "Jiahe Dong, Shuhao Zhang, Yutao Ming, Jinkai Zhang, Yurui Zhang, Quan Li",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830498",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "\"What Are You Really Trying to Do?\": Co-Creating Life Goals from Everyday Computer Use",
+    "authors": "Shardul Sapkota, Matthew Jörke, Zane Sabbagh, Omar Shaikh, Grace Wang, James A. Landay",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830630",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "HapTap: Ultrashort, Low Power Pulses for Localized Fingertip Haptics",
+    "authors": "Seung Heon Lee, Jung-Hwan Youn, Craig Shultz",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830531",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Prism-UX: Turning Evaluative Divergence into Traceable Design Evidence for LLM-Based Process-Level UX Evaluation",
+    "authors": "Guangpeng Wei, Shunan Zhang, Zhengxiang Lin, Suxiang Ling, Wei Wang, Yi Xiao",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830622",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Integrating Visual and Acoustic Modalities for Near-Eye Gaze Tracking",
+    "authors": "Yuhan Ma, Feng Lu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830650",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ProtoCall: Preemptive Physical Feedback for Sequential Skill Augmentation",
+    "authors": "Kyungyeon Lee, Kirti Kishore, Adrien Ramsamy, Atsushi Kikumoto, Jun Nishida",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830584",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "PartInteractor: Intent-Driven Part-Aware 3D Authoring for Continuous Co-Creation in XR",
+    "authors": "Jianan Jiang, Bin Li",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830483",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Quantum Machine Learning for Satellite Trajectory Prediction: A 3-Axis Specialized Quantum Regressor",
+    "authors": "Mohamed Masmoudi, Fatma Masmoudi, Abdulaziz Alenazi",
+    "publish": "Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Quantum Computing and Quantum-Inspired Technologies for Spatial Data Systems and Applications",
+    "url": "https://doi.org/10.1145/3849728.3849842",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Veriscope: Provenance-Aware Verification of LLM Reasoning Artifacts in Conversational Data Analysis",
+    "authors": "Lingyu Meng, Hanbei Zhan, Yuan Tian, Yuchen He, Di Weng, Yingcai Wu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830599",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Print&amp;Fold: Printing and Folding Shape-accurate 3D Models",
+    "authors": "Archit Kumar, Zachary Grimm, Mingsheng Xu, Shlok Rathi, Martin Nisser",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830680",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Remapping Time in Augmented Reality",
+    "authors": "Nandi Zhang, Yukang Yan",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830686",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MoTUI: Personalization of In-Vehicle Tactile Interfaces for People With Vision Impairments and the Blind",
+    "authors": "Max Rädler, Julian Zähnle, Luca-Maxim Meinhardt, Pascal Jansen, Enrico Rukzio, Mark Colley",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830507",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Electrotactile Retargeting in Orientation Perception of Teleoperated Tools",
+    "authors": "Hechuan Zhang, Gaopan Wang, Rufei Song, Zhenxuan He, Hongnan Lin, Nianlong Li, Teng Han, Feng Tian",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830665",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "From Gaze to Guidance: Interpreting and Adapting to Users’ Cognitive Needs with Multimodal Gaze-Aware AI Assistants",
+    "authors": "Valdemar Danry, Javier Hernandez, Andrew D Wilson, Pattie Maes, Judith Amores",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830698",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Relative-Motion-Aware Color Presentation with High-Speed Projection",
+    "authors": "Ryusuke Miyazaki, Shio Miyafuji, Hideki Koike",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830710",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "AeroPixels: Repurposing Ubiquitous Displays as Imperceptible Schlieren Light Sources for Airflow Interaction",
+    "authors": "Yusuke Imoto, Takashi Amesaka, Daisuke Iwai",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830604",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MolecularCanvas: LLM-assisted Small-Molecule Drug Discovery via Structure-Guided Constraints",
+    "authors": "Haoyu Dong, Rui Sheng, Shuhao Zhang, Yushi Sun, Dingyang Wu, Hanxiang Chao, Olexandr Isayev, Huamin Qu, Yuyang Wu, Yanna Lin",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830585",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "4DOrthosis: Therapist-in-the-Loop Design and Fabrication of Force-Customized Hand Orthoses via 4D Printing",
+    "authors": "Guanyun Wang, Yue Tao, Danlin Qi, Shanghua Lou, Yuyang Zhang, Chuang Chen, Jie Wu, Ye Tao, Lingyun Sun",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830726",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Who's Keeping Score? Interactive Steering of LLM-Powered Scoring with Attune",
+    "authors": "Bhavya Chopra, Meng Chen, Rebecca Dang, Chanbin Park, Shreya Shankar, Sepanta Zeighami, Bjoern Hartmann, Aditya Parameswaran",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830567",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CinemaWorld: Generative Augmented Reality with LLMs and 3D Scene Generation for Movie Augmentation",
+    "authors": "Keiichi Ihara, DaeHo Lee, Manato Abe, Hye-Young Jo, Ryo Suzuki",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830520",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "RegulAR: Graph-Grounded Error Recognition and Assistance for Procedural Tasks in AR",
+    "authors": "Yi-Lin Ye, Jindu Wang, Hiu Tung Wong, Shuchang Xu, Huamin Qu, Wong Kam-Kwai",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830593",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "When and Where You Nudge Matters: Multi-Step Interface Interventions Against Address Poisoning in Crypto Wallets",
+    "authors": "Yuqi Xu, Maggie Yongqi Guan, Yunlong Mao, Xin Yi, Wei Tong, Sheng Zhong, Xiaobo Zhou, Kanye Ye Wang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830668",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "InsightToast: Proactive Information Retrieval &amp; Glanceable Visualization in the Side Channel of Data-Rich Meetings",
+    "authors": "Mohammad Abolnejadian, Matthew Brehmer",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830522",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Collascope: Supporting Serendipitous Asset Exploration for Collage-Based Storytelling",
+    "authors": "Jiayi Zhou, Longji Huang, Lvmin Zhang, Yun Wang, Zeyu Wang, Maneesh Agrawala, Huamin Qu, Anyi Rao",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830573",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "V-Hook: Morphology-Mediated Vibration-Driven Locomotion through 3D-Printed Hook Structures",
+    "authors": "Shuai Wang, Xichun Wang, Junzhe Ji, Xiaoyang Zhu, Shuyang Ji, Yue Tao, Yue Chen, Yixuan Li, Zonglin Lai, Ye Tao, Guanyun Wang",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830494",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Sighted by Default: Addressing Implicit Vision Assumptions in Real-Time VLM Assistance for BLV Users",
+    "authors": "Yi Zhao, Siqi Wang, Qiqun Geng, Erxin Yu, Jing Li",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830496",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "NailBender: Exploring Nail Flexion for Haptic Input and Output",
+    "authors": "Yanjun Chen, Xiping Sun, Jung-Hwan Youn, Craig Shultz",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830525",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Attribution Gradients: Incrementally Unfolding Citations for Critical Examination of Attributed AI Answers",
+    "authors": "Hita Kambhamettu, Alyssa Hwang, Philippe Laban, Andrew Head",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830624",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "BlimpMate: A Quiet, Long-Endurance Flying Display for Hands-Free Intelligent Interaction",
+    "authors": "Henghao Li, Shan Lin, Yang Xu, Yixiao Wei, Hongjie Li, Suwen Mei, Xindi Lyu, Xing-Dong Yang, Yuhua Jin",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830527",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "KnowTap: A Knowledge-Driven Tool for Fine-Grained Tappability Assessment and Design Iteration of Mobile UIs",
+    "authors": "Chang'ao Liu, Chengyi Shen, Zhitong Cui, Yao Wang, Shijian Luo",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830517",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Neighborhood: Dynamic Spatial Alignment for Traversable Telepresence Across Remote Spaces",
+    "authors": "Taehei Kim, Hyeshim Kim, Jihun Shin, Hyeonjin Kim, Sung-Hee Lee",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830524",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Halftoning for 3D Printed Textile Nets",
+    "authors": "Keren Gispan, Shlomit Ariel, Yoav Sterman",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830642",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "The Rock Can Talk",
+    "authors": "Ben Pearman, Matthew Newton, Landon Odishaw-Dyck, Wesley Willett",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830582",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "HueRistic: Optimizing Lighting for Live Video Color Design",
+    "authors": "Ticha Sethapakdi, Mackenzie Leake, Stephen DiVerdi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830544",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Kneadix: A Multi-Process Loom with Dynamic Warp-Weft Role Assignment",
+    "authors": "Shuhong Wang, Shengyuehui Li, Xiaoman Yang, Vivien Chen, Yoobin Lee, Brianna Cheng, François Guimbretière",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830677",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "EIJaw: Non-Invasive Intraoral User Interface with Electrical Impedance Sensing",
+    "authors": "Xiyao Jin, Zhi Liu, Tatsuki Fushimi, Yoichi Ochiai",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830649",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "IP Protection of HLS-based DSP Designs using Parallel Encoding and Multi-Layer Encoded Transformation",
+    "authors": "Anirban Sengupta, Nabendu Bhui",
+    "publish": "ACM Journal on Emerging Technologies in Computing Systems",
+    "url": "https://doi.org/10.1145/3861023",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TextBand: Writing by Visualizing and Editing the Sound of Text",
+    "authors": "Gabriel Beaudoin, Damien Masson",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830606",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "TwistForm: Shaping Reconfigurable 3D Surfaces via Pre-programmed Torsional Deformation of Chains",
+    "authors": "Hiroki Sato, Rei Sakura, Yasuaki Kakehi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830705",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Priors of U: Dynamic Preference Learning for Embodied Interaction",
+    "authors": "Violet Yinuo Han, Alexandra Ion",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830688",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Faster Than Muscle: Executing Action based on Voluntary Nervous Signals",
+    "authors": "Gabriela Vega, Johanna K. Didion, Reshma Ann Daniel, Nihar Sabnis, Daisuke Tajima, Shunichi Kasahara, Paul Strohmeier",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830666",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Sonic Stage: Automatically Generating Interactive Spatial Soundscapes to Facilitate Dialogue Video Comprehension for Blind Viewers",
+    "authors": "Shuchang Xu, Xiaofu Jin, Gaurav Jain, Wenshuo Zhang, Huamin Qu, Brian A. Smith, Yukang Yan",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830486",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Codetations: Rich, Granular, and Maintainable Annotations for Evolving Code",
+    "authors": "Edward Misback, Eunice Jun, Erik Vank, Zachary Tatlock, Steven Tanimoto",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830552",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation",
+    "authors": "Jiin Choi, Kyung Hoon Hyun",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830724",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "InvisiSpeech: Making Silent Speech Invisible through a Miniature Intraoral Sensor",
+    "authors": "Yijing Jiang, Taiting Lu, Berken Utku Demirel, Zhipeng Li, Mahanth Gowda, Michael Wessely, Christian Holz",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830550",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Zoro: Active Controls to Support Rule Following in Vibe Coding",
+    "authors": "Jenny Ma, Sitong Wang, Joshua H Kung, Lydia B Chilton",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830629",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Exhale to Execute: Transforming Commercial Microphone Arrays into Directional Airflow Sensors for Ubiquitous Interaction",
+    "authors": "Di Tian, Yanjun Zhou",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830506",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation",
+    "authors": "Xiaoyan Gu, Yifang Wang, Wenqing Zheng, Haozhong Liu, Yixia Zheng, Peiyi Jiang, Wenjie Ning, Wei Zhang, Wei Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830539",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MatComposer: Structural-Semantic Retrieval and Iterative Exploration for Procedural Material Graph Authoring",
+    "authors": "Shunan Zhang, Yi Xiao, Guangpeng Wei, Yang Zhou, Zeyu Liu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830601",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Surprise2Refine: Axis-Centered Exploration-To-Refinement for Agent-Assisted Creative Scaffolding",
+    "authors": "Yuzhe You, Gromit Yeuk-Yin Chan, Shunan Guo, Anlan Zhang, Eunyee Koh, Jian Zhao, Tongyu Zhou",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830612",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Seeing Beyond the Chart: Behaviour-Aware Self-Directed Visual Acuity Screening with Multimodal Interaction",
+    "authors": "MK Michael Cheung, Miffy HT Cheung, Xinwei Zhai, Youqian Zhang, Zackary P. T. Sin, Hong Va Leong, Chi-Wai Do, Grace Ngai, Eugene Yujun Fu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830706",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "MetaBeads: Enabling Shape- and Stiffness-Changing Interfaces through Beaded Metamaterials",
+    "authors": "Yujia Liu, Yuyu Lin, Xie He, Victoria Sun, Trevor J Jones, Alexandra Ion",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830618",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Projective Walls, Floors, and Windows: Aligned Plane Interactions for Interior Architectural Design in VR",
+    "authors": "Hanbee Jang, Seung-Jun Lee, Seok-Hyung Bae",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830660",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Textro: A Prototyping Toolkit for Solderless and Chipless Smart Textile Interfaces",
+    "authors": "Yanfeng Zhao, Te-Yen Wu",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830561",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Less Is More: Balancing Positive and Negative Space in Visual Concept Blending",
+    "authors": "Shishi Xiao, Adam J Coscia, David H. Laidlaw",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830579",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "XTick: Rendering Omnidirectional Hit-and-Hold Impact Feedback All Round a Controller by Integrating Impact and Pressing Force",
+    "authors": "Wei-Hsun Huang, Hsin-Ruey Tsai, Po-Ying Hsu, Bing-Yu Robin Chen",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830526",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Sensorimotor Stickies: A Reconfigurable On-Body Platform for Closed-Loop Sensorimotor Training",
+    "authors": "Tianhong Catherine Yu, Jiwei Zheng, Chi-Jung Lee, Qifeng Yang, Tingyu Cheng, Qiuyue (Shirley) Xue, Cheng Zhang, Yiyue Luo",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830699",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Great Grave: Modeling Versioned Context Units for Longitudinal LLM Interaction",
+    "authors": "Jiwon Jang, Jaeeun Seo, Jaeseong Ju, Hyunwoo Park",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830503",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "LinkHydro: Design and Rapid Fabrication of Soft Self-Pumping Tubes for Prototyping Hydraulic Interface",
+    "authors": "Takafumi Morita, Tomoka Kurosawa, Kanon Aoyama, Hiroki Kaimoto, Yu Kuwajima, Shingo Maeda, Yasuaki Kakehi",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830575",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Eliciting Empathetic Expression Through Robot-Initiated Touch in Companion Scenarios",
+    "authors": "Yulin Jin, Guanhua Wang, Jingyuan Yang, Xuerui Ma, Liwen He, Hechuan Zhang, Zheqing Ma, Tianren Luo, Yun Wang, Teng Han, Nianlong Li, Feng Tian",
+    "publish": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+    "url": "https://doi.org/10.1145/3830398.3830695",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
