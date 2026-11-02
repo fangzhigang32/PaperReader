@@ -1,0 +1,26 @@
+[2026-11-02 01:17:44] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-11-01
+正在获取论文...
+[ACM] 2026-11-1 | Diagramming Computer System Concepts
+[ACM] 2026-11-1 | The Shorter the Better
+[ACM] 2026-11-1 | Reviews: Writing and Analyzing Effective Computer System Documentation
+[ACM] 2026-11-1 | Documenting Networks
+[ACM] 2026-11-1 | A Course in Documentation and Technical Communication
+[ACM] 2026-11-1 | Adaptive Interface: The Challenge to Documentation
+[ACM] 2026-11-1 | SIGIR 1985
+[ACM] 2026-11-1 | Expert Systems
+共写入 8 条记录，保存到 papers/paper2026-11-01.json。
+论文获取成功，文件路径: papers/paper2026-11-01.json
+正在筛选、翻译并发送邮件...
+[NO] 1/8 | Diagramming Computer System Concepts
+[NO] 2/8 | The Shorter the Better
+[NO] 3/8 | Reviews: Writing and Analyzing Effective Computer System Documentation
+[NO] 4/8 | Documenting Networks
+[NO] 5/8 | A Course in Documentation and Technical Communication
+[NO] 6/8 | Adaptive Interface: The Challenge to Documentation
+[NO] 7/8 | SIGIR 1985
+[NO] 8/8 | Expert Systems
+筛选完成：共 8 篇；Yes = 0 篇；已保存到 papers/select_paper2026-11-01.json。
+邮件发送成功！
+[2026-11-02 01:18:33] 任务执行成功！

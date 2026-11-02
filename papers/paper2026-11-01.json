@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2026-11-1",
+    "title": "Diagramming Computer System Concepts",
+    "authors": "Chris Hallgren",
+    "publish": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "url": "https://doi.org/10.1145/3860902.3861168",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-1",
+    "title": "The Shorter the Better",
+    "authors": "Michael Lesk",
+    "publish": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "url": "https://doi.org/10.1145/3860902.3861169",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-1",
+    "title": "Reviews: Writing and Analyzing Effective Computer System Documentation",
+    "authors": "Ann Stuart",
+    "publish": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "url": "https://doi.org/10.1145/3860902.3861171",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-1",
+    "title": "Documenting Networks",
+    "authors": "Andy Oram",
+    "publish": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "url": "https://doi.org/10.1145/3860903.3861273",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-1",
+    "title": "A Course in Documentation and Technical Communication",
+    "authors": "Patricia Brisotti Rice, Susan Fife Dorchak",
+    "publish": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "url": "https://doi.org/10.1145/3860902.3861170",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-1",
+    "title": "Adaptive Interface: The Challenge to Documentation",
+    "authors": "Russell E. Borland",
+    "publish": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "url": "https://doi.org/10.1145/3860903.3861274",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-1",
+    "title": "SIGIR 1985",
+    "authors": "Michael Lesk",
+    "publish": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "url": "https://doi.org/10.1145/3860903.3861276",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-1",
+    "title": "Expert Systems",
+    "authors": "Ian Winton",
+    "publish": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "url": "https://doi.org/10.1145/3860903.3861275",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
