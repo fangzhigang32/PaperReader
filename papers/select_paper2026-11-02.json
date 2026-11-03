@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-11-2",
+    "title": "Toward an Empirical Security Panorama of eBPF using GenAI-powered Automated Pipelines",
+    "authors": "Louie Wolf, Gürkan Gür, Daniel Borkmann",
+    "publish": "Proceedings of the ACM CoNEXT 2026 Student Workshop",
+    "url": "https://doi.org/10.1145/3843179.3858045",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于生成式人工智能自动化管道的eBPF经验安全全景图",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-2",
+    "title": "A Survey of LLM-based Software Repair: Taxonomies, Design Paradigms, and Applications",
+    "authors": "Boyang Yang, Zijian Cai, Fengling Liu, Bach Le, Lingming Zhang, Tegawendé F. Bissyandé, Yang Liu, Haoye Tian",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3845995",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于大语言模型的软件修复综述：分类、设计范式与应用",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-2",
+    "title": "DRHL: Cross-Language Detection and Repair of Access Control Vulnerabilities via Hybrid Analysis and LLMs",
+    "authors": "Bing Zhang, Hongliang Liu, Rong Ren, Qian Wang, Jiadong Ren",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3861065",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "DRHL：通过混合分析和大型语言模型进行跨语言访问控制漏洞检测与修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "Detecting Routing Collapse Early and Label-Free in LLM Cascades",
+    "authors": "Xiankun Lin, Xinyi Lin, Zhezheng Hao, Lixin Liu",
+    "publish": "Proceedings of the 35th ACM International Conference on Information and Knowledge Management",
+    "url": "https://doi.org/10.1145/3799682.3840069",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "在LLM级联中早期且无标签地检测路由崩溃",
+    "abstract_zh": "None"
+  }
+]
