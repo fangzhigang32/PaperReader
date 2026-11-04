@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2026-11-3",
+    "title": "From Smell Detection to Remediation: Operationalizing Expert Software Maintenance Knowledge in AI-Assisted Workflows",
+    "authors": "Kushal Subedi",
+    "publish": "2026 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+    "url": "https://doi.org/10.1109/icsme67971.2026.00155",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "从气味检测到修复：在AI辅助工作流程中实现专家软件维护知识",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "ATLAS: Multi-View Code Representation Tool for C and C++ Source Programs",
+    "authors": "Jaid Monwar Chowdhury, Ahmad Farhan Shahriar Chowdhury, Humayra Binte Monwar, Mahmuda Naznin",
+    "publish": "2026 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+    "url": "https://doi.org/10.1109/icsme67971.2026.00127",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "ATLAS：C和C++源程序的多视图代码表示工具",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "GHAgentFiles: A dataset of coding agent file histories in GitHub repositories",
+    "authors": "Guillaume Cardoen, Tom Mens, Alexandre Decan",
+    "publish": "2026 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+    "url": "https://doi.org/10.1109/icsme67971.2026.00080",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "GHAgentFiles：GitHub仓库中编码代理文件历史数据集",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "On Automated and Explainable Provenance of AI-Generated Code",
+    "authors": "Alejandro Velasco, Nathan Wintersgill, Trevor Stalnaker, Oscar Chaparro, Denys Poshyvanyk",
+    "publish": "2026 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+    "url": "https://doi.org/10.1109/icsme67971.2026.00143",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "关于AI生成代码的自动化与可解释性溯源",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "Not All Adversarial Comments Are Equal: A Ranked Empirical Study of Twelve Comment Injection Attacks Against LLM-Based Code Vulnerability Detection",
+    "authors": "Sunny Chokshi",
+    "publish": "2026 International Conference on Cybersecurity and AI-Based Systems (Cyber-AI)",
+    "url": "https://doi.org/10.1109/cyber-ai70573.2026.11755134",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "并非所有对抗性评论都相同：针对基于大语言模型的代码漏洞检测的十二种评论注入攻击的排序实证研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "Generative AI Framework for Enhancing Software Vulnerability Detection",
+    "authors": "Vinay R, Kunal Hossain, Nayani Sateesh, Vaibhav Sharma, Punith Kumar, Vallamkonda Jyothi",
+    "publish": "2026 International Conference on Advanced Computing Technologies (ICACT)",
+    "url": "https://doi.org/10.1109/icact70625.2026.11748828",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "增强软件漏洞检测的生成式人工智能框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "CoCoMoE: Towards Efficient Code Completion with Sparse Mixture-of-Experts Architectures",
+    "authors": "He Zhang, Zhiqi Wang, Yue Li, Yuzhe Jin, Chenxing Zhong, Lanxin Yang",
+    "publish": "2026 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+    "url": "https://doi.org/10.1109/icsme67971.2026.00034",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CoCoMoE：面向高效代码补全的稀疏混合专家架构",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "Beyond Text Editing: Algebraic Manipulation of Source Code",
+    "authors": "Kevin Pulo",
+    "publish": "2026 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+    "url": "https://doi.org/10.1109/icsme67971.2026.00101",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "超越文本编辑：源代码的代数操作",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "SWE-Ext: Scaling and Extending Augmented Data for Mid-Training of Repository-Level Coding Tasks",
+    "authors": "Wei Li, Xin Zhang, Shaohang Wei, Wen Luo, Feifan Song, Guangyue Peng, Yanjie Gao, Zhongxin Guo, Yangyu Huang, Houfeng Wang",
+    "publish": "2026 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+    "url": "https://doi.org/10.1109/icsme67971.2026.00056",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SWE-Ext：扩展和增强存储库级编码任务的中期训练数据",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-3",
+    "title": "Separating Secrets from Placeholders: A Hybrid CNN-CodeBERT Framework for Three-Class Credential Leakage Detection",
+    "authors": "Maksuda Bilkis Baby, Khushika Shah, Naiyue Liang, Lei Zhang",
+    "publish": "2026 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+    "url": "https://doi.org/10.1109/icsme67971.2026.00044",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "分离秘密与占位符：一种用于三类凭证泄露检测的混合CNN-CodeBERT框架",
+    "abstract_zh": "None"
+  }
+]
