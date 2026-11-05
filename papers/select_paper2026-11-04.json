@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-11-4",
+    "title": "HIL Test Case Generation Based on Knowledge Graph-Enhanced LLM with Graph RAG",
+    "authors": "Shuai Liu, Yang Liu, Ran Bo, QingLiang Shang",
+    "publish": "2026 8th International Conference on Intelligent Autonomous Systems (ICoIAS)",
+    "url": "https://doi.org/10.1109/icoias71675.2026.11755281",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于知识图谱增强LLM与图RAG的HIL测试用例生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-4",
+    "title": "Beyond Code Generation: Agenda for AI-Assisted Empirical Software Engineering",
+    "authors": "Silvia Abrahão, Miroslaw Staron, Silvia Abrahão, Miroslaw Staron",
+    "publish": "IEEE Software",
+    "url": "https://doi.org/10.1109/ms.2026.3723931",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "超越代码生成：AI辅助经验软件工程的议程",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-4",
+    "title": "AI Models for Code Improvement",
+    "authors": "Valeria Pontillo, Giammaria Giordano, Sarra Habchi, Thomas Zimmermann",
+    "publish": "IEEE Software",
+    "url": "https://doi.org/10.1109/ms.2026.3723932",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AI模型用于代码改进",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-4",
+    "title": "An Empirical Evaluation of RAG for Accessibility-Aware Android Code Generation",
+    "authors": "Ribamar Souza, Daniel Mesquita Feijó Rabelo, Windson Viana",
+    "publish": "Proceedings of the IEEE/ACM 13th International Conference on Mobile Software Engineering and Systems",
+    "url": "https://doi.org/10.1145/3795077.3795113",
+    "source": "ACM",
+    "abstract": "抓取摘要失败: 'NoneType' object has no attribute 'close'",
+    "title_zh": "面向无障碍感知的Android代码生成的RAG实证评估",
+    "abstract_zh": "抓取摘要失败: 'NoneType' 对象没有 'close' 属性"
+  },
+  {
+    "date": "2026-11-4",
+    "title": "On the Hidden Costs of AI-Assisted Code AI Generation Violating Embedded Code Constraints",
+    "authors": "Gudrun Schappacher-Tilp, Egon Teiniker, Sigrid Eldh, Sigrid Eldh",
+    "publish": "IEEE Software",
+    "url": "https://doi.org/10.1109/ms.2026.3727830",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "关于AI辅助代码生成违反嵌入式代码约束的隐藏成本",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-4",
+    "title": "How Robust are LLM-Generated Library Imports? An Empirical Study using Stack Overflow",
+    "authors": "Jasmine Latendresse, SayedHassan Khatoonabadi, Emad Shihab",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3751079",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "LLM生成的库导入有多鲁棒？一项基于Stack Overflow的实证研究",
+    "abstract_zh": "None"
+  }
+]
