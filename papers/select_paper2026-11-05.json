@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-11-5",
+    "title": "IterCAD: Iterative Program Repair for CAD Code Generation from Orthographic Views",
+    "authors": "Yuchuan Wu, Ke Niu, Haiyang Yu, Zhuofan Chen, Xiangyang Xue, Bin Li",
+    "publish": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3836503",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "IterCAD：基于正交视图的CAD代码生成迭代程序修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-5",
+    "title": "Structural Context Awareness for PyTorch 2.x Code Synthesis Through Graph Retrieval Augmented Generation",
+    "authors": "Mohit Kumar, Amitesh Sinha, Rahul Anand, M. Farida Begam",
+    "publish": "2026 6th International Conference on Circuits, Control, Communication and Computing (I4C)",
+    "url": "https://doi.org/10.1109/i4c69082.2026.11759706",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于图检索增强生成的PyTorch 2.x代码合成的结构上下文感知",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-5",
+    "title": "Let Prompts Bridge Defense Knowledge: Transferable Graph Purification via Vulnerability-Aware GPL",
+    "authors": "Shuomin Xue, Jingyuan Li, Ju Jia, Jingxuan Yu, Xiaojun Jia",
+    "publish": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3836513",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "让提示桥接防御知识：基于漏洞感知的通用预训练模型的可迁移图净化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-5",
+    "title": "Lich: Towards Practical Vulnerability Detection with LLM-Assisted Causal Graph Learning",
+    "authors": "Sicong Cao, Xiaobing Sun, Le Yu, Liping Han, Mingzhe Hu, Di Wu, Fu Xiao, Minhui Xue",
+    "publish": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "https://doi.org/10.1109/tdsc.2026.3750908",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "利奇：基于大语言模型辅助的因果图学习的实用漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-5",
+    "title": "What to Retrieve? Investigating Effective Call Information in Repository-level Code Generation",
+    "authors": "Siyu Nan, Jian Wang, Yaling Luo, Zhihao Wang, Neng Zhang, Yutao Ma, Bing Li",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3860324",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "要检索什么？探究存储库级代码生成中的有效调用信息",
+    "abstract_zh": "None"
+  }
+]
