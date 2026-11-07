@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2026-11-6",
+    "title": "CircuitDiff: Bridging Netlist Knowledge with RTL based on Graph Denoising Diffusion",
+    "authors": "Ning Wang, Zichong Deng, Bingkun Yao, Jie Zhou, Yuchen Hu, Xi Wang, Zhe Jiang, Nan Guan",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804385",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CircuitDiff：基于图去噪扩散的网表知识与RTL桥接",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation",
+    "authors": "Jiahe Caroline Shi, Zhengqi Gao, Ching-Yun Ko, Duane Boning",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804198",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "EARL：面向可靠RTL代码生成的熵感知RL对齐大语言模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "CHiRM-DSE: CodeLLM-based Hierarchical and Rule-Mining Guided DSE for FPGA accelerators",
+    "authors": "Shi Chao, Teng Wang, Zhu Qinggang, Qianyu Cheng, Jing Wu, Wenqi Lou, Lei Gong, Zhou Xuehai",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804272",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CHiRM-DSE：基于CodeLLM的分层规则挖掘引导FPGA加速器设计空间探索",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "Extending the Hennel.jl code generation framework with multi-GPU support",
+    "authors": "Wiktor Łodyga, Bartosz Chaber",
+    "publish": "2026 27th International Conference on Computational Problems of Electrical Engineering (CPEE)",
+    "url": "https://doi.org/10.1109/cpee71962.2026.11768201",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "为Hennel.jl代码生成框架扩展多GPU支持",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "STCG: Sparse Tensor Code Generation via Adaptive Tile Scheduling on GPUs with Tensor Cores",
+    "authors": "Haotian Wang, Yan Ding, Huilong Pi, Keqin Li, Kenli Li, Wangdong Yang",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804171",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "STCG：基于自适应瓦片调度在GPU张量核心上的稀疏张量代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "drcAgent: A Design Rule Aware LLM Agent for DRC Auto-Fix with Adversarial Reinforcement Learning",
+    "authors": "Zihang Ma, Zhuoheng Wan, Haodong Lu, Kun Wang",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804285",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "drcAgent：一种基于对抗性强化学习的设计规则感知LLM智能体，用于DRC自动修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "GPU-Fuzz: Finding Memory Errors in Deep Learning Frameworks",
+    "authors": "Zihao Li, Hongyi Lu, Yanan Guo, Zhenkai Zhang, Shuai Wang, Fengwei Zhang",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804266",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "GPU-Fuzz：在深度学习框架中查找内存错误",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "RISCSmith: Finding RISC-V CPU Bugs via Rich Instruction Construction and On-the-fly Differential Analysis",
+    "authors": "Xudong Zhang, Yuanliang Chen, Zehong Yu, Zhen Yan, Fuchen Ma, Dalong Shi, Yu Jiang",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3803916",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "RISCSmith：通过丰富的指令构造和即时差异分析发现RISC-V CPU漏洞",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "DRCGen: A Controllable DRC Violation Case Generator with Cross-PDK Transferability for Rule-Deck and Tool Validation",
+    "authors": "Shunjie Chang, Yuxuan Dong, Haodong Lu, Youran Wu, Jianli Chen, Jun Yu, Kun Wang",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804062",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "DRCGen：一种具有跨工艺设计套件(PDK)可转移性的可控设计规则违规案例生成器，用于规则库和工具验证",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "PrimitiveCAD: An LLM-Based Point-to-CAD Reconstruction with Primitive-Aware Tokenization and Operation Alignment",
+    "authors": "Jian Gao, Kailin Bi, Jiamin Xu, Jinlan Xu, Gang Xu",
+    "publish": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3835531",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PrimitiveCAD：一种基于大语言模型的点云到CAD重建方法，具有感知基元的标记化和操作对齐能力",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "Debug Like a Human: Scaling LLM-based Fault Localization to Processor Design via Block-Level Instruction-Oriented Slicing",
+    "authors": "Zizhen Liu, Xiaoguang Mao, Deheng Yang, Jiayu He, Yihao Qin, Guangda Zhang, Yan Lei, Jianjun Xu, Jiang Wu",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804145",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "像人类一样调试：基于LLM的故障定位在处理器设计中的块级指令导向切片扩展",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "AkiraRust: Re-thinking LLM-aided Rust Repair Using a Feedback-guided Thinking Switch",
+    "authors": "Renshuang Jiang, Yichong Wang, Pan Dong, Xiaoxiang Fang, Zhenling Duan, Tinglue Wang, Yuchen Hu, Jie Yu, Zhe Jiang",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804397",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AkiraRust：使用反馈引导的思维转换重新思考LLM辅助的Rust修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing",
+    "authors": "Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang, Yibo Lin",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804047",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于四梯度门尺寸的解耦可微分时序功耗协同优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "LLM Assisted Architectural Threat Modeling - Approach for Early Risk Identification",
+    "authors": "Dipankar Saha, Karan Alang, Ganesh Herke",
+    "publish": "2026 Second International Conference on Advances in Computer Science, Electrical, Electronics, and Communication Technologies (CE2CT)",
+    "url": "https://doi.org/10.1109/ce2ct68422.2026.11756628",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "LLM辅助架构威胁建模 - 早期风险识别方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "TOPCELL: Topology Optimization of Standard Cell via LLMs",
+    "authors": "Zhan Song, Yu-Tung Liu, Chen Chen, Guoheng Sun, Jiaqi Yin, Chia-tung Ho, Ang Li, Haoxing Ren, Cunxi Yu",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804365",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "TOPCELL：基于大语言模型的标准单元拓扑优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "ParetoPilot: Global Optimization Reasoning on HLS Design Space Exploration with LLMs",
+    "authors": "Jia Xiong, Runkai Li, Haowen Fang, Cheng Ni, Ziran Zhu, Nan Guan, Zhe Jiang, Xi Wang",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804051",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ParetoPilot：基于大语言模型的HLS设计空间探索全局优化推理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-6",
+    "title": "PCBgen3D: A Self-Correcting Graph-based MLLM Framework for Automated PCB 3D Models Generation",
+    "authors": "Zhaohai Di, Jindong Tu, Zhiyuan He, Yuan Pu, Tinghuan Chen",
+    "publish": "Proceedings of the 63rd ACM/IEEE Design Automation Conference",
+    "url": "https://doi.org/10.1145/3770743.3804254",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "PCBgen3D：一种用于自动化PCB 3D模型生成的自校正基于图的多模态大语言模型框架",
+    "abstract_zh": "None"
+  }
+]
