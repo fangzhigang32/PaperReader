@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-11-7",
+    "title": "To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation",
+    "authors": "Yitong Zhang, Chengze Li, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3862481",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "看见不等于掌握：教会大语言模型使用私有库进行代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "FeatOutline: Feature-Oriented Repository Summarization for Enhanced Code Comprehension and Maintenance",
+    "authors": "Yifeng Zhu, Xutian Li, Xianlin Zhao, Zexiong Ma, Kunze Li, Haizhuo Yuan, Yanzhen Zou, Bing Xie",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3862475",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "特性大纲：面向代码仓库的摘要生成，提升代码理解与维护效率",
+    "abstract_zh": "None"
+  }
+]

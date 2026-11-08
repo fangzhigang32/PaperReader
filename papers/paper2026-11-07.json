@@ -1,0 +1,569 @@
+[
+  {
+    "date": "2026-11-7",
+    "title": "Exploring Passthrough, Voice, and User Factors Beyond Interaction Modalities in Extended Reality",
+    "authors": "Tanja Kojić, Maurizio Vergari, Maximilian Warsinke, Danish Ali, Sebastian Möller, Jan-Niklas Voigt-Antons",
+    "publish": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "https://doi.org/10.1145/3861338",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Decision letter for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v4/decision1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "A Quantitative Method For Qualifying Vibrotactile and Auditory Stimuli Prior to User Studies",
+    "authors": "Claire Le Blay, Nadine Couture",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845959",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation",
+    "authors": "Yitong Zhang, Chengze Li, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3862481",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "M\n                    <sup>3</sup>\n                    ISR: A Multi-Modal Multi-View Benchmark for 3D/4D Gaussian Splatting and Feedforward Compression",
+    "authors": "Xinhui Liu, Lei Liu, Zhenghao Chen, Lebin Zhou, Wei Wang, Wei Jiang",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841537",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Virtual Reality for Collective Intelligence: A Multimodal Computational Framework",
+    "authors": "Tristan Lannuzel, Beatrice Biancardi, Mukesh Barange, Stéphanie Buisine",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845953",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Characterizing Automated Actions in Interactive Software",
+    "authors": "Bruno Fruchard, Mathieu Nancel",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845949",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "OpenHeart: Design Requirements for Supervisory Visualization of Distributed Flow Infrastructure",
+    "authors": "Sacha Sabatier, Nicolas Rouit-Leduc, Vanessa Peña-Araya, Marine Rouit, Bernard Yannou, Arnaud Prouzeau",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845958",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Review for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v1/review1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "A Survey on Robust Sequential Recommendation: Fundamentals, Challenges, Taxonomy, and Future Directions",
+    "authors": "Yatong Sun, Xiaochun Yang, Bin Wang, Zhu Sun",
+    "publish": "ACM Transactions on Information Systems",
+    "url": "https://doi.org/10.1145/3860537",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Review for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v1/review2",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Usability study of a notation dedicated to points of view in collaborative mixed reality",
+    "authors": "Thomaz Fèvre, Adrien Chaffangeon Caillet, Cédric Fleury, Laurence Nigay",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845956",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "\"For Those Who Come After\": A Descriptive and Reflective Framework for Workspace Awareness and Change Reporting Across Groupware Ecologies",
+    "authors": "Antoine Nollet, Carla F. Griggio, Sylvain Malacria, Bruno Fruchard",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845955",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Characterization of constraint management in construction engineering: foundations for ecological interface design",
+    "authors": "Cyprien Pierre, Alexis Heloir, Christophe Kolski",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845960",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Multimodal Orchestration in STEM Accessibility: from Architectural-Performance Decoupling to Differential Cognitive Yield",
+    "authors": "Madjid Sadallah, Benoît Encelle",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845951",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "AesCAST-An Automated Framework for Aesthetically-Guided Style Transfer",
+    "authors": "Jiangqi Ye, Can Zhong, Qianqian Qiao, Hao Chu, Xin Jin",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841544",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "TBQ:Trajectory-Aligned Branch-Aware Quantization for Few-Step MoE-Like Video Diffusion Models",
+    "authors": "Du Jinyang, Shenghao Jin, Ziqian Xu, Ruihao Gong, yang yong, Shiqiao Gu, Jinyang Guo, Xianglong Liu",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841543",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Author response for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "Nicolas Matheus Ribeiro Ortiz, Matheus Sousa Silva, Caio Bustani Andrade, Alexandre Ten Caten",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v2/response1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "No Matter of Decentralization: What is Important to Users in Decentralized and Self-Sovereign Identities?",
+    "authors": "Daria Schumm, Venusan Velrajah, Burkhard Stiller",
+    "publish": "Distributed Ledger Technologies: Research and Practice",
+    "url": "https://doi.org/10.1145/3862594",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Review for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v2/review1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Review for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v3/review1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Frequency-Aware Indexing for Spatio-Textual Data Streams",
+    "authors": "Udesh Kumarasinghe, Ahmed Mahmood, Ahmed Aly, Walid Aref",
+    "publish": "ACM Transactions on Spatial Algorithms and Systems",
+    "url": "https://doi.org/10.1145/3862470",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Divide-and-Conquer Simulation of Open Quantum Systems",
+    "authors": "Thiago Melo Azevedo, Caio Leão, Pedro Linck, Adenilton da Silva, Nadja Bernardes",
+    "publish": "ACM Transactions on Quantum Computing",
+    "url": "https://doi.org/10.1145/3858415",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Robustness Analysis of Pareto-based Joint Evaluation of Fairness and Relevance in Recommender Systems",
+    "authors": "Theresia Veronika Rampisela, Maria Maistro, Tuukka Ruotsalo, Christina Lioma",
+    "publish": "ACM Transactions on Recommender Systems",
+    "url": "https://doi.org/10.1145/3860532",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Holistic Framework for Multi-Drone Data Collection in IoT Systems",
+    "authors": "Jonathan Diller, Qi Han, Matthew Desaulniers",
+    "publish": "ACM Transactions on Internet of Things",
+    "url": "https://doi.org/10.1145/3859377",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "MASHI: Multi-Agent Vision-Language System for Home Inspection",
+    "authors": "Zeyang Zheng, Seyed Hamidreza Nabaei, Amir Farzin Nikkhah, Hunter Frederick Lutz, Brad Campbell, Arsalan Heydarian",
+    "publish": "ACM Transactions on Sensor Networks",
+    "url": "https://doi.org/10.1145/3859927",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Not All Play is Equal: In-game Player Behaviour Predicts Wellbeing Differences",
+    "authors": "Thomas Hakman, Matti Vuorre, Andrew Przybylski",
+    "publish": "Games: Research and Practice",
+    "url": "https://doi.org/10.1145/3860329",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Decision letter for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v1/decision1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Chinese Composite Character Generation via Recursive IDS-Tree Processing and Component-Level Style Transfer",
+    "authors": "Lingqi Li, Zhijie Qiu, Duo Xu, Xin Jin, Liaoruxing Zhang",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841539",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Reliability-Aware Intervention Policies for Interactive Gaussian SLAM",
+    "authors": "Ivan Malashin, Vadim Tynchenko, Igor Masich, Aleksei Borodulin",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841536",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Exploring Normative Behavior in Generative AI: A Case Study of Text-to-Image Systems Using Stable Diffusion",
+    "authors": "Michelle Melina Dutoit, Baptiste Caramiaux",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845964",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Ex uno, plures: Multiplicity as a Generative Design Principle",
+    "authors": "Michel Beaudouin-Lafon, Wendy E. Mackay",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845961",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "FeatOutline: Feature-Oriented Repository Summarization for Enhanced Code Comprehension and Maintenance",
+    "authors": "Yifeng Zhu, Xutian Li, Xianlin Zhao, Zexiong Ma, Kunze Li, Haizhuo Yuan, Yanzhen Zou, Bing Xie",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3862475",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "FedKD-MR: Enabling Heterogeneous Federated Learning through Multi-Round Knowledge Distillation",
+    "authors": "Claudio Silva, Cássio Prazeres",
+    "publish": "ACM Transactions on Internet of Things",
+    "url": "https://doi.org/10.1145/3859281",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Data-centric Simulation Model for Electric Vehicle Charging Station Load Profiling and V2G Controls",
+    "authors": "Kethareswaran V, Sanjay Moulik",
+    "publish": "ACM Transactions on Internet Technology",
+    "url": "https://doi.org/10.1145/3862476",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Semantic World Priors for Training-Free Cross-Clip Consistency in Black-Box Video Generation",
+    "authors": "Fuyuan Li",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841541",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching",
+    "authors": "Chuangtao Ma, Sriom Chakrabarti, Arijit Khan, Bálint Molnár",
+    "publish": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "https://doi.org/10.1145/3862591",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Author response for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "Nicolas Matheus Ribeiro Ortiz, Matheus Sousa Silva, Caio Bustani Andrade, Alexandre Ten Caten",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v3/response1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Predict-and-Verify Rendering for Dynamic Scenes with Semantic 4D Gaussians",
+    "authors": "Lebin Zhou, Wei Wang, Wei Jiang",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841540",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Decision letter for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v2/decision1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "User-Centered Design of Interactive Recommender Systems for Cancer Patients and Caregivers",
+    "authors": "Peter Brusilovsky, Khushboo Thaker, Mohammad Hassany, Behnam Rahdari, Vivian Hui, Youjia Wang, Heidi Donovan, Mary Klem, Daqing He, Young Ji Lee",
+    "publish": "ACM Transactions on Recommender Systems",
+    "url": "https://doi.org/10.1145/3849696",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Enhancing Neural Code Representation With Additional Context",
+    "authors": "Huy Nguyen, Christoph Treude, Patanamon Thongtanunam",
+    "publish": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1145/3859926",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Comparative Study of Head-Mounted and Remote Eye-Tracking Setups in an Environment consisting of a Physical Surface and a Screen",
+    "authors": "Tiphaine Grand, Damien Pellier, Francis Jambon",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845963",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Review for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v3/review2",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Decision letter for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v3/decision1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "An ontology for the development of context and situation aware Communication support systems for People with cerebral palsy",
+    "authors": "Nicolas Cauchois, Yohan Guerrier, Káthia Marçal de Oliveira, Christophe Kolski",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845957",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Designing for Epistemic Agency: The Verification Paradox and Control Affordances in AI Accessibility Systems",
+    "authors": "Madjid Sadallah, Benoît Encelle",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845954",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "The RenAIssance: Caption-Guided Diffusion Models for Historical-Art Visual Media",
+    "authors": "Zhanyu Tuo",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841538",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Author response for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "Nicolas Matheus Ribeiro Ortiz, Matheus Sousa Silva, Caio Bustani Andrade, Alexandre Ten Caten",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v4/response1",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Multilevel Navigation for Exploring 3D Data Along a Concave Timeline",
+    "authors": "Gary Perelman, Marcos Serrano, Emmanuel Dubois",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845962",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Gem5-Shark: Smaug-based Heterogeneous Deep Learning Accelerator Security and Robustness Evaluation and Characterization Framework",
+    "authors": "Haoyu Wang, Haosen Yu, Ahmad Atamli, Basel Halak",
+    "publish": "ACM Transactions on Embedded Computing Systems",
+    "url": "https://doi.org/10.1145/3862333",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3841458",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Validation and Evacuee Modeling of Virtual Robot-guided Emergency Evacuation Experiments",
+    "authors": "Yinxuan Yin, Mollik Nayyar, Daniel Holman, Ghanghoon Paik, Savanna Spazak, Gale Lucas, Colin Holbrook, Alan R. Wagner",
+    "publish": "ACM Transactions on Human-Robot Interaction",
+    "url": "https://doi.org/10.1145/3861077",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Direct, Parallel, or Sequential? A Comparative Study of Training-Free Multi-Subject Image-to-Video Generation",
+    "authors": "Yanliang Qi, Kexi Chen, Muchao Ye, Haomiao Ni",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841542",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Towards Sustainable Interactive Devices: A Literature Review of Biomaterials in HCI Fabrication",
+    "authors": "Narges Pourjafarian, Madalina Nicolae, Eldy Lazaro Vasquez, Fiona Bell, Gregory D. Abowd",
+    "publish": "ACM Transactions on Computer-Human Interaction",
+    "url": "https://doi.org/10.1145/3861339",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Review for \"Descriptor: SensNexus Spectral Dataset (SensNexusDat)\"",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1109/ieeedata.2026.3752028/v2/review2",
+    "source": "IEEE",
+    "abstract": ""
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "authors": "N/A",
+    "publish": "N/A",
+    "url": "https://doi.org/10.1145/3845948",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Hyperbolic Sheaf Neural Networks for Brain Disorder Classification",
+    "authors": "Chengyao Xie, Yujie Guo, Shan Jin, Yuzheng Wang, Shuo Yu, Wenhong Zhao, Adil Bagirov, Feng Xia",
+    "publish": "ACM Transactions on Computing for Healthcare",
+    "url": "https://doi.org/10.1145/3862337",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Literature Review on the Design and Evaluation of Vehicle-Human Interaction in (Semi-)Autonomous Vehicles",
+    "authors": "Axel Roques, Gilles Bailly, Nicolas Misdariis, Indira Thouvenin",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845950",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits",
+    "authors": "A Abdur Rahman Akib, Eunso Shin, Jonathan Rogers, Jonathan Wierer, Stanley Cheung",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3862639",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "LV-RM\n                    <sub>3</sub>\n                    : Logic Synthesis and Verification of Computing-in-Memory Systems Using 3-Input Resistive Majority Gates",
+    "authors": "Zhang Hu, Ming Yan, Yinshui Xia, Lunyao Wang, Zhufei Chu",
+    "publish": "ACM Journal on Emerging Technologies in Computing Systems",
+    "url": "https://doi.org/10.1145/3861020",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "Mechanistic Interpretability of Structure-Aware Numerical Reasoning in LLaMA 3.1–8B",
+    "authors": "Rahul Chowdhury, Timothy Rupprecht, Senhao Cao, Jiahao Liu, Octavia Camps, David Bau, Pu Zhao, Yanzhi Wang",
+    "publish": "Proceedings of the fourth International Workshop on Rich Media with Generative AI",
+    "url": "https://doi.org/10.1145/3841458.3841545",
+    "source": "ACM",
+    "abstract": "None"
+  },
+  {
+    "date": "2026-11-7",
+    "title": "AnaloGUI Reasoning: Investigating How Semantic Cues Influence Initial Learning Through Spatial and Semantic Analogies",
+    "authors": "Raphaël Perraud, Gilles Bailly, Sylvain Malacria",
+    "publish": "Proceedings of the 37th Conference on l'Interaction Humain-Machine",
+    "url": "https://doi.org/10.1145/3845948.3845952",
+    "source": "ACM",
+    "abstract": "None"
+  }
+]
