@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-11-9",
+    "title": "SMTpip: Interpreter-Aware SMT-Based Dependency Conflict Resolution for Restoring Python Source-Code Executability",
+    "authors": "Sadman Jashim Sakib, Muhammad Asaduzzaman, Curtis Bright",
+    "publish": "2026 IEEE International Conference on Source Code Analysis &amp; Manipulation (SCAM)",
+    "url": "https://doi.org/10.1109/scam71261.2026.00020",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SMTpip：基于SMT的、解释器感知的依赖冲突解决方法，用于恢复Python源代码的可执行性",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "Data Augmentation in Learning-Based Binary Code Analysis",
+    "authors": "Lennart von Stülpnagel, Felix Weissberg, Jonas Möller, Benjamin Greb, Thorsten Eisenhofer, Konrad Rieck",
+    "publish": "Proceedings of the 19th ACM Workshop on Artificial Intelligence and Security",
+    "url": "https://doi.org/10.1145/3847352.3848106",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于学习的二进制代码分析中的数据增强",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "Detecting Iterator-Constrainable Template Parameters in C++ Source Code",
+    "authors": "Ábel Szauter, Norbert Pataki",
+    "publish": "2026 IEEE International Conference on Source Code Analysis &amp; Manipulation (SCAM)",
+    "url": "https://doi.org/10.1109/scam71261.2026.00032",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "检测C++源代码中的迭代器约束模板参数",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "Configuration Smells in AGENTS.md Files: Common Mistakes in Configuring Coding Agents",
+    "authors": "Hélio Victor F. Dos Santos, Vitor Costa, João Eduardo Montandon, Luciana Lourdes Silva, Marco Tulio Valente",
+    "publish": "2026 IEEE International Conference on Source Code Analysis &amp; Manipulation (SCAM)",
+    "url": "https://doi.org/10.1109/scam71261.2026.00028",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AGENTS.md文件中的配置异味：配置编码代理的常见错误",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "When Separation Arithmetic is Enough, or How to Automate the Proof of Programs that Use Pointers",
+    "authors": "Jean-Christophe Filliâtre, Andrei Paskevich, Olivier Danvy",
+    "publish": "Formal Aspects of Computing",
+    "url": "https://doi.org/10.1145/3861272",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当分离算术足够时，或如何自动化使用指针的程序证明",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "Code Health in LLM-Based Test Generation: Effectiveness and Token Efficiency",
+    "authors": "Freya Wirdemann, Markus Borg, Nadim Hagatulah, Adam Tornhill",
+    "publish": "2026 IEEE International Conference on Source Code Analysis &amp; Manipulation (SCAM)",
+    "url": "https://doi.org/10.1109/scam71261.2026.00012",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型的测试生成中的代码健康：有效性与令牌效率",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "Formalizing and Automating Fine-Grained Move Refactorings Across Methods",
+    "authors": "Kota Yasuhara, Shinpei Hayashi",
+    "publish": "2026 IEEE International Conference on Source Code Analysis &amp; Manipulation (SCAM)",
+    "url": "https://doi.org/10.1109/scam71261.2026.00017",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "形式化和自动化方法间的细粒度移动重构",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "LLM-Augmented SAST Reports for Android: A Pilot Human Study of Vulnerability Triage",
+    "authors": "Panagiotis Binikos, Ashish Sai",
+    "publish": "2026 IEEE International Conference on Cyber Security and Resilience (CSR)",
+    "url": "https://doi.org/10.1109/csr69374.2026.11759919",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Android的LLM增强SAST报告：一项关于漏洞分类的试点人类研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "LLM-Assisted Seed Generation for Coverage-Guided Greybox Fuzzing of Programs with Structured Textual Languages",
+    "authors": "Hamidreza Maneshti, Alireza Manashty, Quentin Stiévenart",
+    "publish": "2026 IEEE International Conference on Source Code Analysis &amp; Manipulation (SCAM)",
+    "url": "https://doi.org/10.1109/scam71261.2026.00026",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于结构化文本语言的程序覆盖引导灰盒模糊测试的LLM辅助种子生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "Detecting Argument-Swap Bugs Using Context-Enhanced Code Representations",
+    "authors": "Subrata Das, Ali Aman, Muhammad Asaduzzaman, Kawser Wazed Nafi, Salimur Choudhury",
+    "publish": "2026 IEEE International Conference on Source Code Analysis &amp; Manipulation (SCAM)",
+    "url": "https://doi.org/10.1109/scam71261.2026.00027",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用上下文增强的代码表示检测参数交换错误",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "From Structural RTL Quality to Physical FPGA Performance: An Empirical Comparison of Zero-Shot LLM-Generated and Human-Designed Implementations",
+    "authors": "Liron Cohen, Joseph B. Bernstein",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3751975",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "从结构RTL质量到物理FPGA性能：零样本大语言模型生成与人工设计实现的实证比较",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "Towards Reliable Detection of Memory Vulnerabilities in IoT Software: An Enhanced Static Analysis Framework",
+    "authors": "Salma Salem, Kai Lehniger, Peter Langendörfer, Milad Ghantous, Hassan Soubra",
+    "publish": "2026 IEEE International Conference on Cyber Security and Resilience (CSR)",
+    "url": "https://doi.org/10.1109/csr69374.2026.11759922",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向物联网软件内存漏洞的可靠检测：增强型静态分析框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "CausalVulDetect: Mitigating LLM Hallucinations in Vulnerability Detection via Causal Reasoning and Counterfactual Verification",
+    "authors": "Heyang Xu, Yulong Fu",
+    "publish": "2026 12th IEEE International Conference on Privacy Computing and Data Security (PCDS)",
+    "url": "https://doi.org/10.1109/pcds70463.2026.00010",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CausalVulDetect：通过因果推理和反事实验证减轻漏洞检测中的LLM幻觉",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-9",
+    "title": "Towards Behavior Tree–Guided Vulnerability Detection with Lightweight LLMs",
+    "authors": "Enna Basic, Alberto Giaretta",
+    "publish": "Proceedings of the 19th ACM Workshop on Artificial Intelligence and Security",
+    "url": "https://doi.org/10.1145/3847352.3848117",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向行为树引导的轻量级大语言模型漏洞检测",
+    "abstract_zh": "None"
+  }
+]
