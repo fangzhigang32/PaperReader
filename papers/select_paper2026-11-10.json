@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-11-10",
+    "title": "VulnBridge: A Unified Function-Level Benchmark for Vulnerability Detection and CWE Classification",
+    "authors": "Anh Thi-Hoang Nguyen, Dung Ha Nguyen, Nguyen Tan Cam",
+    "publish": "2026 IEEE 8th Symposium on Computers &amp; Informatics (ISCI)",
+    "url": "https://doi.org/10.1109/isci69762.2026.11763369",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "VulnBridge：一个用于漏洞检测和CWE分类的统一函数级基准",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Enhance Cryptography Security with Agentic AI – Weak Algorithm Auto-remediation",
+    "authors": "Janarius Jeyan, Annapoorani S",
+    "publish": "2026 International Conference on Futuristic Technologies in Control Systems &amp; Renewable Energy (ICFCR)",
+    "url": "https://doi.org/10.1109/icfcr70898.2026.11771278",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "利用智能体AI增强密码学安全——弱算法自动修复",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Hybrid Lexical–Semantic Approach for Static Detection and Conformance Measurement of Singleton Implementations in C# code",
+    "authors": "Dimitrichka Nikolaeva, Daniela Petrova, Evgeniya Rakitina-Qureshi, Donika Stoyanova",
+    "publish": "2026 XXXV International Scientific Conference Electronics (ET)",
+    "url": "https://doi.org/10.1109/et72079.2026.11768506",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于C#代码中单例实现静态检测与一致性度量的混合词法-语义方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "DPFuzz: Dynamic-Static Branch Distance and Branch Priority-Driven Fuzzing for Smart Contract",
+    "authors": "Yingbiao Yao, Enrui Xu, Yang Zhang, Yuhan Gao, Yaoqi Sun",
+    "publish": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "https://doi.org/10.1109/tdsc.2026.3751693",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DPFuzz：面向智能合约的动态-静态分支距离和分支优先级驱动模糊测试",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Track Your Code: a Machine Learning Approach to Automated Coding Task Management and Source Code Plagiarism Detection",
+    "authors": "Sandhiya G, Augasthega R",
+    "publish": "2026 International Conference on Recent Innovation in Science, Engineering and Technology (ICRISET)",
+    "url": "https://doi.org/10.1109/icriset69660.2026.11758788",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "追踪您的代码：一种用于自动化编码任务管理和源代码抄袭检测的机器学习方法",
+    "abstract_zh": "None"
+  }
+]
