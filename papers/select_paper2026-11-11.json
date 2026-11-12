@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-11-11",
+    "title": "Pluto: A Benchmark for Evaluating Efficiency of LLM-generated Hardware Code",
+    "authors": "Manar Abdelatty, Maryam Nouh, Jacob Rosenstein, Sherief Reda",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00023",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Pluto：评估大语言模型生成硬件代码效率的基准",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "STELLAR-3D: A Structured Thermal- and Warpage-aware LLM-aided Floorplanning Framework for 3D ICs",
+    "authors": "Haotian Lu, Jincong Lu, Shanmukh Racha, Sheldon X.-D. Tan",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00040",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "STELLAR-3D：一种面向3D IC的、结构化热感知与翘曲感知的LLM辅助布局规划框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "AutoTimer: An LLM-Powered Assistant for Timing Report Analysis and Physical Design Closure",
+    "authors": "Yichen Cai, Xiaotian Zhao, Haoyu Wang, Jani Babu Shaik, Mohamed El-Hadedy, Xinfei Guo",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00025",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AutoTimer：一款基于大语言模型的时序报告分析与物理设计闭锁助手",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "LACE: Large Language Model Aided Multi-Agent Framework for Agile RISC-V Instruction Extension",
+    "authors": "Pingqing Zheng, Jiayin Qin, Fuqi Zhang, Zishen Wan, Shang Wu, Yu Kevin Cao, Caiwen Ding, Yang Katie Zhao",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00008",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "LACE：面向敏捷RISC-V指令扩展的大语言模型辅助多智能体框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "AlphaRoute: Large Language Models as Semantic Optimizers for Multi-Objective Routing",
+    "authors": "Kabir Murjani, Mishri Bhavsar, Manish I. Patel, Jonti Talukdar",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00032",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AlphaRoute：作为多目标路由语义优化器的大语言模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "“What Led to this Change?” Organizing Code Diffs Using Semantic Information",
+    "authors": "Noam Har-Tuv, Cynthia Richey, Chandrakana Nandi, Hila Peleg",
+    "publish": "2026 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+    "url": "https://doi.org/10.1109/vl/hcc71707.2026.11772771",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "\"是什么导致了这种变化？\"：利用语义信息组织代码差异",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Multimodal Chip Physical Design Engineer Assistant",
+    "authors": "Yun-Da Tsai, Chang-Yu Chao, Liang-Yeh Shen, Tsung-Han Lin, Haoyu Yang, Chia-Tung Ho, Yi-Chen Lu, Wen-Hao Liu, Shou-De Lin, Haoxing Ren",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00019",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "多模态芯片物理设计工程师助理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "CircuitLM: A Multi-Agent LLM-Aided Design Framework for Generating Circuit Schematics from Natural Language Prompts",
+    "authors": "Khandakar Shakib Al Hasan, Syed Rifat Raiyan, Hasin Mahtab Alvee, Wahid Sadik",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00014",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CircuitLM：一种基于多智能体大语言模型的设计框架，用于从自然语言提示生成电路图",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Compass: Co-Exploration of Mapping and Hardware for Heterogeneous Multi-Chiplet Accelerators Targeting LLM Inference Service Workloads",
+    "authors": "Boyu Li, Zongwei Zhu, Qianyue Cao, Xi Li, Xuehai Zhou",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3753182",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "指南针：面向大语言模型推理服务工作负载的异构多芯片加速器的映射与硬件协同探索",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "LLM-Aided Commit Regression Risk Ranking and Triage Using Retrieval-Augmented In-Context Learning",
+    "authors": "Ahmed Nezar, Omar Abdelkader, Islam Ahmed",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00027",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于检索增强上下文学习的LLM辅助提交回归风险排序与分类",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "MACO: A Multi-Agent LLM Framework for Automated CGRA Hardware/Software Co-Design",
+    "authors": "Zesong Jiang, Yuqi Sun, Qing Zhong, Mahathi Krishna, Deepak Patil, Cheng Tan, Jeff Zhang",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00013",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "MACO：一种用于自动化CGRA硬件/软件协同设计的多智能体大语言模型框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+    "authors": "Abhishek Bhandwaldar, Mihir Choudhury, Ruchir Puri, Akash Srivastava",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00015",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于高级综合的代理工厂：通用编码代理在硬件优化中能走多远？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Synthesizing Complex Program Analyzers From Natural Language Questions",
+    "authors": "Amirmohammad Nazari, Sadra Sabouri, Wang Bill Zhu, Robin Jia, Souti Chattopadhyay, Mukund Raghothaman",
+    "publish": "2026 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+    "url": "https://doi.org/10.1109/vl/hcc71707.2026.11772812",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "从自然语言问题合成复杂程序分析器",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "GenBen: A Generative Benchmark for LLM-Aided Design",
+    "authors": "Gwok-Waa Wan, Xinze Wang, Yubo Wang, Jia Xiong, Xinlai Wan, Qixiang Chen, Jingyi Zhang, Mingchi Zhang, Tao Ni, Mengnv Xing, Yusheng Hua, Ning Xu, Ying Wang, Nan Guan, Zhe Jiang, Xi Wang",
+    "publish": "2026 IEEE International Conference on LLM-Aided Design (ICLAD)",
+    "url": "https://doi.org/10.1109/iclad71857.2026.00036",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "GenBen：一个用于大语言模型辅助设计的生成基准",
+    "abstract_zh": "None"
+  }
+]
