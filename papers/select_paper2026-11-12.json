@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-11-12",
+    "title": "SafeRTL: IP-Preserving Verilog Optimization via Principle-Guided Local-Cloud LLM Framework",
+    "authors": "Jing Wang, Zheng Li, Lei Li, Fan He, Liyu Lin, Yao Lai, Jiafei Yao, Yan Li, Xiaoyang Zeng, Yufeng Guo",
+    "publish": "2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+    "url": "https://doi.org/10.1109/aicas69579.2026.11762107",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SafeRTL：基于原则引导的本地云大语言模型框架的IP保护型Verilog优化",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "A Study on SysML Automatic Modeling Method Based on Large Language Models and Plugin Execution Mechanism",
+    "authors": "RuiXiang Wang, Ke Wang, HuanChao Du, ZiCheng Yang, ZhiYu Chen",
+    "publish": "2026 IEEE 21st Conference on Industrial Electronics and Applications (ICIEA)",
+    "url": "https://doi.org/10.1109/iciea69691.2026.11760408",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大型语言模型和插件执行机制的SysML自动建模方法研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Automatically Learning Vulnerability Patterns for Scalable Static Analysis of Web Applications",
+    "authors": "Penghui Li, Songchen Yao, Josef Sarfati Korich, Changhua Luo, Jianjia Yu, Yinzhi Cao, Junfeng Yang",
+    "publish": "Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security",
+    "url": "https://doi.org/10.1145/3830454.3846556",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "可扩展的Web应用程序静态分析中的漏洞模式自动学习",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Bridging the Gap: A Survey on LLM-Driven High-Performance Kernel Generation and Optimization",
+    "authors": "Minxin Guo, Yishan Tian",
+    "publish": "2026 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)",
+    "url": "https://doi.org/10.1109/bmsb69102.2026.11760794",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "弥合差距：关于大语言模型驱动的高性能内核生成与优化的综述",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "An Empirical Evaluation of Context Aware LLM Driven Vulnerability Detection: Scaling Semantic Analysis via Heuristic Guided Pruning",
+    "authors": "Santosh Kumar",
+    "publish": "2026 Interdisciplinary Conference on Electrics and Computer (INTCEC)",
+    "url": "https://doi.org/10.1109/intcec70253.2026.11763660",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于上下文感知的大语言模型驱动漏洞检测的实证评估：通过启发式引导修剪扩展语义分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Divide and Conquer: Exposing SAST Rule Flaws via Realistic Variant Synthesis from Millions of Repositories",
+    "authors": "Zongze Jiang, Ming Wen, Zifan Xie, Yuan Zhang, Deqing Zou, Hai Jin",
+    "publish": "Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security",
+    "url": "https://doi.org/10.1145/3830454.3846784",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "分而治之：通过从数百万仓库中合成真实变体来暴露SAST规则缺陷",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "An AI-Powered Educational Code Review Platform: Integrating Static Analysis and Localized RAG with Qwen2.5",
+    "authors": "Youssef Moussa, Ahmed Youssef",
+    "publish": "2026 International Telecommunications Conference (ITC-Egypt)",
+    "url": "https://doi.org/10.1109/itc-egypt70422.2026.11765616",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "AI驱动的教育代码审查平台：结合静态分析与本地化RAG及Qwen2.5",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Code2DAG: An Automatic DAG Construction Tool for Scheduling Parallel Programs",
+    "authors": "Chaowen Wu, Chen Jie, Hao Xiong, Xuanming Liu, Nan Chen, Zeying Li, Shuai Zhao",
+    "publish": "2026 6th International Conference on Intelligent Technology and Embedded Systems (ICITES)",
+    "url": "https://doi.org/10.1109/icites71818.2026.11771838",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Code2DAG：一种用于调度并行程序的自动DAG构建工具",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "BACAgent: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications",
+    "authors": "Fengyu Liu, Yuan Zhang, Zheng Lou, Tian Chen, Youkun Shi, Jiarun Dai, Enhao Li, Guangyu Zhou, Zhongfu Su, Zequn Fang",
+    "publish": "Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security",
+    "url": "https://doi.org/10.1145/3830454.3832642",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "BACAgent：基于大语言模型的Web应用程序中访问控制漏洞检测",
+    "abstract_zh": "None"
+  }
+]
