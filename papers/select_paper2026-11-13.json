@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-11-13",
+    "title": "UniFuse-CAD: Multimodal CAD Program Synthesis from Any Combination of Inputs",
+    "authors": "Xuecheng Zhang, Xiaolu Zhou, Qingchen Kong, Rubin Fan, Fazhi He",
+    "publish": "Proceedings of the 34th ACM International Conference on Multimedia",
+    "url": "https://doi.org/10.1145/3767308.3835182",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "UniFuse-CAD：从任意组合输入进行多模态CAD程序合成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "AutoUMA: Accelerated ML Compiler Support for Hardware Accelerators based on Automatic Kernel Library Generation",
+    "authors": "Samira Ahmadifarsani, Daniel Mueller-Gritschneder, Ulf Schlichtmann",
+    "publish": "ACM Transactions on Architecture and Code Optimization",
+    "url": "https://doi.org/10.1145/3862857",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "AutoUMA：基于自动内核库生成的硬件加速器加速ML编译器支持",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "On the Evolution of IoT Software Systems: Maintainability, Code Quality, and Evidence-Driven Developer Training",
+    "authors": "Saleh M. Alnaeli, Ahmed A. Elmagrous",
+    "publish": "2026 IEEE 17th Annual Ubiquitous Computing, Electronics &amp; Mobile Communication Conference (UEMCON)",
+    "url": "https://doi.org/10.1109/uemcon70256.2026.11775581",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "物联网软件系统的演进：可维护性、代码质量与证据驱动的开发者培训",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "The Einstein Engine: A Modular Code Generator for GPU Simulations in the Modern Era",
+    "authors": "Max Morris, Lucas Timotheo Sanches, Steven R. Brandt",
+    "publish": "2026 IEEE International Conference on eScience (eScience)",
+    "url": "https://doi.org/10.1109/escience70237.2026.00016",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "爱因斯坦引擎：现代GPU模拟的模块化代码生成器",
+    "abstract_zh": "None"
+  }
+]
