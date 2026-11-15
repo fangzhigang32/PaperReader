@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-11-14",
+    "title": "SubSan: Efficient Memory Error Detection via Subtraction Checks",
+    "authors": "Jeonghwan Kang, Kyounghwan Kim, Donghyun Kwon",
+    "publish": "Proceedings of the 2026 ACM SIGOPS Annual Technical Conference",
+    "url": "https://doi.org/10.1145/3828523.3857103",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "SubSan：通过减法检查实现高效的内存错误检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "EBFuzz: Fuzzing Hidden Structural Assumptions in Compilers with Extended Inline Assembly",
+    "authors": "Jiangchang Wu, Yibiao Yang",
+    "publish": "Proceedings of the 2026 ACM SIGOPS Annual Technical Conference",
+    "url": "https://doi.org/10.1145/3828523.3857139",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "EBFuzz：使用扩展内联汇编对编译器中的隐藏结构假设进行模糊测试",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Detecting API Misuses Across Context Boundaries in Linux Kernel Drivers",
+    "authors": "Thomas Fourier, Julia Lawall, Baptiste Lepers",
+    "publish": "Proceedings of the 2026 ACM SIGOPS Annual Technical Conference",
+    "url": "https://doi.org/10.1145/3828523.3857089",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "检测Linux内核驱动中跨上下文边界的API误用",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "MBCheck: Practical Static Analysis Framework for Detecting Memory Ordering Violations under WMM",
+    "authors": "Jaidev Shastri, Binoy Ravindran",
+    "publish": "Proceedings of the 2026 ACM SIGOPS Annual Technical Conference",
+    "url": "https://doi.org/10.1145/3828523.3857079",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "MBCheck：在内存模型下检测内存排序违规的实用静态分析框架",
+    "abstract_zh": "None"
+  }
+]
