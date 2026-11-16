@@ -1,0 +1,14 @@
+[2026-11-16 01:35:49] 开始执行论文搜索任务
+搜索关键词: code
+搜索日期范围: 2026-11-15
+正在获取论文...
+[ACM] 2026-11-15 | Introduction to the Special Issue on Web for Good
+[ACM] 2026-11-15 | Wikipedia and Grokipedia: A Comparison of Human and Generative Encyclopedias
+共写入 2 条记录，保存到 papers/paper2026-11-15.json。
+论文获取成功，文件路径: papers/paper2026-11-15.json
+正在筛选、翻译并发送邮件...
+[NO] 1/2 | Introduction to the Special Issue on Web for Good
+[NO] 2/2 | Wikipedia and Grokipedia: A Comparison of Human and Generative Encyclopedias
+筛选完成：共 2 篇；Yes = 0 篇；已保存到 papers/select_paper2026-11-15.json。
+邮件发送成功！
+[2026-11-16 01:36:23] 任务执行成功！
