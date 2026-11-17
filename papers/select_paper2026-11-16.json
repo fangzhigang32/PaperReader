@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2026-11-16",
+    "title": "SecureFlow: A Multi-Stage LLM-Augmented Pipeline for Policy-Enforced Secure Code Generation in CI/CD Environments",
+    "authors": "Maulik Bhatt, Srinivas Pochincharla, Abdullah Khilji, Dmitrii Timoshenko",
+    "publish": "2026 IEEE Conference on Generative AI for Secure Systems (GAISS)",
+    "url": "https://doi.org/10.1109/gaiss66401.2026.11779568",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SecureFlow：一种用于CI/CD环境中策略强制安全代码生成的多阶段LLM增强流水线",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Prompt-Driven Large Language Models for Automated Code Clone Detection: An Empirical Study",
+    "authors": "Shihan Dou, Chaofan Li, Junjie Shan, Haoxiang Jia, Yutao Hu, Yueming Wu, Xuanjing Huang",
+    "publish": "IEEE Transactions on Software Engineering",
+    "url": "https://doi.org/10.1109/tse.2026.3754098",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于提示的大型语言模型用于自动化代码克隆检测：一项实证研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "A Multi-Agent Generative AI Framework for Secure Enterprise Software Engineering",
+    "authors": "Akbar Mohammed, Sambasiva Rao Akkisetti, Naveen Anand Mishra, Satya Karteek Gudipati",
+    "publish": "2026 IEEE Conference on Generative AI for Secure Systems (GAISS)",
+    "url": "https://doi.org/10.1109/gaiss66401.2026.11779644",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向安全企业软件工程的多智能体生成式人工智能框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Si-ATLAS: Autonomous Testing via LLM-Agent Synergy for RISC-V SBST Generation",
+    "authors": "Changhao Wang, Yijing Chen, Nicolò Bellarmino, Josie Esteban Rodriguez Condia, Chaobo Li, Giovanni Squillero, Riccardo Cantoro",
+    "publish": "2026 IEEE International Test Conference (ITC)",
+    "url": "https://doi.org/10.1109/itc64303.2026.00081",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Si-ATLAS：基于大语言模型智能体协同的RISC-V自测试生成方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Specifications as Governance Artifacts: Human–AI Collaboration and Oversight for AI-Generated Code",
+    "authors": "Nitin Garg, Rajeev Mohindra, Saj Maru",
+    "publish": "2026 IEEE Conference on Generative AI for Secure Systems (GAISS)",
+    "url": "https://doi.org/10.1109/gaiss66401.2026.11779695",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "规范作为治理工件：人类与人工智能协作及对人工智能生成代码的监督",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Accelerating ISO 26262 Functional Verification with LLM-Based Critical Node Analysis for Early-Stage RTL Design",
+    "authors": "Siyang Fei, Zhiteng Chao, Yutao Sun, Yanhao Bian, Zhengqi Bian, Yuanfu Zhou, Huawei Li, Zhijun Wang",
+    "publish": "2026 IEEE International Test Conference (ITC)",
+    "url": "https://doi.org/10.1109/itc64303.2026.00080",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型的关键节点分析加速ISO 26262功能验证，用于早期RTL设计",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "DVInsights: An Agentic Workflow for Automated Array Design Verification Dashboard Generation",
+    "authors": "Calvin Tan How Ern, Jin Giap Koh, How Chun Ng",
+    "publish": "2026 IEEE International Test Conference (ITC)",
+    "url": "https://doi.org/10.1109/itc64303.2026.00050",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "DVInsights：一种用于自动化阵列设计验证仪表板生成的智能工作流",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "A Risk-Aware Framework for LLM-Assisted Secure Software Development in Enterprise DevSecOps Pipelines",
+    "authors": "Akbar Mohammed, Sambasiva Rao Akkisetti, Naveen Anand Mishra, Satya Karteek Gudipati",
+    "publish": "2026 IEEE Conference on Generative AI for Secure Systems (GAISS)",
+    "url": "https://doi.org/10.1109/gaiss66401.2026.11779618",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "企业DevSecOps管道中LLM辅助安全软件开发的风险感知框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Scan RTL DRC Fix Agent",
+    "authors": "Sujay Pandey, Pankaj Pant, Venkat Ramakrishnan, Arani Sinha",
+    "publish": "2026 IEEE International Test Conference (ITC)",
+    "url": "https://doi.org/10.1109/itc64303.2026.00052",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "RTL DRC 修复代理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Diffuse to Detect: Generative Diffusion Models for Unsupervised IC Anomaly Detection",
+    "authors": "Yuxuan Yin, Chen He, Todd Jacobs, Jialei He, Boxun Xu, Robert Jin, Peng Li",
+    "publish": "2026 IEEE International Test Conference (ITC)",
+    "url": "https://doi.org/10.1109/itc64303.2026.00012",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "扩散检测：用于无监督集成电路异常检测的生成扩散模型",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "A Closed-Loop Agentic Harness for AI-Powered Static Analysis, Secrets Governance, and Supply-Chain-Aware DevSecOps in Generative-AI-Assisted Software Development",
+    "authors": "Niranjan Pachaiyappan",
+    "publish": "2026 IEEE Conference on Generative AI for Secure Systems (GAISS)",
+    "url": "https://doi.org/10.1109/gaiss66401.2026.11779605",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "面向生成式AI辅助软件开发中的闭环智能体框架，用于AI驱动的静态分析、密钥治理和供应链感知DevSecOps",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "LLM-guided Mutation-based Bug Localization Method for RTL Designs",
+    "authors": "Youjun Li, Jian Hu",
+    "publish": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "https://doi.org/10.1109/tcad.2026.3753180",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于LLM的突变式RTL设计错误定位方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "RFAmpDesigner: A Two-Level LLM-guided Optimization Framework for Automated Differential CMOS RF Amplifier Sizing",
+    "authors": "Hang Lu, Guochang Li, Qianyu Chen, Huiyan Gao, Shaogang Wang, Xuanyu He, Yiwei Liu, Zesen Chen, Gaopeng Chen, Nayu Li, Chunyi Song, Xiaokang Qi, Zhiwei Xu",
+    "publish": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "https://doi.org/10.1145/3863955",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "RFAmpDesigner：一种用于自动化差分CMOS射频放大器尺寸设计的两级大语言模型引导优化框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "SoK: Generative AI Across the Secure Software Development Lifecycle—Risks, Defenses, and DevSecOps Integration",
+    "authors": "Harpreet Singh Siddhu, Animesh Dhole, Sravan Reddy Kathi",
+    "publish": "2026 IEEE Conference on Generative AI for Secure Systems (GAISS)",
+    "url": "https://doi.org/10.1109/gaiss66401.2026.11779561",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "综述：生成式AI在安全软件开发生命周期中的应用——风险、防御与DevSecOps集成",
+    "abstract_zh": "None"
+  }
+]
