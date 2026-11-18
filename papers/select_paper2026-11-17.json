@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2026-11-17",
+    "title": "From Token Changes to Task Failures: Bit Flips in a Shared KV-Cache Block",
+    "authors": "Yuji Yamamoto, Satoshi Matsuura",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22243v1",
+    "source": "arXiv",
+    "abstract": "In LLM serving systems with prefix caching, each KV block of a shared system prompt is held in GPU memory as a single physical copy, which every request with that prompt reads. Our earlier work measured change and showed that one bit flip in such a block changes many later responses without making them visibly degenerate. This paper extends that work by measuring how often the changed responses are wrong. Using software fault injection into vLLM serving Qwen3-8B, we flip the most significant mantissa bit or the sign bit of a value in such a block. We score responses on four tasks: code generation, short-answer questions, multiple-choice reasoning, and refusal under a policy. The fraction of changes that turned a correct response wrong depended strongly on the task: 0.023 on MBPP+ and 0.59 on held-out TriviaQA at the mantissa bit, and 0.019 and 0.60 at the sign bit. Harm fell on requests whose sampled answers are sometimes wrong, so the damage of a flip depends on how common such requests are. Harmed responses looked like ordinary errors, so a flip should be detected by checking cached blocks rather than by monitoring outputs.",
+    "title_zh": "从令牌更改到任务失败：共享KV缓存块中的位翻转",
+    "abstract_zh": "在带有前缀缓存的LLM服务系统中，共享系统提示的每个KV块在GPU内存中保持为单个物理副本，所有使用该提示的请求都会读取这个副本。我们之前的研究测量了变化情况，并表明在这样的块中，一位比特翻转会改变许多后续响应，而不会使它们明显退化。本文通过测量错误响应的频率扩展了这项工作。我们使用软件故障注入到vLLM服务Qwen3-8B中，翻转此类块中某个值的最高有效尾数位或符号位。我们在四个任务上评估响应：代码生成、简短问答、多选推理和基于策略的拒绝。将正确响应变为错误的变化比例因任务而异：在MBPP+上为0.023，在隔离的TriviaQA上为0.59（尾数位翻转时）；在MBPP+上为0.019，在隔离的TriviaQA上为0.60（符号位翻转时）。损害发生在那些采样答案有时错误的请求上，因此翻转造成的损害取决于此类请求的普遍性。受损的响应看起来像普通错误，因此应通过检查缓存块而非监控输出来检测翻转。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Context Has a Price: Adding and Removing Context for LLM Coding Agents under Prefix Caching",
+    "authors": "Zerui Yang, Miaomiao Dong, Quan Xue, Chaorui Zhang, Xuanyu Zheng, Xiyuan Wang, Haolin Ruan, Xueyan Niu, Guangcheng Song, Weixi Zhang, Wei Han, Bo Bai",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22238v1",
+    "source": "arXiv",
+    "abstract": "Coding agents repeatedly send their conversation history to a language model. Adding useful code may reduce search, while removing old tool outputs may shorten later prompts. But do these changes reduce the cost of solving a task? We study this as a measurement problem in more than 20,000 runs of open models on SWE-bench Verified, SWE-bench and Loc-Bench. We account separately for uncached input, cached input and output tokens. Three findings emerge. First, in our main evidence-package experiments, retrieved code reduces read and search commands by 18--34%, but increases cost by 33--42% when cached input costs one tenth of uncached input, without a measurable improvement in resolution. Second, removing old observations can either save money or increase cost: the same approach saves 19--36% without a cache discount but increases cost by 38--116% with a tenth-price cache. Third, shorter prompts do not guarantee cheaper runs because agents may respond by taking more steps. We also find that concurrent experiments can share cached prefixes and distort cost comparisons. These results show why context-management methods should be evaluated using both token prices and the agent's subsequent behavior.",
+    "title_zh": "上下文有价：基于前缀缓存的LLM编程代理的上下文添加与移除",
+    "abstract_zh": "编码代理会将其对话历史记录重复发送给语言模型。添加有用的代码可能减少搜索，而移除旧的工具输出可能会缩短后续的提示。但这些变化是否能降低解决任务的成本？我们在超过20,000次使用开放模型在SWE-bench Verified、SWE-bench和Loc-Bench上的运行中，将此作为一个测量问题进行研究。我们分别计算了未缓存的输入、已缓存的输入和输出令牌的成本。得出了三个主要发现。首先，在我们主要的证据包实验中，检索到的代码减少了18-34%的读取和搜索命令，但当缓存的输入成本是未缓存输入的十分之一时，成本增加了33-42%，且在解决率上没有可测量的提升。其次，移除旧观察结果既可以省钱也可以增加成本：在没有缓存折扣的情况下，相同方法可节省19-36%的成本，但在十分之一价格的缓存下，成本会增加38-116%。第三，较短的提示并不保证运行成本更低，因为代理可能会通过采取更多步骤来回应。我们还发现，并发实验可以共享缓存前缀并扭曲成本比较。这些结果表明，为什么上下文管理方法应同时考虑令牌价格和代理的后续行为进行评估。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "EvoSkill-S1: Evolving Reusable Skills with Genetic-Inspired Operators",
+    "authors": "Yujun Wang, Jiqiang Li, Yinuo Lu, Jinhe Bi, Aniri, Wenxuan Ye, Boliang Liu, Sikuan Yan, Shuning Wang, Xuebing Zhou, S{ö}ren Pirk, Hinrich Sch{ü}tze, Yunpu Ma",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22610v1",
+    "source": "arXiv",
+    "abstract": "Reusable skills allow language-model agents to accumulate and reuse problem-solving experience. However, most existing methods improve a skill bank only indirectly through rollout-driven accumulation and heuristic reflection, often resulting in shallow and weakly controlled updates. We present EvoSkill-S1, an RL-driven framework that instead treats reusable skills themselves as the direct objects of evolution. Given hard-negative failures, EvoSkill-S1 selects parent skills and transforms them into candidate child skills through five genetic-inspired operators: revision, cross-revision, mutation, dual-reflection, and crossover. Downstream task rewards train the skill evolver to generate more effective child skills, while evaluator-guided write-back selectively retains beneficial updates. Complementary Skill Bank Fusion consolidates operator-specific banks to exploit their distinct recovery patterns, while a Procedural Skill Interface supports transfer to unseen problems. Across all reported math and code benchmarks, EvoSkill-S1 improves the corresponding initialized skill banks under both Qwen and GPT-family solvers, with relative gains of up to 12.39%. Compared with the strongest external baseline without direct skill evolution, the largest relative improvement reaches 20.39%.",
+    "title_zh": "EvoSkill-S1：使用受遗传启发的算子进化可重用技能",
+    "abstract_zh": "可重用技能使语言模型代理能够积累和重用问题解决经验。然而，大多数现有方法仅通过基于rollout的积累和启发式反思间接改进技能库，往往导致更新肤浅且控制薄弱。我们提出了EvoSkill-S1，一个由强化学习驱动的框架，它将可重用技能本身视为进化的直接对象。针对困难的负面失败案例，EvoSkill-S1选择父技能并通过五种受遗传启发的算子将其转换为候选子技能：修订、交叉修订、变异、双重反思和交叉。下游任务奖励训练技能进化器生成更有效的子技能，而评估器引导的回写选择性保留有益的更新。互补技能库融合整合了特定于算子的库，以利用它们不同的恢复模式，同时过程技能接口支持向未见问题的迁移。在所有报告的数学和代码基准测试中，EvoSkill-S1在Qwen和GPT系列求解器下改进了相应的初始化技能库，相对增益高达12.39%。与没有直接技能进化的最强外部基线相比，最大相对改进达到20.39%。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "What RL on Expert-Built Tasks Teaches Nemotron 3.5 Super",
+    "authors": "Sushant Mehta, Edwin Chen",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22161v1",
+    "source": "arXiv",
+    "abstract": "We post-train NVIDIA's Nemotron 3.5 Super (120B total, 12B active parameters) with reinforcement learning (RL) on five expert-built task datasets, one at a time: real-world software engineering, complex constraints, long-horizon tool use, professional chart understanding and enterprise document reasoning. Each run trains a fresh rank-32 LoRA adapter with CISPO on Tinker, with no supervised stage, and each adapter is compared with the base model on the same tasks, harness and settings. On twelve headline benchmarks, eight built by other groups and four by Surge AI, the gains range from +4.5 points on IFBench to +13.8 on GDP_pdf, which rises from 10.4% to 24.2%; SWE-bench Pro V2 rises from 86.9% to 92.1%, Terminal-Bench 2.1 from 63.9% to 70.3%, MultiChallenge from 58.3% to 66.6%, AutomationBench from 14.8% to 27.5% and Chartography from 39.4% to 50.6%. The document adapter, trained without API tools, also gains +8.0 points on AutomationBench. In attempts read side by side with the base model's on tasks each adapter newly solves, the base model's failures recur in a few modes, and each adapter does more often what the base model missed: the tool-use adapter finds the data and the rules before acting, the coding adapter writes its own test or scratch files on SWE-bench Pro V2, the constraints adapter carries earlier turns into its answers, the chart adapter measures the marks in code, and the document adapter reads AutomationBench's spreadsheets.",
+    "title_zh": "专家构建任务上的强化学习如何教会Nemotron 3.5 Super",
+    "abstract_zh": "我们在五个专家构建的任务数据集上，使用强化学习(RL)对NVIDIA的Nemotron 3.5 Super模型(总计120B参数，激活参数12B)进行后训练，每次只训练一个数据集：真实世界软件工程、复杂约束、长程工具使用、专业图表理解和企业文档推理。每次运行都在Tinker上使用CISPO训练一个全新的rank-32 LoRA适配器，没有监督阶段，并且每个适配器都在相同任务、工具和设置下与基础模型进行比较。在十二个主要基准测试中（八个由其他组织构建，四个由Surge AI构建），收益范围从IFBench的+4.5分到GDP_pdf的+13.8分（从10.4%提升到24.2%）；SWE-bench Pro V2从86.9%提升到92.1%，Terminal-Bench 2.1从63.9%提升到70.3%，MultiChallenge从58.3%提升到66.6%，AutomationBench从14.8%提升到27.5%，Chartography从39.4%提升到50.6%。在没有使用API工具训练的文档适配器上，也在AutomationBench上获得了+8.0分的提升。当与基础模型并排阅读每个适配器新解决的任务时，基础模型的失败以几种模式重复出现，每个适配器都比基础模型更经常地完成基础模型遗漏的工作：工具使用适配器在行动前查找数据和规则，编码适配器在SWE-bench Pro V2上编写自己的测试或临时文件，约束适配器将早期回合的内容纳入其答案中，图表适配器用代码测量标记，文档适配器读取AutomationBench的电子表格。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "PVTSizing 2.0: A Fast and Reliable Analog Circuit Sizing Operator for Agentic EDA Workflows",
+    "authors": "Zichen Kong, Minghuan Song, Xiyuan Tang, Ziming Wei, Yi Zhong, Yuan Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22328v1",
+    "source": "arXiv",
+    "abstract": "Analog circuit design automation requires both coordinated tool execution and efficient numerical search. Large language models (LLMs) offer new ways to organize tool execution, but finding one sizing that satisfies specifications across process, voltage, and temperature (PVT) corners remains costly. PVTSizing 2.0 addresses these needs through a human-agent workflow built around an independently usable numerical optimizer. An agent carries the designer's approved task through execution and result review. The optimizer reduces unnecessary training through loss-guided updates and uses critic-guided local refinement to explore additional candidates while accounting for cross-corner conflicts. An optional LLM adviser supplies parameter relationships to focus numerical search on circuit-informed directions, while the optimizer selects adjustment amplitudes and verifies their effects through simulation. Across four circuit benchmarks, the standalone optimizer completes all 40 runs and achieves a 7.3x speedup in overall mean runtime over the original PVTSizing, with a comparable mean sample count. In a separate study, the best tested knowledge-injection configuration further reduces mean runtime by 39.9% and simulation samples by 35.4% relative to the standalone optimizer.",
+    "title_zh": "PVTSizing 2.0：面向智能EDA工作流的快速可靠的模拟电路算子",
+    "abstract_zh": "模拟电路设计自动化需要协调的工具执行和高效的数值搜索。大型语言模型(LLMs)为组织工具执行提供了新的方法，但在工艺、电压和温度(PVT)范围内找到满足规格的一种尺寸仍然成本高昂。PVTSizing 2.0通过围绕一个可独立使用的数值优化器构建的人-代理工作流程解决了这些需求。代理执行设计师批准的任务并审查结果。优化器通过损失引导的更新减少不必要的训练，并使用批评引导的局部细化来探索额外的候选方案，同时考虑跨角冲突。可选的LLM顾问提供参数关系，将数值搜索集中在电路相关的方向上，而优化器则选择调整幅度并通过仿真验证其效果。在四个电路基准测试中，独立优化器完成了所有40次运行，与原始PVTSizing相比，总体平均运行时间实现了7.3倍的加速，同时平均样本数相当。在另一项研究中，测试的最佳知识注入配置相对于独立优化器进一步将平均运行时间减少了39.9%，仿真样本减少了35.4%。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Mixed-Size Placement Initialization via Stiefel-Manifold Sequential Subspace Optimization",
+    "authors": "Pengwen Chen, Chung-Kuan Cheng, Shao-Yun Fang, Chester Holtz, Sheng-Tan Huang, Susmita Sur-Kolay, Yucheng Wang, Ying Yuan",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22402v1",
+    "source": "arXiv",
+    "abstract": "Mixed-size global placement simultaneously optimizes the locations of large macros and millions of standard cells in modern very-large-scale integration (VLSI) physical design. State-of-the-art analytical placers achieve strong scalability, but their nonlinear objectives and density handling make them sensitive to the initial placement. This paper presents a geometry-driven framework that formulates placement initialization as a Quadratically Constrained Quadratic Program (QCQP) with first-order centroid and second-order spreading constraints. Explicit mixed-size spreading targets are derived from the die geometry and object sizes, to obtain stable constraint values even under extreme size variation. A utilization-aware rescaling of the constraint matrix prevents pathological spreading when fixed objects occupy significant die area. The QCQP is then transformed into a Stiefel-manifold optimization through metric equalization and centering projection, making the underlying geometric structure explicit. The resulting Stiefel-constrained quadratic objective admits efficient large-scale optimization via a Riemannian sequential subspace method (SSM). An angle-sorted cycle sparsification for multi-pin nets periodically keeps the Laplacian approximation sparse yet geometry-consistent. As a drop-in initializer for existing analytical placers, our method yields improvements in weighted half-perimeter wirelength (wHPWL): 13.8% average under RePlAce on the four TILOS benchmarks supported by its flow, 3.5% under DREAMPlace on all 20 benchmarks, and 4.8% under AutoDMP on 19 benchmarks with converged baselines. Post-route evaluation shows that these pre-route improvements carry through to routed designs: routed wirelength decreases by 1.1 to 2.3% on all three benchmarks. Standard-cell area and power also decrease on all three. Design-rule-check (DRC) violations decrease on two of the three.",
+    "title_zh": "基于Stiefel流形序列子空间优化的混合尺寸布局初始化",
+    "abstract_zh": "混合尺寸全局布局在现代超大规模集成电路(VLSI)物理设计中同时优化大型宏单元和数百万标准单元的位置。最先进的分析布局器实现了强大的可扩展性，但其非线性目标和密度处理使其对初始布局敏感。本文提出了一种几何驱动框架，将布局初始化表述为具有一阶质心和二阶扩散约束的二次约束二次规划(QCQP)。从芯片几何形状和物体尺寸显式导出混合尺寸扩散目标，即使在极端尺寸变化下也能获得稳定的约束值。对约束矩阵进行利用率感知的重新缩放，防止当固定物体占据显著芯片面积时出现病态扩散。然后通过度量均衡化和中心投影将QCQP转化为Stiefel流形优化，使潜在的几何结构显式化。所得的Stiefel约束二次目标通过黎曼序贯子空间方法(SSM)实现高效的大规模优化。针对多引线网络的按角度排序的循环稀疏化定期保持拉普拉斯近似的稀疏性同时保持几何一致性。作为现有分析布局器的即插即用初始化器，我们的方法在加权半周长线长(wHPWL)方面取得了改进：在RePlAce支持的四个TILOS基准测试上平均提高13.8%，在所有20个DREAMPlace基准测试上提高3.5%，在19个具有收敛基线的AutoDMP基准测试上提高4.8%。路由后评估显示，这些路由前的改进延续到了路由后的设计中：在所有三个基准测试上，路由线长减少了1.1%至2.3%。标准单元面积和功率在所有三个基准测试上也减少了。设计规则检查(DRC)违规在三个基准测试中的两个上有所减少。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "ReMaRL: Learning to Unmask and Remask in Frozen Diffusion Language Models",
+    "authors": "Egor Shibaev, Danila Biktimirov, Ivan Klimov, Artem Makoian, Viacheslav Meshchaninov, Dmitry Vetrov",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22576v1",
+    "source": "arXiv",
+    "abstract": "Masked diffusion language models generate tokens in parallel, and the order in which tokens are unmasked affects final-answer accuracy. Several methods learn unmasking policies from task rewards, but these policies cannot remask earlier predictions. Remasking lets the model correct those predictions using newly generated context. Heuristic rules guide both unmasking and remasking, while supervised remaskers learn to detect token errors. Neither approach directly optimizes these decisions for final-answer correctness. To address this gap, we introduce ReMaRL (Remasking with Reinforcement Learning), a lightweight policy that learns which tokens to unmask, retain, or remask. We train this roughly 0.3M-parameter policy with Group Relative Policy Optimization (GRPO) from final-answer rewards while keeping the diffusion model frozen. With LLaDA-8B-Instruct, ReMaRL achieves the highest scores among the compared unmasking and remasking policies within the tested inference budgets of 4-32 model calls on math and 8-16 calls on code.",
+    "title_zh": "ReMaRL：在冻结扩散语言模型中学习去掩码和重新掩码",
+    "abstract_zh": "掩码扩散语言模型并行生成标记，标记解掩的顺序影响最终答案的准确性。一些方法从任务奖励中学习解掩策略，但这些策略无法重新掩码之前的预测。重新掩码使模型能够利用新生成的上下文纠正这些预测。启发式规则指导解掩和重新掩码，而监督式重新掩码器学习检测标记错误。这些方法都没有直接针对最终答案正确性优化这些决策。为解决这一差距，我们引入了ReMaRL（使用强化学习的重新掩码），这是一种轻量级策略，学习解掩、保留或重新掩码哪些标记。我们使用组相对策略优化（GRPO）从最终答案奖励中训练这个约0.3M参数的策略，同时保持扩散模型冻结。使用LLaDA-8B-Instruct，在4-32次模型调用的数学推理预算和8-16次调用的代码生成预算内，ReMaRL在比较的解掩和重新掩码策略中取得了最高分。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Python Code Generation for Isabelle/HOL",
+    "authors": "Nikolaus Huber, Roly Perera, Dominic Orchard",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22613v1",
+    "source": "arXiv",
+    "abstract": "The Isabelle theorem prover provides an environment for formalising mathematics and reasoning about programs. To make verified implementations practically usable, its code generator translates functions expressed in the executable fragment of its logic into conventional programming languages. Its targets have traditionally been functional languages (Standard ML, OCaml, Haskell, and Scala), recently joined by Go. Python, which is becoming the dominant language of scientific computing, data science, and education, has remained out of reach. In this work, we close this gap with a Python backend for Isabelle's code generator. This generator enables verified algorithms to be used in Python applications, or to serve as verified references against which established Python libraries can be differentially tested, without leaving the Python ecosystem. We validate the backend on regression suites covering large parts of the HOL library and by testing six verified data structures and algorithms against established Python libraries. The generated code is slower than hand-written libraries, but well suited as a verified reference.",
+    "title_zh": "Python代码生成Isabelle/HOL\n\nIsabelle/HOL是一种交互式定理证明器，用于形式化验证和数学证明。虽然Isabelle/HOL本身使用一种特定的领域特定语言(DSL)进行编写，但可以使用Python编写脚本来辅助生成Isabelle/HOL理论或证明。\n\n以下是一个简单的Python代码示例，用于生成基本的Isabelle/HOL理论文件：\n\n```python\ndef generate_isabelle_theory(name, imports, types, consts, defs, theorems):\n    \"\"\"\n    生成基本的Isabelle/HOL理论文件\n    \n    参数:\n        name: 理论名称\n        imports: 需要导入的理论列表\n        types: 定义的数据类型列表\n        consts: 常量定义列表\n        defs: 函数定义列表\n        theorems: 定理声明列表\n    \"\"\"\n    theory_content = []\n    \n    # 理论头\n    theory_content.append(f\"theory {name}\")\n    theory_content.append(\"imports\")\n    for imp in imports:\n        theory_content.append(f\"  {imp}\")\n    theory_content.append(\"begin\")\n    theory_content.append(\"\")\n    \n    # 数据类型定义\n    for type_def in types:\n        theory_content.append(f\"datatype {type_def}\")\n    theory_content.append(\"\")\n    \n    # 常量定义\n    for const in consts:\n        theory_content.append(f\"consts {const}\")\n    theory_content.append(\"\")\n    \n    # 函数定义\n    for defn in defs:\n        theory_content.append(f\"defs {defn}\")\n    theory_content.append(\"\")\n    \n    # 定理声明\n    for theorem in theorems:\n        theory_content.append(f\"theorem {theorem}\")\n        theory_content.append(\"  sorry\")\n    theory_content.append(\"\")\n    \n    # 理论结束\n    theory_content.append(\"end\")\n    \n    return \"\\n\".join(theory_content)\n\n# 示例使用\nif __name__ == \"__main__\":\n    theory_name = \"SimpleTheory\"\n    imports = [\"HOL\", \"Main\"]\n    types = [\"list 'a\"]\n    consts = [\"empty :: 'a list\", \"append :: 'a list => 'a list => 'a list\"]\n    defs = [\"append Nil ys = ys\", \"append (Cons x xs) ys = Cons x (append xs ys)\"]\n    theorems = [\"append_Nil: append Nil xs = xs\", \"append_Assoc: append (append xs ys) zs = append xs (append ys zs)\"]\n    \n    isabelle_code = generate_isabelle_theory(theory_name, imports, types, consts, defs, theorems)\n    print(isabelle_code)\n```\n\n这个Python脚本可以生成基本的Isabelle/HOL理论文件。它包括理论头、导入、数据类型定义、常量定义、函数定义和定理声明。\n\n更高级的Python脚本可以:\n1. 解析现有的Isabelle理论并修改它们\n2. 从规范自动生成证明脚本\n3. 创建交互式界面来构建Isabelle理论\n4. 将其他形式化规范转换为Isabelle/HOL\n\n需要注意的是，Isabelle/HOL有自己的语法和证明方法，Python代码生成只是辅助工具，最终的证明仍然需要在Isabelle环境中完成。",
+    "abstract_zh": "Isabelle定理证明器提供了一个用于形式化数学和推理程序的环境。为了使经过验证的实现具有实际可用性，其代码生成器将其逻辑的可执行片段中表达的功能转换为常规编程语言。其目标传统上是函数式语言（Standard ML、OCaml、Haskell和Scala），最近加入了Go。而Python作为科学计算、数据科学和教育领域的主导语言，一直无法被支持。在这项工作中，我们通过为Isabelle的代码生成器添加一个Python后端来填补这一空白。该生成器使得经过验证的算法可以在Python应用程序中使用，或者作为经过验证的参考，用于对已建立的Python库进行差异测试，而无需离开Python生态系统。我们在覆盖HOL库大部分内容的回归测试套件上验证了该后端，并通过将六个经过验证的数据结构和算法与已建立的Python库进行比较测试。生成的代码比手写的库要慢，但非常适合作为经过验证的参考。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Missing Security-Fix Backporting for GitHub Actions Workflows",
+    "authors": "Chengyan Ma, Jieke Shi, Ruidong Han, Weifeng Sun, Yuqing Niu, Yunbo Lyu, Zhou Yang, David Lo",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22519v1",
+    "source": "arXiv",
+    "abstract": "GitHub natively supports workflow automation through GitHub Actions, now the dominant CI/CD tool on the platform. Yet keeping these workflows secure remains an ongoing burden: maintainers often patch a vulnerability on the default branch but leave the same flaw on the release and maintenance branches that downstream consumers continue to build from. Carrying a known fix onto these divergent branches, called backporting, is rarely done, and this paper presents the first large-scale empirical study quantifying the resulting gap. From a public corpus of GitHub Actions workflow histories, we mine 1,903,191 workflow-modifying commits, scan each before and after with the static scanner zizmor to identify 69,865 security fixes across 24,238 projects, and audit every release branch to check whether each fix was carried over. The gap is pervasive: 224,392 of 474,490 audited release branches remain vulnerable, and deliberate backporting is rare and slow, with only 19,476 of 78,907 already-fixed branches confirmed as plausible backports at a median lag of 243 days. We thus design WorkflowBP, the first technique for automated security-fix backporting of GitHub Actions workflows. WorkflowBP takes a neuro-symbolic approach: it compiles a default-branch fix into a domain-specific representation called the Workflow Semantic Patch (WSP) and applies it to each divergent branch by matching jobs and steps based on their content rather than their position, while an LLM synthesizes the WSP for the most divergent cases the deterministic engine cannot resolve. On 12,000 real unpatched workflow files from our study, WorkflowBP produces a scanner-checked backport for 67.9%. We further submit 176 issues with WorkflowBP-generated backports to real-world projects, 44 of which have been confirmed or fixed by developers.",
+    "title_zh": "GitHub 工作流程的安全修复回溯缺失",
+    "abstract_zh": "GitHub通过GitHub Actions原生支持工作流自动化，如今已成为该平台上主导的CI/CD工具。然而，保持这些工作流的安全性仍然是一个持续的负担：维护人员通常在默认分支上修补漏洞，但相同的缺陷仍然存在于下游消费者继续构建的发布和维护分支上。将已知修复应用到这些不同分支的操作（称为反向移植）很少被执行，本文首次进行了大规模实证研究，量化了由此产生的差距。从GitHub Actions工作流历史记录的公共语料库中，我们挖掘了1,903,191个工作流修改提交，使用静态扫描器zizmor在每次修改前后进行扫描，识别出24,238个项目中的69,865个安全修复，并检查每个发布分支以确认每个修复是否已被移植。这一差距普遍存在：在474,490个经过审计的发布分支中，有224,392个仍然存在漏洞，且有意进行的反向移植既罕见又缓慢，在78,907个已修复的分支中，只有19,476个被确认为可能的反向移植，中位延迟为243天。因此，我们设计了WorkflowBP，这是首个用于GitHub Actions工作流安全修复自动反向移植的技术。WorkflowBP采用神经符号方法：它将默认分支的修复编译称为工作流语义补丁(WSP)的领域特定表示，并通过基于内容而非位置匹配作业和步骤，将其应用到每个不同分支上，同时对于确定性引擎无法解决的最复杂情况，则使用大语言模型(LLM)合成WSP。在我们的研究中，针对12,000个真实的未修补工作流文件，WorkflowBP为67.9%的文件生成了经过扫描验证的反向移植。我们进一步将176个包含WorkflowBP生成的反向移植的问题提交到实际项目中，其中44个已被开发人员确认或修复。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "KD-DSE: A Knowledge-Driven LLM Framework for Fast Microarchitecture Design Space Exploration",
+    "authors": "Siqing Fu, Xin Liu, Yuhan Tang, Hanqing Li, Feng Guo",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.22411v1",
+    "source": "arXiv",
+    "abstract": "Domain-specific architectures have made design space exploration (DSE) a bottleneck of processor design, yet each candidate costs a full simulation, so exhaustive search is out of reach. Surrogate models need thousands of simulations before they predict reliably, and LLM agents that search directly hallucinate, lack cold-start architectural knowledge, and follow a fixed per-round policy. We present KD-DSE, a knowledge- driven LLM framework for fast microarchitecture DSE. KD- DSE couples a five-state constrained agent with real gem5- McPAT evaluation, retrieves architect-curated guidance from an Architecture Knowledge Base conditioned on the current search state and bottleneck diagnosis, and allocates its budget with a diagnosis-guided two-phase exploration strategy. On a 29- parameter out-of-order core with a budget of 18 simulations, KD-DSE achieves about 4.8% higher hypervolume and about 21.7% lower ADRS than the state-of-the-art MicroEvo, and the ablation attributes the gain chiefly to the Knowledge Base. These results indicate that constraining LLM reasoning and grounding it in architectural knowledge can drive fast and effective microarchitecture DSE. The code will be open-sourced upon acceptance.",
+    "title_zh": "KD-DSE：一种用于快速微架构设计空间探索的知识驱动大语言模型框架",
+    "abstract_zh": "特定领域架构使得设计空间探索(DSE)成为处理器设计的瓶颈，然而每个候选方案都需要完整的仿真，因此穷举搜索是不可行的。代理模型需要数千次仿真才能可靠预测，而直接搜索的大型语言模型(LLM)代理会产生幻觉，缺乏冷启动架构知识，并遵循固定的每轮策略。我们提出了KD-DSE，一个用于快速微架构DSE的知识驱动LLM框架。KD-DSE将一个五状态约束代理与真实的gem5-McPAT评估相结合，根据当前搜索状态和瓶颈诊断从架构知识库中检索架构专家指导，并采用诊断引导的两阶段探索策略分配其预算。在一个具有29个参数的无序核上，使用18次仿真的预算，KD-DSE实现了比最先进的MicroEVO约4.8%更高的超体积和约21.7%更低的ADRS，消融研究将增益主要归因于知识库。这些结果表明，约束LLM推理并将其基于架构知识可以推动快速有效的微架构DSE。代码将在接受后开源。"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Comparison of LoRA and QLoRA Fine-Tuning Methods on Qwen2.5-Coder-7B for JavaScript Code Generation with TypeScript Dataset",
+    "authors": "Subhan Ghufron, Shofwatul Uyun, Wahyu Andi Rejeki",
+    "publish": "2026 14th International Conference on Cyber and IT Service Management (CITSM)",
+    "url": "https://doi.org/10.1109/citsm71915.2026.11769330",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于TypeScript数据集，使用Qwen2.5-Coder-7B进行JavaScript代码生成的LoRA与QLoRA微调方法比较",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Security Risks in Third-Party Mobile SDKs: Static and Dynamic Analysis of Data Leakage and Permission Overreach",
+    "authors": "Mugunth Chandran, Suresh Kurapati, Elangovan Muniyandy, V Shilpa, Amit Verma, Uthej Mopathi, Akhil Venkata Sai Madineni",
+    "publish": "2026 International Conference on Artificial Intelligence Research and Application (ICAIRA)",
+    "url": "https://doi.org/10.1109/icaira72375.2026.11769095",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "第三方移动SDK的安全风险：数据泄露和权限过度使用的静态与动态分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "CONTEXTA: An LLM-Assisted Framework for Structured Test Case Generation from Software Artifacts",
+    "authors": "Cem Bağlum, Metin Yılmaz, Uğur Yayan",
+    "publish": "2026 Innovations in Intelligent Systems and Applications Conference (ASYU)",
+    "url": "https://doi.org/10.1109/asyu71790.2026.11772252",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "CONTEXTA：一种从软件工件生成结构化测试用例的LLM辅助框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "secRNNlong: Malicious Code Classification Using RNNs with LSTM and Transformers for Improved Cybersecurity",
+    "authors": "Sanjay Charitesh Makam, Chowdhary Aditya Sai Vidivada, Hemanjali Villuri, B Pavan Manideep Reddy, Naresh Kshetri",
+    "publish": "2026 IEEE 4th International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)",
+    "url": "https://doi.org/10.1109/aibthings71029.2026.11771224",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "secRNNlong：使用具有LSTM和Transformers的RNN进行恶意代码分类以增强网络安全",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "ZKScan: A Static Analyzer for Smart Contract Based Zero-Knowledge Proof Verifiers on Blockchains",
+    "authors": "Anik Tahabilder, M M Imran, Changxin Bai, Qiang Zhu, Shiyong Lu",
+    "publish": "2026 IEEE 4th International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)",
+    "url": "https://doi.org/10.1109/aibthings71029.2026.11771375",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "ZKScan：一种基于区块链的智能合约零知识证明验证器的静态分析工具",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "SecBERT-Enhanced Multi-Label Vulnerability Detection for FHEVM Smart Contracts",
+    "authors": "Mario Benedict, Michael Kevin Pratama, Andry Chowanda, Franz Adeta Junior",
+    "publish": "2026 8th International Conference on Cybernetics and Intelligent Systems (ICORIS)",
+    "url": "https://doi.org/10.1109/icoris71889.2026.11768669",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SecBERT增强的多标签FHEVM智能合约漏洞检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "A Large Language Model and Knowledge Graph Based Simulation Modeling Method for Electronic Information Equipment",
+    "authors": "Jian Jiang, Bingfeng Liu, Longfei Cui, Wentai Chang",
+    "publish": "2026 International Conference on Computer Science, Technology and Engineering (ICCSTE)",
+    "url": "https://doi.org/10.1109/iccste71669.2026.11778421",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于大语言模型和知识图谱的电子信息设备仿真建模方法",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "A Code Semantic-Driven Approach to Android Malware Classification via LLMs",
+    "authors": "Keming Lu, Wei Chen",
+    "publish": "Proceedings of the 2026 International Conference on Information Security, Privacy Protection and Artificial Intelligence",
+    "url": "https://doi.org/10.1145/3838122.3838137",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "基于代码语义驱动的利用大语言模型的Android恶意软件分类方法",
+    "abstract_zh": "None"
+  }
+]
