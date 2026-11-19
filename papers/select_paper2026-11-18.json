@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2026-11-18",
+    "title": "Metrics-in-the-Loop: Complexity Feedback Reshapes Agent-Written Code",
+    "authors": "Nicolas Chapados, Jean-François Gagné, Nouha Dziri",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.23817v1",
+    "source": "arXiv",
+    "abstract": "Coding agents now write whole codebases in long autonomous runs, guided mainly by whether their tests pass. Yet passing tests alone does not reveal accumulating complexity or gaps in test coverage, which then persist as agents extend their own code. We introduce metrics-in-the-loop, an inference-time intervention that gives agents in-flight feedback: cheap, automatically computed code metrics injected into the agent's context during the trajectory. After each code-changing agent turn, we insert short feedback messages naming changed functions whose cyclomatic complexity exceeds a limit (complexity feedback) or changed lines that are skipped by tests (coverage feedback), giving the agent the opportunity to refactor code or strengthen tests before continuing. We run extensive experiments and ablations comparing several interventions across three long-horizon coding benchmarks and four strong models. We find that complexity feedback significantly reduces erosion, a measure of complexity concentration of code, without affecting held-out correctness of the code. Broadly, our experiments investigate a practical form of agent \"re-railing\", where timely, actionable measurements redirect agents before weaknesses become the foundation they keep building on. As agents scale to codebases with millions of lines, such interventions become critical to sustaining effective development and long-term code maintainability.",
+    "title_zh": "循环中的指标：复杂度反馈重塑智能体生成的代码",
+    "abstract_zh": "编码代理现在能够在长时间自主运行中编写整个代码库，主要依据测试是否通过来指导。然而，仅通过测试并不能揭示累积的复杂性或测试覆盖范围的缺口，而这些问题和缺口会随着代理扩展自身代码而持续存在。我们引入了\"循环中的指标\"(metrics-in-the-loop)，这是一种推理时的干预措施，为正在运行的代理提供即时反馈：在代理的轨迹过程中，将廉价、自动计算的代码指标注入到代理的上下文中。在每个改变代码的代理回合后，我们插入简短的反馈消息，命名那些循环复杂度超过限制的已更改函数（复杂度反馈）或被测试跳过的已更改代码行（覆盖度反馈），使代理有机会在继续之前重构代码或加强测试。我们进行了广泛的实验和消融研究，比较了三种长期编程基准测试和四种强大模型上的多种干预措施。我们发现，复杂度反馈显著降低了代码的侵蚀（衡量代码复杂度的集中度），同时不影响代码的保留正确性。 broadly，我们的研究探索了一种实用的代理\"重新引导\"形式，即及时、可操作的测量在弱点成为代理持续构建的基础之前将其重定向。随着代理扩展到拥有数百万行代码的代码库，此类干预措施对于维持有效开发和长期代码可维护性变得至关重要。"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Re-Testing LLM-Based C-to-Rust Translations Against Their Original C",
+    "authors": "Muhammad Hassnain",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.23839v1",
+    "source": "arXiv",
+    "abstract": "Most C-to-Rust translators use large language models (LLMs), and each reports a success rate from its own correctness check. We survey 34 C-to-Rust translators that use LLMs. Only one reports testing its check, and eleven release the original C and their Rust in runnable form. We re-test all eleven. We run the C and the Rust on generated inputs, compare every output, and count a divergence only where the C has no undefined behavior. All eleven release defective translations: we find 160 defects, 93 of them outright errors on ordinary inputs. Their own checks accepted 86 defective translations. For 81 of them, the released check never compared the programs on an input that exposes the defect. For three of the other five, it ran one but compared only part of the output. A success rate is only as good as its check. Before counting a translation as a success, authors should compare every output with the C's on inputs the repair loop never saw, check that a verifier reaches its assertion, release exactly what the check accepted, and report how they tested the check.",
+    "title_zh": "基于LLM的C到Rust翻译的重新测试与其原始C代码对比",
+    "abstract_zh": "大多数C到Rust的翻译器都使用大型语言模型（LLMs），并且每个翻译器都通过自己的正确性检查报告成功率。我们调研了34个使用LLMs的C到Rust翻译器。只有其中一个报告测试了其检查方法，十一个以可运行形式发布了原始C代码和对应的Rust代码。我们对这十一个翻译器进行了重新测试。我们在生成的输入上运行C和Rust代码，比较每一条输出，并且仅在C代码没有未定义行为的情况下才计算差异。这十一个翻译器发布的翻译都存在缺陷：我们发现了160个缺陷，其中93个是在普通输入上出现的明显错误。它们自己的检查方法接受了86个有缺陷的翻译。其中81个，发布的检查从未在能够暴露缺陷的输入上比较两个程序。对于其他五个中的三个，检查运行了一次但只比较了部分输出。成功率的好坏取决于其检查方法。在将翻译视为成功之前，作者应该将输出与C代码在修复循环从未见过的输入上进行比较，验证验证器是否到达其断言，发布检查方法接受的完整内容，并报告他们如何测试检查方法。"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Validating Concurrent Correctness Witnesses with Ghosts by Thread-Modular Abstract Interpretation",
+    "authors": "Michael Schwarz, Zhendong Ang, Umang Mathur",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.23792v1",
+    "source": "arXiv",
+    "abstract": "Concurrent programs are notoriously difficult to write and to reason about, and even tools based on sound theoretical foundations can produce incorrect results due to implementation bugs. Correctness witnesses have been proposed as a way to increase the confidence in the verdicts of software verifiers by enabling independent validation. Recently, correctness witnesses have been extended to the concurrent setting, by introducing ghost variables to allow encoding more expressive invariants. While different approaches to producing witnesses with ghosts exist, validation techniques are still lacking; instead of leveraging the information encoded in the ghosts to guide the validation process, validators merely treat ghost instrumentation and invariants over ghost variables as additional proof obligations. We propose a novel framework for the validation of concurrent correctness witnesses that exploits the semantic information encoded in ghost variables. It combines a checking phase, which establishes the semantic content of the ghost instrumentation, with an exploitation phase making use of this information. Both phases are formulated as thread-modular abstract interpretation. In particular, we consider two different classes of ghost variables and techniques for exploiting them, one based on resource invariants and one based on phases. Phase ghosts guide the degree to which the abstract interpretation considers interleavings instead of always abstracting them coarsely. In this way, the abstract interpreter can validate witnesses containing invariants beyond the reach of unguided thread-modular analysis, while still retaining its scalability benefits. We have implemented our framework in a static analyzer and evaluate it on witnesses encoding resource invariants obtained from a state-of-the-art software verifier, as well as on hand-crafted witnesses encoding phase information.",
+    "title_zh": "通过线程模块化抽象解释使用幽灵验证并发正确性见证",
+    "abstract_zh": "并发程序以其难以编写和推理而闻名，即使基于坚实理论基础的工具也可能因实现缺陷而产生不正确的结果。正确性见证已被提出作为一种增加软件验证器判决可信度的方法，通过实现独立验证。最近，通过引入幽灵变量以允许编码更丰富的不变式，正确性见证已被扩展到并发设置。尽管存在多种生成带幽灵变量的见证的方法，但验证技术仍然缺乏；验证器没有利用编码在幽灵变量中的信息来指导验证过程，而是仅将幽灵变量工具和针对幽灵变量的不变式视为额外的证明义务。我们提出了一种用于验证并发正确性见证的新颖框架，该框架利用编码在幽灵变量中的语义信息。它结合了一个检查阶段，用于建立幽灵变量的语义内容，以及一个利用此信息的利用阶段。这两个阶段都被表述为线程模块化抽象解释。特别是，我们考虑了两类不同的幽灵变量及其利用技术，一类基于资源不变式，另一类基于阶段。阶段幽灵变量指导抽象解释在考虑交错时的程度，而不是总是粗略地抽象它们。通过这种方式，抽象解释器可以验证包含超出无引导线程模块化分析范围的不变式的见证，同时仍然保持其可扩展性的优势。我们已经在一个静态分析器中实现了我们的框架，并对其进行了评估，评估对象是从最先进的软件验证器中获得的编码资源不变式的见证，以及编码阶段信息的手工制作的见证。"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "JITAtlas: Checking Lifetime and Protection Obligations in Compiler Rewrites",
+    "authors": "Baihong Chen, Wen Li",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.23715v1",
+    "source": "arXiv",
+    "abstract": "Compiler rewrites can preserve returned values while violating object lifetime or ownership. Such failures arise when a rewrite changes when an object remains live, whether a borrowed pointer stays supported, or what ownership reaches the caller. We present JITAtlas, a source-level checker that reconstructs reference and target computations from optimizer code and checks valid uses, continuous borrow support, and caller-visible ownership. On a 58-input benchmark constructed and labeled independently of JITAtlas output, JITAtlas detects all 29 defects and reports none of 29 safe inputs; PyRefcon detects 20 defects and CpyChecker 18. Across three CPython snapshots, JITAtlas extracts 3,332 rewrite alternatives, retains 801 under recovered receiving contexts, and reports 194 violations. Manual review confirms 92 reports, giving 47.42% precision. End-to-end analysis takes 35.56-42.31 s per snapshot. JITAtlas further identifies 15 new bugs across five failure classes, each with a reproducible proof of concept.",
+    "title_zh": "JITAtlas：检查编译器重写中的生命周期和保护义务",
+    "abstract_zh": "编译器重写可以在违反对象生命周期或所有权的情况下保留返回值。此类失败发生在重写改变对象保持活跃的时间、借用指针是否保持支持，或什么所有权到达调用者时。我们提出了JITAtlas，一个源级检查器，它从优化器代码中重建引用和目标计算，并检查有效使用、连续借用支持和调用者可见的所有权。在一个独立于JITAtlas输出构建和标记的58个输入基准测试中，JITAtlas检测到所有29个缺陷，并且对29个安全输入均未报告；PyRefcon检测到20个缺陷，CpyChecker检测到18个缺陷。在三个CPython快照中，JITAtlas提取了3,332个重写替代方案，在恢复的接收上下文中保留了801个，并报告了194个违规。人工审查确认了92个报告，精确度为47.42%。端到端分析每个快照需要35.56-42.31秒。JITAtlas进一步在五个故障类别中识别出15个新bug，每个都有可重现的概念证明。"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Customized Llm-Driven Circuit Design Optimization Platform",
+    "authors": "Hsiang-Cheng Hsieh, Ming-Hsuan Tsai, Tien-Fu Chen",
+    "publish": "2026 IEEE 39th International System-on-Chip Conference (SOCC)",
+    "url": "https://doi.org/10.1109/socc71045.2026.11773835",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "定制化LLM驱动的电路设计优化平台",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Cooperative LLM and Genetic Programming for Automated RISC-V Verification and Testing",
+    "authors": "Reza Khoshzaban, Sandro Marghella, Piero Bevilacqua, Asma Rastgou, Matteo Sonza Reorda, Riccardo Cantoro",
+    "publish": "2026 IEEE 39th International System-on-Chip Conference (SOCC)",
+    "url": "https://doi.org/10.1109/socc71045.2026.11773808",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于协同大语言模型与遗传编程的RISC-V自动验证与测试",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Learning Structural Manipulability in Gate-Level Netlists Using Graph Neural Networks",
+    "authors": "Rupesh Raj Karn, Ozgur Sinanoglu",
+    "publish": "2026 IEEE 39th International System-on-Chip Conference (SOCC)",
+    "url": "https://doi.org/10.1109/socc71045.2026.11773856",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "使用图神经网络学习门级网表的结构可操纵性",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "From Transistors to SystemVerilog: A GNN-ML Framework for the Automated Behavioral Modeling of Integrated Circuits",
+    "authors": "Karim Osama, Amr Wael, Kareem Atef, Kareem Abdelraof, Hana Maged, Mariam Ahmed, Mostafa Waseem, Ramy Raafat, Mohamed Abd El Ghany",
+    "publish": "2026 IEEE 39th International System-on-Chip Conference (SOCC)",
+    "url": "https://doi.org/10.1109/socc71045.2026.11773866",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "从晶体管到SystemVerilog：用于集成电路自动行为建模的GNN-ML框架",
+    "abstract_zh": "None"
+  }
+]
