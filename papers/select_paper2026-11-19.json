@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-11-19",
+    "title": "A Multi-Agent Framework for End-to-End Software Diagnosis, Repair, Testing, Validation, and Documentation",
+    "authors": "Ganesh Bhutkar, Om Hase, Mayur Ingale, Amit Holkar, Harshal Dhotre",
+    "publish": "2026 6th International Conference on Ubiquitous Computing and Intelligent Information Systems (ICUIS)",
+    "url": "https://doi.org/10.1109/icuis70669.2026.11791062",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "一种用于端到端软件诊断、修复、测试、验证和文档的多智能体框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Low-Code Process Modeling and Static Checking for Automotive EOL Electrical Inspection",
+    "authors": "Pengyu Wang, Yanbo Liang, Yongxin Yu, Jiayan Liu, Zhuoyi Zhou",
+    "publish": "2026 11th International Seminar on Computer Technology, Mechanical and Electrical Engineering (ISCME)",
+    "url": "https://doi.org/10.1109/iscme72045.2026.11782513",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "汽车EOL电气检测的低代码流程建模与静态检查",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Explainable Self Supervised Graph Transformer for Zero Day Hardware Trojan Detection",
+    "authors": "Radhe Saravana Perumal, Shemeer Sulaiman Kunju, Anil Kumar Ratnala, Yeswanth Surampudi, Ranjeet Kumar, Manjula Sanjay Koti",
+    "publish": "2026 3rd International Conference on Electronic Circuits and Signaling Technologies (ICECST)",
+    "url": "https://doi.org/10.1109/icecst70429.2026.11781387",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "可解释的自监督图Transformer用于零日硬件木马检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "SCAOF: A Secure Code Analysis and Optimization Framework Using Hybrid Transformer-GNN Architecture with Adaptive Feature Fusion and Explainable Severity Prediction",
+    "authors": "V. Lakshmi Chaitanya, P. Deepthi, M. Sharmila Devi, T. Vijaya Lakshmi, P. Noorjahan, S. Surekha",
+    "publish": "2026 6th International Conference on Ubiquitous Computing and Intelligent Information Systems (ICUIS)",
+    "url": "https://doi.org/10.1109/icuis70669.2026.11791050",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "SCAOF：一种基于混合Transformer-GNN架构的自适应特征融合与可解释性严重性预测的安全代码分析与优化框架",
+    "abstract_zh": "None"
+  }
+]
