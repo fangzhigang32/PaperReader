@@ -1,0 +1,211 @@
+[
+  {
+    "date": "2026-11-21",
+    "title": "MERC-Annot: Automated Annotation of Modification-Eliciting Code Review Comments with Large Language Models",
+    "authors": "Yongda Yu, Lei Zhang, Guoping Rong, Haifeng Shen, Jiahao Zhang, Haoxiang Yan, Guohao Shi, Dong Shao, He Zhang",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834686",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "MERC-Annot：使用大型语言模型自动标注引发修改的代码审查评论",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Arktan: A Taint Analysis Framework for HarmonyOS ArkTS Application",
+    "authors": "Ning Zhang, Xiaofeng Zhu, Haotian Wu, Junhao Zhang",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834698",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "Arktan：面向HarmonyOS ArkTS应用的污点分析框架",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "CodeCoR: Enhancing LLM Code Generation via Self-Reflective Multi-Agent Collaboration",
+    "authors": "Ruwei Pan, Hongyu Zhang, Chao Liu",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834719",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CodeCoR：通过自反思多智能体协作增强大语言模型代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "SynH-Rank: Quality-Aware Code Search via Diverse Data Synthesis and Hierarchical Ranking Training",
+    "authors": "Keyu Liang, Haoye Wang, Yanfu Yan, Zhiyuan Wan, Zhongxin Liu",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834684",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "SynH-Rank：通过多样数据合成和分层排序训练的质量感知代码搜索",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "LiveSafeRust: Toward Live Static Security Analysis in the Rust LSP Edit Loop",
+    "authors": "Zihao Xu, Yuekang Li",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834732",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "LiveSafeRust：面向Rust LSP编辑循环中的实时静态安全分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Rethinking Agent Memory for Routine Code Fixes: MarkovFix Beats Frontier Agents on Deployable LLM",
+    "authors": "Zhiqing Zhong, Jonathan Kristian Tjandra, Feivel Ehren Hermanto, Ruizhe Ye, Jingyuan Tan, Yuechan Hao, Yuchi Ma, Pinjia He",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834730",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "重新思考代理内存在常规代码修复中的应用：MarkovFix在可部署大语言模型中超越前沿代理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Generative Reasoning vs. Conventional Analysis: How Well Do LLMs Detect Data Races in Concurrent Programs?",
+    "authors": "Xinyin Liao, Zhiwei Lin, Cheng Wen, Jie Su, Shengchao Qin, Xiaoxue Ma, Xiaofeng Li, Cong Tian",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834692",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "生成式推理与传统分析：大语言模型在检测并发程序数据竞争方面的表现如何？",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection",
+    "authors": "Mingyang Sun, Guozhu Meng",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834721",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "DREA：用于存储库级别漏洞检测的解耦推理与探索代理",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "RefAgent: Discovering High-Usability References for Context-Aware Code Generation",
+    "authors": "Haizhuo Yuan, Siqiao Yan, Yanzhen Zou, Tongwei Deng, Junfeng Wang, Yujie Shi, Xutian Li, Bing Xie",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834715",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "RefAgent：面向上下文感知代码生成的高可用性参考发现",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Exploring Large Language Models for Security Bug Localization: An Empirical Study",
+    "authors": "Jiachen Ge, Feifei Niu, Chuanyi Li, Xin Xia",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834688",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "探索大型语言模型在安全漏洞定位中的应用：一项实证研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Securing the OpenHarmony Software Supply Chain: LLM-Based Malicious Code Detection for ArkTS",
+    "authors": "Xuetao Li, Shencheng Dou, Xin Tan, Bohan Wang, Jinyuan Wang, Yuxia Zhang, Guangtai Liang, Hui Liu",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834712",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "保障OpenHarmony软件供应链：基于LLM的ArkTS恶意代码检测",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Bypassing Redundant Safety Checks in Rust via Static Analysis",
+    "authors": "Yunlong Yu, Qingdan Meng, Wei Zhang, Lei Ju",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834682",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过静态分析绕过Rust中的冗余安全检查",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Feedback-Oriented Retrieval and Guided Editing for Java Decompilation",
+    "authors": "Puhua Sun, Xing Hu, Xin Xia",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834697",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "面向反馈的检索与引导编辑用于Java反编译",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "When LLMs Invent Rust Crates: An Empirical Study of Hallucination Patterns and Mitigation",
+    "authors": "Jieming Zheng, Hao Guan, Yepang Liu",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834705",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "当大语言模型发明Rust软件包：关于幻觉模式及缓解措施的实证研究",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "ACSLAgent: Generation and Synthesis of Formal Specifications for C programs via LLM-based Agent",
+    "authors": "Lezhi Ma, Han Wang, Shangqing Liu, Lei Bu",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834731",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "ACSLAgent：基于大语言模型代理的C程序形式化规范生成与合成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "CaVulner: Automated Context-Aware Identification of Vulnerable Versions",
+    "authors": "Xiaoyong Yan, Chengwei Liu, Yukai Cao, Zhiyao Wu, Rui Chang, Wenbo Shen",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834711",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "CaVulner：自动化上下文感知的易受攻击版本识别",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "DFuzz: Differential Fuzzing for Silent Errors in LLM Operator Optimizations",
+    "authors": "Jiayi Wang, Zihan Tang, Daohan Qu, Zenan Li, Yuan Yao, Taolue Chen, Xiaoxing Ma",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834687",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "DFuzz：针对LLM算子优化中静默错误的差异模糊测试",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "KA-DA: Aligning LLMs with Expert Knowledge for Fine-Grained Software Defect Analysis",
+    "authors": "Xuwen Wang, Jiaxin Li, Ruibo Wang, Lin Peng, Linjin Wei, Zhen Zhu, Haodi Lu",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834704",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "KA-DA：利用专家知识对齐大语言模型以实现细粒度软件缺陷分析",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Fixing Atomicity Violations via Task-driven Dynamic Code Abstraction and Repair",
+    "authors": "Yuxuan Li, Bing Xie",
+    "publish": "Proceedings of the 17th International Conference on Internetware",
+    "url": "https://doi.org/10.1145/3834680.3834683",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "通过任务驱动的动态代码抽象与修复解决原子性违规",
+    "abstract_zh": "None"
+  }
+]
