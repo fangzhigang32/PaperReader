@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2026-11-23",
+    "title": "RepoClean: Evaluating Coding Agents on Repository-Level Obsolete Code Cleanup",
+    "authors": "Hongyixuan Yuan, Qixing Zhou, Pengcheng Huang, Qingshuo Ni, Runsong Zhao, Shaokai He, Xiangpeng Li, Deqiang Ouyang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.30350v1",
+    "source": "arXiv",
+    "abstract": "Large language model (LLM) agents have demonstrated strong repository-level programming capabilities. However, as software evolves, repository code may become redundant or obsolete, increasing maintenance costs and potentially introducing functional issues. Agents must therefore identify and remove unnecessary code safely, yet autonomous repository-level code cleanup remains insufficiently evaluated in isolation. To evaluate this capability, we introduce RepoClean, a benchmark of 200 cleanup tasks from 34 popular open-source Python repositories. RepoClean is constructed by automatically reintroducing deleted code from real repository histories into newer versions, preserving current implementations and retaining instances where previously passing tests consequently fail. To restore existing functionality without new feature development, agents must use repository interfaces and cross-file dependencies to determine which historical code to remove and which implementations to preserve. Evaluation of seven models shows that even the best-performing model, GPT-6 Astra, resolves only 23% of tasks. Further analysis reveals that agents remove substantially less obsolete code when cleanup is not explicitly requested. RepoClean provides a foundation for systematically studying these cleanup challenges and advancing coding agents toward autonomous software maintenance.",
+    "title_zh": "RepoClean：在代码仓库级别评估代码代理的过时代码清理能力",
+    "abstract_zh": "大型语言模型(LLM)代理已展现出强大的仓库级编程能力。然而，随着软件的演进，仓库代码可能变得冗余或过时，增加维护成本并可能引入功能问题。因此，代理必须能够安全地识别和删除不必要的代码，但自主仓库级代码清理能力尚未得到充分评估。为评估这一能力，我们引入了RepoClean，这是一个包含来自34个流行的开源Python仓库的200个清理任务的基准测试。RepoClean通过自动将真实仓库历史中已删除的代码重新引入到新版本中构建而成，保留了当前实现，并保留了那些先前通过的测试因此失败的实例。为了在不进行新功能开发的情况下恢复现有功能，代理必须使用仓库接口和跨文件依赖关系来确定删除哪些历史代码以及保留哪些实现。对七个模型的评估显示，即使是表现最好的模型GPT-6 Astra也只解决了23%的任务。进一步分析表明，当清理未被明确请求时，代理删除的过时代码显著减少。RepoClean为系统研究这些清理挑战并推动编码代理向自主软件维护发展奠定了基础。"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "AEGIS: Evidence-Guided Set Decisions for Requirement-to-Code Traceability",
+    "authors": "Zhiyao Wang, Yiming Peng, Munan Li, Mingyue Zhang, Guanghong Li, Jialong Li, Tatsuhiro Tsuchiya",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.30093v1",
+    "source": "arXiv",
+    "abstract": "Requirement-to-code traceability recovery identifies code artifacts that implement a requirement, but manual review costs limit how many candidates developers can inspect. Code relations can reveal candidates missed by textual retrieval, yet can also introduce code unrelated to the requirement. We propose AEGIS, which combines retrieval evidence and code relations to construct and revise trace sets under a project-wide review budget. Grouped retrieval and semantic retrieval supply candidates. A set objective combines relevance to the requirement with structural compatibility. Local search constructs sets of different sizes, and dynamic programming selects one set per requirement within the budget. Call-context admission then compares replacements using evidence from arguments and return values in calls involving protected members, while bounding retrieval-score loss. Across 13 projects, AEGIS achieves the highest project-macro average on nine of ten evaluation metrics among the compared methods. Relative to same-corpus adaptations of TAROT-VSM and FTLR+MC, it improves F$_1$@5 by 33.21% and 52.28%, and MAP by 38.58% and 49.08%, respectively.",
+    "title_zh": "AEGIS：基于证据的集合决策实现需求到代码的可追溯性",
+    "abstract_zh": "需求到代码的可追溯性恢复能够识别实现需求的代码工件，但人工审查的成本限制了开发者能够检查的候选数量。代码关系可以揭示文本检索遗漏的候选，但也可能引入与需求无关的代码。我们提出了AEGIS，它结合检索证据和代码关系，在项目级审查预算下构建和修订可追溯集合。分组检索和语义检索提供候选。集合目标结合了与需求的相关性和结构兼容性。局部搜索构建不同大小的集合，动态编程在预算内为每个需求选择一个集合。然后调用上下文准入使用涉及受保护成员的调用中的参数和返回值证据来比较替换，同时限制检索分数的损失。在13个项目中，AEGIS在十个评估指标中的九个上实现了最高的项目宏观平均值。与TAROT-VSM和FTLR+MC的语料库自适应相比，它将F$_1$@5提高了33.21%和52.28%，将MAP提高了38.58%和49.08%。"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "SAEPO: Sparse-Autoencoder-Guided Credit Assignment for Policy Optimization",
+    "authors": "Yusong Zhao, Zihao Zhao, Zirui Zhang, Tunyu Zhang, Ziyan Wang, Yi Wang, Chengzhi Mao, Hao Wang",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.29936v1",
+    "source": "arXiv",
+    "abstract": "Reinforcement Learning with Verifiable Rewards (RLVR) has demonstrated strong performance in improving large language model (LLM) reasoning, yet its credit-assignment signal remains coarse. Outcome verifiers provide scalable supervision by judging whether a completed response is correct, but they do not directly indicate which intermediate reasoning tokens contribute to success or failure. As a result, policy optimization can be inefficient, especially when training base models directly from sparse outcome feedback. In this paper, we introduce SAEPO, a Sparse AutoEncoder-guided token-level credit assignment method for outcome-supervised Policy Optimization. Rather than treating correctness only as a rollout-level (sequence-level) signal, SAEPO uses a pretrained sparse autoencoder (SAE) to build token-level semantic representations within reasoning trajectories; it scores each token based on the SAE concepts (e.g., penalizing wrong \"final-answer\" tokens but rewarding correct \"reasoning-process\" tokens), learned in an unsupervised manner, to achieve fine-grained credit assignment. SAEPO is a plug-in advantage-shaping module compatible with various policy optimization algorithms. We instantiate SAEPO with both GRPO and GSPO, covering token-ratio and sequence-ratio policy-gradient objectives, and evaluate SAEPO across three LLM backbones on six math and two code benchmarks. Empirical results show that SAEPO improves both the math and code benchmark averages over the matched baselines, with gains of up to 6.63% and 5.57%, respectively. On Qwen3-1.7B-Base, training curves also show faster early accuracy growth. Feature and token-level analyses suggest that the SAE-derived signal favors question-relevant concepts and reasoning tokens.",
+    "title_zh": "SAEPO：基于稀疏自编码器的策略优化信用分配",
+    "abstract_zh": "带可验证奖励的强化学习（RLVR）在提高大语言模型（LLM）推理能力方面表现出色，但其信用分配信号仍然较为粗糙。结果验证器通过判断完成的回答是否正确来提供可扩展的监督，但它们并不直接指示哪些中间推理标记导致了成功或失败。因此，策略优化可能效率低下，特别是在直接从稀疏的结果反馈训练基础模型时。在本文中，我们介绍了SAEPO，一种基于稀疏自编码器引导的标记级信用分配方法，用于结果监督的策略优化。SAEPO不仅仅将正确性视为一个轨迹级（序列级）信号，而是使用预训练的稀疏自编码器（SAE）在推理轨迹中构建标记级语义表示；它基于以无监督方式学习的SAE概念（例如，惩罚错误的\"最终答案\"标记但奖励正确的\"推理过程\"标记）对每个标记进行评分，从而实现细粒度的信用分配。SAEPO是一个即插即用的优势塑造模块，可与各种策略优化算法兼容。我们使用GRPO和GSPO两种算法实现了SAEPO，涵盖了标记比例和序列比例的策略梯度目标，并在三个LLM主干模型上对六个数学和两个代码基准测试进行了评估。实证结果表明，SAEPO在数学和代码基准测试上的平均表现均优于匹配的基线，分别提高了6.63%和5.57%。在Qwen3-1.7B-Base模型上，训练曲线也显示出更快的早期准确率增长。特征和标记级分析表明，SAE衍生的信号有利于问题相关概念和推理标记。"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "A statistical measure of trust in generative AI",
+    "authors": "Alina Ermilova, Valeria Yakupova, Nikita Sushko, Andrey Lovyagin, George Ovchinnikov, Maksim G. Sharaev, Evgeny M. Mirkes, Denis Turdakov, Ivan Y. Tyukin",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.30286v1",
+    "source": "arXiv",
+    "abstract": "Trustworthiness is a crucial issue for generative AI, as modern models can produce convincing and confident responses even when their outputs are incomplete, unsupported, or wrong. The frequent absence of ground-truth knowledge or labels complicates verification of generative AI outputs. To address this issue, we propose a trustworthiness framework grounded in model-internal confidence calibrated against an external expert reference. We estimate per-token trustworthiness of a student generative model as the statistical typicality of each generated token relative to an expert model's distribution, where the expert is used as a distributional reference rather than as a source of factual verification labels. To this end, we introduce an AI ontology calibrator that leverages the student model's internal latent features and token-level output statistics to compute expert-reference acceptance scores. Combined with traditional token-level confidence, entropy, and perplexity statistics, calibrator scores yield a compact set of $15$ response-level indicators for correctness classification. Evaluated across BF program generation, mathematical problem solving, and medical question answering, combined calibrator and traditional indicators provide complementary reliability signal which could be used to build detectors of untrustworthy outputs and hallucinations. Remarkably, our experiments show that these detectors are transferable across domains, although transferability is not always symmetric.",
+    "title_zh": "生成式人工智能的信任度统计指标",
+    "abstract_zh": "对于生成式人工智能而言，可信度是一个至关重要的问题，因为现代模型即使在不完整、缺乏支持或错误的情况下，也能生成令人信服且自信的回应。由于缺乏真实的知识或标签，验证生成式人工智能的输出变得复杂。为解决这一问题，我们提出了一种可信度框架，该框架基于模型内部置信度，并通过外部专家参考进行校准。我们将学生生成模型的每个令牌的可信度估计为相对于专家模型分布的统计典型性，其中专家被用作分布参考，而非事实验证标签的来源。为此，我们引入了一种AI本体校准器，它利用学生模型的内部潜在特征和令牌级输出统计量来计算专家参考接受分数。结合传统的令牌级置信度、熵和困惑度统计量，校准器分数产生了一组包含15个响应级指标的紧凑集合，用于正确性分类。在BF程序生成、数学问题解决和医疗问答等领域的评估中，结合校准器和传统指标提供了互补的可靠性信号，可用于构建不可信输出和幻觉的检测器。值得注意的是，我们的实验表明，这些检测器具有跨领域的可转移性，尽管这种可转移性并不总是对称的。"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym",
+    "authors": "Yikai Zhang, Mai Xu, Yunbei Zhang, Qirui Jin, Kenan Li, Yuwen Jia, Jinwei Yao, Xiangyu Zhang, Jielun Tan, Jin Pan, Zijian Jin, Xiao Sun",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.30207v1",
+    "source": "arXiv",
+    "abstract": "Reinforcement learning (RL) trains coding agents on software tasks whose hidden tests decide the reward, yet task collections check these tests only against the reference fix. We ask what makes a task good training data, focusing on the correctness of its reward labels. We audit SWE-Gym with two LLM families, and a suspected error counts only if execution reproduces it. We find that unsolved often means mislabelled: 74% of the tasks that a 9B base model never solves have a test that rejects correct fixes (a false negative), versus 20% of those it sometimes solves. We repair or remove such tasks, and the audited tasks that remain train better policies. At equal size and matched difficulty, models trained on them score 2.4 and 2.7 points higher on held-out tasks from SWE-bench Verified and SWE-bench Pro than models trained on the original tasks, whereas simply dropping the never-solved tasks shows no such gain. We further find that wrong patches that pass (false positives) make up about a quarter of all passing patches, and that new tests that catch a quarter of them do not change held-out scores detectably. A pass rate shows whether a task yields reward, not whether that reward is right, so the reward labels themselves must be checked. To this end, we release SWE-Gym-Verified with its 1,087 audited tasks, every verdict with its executed evidence, our training sets, and the full audit pipeline.",
+    "title_zh": "什么样的数据适合训练编码代理？一项关于SWE-Gym的系统性研究",
+    "abstract_zh": "强化学习(RL)在软件任务上训练编码智能体，这些任务的隐藏测试决定奖励，但任务集合仅将这些测试与参考修复进行比较。我们探究什么样的任务是良好的训练数据，重点关注其奖励标签的正确性。我们使用两个大型语言模型家族对SWE-Gym进行审计，只有执行重现错误时才将其计为可疑错误。我们发现，未解决的问题往往意味着标签错误：一个90亿参数基础模型从未解决的74%的任务中存在拒绝正确修复的测试（假阴性），而在它有时能解决的任务中这一比例为20%。我们修复或删除了此类任务，剩余的经过审计的任务能够训练出更好的策略。在规模相等和难度匹配的情况下，在这些任务上训练的模型在SWE-bench Verified和SWE-bench Pro的保留任务上得分比在原始任务上训练的模型分别高出2.4和2.7分，而简单地删除从未解决的任务则没有显示出这样的提升。我们还发现，通过的错误修复（假阳性）约占所有通过修复的四分之一，而新增的能捕捉其中四分之一错误的测试并未显著改变保留任务的得分。通过率仅表明任务是否产生奖励，而非该奖励是否正确，因此必须检查奖励标签本身。为此，我们发布了SWE-Gym-Verified，包含其1,087个经过审计的任务，每个判决及其执行证据、我们的训练集和完整的审计流程。"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "LLM-Assisted Software Migration: from Module-Level Transformation to Repository-Level Integration",
+    "authors": "Yanan Zhang, Shengqi Liu, Tao Zhang, Yidi Liu, Alan Tang, Hailong Chen, Yantao Jia",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.29942v1",
+    "source": "arXiv",
+    "abstract": "Software migration adapts an existing implementation to a new language, version, API, framework, or platform while preserving its behavior. Large language models (LLMs) succeed on individual functions and modules, but this success does not readily carry over to entire repositories, particularly deployable applications. This survey reviews LLM-assisted migration from module-level transformation to repository-level integration, culminating in the delivery of complete applications. We analyze 96 sources---including 46 direct migration papers---across four perspectives: (1) supported software engineering activities, (2) model roles as editors or orchestrators, (3) orchestration workflows (agentless, single-agent, or multi-agent), and (4) enabling techniques including knowledge engineering, project context, environment feedback, and model adaptation. We then compare evaluation practices and benchmarks. Although 30 of the 46 studies target repositories, most acceptance evidence relies merely on build success, supplied tests, or static and model-based proxies. Moreover, compilation, visual similarity, test outcomes, and runtime behavior capture fundamentally distinct properties and cannot be conflated into a single success rate. We also identify critical gaps in requirements engineering support and in controlled comparisons of agent architectures. Finally, we discuss six open problems: application integration, platform differences, non-functional properties, generalization, attribution of gains, as well as cost and maintenance.",
+    "title_zh": "LLM辅助的软件迁移：从模块级转换到仓库级集成",
+    "abstract_zh": "软件迁移是将现有实现适配到新语言、版本、API、框架或平台，同时保持其行为不变。大型语言模型(LLMs)在单个函数和模块上取得成功，但这种成功并不能直接扩展到整个代码库，特别是可部署的应用程序。本综述从模块级转换到代码库级集成，全面回顾了LLM辅助的迁移过程，最终交付完整的应用程序。我们从四个角度分析了96个资料来源（包括46篇直接迁移论文）：(1)支持的软件工程活动，(2)模型作为编辑器或编排者的角色，(3)编排工作流程（无代理、单代理或多代理），以及(4) enabling技术，包括知识工程、项目上下文、环境反馈和模型适应。然后我们比较了评估实践和基准。尽管46项研究中有30项针对代码库，但大多数接受证据仅依赖于构建成功、提供的测试或基于静态和模型的代理。此外，编译、视觉相似性、测试结果和运行时行为捕捉了根本不同的属性，不能合并为单一的成功率。我们还确定了在需求工程支持和代理架构的受控比较方面的关键差距。最后，我们讨论了六个开放问题：应用程序集成、平台差异、非功能性属性、泛化能力、收益归因以及成本和维护。"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Does the Agent's Map Match the Territory? Architectural Claims in AI Agent Context Files and Their Fit with the Code",
+    "authors": "Bachan Ghimire, Daniela Damian",
+    "publish": "arXiv",
+    "url": "https://arxiv.org/abs/2611.29916v1",
+    "source": "arXiv",
+    "abstract": "AI coding agents start every session without memory of how a system is built. Developers fill this gap with context files, such as CLAUDE.md and AGENTS.md. Agents treat these files as true, so it matters whether they match the code. We study two kinds of architectural claims that can be checked against a repository: path claims, which name folders and files, and dependency rules, which say what may import what. We check 41,090 path claims and 184 dependency rules from 3,602 context files in 3,346 open-source projects against the code and its history. About 5% of path claims point to paths we cannot find, but we estimate that only 2.2% are real errors, similar to READMEs (3.5%). When code moves, 61% of claims that became stale are fixed, most in the same commit. Dependency rules behave differently: 33 of 184 (18%) were confirmed broken on the day they were written, usually by older code, and nearly all stayed broken. Context files are good maps but less reliable rulebooks: their rules often describe the architecture a team wants, not the one it has. In an exploratory comparison of 7,480 commits, new rule breaks were rare. Agent-assisted commits broke rules about 1.8 times as often as other commits (0.29% vs. 0.16%), but with only 14 breaks this is not significant: an early signal, not evidence of a difference or of its absence. We used an LLM with human review at each step, and discuss what this offers and risks for mining studies.",
+    "title_zh": "代理的地图是否与领土相符？AI代理上下文文件中的架构声明及其与代码的匹配度",
+    "abstract_zh": "AI编码代理在每个会话开始时都没有关于系统构建方式的记忆。开发人员通过上下文文件（如CLAUDE.md和AGENTS.md）来填补这一空白。代理将这些文件视为真实信息，因此它们是否与代码匹配至关重要。我们研究了两种可以与代码库核对的架构声明：路径声明（命名文件夹和文件）和依赖规则（说明什么可以导入什么）。我们检查了来自3,346个开源项目中3,602个上下文文件的41,090个路径声明和184个依赖规则，对照代码及其历史记录。约5%的路径声明指向无法找到的路径，但我们估计只有2.2%是真正的错误，与README文件（3.5%）相似。当代码移动时，61%的过时声明得到了修复，大多数在同一提交中完成。依赖规则的表现不同：184个中有33个（18%）在编写当天就被证实存在缺陷，通常是由旧代码造成的，并且几乎所有这些缺陷一直存在。上下文文件是很好的地图，但作为规则手册的可靠性较低：它们的规则通常描述的是团队想要的架构，而不是实际拥有的架构。在对7,480次提交的探索性比较中，新的规则违规很少见。辅助代理的提交违反规则的频率是其他提交的1.8倍（0.29%对比0.16%），但仅有14次违规，这一差异并不显著：这是一个早期信号，而非存在差异或差异不存在的证据。我们在每个步骤都使用了经过人工审查的大语言模型，并讨论了这对挖掘研究带来的机遇和风险。"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Automatic Generation of Portable RVV Micro-Kernels through a Hybrid MLIR–xDSL Compilation Framework",
+    "authors": "Jie Lei, Héctor Martínez, Adrián Castelló",
+    "publish": "2026 IEEE/SBC 38th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)",
+    "url": "https://doi.org/10.1109/sbac-pad70266.2026.00038",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过混合MLIR–xDSL编译框架自动生成可移植RVV微内核",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Vulnguard: Explainable AI for Software Vulnerability Detection",
+    "authors": "Venkata Sai M, Vignesh V, G.M. Jeevapriya",
+    "publish": "2026 10th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+    "url": "https://doi.org/10.1109/iceca70594.2026.11790163",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "Vulnguard：用于软件漏洞检测的可解释人工智能",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Transformer–LLM Framework for Automated Code Vulnerability Detection in GitHub Repositories",
+    "authors": "S. Nagendrudu, B. Naga Upendra, Farooq Sunar Mahammad, M. V. Subramanyam, T.M Ramesh, D Gowthami",
+    "publish": "2026 10th International Conference on Electronics, Communication and Aerospace Technology (ICECA)",
+    "url": "https://doi.org/10.1109/iceca70594.2026.11789813",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "GitHub仓库中自动化代码漏洞检测的Transformer-LLM框架",
+    "abstract_zh": "None"
+  }
+]
