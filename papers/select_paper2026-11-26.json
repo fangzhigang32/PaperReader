@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-11-26",
+    "title": "Fully-Automated Code Generation for Efficient Computation of Sparse Matrix Permanents on GPUs",
+    "authors": "Deniz Elbek, Kamer Kaya",
+    "publish": "IEEE Transactions on Parallel and Distributed Systems",
+    "url": "https://doi.org/10.1109/tpds.2026.3757889",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "用于在GPU上高效计算稀疏矩阵永久值的全自动代码生成",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Improving LLM-Based Decompilers through Offline and Online Post-Training with Test-Based Feedback",
+    "authors": "Hoyeon Kim, Myeongjin Bae, Haehyun Cho, Dokyung Song",
+    "publish": "IEEE Access",
+    "url": "https://doi.org/10.1109/access.2026.3757448",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "通过基于测试反馈的离线和在线后训练改进基于大语言模型的反编译器",
+    "abstract_zh": "None"
+  }
+]
