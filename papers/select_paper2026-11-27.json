@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-11-27",
+    "title": "Research and Application of an AI-Assisted FPGA Intelligent Development Platform for Vivado",
+    "authors": "Wenqing Wang, Qingliang Meng",
+    "publish": "2026 6th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)",
+    "url": "https://doi.org/10.1109/aiahpc71467.2026.11795096",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "基于Vivado的AI辅助FPGA智能开发平台的研究与应用",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "BiNit: Nitpicking Semantic Bugs in x64 Binary Lifters",
+    "authors": "Jack Royer, Frédéric Tronel, Yaëlle Vinçont",
+    "publish": "Proceedings of the 2026 2nd Workshop on Software Understanding and Reverse Engineering",
+    "url": "https://doi.org/10.1145/3847158.3847383",
+    "source": "ACM",
+    "abstract": "None",
+    "title_zh": "BiNit：在x64二进制提升器中语义错误的吹毛求疵",
+    "abstract_zh": "None"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Automated UVM Testbench Generation from HLS Interface Pragmas",
+    "authors": "Maria-Roxana Petrisor, Valentin Balea, Costin-Emanuel Vasile",
+    "publish": "2026 International Semiconductor Conference (CAS)",
+    "url": "https://doi.org/10.1109/cas71409.2026.11802220",
+    "source": "IEEE",
+    "abstract": "",
+    "title_zh": "从HLS接口指令自动生成UVM测试平台",
+    "abstract_zh": "None"
+  }
+]
